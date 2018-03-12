@@ -1,0 +1,3 @@
+It can be exceedingly annoying to deal with mixed type Series or columns that in most cases we would like to avoid it at the first place;
+However, life may not always meets our expectations, whenever meet a mixed type columns, one good workaround  can be casting all the values in the Series to string so that we can manipulate them with much less effort with the help of Regrex.
+When we want to save the data in a DF to a csv file, then whether the data is of type str or not would not matter.
