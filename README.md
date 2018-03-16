@@ -9,3 +9,4 @@
 	```source acitvate 5148	``` on **linux/mac** or
 	```activate 5148``` on **windows**
 - Alwways remember to check whether you are running the notebook using the kernel that belongs to the intended environment to avoid import error or version conflicts
+- For one not familiar wiht the usage of conda like env creation/management/sharing, it is strongly recommend to give this link: [managing environments](https://conda.io/docs/user-guide/tasks/manage-environments.html) a close look
