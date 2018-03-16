@@ -11,3 +11,4 @@
 	```activate 5148``` on **windows**
 - Alwways remember to check whether you are running the notebook using the kernel that belongs to the intended environment to avoid import error or version conflicts
 - For one not familiar wiht the usage of conda like env creation/management/sharing, it is strongly recommend to give this link: [managing environments](https://conda.io/docs/user-guide/tasks/manage-environments.html) a close look
+- For git/github novice, check out this [book](https://git-scm.com/book/en/v2) from the git creator, whihch is a quite handy and useful tool, if time is a big concern, it is encouraged that al least finish the second chapter with full attention and effort. You can just use this repository as a starting point by: `git clone the_url_of_this_repository` to get a copy of the repo on your local machine
