@@ -21,6 +21,7 @@ dependencies:
   - zlib=1.2.11=ha838bed_2
   - pip:
     - chardet==3.0.4
+    - cycler==0.10.0
     - decorator==4.2.1
     - idna==2.6
     - ipykernel==4.8.2
@@ -29,21 +30,27 @@ dependencies:
     - jedi==0.11.1
     - jupyter-client==5.2.2
     - jupyter-core==4.4.0
+    - kiwisolver==1.0.1
+    - matplotlib==2.2.2
     - numpy==1.14.1
     - pandas==0.22.0
     - parso==0.1.1
+    - pdfminer.six==20170720
     - pexpect==4.4.0
     - pickleshare==0.7.4
     - prompt-toolkit==1.0.15
     - ptyprocess==0.5.2
+    - pycryptodome==3.5.1
     - pygments==2.2.0
+    - pyparsing==2.2.0
     - python-dateutil==2.6.1
     - pytz==2018.3
     - pyzmq==17.0.0
     - requests==2.18.4
+    - scipy==1.0.1
+    - seaborn==0.8.1
     - simplegeneric==0.8.1
     - six==1.11.0
-    - tabula-py==1.0.0
     - tornado==5.0
     - traitlets==4.3.2
     - urllib3==1.22
