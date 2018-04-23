@@ -1,0 +1,44 @@
+{
+    "sid": 123,
+    "name": {
+      "first": "Marie",
+      "last": "Currie"
+    },
+    "course": "MIT",
+    "result": [
+      {
+        "unit_code": "FIT9132",
+        "unit_name": "Database",
+        "synopsis":"This unit will introduce the concept of data management in an organisation through relational database technology.",
+        "semester": 1,
+        "year": [2017, 2018],
+        "mark": 100
+      },
+      {
+        "unit_code": "FIT9131",
+        "unit_name": "Programming",
+        "synopsis":"This unit aims to provide students with the basic concepts involved in the development of well structured software using a programming language.",
+        "semester": [1,2],
+        "year": [2016, 2017, 2018],
+        "mark": 80
+      }
+    ]
+  }
+  {
+    "sid": 124,
+    "name": {
+      "first": "Albert",
+      "last": "Einstein"
+    },
+    "course": "MBIS",
+    "result": [
+      {
+        "unit_code": "FIT9132",
+        "unit_name": "Database",
+        "synopsis":"This unit will introduce the concept of data management in an organisation through relational database technology. Theoretical foundation of relational model, analysis and design, implementation of relational database using SQL will be covered.",
+        "semester": 2,
+        "year": [2017],
+        "mark": 100
+      }
+    ]
+  }
