@@ -1,0 +1,1301 @@
+/*A1*/
+2018-04-28T16:23:56.082+1000 I NETWORK  [listener] connection accepted from 127.0.0.1:36850 #46 (7 connections now open)
+2018-04-28T16:23:56.083+1000	connected to: localhost
+2018-04-28T16:23:56.086+1000 I STORAGE  [conn46] createCollection: fit5148_db.Climate with generated UUID: 5eeccca4-7d28-437d-b483-449efd5edcb9
+2018-04-28T16:23:56.098+1000	imported 366 documents
+2018-04-28T16:23:56.099+1000 I NETWORK  [conn46] end connection 127.0.0.1:36850 (6 connections now open)
+
+2018-04-28T16:24:24.658+1000 I NETWORK  [listener] connection accepted from 127.0.0.1:36852 #47 (7 connections now open)
+2018-04-28T16:24:24.659+1000	connected to: localhost
+2018-04-28T16:24:24.668+1000 I STORAGE  [conn47] createCollection: fit5148_db.Fire with generated UUID: 3a53667e-05f3-47a9-9e60-724ae7737961
+2018-04-28T16:24:24.726+1000	imported 2668 documents
+2018-04-28T16:24:24.726+1000 I NETWORK  [conn47] end connection 127.0.0.1:36852 (6 connections now open)
+
+/*A2*/
+{
+    "_id" : ObjectId("5ae4137cfa96c3278d068ee9"),
+    "Station" : 948702,
+    "Date" : "2017-12-15",
+    "Air Temperature(Celcius)" : 18,
+    "Relative Humidity" : 52,
+    "WindSpeed  (knots)" : 7.1,
+    "Max Wind Speed" : 14,
+    "MAX" : "74.5*",
+    "MIN" : 53.1,
+    "Precipitation" : "0.00I"
+}
+
+/*A3*/
+/* 1 */
+{
+    "Latitude" : -36.4211,
+    "Longitude" : 141.6875,
+    "Confidence" : 97
+}
+
+/* 2 */
+{
+    "Latitude" : -35.6138,
+    "Longitude" : 143.8666,
+    "Confidence" : 91
+}
+
+/* 3 */
+{
+    "Latitude" : -36.0885,
+    "Longitude" : 145.0359,
+    "Confidence" : 95
+}
+
+/* 4 */
+{
+    "Latitude" : -36.3193,
+    "Longitude" : 145.9162,
+    "Confidence" : 96
+}
+
+/* 5 */
+{
+    "Latitude" : -36.6139,
+    "Longitude" : 143.501,
+    "Confidence" : 95
+}
+
+/* 6 */
+{
+    "Latitude" : -37.7889,
+    "Longitude" : 143.1324,
+    "Confidence" : 92
+}
+
+/* 7 */
+{
+    "Latitude" : -36.0652,
+    "Longitude" : 146.0764,
+    "Confidence" : 98
+}
+
+/* 8 */
+{
+    "Latitude" : -36.0682,
+    "Longitude" : 146.0602,
+    "Confidence" : 100
+}
+
+/* 9 */
+{
+    "Latitude" : -37.9509,
+    "Longitude" : 143.9599,
+    "Confidence" : 95
+}
+
+/* 10 */
+{
+    "Latitude" : -36.6224,
+    "Longitude" : 143.5092,
+    "Confidence" : 97
+}
+
+/* 11 */
+{
+    "Latitude" : -38.0933,
+    "Longitude" : 143.9824,
+    "Confidence" : 96
+}
+
+/* 12 */
+{
+    "Latitude" : -36.663,
+    "Longitude" : 142.8567,
+    "Confidence" : 92
+}
+
+/* 13 */
+{
+    "Latitude" : -37.6982,
+    "Longitude" : 143.0549,
+    "Confidence" : 94
+}
+
+/* 14 */
+{
+    "Latitude" : -36.7187,
+    "Longitude" : 143.805,
+    "Confidence" : 95
+}
+
+/* 15 */
+{
+    "Latitude" : -36.7742,
+    "Longitude" : 145.1991,
+    "Confidence" : 100
+}
+
+/* 16 */
+{
+    "Latitude" : -36.5061,
+    "Longitude" : 144.5675,
+    "Confidence" : 91
+}
+
+/* 17 */
+{
+    "Latitude" : -36.4035,
+    "Longitude" : 140.9935,
+    "Confidence" : 100
+}
+
+/* 18 */
+{
+    "Latitude" : -36.4286,
+    "Longitude" : 141.1567,
+    "Confidence" : 99
+}
+
+/* 19 */
+{
+    "Latitude" : -36.3635,
+    "Longitude" : 142.2809,
+    "Confidence" : 91
+}
+
+/* 20 */
+{
+    "Latitude" : -36.6564,
+    "Longitude" : 142.8615,
+    "Confidence" : 91
+}
+
+/* 21 */
+{
+    "Latitude" : -36.664,
+    "Longitude" : 142.8802,
+    "Confidence" : 100
+}
+
+/* 22 */
+{
+    "Latitude" : -36.6657,
+    "Longitude" : 143.1675,
+    "Confidence" : 93
+}
+
+/* 23 */
+{
+    "Latitude" : -36.3961,
+    "Longitude" : 140.9781,
+    "Confidence" : 91
+}
+
+/* 24 */
+{
+    "Latitude" : -36.8742,
+    "Longitude" : 142.7177,
+    "Confidence" : 98
+}
+
+/* 25 */
+{
+    "Latitude" : -36.7708,
+    "Longitude" : 145.1908,
+    "Confidence" : 100
+}
+
+/* 26 */
+{
+    "Latitude" : -36.7751,
+    "Longitude" : 145.1696,
+    "Confidence" : 91
+}
+
+/* 27 */
+{
+    "Latitude" : -37.758,
+    "Longitude" : 143.179,
+    "Confidence" : 98
+}
+
+/* 28 */
+{
+    "Latitude" : -36.5116,
+    "Longitude" : 144.562,
+    "Confidence" : 89
+}
+
+/* 29 */
+{
+    "Latitude" : -37.7609,
+    "Longitude" : 143.1633,
+    "Confidence" : 94
+}
+
+/* 30 */
+{
+    "Latitude" : -36.803,
+    "Longitude" : 142.9261,
+    "Confidence" : 92
+}
+
+/* 31 */
+{
+    "Latitude" : -36.8791,
+    "Longitude" : 142.7261,
+    "Confidence" : 100
+}
+
+/* 32 */
+{
+    "Latitude" : -36.7153,
+    "Longitude" : 143.8226,
+    "Confidence" : 99
+}
+
+/* 33 */
+{
+    "Latitude" : -36.882,
+    "Longitude" : 142.7108,
+    "Confidence" : 92
+}
+
+/* 34 */
+{
+    "Latitude" : -36.7309,
+    "Longitude" : 142.3633,
+    "Confidence" : 100
+}
+
+/* 35 */
+{
+    "Latitude" : -37.5135,
+    "Longitude" : 142.7238,
+    "Confidence" : 93
+}
+
+/* 36 */
+{
+    "Latitude" : -36.2121,
+    "Longitude" : 144.6885,
+    "Confidence" : 94
+}
+
+/* 37 */
+{
+    "Latitude" : -36.2206,
+    "Longitude" : 144.6856,
+    "Confidence" : 97
+}
+
+/* 38 */
+{
+    "Latitude" : -38.0148,
+    "Longitude" : 146.5413,
+    "Confidence" : 87
+}
+
+/* 39 */
+{
+    "Latitude" : -37.8429,
+    "Longitude" : 147.2691,
+    "Confidence" : 96
+}
+
+/* 40 */
+{
+    "Latitude" : -37.8412,
+    "Longitude" : 147.2536,
+    "Confidence" : 100
+}
+
+/* 41 */
+{
+    "Latitude" : -38.0132,
+    "Longitude" : 146.5269,
+    "Confidence" : 88
+}
+
+/* 42 */
+{
+    "Latitude" : -36.5454,
+    "Longitude" : 144.7402,
+    "Confidence" : 100
+}
+
+/* 43 */
+{
+    "Latitude" : -36.7593,
+    "Longitude" : 142.895,
+    "Confidence" : 92
+}
+
+/* 44 */
+{
+    "Latitude" : -36.3435,
+    "Longitude" : 141.5513,
+    "Confidence" : 90
+}
+
+/* 45 */
+{
+    "Latitude" : -36.6942,
+    "Longitude" : 143.8021,
+    "Confidence" : 93
+}
+
+/* 46 */
+{
+    "Latitude" : -36.4046,
+    "Longitude" : 141.1534,
+    "Confidence" : 93
+}
+
+/* 47 */
+{
+    "Latitude" : -36.0594,
+    "Longitude" : 141.5907,
+    "Confidence" : 96
+}
+
+/* 48 */
+{
+    "Latitude" : -36.0576,
+    "Longitude" : 141.6122,
+    "Confidence" : 100
+}
+
+/* 49 */
+{
+    "Latitude" : -36.3459,
+    "Longitude" : 141.5586,
+    "Confidence" : 100
+}
+
+/* 50 */
+{
+    "Latitude" : -36.388,
+    "Longitude" : 141.8309,
+    "Confidence" : 93
+}
+
+/* 51 */
+{
+    "Latitude" : -36.5438,
+    "Longitude" : 144.7548,
+    "Confidence" : 99
+}
+
+/* 52 */
+{
+    "Latitude" : -36.6537,
+    "Longitude" : 143.8781,
+    "Confidence" : 95
+}
+
+/* 53 */
+{
+    "Latitude" : -36.094,
+    "Longitude" : 145.7646,
+    "Confidence" : 90
+}
+
+/* 54 */
+{
+    "Latitude" : -38.1917,
+    "Longitude" : 147.0745,
+    "Confidence" : 100
+}
+
+/* 55 */
+{
+    "Latitude" : -38.1987,
+    "Longitude" : 147.0666,
+    "Confidence" : 95
+}
+
+/* 56 */
+{
+    "Latitude" : -36.9303,
+    "Longitude" : 143.1034,
+    "Confidence" : 70
+}
+
+/* 57 */
+{
+    "Latitude" : -36.5839,
+    "Longitude" : 143.0588,
+    "Confidence" : 100
+}
+
+/* 58 */
+{
+    "Latitude" : -36.3195,
+    "Longitude" : 146.0601,
+    "Confidence" : 83
+}
+
+/* 59 */
+{
+    "Latitude" : -36.5854,
+    "Longitude" : 143.0462,
+    "Confidence" : 100
+}
+
+/* 60 */
+{
+    "Latitude" : -36.3014,
+    "Longitude" : 143.203,
+    "Confidence" : 95
+}
+
+/* 61 */
+{
+    "Latitude" : -36.3332,
+    "Longitude" : 145.8594,
+    "Confidence" : 87
+}
+
+/* 62 */
+{
+    "Latitude" : -37.6775,
+    "Longitude" : 148.5131,
+    "Confidence" : 86
+}
+
+/* 63 */
+{
+    "Latitude" : -36.9111,
+    "Longitude" : 142.692,
+    "Confidence" : 93
+}
+
+/* 64 */
+{
+    "Latitude" : -37.5115,
+    "Longitude" : 143.14,
+    "Confidence" : 99
+}
+
+/* 65 */
+{
+    "Latitude" : -37.769,
+    "Longitude" : 147.94,
+    "Confidence" : 93
+}
+
+/* 66 */
+{
+    "Latitude" : -36.1303,
+    "Longitude" : 146.3606,
+    "Confidence" : 90
+}
+
+/* 67 */
+{
+    "Latitude" : -36.1345,
+    "Longitude" : 146.351,
+    "Confidence" : 98
+}
+
+/* 68 */
+{
+    "Latitude" : -36.1586,
+    "Longitude" : 145.6666,
+    "Confidence" : 99
+}
+
+/* 69 */
+{
+    "Latitude" : -36.5847,
+    "Longitude" : 145.1968,
+    "Confidence" : 96
+}
+
+/* 70 */
+{
+    "Latitude" : -36.1546,
+    "Longitude" : 141.8146,
+    "Confidence" : 88
+}
+
+/* 71 */
+{
+    "Latitude" : -37.9091,
+    "Longitude" : 143.5105,
+    "Confidence" : 87
+}
+
+/* 72 */
+{
+    "Latitude" : -37.9071,
+    "Longitude" : 143.538,
+    "Confidence" : 100
+}
+
+/* 73 */
+{
+    "Latitude" : -36.1559,
+    "Longitude" : 141.8102,
+    "Confidence" : 80
+}
+
+/* 74 */
+{
+    "Latitude" : -37.3902,
+    "Longitude" : 148.2955,
+    "Confidence" : 100
+}
+
+/* 75 */
+{
+    "Latitude" : -37.5027,
+    "Longitude" : 146.347,
+    "Confidence" : 100
+}
+
+/* 76 */
+{
+    "Latitude" : -37.5043,
+    "Longitude" : 146.3299,
+    "Confidence" : 100
+}
+
+/* 77 */
+{
+    "Latitude" : -36.1964,
+    "Longitude" : 144.5217,
+    "Confidence" : 93
+}
+
+/* 78 */
+{
+    "Latitude" : -37.6397,
+    "Longitude" : 142.5968,
+    "Confidence" : 91
+}
+
+/* 79 */
+{
+    "Latitude" : -37.6267,
+    "Longitude" : 142.9993,
+    "Confidence" : 90
+}
+
+/* 80 */
+{
+    "Latitude" : -36.5871,
+    "Longitude" : 144.4958,
+    "Confidence" : 93
+}
+
+/* 81 */
+{
+    "Latitude" : -36.6828,
+    "Longitude" : 144.784,
+    "Confidence" : 90
+}
+
+/* 82 */
+{
+    "Latitude" : -37.4843,
+    "Longitude" : 143.0592,
+    "Confidence" : 89
+}
+
+/* 83 */
+{
+    "Latitude" : -37.6964,
+    "Longitude" : 142.8583,
+    "Confidence" : 91
+}
+
+/* 84 */
+{
+    "Latitude" : -37.7274,
+    "Longitude" : 142.9536,
+    "Confidence" : 94
+}
+
+/* 85 */
+{
+    "Latitude" : -38.0509,
+    "Longitude" : 143.9423,
+    "Confidence" : 98
+}
+
+/* 86 */
+{
+    "Latitude" : -37.9284,
+    "Longitude" : 143.108,
+    "Confidence" : 92
+}
+
+/* 87 */
+{
+    "Latitude" : -37.5701,
+    "Longitude" : 142.6497,
+    "Confidence" : 100
+}
+
+/* 88 */
+{
+    "Latitude" : -36.7101,
+    "Longitude" : 142.3865,
+    "Confidence" : 90
+}
+
+/* 89 */
+{
+    "Latitude" : -38.1693,
+    "Longitude" : 143.0466,
+    "Confidence" : 93
+}
+
+/* 90 */
+{
+    "Latitude" : -36.7128,
+    "Longitude" : 142.3717,
+    "Confidence" : 95
+}
+
+/* 91 */
+{
+    "Latitude" : -37.4885,
+    "Longitude" : 142.0658,
+    "Confidence" : 97
+}
+
+/* 92 */
+{
+    "Latitude" : -36.7101,
+    "Longitude" : 142.981,
+    "Confidence" : 77
+}
+
+/* 93 */
+{
+    "Latitude" : -37.9594,
+    "Longitude" : 143.5638,
+    "Confidence" : 100
+}
+
+/* 94 */
+{
+    "Latitude" : -36.5921,
+    "Longitude" : 144.4905,
+    "Confidence" : 98
+}
+
+/* 95 */
+{
+    "Latitude" : -36.6787,
+    "Longitude" : 144.8042,
+    "Confidence" : 96
+}
+
+/* 96 */
+{
+    "Latitude" : -38.0423,
+    "Longitude" : 146.4048,
+    "Confidence" : 84
+}
+
+/* 97 */
+{
+    "Latitude" : -38.1224,
+    "Longitude" : 143.7553,
+    "Confidence" : 94
+}
+
+/* 98 */
+{
+    "Latitude" : -38.0792,
+    "Longitude" : 143.7361,
+    "Confidence" : 94
+}
+
+/* 99 */
+{
+    "Latitude" : -37.9157,
+    "Longitude" : 143.3544,
+    "Confidence" : 93
+}
+
+/* 100 */
+{
+    "Latitude" : -37.7935,
+    "Longitude" : 143.1606,
+    "Confidence" : 96
+}
+
+/*4*/
+/* 1 */
+{
+    "Date" : "2017-12-16",
+    "Air Temperature(Celcius)" : 18,
+    "Relative Humidity" : 53.7,
+    "Max Wind Speed" : 13,
+    "Surface Temperature (Celcius)" : 54
+}
+
+/* 2 */
+{
+    "Date" : "2017-12-16",
+    "Air Temperature(Celcius)" : 18,
+    "Relative Humidity" : 53.7,
+    "Max Wind Speed" : 13,
+    "Surface Temperature (Celcius)" : 55
+}
+
+/* 3 */
+{
+    "Date" : "2017-12-16",
+    "Air Temperature(Celcius)" : 18,
+    "Relative Humidity" : 53.7,
+    "Max Wind Speed" : 13,
+    "Surface Temperature (Celcius)" : 75
+}
+
+/* 4 */
+{
+    "Date" : "2017-12-16",
+    "Air Temperature(Celcius)" : 18,
+    "Relative Humidity" : 53.7,
+    "Max Wind Speed" : 13,
+    "Surface Temperature (Celcius)" : 66
+}
+
+/* 5 */
+{
+    "Date" : "2017-12-16",
+    "Air Temperature(Celcius)" : 18,
+    "Relative Humidity" : 53.7,
+    "Max Wind Speed" : 13,
+    "Surface Temperature (Celcius)" : 60
+}
+
+/* 6 */
+{
+    "Date" : "2017-12-16",
+    "Air Temperature(Celcius)" : 18,
+    "Relative Humidity" : 53.7,
+    "Max Wind Speed" : 13,
+    "Surface Temperature (Celcius)" : 33
+}
+
+/* 7 */
+{
+    "Date" : "2017-12-16",
+    "Air Temperature(Celcius)" : 18,
+    "Relative Humidity" : 53.7,
+    "Max Wind Speed" : 13,
+    "Surface Temperature (Celcius)" : 43
+}
+
+/* 8 */
+{
+    "Date" : "2017-12-16",
+    "Air Temperature(Celcius)" : 18,
+    "Relative Humidity" : 53.7,
+    "Max Wind Speed" : 13,
+    "Surface Temperature (Celcius)" : 56
+}
+
+/* 9 */
+{
+    "Date" : "2017-12-16",
+    "Air Temperature(Celcius)" : 18,
+    "Relative Humidity" : 53.7,
+    "Max Wind Speed" : 13,
+    "Surface Temperature (Celcius)" : 73
+}
+
+/* 10 */
+{
+    "Date" : "2017-12-16",
+    "Air Temperature(Celcius)" : 18,
+    "Relative Humidity" : 53.7,
+    "Max Wind Speed" : 13,
+    "Surface Temperature (Celcius)" : 55
+}
+
+/* 11 */
+{
+    "Date" : "2017-12-16",
+    "Air Temperature(Celcius)" : 18,
+    "Relative Humidity" : 53.7,
+    "Max Wind Speed" : 13,
+    "Surface Temperature (Celcius)" : 64
+}
+
+/* 12 */
+{
+    "Date" : "2017-12-15",
+    "Air Temperature(Celcius)" : 18,
+    "Relative Humidity" : 52,
+    "Max Wind Speed" : 14,
+    "Surface Temperature (Celcius)" : 40
+}
+
+/* 13 */
+{
+    "Date" : "2017-12-16",
+    "Air Temperature(Celcius)" : 18,
+    "Relative Humidity" : 53.7,
+    "Max Wind Speed" : 13,
+    "Surface Temperature (Celcius)" : 73
+}
+
+/* 14 */
+{
+    "Date" : "2017-12-16",
+    "Air Temperature(Celcius)" : 18,
+    "Relative Humidity" : 53.7,
+    "Max Wind Speed" : 13,
+    "Surface Temperature (Celcius)" : 48
+}
+
+/* 15 */
+{
+    "Date" : "2017-12-16",
+    "Air Temperature(Celcius)" : 18,
+    "Relative Humidity" : 53.7,
+    "Max Wind Speed" : 13,
+    "Surface Temperature (Celcius)" : 55
+}
+
+/* 16 */
+{
+    "Date" : "2017-12-15",
+    "Air Temperature(Celcius)" : 18,
+    "Relative Humidity" : 52,
+    "Max Wind Speed" : 14,
+    "Surface Temperature (Celcius)" : 38
+}
+
+/* 17 */
+{
+    "Date" : "2017-12-16",
+    "Air Temperature(Celcius)" : 18,
+    "Relative Humidity" : 53.7,
+    "Max Wind Speed" : 13,
+    "Surface Temperature (Celcius)" : 57
+}
+
+/* 18 */
+{
+    "Date" : "2017-12-15",
+    "Air Temperature(Celcius)" : 18,
+    "Relative Humidity" : 52,
+    "Max Wind Speed" : 14,
+    "Surface Temperature (Celcius)" : 42
+}
+
+/* 19 */
+{
+    "Date" : "2017-12-15",
+    "Air Temperature(Celcius)" : 18,
+    "Relative Humidity" : 52,
+    "Max Wind Speed" : 14,
+    "Surface Temperature (Celcius)" : 36
+}
+
+/*A5*/
+/* 1 */
+{
+    "Air Temperature(Celcius)" : 28,
+    "Datetime" : "2017-12-27T00:02:15",
+    "Confidence" : 82,
+    "Surface Temperature (Celcius)" : 63
+}
+
+/* 2 */
+{
+    "Air Temperature(Celcius)" : 18,
+    "Datetime" : "2017-12-16T04:34:58",
+    "Confidence" : 84,
+    "Surface Temperature (Celcius)" : 55
+}
+
+/* 3 */
+{
+    "Air Temperature(Celcius)" : 18,
+    "Datetime" : "2017-12-16T04:34:58",
+    "Confidence" : 95,
+    "Surface Temperature (Celcius)" : 75
+}
+
+/* 4 */
+{
+    "Air Temperature(Celcius)" : 18,
+    "Datetime" : "2017-12-16T04:34:57",
+    "Confidence" : 90,
+    "Surface Temperature (Celcius)" : 66
+}
+
+/* 5 */
+{
+    "Air Temperature(Celcius)" : 28,
+    "Datetime" : "2017-12-27T00:02:14",
+    "Confidence" : 86,
+    "Surface Temperature (Celcius)" : 67
+}
+
+/* 6 */
+{
+    "Air Temperature(Celcius)" : 18,
+    "Datetime" : "2017-12-16T15:38:39",
+    "Confidence" : 94,
+    "Surface Temperature (Celcius)" : 43
+}
+
+/* 7 */
+{
+    "Air Temperature(Celcius)" : 18,
+    "Datetime" : "2017-12-16T04:35:13",
+    "Confidence" : 93,
+    "Surface Temperature (Celcius)" : 73
+}
+
+/* 8 */
+{
+    "Air Temperature(Celcius)" : 18,
+    "Datetime" : "2017-12-16T00:20:53",
+    "Confidence" : 82,
+    "Surface Temperature (Celcius)" : 64
+}
+
+/* 9 */
+{
+    "Air Temperature(Celcius)" : 17,
+    "Datetime" : "2017-12-14T04:47:25",
+    "Confidence" : 92,
+    "Surface Temperature (Celcius)" : 70
+}
+
+/* 10 */
+{
+    "Air Temperature(Celcius)" : 18,
+    "Datetime" : "2017-12-16T00:21:12",
+    "Confidence" : 93,
+    "Surface Temperature (Celcius)" : 73
+}
+
+/* 11 */
+{
+    "Air Temperature(Celcius)" : 17,
+    "Datetime" : "2017-12-09T00:14:34",
+    "Confidence" : 87,
+    "Surface Temperature (Celcius)" : 61
+}
+
+/* 12 */
+{
+    "Air Temperature(Celcius)" : 18,
+    "Datetime" : "2017-12-16T00:21:11",
+    "Confidence" : 82,
+    "Surface Temperature (Celcius)" : 55
+}
+
+/* 13 */
+{
+    "Air Temperature(Celcius)" : 17,
+    "Datetime" : "2017-12-09T00:14:33",
+    "Confidence" : 84,
+    "Surface Temperature (Celcius)" : 58
+}
+
+/* 14 */
+{
+    "Air Temperature(Celcius)" : 17,
+    "Datetime" : "2017-12-09T00:14:33",
+    "Confidence" : 86,
+    "Surface Temperature (Celcius)" : 60
+}
+
+/* 15 */
+{
+    "Air Temperature(Celcius)" : 18,
+    "Datetime" : "2017-12-15T13:17:17",
+    "Confidence" : 92,
+    "Surface Temperature (Celcius)" : 42
+}
+
+/* 16 */
+{
+    "Air Temperature(Celcius)" : 26,
+    "Datetime" : "2017-11-30T12:22:15",
+    "Confidence" : 81,
+    "Surface Temperature (Celcius)" : 42
+}
+
+/* 17 */
+{
+    "Air Temperature(Celcius)" : 26,
+    "Datetime" : "2017-11-30T04:34:57",
+    "Confidence" : 98,
+    "Surface Temperature (Celcius)" : 83
+}
+
+/* 18 */
+{
+    "Air Temperature(Celcius)" : 26,
+    "Datetime" : "2017-11-30T04:34:57",
+    "Confidence" : 81,
+    "Surface Temperature (Celcius)" : 57
+}
+
+/* 19 */
+{
+    "Air Temperature(Celcius)" : 28,
+    "Datetime" : "2017-12-13T04:04:19",
+    "Confidence" : 83,
+    "Surface Temperature (Celcius)" : 60
+}
+
+/* 20 */
+{
+    "Air Temperature(Celcius)" : 26,
+    "Datetime" : "2017-11-30T04:34:57",
+    "Confidence" : 99,
+    "Surface Temperature (Celcius)" : 86
+}
+
+/* 21 */
+{
+    "Air Temperature(Celcius)" : 17,
+    "Datetime" : "2017-12-09T00:14:34",
+    "Confidence" : 81,
+    "Surface Temperature (Celcius)" : 54
+}
+
+/* 22 */
+{
+    "Air Temperature(Celcius)" : 26,
+    "Datetime" : "2017-11-30T12:22:15",
+    "Confidence" : 84,
+    "Surface Temperature (Celcius)" : 38
+}
+
+/* 23 */
+{
+    "Air Temperature(Celcius)" : 26,
+    "Datetime" : "2017-11-30T04:35:00",
+    "Confidence" : 84,
+    "Surface Temperature (Celcius)" : 59
+}
+
+/* 24 */
+{
+    "Air Temperature(Celcius)" : 26,
+    "Datetime" : "2017-11-30T04:34:57",
+    "Confidence" : 84,
+    "Surface Temperature (Celcius)" : 61
+}
+
+/* 25 */
+{
+    "Air Temperature(Celcius)" : 26,
+    "Datetime" : "2017-11-30T00:20:53",
+    "Confidence" : 83,
+    "Surface Temperature (Celcius)" : 58
+}
+
+/* 26 */
+{
+    "Air Temperature(Celcius)" : 26,
+    "Datetime" : "2017-11-30T00:20:53",
+    "Confidence" : 87,
+    "Surface Temperature (Celcius)" : 63
+}
+
+/* 27 */
+{
+    "Air Temperature(Celcius)" : 26,
+    "Datetime" : "2017-11-30T00:20:53",
+    "Confidence" : 81,
+    "Surface Temperature (Celcius)" : 55
+}
+
+/* 28 */
+{
+    "Air Temperature(Celcius)" : 26,
+    "Datetime" : "2017-11-30T00:20:53",
+    "Confidence" : 81,
+    "Surface Temperature (Celcius)" : 56
+}
+
+/* 29 */
+{
+    "Air Temperature(Celcius)" : 26,
+    "Datetime" : "2017-11-30T00:20:53",
+    "Confidence" : 95,
+    "Surface Temperature (Celcius)" : 76
+}
+
+/* 30 */
+{
+    "Air Temperature(Celcius)" : 28,
+    "Datetime" : "2017-11-29T03:52:10",
+    "Confidence" : 97,
+    "Surface Temperature (Celcius)" : 80
+}
+
+/* 31 */
+{
+    "Air Temperature(Celcius)" : 24,
+    "Datetime" : "2017-11-23T04:28:59",
+    "Confidence" : 84,
+    "Surface Temperature (Celcius)" : 60
+}
+
+/* 32 */
+{
+    "Air Temperature(Celcius)" : 28,
+    "Datetime" : "2017-11-29T03:52:10",
+    "Confidence" : 99,
+    "Surface Temperature (Celcius)" : 84
+}
+
+/* 33 */
+{
+    "Air Temperature(Celcius)" : 24,
+    "Datetime" : "2017-11-23T04:28:59",
+    "Confidence" : 93,
+    "Surface Temperature (Celcius)" : 73
+}
+
+/* 34 */
+{
+    "Air Temperature(Celcius)" : 24,
+    "Datetime" : "2017-11-13T03:52:15",
+    "Confidence" : 87,
+    "Surface Temperature (Celcius)" : 61
+}
+
+/* 35 */
+{
+    "Air Temperature(Celcius)" : 24,
+    "Datetime" : "2017-11-13T03:52:14",
+    "Confidence" : 81,
+    "Surface Temperature (Celcius)" : 53
+}
+
+/* 36 */
+{
+    "Air Temperature(Celcius)" : 23,
+    "Datetime" : "2017-11-22T03:46:00",
+    "Confidence" : 84,
+    "Surface Temperature (Celcius)" : 59
+}
+
+/* 37 */
+{
+    "Air Temperature(Celcius)" : 28,
+    "Datetime" : "2017-11-14T04:35:04",
+    "Confidence" : 87,
+    "Surface Temperature (Celcius)" : 65
+}
+
+/* 38 */
+{
+    "Air Temperature(Celcius)" : 23,
+    "Datetime" : "2017-11-22T03:46:00",
+    "Confidence" : 88,
+    "Surface Temperature (Celcius)" : 64
+}
+
+/* 39 */
+{
+    "Air Temperature(Celcius)" : 24,
+    "Datetime" : "2017-11-21T00:27:21",
+    "Confidence" : 85,
+    "Surface Temperature (Celcius)" : 59
+}
+
+/* 40 */
+{
+    "Air Temperature(Celcius)" : 18,
+    "Datetime" : "2017-11-12T00:33:15",
+    "Confidence" : 89,
+    "Surface Temperature (Celcius)" : 69
+}
+
+/* 41 */
+{
+    "Air Temperature(Celcius)" : 18,
+    "Datetime" : "2017-11-11T04:04:25",
+    "Confidence" : 86,
+    "Surface Temperature (Celcius)" : 60
+}
+
+/* 42 */
+{
+    "Air Temperature(Celcius)" : 14,
+    "Datetime" : "2017-11-09T04:16:48",
+    "Confidence" : 85,
+    "Surface Temperature (Celcius)" : 59
+}
+
+/* 43 */
+{
+    "Air Temperature(Celcius)" : 14,
+    "Datetime" : "2017-11-09T04:16:44",
+    "Confidence" : 87,
+    "Surface Temperature (Celcius)" : 62
+}
+
+/* 44 */
+{
+    "Air Temperature(Celcius)" : 14,
+    "Datetime" : "2017-11-09T04:16:44",
+    "Confidence" : 97,
+    "Surface Temperature (Celcius)" : 80
+}
+
+/* 45 */
+{
+    "Air Temperature(Celcius)" : 14,
+    "Datetime" : "2017-11-09T04:16:48",
+    "Confidence" : 96,
+    "Surface Temperature (Celcius)" : 77
+}
+
+/* 46 */
+{
+    "Air Temperature(Celcius)" : 13,
+    "Datetime" : "2017-11-05T04:41:19",
+    "Confidence" : 89,
+    "Surface Temperature (Celcius)" : 62
+}
+
+/* 47 */
+{
+    "Air Temperature(Celcius)" : 13,
+    "Datetime" : "2017-11-05T04:41:34",
+    "Confidence" : 83,
+    "Surface Temperature (Celcius)" : 58
+}
+
+/* 48 */
+{
+    "Air Temperature(Celcius)" : 15,
+    "Datetime" : "2017-10-28T03:52:17",
+    "Confidence" : 81,
+    "Surface Temperature (Celcius)" : 56
+}
+
+/* 49 */
+{
+    "Air Temperature(Celcius)" : 13,
+    "Datetime" : "2017-11-05T04:41:19",
+    "Confidence" : 90,
+    "Surface Temperature (Celcius)" : 65
+}
+
+/* 50 */
+{
+    "Air Temperature(Celcius)" : 22,
+    "Datetime" : "2017-10-27T04:47:31",
+    "Confidence" : 86,
+    "Surface Temperature (Celcius)" : 60
+}
+
