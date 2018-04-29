@@ -1299,3 +1299,805 @@
     "Surface Temperature (Celcius)" : 60
 }
 
+/*A6*/
+/* 1 */
+{
+    "Station" : 948701,
+    "Date" : "2017-04-18",
+    "Air Temperature(Celcius)" : 15,
+    "Relative Humidity" : 56.1,
+    "WindSpeed  (knots)" : 5.1,
+    "Max Wind Speed" : 9.9,
+    "MAX" : "69.8*",
+    "MIN" : 46.8,
+    "Precipitation" : "0.00I",
+    "Latitude" : -38.1665,
+    "Longitude" : 143.062,
+    "Surface Temperature (kelvin)" : 397.5,
+    "Datetime" : "2017-04-18T04:52:00",
+    "Power" : 239.8,
+    "Confidence" : 100,
+    "Surface Temperature (Celcius)" : 124
+}
+
+/* 2 */
+{
+    "Station" : 948701,
+    "Date" : "2017-04-04",
+    "Air Temperature(Celcius)" : 16,
+    "Relative Humidity" : 47.5,
+    "WindSpeed  (knots)" : 5.4,
+    "Max Wind Speed" : 12,
+    "MAX" : "73.4*",
+    "MIN" : 46.8,
+    "Precipitation" : "0.00I",
+    "Latitude" : -36.343,
+    "Longitude" : 142.1986,
+    "Surface Temperature (kelvin)" : 396.3,
+    "Datetime" : "2017-04-04T04:32:50",
+    "Power" : 233.4,
+    "Confidence" : 100,
+    "Surface Temperature (Celcius)" : 123
+}
+
+/* 3 */
+{
+    "Station" : 948701,
+    "Date" : "2017-05-01",
+    "Air Temperature(Celcius)" : 14,
+    "Relative Humidity" : 49.2,
+    "WindSpeed  (knots)" : 10.5,
+    "Max Wind Speed" : 20,
+    "MAX" : "67.5*",
+    "MIN" : "51.3*",
+    "Precipitation" : "0.12G",
+    "Latitude" : -36.9318,
+    "Longitude" : 143.0907,
+    "Surface Temperature (kelvin)" : 396,
+    "Datetime" : "2017-05-01T04:14:20",
+    "Power" : 236,
+    "Confidence" : 100,
+    "Surface Temperature (Celcius)" : 122
+}
+
+/* 4 */
+{
+    "Station" : 948701,
+    "Date" : "2017-03-18",
+    "Air Temperature(Celcius)" : 21,
+    "Relative Humidity" : 52.8,
+    "WindSpeed  (knots)" : 4.1,
+    "Max Wind Speed" : 11.1,
+    "MAX" : "84.9*",
+    "MIN" : 51.6,
+    "Precipitation" : "0.00I",
+    "Latitude" : -37.017,
+    "Longitude" : 148.1297,
+    "Surface Temperature (kelvin)" : 394.3,
+    "Datetime" : "2017-03-18T03:50:50",
+    "Power" : 224.3,
+    "Confidence" : 100,
+    "Surface Temperature (Celcius)" : 121
+}
+
+/* 5 */
+{
+    "Station" : 948701,
+    "Date" : "2017-05-13",
+    "Air Temperature(Celcius)" : 9,
+    "Relative Humidity" : 44,
+    "WindSpeed  (knots)" : 2.8,
+    "Max Wind Speed" : 8,
+    "MAX" : "58.5*",
+    "MIN" : "41.4*",
+    "Precipitation" : "0.00I",
+    "Latitude" : -34.9938,
+    "Longitude" : 141.876,
+    "Surface Temperature (kelvin)" : 394,
+    "Datetime" : "2017-05-13T04:40:20",
+    "Power" : 223.8,
+    "Confidence" : 100,
+    "Surface Temperature (Celcius)" : 120
+}
+
+/* 6 */
+{
+    "Station" : 948701,
+    "Date" : "2017-04-04",
+    "Air Temperature(Celcius)" : 16,
+    "Relative Humidity" : 47.5,
+    "WindSpeed  (knots)" : 5.4,
+    "Max Wind Speed" : 12,
+    "MAX" : "73.4*",
+    "MIN" : 46.8,
+    "Precipitation" : "0.00I",
+    "Latitude" : -36.3521,
+    "Longitude" : 142.2008,
+    "Surface Temperature (kelvin)" : 394,
+    "Datetime" : "2017-04-04T04:32:40",
+    "Power" : 218.7,
+    "Confidence" : 100,
+    "Surface Temperature (Celcius)" : 120
+}
+
+/* 7 */
+{
+    "Station" : 948701,
+    "Date" : "2017-04-13",
+    "Air Temperature(Celcius)" : 16,
+    "Relative Humidity" : 54.9,
+    "WindSpeed  (knots)" : 5.9,
+    "Max Wind Speed" : 9.9,
+    "MAX" : "69.1*",
+    "MIN" : 48.2,
+    "Precipitation" : "0.00I",
+    "Latitude" : -37.0745,
+    "Longitude" : 141.0692,
+    "Surface Temperature (kelvin)" : 393.7,
+    "Datetime" : "2017-04-13T04:28:10",
+    "Power" : 218.7,
+    "Confidence" : 100,
+    "Surface Temperature (Celcius)" : 120
+}
+
+/* 8 */
+{
+    "Station" : 948701,
+    "Date" : "2017-04-04",
+    "Air Temperature(Celcius)" : 16,
+    "Relative Humidity" : 47.5,
+    "WindSpeed  (knots)" : 5.4,
+    "Max Wind Speed" : 12,
+    "MAX" : "73.4*",
+    "MIN" : 46.8,
+    "Precipitation" : "0.00I",
+    "Latitude" : -36.1057,
+    "Longitude" : 141.7608,
+    "Surface Temperature (kelvin)" : 393.8,
+    "Datetime" : "2017-04-04T04:40:00",
+    "Power" : 212.5,
+    "Confidence" : 100,
+    "Surface Temperature (Celcius)" : 120
+}
+
+/* 9 */
+{
+    "Station" : 948701,
+    "Date" : "2017-04-18",
+    "Air Temperature(Celcius)" : 15,
+    "Relative Humidity" : 56.1,
+    "WindSpeed  (knots)" : 5.1,
+    "Max Wind Speed" : 9.9,
+    "MAX" : "69.8*",
+    "MIN" : 46.8,
+    "Precipitation" : "0.00I",
+    "Latitude" : -37.8326,
+    "Longitude" : 143.4999,
+    "Surface Temperature (kelvin)" : 393.8,
+    "Datetime" : "2017-04-18T04:44:50",
+    "Power" : 220.4,
+    "Confidence" : 100,
+    "Surface Temperature (Celcius)" : 120
+}
+
+/* 10 */
+{
+    "Station" : 948701,
+    "Date" : "2017-05-04",
+    "Air Temperature(Celcius)" : 10,
+    "Relative Humidity" : 43.3,
+    "WindSpeed  (knots)" : 2.6,
+    "Max Wind Speed" : 7,
+    "MAX" : "59.7*",
+    "MIN" : 39.4,
+    "Precipitation" : "0.00I",
+    "Latitude" : -36.4057,
+    "Longitude" : 140.9806,
+    "Surface Temperature (kelvin)" : 392.2,
+    "Datetime" : "2017-05-04T04:44:50",
+    "Power" : 214.4,
+    "Confidence" : 100,
+    "Surface Temperature (Celcius)" : 119
+}
+
+/*A7*/
+/* 1 */
+{
+    "NumberOfFire" : 3.0,
+    "Date" : "2017-03-09"
+}
+
+/* 2 */
+{
+    "NumberOfFire" : 8.0,
+    "Date" : "2017-03-10"
+}
+
+/* 3 */
+{
+    "NumberOfFire" : 2.0,
+    "Date" : "2017-03-13"
+}
+
+/* 4 */
+{
+    "NumberOfFire" : 7.0,
+    "Date" : "2017-03-15"
+}
+
+/* 5 */
+{
+    "NumberOfFire" : 3.0,
+    "Date" : "2017-03-18"
+}
+
+/* 6 */
+{
+    "NumberOfFire" : 21.0,
+    "Date" : "2017-03-19"
+}
+
+/* 7 */
+{
+    "NumberOfFire" : 2.0,
+    "Date" : "2017-03-24"
+}
+
+/* 8 */
+{
+    "NumberOfFire" : 54.0,
+    "Date" : "2017-03-28"
+}
+
+/* 9 */
+{
+    "NumberOfFire" : 1.0,
+    "Date" : "2017-03-29"
+}
+
+/* 10 */
+{
+    "NumberOfFire" : 5.0,
+    "Date" : "2017-04-02"
+}
+
+/* 11 */
+{
+    "NumberOfFire" : 72.0,
+    "Date" : "2017-04-03"
+}
+
+/* 12 */
+{
+    "NumberOfFire" : 49.0,
+    "Date" : "2017-04-05"
+}
+
+/* 13 */
+{
+    "NumberOfFire" : 24.0,
+    "Date" : "2017-04-11"
+}
+
+/* 14 */
+{
+    "NumberOfFire" : 69.0,
+    "Date" : "2017-04-12"
+}
+
+/* 15 */
+{
+    "NumberOfFire" : 39.0,
+    "Date" : "2017-04-07"
+}
+
+/* 16 */
+{
+    "NumberOfFire" : 357.0,
+    "Date" : "2017-04-13"
+}
+
+/* 17 */
+{
+    "NumberOfFire" : 18.0,
+    "Date" : "2017-04-14"
+}
+
+/* 18 */
+{
+    "NumberOfFire" : 69.0,
+    "Date" : "2017-04-15"
+}
+
+/* 19 */
+{
+    "NumberOfFire" : 38.0,
+    "Date" : "2017-04-17"
+}
+
+/* 20 */
+{
+    "NumberOfFire" : 325.0,
+    "Date" : "2017-04-18"
+}
+
+/* 21 */
+{
+    "NumberOfFire" : 31.0,
+    "Date" : "2017-04-20"
+}
+
+/* 22 */
+{
+    "NumberOfFire" : 2.0,
+    "Date" : "2017-04-22"
+}
+
+/* 23 */
+{
+    "NumberOfFire" : 8.0,
+    "Date" : "2017-04-24"
+}
+
+/* 24 */
+{
+    "NumberOfFire" : 20.0,
+    "Date" : "2017-05-01"
+}
+
+/* 25 */
+{
+    "NumberOfFire" : 89.0,
+    "Date" : "2017-04-04"
+}
+
+/* 26 */
+{
+    "NumberOfFire" : 10.0,
+    "Date" : "2017-05-02"
+}
+
+/* 27 */
+{
+    "NumberOfFire" : 3.0,
+    "Date" : "2017-04-25"
+}
+
+/* 28 */
+{
+    "NumberOfFire" : 64.0,
+    "Date" : "2017-05-03"
+}
+
+/* 29 */
+{
+    "NumberOfFire" : 17.0,
+    "Date" : "2017-05-06"
+}
+
+/* 30 */
+{
+    "NumberOfFire" : 5.0,
+    "Date" : "2017-03-12"
+}
+
+/* 31 */
+{
+    "NumberOfFire" : 3.0,
+    "Date" : "2017-05-07"
+}
+
+/* 32 */
+{
+    "NumberOfFire" : 2.0,
+    "Date" : "2017-09-29"
+}
+
+/* 33 */
+{
+    "NumberOfFire" : 2.0,
+    "Date" : "2017-07-31"
+}
+
+/* 34 */
+{
+    "NumberOfFire" : 9.0,
+    "Date" : "2017-06-04"
+}
+
+/* 35 */
+{
+    "NumberOfFire" : 1.0,
+    "Date" : "2017-10-08"
+}
+
+/* 36 */
+{
+    "NumberOfFire" : 6.0,
+    "Date" : "2017-03-17"
+}
+
+/* 37 */
+{
+    "NumberOfFire" : 118.0,
+    "Date" : "2017-04-06"
+}
+
+/* 38 */
+{
+    "NumberOfFire" : 1.0,
+    "Date" : "2017-10-09"
+}
+
+/* 39 */
+{
+    "NumberOfFire" : 19.0,
+    "Date" : "2017-04-23"
+}
+
+/* 40 */
+{
+    "NumberOfFire" : 5.0,
+    "Date" : "2017-09-20"
+}
+
+/* 41 */
+{
+    "NumberOfFire" : 4.0,
+    "Date" : "2017-12-15"
+}
+
+/* 42 */
+{
+    "NumberOfFire" : 5.0,
+    "Date" : "2017-10-17"
+}
+
+/* 43 */
+{
+    "NumberOfFire" : 1.0,
+    "Date" : "2017-10-28"
+}
+
+/* 44 */
+{
+    "NumberOfFire" : 1.0,
+    "Date" : "2017-10-23"
+}
+
+/* 45 */
+{
+    "NumberOfFire" : 6.0,
+    "Date" : "2017-10-18"
+}
+
+/* 46 */
+{
+    "NumberOfFire" : 7.0,
+    "Date" : "2017-04-01"
+}
+
+/* 47 */
+{
+    "NumberOfFire" : 4.0,
+    "Date" : "2017-10-21"
+}
+
+/* 48 */
+{
+    "NumberOfFire" : 19.0,
+    "Date" : "2017-05-11"
+}
+
+/* 49 */
+{
+    "NumberOfFire" : 3.0,
+    "Date" : "2017-10-20"
+}
+
+/* 50 */
+{
+    "NumberOfFire" : 135.0,
+    "Date" : "2017-05-04"
+}
+
+/*A8*/
+/* 1 */
+{
+    "AverageSurfaceTemp" : 46.6666666666667,
+    "Date" : "2017-03-09"
+}
+
+/* 2 */
+{
+    "AverageSurfaceTemp" : 69.375,
+    "Date" : "2017-03-10"
+}
+
+/* 3 */
+{
+    "AverageSurfaceTemp" : 38.5,
+    "Date" : "2017-03-13"
+}
+
+/* 4 */
+{
+    "AverageSurfaceTemp" : 46.0,
+    "Date" : "2017-03-15"
+}
+
+/* 5 */
+{
+    "AverageSurfaceTemp" : 79.3333333333333,
+    "Date" : "2017-03-18"
+}
+
+/* 6 */
+{
+    "AverageSurfaceTemp" : 65.5714285714286,
+    "Date" : "2017-03-19"
+}
+
+/* 7 */
+{
+    "AverageSurfaceTemp" : 49.0,
+    "Date" : "2017-03-24"
+}
+
+/* 8 */
+{
+    "AverageSurfaceTemp" : 60.9259259259259,
+    "Date" : "2017-03-28"
+}
+
+/* 9 */
+{
+    "AverageSurfaceTemp" : 51.0,
+    "Date" : "2017-03-29"
+}
+
+/* 10 */
+{
+    "AverageSurfaceTemp" : 45.2,
+    "Date" : "2017-04-02"
+}
+
+/* 11 */
+{
+    "AverageSurfaceTemp" : 58.4444444444444,
+    "Date" : "2017-04-03"
+}
+
+/* 12 */
+{
+    "AverageSurfaceTemp" : 53.1428571428571,
+    "Date" : "2017-04-05"
+}
+
+/* 13 */
+{
+    "AverageSurfaceTemp" : 46.2916666666667,
+    "Date" : "2017-04-11"
+}
+
+/* 14 */
+{
+    "AverageSurfaceTemp" : 52.695652173913,
+    "Date" : "2017-04-12"
+}
+
+/* 15 */
+{
+    "AverageSurfaceTemp" : 50.6923076923077,
+    "Date" : "2017-04-07"
+}
+
+/* 16 */
+{
+    "AverageSurfaceTemp" : 58.5798319327731,
+    "Date" : "2017-04-13"
+}
+
+/* 17 */
+{
+    "AverageSurfaceTemp" : 61.9444444444444,
+    "Date" : "2017-04-14"
+}
+
+/* 18 */
+{
+    "AverageSurfaceTemp" : 59.5797101449275,
+    "Date" : "2017-04-15"
+}
+
+/* 19 */
+{
+    "AverageSurfaceTemp" : 50.9210526315789,
+    "Date" : "2017-04-17"
+}
+
+/* 20 */
+{
+    "AverageSurfaceTemp" : 53.3661538461538,
+    "Date" : "2017-04-18"
+}
+
+/* 21 */
+{
+    "AverageSurfaceTemp" : 56.5806451612903,
+    "Date" : "2017-04-20"
+}
+
+/* 22 */
+{
+    "AverageSurfaceTemp" : 54.5,
+    "Date" : "2017-04-22"
+}
+
+/* 23 */
+{
+    "AverageSurfaceTemp" : 59.375,
+    "Date" : "2017-04-24"
+}
+
+/* 24 */
+{
+    "AverageSurfaceTemp" : 68.4,
+    "Date" : "2017-05-01"
+}
+
+/* 25 */
+{
+    "AverageSurfaceTemp" : 62.5730337078652,
+    "Date" : "2017-04-04"
+}
+
+/* 26 */
+{
+    "AverageSurfaceTemp" : 55.6,
+    "Date" : "2017-05-02"
+}
+
+/* 27 */
+{
+    "AverageSurfaceTemp" : 48.6666666666667,
+    "Date" : "2017-04-25"
+}
+
+/* 28 */
+{
+    "AverageSurfaceTemp" : 56.796875,
+    "Date" : "2017-05-03"
+}
+
+/* 29 */
+{
+    "AverageSurfaceTemp" : 57.5294117647059,
+    "Date" : "2017-05-06"
+}
+
+/* 30 */
+{
+    "AverageSurfaceTemp" : 88.2,
+    "Date" : "2017-03-12"
+}
+
+/* 31 */
+{
+    "AverageSurfaceTemp" : 50.3333333333333,
+    "Date" : "2017-05-07"
+}
+
+/* 32 */
+{
+    "AverageSurfaceTemp" : 43.0,
+    "Date" : "2017-09-29"
+}
+
+/* 33 */
+{
+    "AverageSurfaceTemp" : 47.0,
+    "Date" : "2017-07-31"
+}
+
+/* 34 */
+{
+    "AverageSurfaceTemp" : 52.2222222222222,
+    "Date" : "2017-06-04"
+}
+
+/* 35 */
+{
+    "AverageSurfaceTemp" : 41.0,
+    "Date" : "2017-10-08"
+}
+
+/* 36 */
+{
+    "AverageSurfaceTemp" : 59.5,
+    "Date" : "2017-03-17"
+}
+
+/* 37 */
+{
+    "AverageSurfaceTemp" : 61.7118644067797,
+    "Date" : "2017-04-06"
+}
+
+/* 38 */
+{
+    "AverageSurfaceTemp" : 44.0,
+    "Date" : "2017-10-09"
+}
+
+/* 39 */
+{
+    "AverageSurfaceTemp" : 53.8947368421053,
+    "Date" : "2017-04-23"
+}
+
+/* 40 */
+{
+    "AverageSurfaceTemp" : 63.6,
+    "Date" : "2017-09-20"
+}
+
+/* 41 */
+{
+    "AverageSurfaceTemp" : 39.0,
+    "Date" : "2017-12-15"
+}
+
+/* 42 */
+{
+    "AverageSurfaceTemp" : 51.6,
+    "Date" : "2017-10-17"
+}
+
+/* 43 */
+{
+    "AverageSurfaceTemp" : 56.0,
+    "Date" : "2017-10-28"
+}
+
+/* 44 */
+{
+    "AverageSurfaceTemp" : 38.0,
+    "Date" : "2017-10-23"
+}
+
+/* 45 */
+{
+    "AverageSurfaceTemp" : 52.1666666666667,
+    "Date" : "2017-10-18"
+}
+
+/* 46 */
+{
+    "AverageSurfaceTemp" : 46.7142857142857,
+    "Date" : "2017-04-01"
+}
+
+/* 47 */
+{
+    "AverageSurfaceTemp" : 51.25,
+    "Date" : "2017-10-21"
+}
+
+/* 48 */
+{
+    "AverageSurfaceTemp" : 59.3684210526316,
+    "Date" : "2017-05-11"
+}
+
+/* 49 */
+{
+    "AverageSurfaceTemp" : 50.0,
+    "Date" : "2017-10-20"
+}
+
+/* 50 */
+{
+    "AverageSurfaceTemp" : 56.8074074074074,
+    "Date" : "2017-05-04"
+}
