@@ -75,7 +75,7 @@ db.getCollection('Fire').aggregate([
 {
     $limit:10
 }
-
+])
 /*A7*/
 db.getCollection('Fire').aggregate([
 {$group:{_id:"$Date",NumberOfFire:{$sum:1}}},{$project:{"Date":"$_id","NumberOfFire":1,"_id":0}}
