@@ -1,0 +1,6 @@
+FIT9131
+This unit aims to provide students with the basic concepts involved in the development of well structured software using a programming language. It concentrates on the development of problem solving skills applicable to all stages of the development process. Students gain experience with the translation of a problem specification into a program design, and the implementation of that design into a programming language. The unit introduces software engineering topics such as maintainability, readability, testing, documentation, modularisation, and reasoning about correctness of programs. Students are expected to read and understand existing code as well as develop new code.
+FIT9132
+This unit will introduce the concept of data management in an organisation through relational database technology. Theoretical foundation of relational model, analysis and design, implementation of relational database using SQL will be covered.
+FIT5148
+Data engineering is about developing the software (and hardware) infrastructure to support data science. This unit introduces software tools and techniques for data engineering, but not hardware.
