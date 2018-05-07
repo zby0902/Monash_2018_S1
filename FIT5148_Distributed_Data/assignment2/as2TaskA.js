@@ -44,12 +44,10 @@ db.getCollection('Fire').aggregate([
 {
  $replaceRoot: { newRoot: { $mergeObjects: [ { $arrayElemAt: [ "$ClimateData", 0 ] }, "$$ROOT" ] } }
 },
-{ 
-    $project: { ClimateData: 0,"_id":0}
- },
+
 { 
     $project: {"Datetime":1,"Air Temperature(Celcius)":1,
-	"Surface Temperature (Celcius)": 1,"Confidence":1}
+    "Surface Temperature (Celcius)": 1,"Confidence":1,"_id":0}
  },
 {
     $match:{"Confidence":{$gt:80,$lt:100}}}
