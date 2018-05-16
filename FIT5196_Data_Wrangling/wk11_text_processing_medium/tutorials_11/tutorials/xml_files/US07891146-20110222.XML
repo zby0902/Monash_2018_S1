@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891146-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891146</doc-number>
+<kind>B1</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11868185</doc-number>
+<date>20071005</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>494</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>E</section>
+<class>06</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 52202</main-classification>
+<further-classification> 52203</further-classification>
+<further-classification> 52762</further-classification>
+<further-classification> 52770</further-classification>
+<further-classification> 52772</further-classification>
+<further-classification> 5220471</further-classification>
+</classification-national>
+<invention-title id="d2e53">Channel tracks for attaching storm panels over openings on buildings</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>2258574</doc-number>
+<kind>A</kind>
+<name>Leary</name>
+<date>19411000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>2309453</doc-number>
+<kind>A</kind>
+<name>Hasenburger et al.</name>
+<date>19430100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>2379179</doc-number>
+<kind>A</kind>
+<name>Petersen</name>
+<date>19450600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>2567554</doc-number>
+<kind>A</kind>
+<name>Davey</name>
+<date>19510900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>2790559</doc-number>
+<kind>A</kind>
+<name>Stephenson</name>
+<date>19570400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>2796624</doc-number>
+<kind>A</kind>
+<name>Speer</name>
+<date>19570600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>2934180</doc-number>
+<kind>A</kind>
+<name>Hammitt et al.</name>
+<date>19600400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>3675383</doc-number>
+<kind>A</kind>
+<name>Paoletti</name>
+<date>19720700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>3712015</doc-number>
+<kind>A</kind>
+<name>Nelson</name>
+<date>19730100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>3738083</doc-number>
+<kind>A</kind>
+<name>Shimano</name>
+<date>19730600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>4028856</doc-number>
+<kind>A</kind>
+<name>Dalbec</name>
+<date>19770600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>4089143</doc-number>
+<kind>A</kind>
+<name>La Pietra</name>
+<date>19780500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52202</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>4121379</doc-number>
+<kind>A</kind>
+<name>Everson</name>
+<date>19781000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52202</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>4685261</doc-number>
+<kind>A</kind>
+<name>Seaquist</name>
+<date>19870800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52202</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>4703603</doc-number>
+<kind>A</kind>
+<name>Hills</name>
+<date>19871100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>4819390</doc-number>
+<kind>A</kind>
+<name>Capper et al.</name>
+<date>19890400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>5076035</doc-number>
+<kind>A</kind>
+<name>Wright</name>
+<date>19911200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>5560170</doc-number>
+<kind>A</kind>
+<name>Ganser et al.</name>
+<date>19961000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>5620037</doc-number>
+<kind>A</kind>
+<name>Apostolo</name>
+<date>19970400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>5740639</doc-number>
+<kind>A</kind>
+<name>Covington</name>
+<date>19980400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>5761860</doc-number>
+<kind>A</kind>
+<name>Koike et al.</name>
+<date>19980600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>5768833</doc-number>
+<kind>A</kind>
+<name>Golen</name>
+<date>19980600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>5966893</doc-number>
+<kind>A</kind>
+<name>Quillin</name>
+<date>19991000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>6047500</doc-number>
+<kind>A</kind>
+<name>Caplette</name>
+<date>20000400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>6108990</doc-number>
+<kind>A</kind>
+<name>Klamer</name>
+<date>20000800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>6269597</doc-number>
+<kind>B1</kind>
+<name>Haas</name>
+<date>20010800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52203</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>6807781</doc-number>
+<kind>B2</kind>
+<name>Trout</name>
+<date>20041000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>6820381</doc-number>
+<kind>B1</kind>
+<name>Ballough</name>
+<date>20041100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>7150126</doc-number>
+<kind>B2</kind>
+<name>Rivera</name>
+<date>20061200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>7654044</doc-number>
+<kind>B2</kind>
+<name>Borland</name>
+<date>20100200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52202</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>2006/0236622</doc-number>
+<kind>A1</kind>
+<name>Allen et al.</name>
+<date>20061000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>2007/0084138</doc-number>
+<kind>A1</kind>
+<name>Cassista et al.</name>
+<date>20070400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>2007/0107328</doc-number>
+<kind>A1</kind>
+<name>Munch</name>
+<date>20070500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52202</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>14</number-of-claims>
+<us-exemplary-claim>9</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 52202</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 52203</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 52762</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 52764</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 52770</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 52772</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 52780</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 5220471</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 49 50</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 49 57</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 49463</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>7</number-of-drawing-sheets>
+<number-of-figures>15</number-of-figures>
+</figures>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Sherwin</last-name>
+<first-name>John</first-name>
+<address>
+<city>Cocoa Beach</city>
+<state>FL</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Steinberger</last-name>
+<first-name>Brian S.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<orgname>Law Offices of Brian S. Steinberger, P.A.</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>University of Central Florida Research Foundation, Inc.</orgname>
+<role>02</role>
+<address>
+<city>Orlando</city>
+<state>FL</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Glessner</last-name>
+<first-name>Brian E</first-name>
+<department>3635</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Smith</last-name>
+<first-name>Matthew J</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">Devices, apparatus, systems and methods of attaching storm panels over window and door openings with end fastenable H tracks. Each of the tracks can have H cross-sectional shapes with elongated opposite facing C shaped channels back to back along the elongated tracks. At the upper and lower ends of the tracks can be outwardly protruding tabs having through-holes for allowing the tracks to mounted into frame edges about the window and door openings. Rectangular shutter panels such as plywood, metal and plastic sheeting can have side edges that slidably fit into the C channel openings of the H tracks so that the only fasteners to attach the panels over the building openings are through the track tabs. Stop flanges can prevent the panels from sliding out of the channels. The track, brackets can be mounted horizontal and parallel to one another as well as be mounted vertically and parallel to one another.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="162.90mm" wi="369.91mm" file="US07891146-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="184.15mm" wi="168.15mm" orientation="landscape" file="US07891146-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="199.47mm" wi="161.71mm" orientation="landscape" file="US07891146-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="193.97mm" wi="163.24mm" orientation="landscape" file="US07891146-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="208.36mm" wi="150.88mm" orientation="landscape" file="US07891146-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="178.31mm" wi="143.59mm" orientation="landscape" file="US07891146-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="176.61mm" wi="152.57mm" orientation="landscape" file="US07891146-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="186.77mm" wi="134.45mm" orientation="landscape" file="US07891146-20110222-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<p id="p-0002" num="0001">This invention relates to storm panels, in particular to devices, apparatus, systems and methods of attaching storm panels over window and door openings with end fastenable H track brackets.</p>
+<heading id="h-0001" level="1">BACKGROUND AND PRIOR ART</heading>
+<p id="p-0003" num="0002">Shutters have become popular for buildings such as those in Florida due to the many wind and rainstorms caused by hurricanes, and other dangerous storms having strong winds of over 10 to 20 miles per hour. New building codes now require most new construction in especially coastal parts of states such as Florida to have removable shutters where these structures are often being outfitted with elaborate and wind tested shutters such as those found in roll down shutters, and accordion shutter panels that attach to pre-fixed C channel brackets. Such permanently installed visible channels are aesthetically undesirable since they detract from the appearance of the house and are not easy to hide. Additionally, most older residential homes still require the user to have rush to install storm panels such as plywood, metal and plastic sheeting often with nail fasteners which although being very popular has many problems.</p>
+<p id="p-0004" num="0003">Having to install a plywood panel of either 4&#xd7;4 up to 4&#xd7;8 foot usually requires the installer have to rush to pound in many nails around at least the top and bottom of the panels into the framed openings about the windows and/or doors. With an impending storm, the installers have little and precious time to waste. Pounding nails into the paneling every few inches coupled with the difficulty of having to physically lift and handle a large and heavy sheet is quite difficult to do especially if the structure has several or more window and door openings. Furthermore, the pounding of many nails inches apart from one another causes' extensive damage to the underlying window and door frames. Furthermore, the plywood cannot be used more than one season since the nails rip up the perimeter edges of the plywood, impact the strength integrity of the plywood, result in little reuse for the plywood since the ripped up plywood edges are not easily stackable.</p>
+<p id="p-0005" num="0004">Additionally, many window and door openings require having to attach two or more panels to one another to properly cover the opening. Nailing two 4&#xd7;4 foot panels together, or two 4&#xd7;6 foot panels together or two 4&#xd7;8 foot panels together for large openings has additional problems since the adjoining edges need to be flush side edge to side edge to one another. If the adjoining sheet panels such as plywood panels are not tightly, locked together, the excessive wind can easily cause one of the exposed edges between the panels to peel and rip from the window/door opening which can result in damage to the inside of the building due to water and wind intrusion. Overlaying a strip of wood over the seams is often not practical since the seams are often over glass so that nailing a strip of material over the seam between plywood panel edges can result in damaging the underlying glass.</p>
+<p id="p-0006" num="0005">Thus, the need exists for solutions to the above problems with the prior art.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0007" num="0006">A primary objective of the present invention is to provide devices, apparatus, systems and methods of attaching storm panels over window and door openings with end fastenable H tracks that substantially reduces the amount of fasteners needed to protect window and door openings with shutter type panels.</p>
+<p id="p-0008" num="0007">A secondary objective of the present invention is to provide devices, apparatus, systems and methods of attaching storm panels over window and door openings with end fastenable H tracks that substantially speeds up the time for an installer to mount shutter type panels over window and door openings.</p>
+<p id="p-0009" num="0008">A third objective of the present invention is to provide devices, apparatus, systems and methods of attaching storm panels over window and door openings with end fastenable H tracks that substantially reduces the amount of damage to underlying structures that occurs by mounting shutter type panels over window and door openings.</p>
+<p id="p-0010" num="0009">A fourth objective of the present invention is to provide devices, apparatus, systems and methods of attaching storm panels over window and door openings with end fastenable H tracks that substantially reduces the amount of needed to remove shutter type panels from window and door openings.</p>
+<p id="p-0011" num="0010">A fifth objective of the present invention is to provide devices, apparatus, systems and methods of attaching storm panels over window and door openings with end fastenable H tracks that prevents end to end mounted shutter type panels from separating from one another during storms such as wind, rain and hurricane storms.</p>
+<p id="p-0012" num="0011">A sixth objective of the present invention is to provide devices, apparatus, systems and methods of attaching storm panels end to end together without any additional fasteners diver a window and door opening.</p>
+<p id="p-0013" num="0012">A seventh objective of the present invention is to provide devices, apparatus, systems and methods of attaching storm panels end to end together over window and door openings that substantially reduces the risk of edges of the panels peeling off during wind, rain and hurricane storms.</p>
+<p id="p-0014" num="0013">An eight objective of the present invention is to provide devices, apparatus, systems and methods of attaching storm panels end to end together over window and door openings that is able to use different panels such as but not limited to plywood, plastic, and metal with one universal mounting bracket used in two or three locations.</p>
+<p id="p-0015" num="0014">A preferred embodiment of the invention is a storm panel mounting system for mounting storm panels over window and door openings, that can include an exterior opening to a building the exterior rectangular opening having frame edges, the exterior rectangular opening being selected from at least one of a door opening with a door covering the color opening, and a window opening with a window covering the window opening, a rectangular shutter panel being sized to substantially cover a portion of the exterior rectangular opening, the rectangular shutter panel having an elongated left side edge and an elongated right side edge.</p>
+<p id="p-0016" num="0015">The system can include a first elongated mounting track having an H cross-sectional shape between opposing left and right ends, the first elongated mounting track having a upper facing U shaped channel along one elongated side and an opposite lower facing U shaped channel along an another elongated side that is directly opposite to the one elongated side, each of the opposing left and right ends of the first elongated mounting track having outwardly protruding tabs, with each of the tabs having a through-hole, a first left fastener for fastening the left tab of the first elongated mounting track into a portion of the frame edge above a left corner of the rectangular building opening, a first right fastener for fastening the right tab of the first elongated mounting track into a portion of the frame edge above a right corner of the rectangular building opening.</p>
+<p id="p-0017" num="0016">The system can include a second elongated mounting track having an H cross-sectional shape between opposing left and right ends, the second elongated mounting track having a upper facing U shaped channel along one elongated side and an opposite lower facing U shaped channel along an another elongated side that is directly opposite to the one elongated side, each of the opposing left and right ends of the second elongated mounting track having outwardly protruding left and right tabs, with the left tab and the right tab having a through-hole, a second left fastener for fastening the left tab of the second elongated mounting track into a portion of the frame, edge below the left corner of the rectangular building opening, a second right fastener for fastening the right tab of the second elongated mounting track, into a portion of the frame edge below the right corner of the rectangular building opening.</p>
+<p id="p-0018" num="0017">The rectangular shutter panel can be held in place over the portion of the exterior building opening by the first elongated mounting track and the second elongated mounting track, wherein the elongated top side edge of the rectangular shutter panel fits into the lower facing U shaped channel of the first elongated mounting track, and the elongated bottom side edge of the rectangular shutter panel fits into the upper facing U shaped channel of the second elongated mounting track.</p>
+<p id="p-0019" num="0018">The storm panel mounting system can also include a second rectangular shutter panel being sized to substantially cover another portion of the exterior rectangular opening, the second rectangular shutter panel having an elongated upper side edge and an elongated lower side edge, a third elongated mounting track having an H cross-sectional shape between opposing left and right ends, the third elongated mounting track having a upper facing U shaped channel along one elongated side and an opposite lower facing U shaped channel along an another elongated side that is directly opposite to the one elongated side, each of the opposing left and right ends of the second elongated mounting track having outwardly protruding tabs, with the left tab and the right tab having a through-hole.</p>
+<p id="p-0020" num="0019">The storm panel mounting system can include a third left fastener for fastening the left tab of the third elongated mounting track into a portion of the frame edge below a left corner of the rectangular building opening, and a third right fastener for fastening the right tab of the third elongated mounting track into a portion of the frame edge below a right corner of the rectangular building opening, so that the second rectangular shutter panel is held in place over the exterior building opening by the second elongated mounting track and the third elongated mounting track, wherein the elongated upper side edge of the second rectangular shutter panel fits into the lower facing U shaped channel of the second elongated mounting track, and the elongated lower side edge of the second rectangular shutter panel fits into the upper facing U shaped channel of the third elongated mounting track.</p>
+<p id="p-0021" num="0020">The fasteners can be screws. The fasteners can be bolts. The fasteners can also be nails. The storm panels used with the invention can be plywood sheets of varying sizes. The storm panels can be plastic sheets. The storm panels can be metal panels. The storm panels can be corrugated plastic and/or metal panels.</p>
+<p id="p-0022" num="0021">The invention can be manufactured and sold as single mounting tracks where each track has an elongated member having an H cross-sectional shape between opposing top and bottom ends, a left facing U shaped channel along one elongated side the elongated member, a right facing U shaped channel opposite the left facing U shaped channel, the right facing U shaped channel along an another elongated side that is directly opposite to the one elongated side, and outwardly protruding tabs extending from each of the opposing top and bottom ends of the elongated member and each of the top tab and the bottom tabs each having a through-hole for receiving a respective fastener therethrough.</p>
+<p id="p-0023" num="0022">The top tab and the bottom tab can each be single flat plates, each with only a single through-hole through each plate.</p>
+<p id="p-0024" num="0023">The invention can include a method of mounting shutter panels to window and door openings, that includes the steps of providing a rectangular shutter panel being sized to substantially cover a portion of the exterior rectangular opening, the rectangular shutter panel having an elongated upper side edge and an elongated lower side edge, and providing a first elongated mounting track having an H cross-sectional shape between opposing left and right ends, the first elongated mounting track having a upper facing U shaped channel along one elongated side and an opposite lower facing U shaped channel along an another elongated side that is directly opposite to the one elongated side, each of the opposing left and right ends of the first elongated mounting track having outwardly protruding tabs, with the left tab and the right tab having a through-hole.</p>
+<p id="p-0025" num="0024">The method can also include the steps of fastening a first left fastener to the left tab of the first elongated mounting track into a portion of the frame edge above a left corner of the rectangular building opening, fastening a first right fastener to the right tab of the first elongated mounting track into a portion of the frame edge above a right corner of the rectangular building opening.</p>
+<p id="p-0026" num="0025">The method can include the steps of providing a second elongated mounting track having an H cross-sectional shape between left and right ends, the second elongated mounting track having a upper, facing U shaped channel along one elongated side and an opposite lower facing U shaped channel along an another elongated side that is directly opposite to the one elongated side, each of the opposing left and right ends of the second elongated mounting track having outwardly protruding tabs, with the left and right tabs each having a through-hole.</p>
+<p id="p-0027" num="0026">The method can also include the steps of fastening a second left fastener to the left tab of the second elongated mounting track into a portion of the frame edge below the left corner of the rectangular building opening, fastening a second right fastener to the right tab of the second elongated mounting track into a portion of the frame edge below the right corner of the rectangular building opening, and mounting the rectangular shutter panel over the portion of the exterior building opening by the first elongated mounting track and the second elongated mounting track.</p>
+<p id="p-0028" num="0027">The step of mounting the rectangular shutter panel can include the steps of slidably inserting the elongated upper side edge of the rectangular shutter panel to fit into the lower facing U shaped channel of the first elongated mounting track, and slidably inserting the elongated lower side edge of the rectangular shutter panel to fit into the upper facing U shaped channel of the second elongated mounting track.</p>
+<p id="p-0029" num="0028">The method can also include the steps of providing a second rectangular shutter panel being sized to substantially cover another portion of the exterior rectangular opening, the second rectangular shutter panel having an elongated upper side edge and an elongated lower side edge, and providing a third elongated mounting track having an H cross-sectional shape between opposing left and right ends, the third elongated mounting track having an upper facing U shaped channel along one elongated side and an opposite lower facing U shaped channel along an another elongated side that is directly opposite to the one elongated side, each of the opposing left and right ends of the second elongated mounting track having outwardly protruding tabs, with the left and right tabs each having a through-hole.</p>
+<p id="p-0030" num="0029">The method can also include the steps of fastening a third left fastener to the left tab of the third elongated mounting track into a portion of the frame edge below a left corner of the rectangular building opening, fastening a third right fastener to the right tab of the third elongated mounting track into a portion of the frame edge below a right corner of the rectangular building opening, and mounting the second rectangular shutter panel in place over the exterior building opening by the second elongated mounting track and the third elongated mounting track by slidably inserting the elongated upper side edge of the second rectangular shutter panel to fit into the lower facing U shaped channel of the second elongated mounting track, and by slidably inserting the elongated lower side edge of the second rectangular shutter panel to fit into the upper facing U shaped channel of the third elongated mounting track.</p>
+<p id="p-0031" num="0030">The system, individual track brackets and method can also include L shaped stop flanges that can be easily attached to the tab ends of the brackets so that the shutter panels cannot slide sideways out from the channels of the brackets.</p>
+<p id="p-0032" num="0031">Further objects and advantages of this invention will be apparent from the following detailed description of the presently preferred embodiments which are illustrated schematically in the accompanying drawings.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE FIGURES</heading>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. 1A</figref> is a front view of a first embodiment of the novel elongated track bracket.</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. 1B</figref> is a side view elongated track bracket of <figref idref="DRAWINGS">FIG. 1A</figref> along arrow <b>1</b>B.</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. 1C</figref> is a back view of the elongated track bracket of <figref idref="DRAWINGS">FIG. 1A</figref>.</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. 1D</figref> is a top view of the elongated track bracket of <figref idref="DRAWINGS">FIG. 1A</figref> along arrow <b>1</b>D with stop flanges.</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. 1E</figref> is a bottom view of the elongated track bracket of <figref idref="DRAWINGS">FIG. 1A</figref> along arrow <b>1</b>E.</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. 2A</figref> is a top view of a stop flange used with the elongated track bracket of <figref idref="DRAWINGS">FIG. 1A</figref>.</p>
+<p id="p-0039" num="0038"><figref idref="DRAWINGS">FIG. 2B</figref> is a side view of the stop flange of <figref idref="DRAWINGS">FIG. 2A</figref> along arrow <b>2</b>B.</p>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIG. 2C</figref> is another side view of the stop flange of <figref idref="DRAWINGS">FIG. 2B</figref> along arrow <b>2</b>C.</p>
+<p id="p-0041" num="0040"><figref idref="DRAWINGS">FIG. 3</figref> is an exploded view of a single elongated track bracket with stop flanges of the previous figures being used with storm panels.</p>
+<p id="p-0042" num="0041"><figref idref="DRAWINGS">FIG. 4</figref> is a perspective view of a building with window opening.</p>
+<p id="p-0043" num="0042"><figref idref="DRAWINGS">FIG. 5</figref> shows the building with window opening of <figref idref="DRAWINGS">FIG. 4</figref> with three track brackets and storm panels held in place.</p>
+<p id="p-0044" num="0043"><figref idref="DRAWINGS">FIG. 6</figref> shows another view of mounting the novel track brackets to be vertically spaced apart parallel to one another.</p>
+<p id="p-0045" num="0044"><figref idref="DRAWINGS">FIG. 7</figref> shows a perspective portion of another embodiment using rubber gasket spacers.</p>
+<p id="p-0046" num="0045"><figref idref="DRAWINGS">FIG. 8A</figref> shows an end view of the embodiment of <figref idref="DRAWINGS">FIG. 7</figref> with gasket spacers.</p>
+<p id="p-0047" num="0046"><figref idref="DRAWINGS">FIG. 8B</figref> shows another end view of the embodiment of <figref idref="DRAWINGS">FIG. 7</figref> without gasket spacers.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DESCRIPTION OF THE PREFERRED EMBODIMENTS</heading>
+<p id="p-0048" num="0047">Before explaining the disclosed embodiments of the present invention in detail it is to be understood that the invention is not limited in its applications to the details of the particular arrangements shown since the invention is capable of other embodiments. Also; the terminology used herein is for the purpose of description and not of limitation.</p>
+<p id="p-0049" num="0048">A listing of components will now be described.</p>
+<p id="p-0050" num="0049">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="2">
+<colspec colname="1" colwidth="70pt" align="char"/>
+<colspec colname="2" colwidth="147pt" align="left"/>
+<thead>
+<row>
+<entry namest="1" nameend="2" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>1. </entry>
+<entry>H track bracket with tab ends</entry>
+</row>
+<row>
+<entry>10.</entry>
+<entry>rear base member</entry>
+</row>
+<row>
+<entry>15.</entry>
+<entry>Upper C-shape channel</entry>
+</row>
+<row>
+<entry>20 </entry>
+<entry>front wall member</entry>
+</row>
+<row>
+<entry>25.</entry>
+<entry>Lower C-shape channel</entry>
+</row>
+<row>
+<entry>30 </entry>
+<entry>elongated cross member attaches rear base </entry>
+</row>
+<row>
+<entry/>
+<entry>member to front wall member</entry>
+</row>
+<row>
+<entry>40.</entry>
+<entry>left mounting tab.</entry>
+</row>
+<row>
+<entry>45.</entry>
+<entry>through-hole of left mounting tab.</entry>
+</row>
+<row>
+<entry>50.</entry>
+<entry>right mounting tab</entry>
+</row>
+<row>
+<entry>55.</entry>
+<entry>through-hole of right mounting tab.</entry>
+</row>
+<row>
+<entry>60.</entry>
+<entry>left stop flange</entry>
+</row>
+<row>
+<entry>62</entry>
+<entry>base of left flange</entry>
+</row>
+<row>
+<entry>65.</entry>
+<entry>through-hole of left flange</entry>
+</row>
+<row>
+<entry>68.</entry>
+<entry>bent stop edge</entry>
+</row>
+<row>
+<entry>70.</entry>
+<entry>right stop flange</entry>
+</row>
+<row>
+<entry>72.</entry>
+<entry>base of right flange</entry>
+</row>
+<row>
+<entry>75.</entry>
+<entry>through-hole of right flange</entry>
+</row>
+<row>
+<entry>78.</entry>
+<entry>bent stop edge.</entry>
+</row>
+<row>
+<entry>80.</entry>
+<entry>fastener</entry>
+</row>
+<row>
+<entry>82.</entry>
+<entry>bolt fastener</entry>
+</row>
+<row>
+<entry>84.</entry>
+<entry>screw fastener</entry>
+</row>
+<row>
+<entry>86.</entry>
+<entry>nail fastener</entry>
+</row>
+<row>
+<entry>92.</entry>
+<entry>upper rectangular panel</entry>
+</row>
+<row>
+<entry>94.</entry>
+<entry>lower rectangular panel</entry>
+</row>
+<row>
+<entry>100.</entry>
+<entry>building</entry>
+</row>
+<row>
+<entry>110.</entry>
+<entry>window opening</entry>
+</row>
+<row>
+<entry>200</entry>
+<entry>track bracket with gaskets</entry>
+</row>
+<row>
+<entry>210</entry>
+<entry>front wall</entry>
+</row>
+<row>
+<entry>215</entry>
+<entry>elongated T-shaped groove</entry>
+</row>
+<row>
+<entry>217</entry>
+<entry>elongated T-shaped caroove</entry>
+</row>
+<row>
+<entry>220</entry>
+<entry>rear base</entry>
+</row>
+<row>
+<entry>230</entry>
+<entry>mid cross member</entry>
+</row>
+<row>
+<entry>240</entry>
+<entry>tab</entry>
+</row>
+<row>
+<entry>245</entry>
+<entry>tab through-hole</entry>
+</row>
+<row>
+<entry namest="1" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0051" num="0050"><figref idref="DRAWINGS">FIG. 1A</figref> is a front view of a first embodiment of the novel elongated track bracket that can have an H cross-sectional shape between tab ends <b>40</b> and <b>50</b>. <figref idref="DRAWINGS">FIG. 1B</figref> is a side view elongated track bracket <b>1</b> of <figref idref="DRAWINGS">FIG. 1A</figref> along arrow <b>13</b>. <figref idref="DRAWINGS">FIG. 1C</figref> is a back view of the elongated track bracket <b>1</b> of <figref idref="DRAWINGS">FIG. 1A</figref>. <figref idref="DRAWINGS">FIG. 1D</figref> is a top view of the elongated track bracket <b>1</b> of <figref idref="DRAWINGS">FIG. 1A</figref> along arrow <b>1</b>D with stop flanges <b>60</b>, <b>70</b>. <figref idref="DRAWINGS">FIG. 1E</figref> is a bottom view of the elongated track bracket <b>1</b> of <figref idref="DRAWINGS">FIG. 1A</figref> along arrow <b>1</b>E. <figref idref="DRAWINGS">FIG. 2A</figref> is a top view of a stop flange <b>60</b> used with the elongated track bracket <b>1</b> of <figref idref="DRAWINGS">FIG. 1A</figref>. <figref idref="DRAWINGS">FIG. 2B</figref> is a side view of the stop flange <b>60</b> of <figref idref="DRAWINGS">FIG. 2A</figref> along arrow <b>2</b>B. <figref idref="DRAWINGS">FIG. 2C</figref> is another side view of the stop flange <b>60</b> of <figref idref="DRAWINGS">FIG. 2B</figref> along arrow <b>2</b>C.</p>
+<p id="p-0052" num="0051">Referring to <figref idref="DRAWINGS">FIGS. 1A-2D</figref>, the novel H track bracket can include a rear base member <b>10</b> and a front wall member <b>20</b> with an elongated cross member therebetween that attaches the rear base member <b>10</b> to the front wall member <b>20</b>. An upper C-shape channel <b>15</b> is formed above the elongated cross member <b>30</b> in the track bracket <b>1</b>. A lower C-Shape channel <b>25</b> is formed below the elongated cross member <b>30</b> in the track bracket <b>1</b>. Extending outward from the rear base member <b>10</b> are opposite protruding tabs <b>40</b> and <b>50</b> each with respective single through-hole fastening holes <b>45</b>, <b>55</b> therethrough The protruding tabs <b>40</b>, <b>50</b> can each be flat plates that extend outward away from opposite ends of the front wall member <b>20</b>.</p>
+<p id="p-0053" num="0052">A left L shaped flange <b>60</b> can be used to block off left side open ends of both of the upper C-shaped channel <b>15</b> and the lower C-shaped channel <b>25</b>. The left L-shaped channel can have base <b>62</b>, a through-hole <b>65</b> through the base, and a bent stop edge <b>68</b>. A right L-shaped channel <b>70</b> can be used to block off right side open ends of both of the upper C-shaped channel <b>15</b> and a the lower C-shaped channel <b>25</b>. The right L-shaped channel can have base <b>72</b>, a through-hole <b>75</b> through the base, and a bent stop edge <b>78</b>.</p>
+<p id="p-0054" num="0053"><figref idref="DRAWINGS">FIG. 3</figref> is an exploded view of a single elongated track bracket <b>1</b> with stop flanges <b>60</b>, <b>70</b> of the previous figures being used with storm panels <b>92</b>, <b>94</b>. A top storm panel <b>92</b>, such as a plywood panel can have an edge slidably inserted into the upper C shaped channel <b>15</b> of the track bracket <b>1</b>, and a lower storm channel <b>94</b> can have an edge slidably inserted into the lower C-shaped channel <b>25</b> of the track bracket <b>1</b>. The C shaped channels <b>15</b>, <b>25</b> can be sized so that the panels <b>92</b>, <b>94</b> can be snugly and tightly held in place. The stop flanges <b>60</b>, <b>60</b> can be positioned so that their respective bent edges <b>68</b>, <b>78</b> close off open side ends of both the upper channel <b>15</b> and lower channel <b>25</b>. Fastener(s) <b>80</b>, can be inserted through respective through-holes <b>75</b>, <b>55</b>, and <b>65</b>, <b>45</b> to hold respective stop flanges <b>60</b>, <b>60</b> to the track bracket <b>1</b>.</p>
+<p id="p-0055" num="0054"><figref idref="DRAWINGS">FIG. 4</figref> is a perspective view of a building <b>100</b> with window opening <b>110</b>. <figref idref="DRAWINGS">FIG. 5</figref> shows the building <b>100</b> with window opening <b>110</b> of <figref idref="DRAWINGS">FIG. 4</figref> with three track brackets <b>1</b> and storm panels <b>92</b>, <b>94</b> held in place in horizontal orientations over the opening. As shown in <figref idref="DRAWINGS">FIG. 5</figref>, the tab ends <b>40</b>, <b>50</b> of each track bracket can beyond the actual window opening to attach and mount the panels into the frames about the windows. Alternatively, for added strength, the brackets <b>1</b> can be sized so that the tabs <b>40</b>, <b>50</b> can be mounted into the wall structure outside of the window frames.</p>
+<p id="p-0056" num="0055"><figref idref="DRAWINGS">FIG. 6</figref> shows another view of mounting the navel track brackets <b>1</b> to be vertically spaced apart parallel to one another over a window opening <b>110</b>. The brackets and the stop flanges would allow for supporting the storm panels in place.</p>
+<p id="p-0057" num="0056">The novel invention can be easily disassembled at least as quickly as it is assembled on site.</p>
+<p id="p-0058" num="0057">The novel invention can be used for smaller sized building openings by only having a single rectangular storm panel held in place by two elongated track brackets where only four fasteners are used. Unlike the prior art which would require fasteners between every approximately 4 to approximately 10 inches apart around the perimeter.</p>
+<p id="p-0059" num="0058">Also, building openings can use three or more of the track brackets and use existing small or different sized plywood type panels that are already readily available. For example, a large sliding glass door 80 inches high by up to 80 inches wide, can be effectively protected with the invention by using a standard 8&#xd7;4 foot piece of plywood. Here, a standard 8&#xd7;4 foot piece of plywood which is normally not easy to hold and support by one person can be cut in half. Thereby each piece 8&#xd7;2 foot piece that is thin and easy to manage, can be positioned in place with three track brackets to effectively cover the 80 inch glass door opening. Also the installer can use different custom sized panels between the channels of the track brackets.</p>
+<p id="p-0060" num="0059">Unlike the procedure of nailing up plywood which only allows for a single season use, the invention allows the plywood to be reusable since no nails or other fasteners are driven directly into the plywood perimeter edges. It is reusable since the plywood can be stackable since the edges have not been ripped up by the nail holes or fastener holes.</p>
+<p id="p-0061" num="0060">Also, the invention can, be used with similar benefits with Plexiglas and plastic. Additionally, the channel openings can be adjusted for different sized panels such as approximately &#xbd; inch minimum up to approximately &#xbe; inch. Additionally, the channels can support much thicker storm panels such as the corrugated metal and/or plastic storm panels in the marketplace.</p>
+<p id="p-0062" num="0061">While the preferred embodiment has the elongated mounting tracks standing vertical upright and parallel to one another, the novel elongated mounting tracks can be used in horizontal orientations above and below the building openings, as well as additionally between the above and below horizontally oriented tracks.</p>
+<p id="p-0063" num="0062">Although a preferred embodiment is shown mounting the novel elongated mounting tracks over window openings the novel invention can be used with protecting door openings with the track brackets <b>1</b> also mounted in horizontal parallel orientations.</p>
+<p id="p-0064" num="0063">In addition, the novel track brackets can be mounted vertically for door applications. For example, door openings having a raised bottom edge on the door will allow for the lower tabs of the elongated mounting tracks to be mounted below the left and right corners of the door itself. In addition, the lower tabs can be bent outward so that fasteners can attach to floor edges below the left and bottom right corner edges of the door opening.</p>
+<p id="p-0065" num="0064">Sides of the elongated mounting tracks can have additional through-holes for additional, fasteners to add strength to holding and mounting the panels over the door and window openings.</p>
+<p id="p-0066" num="0065">The fasteners used with the invention can be bolts. The fasteners can also be screws. The fasteners can also be nails. Additionally, other fasteners can be used that are strong enough to withstand being pulled from mounting structure by hurricane level winds, and the like. Also, the fasteners can be left permanently in the wall edges about the building openings. The fasteners can alternatively be capped with aesthetic covers, and/or painted, and/or left anchored in place.</p>
+<p id="p-0067" num="0066">Spacer washers such as resilient rings, rubber washers, rubber grommets, and the like, can be used between the tab plates and the window/door casing frames to further space the shutter panels from directly contacting the window glass and doors. Additionally resilient material spacers, and the like can be used to line the channels has needed if a tighter fit is needed from the shutter panel edges are fit into the C channels on the H tracks. The spacer material can also be used to separate the shutter panels from directly contacting the window glass and doors themselves.</p>
+<p id="p-0068" num="0067"><figref idref="DRAWINGS">FIG. 7</figref> shows a perspective portion of another embodiment <b>200</b> using rubber gasket spacers <b>250</b>. <figref idref="DRAWINGS">FIG. 8A</figref> shows an end view of the embodiment <b>200</b> of <figref idref="DRAWINGS">FIG. 7</figref> with gasket spacers <b>250</b>. <figref idref="DRAWINGS">FIG. 8B</figref> shows another end view of the embodiment <b>200</b> of <figref idref="DRAWINGS">FIG. 7</figref> without gasket spacers. Referring to <figref idref="DRAWINGS">FIGS. 7-8B</figref>, the track bracket <b>200</b> can have a pair of elongated T shaped grooves <b>215</b>, <b>217</b> so that mateable resilient headed gaskets can slide and be held in place in the channel openings separated by mid cross member separator <b>230</b>. The tab <b>240</b> and through-hole <b>245</b> are identical to those in the previous embodiments.</p>
+<p id="p-0069" num="0068">Rectangular storm panels can be installed and work by only having to use the fastening holes in the tab ends of the mounting tracks. No additional fasteners are generally required and used to mount the panels over the building openings.</p>
+<p id="p-0070" num="0069">When needed to protect all four side edges of storm panels, the invention can use two-three H brackets in combination with brackets adapted to cover the exposed unbrackcted side edges. For example, additionally H track brackets can be used to frame off all four side edges of the shutters. Also, C channel brackets can be used in combination with the H track brackets. Also, small &#x201c;h&#x201d; shaped brackets can be used in combination with the H shaped track brackets.</p>
+<p id="p-0071" num="0070">While the invention has been described, disclosed, illustrated and shown in various terms of certain embodiments or modifications which it has presumed in practice, the scope of the invention is not intended to be, nor should it be deemed to be, limited thereby and such other modifications or embodiments as may be suggested by the teachings herein are particularly reserved especially as they fall within the breadth and scope of the claims here appended.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>I claim:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A storm panel mounting system for mounting storm panels over window and door openings, comprising:
+<claim-text>an exterior opening to a building the exterior rectangular opening having frame edges, the exterior rectangular opening being selected from at least one of a door opening with a door covering the door opening, and a window opening with a window covering the window opening;</claim-text>
+<claim-text>a rectangular shutter panel being sized to substantially cover a portion of the exterior rectangular opening, the rectangular shutter panel having an elongated left side edge and an elongated right side edge;</claim-text>
+<claim-text>a first elongated mounting track having an H cross-sectional shape between opposing left and right ends, the first elongated mounting track having a upper facing U shaped channel along one elongated side and an opposite lower facing U shaped channel along an another elongated side that is directly opposite to the one elongated side, each of the opposing left and right ends of the first elongated mounting track having outwardly protruding tabs, with each of the tabs having a through-hole;</claim-text>
+<claim-text>a first left fastener for fastening the left tab of the first elongated mounting track into a portion of the frame edge above a left corner of the rectangular building opening;</claim-text>
+<claim-text>a first right fastener for fastening the right tab of the first elongated mounting track into a portion of the frame edge above a right corner of the rectangular building opening;</claim-text>
+<claim-text>a second elongated mounting track having an H cross-sectional shape between opposing left and right ends, the second elongated mounting track having a upper facing U shaped channel along one elongated side and an opposite lower facing U shaped channel along an another elongated side that is directly opposite to the one elongated side, each of the opposing left and right ends of the second elongated mounting track having outwardly protruding left and right tabs, with the left tab and the right tab having a through-hole;</claim-text>
+<claim-text>a second left fastener for fastening the left tab of the second elongated mounting track into a portion of the frame edge below the left corner of the rectangular building opening;</claim-text>
+<claim-text>a second right fastener for fastening the right tab of the second elongated mounting track into a portion of the frame edge below the right corner of the rectangular building opening, so that the rectangular shutter panel is held in place over the portion of the exterior building opening by the first elongated mounting track and the second elongated mounting track, wherein the elongated top side edge of the rectangular shutter panel fits into the lower facing U shaped channel of the first elongated mounting track, and the elongated bottom side edge of the rectangular shutter panel fits into the upper facing U shaped channel of the second elongated mounting track; and</claim-text>
+<claim-text>two L shaped flanges for being attached to the tabs by the left and right fasteners for preventing the shutter panel from sliding sideways out from the upper and lower facing U shaped channels.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The storm panel mounting system of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the first fasteners and the second fasteners are screws.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The storm panel mounting system of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the first fasteners and the second fasteners are bolts.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The storm panel mounting system of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the first fasteners and the second fasteners are nails.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The storm panel mounting system of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the first rectangular shutter panel is plywood.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The storm panel mounting system of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the first rectangular shutter panel is metal.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The storm panel mounting system of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the first rectangular shutter panel is a plastic panel.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The mounting track for attaching storm panels of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the top tab and the bottom tab are each single flat plates, each with only a single through-hole through each plate.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. A mounting track for attaching storm panels over window and door openings, the mounting track comprising:
+<claim-text>an elongated member having an H cross-sectional shape between opposing top and bottom ends;</claim-text>
+<claim-text>a left facing U shaped channel along one elongated side the elongated member;</claim-text>
+<claim-text>a right facing U shaped channel opposite the left facing U shaped channel, the right facing U shaped channel along an another elongated side that is directly opposite to the one elongated side; and</claim-text>
+<claim-text>outwardly protruding tabs extending from each of the opposing top and bottom ends of the elongated member and each of the top tab and the bottom tabs having a through-hole for receiving a respective fastener therethrough; and</claim-text>
+</claim-text>
+<claim-text>blocking members for being attached to the tabs by the respective fasteners for preventing a shutter panel from sliding sideways out from the channels, wherein the blocking members include L shaped flanges.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. A method of mounting shutter panels to window and door openings, comprising the steps of:
+<claim-text>providing a rectangular shutter panel being sized to substantially cover a portion of the exterior rectangular opening, the rectangular shutter panel having an elongated upper side edge and an elongated lower side edge;</claim-text>
+<claim-text>providing a first elongated mounting track having an H cross-sectional shape between opposing left and right ends, the first elongated mounting track having a upper facing U shaped channel along one elongated side and an opposite lower facing U shaped channel along an another elongated side that is directly opposite to the one elongated side, each of the opposing left and right ends of the first elongated mounting track having outwardly protruding tabs, with the left tab and the right tab having a through-hole;</claim-text>
+<claim-text>fastening a first left fastener to the left tab of the first elongated mounting track into a portion of the frame edge above a left corner of the rectangular building opening;</claim-text>
+<claim-text>fastening a first right fastener to the right tab of the first elongated mounting track into a portion of the frame edge above a right corner of the rectangular building opening;</claim-text>
+<claim-text>providing a second elongated mounting track having an H cross-sectional shape between left and right ends, the second elongated mounting track having a upper facing U shaped channel along one elongated side and an opposite lower facing U shaped channel along an another elongated side that is directly opposite to the one elongated side, each of the opposing left and right ends of the second elongated mounting track having outwardly protruding tabs, with the left and right tabs each having a through-hole;</claim-text>
+<claim-text>fastening a second left fastener to the left tab of the second elongated mounting track into a portion of the frame edge below the left corner of the rectangular building opening;</claim-text>
+<claim-text>fastening a second right fastener to the right tab of the second elongated mounting track into a portion of the frame edge below the right corner of the rectangular building opening,</claim-text>
+<claim-text>mounting the rectangular shutter panel over the portion of the exterior building opening by the first elongated mounting track and the second elongated mounting track;</claim-text>
+<claim-text>providing L shaped flanges as blocking members; and</claim-text>
+<claim-text>preventing the shutter panel from sliding sideways out from the channels with the blocking members attached by the fasteners.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The method of <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the step of mounting the rectangular shutter panel includes the steps of:
+<claim-text>slidably inserting the elongated upper side edge of the rectangular shutter panel to fit into the lower facing U shaped channel of the first elongated mounting track; and</claim-text>
+<claim-text>slidably inserting the elongated lower side edge of the rectangular shutter panel to fit into the upper facing U shaped channel of the second elongated mounting track.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. A storm panel mounting system for mounting storm panels over window and door openings, comprising:
+<claim-text>an exterior opening to a building the exterior rectangular opening having frame edges, the exterior rectangular opening being selected from at least one of a door opening with a door covering the door opening, and a window opening with a window covering the window opening;</claim-text>
+<claim-text>a rectangular shutter panel being sized to substantially cover a portion of the exterior rectangular opening, the rectangular shutter panel having an elongated left side edge and an elongated right side edge;</claim-text>
+<claim-text>a first elongated mounting track having an H cross-sectional shape between opposing left and right ends, the first elongated mounting track having a upper facing U shaped channel along one elongated side and an opposite lower facing U shaped channel along an another elongated side that is directly opposite to the one elongated side, each of the opposing left and right ends of the first elongated mounting track having outwardly protruding tabs, with each of the tabs having a through-hole;</claim-text>
+<claim-text>a first left fastener for fastening the left tab of the first elongated mounting track into a portion of the frame edge above a left corner of the rectangular building opening;</claim-text>
+<claim-text>a first right fastener for fastening the right tab of the first elongated mounting track into a portion of the frame edge above a right corner of the rectangular building opening;</claim-text>
+<claim-text>a second elongated mounting track having an H cross-sectional shape between opposing left and right ends, the second elongated mounting track having a upper facing U shaped channel along one elongated side and an opposite lower facing U shaped channel along an another elongated side that is directly opposite to the one elongated side, each of the opposing left and right ends of the second elongated mounting track having outwardly protruding left and right tabs, with the left tab and the right tab having a through-hole;</claim-text>
+<claim-text>a second left fastener for fastening the left tab of the second elongated mounting track into a portion of the frame edge below the left corner of the rectangular building opening;</claim-text>
+<claim-text>a second right fastener for fastening the right tab of the second elongated mounting track into a portion of the frame edge below the right corner of the rectangular building opening, so that the rectangular shutter panel is held in place over the portion of the exterior building opening by the first elongated mounting track and the second elongated mounting track, wherein the elongated top side edge of the rectangular shutter panel fits into the lower facing U shaped channel of the first elongated mounting track, and the elongated bottom side edge of the rectangular shutter panel fits into the upper facing U shaped channel of the second elongated mounting track; and</claim-text>
+<claim-text>first resilient spacers in the U shaped channels of the first elongated mounting track for preventing the shutter panel from sliding out of the first elongated mounting track; and</claim-text>
+<claim-text>second resilient spacers in the U shaped channels of the second elongated mounting track for preventing the shutter panel from sliding out of the first elongated mounting track, wherein the first and second resilient spacers include gasket spacers mounted in T shaped grooves of the mounting tracks.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. A mounting track for attaching storm panels over window and door openings, the mounting track comprising:
+<claim-text>an elongated member having an H cross-sectional shape between opposing top and bottom ends;</claim-text>
+<claim-text>a left facing U shaped channel along one elongated side the elongated member;</claim-text>
+<claim-text>a right facing U shaped channel opposite the left facing U shaped channel, the right facing U shaped channel along an another elongated side that is directly opposite to the one elongated side;</claim-text>
+<claim-text>outwardly protruding tabs extending from each of the opposing top and bottom ends of the elongated member and each of the top tab and the bottom tabs each having a through-hole for receiving a respective fastener therethrough; and</claim-text>
+</claim-text>
+<claim-text>resilient spacers in the U shaped channels of the elongated mounting track for preventing the shutter panel from sliding out of the first elongated mounting track, wherein the resilient spacers include gasket spacers being mounted in T shaped grooves on the mounting tracks.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. A method of mounting shutter panels to window and door openings, comprising the steps of
+<claim-text>providing a rectangular shutter panel being sized to substantially cover a portion of the exterior rectangular opening, the rectangular shutter panel having an elongated upper side edge and an elongated lower side edge;</claim-text>
+<claim-text>providing a first elongated mounting track having an H cross-sectional shape between opposing left and right ends, the first elongated mounting track having a upper facing U shaped channel along one elongated side and an opposite lower facing U shaped channel along an another elongated side that is directly opposite to the one elongated side, each of the opposing left and right ends of the first elongated mounting track having outwardly protruding tabs, with the left tab and the right tab having a through-hole;</claim-text>
+<claim-text>fastening a first left fastener to the left tab of the first elongated mounting track into a portion of the frame edge above a left corner of the rectangular building opening;</claim-text>
+<claim-text>fastening a first right fastener to the right tab of the first elongated mounting track into a portion of the frame edge above a right corner of the rectangular building opening;</claim-text>
+<claim-text>providing a second elongated mounting track having an H cross-sectional shape between left and right ends, the second elongated mounting track having a upper facing U shaped channel along one elongated side and an opposite lower facing U shaped channel along an another elongated side that is directly opposite to the one elongated side, each of the opposing left and right ends of the second elongated mounting track having outwardly protruding tabs, with the left and right tabs each having a through-hole;</claim-text>
+<claim-text>fastening a second left fastener to the left tab of the second elongated mounting track into a portion of the frame edge below the left corner of the rectangular building opening;</claim-text>
+<claim-text>fastening a second right fastener to the right tab of the second elongated mounting track into a portion of the frame edge below the right corner of the rectangular building opening,</claim-text>
+<claim-text>mounting the rectangular shutter panel over the portion of the exterior building opening by the first elongated mounting track and the second elongated mounting track; and</claim-text>
+<claim-text>preventing the shutter panel from sliding sideways out from the U shaped channels with resilient spacers in the first and the second elongated mounting tracks, wherein the resilient spacers include gasket spacers being mounted in T shaped grooves of the mounting tracks. </claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

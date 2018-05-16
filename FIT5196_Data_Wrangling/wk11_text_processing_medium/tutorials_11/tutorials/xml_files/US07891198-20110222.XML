@@ -1,0 +1,2248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891198-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891198</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12577966</doc-number>
+<date>20091013</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>25</class>
+<subclass>C</subclass>
+<main-group>1</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 62 66</main-classification>
+<further-classification> 62 89</further-classification>
+<further-classification> 62157</further-classification>
+<further-classification> 62233</further-classification>
+</classification-national>
+<invention-title id="d2e43">Method and apparatus for controlling temperature in a refrigerator</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>2712733</doc-number>
+<kind>A</kind>
+<name>King</name>
+<date>19550700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>3146601</doc-number>
+<kind>A</kind>
+<name>Gould</name>
+<date>19640900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3146606</doc-number>
+<kind>A</kind>
+<name>Grimes</name>
+<date>19640900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>3226939</doc-number>
+<kind>A</kind>
+<name>Harbison</name>
+<date>19660100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>3270519</doc-number>
+<kind>A</kind>
+<name>Pohl, Jr.</name>
+<date>19660900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>3429140</doc-number>
+<kind>A</kind>
+<name>White</name>
+<date>19690200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>3561231</doc-number>
+<kind>A</kind>
+<name>Webb</name>
+<date>19710200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>3602007</doc-number>
+<kind>A</kind>
+<name>Drieci</name>
+<date>19710800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>3640088</doc-number>
+<kind>A</kind>
+<name>Jacobus</name>
+<date>19720200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>3747363</doc-number>
+<kind>A</kind>
+<name>Grimm</name>
+<date>19730700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>3969909</doc-number>
+<kind>A</kind>
+<name>Barto et al.</name>
+<date>19760700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>4084725</doc-number>
+<kind>A</kind>
+<name>Buchser</name>
+<date>19780400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>4087140</doc-number>
+<kind>A</kind>
+<name>Linstromberg</name>
+<date>19780500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>4100761</doc-number>
+<kind>A</kind>
+<name>Linstromberg</name>
+<date>19780700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>4209999</doc-number>
+<kind>A</kind>
+<name>Falk et al.</name>
+<date>19800700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>4227383</doc-number>
+<kind>A</kind>
+<name>Horvay</name>
+<date>19801000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>4285212</doc-number>
+<kind>A</kind>
+<name>Prada</name>
+<date>19810800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>4306757</doc-number>
+<kind>A</kind>
+<name>Horvay</name>
+<date>19811200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>4333588</doc-number>
+<kind>A</kind>
+<name>Schreck</name>
+<date>19820600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>4543800</doc-number>
+<kind>A</kind>
+<name>Mawby</name>
+<date>19851000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>4602484</doc-number>
+<kind>A</kind>
+<name>Bendikson</name>
+<date>19860700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 62158</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>4949548</doc-number>
+<kind>A</kind>
+<name>Meyer</name>
+<date>19900800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 62 98</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>5077985</doc-number>
+<kind>A</kind>
+<name>Buchser</name>
+<date>19920100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>5117654</doc-number>
+<kind>A</kind>
+<name>Steffenhagen</name>
+<date>19920600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>5165255</doc-number>
+<kind>A</kind>
+<name>Alvarez et al.</name>
+<date>19921100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>5211462</doc-number>
+<kind>A</kind>
+<name>Bien</name>
+<date>19930500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>5272888</doc-number>
+<kind>A</kind>
+<name>Fisher</name>
+<date>19931200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>5273219</doc-number>
+<kind>A</kind>
+<name>Beach, Jr.</name>
+<date>19931200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>5359795</doc-number>
+<kind>A</kind>
+<name>Mawby et al.</name>
+<date>19941100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>5524444</doc-number>
+<kind>A</kind>
+<name>Gromala et al.</name>
+<date>19960600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 62115</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>5729997</doc-number>
+<kind>A</kind>
+<name>Witsoe</name>
+<date>19980300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>5737932</doc-number>
+<kind>A</kind>
+<name>Lee</name>
+<date>19980400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>5787724</doc-number>
+<kind>A</kind>
+<name>Pohl et al.</name>
+<date>19980800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>5813245</doc-number>
+<kind>A</kind>
+<name>Coates et al.</name>
+<date>19980900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>5899083</doc-number>
+<kind>A</kind>
+<name>Peterson</name>
+<date>19990500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00036">
+<document-id>
+<country>US</country>
+<doc-number>5947342</doc-number>
+<kind>A</kind>
+<name>Song</name>
+<date>19990900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00037">
+<document-id>
+<country>US</country>
+<doc-number>5956967</doc-number>
+<kind>A</kind>
+<name>Kim</name>
+<date>19990900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00038">
+<document-id>
+<country>US</country>
+<doc-number>6019447</doc-number>
+<kind>A</kind>
+<name>Jackovin</name>
+<date>20000200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00039">
+<document-id>
+<country>US</country>
+<doc-number>6050097</doc-number>
+<kind>A</kind>
+<name>Nelson</name>
+<date>20000400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00040">
+<document-id>
+<country>US</country>
+<doc-number>6082130</doc-number>
+<kind>A</kind>
+<name>Pastryk</name>
+<date>20000700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00041">
+<document-id>
+<country>US</country>
+<doc-number>6120685</doc-number>
+<kind>A</kind>
+<name>Carlson et al.</name>
+<date>20000900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00042">
+<document-id>
+<country>US</country>
+<doc-number>6135173</doc-number>
+<kind>A</kind>
+<name>Lee et al.</name>
+<date>20001000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00043">
+<document-id>
+<country>US</country>
+<doc-number>6148624</doc-number>
+<kind>A</kind>
+<name>Bishop</name>
+<date>20001100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00044">
+<document-id>
+<country>US</country>
+<doc-number>6276146</doc-number>
+<kind>B1</kind>
+<name>Kim et al.</name>
+<date>20010800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00045">
+<document-id>
+<country>US</country>
+<doc-number>6286324</doc-number>
+<kind>B1</kind>
+<name>Pastryk</name>
+<date>20010900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00046">
+<document-id>
+<country>US</country>
+<doc-number>6314745</doc-number>
+<kind>B1</kind>
+<name>Janke</name>
+<date>20011100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00047">
+<document-id>
+<country>US</country>
+<doc-number>6351958</doc-number>
+<kind>B1</kind>
+<name>Pastryk</name>
+<date>20020300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00048">
+<document-id>
+<country>US</country>
+<doc-number>6438976</doc-number>
+<kind>B2</kind>
+<name>Shapiro</name>
+<date>20020800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00049">
+<document-id>
+<country>US</country>
+<doc-number>6442954</doc-number>
+<kind>B1</kind>
+<name>Shapiro</name>
+<date>20020900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00050">
+<document-id>
+<country>US</country>
+<doc-number>6460367</doc-number>
+<kind>B1</kind>
+<name>DuHack</name>
+<date>20021000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00051">
+<document-id>
+<country>US</country>
+<doc-number>6474094</doc-number>
+<kind>B2</kind>
+<name>Kim</name>
+<date>20021100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00052">
+<document-id>
+<country>US</country>
+<doc-number>6532758</doc-number>
+<kind>B2</kind>
+<name>DuHack</name>
+<date>20030300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00053">
+<document-id>
+<country>US</country>
+<doc-number>6571567</doc-number>
+<kind>B2</kind>
+<name>An et al.</name>
+<date>20030600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00054">
+<document-id>
+<country>US</country>
+<doc-number>6735959</doc-number>
+<kind>B1</kind>
+<name>Najewicz</name>
+<date>20040500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00055">
+<document-id>
+<country>US</country>
+<doc-number>6742353</doc-number>
+<kind>B2</kind>
+<name>Ohashi et al.</name>
+<date>20040600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00056">
+<document-id>
+<country>US</country>
+<doc-number>6810682</doc-number>
+<kind>B1</kind>
+<name>Schuchart et al.</name>
+<date>20041100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00057">
+<document-id>
+<country>US</country>
+<doc-number>6880355</doc-number>
+<kind>B2</kind>
+<name>Jung</name>
+<date>20050400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00058">
+<document-id>
+<country>US</country>
+<doc-number>6964177</doc-number>
+<kind>B2</kind>
+<name>Lee</name>
+<date>20051100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00059">
+<document-id>
+<country>US</country>
+<doc-number>7188479</doc-number>
+<kind>B2</kind>
+<name>Anselmino et al.</name>
+<date>20070300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00060">
+<document-id>
+<country>US</country>
+<doc-number>7392665</doc-number>
+<kind>B2</kind>
+<name>Lee et al.</name>
+<date>20080700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00061">
+<document-id>
+<country>US</country>
+<doc-number>7428820</doc-number>
+<kind>B2</kind>
+<name>Kim et al.</name>
+<date>20080900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00062">
+<document-id>
+<country>US</country>
+<doc-number>7484382</doc-number>
+<kind>B2</kind>
+<name>Kim et al.</name>
+<date>20090200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00063">
+<document-id>
+<country>US</country>
+<doc-number>7490475</doc-number>
+<kind>B2</kind>
+<name>Kim et al.</name>
+<date>20090200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00064">
+<document-id>
+<country>US</country>
+<doc-number>2001/0025505</doc-number>
+<kind>A1</kind>
+<name>Nelson</name>
+<date>20011000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00065">
+<document-id>
+<country>US</country>
+<doc-number>2002/0083731</doc-number>
+<kind>A1</kind>
+<name>Kim</name>
+<date>20020700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00066">
+<document-id>
+<country>US</country>
+<doc-number>2004/0103674</doc-number>
+<kind>A1</kind>
+<name>Boer et al.</name>
+<date>20040600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 62157</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00067">
+<document-id>
+<country>US</country>
+<doc-number>2006/0218961</doc-number>
+<kind>A1</kind>
+<name>Kim</name>
+<date>20061000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00068">
+<document-id>
+<country>EP</country>
+<doc-number>1 030 147</doc-number>
+<kind>A</kind>
+<date>20000800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<patcit num="00069">
+<document-id>
+<country>EP</country>
+<doc-number>1445558</doc-number>
+<kind>A2</kind>
+<date>20041100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00070">
+<document-id>
+<country>JP</country>
+<doc-number>47026464</doc-number>
+<date>19721100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00071">
+<document-id>
+<country>JP</country>
+<doc-number>50069644</doc-number>
+<kind>A</kind>
+<date>19750600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00072">
+<document-id>
+<country>JP</country>
+<doc-number>50154565</doc-number>
+<kind>A</kind>
+<date>19751200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00073">
+<document-id>
+<country>JP</country>
+<doc-number>5341815</doc-number>
+<kind>A</kind>
+<date>19781100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00074">
+<document-id>
+<country>JP</country>
+<doc-number>5694462</doc-number>
+<kind>U</kind>
+<date>19810700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00075">
+<document-id>
+<country>JP</country>
+<doc-number>H06-33326</doc-number>
+<kind>B</kind>
+<date>19940800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00076">
+<document-id>
+<country>JP</country>
+<doc-number>H07-190578</doc-number>
+<kind>A</kind>
+<date>19950700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00077">
+<document-id>
+<country>JP</country>
+<doc-number>H10-148437</doc-number>
+<kind>A</kind>
+<date>19980600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00078">
+<document-id>
+<country>JP</country>
+<doc-number>H10-188125</doc-number>
+<kind>A</kind>
+<date>19980700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00079">
+<document-id>
+<country>JP</country>
+<doc-number>H10-197119</doc-number>
+<kind>A</kind>
+<date>19980700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00080">
+<document-id>
+<country>JP</country>
+<doc-number>H10-206004</doc-number>
+<kind>A</kind>
+<date>19980800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00081">
+<document-id>
+<country>JP</country>
+<doc-number>1999325691</doc-number>
+<kind>A</kind>
+<date>19991100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00082">
+<document-id>
+<country>JP</country>
+<doc-number>2000009372</doc-number>
+<kind>A</kind>
+<date>20000100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00083">
+<document-id>
+<country>JP</country>
+<doc-number>2000105052</doc-number>
+<kind>A</kind>
+<date>20000400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00084">
+<document-id>
+<country>JP</country>
+<doc-number>2000111229</doc-number>
+<kind>A</kind>
+<date>20000400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00085">
+<document-id>
+<country>JP</country>
+<doc-number>2000146421</doc-number>
+<kind>A</kind>
+<date>20000500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00086">
+<document-id>
+<country>JP</country>
+<doc-number>2000320943</doc-number>
+<kind>A</kind>
+<date>20001100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00087">
+<document-id>
+<country>JP</country>
+<doc-number>2001221555</doc-number>
+<kind>A</kind>
+<date>20010800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00088">
+<document-id>
+<country>JP</country>
+<doc-number>2002162139</doc-number>
+<kind>A</kind>
+<date>20020600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00089">
+<document-id>
+<country>JP</country>
+<doc-number>2002350021</doc-number>
+<kind>A</kind>
+<date>20021200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00090">
+<document-id>
+<country>JP</country>
+<doc-number>2002372349</doc-number>
+<kind>A</kind>
+<date>20021200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00091">
+<document-id>
+<country>JP</country>
+<doc-number>2003056966</doc-number>
+<kind>A</kind>
+<date>20030200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00092">
+<document-id>
+<country>JP</country>
+<doc-number>2003075050</doc-number>
+<kind>A</kind>
+<date>20030300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00093">
+<document-id>
+<country>JP</country>
+<doc-number>2003090667</doc-number>
+<kind>A</kind>
+<date>20030300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00094">
+<document-id>
+<country>JP</country>
+<doc-number>2003121043</doc-number>
+<kind>A</kind>
+<date>20030400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00095">
+<document-id>
+<country>JP</country>
+<doc-number>2006011228</doc-number>
+<kind>A</kind>
+<date>20060100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00096">
+<document-id>
+<country>KR</country>
+<doc-number>19970001294</doc-number>
+<kind>B1</kind>
+<date>19970200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00097">
+<document-id>
+<country>KR</country>
+<doc-number>1998018912</doc-number>
+<kind>U</kind>
+<date>19980700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00098">
+<document-id>
+<country>KR</country>
+<doc-number>1999021017</doc-number>
+<kind>A</kind>
+<date>19990300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00099">
+<document-id>
+<country>KR</country>
+<doc-number>1999030143</doc-number>
+<kind>A</kind>
+<date>19990400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00100">
+<document-id>
+<country>KR</country>
+<doc-number>19970001293</doc-number>
+<kind>A</kind>
+<date>19990500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00101">
+<document-id>
+<country>KR</country>
+<doc-number>19990031465</doc-number>
+<kind>A</kind>
+<date>19990500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00102">
+<document-id>
+<country>KR</country>
+<doc-number>19990021540</doc-number>
+<kind>U</kind>
+<date>19990600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00103">
+<document-id>
+<country>KR</country>
+<doc-number>19990043740</doc-number>
+<kind>A</kind>
+<date>19990600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00104">
+<document-id>
+<country>KR</country>
+<doc-number>19990062189</doc-number>
+<kind>A</kind>
+<date>19990700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00105">
+<document-id>
+<country>KR</country>
+<doc-number>19990065602</doc-number>
+<kind>A</kind>
+<date>19990800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00106">
+<document-id>
+<country>KR</country>
+<doc-number>19990066209</doc-number>
+<kind>A</kind>
+<date>19990800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00107">
+<document-id>
+<country>KR</country>
+<doc-number>20000028513</doc-number>
+<kind>A</kind>
+<date>20000500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00108">
+<document-id>
+<country>KR</country>
+<doc-number>20000050416</doc-number>
+<kind>A</kind>
+<date>20000800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00109">
+<document-id>
+<country>KR</country>
+<doc-number>20010008710</doc-number>
+<kind>A</kind>
+<date>20010200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00110">
+<document-id>
+<country>KR</country>
+<doc-number>20010029590</doc-number>
+<kind>A</kind>
+<date>20010400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00111">
+<document-id>
+<country>KR</country>
+<doc-number>19970062375</doc-number>
+<kind>B1</kind>
+<date>20020600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00112">
+<document-id>
+<country>WO</country>
+<doc-number>03033976</doc-number>
+<kind>A1</kind>
+<date>20030400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00113">
+<document-id>
+<country>WO</country>
+<doc-number>03102481</doc-number>
+<kind>A1</kind>
+<date>20031200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>14</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 62 66</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 62157</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 62208</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 62233</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 62 89</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>48</number-of-drawing-sheets>
+<number-of-figures>62</number-of-figures>
+</figures>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>11421777</doc-number>
+<date>20060602</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>7607312</doc-number>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>12577966</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>11331941</doc-number>
+<date>20060113</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>7591141</doc-number>
+<date>20090922</date>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>11421777</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<continuation-in-part>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>11139237</doc-number>
+<date>20050527</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>7337620</doc-number>
+<date>20080304</date>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>11331941</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation-in-part>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20100030383</doc-number>
+<kind>A1</kind>
+<date>20100204</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Wetekamp</last-name>
+<first-name>Robert L.</first-name>
+<address>
+<city>Cedar Rapids</city>
+<state>IA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Van Meter</last-name>
+<first-name>Kyle B.</first-name>
+<address>
+<city>Coralville</city>
+<state>IA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Tarrant</last-name>
+<first-name>Alan G.</first-name>
+<address>
+<city>Williamsburg</city>
+<state>IA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="004" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Schuchart</last-name>
+<first-name>Ryan D.</first-name>
+<address>
+<city>Cedar Rapids</city>
+<state>IA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="005" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Oliveira</last-name>
+<first-name>Mauro M.</first-name>
+<address>
+<city>Cedar Rapids</city>
+<state>IA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="006" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Miller</last-name>
+<first-name>Alvin V.</first-name>
+<address>
+<city>Swisher</city>
+<state>IA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="007" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Koppenhaver</last-name>
+<first-name>Brent A.</first-name>
+<address>
+<city>North Liberty</city>
+<state>IA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="008" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Franken</last-name>
+<first-name>Carl J.</first-name>
+<address>
+<city>Davenport</city>
+<state>IA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="009" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Ferragut, II</last-name>
+<first-name>Nelson J.</first-name>
+<address>
+<city>Williamsburg</city>
+<state>IA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="010" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Coulter</last-name>
+<first-name>Tim L.</first-name>
+<address>
+<city>Cedar Rapids</city>
+<state>IA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="011" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Berardi</last-name>
+<first-name>Greg</first-name>
+<address>
+<city>Iowa City</city>
+<state>IA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="012" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Anell</last-name>
+<first-name>Thomas Carl</first-name>
+<address>
+<city>Knoxville</city>
+<state>IA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Whirlpool Corporation</orgname>
+<role>02</role>
+<address>
+<city>Benton Harbor</city>
+<state>MI</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Tapolcai</last-name>
+<first-name>William E</first-name>
+<department>3744</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A refrigerator includes a refrigerator cabinet, a fresh food compartment disposed within the cabinet, a freezer compartment disposed within the cabinet, an ice compartment disposed within the cabinet, and an electronic control system associated with the refrigerator and adapted to monitor and control the fresh food compartment, the freezer compartment and the ice compartment. The control system provides for energy efficient control and operation through various means, including adjusting cut-in and cut-out temperatures of the cooling system to control.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="228.60mm" wi="179.49mm" file="US07891198-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="267.55mm" wi="177.12mm" file="US07891198-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="282.02mm" wi="179.49mm" file="US07891198-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="266.62mm" wi="178.56mm" file="US07891198-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="237.57mm" wi="189.65mm" file="US07891198-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="256.79mm" wi="156.21mm" file="US07891198-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="268.56mm" wi="156.72mm" file="US07891198-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="218.27mm" wi="151.38mm" orientation="landscape" file="US07891198-20110222-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="242.32mm" wi="167.72mm" orientation="landscape" file="US07891198-20110222-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="241.22mm" wi="171.28mm" orientation="landscape" file="US07891198-20110222-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="175.51mm" wi="124.88mm" file="US07891198-20110222-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="218.19mm" wi="141.31mm" file="US07891198-20110222-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="267.72mm" wi="181.19mm" file="US07891198-20110222-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="257.05mm" wi="186.01mm" file="US07891198-20110222-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="252.73mm" wi="177.04mm" file="US07891198-20110222-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="263.82mm" wi="183.90mm" file="US07891198-20110222-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="130.22mm" wi="160.87mm" file="US07891198-20110222-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="237.32mm" wi="177.46mm" orientation="landscape" file="US07891198-20110222-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00018" num="00018">
+<img id="EMI-D00018" he="186.44mm" wi="156.89mm" file="US07891198-20110222-D00018.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00019" num="00019">
+<img id="EMI-D00019" he="209.21mm" wi="113.54mm" file="US07891198-20110222-D00019.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00020" num="00020">
+<img id="EMI-D00020" he="256.54mm" wi="114.47mm" file="US07891198-20110222-D00020.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00021" num="00021">
+<img id="EMI-D00021" he="252.31mm" wi="156.21mm" file="US07891198-20110222-D00021.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00022" num="00022">
+<img id="EMI-D00022" he="265.18mm" wi="188.72mm" file="US07891198-20110222-D00022.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00023" num="00023">
+<img id="EMI-D00023" he="245.45mm" wi="178.82mm" file="US07891198-20110222-D00023.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00024" num="00024">
+<img id="EMI-D00024" he="214.04mm" wi="153.84mm" orientation="landscape" file="US07891198-20110222-D00024.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00025" num="00025">
+<img id="EMI-D00025" he="167.30mm" wi="161.29mm" file="US07891198-20110222-D00025.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00026" num="00026">
+<img id="EMI-D00026" he="217.68mm" wi="158.83mm" orientation="landscape" file="US07891198-20110222-D00026.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00027" num="00027">
+<img id="EMI-D00027" he="211.33mm" wi="151.55mm" orientation="landscape" file="US07891198-20110222-D00027.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00028" num="00028">
+<img id="EMI-D00028" he="252.05mm" wi="153.08mm" orientation="landscape" file="US07891198-20110222-D00028.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00029" num="00029">
+<img id="EMI-D00029" he="191.60mm" wi="184.74mm" file="US07891198-20110222-D00029.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00030" num="00030">
+<img id="EMI-D00030" he="240.96mm" wi="184.74mm" file="US07891198-20110222-D00030.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00031" num="00031">
+<img id="EMI-D00031" he="244.26mm" wi="188.13mm" file="US07891198-20110222-D00031.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00032" num="00032">
+<img id="EMI-D00032" he="246.80mm" wi="182.88mm" file="US07891198-20110222-D00032.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00033" num="00033">
+<img id="EMI-D00033" he="259.33mm" wi="178.56mm" file="US07891198-20110222-D00033.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00034" num="00034">
+<img id="EMI-D00034" he="272.80mm" wi="195.50mm" file="US07891198-20110222-D00034.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00035" num="00035">
+<img id="EMI-D00035" he="249.17mm" wi="177.55mm" file="US07891198-20110222-D00035.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00036" num="00036">
+<img id="EMI-D00036" he="285.41mm" wi="192.02mm" file="US07891198-20110222-D00036.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00037" num="00037">
+<img id="EMI-D00037" he="284.99mm" wi="205.06mm" file="US07891198-20110222-D00037.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00038" num="00038">
+<img id="EMI-D00038" he="282.02mm" wi="193.55mm" file="US07891198-20110222-D00038.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00039" num="00039">
+<img id="EMI-D00039" he="287.36mm" wi="198.80mm" file="US07891198-20110222-D00039.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00040" num="00040">
+<img id="EMI-D00040" he="270.93mm" wi="196.43mm" file="US07891198-20110222-D00040.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00041" num="00041">
+<img id="EMI-D00041" he="283.97mm" wi="198.88mm" file="US07891198-20110222-D00041.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00042" num="00042">
+<img id="EMI-D00042" he="281.60mm" wi="197.87mm" file="US07891198-20110222-D00042.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00043" num="00043">
+<img id="EMI-D00043" he="250.61mm" wi="116.08mm" file="US07891198-20110222-D00043.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00044" num="00044">
+<img id="EMI-D00044" he="284.99mm" wi="189.65mm" file="US07891198-20110222-D00044.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00045" num="00045">
+<img id="EMI-D00045" he="282.02mm" wi="193.97mm" file="US07891198-20110222-D00045.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00046" num="00046">
+<img id="EMI-D00046" he="278.64mm" wi="192.53mm" file="US07891198-20110222-D00046.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00047" num="00047">
+<img id="EMI-D00047" he="243.16mm" wi="191.52mm" file="US07891198-20110222-D00047.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00048" num="00048">
+<img id="EMI-D00048" he="230.29mm" wi="101.60mm" file="US07891198-20110222-D00048.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is a continuation application of U.S. Ser. No. 11/421,777 filed Jun. 2, 2006, which is a continuation application of U.S. application Ser. No. 11/331,941 filed Jan. 13, 2006, which is a continuation-in-part application of U.S. application Ser. No. 11/139,237, filed May 27, 2005, entitled INSULATED ICE COMPARTMENT FOR BOTTOM MOUNT REFRIGERATOR, herein incorporated by reference in its entirety.</p>
+<p id="p-0003" num="0002">This application does not claim priority, but hereby incorporates by reference in their entirety, provisional application Ser. No. 60/613,241 filed Sep. 27, 2004, entitled APPARATUS AND METHOD FOR DISPENSING ICE FROM A BOTTOM MOUNT REFRIGERATOR, and U.S. application Ser. No. 11/131,701, filed May 18, 2005, entitled REFRIGERATOR WITH INTERMEDIATE TEMPERATURE ICEMAKING COMPARTMENT, now issued as U.S. Pat. No. 7,284,390 issued on Oct. 23, 2007.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0004" num="0003">Household refrigerators generally come in three structural styles: (1) a side-by-side model wherein the freezer and refrigerator compartments are side by side; (2) a top mount model wherein the freezer compartment is located above the refrigerator compartment; and (3) a bottom mount model wherein the freezer compartment is mounted below the refrigerator compartment. An icemaker is normally provided in the freezer compartment of all three models. A door mounted ice dispenser is often provided in a side-by-side refrigerator and in a top mount refrigerator so that a person can add ice to a glass without opening the freezer or refrigerator door. However, a door mounted ice dispenser normally is not been provided in bottom mount refrigerators, since the freezer door is too low, and there are difficulties in transporting ice from the freezer compartment to the refrigerator compartment which precludes a dispenser in the refrigerator compartment door. However, it is desirable to have an ice dispenser in the refrigerator compartment of a bottom mount refrigerator.</p>
+<p id="p-0005" num="0004">Providing an icemaking compartment within the fresh food compartment of a refrigerator presents numerous issues, both structural and functional. For example, the fresh food compartment is normally about 40&#xb0; F., while an ice compartment needs to be less than 32&#xb0; F. in order to make ice effectively and efficiently and is typically at, or about 0&#xb0; F. Maintaining and controlling the temperature within the icemaking compartment requires insulation, seals, appropriate airflow, and a control system. Placing the icemaking compartment within the fresh food compartment of the refrigerator also requires consideration of electrical connections of the icemaker and the supply of water to the icemaker. The method of manufacturing of such an icemaking compartment within the fresh food compartment of a refrigerator also raises novel and unique considerations which are not factors for an icemaking compartment mounted in a freezer.</p>
+<p id="p-0006" num="0005">U.S. Pat. No. 6,735,959 issued to Najewicz discloses a thermoelectric icemaker placed within the fresh food compartment of a bottom mount refrigerator that may be dispensed through the fresh food door. Najewicz forms ice within the fresh food compartment using the thermoelectric icemaker even though the compartment is above a freezing temperature. Although Najewicz provides for a duct that runs from the freezer compartment to the thermoelectric icemaker, the cold air from the duct is used to remove heat from the thermoelectric icemaker. Najewicz has many problems that must be overcome in order to be practical including the removal of unfrozen water, rapid ice body formation, prolonged ice storage, etc. The present invention overcomes these problems.</p>
+<heading id="h-0003" level="1">BRIEF SUMMARY OF THE INVENTION</heading>
+<p id="p-0007" num="0006">Therefore it is a primary object, feature, or advantage of the present invention to improve over the state of the art.</p>
+<p id="p-0008" num="0007">A further object, feature, or advantage of the present invention is the provision of an improved refrigerator having an icemaking compartment within the fresh food compartment.</p>
+<p id="p-0009" num="0008">Another object, feature, or advantage of the present invention is the provision of a refrigerator having a separate icemaking compartment maintained at a temperature between 0&#xb0; and 32&#xb0; F.</p>
+<p id="p-0010" num="0009">A further object, feature, or advantage of the present invention is the provision of a refrigerator having an insulated icemaking compartment remote from the freezer compartment.</p>
+<p id="p-0011" num="0010">Still another object, feature, or advantage of the present invention is the provision of a bottom mount refrigerator having an icemaking compartment integrally formed in the liner of the fresh food compartment.</p>
+<p id="p-0012" num="0011">Yet another object, feature, or advantage of the present invention is the provision of a bottom mount refrigerator having a modular icemaking compartment mounted in the fresh food compartment.</p>
+<p id="p-0013" num="0012">A further object, feature, or advantage of the present invention is the provision of a bottom mount refrigerator having an icemaking compartment in the fresh food compartment, and having an insulated and sealed front cover on the icemaking compartment which can be opened to provide access into the compartment.</p>
+<p id="p-0014" num="0013">Another object, feature, or advantage of the present invention is the provision of an icemaking compartment in the fresh food compartment of a bottom mount refrigerator with a single electrical connection within the icemaking compartment for the wire harness of the icemaker.</p>
+<p id="p-0015" num="0014">Another object, feature, or advantage of the present invention is the provision of an icemaking compartment in the fresh food compartment of a bottom mount refrigerator wherein the water fill tube for supplying water to the icemaker extends downwardly through a vertically disposed hole in the top wall of the refrigerator.</p>
+<p id="p-0016" num="0015">Still another object, feature, or advantage of the present invention is the provision of an icemaking compartment within the fresh food compartment of a bottom mount refrigerator wherein the water fill tube for the icemaker is exposed to ambient air to prevent freezing of water within the fill tube.</p>
+<p id="p-0017" num="0016">Yet another object, feature, or advantage of the present invention is the provision of a bottom mount refrigerator having a recessed cavity in the fresh food compartment in which a water tank is mounted.</p>
+<p id="p-0018" num="0017">A further object, feature, or advantage of the present invention is the provision of an icemaking compartment which is formed separately from and mounted into a fresh food compartment of a bottom mount refrigerator.</p>
+<p id="p-0019" num="0018">Another object, feature, or advantage of the present invention is the provision of a method of making a bottom mount refrigerator having an integral ice compartment formed in the liner of the fresh food compartment.</p>
+<p id="p-0020" num="0019">Still another object, feature, or advantage of the present invention is the provision of a control system for an ice compartment within the fresh food compartment of a refrigerator for controlling icemaking and dispensing.</p>
+<p id="p-0021" num="0020">Still another object, feature, or advantage of the present invention is the provision of a refrigerator having a fresh food compartment with an icemaking compartment therein, and an ice dispenser in the door of the fresh food compartment.</p>
+<p id="p-0022" num="0021">Another object, feature, or advantage of the present invention is the provision of a bottom mount refrigerator having an ice dispenser in the door of the refrigerator, also known as the fresh food, compartment.</p>
+<p id="p-0023" num="0022">Another object, feature, or advantage of the present invention is the provision of an icemaker in the refrigerator compartment of a bottom mount refrigerator, with a cold air duct to provide air from the freezer compartment to the icemaker.</p>
+<p id="p-0024" num="0023">Still another object, feature, or advantage of the present invention is the provision of an icemaker in the refrigerator compartment of a bottom mount refrigerator having efficient and timely icemaking capacity.</p>
+<p id="p-0025" num="0024">It is a further object, feature, or advantage of the present invention to provide a bottom mount refrigerator that dispenses ice and water through the door.</p>
+<p id="p-0026" num="0025">It is a still further object, feature, or advantage of the present invention to provide a refrigerator that is energy efficient.</p>
+<p id="p-0027" num="0026">Another object, feature, or advantage of the present invention is to provide a refrigerator that enhances safety.</p>
+<p id="p-0028" num="0027">Yet another object, feature, or advantage of the present invention is to provide a refrigerator that provides convenience to users.</p>
+<p id="p-0029" num="0028">A further object, feature, or advantage of the present invention is to provide a refrigerator that is aesthetically pleasing to users.</p>
+<p id="p-0030" num="0029">A still further object, feature, or advantage of the present invention is to provide a refrigerator with a control system design that minimizes the complexity and the number of components necessary.</p>
+<p id="p-0031" num="0030">Another object, feature, or advantage of the present invention is to provide a refrigerator with a drive for the ice box/fresh food compartment damper which provides feedback.</p>
+<p id="p-0032" num="0031">Yet another object, feature, or advantage of the present invention is to provide a refrigerator with compartment light cutout.</p>
+<p id="p-0033" num="0032">A further object, feature, or advantage of the present invention is to provide a refrigerator which disables the icemaker and dispenser when the fresh food compartment door opens.</p>
+<p id="p-0034" num="0033">A still further object, feature, or advantage of the present invention is to provide a refrigerator with a menu-driven interface.</p>
+<p id="p-0035" num="0034">Another object, feature, or advantage of the present invention is to provide a refrigerator with a variable speed fan.</p>
+<p id="p-0036" num="0035">One or more of these and/or other objects, features, or advantages of the present invention will become from the specification and claims that follow.</p>
+<p id="p-0037" num="0036">The bottom mount refrigerator of the present invention has an icemaker within an insulated icemaking compartment in the fresh food or refrigerator compartment. Cold air is supplied to the icemaking compartment from the freezer compartment via a cold air duct. A return air duct extends from the icemaking compartment to the freezer compartment. The icemaking compartment also includes a vent opening for venting air to the refrigerator compartment. A fan draws or forces air through the duct from the freezer compartment to the icemaking compartment. The temperature in the ice making compartment is between 0&#xb0; F. to 32&#xb0; F., which is colder than the temperature of the refrigerator compartment, but not as cold as the freezer compartment. The icemaking compartment is preferably located in an upper corner of the refrigerator compartment. The door of the refrigerator compartment includes an ice dispenser to supply ice to a person without opening the refrigerator compartment door. The door may include an ice bin for storing ice from the icemaker.</p>
+<p id="p-0038" num="0037">In the improved refrigerator of the present invention, the icemaking compartment is insulated. Preferably, the icemaking compartment is formed integrally with the liner of the fresh food compartment. Alternatively, the icemaking compartment is formed separately from and mounted in the fresh food compartment. The icemaking compartment includes inner and outer shells, with insulation therebetween, as well as an insulated front cover which provides an air-tight seal with the icemaking compartment when closed, and which can be opened to provide access to the icemaker and ice bin within the icemaking compartment. The water fill tube for the icemaking compartment extends through a vertically disposed hole in the top wall of the refrigerator, and is exposed to ambient air to prevent freezing of water within the tube. The refrigerator includes a recessed cavity in the back wall in which a water tank is mounted.</p>
+<p id="p-0039" num="0038">In the method of manufacturing the icemaking compartment of the present invention, the ice compartment is preferably formed in the liner of the fresh food compartment during the molding processing using oppositely disposed forces. A three-dimensional plug forms the icemaking compartment from a rear side of the fresh food compartment liner. A front wall of the icemaking compartment is then cutout, so that an ice box can be inserted through the cutout into the icemaking compartment.</p>
+<p id="p-0040" num="0039">A control system is provided for the refrigerator for controlling the making and dispensing of ice in the icemaking compartment within the fresh food compartment of the bottom mount refrigerator.</p>
+<p id="p-0041" num="0040">In one aspect of the invention, a refrigerator includes a refrigerator cabinet, a fresh food compartment disposed within the cabinet, a freezer compartment disposed within the cabinet, an ice compartment disposed within the cabinet, and an electronic control system associated with the refrigerator and adapted to monitor and control the fresh food compartment, the freezer compartment and the ice compartment. Preferably, the ice compartment is positioned remote from the freezer compartment. Preferably also, two side-by-side fresh food compartment doors provide access to the fresh food compartment. A freezer compartment door for providing access to the freezer compartment is preferably positioned below the two side-by-side fresh food compartment doors. A dispenser is associated with one of the two side-by-side fresh food compartment doors, the dispenser is adapted for dispensing ice from the ice compartment as well as water. The control system is adapted to disable the dispenser upon opening of the fresh food compartment door associated with the dispenser.</p>
+<p id="p-0042" num="0041">According to another aspect of the present invention, the refrigerator includes an ice compartment temperature sensor associated with the ice compartment and electrically connected to the electronic control system, a fresh food compartment temperature sensor associated with the fresh food compartment and electrically connected to the electronic control system, a freezer compartment temperature sensor associated with the freezer compartment and electrically connected to the electronic control system, and an ambient temperature sensor electrically connected to the electronic control system. The control system is preferably adapted for performing the step of calculating a desired performance temperature for each of the fresh food compartment, the freezer compartment, and the ice compartment using correlations. The control system may be adapted for performing the step of calculating a desired performance temperature for each of the fresh food compartment, the freezer compartment, and the ice compartment using correlations and weighting at least partially based on prior testing to thereby improve temperature stability and food preservation.</p>
+<p id="p-0043" num="0042">According to another aspect of the invention, the refrigerator may include a variable speed evaporator fan, and a variable speed evaporator fan output from the control system. The control system is adapted for setting the variable speed evaporator fan to a plurality of rates. The control system is adapted to set the variable speed evaporator fan at a first rate when the freezer is determined to require cooling and a second rate when the freezer is determined not to require cooling and the fresh food compartment is determined to require cooling, the second rate being lower than the first rate. The control system may also be adapted to set the variable speed evaporator fan at a first rate when the freezer is determined to require cooling and a second rate when the freezer is determined not to require cooling and the ice compartment is determined to require cooling, the second rate being lower than the first rate.</p>
+<p id="p-0044" num="0043">According to another aspect of the invention, there is a direct current (DC) mullion heater electrically connected to the control system for selectively providing heat to increase overall energy efficiency of the refrigerator.</p>
+<p id="p-0045" num="0044">According to another aspect of the invention, there is a cavity heater associated with a door of the refrigerator, the cavity heater electrically connected to the control system for selectively providing heat to increase overall energy efficiency of the refrigerator.</p>
+<p id="p-0046" num="0045">According to another aspect of the invention, there is a fresh food compartment light associated with the fresh food compartment to turn the fresh food compartment light off after a set time period during which the fresh food compartment door is open.</p>
+<p id="p-0047" num="0046">According to another aspect of the invention, there is a freezer compartment light associated with the freezer compartment to turn the freezer compartment light off after a set time period during which the freezer compartment door is open.</p>
+<p id="p-0048" num="0047">According to another aspect of the invention, the control system is adapted to disable the ice maker and a dispenser on the fresh food compartment door when the fresh food compartment door opens.</p>
+<p id="p-0049" num="0048">According to another aspect of the invention, the control system is adapted for performing the step of calculating a desired performance temperature for each of the fresh food compartment, the freezer compartment, and the ice compartment using correlations. The correlation is arrived at by prior testing in a plurality of environments and usage conditions.</p>
+<p id="p-0050" num="0049">According to another aspect of the invention there is a damper for controlling air flow and the electronic control system is adapted for monitoring damper state and if the damper state indicates the damper is not properly operating, a motor output associated with the damper is pulsed to heat and thereby free the damper. The step of monitoring can include monitoring lengths and sequence of a switch state associated with the damper and determining if the sequence is outside of a tolerance level and waiting for the sequence to be within the tolerance level before determining the damper state.</p>
+<p id="p-0051" num="0050">According to another aspect of the present invention a refrigerator is provided which includes a refrigerator cabinet, at least one compartment disposed within the refrigerator cabinet, a cooling system within the refrigerator cabinet, and an electronic control system associated with the refrigerator and adapted to monitor and control temperature within the at least one compartment, the electronic control system adapted to cycle on and off the cooling system based on a cut-in temperature and a cut-out temperature associated with at least one of the at least one compartment, the electronic control system further adapted to adjust the cut-in temperature and the cut-out temperature during operation of the refrigerator to thereby improve temperature performance and energy efficiency of the refrigerator.</p>
+<p id="p-0052" num="0051">According to another aspect of the present invention, a refrigerator is provided. The refrigerator includes a refrigerator cabinet, at least two compartments disposed within the refrigerator cabinet, each of the at least two compartments having a temperature sensor for sensing temperature, and an electronic control system associated with the refrigerator, operatively connected to each of the at least two temperature sensors for monitoring temperature within the at least two compartments, the electronic control system further adapted to synchronize cooling of the at least two compartments to thereby provide consistent power consumption patterns.</p>
+<p id="p-0053" num="0052">According to another aspect of the present invention a refrigerator is provided. The refrigerator includes a refrigerator cabinet, a compartment disposed within the refrigerator cabinet, a temperature sensor associated with the compartment, and an electronic control system operatively connected to the temperature sensor and adapted for calculating a desired performance temperature for the compartment using temperature data from the temperature sensor and temperature data based on prior testing from locations within the compartment different from a position of the temperature sensor within the compartment to thereby improve temperature stability and food preservation of the refrigerator without use of additional temperature sensors within the compartment. The step of calculating can include using correlation and weighting.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0054" num="0053"><figref idref="DRAWINGS">FIG. 1</figref> is a perspective view of a bottom mount refrigerator according to the present invention.</p>
+<p id="p-0055" num="0054"><figref idref="DRAWINGS">FIG. 2</figref> is a perspective view of the bottom mount refrigerator having the doors removed.</p>
+<p id="p-0056" num="0055"><figref idref="DRAWINGS">FIG. 3</figref> is a view similar to <figref idref="DRAWINGS">FIG. 2</figref> showing the cold air duct and return air duct for the icemaking compartment.</p>
+<p id="p-0057" num="0056"><figref idref="DRAWINGS">FIG. 4</figref> is a front elevation view of the bottom mount refrigerator of the present invention with the doors open, and illustrating the cold air and return air ducts.</p>
+<p id="p-0058" num="0057"><figref idref="DRAWINGS">FIG. 5</figref> is a sectional view taken along lines <b>5</b>-<b>5</b> of <figref idref="DRAWINGS">FIG. 4</figref>.</p>
+<p id="p-0059" num="0058"><figref idref="DRAWINGS">FIG. 6</figref> is a sectional view taken along lines <b>6</b>-<b>6</b> of <figref idref="DRAWINGS">FIG. 4</figref>.</p>
+<p id="p-0060" num="0059"><figref idref="DRAWINGS">FIG. 7</figref> is a perspective view of the icemaker positioned within the icemaking compartment.</p>
+<p id="p-0061" num="0060"><figref idref="DRAWINGS">FIG. 8</figref> is a perspective view of the fresh food compartment liner with the integrally formed icemaking compartment of the present invention.</p>
+<p id="p-0062" num="0061"><figref idref="DRAWINGS">FIG. 9</figref> is a front elevation view of the liner shown in <figref idref="DRAWINGS">FIG. 8</figref> without the ice box attached.</p>
+<p id="p-0063" num="0062"><figref idref="DRAWINGS">FIG. 10</figref> is a side elevation view of the liner shown in <figref idref="DRAWINGS">FIG. 8</figref>.</p>
+<p id="p-0064" num="0063"><figref idref="DRAWINGS">FIG. 11</figref> is a perspective view of the ice box which mounts to the liner in accordance with one embodiment of the present invention.</p>
+<p id="p-0065" num="0064"><figref idref="DRAWINGS">FIG. 12</figref> is a right side elevation view of the fresh food compartment liner showing the water tank recess formed in the rear wall.</p>
+<p id="p-0066" num="0065"><figref idref="DRAWINGS">FIG. 13</figref> is a partial front elevation view of the fresh food compartment liner showing the water tank recess.</p>
+<p id="p-0067" num="0066"><figref idref="DRAWINGS">FIG. 14</figref> is a rear perspective view of the fresh food compartment liner with the ice box installed within the outer shell of the fresh food compartment.</p>
+<p id="p-0068" num="0067"><figref idref="DRAWINGS">FIG. 15</figref> is a front perspective view of the fresh food compartment with the ice maker and pan assembly removed for clarity.</p>
+<p id="p-0069" num="0068"><figref idref="DRAWINGS">FIG. 16</figref> is a perspective view of the liner, box and air ducts provided for the icemaking compartment.</p>
+<p id="p-0070" num="0069"><figref idref="DRAWINGS">FIG. 17</figref> is a front elevation view of the ice compartment with the pan assembly moved for clarity.</p>
+<p id="p-0071" num="0070"><figref idref="DRAWINGS">FIG. 18</figref> is a view showing an internal portion of the icemaking compartment with a wire harness cavity in an open position.</p>
+<p id="p-0072" num="0071"><figref idref="DRAWINGS">FIG. 19</figref> is a view similar to <figref idref="DRAWINGS">FIG. 16</figref> showing the wire harness cavity with a cover installed.</p>
+<p id="p-0073" num="0072"><figref idref="DRAWINGS">FIG. 20</figref> is a perspective view from the front of the icemaker showing the bin and front cover in a closed position.</p>
+<p id="p-0074" num="0073"><figref idref="DRAWINGS">FIG. 21</figref> is a view similar to <figref idref="DRAWINGS">FIG. 14</figref> showing the bin and front cover in an open position.</p>
+<p id="p-0075" num="0074"><figref idref="DRAWINGS">FIG. 22</figref> is a perspective view of the ice pan, auger and motor assembly.</p>
+<p id="p-0076" num="0075"><figref idref="DRAWINGS">FIG. 23</figref> is an exploded view of the ice pan, auger and motor assembly.</p>
+<p id="p-0077" num="0076"><figref idref="DRAWINGS">FIG. 24</figref> is a rear elevation view of the bin assembly seal for the icemaking compartment.</p>
+<p id="p-0078" num="0077"><figref idref="DRAWINGS">FIG. 25</figref> is a sectional view taken along lines <b>25</b>-<b>25</b> of <figref idref="DRAWINGS">FIG. 24</figref>.</p>
+<p id="p-0079" num="0078"><figref idref="DRAWINGS">FIG. 26</figref> is a front view of the water cavity formed within the rear wall of the fresh food compartment, with the water tank assembly mounted therein.</p>
+<p id="p-0080" num="0079"><figref idref="DRAWINGS">FIG. 27</figref> is a front view of the fresh food compartment showing the cover installed over the water tank cavity.</p>
+<p id="p-0081" num="0080"><figref idref="DRAWINGS">FIG. 28</figref> is a perspective view of the water tank assembly of the present invention.</p>
+<p id="p-0082" num="0081"><figref idref="DRAWINGS">FIG. 29</figref> is an exploded view of the water tank assembly of the present invention.</p>
+<p id="p-0083" num="0082"><figref idref="DRAWINGS">FIG. 30</figref> is a perspective view showing the top of the refrigerator with the water fill tube cup mounted thereon.</p>
+<p id="p-0084" num="0083"><figref idref="DRAWINGS">FIG. 31</figref> is an enlarged view of the water fill tube cup showing the vertical hole through which the water fill tube extends.</p>
+<p id="p-0085" num="0084"><figref idref="DRAWINGS">FIG. 32</figref> is a sectional view taking along lines <b>32</b>-<b>32</b> of <figref idref="DRAWINGS">FIG. 31</figref>.</p>
+<p id="p-0086" num="0085"><figref idref="DRAWINGS">FIG. 33</figref> is an exploded perspective view of the air impingement system of the present invention.</p>
+<p id="p-0087" num="0086"><figref idref="DRAWINGS">FIG. 34</figref> is an assembled perspective view of the air impingement system in the ice box.</p>
+<p id="p-0088" num="0087"><figref idref="DRAWINGS">FIG. 35</figref> is an assembled perspective view of the ice maker in the ice box.</p>
+<p id="p-0089" num="0088"><figref idref="DRAWINGS">FIG. 36</figref> is a view showing the male mold for forming the liner of the fresh food compartment according to the preferred embodiment of the present invention.</p>
+<p id="p-0090" num="0089"><figref idref="DRAWINGS">FIG. 37</figref> is a view similar to <b>36</b> showing the plug inserted for formation of the icemaking compartment.</p>
+<p id="p-0091" num="0090"><figref idref="DRAWINGS">FIG. 38</figref> is a view of an alternative embodiment of an icemaking compartment formed separately from the fresh food compartment liner and mounted therein.</p>
+<p id="p-0092" num="0091"><figref idref="DRAWINGS">FIG. 39</figref> is an exploded view of the separate ice compartment of the alternative embodiment.</p>
+<p id="p-0093" num="0092"><figref idref="DRAWINGS">FIG. 40A</figref> is a block diagram of one embodiment of a control system according to the present invention.</p>
+<p id="p-0094" num="0093"><figref idref="DRAWINGS">FIG. 40B</figref> is a block diagram of another embodiment of a control system according to the present invention.</p>
+<p id="p-0095" num="0094"><figref idref="DRAWINGS">FIG. 41</figref> is a flow diagram of an executive loop according to one embodiment of the present invention.</p>
+<p id="p-0096" num="0095"><figref idref="DRAWINGS">FIG. 42</figref> is a flow diagram of a calculate temperatures subroutine according to one embodiment of the present invention.</p>
+<p id="p-0097" num="0096"><figref idref="DRAWINGS">FIG. 43</figref> illustrates one embodiment of a flow diagram for the adjust setpoints subroutine.</p>
+<p id="p-0098" num="0097"><figref idref="DRAWINGS">FIG. 44A</figref> illustrates one embodiment of a flow diagram for the update freezer subroutine.</p>
+<p id="p-0099" num="0098"><figref idref="DRAWINGS">FIG. 44B</figref> illustrates one embodiment of a flow diagram for the update freezer cuts subroutine.</p>
+<p id="p-0100" num="0099"><figref idref="DRAWINGS">FIG. 44C</figref> illustrates relationships between the cooling flag, control, temperature, setpoint, cut-ins, cut-outs, and cycle time for the update freezer cuts subroutine.</p>
+<p id="p-0101" num="0100"><figref idref="DRAWINGS">FIG. 45A</figref> illustrates one embodiment of a flow diagram for the update ice box subroutine.</p>
+<p id="p-0102" num="0101"><figref idref="DRAWINGS">FIG. 45B</figref> illustrates one embodiment of a flow diagram for the update ice box cuts subroutine.</p>
+<p id="p-0103" num="0102"><figref idref="DRAWINGS">FIG. 45C</figref> illustrates relationships between the cooling flag, control, temperature, setpoint, cut-ins, cut-outs, and cycle time for the update ice box cuts subroutine.</p>
+<p id="p-0104" num="0103"><figref idref="DRAWINGS">FIG. 46A</figref> illustrates one embodiment of a flow diagram for the update fresh food subroutine.</p>
+<p id="p-0105" num="0104"><figref idref="DRAWINGS">FIG. 46B</figref> illustrates one embodiment of a flow diagram for the update fresh food cuts subroutine.</p>
+<p id="p-0106" num="0105"><figref idref="DRAWINGS">FIG. 46C</figref> illustrates relationships between the cooling flag, control, temperature, setpoint, cut-ins, cut-outs, and cycle time for the update fresh food cuts subroutine.</p>
+<p id="p-0107" num="0106"><figref idref="DRAWINGS">FIG. 47</figref> illustrates one embodiment of a flow diagram for the update defrost subroutine.</p>
+<p id="p-0108" num="0107"><figref idref="DRAWINGS">FIG. 48</figref> illustrates one embodiment of a flow diagram for the check stable cycles subroutine.</p>
+<p id="p-0109" num="0108"><figref idref="DRAWINGS">FIG. 49</figref> illustrates one embodiment of a flow diagram for the scan ice maker subroutine.</p>
+<p id="p-0110" num="0109"><figref idref="DRAWINGS">FIG. 50</figref> illustrates one embodiment of a flow diagram for the control compressor subroutine.</p>
+<p id="p-0111" num="0110"><figref idref="DRAWINGS">FIG. 51</figref> illustrates one embodiment of a flow diagram for the control damper subroutine.</p>
+<p id="p-0112" num="0111"><figref idref="DRAWINGS">FIG. 52</figref> illustrates one embodiment of a flow diagram for the control defrost heater subroutine.</p>
+<p id="p-0113" num="0112"><figref idref="DRAWINGS">FIG. 53</figref> illustrates one embodiment of a flow diagram for the control evaporator fan subroutine.</p>
+<p id="p-0114" num="0113"><figref idref="DRAWINGS">FIG. 54</figref> illustrates one embodiment of a flow diagram for the control ice box fan subroutine.</p>
+<p id="p-0115" num="0114"><figref idref="DRAWINGS">FIG. 55</figref> illustrates one embodiment of a methodology for damper recovery.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENT</heading>
+<p id="p-0116" num="0115">A bottom mount refrigerator is generally designated in the drawings by the reference numeral <b>10</b>. The refrigerator <b>10</b> includes a refrigerator or fresh food compartment <b>12</b> and a freezer compartment <b>14</b>. Doors <b>16</b> are provided for the refrigerator compartment or fresh food compartment <b>12</b> and a door <b>18</b> is provided for the freezer compartment <b>14</b>. One of the doors <b>16</b> includes an ice dispenser <b>20</b>, which may also include a water dispenser.</p>
+<p id="h-0006" num="0000">Intermediate Temperature Icemaking Compartment.</p>
+<p id="p-0117" num="0116">An icemaking compartment or intermediate compartment <b>22</b> is provided in the refrigerator compartment <b>12</b>. The icemaking compartment <b>22</b> is shown to be in one of the upper corners of the refrigerator, or fresh food, compartment <b>12</b>, but other locations are also within the scope of this invention. The icemaking compartment <b>22</b> has a front cover <b>23</b> that is insulated to prevent the cold air of the icemaking compartment <b>22</b> from passing into the refrigerator compartment and opening <b>21</b> is provided that mates with chute <b>19</b> of the ice dispenser <b>20</b>. A seal may be provided between the opening <b>21</b> and chute <b>19</b> to prevent cold air from passing from the icemaking compartment to the refrigerator compartment <b>12</b>. Chute <b>19</b> may be adapted to engage opening <b>21</b> upon closing of door <b>16</b>. Chute <b>19</b> and opening <b>21</b> may be opposingly angled as to provide added sealing upon closing of door <b>16</b>. Additionally, a intermediate piece maybe be used to improve the seal be between chute <b>19</b> and opening <b>21</b>. For example, a resilient seal may be used to assist in achieving this seal. Alternatively, a spring or other elastic material or apparatus may be utilize between or about the junction of chute <b>19</b> and opening <b>21</b>. Other alternatives for sealing between chute <b>19</b> and opening <b>21</b> should be evident to one skilled in the art.</p>
+<p id="p-0118" num="0117">Additionally, chute <b>19</b> should have a blocking mechanism located within or about it to assist in preventing or decreasing the flow of air or heat transfer within chute <b>19</b>. For example, a flipper door that operates by a solenoid may be placed at the opening <b>21</b> to prevent cold air from leaving the icemaking compartment <b>22</b> and entering into the refrigerator compartment.</p>
+<p id="p-0119" num="0118">Preferably, the icemaking compartment <b>22</b> includes an icemaker <b>50</b> (as described below) that forms ice in an environment that is below freezing.</p>
+<p id="p-0120" num="0119">The icemaking compartment <b>22</b> may be integrally formed adjacent the refrigerator compartment <b>12</b> during the liner forming process and insulation filling process. In such a process the intermediate compartment may be separated on at least one side from the fresh food compartment by the refrigerator liner. Alternatively, the icemaking compartment <b>22</b> may be made or assembled remotely from the fresh food compartment and installed in the fresh food compartment <b>12</b>. For example, this compartment <b>22</b> may be slid into the refrigerator compartment <b>12</b> on overhead rails (not shown) or other mounting. These methods are discussed subsequently.</p>
+<p id="p-0121" num="0120">The refrigerator <b>10</b> includes an evaporator <b>24</b> which cools the refrigerator compartment <b>12</b> and the freezer compartment <b>14</b>. Normally, the refrigerator compartment <b>12</b> will be maintained at about 40&#xb0; F. and the freezer compartment <b>14</b> will be maintained at approximately 0&#xb0; F. The icemaking compartment is maintained at a temperature below 32&#xb0; F. or less in order to form ice, but is preferably not as cold as the freezer compartment <b>14</b>. Preferably this temperature is in the range of 20&#xb0; F. The walls of the icemaking compartment are insulated to facilitate temperature control among other aspects. Grates or air vents <b>26</b> are provided in the wall <b>28</b> between the refrigerator compartment <b>12</b> and the freezer compartment <b>14</b> to allow air circulation between the compartments.</p>
+<p id="h-0007" num="0000">Air Ducts</p>
+<p id="p-0122" num="0121">A cold air duct <b>30</b> extends between the freezer compartment <b>14</b> and the icemaking or specialty compartment <b>22</b>. More particularly, the cold air duct <b>30</b> has a lower air inlet <b>32</b> within the freezer compartment <b>14</b> and an upper outlet end <b>34</b> connected to a fan <b>36</b> mounted on the back wall of the icemaker <b>22</b>. The fan <b>36</b> draws cold air from the freezer compartment and forces the cold air into the icemaker <b>22</b> so as to facilitate icemaking. It is understood that the fan <b>36</b> may be located at the inlet end <b>32</b> of the cold air duct <b>30</b>. The fan <b>36</b> controls the air flow from the freezer compartment <b>14</b> to the icemaking compartment <b>22</b> and may be a variable speed fan. The fan can be actuated by conventional means. The cold air duct <b>30</b> preferably resides within the rear wall of the refrigerator <b>10</b>, as seen in <figref idref="DRAWINGS">FIG. 5</figref>. The arrow <b>35</b> designates the air flow through the cold air duct <b>30</b>.</p>
+<p id="p-0123" num="0122">The refrigerator <b>10</b> also includes a return air duct <b>38</b> having an upper end <b>40</b> connected to the icemaker <b>22</b>, and a lower end <b>42</b> terminating adjacent one of the air grates <b>26</b>. Alternatively, the lower end <b>42</b> of the return air duct <b>38</b> may extend into the freezer compartment <b>14</b>. Preferably, the return air duct <b>38</b> resides within the rear wall of the refrigerator <b>10</b>, as seen in <figref idref="DRAWINGS">FIG. 6</figref>.</p>
+<p id="p-0124" num="0123">The icemaking compartment <b>22</b> also has an air vent for discharging air into the refrigerator compartment <b>14</b>. Thus, a portion of the air from the icemaking compartment <b>22</b> is directed through the return air duct <b>38</b> to the freezer compartment <b>14</b>, as indicated by arrow <b>43</b> in <figref idref="DRAWINGS">FIG. 3</figref>, and another portion of the icemaking compartment air is vented through the opening <b>44</b> into the refrigerator compartment <b>12</b>, as indicated by arrows <b>45</b> in <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0125" num="0124">As seen in <figref idref="DRAWINGS">FIG. 4</figref>, the ice is discharged from the icemaker <b>22</b> in any conventional manner. Similarly, the ice dispenser <b>20</b> functions in a conventional manner.</p>
+<p id="h-0008" num="0000">Icemaker</p>
+<p id="p-0126" num="0125">As seen in <figref idref="DRAWINGS">FIG. 7</figref>, an icemaker <b>50</b> is positioned within the icemaking compartment <b>22</b> with the ice storage area <b>54</b> with auger (not shown) removed for clarity. The icemaker <b>50</b> is mounted to an impingement duct <b>52</b>. The impingement duct receives freezer air coming from the freezer compartment through the cold air duct <b>30</b> and the fan assembly <b>36</b>. The opening <b>44</b> vents air into the refrigerator compartment <b>12</b>. The auger assembly (not shown) is provided beneath the icemaker <b>50</b> along with an ice storage bin with an insulated cover <b>23</b>. Impingement on the ice maker, as well as other aspects of ice making, is disclosed in Applicant's concurrently filed U.S. application 11/140,100 entitled REFRIGERATOR WITH IMPROVED ICEMAKER and is hereby incorporated by reference.</p>
+<p id="h-0009" num="0000">Control System (Generally)</p>
+<p id="p-0127" num="0126">As described in more detail below, a control system is provided that utilizes the icemaking compartment <b>22</b>, the cold air supply duct <b>30</b>, the return air duct <b>38</b>, the variable speed icemaking fan <b>36</b>, icemaking impingement air duct <b>52</b>, an icemaking compartment thermistor (not shown), an icemaking compartment electronic control damper, fresh food air return ducts <b>26</b>, and a fresh food compartment thermistor (not shown). The above components are controlled by an algorithm that prioritizes the making of ice unless the fresh food temperature exceeds the set point temperature. This prioritization is achieved as follows:</p>
+<p id="p-0128" num="0127">i. When ice is a priority, the fresh food damper is closed and the fan runs at optimum speed. In this way, supply air from the freezer compartment <b>14</b> is discharged through the impingement air duct <b>52</b>, through the ice storage area <b>54</b>, and through the icemaking compartment return air duct <b>38</b>. One of the results of this air flow, is that ice is made at the highest rate.</p>
+<p id="p-0129" num="0128">ii. When the refrigerator compartment <b>12</b> is above set point, the electronic control damper opens and the fan runs at optimum speed. The supply air to the icemaking compartment is routed almost entirely into the fresh food compartment which forces the warmer air to return to the evaporator coil of the refrigerator. This achieves a rapid return to the fresh food set point after which the damper closes and the icemaking resumes.</p>
+<p id="p-0130" num="0129">iii. When the ice bin is full and the fresh food temperature is satisfied, the icemaking fan runs at minimum speed. Aspects of this will include: reduced energy consumption; reduced sound levels; and minimized sublimation of ice.</p>
+<p id="p-0131" num="0130">The above control system permits precision control of both the icemaking compartment <b>22</b> and the refrigeration compartment <b>12</b> separately, yet minimizes the complexity and the number of component parts necessary to do so.</p>
+<p id="h-0010" num="0000">Thermoelectric Alternative</p>
+<p id="p-0132" num="0131">A thermoelectric unit (not shown) may replace the impingement duct <b>52</b> with some concessions. Preferably the thermoelectric unit would contour about the icemaker as it effectively pulls heat out of the water. Alternatively, the thermoelectric unit could be the icemaker. Regardless, it should be understood that additionally, the thermoelectric unit would require a heat sink outside of the icemaking compartment <b>22</b> to dissipate heat. A careful balance is required between the voltage of the thermoelectric unit and the temperature of the refrigerator compartment <b>12</b> if the heat sink is in the refrigerator compartment <b>12</b>. For example, the higher the voltage, the more heat will be generated that will be required to be removed from the refrigerator compartment <b>12</b>. A portion of the heat generated by the thermoelectric unit may be removed by venting freezer compartment air to the thermoelectric unit.</p>
+<p id="h-0011" num="0000">Integral Icemaking Compartment</p>
+<p id="p-0133" num="0132"><figref idref="DRAWINGS">FIGS. 8-25</figref> and <b>33</b>-<b>35</b> show the preferred embodiment of the icemaking compartment <b>22</b>, wherein the compartment <b>22</b> is integrally formed with the liner <b>110</b> of the fresh food compartment <b>12</b>. The integral formation of the ice compartment <b>22</b> takes place during the molding of the fresh food compartment liner <b>110</b>. The liner <b>110</b> is formed in a conventional manner from a flat sheet of material using male and female molds <b>112</b>, <b>114</b>, as seen in <figref idref="DRAWINGS">FIGS. 36 and 37</figref>. The sheet material is heated and then placed between the open molds <b>112</b>, <b>114</b>, which are then closed in a vacuum box. Simultaneously, a three-dimensional plug <b>116</b> is moved in a direction opposite the male mold <b>112</b> so as to deform the sheet material from the rear side opposite the male mold <b>112</b>. Alternatively, the plug <b>116</b> can be stationary and the liner <b>110</b> formed around the plug <b>116</b>. The plug <b>116</b> forms a notch <b>117</b> in an upper corner of the liner <b>110</b>. The notch <b>117</b> defines an outer shell <b>118</b> of the ice compartment <b>22</b>. Thus, the outer shell <b>118</b> is integrally formed with the liner <b>110</b> of the fresh food compartment <b>12</b>. After the liner <b>110</b> and the outer shell <b>118</b> are completely formed, the plug <b>116</b> is withdrawn and the male mold <b>112</b> is separated from the female mold <b>114</b>. The liner <b>110</b> with the outer shell <b>118</b> of the ice compartment <b>22</b> is then removed and cooled. The front wall of the outer shell <b>118</b> is punched or cut so as to form an opening <b>120</b>. A second hole <b>121</b> is punched or cut in the shell <b>118</b> for the air vent <b>44</b>. The liner <b>112</b> is then moved to a punch station to trim the edges of the liner <b>110</b>.</p>
+<p id="p-0134" num="0133">The ice compartment <b>22</b> includes a box <b>122</b> which is inserted through the front opening <b>120</b> into the outer shell <b>118</b> so as to define an inner shell. The space between the outer shell <b>118</b> and the box or inner shell <b>122</b> is filled with an insulating foam, such that the ice compartment <b>22</b> is insulated. This insulation process may take place at the same time that insulation is applied between the liner <b>110</b> and the outer cabinet of the refrigerator <b>10</b>. The ice box <b>122</b> includes a rear hole <b>123</b> for connection to the cold air duct <b>30</b>, a second rear hole <b>125</b> for connection to the return air duct <b>38</b>, and a side hole <b>127</b> for the vent opening <b>44</b>.</p>
+<p id="h-0012" num="0000">Modular Icemaking Compartment</p>
+<p id="p-0135" num="0134">As an alternative to an icemaking compartment formed integrally in the liner <b>110</b>, the compartment <b>22</b> can be formed separately and then attached to the liner. This modular compartment is shown in <figref idref="DRAWINGS">FIGS. 38 and 39</figref>, and includes the liner <b>110</b>A of the fresh food compartment, and the ice box <b>122</b>A, which preferably is insulated. All other features and components of the compartment <b>22</b> are the same, other than how it is made. The modular unit can be mounted anywhere in the fresh food compartment <b>12</b>.</p>
+<p id="h-0013" num="0000">Wire Harness</p>
+<p id="p-0136" num="0135">The ice compartment <b>22</b> is adapted to receive the icemaker <b>50</b>, which is mounted therein using any convenient means. The ice box <b>122</b> includes a recess <b>124</b> adapted to receive the wire harness <b>126</b> for the icemaker <b>50</b>. The wire harness <b>126</b> may be adapted to allow for connection to the icemaker <b>50</b> prior to complete insertion or mounting of the ice maker <b>50</b> into the compartment <b>12</b>. For example, the wire harness <b>126</b> may be adapted to be operatively connected to the refrigerator near the front portion of ice box <b>122</b> to allow for sufficient travel of the ice maker upon insertion or mounting of the ice maker <b>50</b>. The wire harness <b>126</b> is operatively connected at the rearward portion of ice maker <b>50</b>. In this case, an assembler may connect the wire harness <b>126</b> to the ice maker <b>50</b> and/or the refrigerator prior to fully inserting or mounting ice maker <b>50</b> into ice box <b>122</b>.</p>
+<p id="p-0137" num="0136">A cover <b>128</b> may be provided for the wire harness recess <b>124</b> so as to enclose the wire harness <b>126</b> prior to connecting the harness <b>126</b> to the icemaker <b>50</b>. The ice box <b>122</b> has a hole <b>129</b> in a side wall to mount the connector or clip of the wire harness.</p>
+<p id="h-0014" num="0000">Ice Bin Assembly</p>
+<p id="p-0138" num="0137">The ice compartment <b>22</b> also includes an ice bin assembly <b>130</b>. The assembly <b>130</b> is removable for assembly, service, and user access to bulk ice storage. The components of the bin assembly <b>130</b> are shown in <figref idref="DRAWINGS">FIGS. 22 and 23</figref>. The bin assembly <b>130</b> includes a tray or bin <b>132</b> for receiving ice from the icemaker <b>50</b>. An auger <b>134</b> is mounted within the tray <b>132</b>, with the first end <b>136</b> of the auger <b>134</b> being received in a motor <b>138</b> which is mounted in the upstream end <b>140</b> of the tray <b>132</b>. The second end <b>142</b> of the auger <b>134</b> is mounted in a housing <b>144</b> on a front plate <b>146</b> of the bin assembly <b>130</b>. A short piece of auger flighting <b>143</b> is provided on the second end <b>142</b> of the auger <b>134</b>, within the housing <b>144</b>. The housing <b>144</b> includes an outlet opening <b>148</b>, with a flipper door <b>150</b> in the housing <b>144</b> to control opening and closing of the outlet opening <b>148</b>. The flipper door <b>150</b> is mounted upon a shaft <b>152</b> extending through the tray <b>132</b>. A spring <b>154</b> mounted on the shaft <b>152</b> engages the flipper door <b>150</b> to normally bias the door <b>150</b> to a closed position over the outlet opening <b>148</b>. The shaft <b>152</b> can be turned by a solenoid (not shown) so as to move the flipper door <b>150</b> to an open position relative to the outlet opening <b>148</b>, such that ice can be discharged from the tray <b>132</b> to the dispenser <b>20</b>.</p>
+<p id="h-0015" num="0000">Front Cover Seal</p>
+<p id="p-0139" num="0138">A two-piece front cover <b>162</b> is provided on the bin assembly <b>130</b>. A front cover <b>162</b> includes an inner panel <b>164</b> and an outer panel <b>166</b>, as best seen in <figref idref="DRAWINGS">FIG. 23</figref>. Insulation is provided between the inner and outer panels <b>164</b>, <b>166</b>, such that the front cover <b>162</b> is insulated. The inner panel <b>164</b> mounts onto the front plate <b>146</b> of the bin assembly <b>130</b>. A seal or compressible gasket <b>168</b> (<figref idref="DRAWINGS">FIG. 24</figref>) is provided around the outer perimeter front plate <b>146</b> so that when the bin assembly <b>130</b> is installed into the ice box <b>122</b>, an air-tight seal is provided between the bin assembly <b>130</b> and the front opening <b>120</b> of the ice compartment <b>22</b>. The seal <b>168</b> helps maintain the lower temperature of the icemaking compartment <b>22</b>, as compared to the higher temperature of the fresh food compartment <b>12</b>.</p>
+<p id="p-0140" num="0139">The front cover <b>162</b> includes a latch mechanism for releasably locking the cover <b>162</b> to the ice compartment <b>22</b>. The latch mechanism includes a lock bar <b>170</b> extending through a pair of collars <b>172</b> on the front plate <b>146</b> of the bin assembly <b>130</b> for lateral sliding movement between a locked and unlocked position. The lock bar <b>170</b> is normally biased to the locked position by a spring <b>174</b>. A cam <b>176</b> is mounted on a peg <b>178</b> on the front plate <b>146</b> of the bin assembly <b>130</b> and is adapted to engage a flange or finger <b>180</b> on the end of the lock bar <b>170</b>. The cam <b>176</b> overcomes the bias of the spring <b>74</b> when actuated by a finger button <b>182</b> mounted on the outer panel <b>166</b>, so as to release the front cover <b>162</b> for removal of the bin assembly <b>130</b>. Thus, the bin assembly <b>130</b> can be slid into the ice box <b>122</b> and retained with an air-tight seal to maintain the temperature of the ice compartment <b>22</b>. A user can depress the button <b>182</b> on the bin assembly <b>130</b> to release the lock bar <b>170</b> for removal of the bin assembly <b>130</b> from the ice box <b>122</b>.</p>
+<p id="h-0016" num="0000">Air Impingement</p>
+<p id="p-0141" num="0140">Another component of the icemaker <b>50</b> is an air impingement assembly <b>190</b>, as shown in <figref idref="DRAWINGS">FIGS. 33-35</figref>. The impingement assembly <b>190</b> includes a manifold <b>192</b> and a bottom plate <b>194</b> which define an air plenum therebetween. The manifold <b>192</b> includes a plurality of holes or nozzles <b>196</b>. The manifold <b>192</b> is operatively connected to the cold air duct <b>30</b> so the cold air from the freezer compartment <b>14</b> is directed into the manifold <b>192</b> by the fan <b>36</b>, and through the impingement nozzles <b>196</b> onto the bottom of the mold of the icemaker <b>50</b>, as best seen in <figref idref="DRAWINGS">FIG. 34</figref>.</p>
+<p id="p-0142" num="0141">The nozzles <b>196</b> are shown to be round, but may also be slotted, or any other shape. The nozzles <b>196</b> are preferably arranged in staggered rows. The diameter of the nozzles <b>196</b>, the spacing between the nozzles <b>196</b>, and the distance between the nozzles <b>196</b> and the ice mold are optimally designed to obtain the largest heat transfer coefficient for a prescribed air flow rate. For example, in a preferred embodiment, the nozzles <b>196</b> are round with a diameter of 0.2-0.25 inches, with a spacing of approximately 1.5 inches between adjacent nozzles, and a distance of 0.5-1.0 inches from the surface of the icemaker <b>50</b>. The alignment of the nozzles <b>196</b> with the ice mold preferably avoids direct air impingement on the first two ice cube slots near the icemaker thermostat so as to avoid hollow ice production.</p>
+<p id="p-0143" num="0142">The air impingement assembly <b>190</b> speeds ice production by 2-3 times so as to meet large requirements of ice. The impingement assembly <b>190</b> is also compact so as to permit increased ice storage space in a larger sized tray <b>132</b>.</p>
+<p id="h-0017" num="0000">Bale Plate</p>
+<p id="p-0144" num="0143">The ice maker <b>50</b> includes a bale plate <b>198</b> which shuts off the ice maker <b>50</b> when the level of ice cubes in the tray <b>132</b> reaches a pre-determined level. The plate <b>198</b> is pivotally connected to the ice maker <b>50</b> by a connector <b>200</b> at one end of the plate <b>198</b>, as seen in <figref idref="DRAWINGS">FIG. 35</figref>. The plate <b>198</b> pivots in a vertical plane. The plate <b>198</b> is stronger than a conventional wire bale arm. The vertical orientation of the plate <b>198</b> prevents ice from hanging up on the plate, which happens with a wire bale arm. The plate includes a plurality of holes <b>202</b> to reduce weight and to improve air flow.</p>
+<p id="h-0018" num="0000">Water Valve and Tank Assembly</p>
+<p id="p-0145" num="0144">Prior art refrigerators with water and ice dispensers typically locate the water system components, such as tanks, valves, filter and tubing, throughout the refrigerator cabinet and base pan areas. This arrangement is prone to service calls to repair leaks and water restrictions due to the larger number of connections or fittings for the components. The multiple connections and various tubing lengths also add to manufacturing costs.</p>
+<p id="p-0146" num="0145">In the present invention, the water system is pre-assembled in a single module that can be quickly and easily installed. The module has less tubing runs and connections between components as compared to prior art water systems.</p>
+<p id="p-0147" num="0146">The fresh food compartment <b>12</b> includes a recess or cavity <b>210</b> in the rear wall adapted to receive a water valve and tank assembly <b>212</b>. The water valve and tank assembly <b>212</b> is shown in <figref idref="DRAWINGS">FIGS. 28 and 29</figref>. The assembly <b>212</b> includes a mounting bracket <b>214</b> which is secured in the recess <b>212</b> in the back wall of the fresh food compartment <b>12</b> in any convenient manner. A water tank <b>216</b> is mounted on the bracket <b>214</b> and includes a water inlet line <b>218</b> and a water outlet line <b>220</b>. A cover <b>222</b> attaches to the rear wall of the fresh food compartment <b>12</b> so as to hide the water tank <b>216</b> from view when the door <b>16</b> of the fresh food compartment <b>12</b> is opened.</p>
+<p id="p-0148" num="0147">The water inlet line <b>218</b> is connected to a conventional water supply line. The water outlet line <b>220</b> is operatively connected to a filter <b>224</b>. Preferably, the filter <b>224</b> is pivotally mounted in the ceiling of the fresh food compartment <b>12</b>, as disclosed in Applicant's co-pending application Ser. No. 10/195,659, entitled HINGE DOWN REFRIGERATOR WATER FILTER, filed Jul. 15, 2002, which is incorporated herein by reference.</p>
+<p id="p-0149" num="0148">The water filter <b>220</b> has an outlet line <b>226</b> which is connected to a water solenoid valve <b>228</b> mounted on the bracket <b>214</b>. The valve <b>228</b> has a first outlet line <b>230</b> leading to the icemaker fill tube <b>232</b> and a second outlet line <b>234</b> leading to the water dispenser of the refrigerator <b>10</b>. Line <b>234</b> has a fitting <b>236</b> which provides a quick connection with a simple &#xbc; turn, without threads to the water dispenser line in the door <b>16</b>.</p>
+<p id="p-0150" num="0149">In prior art refrigerators, the water tank is normally located downstream of the water valve and filter, so as to prevent subjecting the water tank to inlet water supply pressures. In this invention, the tank <b>216</b> is designed to withstand inlet water supply pressures. The location of the tank <b>216</b> in the recess <b>210</b> allows greater fresh food storage capacity. Also, the location of the tank <b>216</b> upstream from the filter <b>224</b> and the valve <b>228</b> will reduce the service call rate. The downstream location of the filter <b>224</b> also removes plastic tastes associated with the plastic tank <b>216</b>, and allows chlorinated water to be stored in the tank <b>216</b>, which prevents microbiological growth on the interior of the water tank <b>216</b>.</p>
+<p id="h-0019" num="0000">Water Fill Tube</p>
+<p id="p-0151" num="0150">Prior art icemaker fill tubes are normally installed in the back of a freezer and run down a sloping tube to the icemaker. As seen in <figref idref="DRAWINGS">FIGS. 30-32</figref>, in the present invention the water fill tube <b>232</b> for the icemaker <b>50</b> extends downwardly through a vertically disposed hole <b>236</b> in the top wall <b>238</b> of the refrigerator <b>10</b>. The fill tube <b>232</b> is installed from the top of the refrigerator <b>10</b> into a plastic cup <b>244</b> positioned within a recess <b>246</b> in the top wall <b>238</b>. The fill tube <b>232</b> extends through the insulation in the top wall <b>238</b> and into the icemaker <b>50</b> in the icemaking compartment <b>22</b>. The water conduit <b>230</b> extends through the foam insulation in the top wall <b>238</b> and through an opening <b>248</b> in the cup <b>244</b> for connection to a nipple <b>250</b> on the fill tube <b>232</b>. The nipple <b>250</b> is angled slightly upwardly to prevent dripping. The cup <b>238</b> is open at the top so as to expose the fill tube <b>232</b> to the ambient air, and thereby prevent freeze-up of the fill tube <b>232</b>. This vertical orientation allows the fill tube <b>232</b> to be positioned closer to the end of the icemaker <b>50</b>.</p>
+<p id="h-0020" num="0000">Control System Details</p>
+<p id="p-0152" num="0151">The control system of a preferred embodiment of a bottom mount refrigerator with an ice compartment is now described in greater detail. It is to be understood, however, that many of the inventive features of the control system have utility beyond use in conjunction with a bottom mount refrigerator with an ice compartment, and in fact, such features can be used in refrigerators of more conventional design. Thus, what is specifically disclosed herein is not to be unduly limited to any specific embodiment of a refrigerator.</p>
+<p id="p-0153" num="0152"><figref idref="DRAWINGS">FIG. 40A</figref> illustrates one embodiment of a control system of the present invention suitable for use in a refrigerator having three refrigerated compartments, namely the freezer compartment, the fresh food compartment, and the ice making compartment. The three compartments are preferably able to be set by the user to prescribed set temperatures.</p>
+<p id="p-0154" num="0153">In <figref idref="DRAWINGS">FIG. 40A</figref>, a control system <b>510</b> includes an intelligent control <b>512</b> which functions as a main controller. The present invention contemplates that the control system <b>510</b> can include a plurality of networked or otherwise connected microcontrollers. The intelligent control <b>512</b> can be a microcontroller, microprocessor, or other type of intelligent control.</p>
+<p id="p-0155" num="0154">Inputs into the intelligent control <b>512</b> are generally shown on the left side and outputs from the intelligent control <b>512</b> are generally shown on the right side. Circuitry such as relays, transistor switches, and other interface circuitry is not shown, but would be apparent to one skilled in the art based on the requirements of the particular intelligent control used and the particular devices being interfaced with the intelligent control. The intelligent control <b>512</b> is electrically connected to a defrost heater <b>514</b> and provides for turning the defrost heater on or off. The intelligent control <b>512</b> is also electrically connected to a compressor <b>516</b> and provides for turning the compressor <b>516</b> on or off. The intelligent control <b>512</b> is also electrically connected to a damper <b>518</b> and provides for opening or closing the damper <b>518</b>. The intelligent control <b>512</b> is also electrically connected to an evaporator fan <b>520</b> associated with the freezer compartment and provides for controlling the speed of the evaporator fan <b>520</b>. Of course, this includes setting the evaporation fan <b>520</b> to a speed of zero which is the same as turning the evaporator fan <b>520</b> off. The use of a variable speed fan control is advantageous as in the preferred embodiment, the fan is serving an increased number of compartments with more states (freezer, fresh food, ice maker) and the ice compartment is remote from the freezer compartment.</p>
+<p id="p-0156" num="0155">The intelligent control <b>512</b> is electrically connected to an ice box fan <b>522</b> and provides for controlling the speed of the ice box fan <b>522</b>. Of course, this includes setting the ice box fan <b>522</b> to a speed of zero which is the same as turning the ice box fan <b>522</b> off. The intelligent control <b>512</b> also receives state information regarding a plurality of inputs. For example, the intelligent control <b>512</b> has a damper state input <b>530</b> for monitoring the state of the damper. The intelligent control <b>512</b> also has a defrost state input <b>532</b> for monitoring the state of the defrost. The intelligent control <b>512</b> also has a freezer door input <b>534</b> for monitoring whether the freezer door is open or closed. The intelligent control <b>512</b> also has a fresh food compartment door input <b>536</b> for monitoring whether the fresh food compartment door is open or closed. The intelligent control <b>512</b> also has an ice maker state input <b>538</b> for monitoring the state of the ice maker. The intelligent control <b>512</b> has a freezer set point input <b>540</b> for determining the temperature at which the freezer is set by a user. The intelligent control <b>512</b> also has an ice maker set point input <b>539</b>. The intelligent control <b>512</b> also has a fresh food compartment set point input <b>542</b> for determining the temperature at which the fresh food compartment is set by a user. The intelligent control <b>512</b> is also electrically connected to four temperature sensors. Thus, the intelligent control <b>512</b> has an ice maker temperature input <b>544</b>, a freezer compartment temperature input <b>546</b>, a fresh food compartment input <b>548</b>, and an ambient temperature input <b>550</b>. The use of four separate temperature inputs is used to assist in providing improved control over refrigerator functions and increased energy efficiency. It is observed that the use of four temperature sensors allows the ice maker temperature, freezer compartment temperature, fresh food compartment temperature, and ambient temperature to all be independently monitored. Thus, for example, temperature of the ice box which is located remotely from the freezer can be independently monitored.</p>
+<p id="p-0157" num="0156">The intelligent control <b>510</b> is also electrically connected to a display control <b>528</b>, such as through a network interface. The display control <b>528</b> is also electrically connected to a mullion heater <b>524</b> to turn the mullion heater <b>524</b> on and off. Usually a refrigerator has a low wattage heater to supply heat to where freezing temperatures are not desired. Typically these heaters are 120 volt AC resistive wires. Due to the fact that these heaters are merely low wattage heaters, conventionally such heaters remain always on. The present invention uses a DC mullion heater and is adapted to control the DC mullion heater to improve overall energy efficiency of the refrigerator and increase safety.</p>
+<p id="p-0158" num="0157">The display control <b>528</b> is also electrically connected to a cavity heater <b>526</b> for turning the cavity heater <b>526</b> on and off. The display control <b>528</b> is preferably located within the door and is also associated with water and ice dispensement. Usually a refrigerator with a dispenser with a display on the door will also have an associated heater on the door in order to keep moisture away from the electronics of the dispenser. Conventionally, this heater is continuously on.</p>
+<p id="p-0159" num="0158">It is to be observed that the control system <b>510</b> has a number of inputs and outputs that are not of conventional design that are used in the control of the refrigerator. In addition, the control system <b>510</b> includes algorithms for monitoring and control of various algorithms. The algorithms used, preferably provide for increased efficiency while still maintaining appropriate temperatures in the ice maker, fresh food compartment, and freezer.</p>
+<p id="p-0160" num="0159"><figref idref="DRAWINGS">FIG. 40B</figref> illustrates another embodiment of a control system of the present invention. The control system seeks to maintain a balance between optimum ice production and the requirements of the fresh food and freezer compartments. This is achieved via the following inputs operatively connected to the main <b>1400</b>: ambient temperature <b>1402</b>; freezer compartment set point and instantaneous temperature <b>1404</b>; fresh food compartment set point and instantaneous temperature <b>1406</b>; ice making compartment set point and instantaneous temperature <b>1408</b>; ice maker state <b>1410</b>; ice storage compartment capacity <b>1412</b>; initial refrigerator &#x201c;power up&#x201d; state <b>1414</b>; and defrost state <b>1416</b>. These inputs are used to control the following outputs: ice maker <b>1418</b>; fresh food damper <b>1420</b>; ice making compartment set point <b>1422</b>; water valve <b>1424</b>; ice making compartment fan <b>1426</b>; evaporator fan <b>1428</b>; and compressor run time <b>1430</b>.</p>
+<p id="p-0161" num="0160">Based on the requirements of the system, these output functions are prioritized to seek the best solution to the heat removal rate for cooling/ice production systems as described below:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0161">1. Multiple Pre-Set Non User-Adjustable Ice Making Compartment Set Points
+        <ul id="ul0003" list-style="none">
+            <li id="ul0003-0001" num="0162">a. Set Point for Pull Down mode. This condition is met when the refrigerator is first turned on (new unit or if unit has been in storage). In this mode, the temperature inside of the ice making compartment is ignored for a pre-set length of time thus allowing maximum heat removal from the fresh food and subsequently results in it reaching of set point temperature more rapidly.</li>
+            <li id="ul0003-0002" num="0163">b. Set Point for Emergency or &#x201c;Melt&#x201d; modes. This condition is met when the ice making compartment warms above a predetermined maximum and seeks to maximize the heat removal rate.</li>
+            <li id="ul0003-0003" num="0164">c. Set Point for ice maker turned off mode. This condition is met when the ice maker is turned off and seeks to minimize the heat removal rate from the ice making compartment for optimum ice storage temperature.</li>
+            <li id="ul0003-0004" num="0165">d. Set Point for ice maker turned on mode. This condition is met when the ice maker is turned on and the ice storage bin is full. This condition seeks to minimize the heat removal rate when the bin is full and maximize it very quickly when the bin requests additional ice production (see item d).</li>
+            <li id="ul0003-0005" num="0166">e. Set Point for ice maker turned on mode. This condition is met when the ice maker is turned on and the ice storage bin requests additional ice production. In this mode, the heat removal rate is maximized which may or may not result in the ice making compartment temp being significantly less than the set point temperature.</li>
+        </ul>
+        </li>
+        <li id="ul0002-0002" num="0167">2. Ice Storage Bin Full Based on Last Time of Harvest
+        <ul id="ul0004" list-style="none">
+            <li id="ul0004-0001" num="0168">a. This condition is met when the ice maker is turned on. The control system keeps track of time beginning at the end of the last ice maker harvest. Based on this time interval, the control determines whether or not the ice bin still requesting additional ice production or is full. If the bin is full, the system changes from a maximum heat removal to a lesser rate thus allowing more heat removal from the freezer and fresh food compartments.</li>
+        </ul>
+        </li>
+        <li id="ul0002-0003" num="0169">3. Ice Maker Harvest Mode
+        <ul id="ul0005" list-style="none">
+            <li id="ul0005-0001" num="0170">a. This condition is met when the ice maker is on and the control system recognizes that the ice maker is beginning the harvest mode. Based on this information, the ice making compartment fan turns off and the fresh food damper opens. This operation stops the heat removal process in the ice making compartment and optimizes the ice maker harvest time. Additionally, by opening the fresh food damper, heat is removed from this compartment which optimizes its temperature.</li>
+        </ul>
+        </li>
+        <li id="ul0002-0004" num="0171">4. Heat Removal Capacity in the Ice Making Mode
+        <ul id="ul0006" list-style="none">
+            <li id="ul0006-0001" num="0172">a. This condition is met when the ice maker is on. In this mode, the control recognized the need for optimum heat removal from the ice making compartment. In this mode, the need for optimum heat removal rate is recognized which may or may not result in the freezer compartment temperature being significantly less than the set point temperature.</li>
+            <li id="ul0006-0002" num="0173">b. After the ice production mode is satisfied, the freezer heat removal rate returns to the non-ice production mode.</li>
+        </ul>
+        </li>
+        <li id="ul0002-0005" num="0174">5. Multiple Speed For the Ice Making Compartment Fan Based on Fresh Food, Freezer, and Ice Making Compartment
+        <ul id="ul0007" list-style="none">
+            <li id="ul0007-0001" num="0175">a. This condition is met when the ice maker is on or off. In this mode, the fan can run at two different speeds based on the requirement for ice production or ice storage:
+            <ul id="ul0008" list-style="none">
+                <li id="ul0008-0001" num="0176">i. Ice production, temp set point a: Fan maintains optimizes speed for this requirement</li>
+                <li id="ul0008-0002" num="0177">ii. No requirement for ice, temp set point b: Fan optimizes speed for this requirement.</li>
+                <li id="ul0008-0003" num="0178">iii. No requirement for ice, temp set point c: Fan optimizes speed for this requirement.</li>
+                <li id="ul0008-0004" num="0179">iv. Ice making compartment &#x201c;emergency mode&#x201d;, temp set point d: Fan optimizes speed for this requirement.</li>
+            </ul>
+            </li>
+        </ul>
+        </li>
+        <li id="ul0002-0006" num="0180">6. Ice Making Compartment Fan Used to Cool the Fresh Food Compartment
+        <ul id="ul0009" list-style="none">
+            <li id="ul0009-0001" num="0181">a. This condition is met when the ice maker is on or off. In this mode, the fresh food compartment is above the temperature set point. In this mode, the fresh food damper opens and the fan goes to optimum speed for the required heat removal rate. After the fresh food temperature set point is satisfied, the damper closes, and the fan returns to the optimum speed for heat removal rate in the ice making compartment.</li>
+            <li id="ul0009-0002" num="0182">Note that this type of system eliminates the need for both a second fan and second damper for the fresh food compartment. This serves to greatly simplify the design of the associated air channels, component wiring, electronic hardware, and software.</li>
+        </ul>
+        </li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0162" num="0183">The ice maker state affects the fresh food and freezer via the ice making compartment's heat removal rate requirement. There are three main states that the ice maker and system operate in: (1) the ice maker is turned off; (2) the ice maker is turned on and the ice storage area is requesting ice production; and (3) the ice maker is turned on and the ice storage area is not requesting ice production.</p>
+<p id="p-0163" num="0184">When the ice maker is turned off, the ice making compartment control selects the &#x201c;ice storage&#x201d; mode where the heat removal rate is optimized. This mode increases the heat removal capacity available for the other compartments.</p>
+<p id="p-0164" num="0185">The ice maker is turned on and the ice storage area is requesting ice production. The control system seeks to optimize the heat removal rate for ice production. This results in a high rate of heat removal in the ice making compartment and a reduced amount of heat removal capacity available for the other compartments. The end result is an increased compressor run time to cool the freezer and an increased air damper open period to cool the fresh food.</p>
+<p id="p-0165" num="0186">When the ice maker is turned on and the ice storage area is not requesting ice production, this results in a combination of low and high heat rate removals. The requirement is based on the ice storage area requesting ice production or not.</p>
+<p id="p-0166" num="0187">The ice maker state affects the damper and evaporator fan. During the harvest mode, when the ice maker begins its harvest cycle, the fresh food damper routes the supply air away from the ice maker and into the fresh food compartment. In addition, the evaporator fan continues to run which allows the control system to keep the compressor running. After the ice maker completes the ice harvest, the ice maker state affects the damper and evaporator fan. In particular, the fresh food damper closes and redirects the supply air for ice production and the evaporator fan continues to run.</p>
+<p id="p-0167" num="0188">Another aspect of the control system of the present invention provides for synchronization.</p>
+<p id="p-0168" num="0189">The methodology reduces or eliminates non-uniform temperature patterns and produces consistent power consumption patterns during non-transient usage in a chilling and/or freezing device with more than one compartment.</p>
+<p id="p-0169" num="0190">This is accomplished by making the logic controlling a slave chilled compartment a function of both the chilled compartment sensed temperature and primary chilled compartment cooling device (compressor state (ON/OFF)). Namely, when the compressor turns ON, the slave chilled compartment would also be cooled unless the slave chilled compartment temperature was lower than the lower temperature threshold (cut out). Likewise, when the compressor turns OFF, the slave chilled compartment would also stop cooling unless the slave chilled compartment temperature was higher than the upper temperature threshold (cut in). The slave chilled compartment would eventually be synchronized with the compressor cycles, so that every compartment employing this algorithm would attempt to cool down during the time when the compressor is on.</p>
+<p id="p-0170" num="0191"><figref idref="DRAWINGS">FIGS. 41-54</figref> provide an exemplary embodiment of the present invention showing how the control system sets the states and controls refrigerator functions based on those states, including states associated with the fresh food compartment, freezer compartment, and ice maker compartment. <figref idref="DRAWINGS">FIG. 41</figref> is a flow diagram providing an overview of one embodiment of the present invention. In <figref idref="DRAWINGS">FIG. 41</figref>, an executive loop <b>560</b> is shown. In step <b>562</b> a determination is made as to whether a set time period (such as 30 seconds) has elapsed. If so, then a set of steps <b>564</b> are performed to update state variables. These state variables are updated through a calculate temperatures subroutine <b>566</b>, an adjust setpoints subroutine <b>568</b>, an update freezer subroutine <b>570</b>, an update ice box subroutine <b>572</b>, an update fresh food compartment subroutine <b>574</b>, an update defrost subroutine <b>576</b>, a check stable cycles routine <b>580</b>, and a scan ice maker subroutine <b>582</b>. Once the state variables are updated, then there are a set of control subroutines <b>566</b> which act on the state variables. These control routines include a control compressor subroutine <b>584</b>, a control damper subroutine <b>586</b>, a control evaporator fan subroutine <b>588</b>, a control ice box fan subroutine <b>590</b>, and a control defrost heater subroutine <b>592</b>.</p>
+<p id="p-0171" num="0192">As shown in <figref idref="DRAWINGS">FIG. 41</figref> the status of the state variables are regularly updated in the set of steps <b>564</b>. After the state variables are updated, appropriate actions are performed to control refrigerator functions.</p>
+<p id="p-0172" num="0193">The calculate temperatures subroutine <b>566</b> is shown in greater detail in <figref idref="DRAWINGS">FIG. 42</figref>. In one embodiment, each compartment's temperature and the ambient temperature are measured with thermistors to provide raw data. Regressed temperatures are calculated based in part on the raw temperatures.</p>
+<p id="p-0173" num="0194">According to one embodiment of the present invention, a mathematic regression method is used to calculate the desired performance temperatures in each compartment using a single temperature sensing device in each compartment resulting in a correlation. The sensing device is located in a way that is preferred or reasonable for product assembly requirements, but the correlation allows the control to evaluate the product performance considering the approximated performance temperatures in each compartment. The approximated performance temperatures are developed based on the criteria that would be considered by a typical consumer: the average temperatures of multiple locations throughout a compartment. The correlation can further be mathematically manipulated to represent a variety of food stuffs of various mass and density. This allows the control to react in a manner that optimizes the food preservation function for food stuff types stored in each designated compartment type.</p>
+<p id="p-0174" num="0195">The correlation is arrived at by testing product in variety of environments and usage conditions monitoring the temperatures at the sensor locations and multiple other locations in each compartment and all other compartments simultaneously. Other thermal in influences such as ambient conditions or machine compartment conditions may also be included. A mathematic correlation is then calculated determining the best fit for each temperature sensor location using some or all of the significant contributing measurements made from the multiple locations of interest in the correlated compartment and the temperature sensing locations used in other compartments. Correlations from a first compartment may be used as contributing factors in other compartments completing a system correlation.</p>
+<p id="p-0175" num="0196">The correlations may be mathematically weighted by considering the most recent value calculated or measured as only a fraction of the full running weighted value for a given compartment temperature. In fact multiple weighting values may be calculated to achieve different approximations of temperatures associated with food stuffs due to varied mass and densities. Additional weighting values may be desirable for other functions such as displayed temperature, other correlations, special performance modes, or historical average data storage.</p>
+<p id="p-0176" num="0197">The present invention uses these correlations and weighting concepts in three compartments using four specific sensor locations. Some or all of these temperature locations, their compartment correlations, and some correlations or sensor readings and weighting of the associated values are used to calculate the performance temperatures for each compartment. A freezer sensor is located on the back side of the evaporator cover. A refrigerator sensor is located inside the fresh food light housing assembly on the upper fresh food liner surface. An ice box sensor is located in the rear of the ice making compartment. An ambient temperature sensor is located behind the dispenser user interface face plate. These system sensors, correlations, and weights are used to improve product performance in a variety of ambient conditions. They are used to improve temperature stability and food preservation. They are also used to improve energy performance and product diagnostics.</p>
+<p id="p-0177" num="0198">In step <b>1300</b> of the method <b>566</b> of <figref idref="DRAWINGS">FIG. 42</figref>, temperatures are calculated and raw temperatures are read from each of four temperature sensors&#x2014;one in the fresh food compartment (FFRaw), one on the freezer (FZRaw), one for providing an ambient temperature (AMRaw), and one associated with an icemaker (ICRaw). In step <b>1304</b>, a determination is made as to whether or not this is the first pass through the algorithm. If it is, then in step <b>1306</b> value AMEffect is set to AMRaw, FZEffect is set to FZRaw, FFEffect is set to FFRaw, and ICEffect is set to ICRaw. In step <b>1308</b>, the ambient temperature is regressed to provide AMRegressed. Note that a weighting (amcalc_am_wt) and an offset (am calc-offset) are used. Step <b>1310</b> determines if this is the first pass. If it is, then in step <b>1312</b>, AMControl is set to AMRegressed and AMEffect is set to AMRegressed for initialization purposes. Returning to step <b>1310</b>, if it is not the first pass, then in step <b>1314</b>, AMControl is set based on the current value of AMControl, AMRegressed, and a constant am ctl_K. Then in step <b>1316</b>, AMEffect is set based on the current value of AMEffect, AMControl, and a constant, ameff_K.</p>
+<p id="p-0178" num="0199">Next, in step <b>1318</b>, a regressed temperature for the freezer, FZRegressed, is calculated based on weighting (fzcalc_fz_wt, fzcalc_ff_wt, fzcalc_am_wt) of a temperature associated with the freezer (FZRaw), the effective fresh food temperature (FFEffect) and the effective ambient temperature (AMEffect). An offset (fzcalc_offset) and an adjustment (FZAdjustment) are used in calculating the regressed temperature for the freezer.</p>
+<p id="p-0179" num="0200">In step <b>1320</b>, a determination is made as to whether this is the first pass. If it is, then FZControl, FZEffect, and FZDisplay temperatures are set to the regressed temperature (FZRegressed). If this is not the first pass, then in step <b>1324</b>, a freezer control temperature (FZControl) is set based on the current FZControl, FZRegressed and a constant, fzctl_K. Then in step <b>1326</b>, FZEffect is calculated based on the current FZEffect, FZControl, and a constant, fzeff_K.</p>
+<p id="p-0180" num="0201">Temperatures associated with the fresh food compartment are calculated in steps <b>1328</b>, <b>1330</b>, <b>1332</b>, <b>1334</b>, and <b>1336</b> in a manner similar to those of the freezer compartment. Similarly temperatures associated with the ice maker compartment are calculated in steps <b>1338</b>, <b>1340</b>, <b>1342</b>, and <b>1348</b>. Display temperatures are calculated in step <b>1348</b> and the algorithm and in step <b>1350</b>.</p>
+<p id="p-0181" num="0202"><figref idref="DRAWINGS">FIG. 43</figref> illustrates a flow diagram for the adjust setpoints subroutine <b>568</b>. The user selects set points for the fresh food compartment (FFSetpoint) and the freezer compartment (FZSetpoint). Based on the user settings, or other settings if a food saver feature is active (ff_saver_setpoint, fz_saver_setpoint), an ice maker set point (ICSetpoint) is set. Under default conditions (DEFAULT) the ice maker set point (ICSetpoint) is the same as the freezer set point (FZSetpoint). If the ice maker's bin is full (BIN_FULL), then the ice maker's set point (ICSetpoint) is set at a lower temperature to maintain the ice and prevent melting. If the ice maker is turned off, then the ice maker's set point is set at a higher temperature (ICE_EFF) thereby providing an efficiency mode to thereby conserve energy. For example, it is generally expected that the ice maker's set point for storage (ICE_STORE) is less than the ice maker's temperature when the power is off such as in an energy efficient mode of operation (ICE_EFF), which is less than the temperature required to melt ice. For example, the ice storage temperature (ICE_STORE) may be around 15 degrees Fahrenheit while the ice maker's efficiency temperature (ICE_EFF) is 25 degrees. Ice might begin to melt at a temperature of 28 degrees Fahrenheit.</p>
+<p id="p-0182" num="0203">Thus, in step <b>602</b> a determination is made as to whether the food saver function is active. If it is, then in step <b>604</b>, the set point for the fresh food compartment (FFSetpoint) is set accordingly to ff_saver_setpoint. Also, the set point for the freezer compartment (FZSetpoint) is set accordingly to fz_saver_setpoint and then the subroutine proceeds to select the ice maker state in step <b>608</b>. Returning to step <b>602</b>, if the food saver function is not active, then in step <b>606</b>, the fresh food set point (FFSetpoint) is set to a user selected temperature setting and the freezer set point (FZSetpoint) is set to a user selected temperature setting.</p>
+<p id="p-0183" num="0204">In step <b>608</b>, the ice maker state is selected. If the ice maker state is turned off (PWR_OFF) to conserve energy, then the ice maker's set point (ICSetpoint) is set to an energy efficient temperature less than the melting point (ICE_EFF) in step <b>610</b>. If the ice maker state indicates that the ice bin is full (BIN_FULL) then the ice maker's set point (ICSetpoint) is set to an ice storage temperature (ICE_STORE) in step <b>612</b>. If the ice maker state is the default state (DEFAULT) then the ice maker's set point (ICSetpoint) is set to the freezer set point (FZSetpoint).</p>
+<p id="p-0184" num="0205"><figref idref="DRAWINGS">FIG. 44A</figref> is a flow diagram illustrating one embodiment of the update freezer subroutine <b>570</b>. The update freezer subroutine assists in increasing the energy efficiency of the appliance because instead of merely turning on the freezer when temperature reaches a particular setpoint, the update freezer subroutine also considers the states of the fresh food compartment and ice maker and how ultimately temperature will be affected over time. The update freezer routing is used to set states associated with the freezer, fresh food compartment and ice maker. In step <b>622</b> the fz_adj_cuts state is determined. If true then in step <b>630</b>, the threshold is set to the freezer set point (FZSetpoint). If in step <b>622</b>, the fz_adj_cuts state is not true, then in step <b>628</b>, the freezer cut-in temperature (FZCutIn) is set to fz_cutin and the freezer cut-out temperature is set to fz_cutout. Then in step <b>630</b>, the threshold is set to the freezer set point (FZSetpoint).</p>
+<p id="p-0185" num="0206">In step <b>632</b> a determination is made as to whether the refrigerator state (FridgeState) is set to a sub-cool state (SUBCOOL). If it is, then in step <b>638</b>, the Threshold is set to the difference of the Threshold and the subcool_depression. Then in step <b>640</b>, a determination is made as to whether the freezer is in the freezer cooling (FZCooling state). If it is, then in step <b>642</b>, the Threshold is set to be the difference between the Threshold and the freezer cut-out temperature (FZCutOut). Then in step <b>652</b>, a determination is made whether the freezer control temperature (FZControl) is less than or equal to the threshold temperature (Threshold). If it is, then in step <b>654</b>, the freezer cooling condition (FZCooling) is set to be FALSE and the first cut-out temperature, CO(<b>1</b>), is set to the difference of the freezer setpoint (FZSetpoint) and the freezer control temperature (FZControl). Next in step <b>662</b>, a determination is made as to whether the synchronize fresh food compartment with freezer (sync_ff_with_fz) or fresh food adjust cuts (ff_adj_cuts_states are TRUE. If one of these states are true, then in step <b>660</b>, the fresh food cooling state (FFCooling) is set to be FALSE. If, however, neither of these states are true, in step <b>670</b>, a determination is made as to whether the synchronize ice maker with freezer (sync_ic_with_fz) or ice maker adjust cuts (ic_adj_cuts) states are true. If one of these states is true, then in step <b>668</b>, the ice maker cooling state (ICCooling) is set to FALSE.</p>
+<p id="p-0186" num="0207">Returning to step <b>650</b>, if the freezer cooling state (FZCooling) is not set, then in step <b>646</b>, the threshold (Threshold) is set to be the sum of the threshold (Threshold) and the freezer cut-in temperature (FZCutin). Then in step <b>648</b>, a determination is made as to whether the threshold (Threshold) is greater than the sum of freezer's maximum set point (fz_max_setpoint) and the maximum freezer change (MAX_FZ_DELTA) divided by two. If it is, then in step <b>650</b>, the threshold (Threshold) is set to be the sum of the freezer's maximum set point (fz_max_setpoint) and the maximum freezer change (MAX_FZ_DELTA) divided by two. Then in step <b>654</b> a determination is made as to whether the freezer control temperature (FZControl) is greater than or equal to the threshold (Threshold). If it is, then in step <b>656</b> the freezer cooling state (FZCooling) is set to be TRUE. Then in step <b>658</b>, the Update Freezer Cuts subroutine is executed. Next in step <b>664</b>, a determination is made as to whether the synchronize fresh food compartment with the freezer compartment state (sync_ff_with_fz) or the fresh food adjust cuts state (ff_adj_cuts) state is true. If it is, then in step <b>666</b> the fresh food cooling state (FFCooling) is set to be true. Then in step <b>672</b>, a determination is made as to whether the synchronize ice maker with freezer state (sync_ic_with_fz) or the ice maker adjust cuts (ic_adj_cuts) states are true. If they are, then in step <b>674</b>, the ice maker cooling state (ICCooling) is set to be true.</p>
+<p id="p-0187" num="0208"><figref idref="DRAWINGS">FIG. 44B</figref> provides an illustration of one algorithm for an update freezer cuts subroutine. Generally, the present invention provides for adjusting cuts through an algorithm which improves energy efficiency of a compartment(s) cooling system and improves temperature control of chilled compartment(s) to a desired average temperature (set-point).</p>
+<p id="p-0188" num="0209">This is accomplished by:</p>
+<p id="p-0189" num="0210">(1) Adjusting the temperature thresholds of an on/off cooling system to produce a repeating cyclic pattern of control at a desired frequency. Namely, when a cooling system has operated in a stable pattern for a length of time as to be thought of as non-transient operation the algorithm will widen or compress the delta between the thresholds periodically to target a pre-determined frequency of on/off for the cooling system. The system is protected from affecting the thresholds adversely by limiting the change to between max and min deltas specified by the algorithm.
+<br/>
+(2) Adjusting the temperature thresholds of an on/off cooling system to produce a repeating cyclic pattern of control about a desired average temperature (set-point). Namely when a cooling system has operated in a stable pattern for a length of time as to be thought of as non-transient operation, the algorithm will shift both the upper and lower thresholds as to target the calculated average of the last stored cycle and the set-point to be equal. The system is protected from affecting the thresholds adversely by limiting the magnitude of the change for each adjustment made.
+</p>
+<p id="p-0190" num="0211"><figref idref="DRAWINGS">FIG. 44B</figref> is a flow diagram illustrating one embodiment of the update freezer cuts subroutine <b>658</b>. In step <b>680</b>, the cut-in temperatures are updated by setting the second cut-in temperature, CI(<b>2</b>), to be equal to the first cut-in temperature, CI(<b>1</b>). The first cut-in temperature, CI(<b>1</b>), is then set to be equal to the difference of the freezer control temperature (FZControl) and the freezer setpoint (FZSetpoint). Also the stable cycles variable (StableCylces) is incremented. Next in step <b>682</b>, the cycle times are updated by setting the second cycle time, CT(<b>2</b>), to be equal to the first cycle time, CT(<b>1</b>). The first cycle time, CT(<b>1</b>), is then set to the current cycle time. The average cycle time (CTavg) is then computed as the average of the first cycle time, CT(<b>1</b>), and the second cycle time, CT(<b>2</b>). The CT<b>0</b> is set to be target cycle minutes (target_cycle_minutes).</p>
+<p id="p-0191" num="0212">Next in step <b>686</b>, a determination is made as to whether the freezer adjust cuts state (fz_adj_cuts) is true. If it is, then in step <b>688</b>, a determination is made as to whether there are more than three stable cycles (StableCycles). If there are, then in step <b>690</b>, the desired delta is calculated from the deltas and the cut-out temperatures as shown. The bounds of the calculated desired delta are then checked in steps <b>692</b>-<b>698</b>. In step <b>692</b>, a determination is made as to whether &#x394;(<b>0</b>) is less than the minimum freezer delta (MIN_FZ_DELTA). If it is, then in step <b>694</b>, &#x394;(<b>0</b>) is set to be the minimum freezer delta (MIN_FZ_DELTA). If it is not, then in step <b>696</b>, a determination is made as to whether &#x394;(<b>0</b>) is greater than the maximum freezer delta (MAX_FZ_DELTA). If it is, then in step <b>698</b>, &#x394;(<b>0</b>) is set to be the maximum freezer delta (MAX_FZ_DELTA). In step <b>704</b>, the desired freezer cut-out temperature (FZCutOut) and the desired freezer cut-in temperature (FZCutIn) are set.</p>
+<p id="p-0192" num="0213">Then in step <b>684</b>, the deltas are updated accordingly. In particular, &#x394;(<b>2</b>) is set to &#x394;(<b>1</b>). Also, &#x394;(<b>1</b>) is set to be the sum of the average of CI(<b>1</b>) and CI(<b>2</b>) and CO(<b>1</b>). Also, &#x394;avg is set to be the average of &#x394;(<b>1</b>) and &#x394;(<b>2</b>).</p>
+<p id="p-0193" num="0214"><figref idref="DRAWINGS">FIG. 44C</figref> shows the relationship between the cooling state or flag <b>712</b>, and the control temperature <b>708</b> over time. Note that at point <b>716</b>, CI(<b>1</b>), the cooling state of flag <b>712</b> cuts in, at point <b>714</b>, CI(<b>2</b>), the cooling state or flag also cuts in, at point <b>718</b>, CO(<b>1</b>), the cooling state or flag cuts out. For cycle CT(<b>1</b>) <b>722</b> there is an associated average control temperature (Tavg) and for cycle CT(<b>2</b>) <b>720</b> there is an associated average control temperature (Tavg).</p>
+<p id="p-0194" num="0215"><figref idref="DRAWINGS">FIG. 45A</figref> illustrate one embodiment of the update ice box subroutine <b>572</b>. In <figref idref="DRAWINGS">FIG. 45A</figref>, a determination is made in step <b>730</b> as to whether the icemaker adjust cuts state (ic_adj_cuts) is true. If not, then in step <b>734</b>, the ice maker cut in time (ICCutIn) and the ice maker cut out (ICCutOut) times are set. Then in step <b>738</b>, the threshold (Threshold) is set to the ice maker set point (ICSetpoint). Next, in step <b>740</b>, a determination is made as to whether the ice maker cooling state (ICCooling) is set. If not, then in step <b>746</b>, a determination is made as to whether the freezer cooling state (FZCooling) is set. If not, then in step <b>743</b>, a determination is made as to whether the synchronize ice maker with freezer state (sync_ic_with_fz) is set. If it is, then in step <b>744</b>, the threshold (Threshold) is set to the sum of the Threshold and the ice maker cut-in adjustment value (IC_Cl_ADJ). In step <b>748</b>, the threshold (Threshold) is set to be the sum of the threshold (Threshold) and the ice maker cut in (ICCutIn). Next in step <b>752</b>, the upper bound for the threshold is tested and if the bound is exceeded, in step <b>756</b>, the threshold is set to be the upper bound. Next in step <b>754</b>, a determination is made as to whether the ice maker control (ICControl) is greater or equal to the threshold. If it is, then in step <b>762</b>, the ice maker cooling state is set to true.</p>
+<p id="p-0195" num="0216">Returning to step <b>740</b>, if the ice maker cooling state is true, then in step <b>750</b>, the threshold is set to the difference of the threshold and the ice maker cutout. Then in step <b>758</b>, the ice maker cooling state is set to be false.</p>
+<p id="p-0196" num="0217">In step <b>764</b> a determination is made as to whether the ice maker was previously in a cooling state. If not, then in step <b>766</b> a determination is made as to whether the ice maker cooling state is true. If not, then the first cut-out time, CO(<b>1</b>) is set to be the difference between the ice maker setpoint (ICSetpoint) and the ice maker control (ICControl). If it is, then in step <b>772</b>, an update ice box cuts subroutine is executed. In step <b>770</b>, the previous ice maker cooling stat (ICCoolPrev) is set to cooling (ICCooling).</p>
+<p id="p-0197" num="0218"><figref idref="DRAWINGS">FIG. 45B</figref> illustrates the ice box cuts subroutine <b>772</b>. In step <b>780</b>, the cut-ins are updated. In step <b>782</b> the deltas are updated. In step <b>784</b>, a determination is made as to whether the ice_adj_cuts state is true. If it is, then in step <b>786</b> a determination is made as to whether there have been at least three stable cycles. If so, in steps <b>788</b>, <b>790</b>, <b>792</b>, and <b>794</b>, the boundaries of A<b>0</b> are tested. In step <b>796</b> the desired cuts are calculated.</p>
+<p id="p-0198" num="0219"><figref idref="DRAWINGS">FIG. 45C</figref> shows the relationship between the cooling state or flag <b>800</b>, and the control temperature <b>814</b> over time. Note that at point <b>812</b>, CI(<b>1</b>), the cooling state of flag <b>800</b> cuts in, at point <b>816</b>, CI(<b>2</b>), the cooling state or flag also cuts in, at point <b>822</b>, CO(<b>1</b>), the cooling state or flag cuts out. For cycle CT(<b>1</b>) <b>818</b> there is an associated average control temperature (Tavg) and for cycle CT(<b>2</b>) <b>820</b> there is an associated average control temperature (Tavg).</p>
+<p id="p-0199" num="0220"><figref idref="DRAWINGS">FIG. 46A</figref> illustrates one embodiment of a flow diagram for the update fresh food subroutine <b>574</b>. In <figref idref="DRAWINGS">FIG. 46A</figref>, a determination is made as to whether the ice maker state (IMState) is melting. If it is, then in step <b>858</b>, the fresh food compartment cooling state is set to false. If it is not, then in step <b>856</b> a determination is made as to whether the freezer cooling state (FZCooling) is true. If it is not then in step <b>858</b> the fresh food compartment cooling (FFCooling) state is set to false. If the freezer cooling (FZCooling) state is true, then in step <b>860</b>, a determination is made as to whether the ff_adj_cuts state is true. If it is not, then in step <b>866</b> values for the fresh food cut-in and cut-out values are set accordingly. In step <b>868</b>, the threshold (Threshold) is set to the fresh food compartment setpoint. In step <b>870</b>, a determination is made as to whether the fresh food cooling (FFCooling) state is true. If not in the fresh food cooling (FFCooling) state, then in step <b>872</b>, a determination is made as to whether the freezer cooling state is true. If it is then, the threshold is set in step <b>878</b>. If it is not, then in step <b>874</b> a decision is made as to whether the threshold needs to be adjusted to compensate for the synchronization state. If it does not then, in steps <b>876</b> and <b>878</b> the threshold is adjusted accordingly. Then in step <b>880</b> a determination is made as to whether the fresh food compartment temperature is greater than or equal to the threshold. If it is, then in step <b>882</b>, the fresh food cooling state (FFCooling) is set to be true.</p>
+<p id="p-0200" num="0221">Returning to step <b>870</b>, if the fresh food compartment cooling (FFCooling) state is true, then the threshold is modified in step <b>884</b>. In step <b>886</b> a determination is made as to whether the threshold is less than the difference of the fresh food compartment's minimum setpoint and half of the maximum fresh food compartment change. If it is, then in step <b>890</b>, the threshold is set to the difference of the fresh food compartment's minimum setpoint and half of the maximum fresh food compartment change. Then in step <b>888</b> a determination is made as to whether the fresh food compartment control temperature is less than or equal to a threshold. If it is then the fresh food cooling state (FFCooling) is set to be false. In step <b>894</b>, the fresh food cooling's previous state (FFCoolPrev) is compared to the present fresh good cooling (FFCooling). If they are not equal, then in step <b>896</b>, a determination is made as to whether the fresh food cooling (FFCooling) state is true. If it is then, an Update Fresh Food Cuts subroutine <b>898</b> is run to update cut-in and cut-out temperatures. If it is not then the cutout temperature, CO(<b>1</b>), is set to be the difference between the fresh food setpoint (FFSetpoint) and the fresh food control setting (FFControl). Then in step <b>900</b> the previous fresh food cooling state (FFCoolPrev) is updated to the current fresh food cooling state.</p>
+<p id="p-0201" num="0222"><figref idref="DRAWINGS">FIG. 46B</figref> illustrates one embodiment of a flow diagram for the update fresh food cuts subroutine <b>898</b>. In step <b>910</b> the cut-in temperatures are updated. In step <b>912</b>, the deltas are updated. In step <b>914</b>, a determination is made as to whether the fresh food compartment cut-in and cut-out temperatures need adjustment. If they do, in step <b>916</b> a determination is made as to whether there has been more than three consecutive stable cycles. If there has, then in steps <b>918</b>, <b>920</b>, <b>922</b>, and <b>924</b>, the delta is recalculated. In step <b>930</b> the cut-in and cut-out temperatures for the fresh food compartment are adjusted accordingly.</p>
+<p id="p-0202" num="0223"><figref idref="DRAWINGS">FIG. 46C</figref> illustrates relationships between the cooling flag, control, temperature, setpoint, cut-ins, cut-outs, and cycle time for the update fresh food cuts subroutine. <figref idref="DRAWINGS">FIG. 46C</figref> shows the relationship between the cooling state or flag <b>932</b>, and the control temperature <b>934</b> over time. Note that at point <b>936</b>, CI(<b>1</b>), the cooling state of flag <b>932</b> cuts in, at point <b>940</b>, CI(<b>2</b>), the cooling state or flag also cuts in, at point <b>938</b>, CO(<b>1</b>), the cooling state or flag cuts out. For cycle CT(<b>1</b>) <b>942</b> there is an associated average control temperature (Tavg) and for cycle CT(<b>2</b>) <b>944</b> there is an associated average control temperature (Tavg).</p>
+<p id="p-0203" num="0224"><figref idref="DRAWINGS">FIG. 47</figref> illustrates one embodiment of a flow diagram for the update defrost subroutine <b>576</b>. In step <b>950</b> a determination is made as to whether to force a defrost. If a defrost is not forced, then in step <b>952</b> the refrigerator state is selected. If a defrost is forced, then in step <b>984</b> the defrost hold period is set, the refrigerator state is set to defrost and a flag for forcing a defrost is cleared.</p>
+<p id="p-0204" num="0225">Returning to step <b>952</b>, the refrigerator state can be COOL, SUBCOOL, WAIT, DEFROST, DRIP, or PULLDOWN. If the refrigerator state is cool, then in step <b>956</b> a determination is made as to whether defrost is due. If it is, then in step <b>960</b> the defrost timer is set and in step <b>965</b>, the freezer cooling (FZCooling) state is set to true and the refrigerator state is set to SUBCOOL.</p>
+<p id="p-0205" num="0226">Returning to step <b>952</b>, if the refrigerator is in the subcool state, then in step <b>966</b> a determination is made as to whether the defrost timer has expired. If it has, then in step <b>970</b>, the defrost timer is set and in step <b>976</b> the refrigerator state (FridgeState) is set to WAIT. If in step <b>966</b> the defrost timer has not expired, then in step <b>972</b> a determination is made as to whether the freezer is in the cooling state. If it is not, then in step <b>970</b> the defrost timer is set and in step <b>976</b> the refrigerator state (FridgeState) is set to WAIT.</p>
+<p id="p-0206" num="0227">Returning to step <b>952</b>, if the refrigerator state (FridgeState) is WAIT, then in step <b>978</b> a determination is made as to whether the defrost timer has expired. If it has, then in step <b>980</b> the defrost hold period is set and the refrigerator state is set to DEFROST.</p>
+<p id="p-0207" num="0228">Returning to step <b>952</b>, if the refrigerator state (FridgeState) is DEFROST, then in step <b>982</b>, a determination is made as to whether the defrost is complete. If it is then in step <b>984</b>, the defrost timer is set for time associated with dripping (drip-time), the refrigerator state (FridgeState) is set to DRIP and the flag associated with forcing defrost is cleared.</p>
+<p id="p-0208" num="0229">Returning to step <b>952</b>, if the refrigerator state (FridgeState) is DRIP, then in step <b>986</b>, a determination is made as to whether the defrost timer has expired. If it has, then in step <b>988</b>, the defrost timer is set and the refrigerator state is set to PULLDOWN.</p>
+<p id="p-0209" num="0230">Returning to step <b>980</b>, if the state is PULLDOWN, a determination is made as to whether or not the defrost timer has expired. If it has then in step <b>992</b>, the freezer cooling state (FZCooling) is set to true and the refrigerator state (FridgeState) is set to COOL.</p>
+<p id="p-0210" num="0231">In step <b>996</b>, a determination is made as to whether the refrigerator is in a DEFROST or COOL state. If it is, then the subroutine ends. If it is not, then in step <b>994</b> a determination is made as to whether the defrost timer has expired. If it has then the process returns to step <b>952</b>. If the defrost timer has not expired then the subroutine ends.</p>
+<p id="p-0211" num="0232"><figref idref="DRAWINGS">FIG. 48</figref> illustrates one embodiment of a flow diagram for the check stable cycles subroutine <b>580</b>. The number of stable cycles is reset in step <b>1088</b> if in step <b>1080</b> the refrigerator is in the defrost state, in step <b>1082</b> the fresh food or freezer doors are open, in step <b>1084</b> the fresh food setpoint has changed, or in step <b>1086</b> the freezer setpoint has changed.</p>
+<p id="p-0212" num="0233"><figref idref="DRAWINGS">FIG. 49</figref> illustrates one embodiment of a flow diagram for the scan ice maker subroutine <b>582</b>. This subroutine scans the ice maker to check for various conditions that may affect control functions and sets states associated with the ice maker appropriately. In step <b>1100</b> a determination is made as to whether the ice maker is in initial pulldown. If it is not, then in step <b>1102</b> a determination is made as to whether the ice maker control is above the melting temperature of ice. If it is then in state <b>1104</b>, the ice maker state is set to MELTING. If not, then in step <b>1106</b> a determination is made as to whether the fresh food compartment door is open. If it is, then in step <b>1108</b> the ice maker state is selected. If the ice maker state is MELTING, then in step <b>1110</b> the ice maker state is set to the previous ice maker state. If the ice maker state is set to HTR_ON then in step <b>1112</b> a determination is made as to whether the fresh food compartment door has been open for longer than a set dwell time. If it has, then in step <b>1110</b> the ice maker state is set to the previous ice maker state. If has not then in step <b>1114</b> the ice maker state remains unchanged. Similarly if the ice maker state is DEFAULT in step <b>1108</b> then the ice maker state remains unchanged in step <b>1114</b>.</p>
+<p id="p-0213" num="0234">In step <b>1116</b> a determination is made as to whether the ice maker power is on. If not, then in step <b>1118</b> the ice maker state and the ice maker's previous state are set accordingly to indicate that the power is off. In step <b>1120</b> a determination is made as to whether the ice maker's heater is on. If it is no then in step <b>1124</b> the ice maker's state is set to indicate that the heater is on. In step <b>1122</b> a determination is made as to whether the icemaker has been on less than a set dwell time. If it has, then in step <b>1124</b> the ice maker's state is set to indicate that the heater is on.</p>
+<p id="p-0214" num="0235">In step <b>1126</b> a determination is made has to whether the ice maker's heater has been on less than the amount of time associated with a full bin (such as 120 minutes). If it has then in step <b>1128</b> the ice maker's current state and previous state are set to indicate that the heater is off. If not, then in step <b>1130</b> the ice maker's current state and previous state are set to indicate that the bin is full.</p>
+<p id="p-0215" num="0236"><figref idref="DRAWINGS">FIG. 50</figref> illustrates one embodiment of a flow diagram for the control compressor subroutine <b>584</b>. In step <b>1150</b> the refrigerator's state (FridgeState) is examined. If the refrigerator is in the COOL state, then in step <b>1152</b> a determination is made as to whether the freezer cooling state is true. If it is not, then in step <b>1154</b> a request is made to turn the compressor off. If it is, then a request is made in step <b>1156</b> to request that the compressor be on. If the state is SUBCOOL or PULLDOWN, then in step <b>1158</b> a request is made to turn the compressor on. If the state is DEFAULT, then in step <b>1160</b> a request is made to turn the compressor off.</p>
+<p id="p-0216" num="0237"><figref idref="DRAWINGS">FIG. 51</figref> illustrates one embodiment of a flow diagram for the control damper subroutine <b>586</b>. In step <b>1170</b> the refrigerator state is selected. If the refrigerator state is COOL or SUBCOOL then in step <b>1172</b> the ice maker state is selected. IF the ice maker state is HTR_ON then in step <b>1174</b> a determination is made as to whether the evaporator fan is on. If it is then in step <b>1174</b> a request is made for the damper to be open. If not, then in step <b>1178</b> a request is made for the damper to be closed. If in step <b>1172</b> the icemaker state is MELTING&#x3c; then in step <b>1178</b> a request is made for the damper to be closed. If the ice maker is in a different state (DEFAULT) then in step <b>1180</b> a determination is made as to whether the fresh food compartment is cooling. If it is not, then in step <b>1178</b> a request is made for the damper to be closed. If it is, then in step <b>1182</b> a request is made for the damper to be open. Returning to step <b>1170</b>, if the refrigerator is in a DEFAULT state, then in step <b>1184</b> a request is made to close the damper.</p>
+<p id="p-0217" num="0238"><figref idref="DRAWINGS">FIG. 52</figref> illustrates one embodiment of a flow diagram for the control defrost heater subroutine <b>592</b>. In step <b>1200</b> the refrigerator state is selected. If the refrigerator state is DEFROST or DRIP, then in step <b>1202</b> the defrost heater is turned on. If the refrigerator state is a different or DEFAULT state then in step <b>1204</b> the defrost heater is turned off.</p>
+<p id="p-0218" num="0239"><figref idref="DRAWINGS">FIG. 53</figref> illustrates one embodiment of a flow diagram for the control evaporator fan subroutine <b>588</b>. In step <b>1210</b>, the refrigerator state (FridgeState) is selected. If the state is COOL or SUBCOOL then in step <b>1212</b> a determination is made as to whether the ice maker is in the melting state (MELTING). If it is, then in step <b>1214</b>, the evaporator fan is turned full-on at the rail voltage. If not, then in step <b>1216</b>, a determination is made as to whether the freezer is in a cooling (FZCooling) state. If it is, then in step <b>1218</b>, the evaporator fan is turned on at less than the rail voltage. If not, then in step <b>1220</b>, a determination is made as to whether the ice compartment is cooling (ICCooling).</p>
+<p id="p-0219" num="0240">The evaporator fan motor speed is adjusted based upon the state of the ice making compartment, the freezer compartment and the fresh food compartment as shown in <figref idref="DRAWINGS">FIG. 53</figref>. The first step is to check the refrigerator state, if the state is cool or subcool then if the ice making compartment is above a predetermined temperature (defined as MELTING in step <b>1212</b>) the fan motor is energized at the highest voltage to produce the maximum air flow. If the ice making compartment is not above the MELTING temperature, then the state of the freezer compartment is evaluated. If the freezer compartment requires cooling, the fan is energized at a high speed to provide the air flow required to adequately cool the freezer compartment, if the freezer does not require cooling, then the fresh food compartment and the ice making compartment are evaluated; if the fresh food requires cooling or if the ice making compartment requires cooling then the fan is energized at a lower voltage to maintain a continuous flow of air through the evaporator compartment without over cooling the freezer compartment. If the air damper is opening or closing then the fan is energized at the lower voltage. If none of these conditions are true, the fan is turned off.</p>
+<p id="p-0220" num="0241"><figref idref="DRAWINGS">FIG. 54</figref> illustrates one embodiment of a flow diagram for the control ice box fan subroutine <b>590</b>. In step <b>1230</b>, a refrigerator state (FridgeState) is determined. If the refrigerator state is COOL or SUBCOOL, then in step <b>1232</b>, the ice maker state is selected. If the ice maker state is MELTING, then the ice box fan is turned full-on in step <b>1240</b> such as by applying the rail voltages to the ice box fan. If the ice maker state indicates that the heater is on (HTR_ON), then the ice box fan is turned of in step <b>1242</b>. If the ice maker state is in a different or DEFAULT state, then in step <b>1234</b> a determination is made as to whether the fresh food compartment is in a cooling (FFCooling) state. If it is, then in step <b>1244</b> the ice box fan is turned at less than full voltage to conserve energy. If not, then in step <b>1236</b> a determination is made as to whether the ice compartment is in a cooling (IceCooling) state. If it is in then in step <b>1246</b>, the icebox fan Is turned on at a higher voltage than in step <b>1244</b>. In step <b>1238</b>, if neither the fresh good compartment is cooling or the ice maker compartment is cooling, the ice box fan is turned off. Thus the ice box fan is controlled in an energy efficient manner.</p>
+<p id="p-0221" num="0242">Another aspect of the control system relates to damper operation. Referring to <figref idref="DRAWINGS">FIG. 40A</figref>, the damper <b>518</b> is a switched input. As shown in <figref idref="DRAWINGS">FIG. 55</figref>, one methodology provides for monitoring the switched input and timing the lengths and sequences of the switch state in step <b>1502</b>. In step <b>1504</b> a determination is made as to whether the sequence of switch openings and closings is out of tolerance. If they are, then step <b>1506</b> provides for waiting for proper timing sequences to determine damper state. In step <b>1508</b>, a determination is made as to whether or not the damper is operating properly. If the damper is not operating properly because it is frozen in place, then in step <b>1510</b> the motor output associated with the damper is pulsed. This action uses the motor as a heater to free the damper.</p>
+<p id="p-0222" num="0243">The invention has been shown and described above with the preferred embodiments, and it is understood that many modifications, substitutions, and additions may be made which are within the intended spirit and scope of the invention.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A method of controlling temperature within a compartment of a refrigerator that includes a cooling device that cycles on and off, the method comprising:
+<claim-text>setting an initial cut-in temperature;</claim-text>
+<claim-text>setting an initial cut-out temperature;</claim-text>
+<claim-text>periodically sensing a temperature within the compartment;</claim-text>
+<claim-text>providing chilled air to the compartment when the sensed temperature is above the cut-in temperature;</claim-text>
+<claim-text>stopping providing chilled air to the compartment when the sensed temperature is below the cut-out temperature;</claim-text>
+<claim-text>monitoring a pattern of providing and stopping providing chilled air;</claim-text>
+<claim-text>monitoring the cooling device to determine a pattern of on-off cycles for the cooling device; and</claim-text>
+<claim-text>adjusting the cut-in temperature and the cut-out temperature in response to the pattern of providing and stopping providing chilled air so that the pattern of providing and stopping providing corresponds to the pattern of on-off cycles.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the initial cut-in temperature and the initial cut-out temperature are based on a desired average temperature.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The method of <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the desired average temperature is provided by a user and further wherein the initial cut-in and cut-out temperatures are determined based on a correlation between the desired average temperature and the sensed temperature.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. A method of operating a refrigerator of the type having a compartment and a cooling system for removing heat from the compartment, the method comprising:
+<claim-text>setting a target time period for cycling the cooling system on and off;</claim-text>
+<claim-text>setting an initial cut-in temperature;</claim-text>
+<claim-text>setting an initial cut-out temperature;</claim-text>
+<claim-text>periodically sensing a temperature within the compartment;</claim-text>
+<claim-text>cycling the cooling system on and off by turning the cooling system on if the sensed temperature is above the initial cut-in temperature and turning the cooling system off if the sensed temperature is equal to or less than the initial cut-out temperature;</claim-text>
+<claim-text>measuring a time period for cycling the cooling system on and off;</claim-text>
+<claim-text>comparing the measured time period with the target time period; and</claim-text>
+<claim-text>adjusting a temperature difference between the cut-in and cut-out temperatures in response to the comparison of the measured time period with the target time period.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The method of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the adjusting step comprises decreasing the cut-in temperature and increasing the cut-out temperature if the measured time period is greater than the target time period.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The method of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein, if the measured time period is less than the target time period, the adjusting step comprises increasing the cut-in temperature and decreasing the cut-out temperature, unless the absolute difference between the cut-in and cut-out temperatures exceeds a maximum allowable difference.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The method of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the compartment is a freezer compartment, and wherein the refrigerator further includes a fresh food compartment, the method further comprising:
+<claim-text>setting an initial fresh food compartment cut-in temperature and an initial fresh food compartment cut-out temperature;</claim-text>
+<claim-text>periodically sensing a temperature within the fresh food compartment;</claim-text>
+<claim-text>cycling a fresh food compartment temperature by providing chilled air to the fresh food compartment if the sensed fresh food compartment temperature is above the fresh food compartment cut-in temperature until the sensed fresh food compartment temperature is equal to or less than the fresh food compartment cut-out temperature</claim-text>
+<claim-text>measuring a time period for cycling the fresh food compartment temperature;</claim-text>
+<claim-text>comparing the measured time period for cycling the fresh food compartment temperature with the target time period; and</claim-text>
+<claim-text>adjusting a temperature difference between the fresh food compartment cut-in and cut-out temperatures in response to the comparison of the measured time period for cycling the fresh food compartment with the target time period.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The method of <claim-ref idref="CLM-00007">claim 7</claim-ref>, further comprising synchronizing the cycling the fresh food compartment temperature step with the cycling the cooling system on and off step.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. A method of efficiently operating a cooling system for a refrigerator, wherein the cooling system turns on and off in response to cut-in and cut-out temperatures, the method comprising:
+<claim-text>determining a frequency of an on-off cycle for the cooling system by monitoring the cooling system while it is operating;</claim-text>
+<claim-text>bringing the on-off cycle frequency closer to a predetermined target frequency by increasing or decreasing a temperature difference between the cut-in and cut-out temperatures.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The method of <claim-ref idref="CLM-00009">claim 9</claim-ref>, further comprising determining that the cooling system has operated in a stable manner for a sufficient length of time to be considered as non-transient before increasing or decreasing the temperature difference between the cut-in and cut-out temperatures.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The method of <claim-ref idref="CLM-00009">claim 9</claim-ref>, further comprising sensing a temperature within a compartment in the refrigerator, and wherein the cut-in and cut-out temperatures are set to achieve an average sensed temperature that corresponds to a desired set point temperature for the compartment.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The method of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the refrigerator includes a freezer compartment, a fresh food compartment, and an ice maker in an ice compartment, the method further comprising:
+<claim-text>monitoring a state of the ice maker;</claim-text>
+<claim-text>sensing a fresh food compartment temperature;</claim-text>
+<claim-text>sensing a freezer compartment temperature;</claim-text>
+<claim-text>sensing an ice compartment temperature; and</claim-text>
+<claim-text>controlling the fresh food compartment temperature, the freezer compartment temperature, and the ice compartment temperature based on the state of the ice maker.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. A method of controlling temperature within a compartment of a refrigerator, the method comprising:
+<claim-text>receiving an input of a desired average temperature;</claim-text>
+<claim-text>sensing a temperature in the compartment;</claim-text>
+<claim-text>determining an initial cut-in temperature and an initial cut-out temperature based on a correlation between the desired average temperature and the sensed temperature;</claim-text>
+<claim-text>providing chilled air to the compartment when the sensed temperature is above the cut-in temperature;</claim-text>
+<claim-text>stopping providing chilled air to the compartment when the sensed temperature is below the cut-out temperature;</claim-text>
+<claim-text>monitoring a pattern of providing and stopping providing chilled air; and</claim-text>
+<claim-text>adjusting the cut-in temperature and the cut-out temperature in response to the pattern.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The method of <claim-ref idref="CLM-00013">claim 13</claim-ref> further comprising:
+<claim-text>monitoring a compressor to determine a pattern of on-off cycles for the compressor;</claim-text>
+<claim-text>wherein the providing step is performed by turning on a fan and the stopping providing step is performed by turning off the fan; and</claim-text>
+<claim-text>wherein the adjusting step causes the pattern of providing and stopping providing to correspond to the pattern of on-off cycles.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

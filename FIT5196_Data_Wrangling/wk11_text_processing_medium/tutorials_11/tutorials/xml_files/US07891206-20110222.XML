@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891206-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891206</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11988100</doc-number>
+<date>20061024</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>KR</country>
+<doc-number>10-2005-0100255</doc-number>
+<date>20051024</date>
+</priority-claim>
+<priority-claim sequence="02" kind="national">
+<country>KR</country>
+<doc-number>10-2005-0100258</doc-number>
+<date>20051024</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>157</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>25</class>
+<subclass>D</subclass>
+<main-group>21</main-group>
+<subgroup>14</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 62286</main-classification>
+<further-classification> 62291</further-classification>
+<further-classification>220 2387</further-classification>
+<further-classification>312325</further-classification>
+</classification-national>
+<invention-title id="d2e90">Dehumidifier</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>1181526</doc-number>
+<kind>A</kind>
+<name>Hawk</name>
+<date>19160500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>3122355</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>1895291</doc-number>
+<kind>A</kind>
+<name>Meyer</name>
+<date>19330100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>232 431</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>2682758</doc-number>
+<kind>A</kind>
+<name>Harris</name>
+<date>19540700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 62291</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>4554794</doc-number>
+<kind>A</kind>
+<name>Khan</name>
+<date>19851100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 62150</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>4953364</doc-number>
+<kind>A</kind>
+<name>Lee</name>
+<date>19900900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 62285</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>5215365</doc-number>
+<kind>A</kind>
+<name>Godin</name>
+<date>19930600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>312328</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>5381921</doc-number>
+<kind>A</kind>
+<name>Bray et al.</name>
+<date>19950100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>22049508</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>5421252</doc-number>
+<kind>A</kind>
+<name>Reichel</name>
+<date>19950600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>100193</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>5884495</doc-number>
+<kind>A</kind>
+<name>Powell et al.</name>
+<date>19990300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 62150</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>5890615</doc-number>
+<kind>A</kind>
+<name>Petras</name>
+<date>19990400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>220 2386</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>6193091</doc-number>
+<kind>B1</kind>
+<name>Olivetti</name>
+<date>20010200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>220 2388</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>6334542</doc-number>
+<kind>B1</kind>
+<name>Hsu</name>
+<date>20020100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>220263</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>2006/0261143</doc-number>
+<kind>A1</kind>
+<name>Sola Barbarin et al.</name>
+<date>20061100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>232 431</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>13</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 62286</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 62291</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>220 2387</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>220908</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>220909</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>312325-328</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>11</number-of-drawing-sheets>
+<number-of-figures>11</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090120118</doc-number>
+<kind>A1</kind>
+<date>20090514</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Yoon</last-name>
+<first-name>Sang-Youn</first-name>
+<address>
+<city>Busan-si</city>
+<country>KR</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>KR</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Jang</last-name>
+<first-name>Won-Suk</first-name>
+<address>
+<city>Busan-si</city>
+<country>KR</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>KR</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>McKenna Long &#x26; Aldridge LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>LG Electronics Inc.</orgname>
+<role>03</role>
+<address>
+<city>Seoul</city>
+<country>KR</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Tapolcai</last-name>
+<first-name>William E</first-name>
+<department>3744</department>
+</primary-examiner>
+</examiners>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/KR2006/004347</doc-number>
+<kind>00</kind>
+<date>20061024</date>
+</document-id>
+<us-371c124-date>
+<date>20080910</date>
+</us-371c124-date>
+</pct-or-regional-filing-data>
+<pct-or-regional-publishing-data>
+<document-id>
+<country>WO</country>
+<doc-number>WO2007/049903</doc-number>
+<kind>A </kind>
+<date>20070503</date>
+</document-id>
+</pct-or-regional-publishing-data>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A dehumidifier is provided. The dehumidifier includes a cabinet defining an outer appearance of the dehumidifier, a barrier installed in the cabinet to collect condensed water, and a bucket assembly received in the barrier to store the condensed water, the bucket assembly being capable of pivoting frontward.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="155.62mm" wi="129.62mm" file="US07891206-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="168.83mm" wi="105.07mm" file="US07891206-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="133.35mm" wi="118.19mm" file="US07891206-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="181.02mm" wi="122.85mm" file="US07891206-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="143.09mm" wi="109.05mm" file="US07891206-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="196.60mm" wi="145.80mm" file="US07891206-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="154.94mm" wi="128.61mm" file="US07891206-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="174.92mm" wi="113.37mm" file="US07891206-20110222-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="155.02mm" wi="131.83mm" file="US07891206-20110222-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="155.87mm" wi="104.14mm" file="US07891206-20110222-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="197.10mm" wi="132.33mm" file="US07891206-20110222-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="161.97mm" wi="141.56mm" file="US07891206-20110222-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<p id="p-0002" num="0001">This application is a national phase entry of PCT Application No. PCT/KR2006/004347, filed Oct. 24, 2006, and claims the benefit of Korean Patent Application No. 10-2005-0100255, filed Oct. 24, 2005 and Korean Patent Application 10-2005-0100258, filed Oct. 24, 2005; each of the above-identified applications is incorporated by reference hereto in their entireties.</p>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0003" num="0002">The present invention relates to a dehumidifier, and more particularly, to a de-humidifier having a bucket assembly received in a cabinet, which can be separated from a barrier by a stroke of action and can be temporally fixed on the barrier in the course of being separated from the barrier.</p>
+<heading id="h-0002" level="1">BACKGROUND ART</heading>
+<p id="p-0004" num="0003">Generally, a dehumidifier is an apparatus for sucking indoor humid air into a cabinet, removing moisture from the humid air by allowing the humid air to pass through a heat exchanger having a condenser and a vaporizer along which refrigerants flow, then discharging the air from which the moisture is removed to an indoor room.</p>
+<p id="p-0005" num="0004">The humidifier includes a cabinet defining an outer appearance, a compressor installed in the cabinet and compressing refrigerants, a condenser for condensing the refrigerants compressed by the compressor by heat-exchanging the refrigerants with air, an expansion valve for expanding refrigerants condensed by the condenser, and a vaporizer for vaporizing the refrigerants expanded by the expansion valve by heat-exchanging the refrigerants with air, and a blower fan for forcedly directing the air into the cabinet.</p>
+<p id="p-0006" num="0005">With the above structure of the conventional dehumidifier, when the blower fan operates, the indoor air is sucked into the cabinet. The sucked air passes through the vaporizer. Then, the moisture contained in the air is condensed on a surface of the vaporizer, thereby removing the moisture from the indoor air. Then, the air whose moisture is removed is discharged out of the cabinet. During this process, the condenser water is stored in a bucket disposed in the cabinet and the user periodically empties the bucket.</p>
+<p id="p-0007" num="0006">However, in the conventional dehumidifier, when the user remove the bucket, the front upper and lower ends of the bucket are simultaneously separated toward the user, the bucket may be hooked by the cabinet in the coursed of removing the bucket through a sliding motion.</p>
+<heading id="h-0003" level="1">DISCLOSURE OF INVENTION</heading>
+<heading id="h-0004" level="1">Technical Problem</heading>
+<p id="p-0008" num="0007">Accordingly, the present invention is directed to a dehumidifier that substantially obviates one or more problems due to limitations and disadvantages of the related art.</p>
+<p id="p-0009" num="0008">An object of the present invention is to provide a dehumidifier in which a bucket can be separated by a stroke of action by allowing the bucket to be separated frontward from the cabinet while rotating.</p>
+<p id="p-0010" num="0009">Another object of the present invention is to provide a dehumidifier having a bucket that can be easily lifted by a user by allowing the bucket to move by a predetermined distance in a direction in which the user pulls the bucket.</p>
+<p id="p-0011" num="0010">Still another object of the present invention is to provide a dehumidifier having a bucket assembly that can temporally fixed by the interference with a barrier when the bucket assembly is separated from the cabinet.</p>
+<heading id="h-0005" level="1">Technical Solution</heading>
+<p id="p-0012" num="0011">Additional advantages, objects, and features of the invention will be set forth in part in the description which follows and in part will become apparent to those having ordinary skill in the art upon examination of the following or may be learned from practice of the invention. The objectives and other advantages of the invention may be realized and attained by the structure particularly pointed out in the written description and claims hereof as well as the appended drawings.</p>
+<p id="p-0013" num="0012">To achieve these objects and other advantages and in accordance with the purpose of the invention, as embodied and broadly described herein, there is provided a de-humidifier including: a cabinet defining an outer appearance of the dehumidifier; a barrier installed in the cabinet to collect condensed water; and a bucket assembly received in the barrier to store the condensed water, the bucket assembly being capable of pivoting frontward.</p>
+<p id="p-0014" num="0013">In another aspect of the present invention, there is provided a dehumidifier including: a cabinet defining an outer appearance of the dehumidifier; a base defining a bottom of the cabinet; a barrier installed in the cabinet to collect condensed water; a bucket assembly received in the barrier to store the condensed water, the bucket assembly being pivotally connected to the barrier by a hinge; and a hooking mechanism for temporally fixing the pivot poison of the bucket assembly when the bucket assembly pivots.</p>
+<p id="p-0015" num="0014">In still another aspect of the present invention, there is provided a dehumidifier including: a cabinet defining an outer appearance of the dehumidifier; a barrier installed on a bottom of the cabinet; a bucket assembly received in the barrier to store the condensed water; a pivotal mechanism for allowing the bucket assembly to pivot frontward of the barrier; and a hooking mechanism for temporally fixing the pivot poison of the bucket assembly when the bucket assembly pivots.</p>
+<heading id="h-0006" level="1">Advantageous Effects</heading>
+<p id="p-0016" num="0015">According to the present invention, since an amount or level of the condensed water stored in the bucket by a level detecting unit or a weight detecting unit and a detected result is displayed on the display unit, the user can easily identify the amount or level of the condensed water stored in the bucket.</p>
+<p id="p-0017" num="0016">In addition, since the level of the condensed water stored in the bucket is visually transmitted to the user, the user can remove the condensed water out of the bucket before the bucket is fully filled with the condensed water.</p>
+<p id="p-0018" num="0017">Furthermore, since the bucket assembly is temporally fixed by a hooking member installed between the barrier and the bucket assembly during the bucket assembly pivots, a case where the bucket assembly falls down frontward during the bucket assembly is separated can be prevented.</p>
+<p id="p-0019" num="0018">In addition, since the bucket guide on which the bucket seats maintains the separated state even after the bucket is separated, the user can more easily mount the bucket.</p>
+<p id="p-0020" num="0019">It is to be understood that both the foregoing general description and the following detailed description of the present invention are exemplary and explanatory and are intended to provide further explanation of the invention as claimed.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0007" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0021" num="0020">The accompanying drawings, which are included to provide a further understanding of the invention and are incorporated in and constitute a part of this application, illustrate embodiment(s) of the invention and together with the description serve to explain the principle of the invention. In the drawings:</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 1</figref> is a perspective view of a dehumidifier according to an embodiment of the present invention;</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 2</figref> is an exploded perspective view of the dehumidifier of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 3</figref> is an exploded perspective view of a bucket assembly according to an embodiment of the present invention;</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 4</figref> is a perspective view of a barrier according to an embodiment of the present invention;</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 5</figref> is an exploded perspective view of a hooking mechanism between a bucket assembly and a barrier according to an embodiment of the present invention;</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 6</figref> is an operational view for illustrating a separating process of the bucket assembly according to an embodiment of the present invention;</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 7</figref> is an exploded perspective view of a filter assembly according to an embodiment of the present invention;</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 8</figref> is an operational view for illustrating a separating process of the filter assembly of <figref idref="DRAWINGS">FIG. 11</figref>;</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 9</figref> is a view illustrating an operation of the dehumidifier of the present invention;</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. 10</figref> is an exploded perspective view of a bucket assembly according to another embodiment of the present invention; and</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. 11</figref> is an exploded perspective view of a bucket assembly according to another embodiment of the present invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0008" level="1">BEST MODE FOR CARRYING OUT THE INVENTION</heading>
+<p id="p-0033" num="0032">Reference will now be made in detail to the preferred embodiments of the present invention, examples of which are illustrated in the accompanying drawings. Wherever possible, the same reference numbers will be used throughout the drawings to refer to the same or like parts.</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. 1</figref> is a perspective view of a dehumidifier according to an embodiment of the present invention and <figref idref="DRAWINGS">FIG. 2</figref> is an exploded perspective view of the dehumidifier of <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0035" num="0034">Referring to <figref idref="DRAWINGS">FIGS. 1 and 2</figref>, a humidifier of the present invention includes a cabinet <b>60</b> defining an outer appearance, a compressor <b>10</b> installed in the cabinet <b>60</b> and compressing refrigerants, a condenser <b>20</b> for condensing the refrigerants compressed by the compressor by heat-exchanging the refrigerants with air, an expansion valve <b>30</b> for expanding refrigerants condensed by the condenser <b>20</b>, and a vaporizer <b>40</b> for vaporizing the refrigerants expanded by the expansion valve <b>30</b> by heat-exchanging the refrigerants with air, and a blower fan assembly <b>50</b> for forcedly directing the air into the cabinet.</p>
+<p id="p-0036" num="0035">The dehumidifier of the present invention further includes a base <b>70</b> formed a bottom of the cabinet <b>60</b>, a barrier <b>80</b> vertically installed on the base <b>70</b> and dividing the base into front and rear portions, a bucket assembly <b>90</b> installed on the barrier <b>80</b> to store the condensed water condensed on a surface of the vaporizer, and a filter assembly installed on an upper portion of the barrier <b>80</b> to filtering off foreign off foreign objects contained in air introduced into the cabinet <b>60</b> and directed to the blower fan assembly <b>50</b>.</p>
+<p id="p-0037" num="0036">Describing in more detail, wheels <b>71</b> are installed on a bottom of the base <b>70</b> and the barrier <b>80</b> is installed on the base <b>70</b>. With reference to the barrier <b>80</b>, the bucket assembly <b>90</b> is installed on the front portion of the base <b>70</b> and the compressor is installed on the rear portion of the base <b>70</b>.</p>
+<p id="p-0038" num="0037">In addition, the filter assembly, vaporizer <b>40</b>, condenser <b>20</b>, and blower fan assembly <b>50</b> are installed on the barrier <b>80</b> from the front portion to the rear portion in this order.</p>
+<p id="p-0039" num="0038">Here, the vaporizer <b>40</b> and the condenser <b>20</b> are spaced apart from each other and integrally coupled to each other. In order for the condensed water condensed by the vaporizer <b>40</b> to be effectively collected at the barrier <b>80</b>, a drain pan <b>83</b> is formed on a top surface of the barrier <b>80</b>. The vaporizer <b>40</b> and the condenser <b>20</b> are mounted on the drain pan <b>83</b>.</p>
+<p id="p-0040" num="0039">Furthermore, an installation unit <b>84</b> formed at a higher location that the drain pan <b>83</b> is formed on the top surface of the barrier <b>80</b> and the blower fan assembly <b>50</b> is mounted on the installation unit <b>84</b>.</p>
+<p id="p-0041" num="0040">The blower fan assembly <b>50</b> includes a housing <b>52</b> installed on the barrier <b>80</b>, a centrifugal pan installed in the housing <b>52</b>, a driving motor <b>55</b> for driving the centrifugal pan <b>54</b>, and a housing cover <b>56</b> assembled with the housing g<b>52</b> to guide air discharged from the centrifugal pan <b>54</b>.</p>
+<p id="p-0042" num="0041">The housing <b>52</b> is provided with an air inlet <b>52</b><i>a </i>through which the air is sucked. The air accelerated by the centrifugal pan <b>54</b> after passing through the air inlet <b>52</b><i>a </i>is guided upward by the housing <b>52</b> and the housing cover <b>56</b>.</p>
+<p id="p-0043" num="0042">The housing <b>52</b> divides an interior of the cabinet into front and rear portions so that the air introduced from the interior room can be directed to the centrifugal pan <b>54</b> through only an air inlet <b>52</b><i>a. </i></p>
+<p id="p-0044" num="0043">Furthermore, the vaporizer/condenser <b>40</b>/<b>20</b> and the housing <b>52</b> are assembled with each other, and a control box <b>130</b> for controlling the humidifier is installed above the vaporizer/condenser <b>40</b>/<b>50</b> and the housing <b>5</b>.</p>
+<p id="p-0045" num="0044">Meanwhile, the cabinet <b>62</b> includes a side panel <b>62</b> defining a side appearance, a rear panel <b>65</b> defining a rear appearance, a top panel <b>66</b> defining a top appearance, and a front panel assembly <b>140</b> defining a front appearance.</p>
+<p id="p-0046" num="0045">Here, the side panel <b>62</b>, rear panel <b>65</b>, are front panel assembly <b>140</b> are vertically disposed on a top surface of the base <b>70</b></p>
+<p id="p-0047" num="0046">The side panel <b>62</b> is provided with an inlet through which the air is introduced. The rear and front panels <b>65</b> and <b>68</b> are provided with respective air outlet <b>66</b> and <b>68</b><i>a </i>through which the air is discharged.</p>
+<p id="p-0048" num="0047">A louver <b>64</b> for controlling an induction direction of the air is installed in the inlet <b>63</b> of the side panel <b>62</b> and louvers <b>67</b> and <b>69</b> for controlling a discharging direction of the air are installed in the respective outlets <b>66</b> and <b>68</b><i>a </i>of the top panel <b>68</b>.</p>
+<p id="p-0049" num="0048">Here, the louvers <b>64</b> and <b>67</b> installed on the respective side and rear panels <b>62</b> and <b>66</b> are designed to be adjusted by a user. The louver <b>69</b> installed on the panel <b>68</b> is designed to be controlled by a controller or the user.</p>
+<p id="p-0050" num="0049">At this point, the louver <b>69</b> is connected to the top panel <b>68</b> by a fin <b>69</b><i>a </i>so that it can pivot upward and downward. A motor (not shown) or a power transmission mechanism (not shown) may be installed on the top panel <b>67</b> so that the louver <b>69</b> can pivot by the control unit.</p>
+<p id="p-0051" num="0050">Meanwhile, the front panel assembly <b>140</b> includes a front frame <b>142</b> connected to the side panel <b>62</b> to pivot frontward, and a front panel <b>144</b> installed on a front surface of the front frame <b>142</b> so that it can be exposed to the user.</p>
+<p id="p-0052" num="0051">The peripheries of the front panel <b>144</b> and the front frame <b>142</b> are spaced apart by a predetermined distance. Therefore, the indoor air can be introduced into the cabinet <b>60</b> through a gap formed between the peripheries of the front panel <b>144</b> and the front frame <b>142</b>.</p>
+<p id="p-0053" num="0052">A panel guide <b>146</b> is interposed between the front panel <b>144</b> and the front frame <b>142</b> at upper and lower ends.</p>
+<p id="p-0054" num="0053">In order for the air to flow toward the filter assembly disposed in rear of the front frame <b>142</b>, the front frame <b>142</b> is provided with a plurality of holes <b>142</b><i>a </i>and slits <b>142</b><i>b. </i></p>
+<p id="p-0055" num="0054">Furthermore, a bracket <b>145</b> is installed on an edge of the front frame <b>142</b> so that the front frame <b>142</b> can be connected to the side panel <b>62</b> by a hinge. The bracket <b>145</b> is formed at each of upper and lower ends of the side edge of the side panel <b>62</b> so that the front panel assembly <b>140</b> can be opened and closed in a hinge motion.</p>
+<p id="p-0056" num="0055">The following will describe the bucket assembly <b>90</b> according to an embodiment of the present invention.</p>
+<p id="p-0057" num="0056"><figref idref="DRAWINGS">FIG. 3</figref> is an exploded perspective view of the bucket assembly.</p>
+<p id="p-0058" num="0057">Referring to <figref idref="DRAWINGS">FIG. 3</figref>, the bucket assembly <b>90</b> of this embodiment includes a bucket guide <b>92</b> hingedly connected to the base <b>70</b> to pivot frontward and a bucket <b>94</b> storing the condensed water and pivoting frontward together with the bucket guide <b>92</b>.</p>
+<p id="p-0059" num="0058">That is, a pin-shaped hinge <b>92</b><i>a </i>protrudes from both ends of the bucket guide <b>92</b> and is coupled to the bracket <b>74</b> of the base <b>70</b>. Therefore, the bucket guide <b>92</b> can pivot about the hinge <b>92</b><i>a. </i></p>
+<p id="p-0060" num="0059">The bucket guide <b>92</b> includes first and second guide units <b>93</b><i>a </i>and <b>93</b><i>b </i>protruding upward to guide the accurate seating of the bucket <b>94</b>.</p>
+<p id="p-0061" num="0060">Here, the first guide unit <b>93</b><i>a </i>is aligned with a groove <b>94</b><i>a </i>formed on a front-lower end of the bucket <b>94</b> and the second guide unit <b>93</b><i>b </i>is aligned with a groove <b>94</b><i>b </i>formed on a rear surface of the bucket <b>94</b>.</p>
+<p id="p-0062" num="0061">The guide units <b>93</b><i>a </i>and <b>93</b><i>b </i>allows a water collecting hole (<b>83</b><i>c </i>of <figref idref="DRAWINGS">FIG. 4</figref>) of the barrier <b>80</b> to be accurately aligned with an inflow hole <b>94</b><i>c </i>of the bucket <b>94</b>.</p>
+<p id="p-0063" num="0062">In addition, a handle <b>95</b> is formed on an upper end of the bucket <b>94</b> so that the user uses the handle <b>95</b> when he/she intends to lift the bucket <b>94</b>.</p>
+<p id="p-0064" num="0063">Therefore, when the user pulls frontward the handle <b>95</b> of the bucket <b>94</b>, an upper end of the bucket <b>92</b><i>a </i>is pivoted frontward about the hinge <b>92</b><i>a</i>. Then, after the upper end of the bucket <b>94</b> moves out of a receiving portion (<b>81</b> of <figref idref="DRAWINGS">FIG. 4</figref>) of the barrier <b>80</b>, the user lifts the bucket <b>94</b> so that the bucket <b>94</b> can be completely separated from the bucket guide <b>91</b>.</p>
+<p id="p-0065" num="0064">Here, although now shown in the drawing, the bucket guide <b>91</b> may be installed to be hingedly coupled to the barrier.</p>
+<p id="p-0066" num="0065">In addition, the bucket guide <b>92</b> is provided at opposite ends with a hook projection <b>182</b> for temporally fixing the bucket assembly <b>190</b> relative to the barrier <b>80</b> during the rotation of the bucket assembly <b>190</b>. The hook projection <b>182</b> will be described later with reference to the accompanying drawing.</p>
+<p id="p-0067" num="0066"><figref idref="DRAWINGS">FIG. 4</figref> is a perspective view of the barrier.</p>
+<p id="p-0068" num="0067">Referring to <figref idref="DRAWINGS">FIG. 4</figref>, the barrier <b>80</b> of this embodiment includes a receiving portion <b>81</b> for receiving the bucket assembly <b>90</b>, a drain pan <b>83</b> formed on an upper portion to collect the condensed water, an installation portion <b>84</b> formed in rear of the drain pan <b>83</b> to support the blower fan assembly <b>50</b>.</p>
+<p id="p-0069" num="0068">That is, a water collection hole <b>83</b><i>c </i>through which the condensed water collected in the drain pan <b>83</b> is directed to the inflow hole <b>94</b><i>c </i>of the bucket <b>94</b>. Here, the water collection hole <b>83</b><i>c </i>is formed at a location corresponding to the inflow hole <b>94</b><i>c </i>of the bucket <b>83</b>.</p>
+<p id="p-0070" num="0069">Meanwhile, a hook member <b>184</b> that is hooked on the hook projection <b>182</b> formed on the bucket guide <b>92</b> is formed on an inner surface <b>81</b><i>a </i>of the receiving portion <b>81</b>.</p>
+<p id="p-0071" num="0070">The following will describe the hooking mechanism between the bucket assembly <b>90</b> and the barrier.</p>
+<p id="p-0072" num="0071"><figref idref="DRAWINGS">FIG. 5</figref> is an exploded perspective view of the hooking mechanism between the bucket assembly and the barrier according to an embodiment of the present invention.</p>
+<p id="p-0073" num="0072">Referring to <figref idref="DRAWINGS">FIGS. 3 through 5</figref>, the hooking mechanism <b>180</b> of this embodiment includes a hook member <b>184</b> formed on both sides <b>81</b><i>a </i>of the receiving portion <b>81</b> of the barrier <b>80</b> and a hook projection <b>182</b> formed on both sides of the bucket guide <b>92</b> and interlock with the hook member <b>184</b>.</p>
+<p id="p-0074" num="0073">The hook projection <b>182</b> is formed in rear of the bucket guide <b>92</b> and projected from the both sides of the bucket guide <b>92</b> toward both inner-side of the barrier <b>80</b>.</p>
+<p id="p-0075" num="0074">Meanwhile, the hook member <b>184</b> interferes with the hook projection <b>182</b> to fix the bucket guide <b>92</b>. The hook member <b>184</b> is formed on an inner surface <b>81</b><i>a </i>of the barrier <b>80</b>.</p>
+<p id="p-0076" num="0075">Here, the hook member <b>184</b> protrudes inward from the inner surface <b>81</b><i>a </i>of the barrier <b>80</b>. In order to interfere with the hook projection <b>182</b> rotating about the hinge <b>92</b><i>a</i>, the hook member <b>184</b> is provided with a indented surface <b>185</b> forwarding the bottom surface.</p>
+<p id="p-0077" num="0076">Describing in more detail, the indented surface <b>185</b> is formed in an arc-shape having a radius that is a distance between the hinge <b>92</b><i>a </i>and the hook member <b>184</b>. At this point, the indented surface <b>185</b> includes a hook portion <b>185</b><i>a </i>formed at an angle similar to a horizontal direction and a supporting portion <b>185</b><i>b </i>formed at an angle similar to a vertical direction. The hook portion <b>185</b><i>a </i>is continued from the supporting portion <b>185</b><i>b</i>. That is, the indented surface <b>185</b> is formed with a plurality of step <b>186</b> each having the hook portion <b>185</b><i>a </i>and the supporting portion <b>185</b><i>b. </i></p>
+<p id="p-0078" num="0077">Therefore, when the bucket guide rotates <b>92</b>, the hook projection <b>182</b> performs a hooking action with the hook portion <b>185</b><i>a </i>while passing through each step <b>186</b>. During this process, when the bucket guide <b>92</b> stops at one of the steps <b>186</b>, the hook projection <b>182</b> contacts the supporting portion <b>185</b><i>b </i>to temporally stop the position of the bucket guide <b>92</b>.</p>
+<p id="p-0079" num="0078">Meanwhile, although the hook projection <b>182</b> is formed on the bucket guide <b>92</b> and the hook member <b>184</b> is formed on the barrier in this embodiment, the hook projection <b>182</b> may be formed on the barrier <b>80</b> and the hook member <b>184</b> may be formed on the bucket guide <b>92</b>.</p>
+<p id="p-0080" num="0079">The following will describe the separating process of the bucket assembly <b>90</b>.</p>
+<p id="p-0081" num="0080"><figref idref="DRAWINGS">FIG. 6</figref> is an operational view for illustrating a separating process of the bucket assembly.</p>
+<p id="p-0082" num="0081">Referring to <figref idref="DRAWINGS">FIGS. 5 and 6</figref>, the user opens the front panel assembly <b>140</b> to empty the bucket <b>94</b> storing the condensed water. Then, the front panel assembly <b>140</b> rotates about the bracket <b>145</b> of the side panel <b>62</b> to open the cabinet <b>60</b>.</p>
+<p id="p-0083" num="0082">In addition, the user pulls the handle <b>95</b> of the bucket <b>94</b> to separate the bucket <b>94</b> from the barrier <b>80</b>.</p>
+<p id="p-0084" num="0083">That is, since the bucket <b>94</b> is disposed on the bucket guide <b>92</b> and the bucket guide <b>92</b> rotates in a state where the hinge <b>92</b><i>a </i>is connected to the barrier <b>80</b>, the upper end of the bucket <b>94</b> pivots frontward by the user pulling the bucket <b>94</b>. At this point, the hook projection <b>182</b> of the bucket guide <b>94</b> rides across the indented surface of the hook member <b>184</b>.</p>
+<p id="p-0085" num="0084">During this process, when the user stops the pivoting of the bucket <b>94</b> or lifts the bucket <b>94</b> from the bucket guide <b>92</b>, the bucket guide <b>92</b> maintains its stopped state at its rotated angle by the hooking mechanism <b>180</b>.</p>
+<p id="p-0086" num="0085">That is, the hook projection <b>182</b> formed on the bucket guide <b>92</b> is supported by the supporting portion <b>185</b><i>b </i>of the hook member <b>184</b> to maintain its stopped state.</p>
+<p id="p-0087" num="0086">As described above, as the user pulls the handle <b>95</b> of the bucket <b>94</b>, the upper end of the bucket <b>94</b> is partly removed out of the barrier <b>80</b> to a location where the user can effectively lift the bucket <b>94</b>. That is, when the user lifts the handle <b>95</b>, the lower end of the bucket <b>94</b> is separated from the bucket guide <b>92</b>.</p>
+<p id="p-0088" num="0087">Therefore, since the bucket <b>94</b> can be separated by the user grasping the handle at once, the separation of the bucket <b>94</b> can be conveniently realized.</p>
+<p id="p-0089" num="0088">Meanwhile, since the assembling of the bucket <b>94</b> is done in a reverse order, the detailed description thereof will be omitted herein.</p>
+<p id="p-0090" num="0089"><figref idref="DRAWINGS">FIG. 7</figref> is an exploded perspective view of the filter assembly and <figref idref="DRAWINGS">FIG. 8</figref> is an operational view for illustrating a separating process of the filter assembly.</p>
+<p id="p-0091" num="0090">Referring to <figref idref="DRAWINGS">FIG. 7</figref>, the filter assembly <b>120</b> of this embodiment includes a filter frame <b>122</b> assembled on the vaporizer <b>40</b>, a filter case <b>124</b> coupled to the filter frame and being capable of pivoting frontward, and a fixing member <b>126</b> for fixing the filter case <b>124</b> to the filter frame <b>122</b>.</p>
+<p id="p-0092" num="0091">A filter <b>128</b> for filtering off foreign objects contained in the air introduced into the humidifier is slidably installed in the filter case <b>124</b>. The filter case <b>124</b> is pivotally assembled on a lower end of the filter frame <b>122</b>.</p>
+<p id="p-0093" num="0092">The lower end of the filter case <b>124</b> is connected to the lower end of the filter frame <b>122</b> by a hinge <b>124</b><i>a</i>. The filter case <b>124</b> is opened while pivoting frontward about the hinge <b>124</b><i>a. </i></p>
+<p id="p-0094" num="0093">Here, an elastic member such as a torsion spring is installed on the hinge <b>124</b><i>a </i>so that the filter case <b>124</b> pivots forward when the filter case <b>124</b> is separated from the filter frame <b>122</b>.</p>
+<p id="p-0095" num="0094">In addition, a sliding guide <b>124</b><i>b </i>is formed on a rear surface of the filter case <b>124</b> so that the filter <b>128</b> can be slidably mounted in a longitudinal direction. Here, the sliding guide <b>124</b><i>b </i>is lengthily formed on upper and lower portions of a rear surface of the filter case <b>124</b> in a horizontal direction so that the filter <b>128</b> can be mounted in or removed from the filter case <b>124</b> through a sliding motion.</p>
+<p id="p-0096" num="0095">Meanwhile, the fixing member <b>126</b> is installed on the filter frame <b>122</b> and the filter case <b>124</b> is provided at an upper end with a hook <b>127</b> corresponding to the fixing member <b>126</b>.</p>
+<p id="p-0097" num="0096">Here, the hook <b>127</b> is hooked and fixed on the fixing member <b>126</b> to fix the filter case <b>124</b> to the filter frame <b>122</b>. This hooking of the fixing member <b>126</b> can be realized in a one-though type.</p>
+<p id="p-0098" num="0097">The separating and coupling of the filter assembly <b>120</b> will now be described with reference to <figref idref="DRAWINGS">FIG. 8</figref>. The user opens the front panel assembly <b>140</b> and separates the filter case <b>124</b> from the filter frame <b>122</b>.</p>
+<p id="p-0099" num="0098">In a state where the filter case <b>124</b> is coupled to the filter frame <b>122</b>, an upper end of the filter case <b>124</b> is pressed. Then, the hook <b>127</b> is pushed rearward of the fixing member <b>126</b> and returned to release the hook fixing state. Therefore, the upper end of the filter case <b>124</b> pivots frontward. Then, the filter <b>128</b> received in the filter case <b>124</b> gets out of the filter case <b>124</b>.</p>
+<p id="p-0100" num="0099">Meanwhile, when it is intended to couple the filter assembly <b>120</b>, the filter <b>128</b> is inserted in the filter case <b>124</b> through the sliding motion. Next, the upper end of the filter case <b>124</b> is pushed toward the filter frame <b>122</b>. Then, the hook <b>127</b> is inserted into the fixing member <b>126</b> and then hooked and fixed while being pushed by a pre-determined distance frontward.</p>
+<p id="p-0101" num="0100">The following will describe the operation of the humidifier of this embodiment.</p>
+<p id="p-0102" num="0101"><figref idref="DRAWINGS">FIG. 9</figref> is a view illustrating an operation of the dehumidifier of the present invention.</p>
+<p id="p-0103" num="0102">Referring to <figref idref="DRAWINGS">FIG. 9</figref>, when electric power is applied to the dehumidifier, the control unit installed in the control box <b>130</b> applies the power to the blower fan assembly <b>50</b> to introduce the indoor air into the cabinet <b>60</b> and discharge the introduced air to the room.</p>
+<p id="p-0104" num="0103">At this point, the indoor air is introduced through the air inlet <b>63</b> formed in the side panel <b>62</b>, and the hole <b>142</b><i>a </i>and slit <b>142</b><i>b </i>formed in the front frame <b>142</b>. The introduced air flows to the filter assembly <b>120</b> to filter off the foreign objects contained in the air.</p>
+<p id="p-0105" num="0104">Here, the foreign objects of the indoor air passing through the filter assembly <b>120</b> are filtered while the air passes through the filter <b>128</b>. The air passing through the filter <b>128</b> is heat-exchanged with the vaporizer <b>40</b> after passing through the filter frame <b>122</b>.</p>
+<p id="p-0106" num="0105">The filtered air heat-exchanges with discharge fins (not shown) formed on the vaporizer <b>40</b> and is thus cooled, in the course of which the moisture contained in the air is condensed on the surface of the vaporizer <b>40</b>. The condensed water on the vaporizer <b>40</b> is collected in the drain pan <b>83</b> disposed on a lower portion of the vaporizer <b>40</b>.</p>
+<p id="p-0107" num="0106">In addition, the air cooled while passing through the vaporizer is further heat-exchanged with the condenser <b>20</b> installed in rear of the vaporizer <b>40</b> to be heated again.</p>
+<p id="p-0108" num="0107">Here, since the condenser <b>20</b> emits heat during the condensing process of the vaporized refrigerants, the air from which the moisture is removed is heated to a temperature similar to that of the indoor air during the heat-exchanging process of the condenser <b>20</b>.</p>
+<p id="p-0109" num="0108">After then, the air passing through the condenser <b>20</b> is guided to the housing <b>52</b> of the blower fan assembly <b>50</b>. Then, the air guided into the housing <b>52</b> is accelerated by the centrifugal fan <b>54</b> installed in the housing <b>52</b> to be discharged to the room in a circumferential direction.</p>
+<p id="p-0110" num="0109">As described above, the dehumidifier of this embodiment sucks the air through the front and side surfaces and discharges the air through the top and rear surfaces. Therefore, the air can be directed in an every direction of the room in which the dehumidifier is installed.</p>
+<p id="p-0111" num="0110">Meanwhile, the control unit controls the air discharging direction and an amount of the air discharged by adjusting the rotational angle of the louver <b>69</b>. Therefore, when the air is discharged upper-frontward of the cabinet <b>60</b>, the louver <b>69</b> rotates rearward from the closed state to form the discharge hole frontward. When the air is discharged upper-rearward of the cabinet, the louver <b>69</b> rotates frontward from the closed state to form the discharge hole rearward.</p>
+<p id="p-0112" num="0111">Meanwhile, the condensed water condensed on the vaporizer <b>40</b> and collected in the drain fan <b>83</b> flows into the bucket <b>94</b> through the water collecting hole <b>83</b><i>c </i>of the drain fan <b>83</b>.</p>
+<p id="p-0113" num="0112">An amount of the condensed water stored in the bucket <b>94</b> is detected by the full filling detecting unit <b>110</b> or the weight detecting unit <b>150</b>. The control unit displays the amount of the condensed water in response to the amount of the condensed water stored in the bucket <b>94</b> on the display unit <b>135</b>.</p>
+<p id="p-0114" num="0113">Especially, the weight detecting unit <b>150</b> measures the weight of the condensed water and calculate the water level of the bucket <b>94</b> using a test formula. The water level is displayed on the display unit <b>135</b> so that the user can identify the water level. When the bucket <b>94</b> is fully filled with the condensed water, the LEDs (not shown) of the display unit <b>135</b> are turned on so as to let the user to know the water discharging timing.</p>
+<p id="p-0115" num="0114">Furthermore, when the condensed water is filled in the bucket above a pre-determined level, the full filling detecting unit <b>110</b> detects this and transmits the same to the control unit. Then, the control unit stops the operation of the compressor <b>10</b> to prevent the condensed water from overflowing the bucket <b>94</b>.</p>
+<p id="p-0116" num="0115">Meanwhile, although not shown in the drawing, the full filling detecting unit <b>110</b> may be installed to control power applied from the control unit to the compressor <b>10</b> so as to cut off the power applied to the control unit to the compressor <b>10</b> when the bucket is fully filled with the condensed water.</p>
+<p id="p-0117" num="0116"><figref idref="DRAWINGS">FIG. 10</figref> is an exploded perspective view of a bucket assembly according to a second embodiment of the present invention, illustrating a weight detecting unit.</p>
+<p id="p-0118" num="0117">Referring to <figref idref="DRAWINGS">FIG. 10</figref>, this embodiment is identical to the foregoing embodiment of <figref idref="DRAWINGS">FIGS. 1 through 9</figref> except that the bucket guide and the bucket are integrally formed and the hinge <b>192</b><i>a </i>of the bucket assembly <b>190</b> is installed in the groove <b>282</b> formed on the barrier <b>280</b> so that the bucket assembly <b>190</b> and the barrier <b>280</b> can be separated.</p>
+<p id="p-0119" num="0118">That is, the groove <b>282</b> guides the moving direction of the bucket assembly <b>190</b> when the bucket assembly <b>190</b> is separated from the barrier <b>280</b>.</p>
+<p id="p-0120" num="0119">The following will describe the separating process of the bucket assembly <b>190</b>.</p>
+<p id="p-0121" num="0120">First, when the user pulls the handle <b>95</b> of the bucket assembly <b>190</b>, the bucket assembly <b>190</b> seating on the groove <b>282</b> of the barrier <b>280</b> rotates about the hinge <b>192</b><i>a. </i></p>
+<p id="p-0122" num="0121">At this point, since a large amount of the condensed water is stored in the bucket assembly <b>190</b>, a weight center of the bucket assembly <b>190</b> is formed at a lower portion of the bucket assembly and the bucket assembly <b>190</b> seats on an inner end <b>182</b><i>a </i>of the groove <b>292</b> to which the hinge <b>192</b><i>a </i>seats and rotates.</p>
+<p id="p-0123" num="0122">When the user lifts the bucket assembly <b>190</b>, the hinge <b>192</b><i>a </i>moves along the groove <b>282</b> and is separated from the barrier <b>280</b>.</p>
+<p id="p-0124" num="0123">Here, the groove <b>282</b> formed on the barrier <b>280</b> has an outer end inclined upward so that the bucket assembly <b>190</b> can be smoothly separated from the barrier when the user lifts the bucket assembly <b>190</b>.</p>
+<p id="p-0125" num="0124">Furthermore, the hooking mechanism <b>180</b> installed between the bucket assembly <b>190</b> and the barrier <b>280</b> generates interference between the bucket assembly <b>190</b> and the barrier <b>280</b> while the bucket assembly <b>190</b> is separated along the groove <b>282</b>.</p>
+<p id="p-0126" num="0125">Here, the hooking mechanism <b>180</b> has the indented surface having a water wave shape, each indented unit of which has an angle similar to that of the groove. Therefore, in the course of separating the bucket assembly <b>190</b>, the bucket assembly <b>190</b> can be temporally fixed.</p>
+<p id="p-0127" num="0126">Since other structures of this embodiment are identical to those of the embodiment of <figref idref="DRAWINGS">FIGS. 1 through 9</figref>, the detailed description thereof will be omitted herein.</p>
+<p id="p-0128" num="0127"><figref idref="DRAWINGS">FIG. 11</figref> is an exploded perspective view of an bucket assembly according to another embodiment of the present invention.</p>
+<p id="p-0129" num="0128">Referring to <figref idref="DRAWINGS">FIG. 11</figref>, this embodiment is same as the embodiment of <figref idref="DRAWINGS">FIGS. 1 through 9</figref> except that the hinge <b>92</b><i>a </i>is not connected to the bracket (<b>74</b> of <figref idref="DRAWINGS">FIG. 2</figref>) but installed in the groove <b>85</b> formed on the barrier so that the bucket guide <b>92</b> moves frontward or rearward through the sliding motion.</p>
+<p id="p-0130" num="0129">That is, the groove <b>85</b> is a guide for allowing the bucket <b>92</b> to move frontward when the user pulls the bucket <b>94</b>. The groove <b>82</b> is horizontally formed in a front-rear direction.</p>
+<p id="p-0131" num="0130">Therefore, when the user pulls the handle <b>94</b>, the bucket <b>94</b> and the bucket guide <b>92</b> move out frontward along the groove <b>85</b> formed on the barrier <b>80</b>. In this state, when the user lifts the bucket <b>94</b>, the bucket is separated from the bucket guide <b>92</b>.</p>
+<p id="p-0132" num="0131">At this point, the hinge <b>92</b><i>a </i>formed on the bucket guide <b>92</b> linearly moves along the groove <b>85</b> when the bucket <b>94</b> moves out. When the hinge <b>92</b><i>a </i>is hooked on the front end <b>85</b><i>a</i>, the movement of the bucket guide <b>92</b> is stopped and pivoted frontward.</p>
+<p id="p-0133" num="0132">In addition, the linear movement and pivoting of the bucket guide <b>92</b> may be sequentially or simultaneously generated according to a withdraw angle at which the user pulls the bucket <b>94</b>.</p>
+<p id="p-0134" num="0133">Meanwhile, the hook member <b>184</b> is provided with a rail <b>188</b> corresponding to the groove <b>85</b> of the bucket guide <b>92</b>.</p>
+<p id="p-0135" num="0134">Therefore, when the bucket guide <b>92</b> moves from a rear end <b>85</b><i>b </i>of the groove <b>85</b> to a front end <b>85</b><i>a </i>of the groove <b>85</b>, the hook projection <b>182</b> of the bucket guide <b>92</b> moves frontward along the rail <b>188</b> of the hook member <b>184</b> and the hinge <b>92</b><i>a </i>of the bucket guide <b>92</b> hooks on the front end <b>85</b><i>a </i>of the groove <b>85</b>. Thus, when the bucket guide <b>92</b> rotates, the hook projection <b>182</b> moves out of the rain <b>188</b> to interfere with the indented surface <b>185</b> of the hook member <b>184</b>.</p>
+<p id="p-0136" num="0135">Here, although not shown in the drawing, the groove <b>85</b> of the barrier <b>80</b> may be formed on an inner surface of the bracket (<b>74</b> of <figref idref="DRAWINGS">FIG. 2</figref>) and the cabinet <b>60</b> of the base disclosed in the embodiment of <figref idref="DRAWINGS">FIGS. 1 through 9</figref>.</p>
+<p id="p-0137" num="0136">It will be apparent to those skilled in the art that various modifications and variations can be made in the present invention. Thus, it is intended that the present invention covers the modifications and variations of this invention provided they come within the scope of the appended claims and their equivalents.</p>
+<heading id="h-0009" level="1">INDUSTRIAL APPLICABILITY</heading>
+<p id="p-0138" num="0137">According to the dehumidifier of the present invention, since the bucket assembly is provided to be capable of pivoting relative to the barrier, the user can easily empty the bucket containing the condensed water. since the bucket assembly is temporally fixed by a hooking member installed between the barrier and the bucket assembly during the bucket assembly pivots, a case where the bucket assembly falls down frontward during the bucket assembly is separated can be prevented. Therefore, the industrial applicability of the present invention is very high.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A dehumidifier comprising:
+<claim-text>a cabinet defining an outer appearance of the dehumidifier;</claim-text>
+<claim-text>a barrier installed in the cabinet to collect condensed water;</claim-text>
+<claim-text>a base defining a bottom of the cabinet;</claim-text>
+<claim-text>a bucket assembly received in the barrier to store the condensed water, the bucket assembly being capable of pivoting frontward, wherein the bucket assembly includes:
+<claim-text>a bucket guide provided at both sides with a hinge, the bucket guide being rotatably coupled to the base; and</claim-text>
+<claim-text>a bucket seated on the bucket guide to store the condensed water, wherein the bucket is designed to be separable from the barrier and the bucket rotates together with the bucket guide; and</claim-text>
+</claim-text>
+<claim-text>a hooking mechanism for temporally fixing the bucket assembly by generating interference between the barrier and the bucket assembly when the bucket assembly pivots, wherein the hooking mechanism comprises:
+<claim-text>a hook member formed on one of the bucket assembly and the barrier; and</claim-text>
+<claim-text>a hook projection formed on the other of the bucket assembly and the barrier to generate the interference with the hook member.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The dehumidifier according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the bucket guide is provided with a guide unit for guiding the seating of the bucket.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The dehumidifier according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the guide unit includes a first guide for guiding the seating of a front end of the bucket and a second guide for guiding the seating of a rear end of the bucket.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The dehumidifier according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the base is provided with a bracket to which the hinge is coupled.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The dehumidifier according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the hook member is formed in an arc-shape having a radius of the hinge of the bucket assembly.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The dehumidifier according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the hook member is provided with an indented surface for interfering with the hook projection.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The dehumidifier according to <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the indented surface comprises:
+<claim-text>a hook portion interfering with the hook projection when the bucket assembly pivots; and</claim-text>
+<claim-text>a supporting portion for supporting the hook projection when the pivoting of the bucket assembly stops.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. A dehumidifier comprising:
+<claim-text>a cabinet defining an outer appearance of the dehumidifier;</claim-text>
+<claim-text>a base defining a bottom of the cabinet;</claim-text>
+<claim-text>a barrier installed in the cabinet to collect condensed water;</claim-text>
+<claim-text>a bucket assembly received in the barrier to store the condensed water, the bucket assembly being pivotally connected to one of the barrier and the base by a hinge; and</claim-text>
+<claim-text>a hooking mechanism for temporally fixing the pivot position of the bucket assembly when the bucket assembly pivots,</claim-text>
+<claim-text>wherein the hooking mechanism comprises:
+<claim-text>a hook member formed on one of the bucket assembly and the barrier; and</claim-text>
+<claim-text>a hook projection formed on the other of the bucket assembly and the barrier to generate interference with the hook member.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The dehumidifier according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein one of the base connected to the bucket assembly and the barrier is provided with a groove for guiding the linear motion of the bucket assembly.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The dehumidifier according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the bucket assembly comprises:
+<claim-text>a bucket guide having a hinge; and</claim-text>
+<claim-text>a bucket seated on the bucket guide to store the condensed water.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The dehumidifier according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the hook member is formed in an arc-shape having a radius of the hinge of the bucket assembly and the hook member is provided with an indented surface for interfering with the hook projection.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The dehumidifier according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the indented surface comprises:
+<claim-text>a hook portion interfering with the hook projection when the bucket assembly pivots; and</claim-text>
+<claim-text>a supporting portion for supporting the hook projection when the pivoting of the bucket assembly stops.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. A dehumidifier comprising:
+<claim-text>a cabinet defining an outer appearance of the dehumidifier;</claim-text>
+<claim-text>a barrier installed on a bottom of the cabinet;</claim-text>
+<claim-text>a bucket assembly received in the barrier to store the condensed water;</claim-text>
+<claim-text>a pivotal mechanism for allowing the bucket assembly to pivot frontward of the barrier; and</claim-text>
+<claim-text>a hooking mechanism for temporarily fixing the pivot position of the bucket assembly when the bucket assembly pivots,</claim-text>
+<claim-text>wherein the pivotal mechanism comprises a hinge formed at the bucket assembly and a receiving portion defined at the barrier for receiving the hinge,</claim-text>
+<claim-text>wherein the receiving portion is extended in a frontward-rearward direction to guide the movement of the hinge, wherein the hinge is removably received in the receiving portion, and</claim-text>
+<claim-text>wherein a hook member is formed on one of the bucket assembly and the barrier and a hook projection is formed on the other of the bucket assembly and the barrier to generate interference with the hook member. </claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

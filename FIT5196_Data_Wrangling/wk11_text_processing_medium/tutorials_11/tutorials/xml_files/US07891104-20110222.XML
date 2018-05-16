@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891104-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891104</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12286052</doc-number>
+<date>20080926</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>DE</country>
+<doc-number>10 2007 050 111</doc-number>
+<date>20071019</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>274</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>24</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 33412</main-classification>
+<further-classification> 3336611</further-classification>
+</classification-national>
+<invention-title id="d2e71">Method and an engagement sensor device for engagement measurement for a machine tool</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>5077905</doc-number>
+<kind>A</kind>
+<name>Murray, Jr.</name>
+<date>19920100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 33412</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>7111407</doc-number>
+<kind>B2</kind>
+<name>Jones</name>
+<date>20060900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 3336612</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>DE</country>
+<doc-number>264 625</doc-number>
+<kind>A1</kind>
+<date>19890200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>22</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 33412</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 33645</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 33DIG 1</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 3336611</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>4</number-of-drawing-sheets>
+<number-of-figures>18</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090100695</doc-number>
+<kind>A1</kind>
+<date>20090423</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Muellner</last-name>
+<first-name>Ralf</first-name>
+<address>
+<city>Ostfildern</city>
+<country>DE</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>DE</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Flynn, Thiel, Boutell &#x26; Tanis, P.C.</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Alfing Kessler Sondermaschinen GmbH</orgname>
+<role>03</role>
+<address>
+<city>Aalen</city>
+<country>DE</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Bennett</last-name>
+<first-name>G. Bradley</first-name>
+<department>2841</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Courson</last-name>
+<first-name>Tania C</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">In a method and an engagement sensor device for engagement measurement for a machine tool for processing workpieces using tools or a laser the machine tool possesses a clamping device with a clamping face for clamping an object, in particular a tool or a workpiece and the engagement sensor device is provided for the measurement or engagement of a face of clamped object at the clamping face or any gap between the face of the clamped object and the clamping face. The sensor device comprises at least one engagement sensor, arranged to the side of the clamping face, with a measurement range aligned in the direction of the gap or of the clamping face for the detection of an electrical or magnetic stimulation field, such field extending between the face of clamped object and the clamping face and being able to be influenced by any gap, the measurement range extending essentially along the clamping face in accordance with a depth direction of any gap or parallel to the clamping face.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="155.02mm" wi="178.56mm" file="US07891104-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="243.84mm" wi="180.76mm" file="US07891104-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="254.93mm" wi="188.98mm" file="US07891104-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="254.51mm" wi="182.54mm" file="US07891104-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="243.42mm" wi="185.84mm" file="US07891104-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0002" num="0001">The invention relates to a method and an engagement sensor device for engagement measurement for a machine tool for processing workpieces using tools or a laser, in the case of which the machine tool possesses a clamping device with a clamping face for clamping an object, in particular a tool or a workpiece and the engagement sensor device is provided for the measurement or engagement of a face of the clamped object at the clamping face or any gap between the face of the clamped object and the clamping face.</p>
+<p id="p-0003" num="0002">The machine tool is for example a milling or drilling machine or a lathe, which machines the workpiece by chip removal.</p>
+<heading id="h-0002" level="1">THE PRIOR ART</heading>
+<p id="p-0004" num="0003">A machine tool with a sensor device for measurement of engagement of a clamped object, as for example a workpiece, is disclosed in the German patent publication DD 264 625 A1. By the application of a workpiece to planar engagement elements the latter are short circuited. The planar engagement elements are arranged on a spindle. Signal responsive induction coils of the spindle housing detect changes in the signal.</p>
+<p id="p-0005" num="0004">A disadvantage in this arrangement is that the planar engagement sensor is arranged on the moving spindle rotor so that the transmission of the evaluation signal is relatively complex. Furthermore the planar engagement sensors are relatively difficult to replace. It is necessary for moving parts of the machine tool to be dismounted before the planar engagement elements or, respectively, the planar engagement sensors may be replaced.</p>
+<heading id="h-0003" level="1">SHORT SUMMARY OF THE INVENTION</heading>
+<p id="p-0006" num="0005">One object of the present invention is to provide for improved engagement measurement in the case of machine tools.</p>
+<p id="p-0007" num="0006">In order to achieve this aim in the case of an engagement sensor device of the type initially mentioned there is a provision such that it possesses at least one engagement sensor, arranged to the side of the clamping face, with a measurement range aligned in the direction of the gap or of the clamping face for the detection of an electrical or magnetic stimulation field, such field extending between the face of clamped object and the clamping face and being able to be influenced by any gap, the measurement range extending essentially along the clamping face in accordance with a depth direction of any gap or parallel to the clamping face. In order to achieve the aim the invention furthermore provides a method in accordance with technical principle of a further independent claim.</p>
+<p id="p-0008" num="0007">The engagement can for example be a planar engagement of the face of clamped object on the clamping face. The engagement sensor device may then be termed a planar position sensor device or a planar engagement sensor device.</p>
+<p id="p-0009" num="0008">The machine tool is for example a laser machine tool and/or a machine tool for workpiece processing by chip removal, as for example a milling machine and/or a drilling machine and/or a lathe.</p>
+<p id="p-0010" num="0009">One advantage of this arrangement is that the sensor may for example be arranged in a stationary manner. Accordingly its wear rate is low and it is furthermore readily replaced. Furthermore the sensor is not subject to external forces and only measures into any gap present.</p>
+<p id="p-0011" num="0010">A basic principle of the invention is that air is present between the owing to the gap, which is present between the clamped object, for example a tool or a workpiece, and the clamping face and such air influences the electrical or magnetic stimulation field. For example air possesses a different dielectric coefficient than clamped object, for example of metal, or respectively the clamping device at the clamping face. Moreover, the magnetic flux in an air gap is different than of the case of engagement or a planar setting with a planar engagement of the object on the clamping face. Dependent on the engagement/planar setting or, respectively, the gap between the clamping face and the clamped object a depth of penetration of the electrical and/or magnetic stimulation field generator will vary.</p>
+<p id="p-0012" num="0011">Preferably the clamping face is an flat face. The at least one engagement sensor is preferably arranged in the plane of the clamping face or is parallel to it, and for example the engagement sensor will directly measure into any gap present between the clamped object and the clamping face.</p>
+<p id="p-0013" num="0012">The engagement sensor is preferably a contact-free capacitive or inductive distance sensor.</p>
+<p id="p-0014" num="0013">The clamping device is preferably able to be shifted in relation to the frame of the machine tool, and for example may be turned in relation to it. In this connection the invention is also particularly advantageous, since the sensor device may be arranged stationarily in relation to the movable clamping device. Accordingly the clamping device can be attached for example to a machine bed, to a holder or to a rotary support for the movable clamping device or the like. Thus the replacement of the sensor device is simplified.</p>
+<p id="p-0015" num="0014">It is however also possible for the sensor device to be placed on a sensor holder able to move independently from the clamping device. In this respect it is possible for the clamping device to be movable or stationary. For example the sensor device can be shifted with the movable sensor holder for measurement toward the clamping device and following the measurement may be shifted back away from it again.</p>
+<p id="p-0016" num="0015">A stationary sensor device does however bring the advantage that for example a tool change or a workpiece change may take place more rapidly.</p>
+<p id="p-0017" num="0016">The sensor device is best designed for generating an engagement signal, which indicates engagement or the presence of a gap between the clamped object and the clamping face on the basis of a reference distance measurement of a reference standard between the sensor device and part of the outline in the clamped object adjacent to the clamping face. The outline is for example an outer peripheral outline, more particularly when the clamping device is a spindle or a component of a spindle. The reference signal renders it possible for example to compensate for a distance by a measurement technique, which is due to differently designed clamped objects, as for example tools or workpieces with a greater or smaller diameter.</p>
+<p id="p-0018" num="0017">For example the engagement sensor has a measurement range able to be switched between an engagement setting for engagement measurement and a reference setting for measurement of the reference distance. Thus the engagement sensor may be kept stationary for example. It is nevertheless also possible for a separate reference sensor to be provided for reference distance measurement for the sensor device. The reference sensor is for example at an axial and/or radial distance from an axis of rotation or other movement direction of the clamping device.</p>
+<p id="p-0019" num="0018">Furthermore a movable sensor holder is possible for resetting the engagement sensor between a reference measurement position for the reference distance measurement and an engagement position for engagement measurement. For example the sensor holder can swing the at least one engagement sensor between the reference measurement position and the engagement measurement position. A linear method is possible as well.</p>
+<p id="p-0020" num="0019">The clamping device will preferably comprise a spindle, as for example a tool or spindle. It is more particularly advantageous to use the invention in conjunction with hollow shank taper (HST) systems or short taper clamping systems.</p>
+<p id="p-0021" num="0020">The clamping face is for example the end face of a rotor of the spindle. The measurement range of the engagement sensor extends athwart, to an axis of rotation of the spindle, or example or obliquely to it.</p>
+<p id="p-0022" num="0021">The sensor device is preferably disposed on a spindle holder, which is a bearing for the spindle rotor, or on a frame holding the spindle. Accordingly the sensor device remains stationary, while the spindle rotor is rotatable. The sensor holder has for example an arm projecting from the clamping face and more particularly from the spindle rotor. Moreover, it is possible for the sensor holder to have a through opening so that for example a torque support or the like may be plugged right through the sensor holder and be united with the spindle holder, f. i. by being screwed to it.</p>
+<p id="p-0023" num="0022">The sensor device preferably possesses an evaluating means for the generation of an engagement signal, which is produced by the evaluation means on the basis of engagement data of the engagement sensor. It will be clear that the evaluating means may also be a spaced means, and for example constitute a component of a control of the machine tool. The evaluating means may for example be a program module with program code, which is able to be implemented by the control of the machine tool.</p>
+<p id="p-0024" num="0023">The evaluating means is preferably designed to detect a movement, as for example a rotation or a linear movement, of the clamping device. This is more particularly advantageous in conjunction with the reference measurement. Thus for example the so-called reference distance may be influenced by an outline (f. i. a radial runout of the clamped object) which extends unevenly with reference to the direction of movement of the clamped object and/or the clamping device, this then being detected by the evaluating means and being taken into account in the generation of the engagement signal.</p>
+<p id="p-0025" num="0024">The evaluating means is best designed for the detection of an engagement of the clamped object's face on the clamping face in at least two measurement positions. For instance the sensor device is moved along the clamping face or the clamping face is shifted past the sensor device and for example is turned. Accordingly therefore for detection of the measurement positions the clamping device is moved in relation to the sensor device or vice versa the sensor device is shifted in relation to the clamping device.</p>
+<p id="p-0026" num="0025">For the production of the stimulation field, i. e. the electrical or magnetic field, a stimulation field generator is provided, which for example can be arranged on the clamped object, the clamping device or the sensor device. In the latter case the stimulation field generator is designed in the form of a separate means of the sensor device, for example as an induction coil. It is however also advantageous for the stimulation field generator to constitute a component of the at least one engagement sensor.</p>
+<p id="p-0027" num="0026">The sensor device may however also comprise several engagement sensors disposed along a common outline which is defined by the clamped object and the clamping device. The outline is for example an outer periphery of a tool or workpiece spindle and of the workpiece or tool clamped by same in position. The outline may be stepped.</p>
+<p id="p-0028" num="0027">Further advantageous developments and convenient forms of the invention will be understood from the following detailed descriptive disclosure of embodiments thereof in conjunction with the accompanying drawings.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">LIST OF THE SEVERAL VIEWS OF THE FIGURES</heading>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 1</figref> represents a partial side view of a machine tool in accordance with the invention with an engagement sensor device.</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 2</figref><i>a </i>shows a portion A taken from <figref idref="DRAWINGS">FIG. 1</figref>, a clamped object being in engagement with a clamping device of the machine tool.</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. 2</figref><i>b </i>is a view similar to <figref idref="DRAWINGS">FIG. 2</figref><i>a </i>in which a gap is present between the clamped object and a clamping face of the clamping device.</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. 3</figref> shows the progression of reference distance values of a reference distance sensor and engagement values of an engagement sensor of the sensor device in accordance with <figref idref="DRAWINGS">FIG. 1</figref> on engagement and in the case of a small gap between the clamped object and the clamping face.</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. 4</figref> shows the signal in accordance with <figref idref="DRAWINGS">FIG. 3</figref> but however in the case of a larger gap between the clamped object and the clamping face.</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. 5</figref> is a partial view like the portion A of <figref idref="DRAWINGS">FIG. 2</figref><i>a </i>of a second embodiment of a sensor device in accordance with the invention having an engagement sensor and a stimulation field generator disposed in the sensor device.</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. 6</figref> represents a portion corresponding to the portion A of <figref idref="DRAWINGS">FIG. 2</figref><i>a </i>of a third working embodiment of a sensor device in accordance with the invention with a stimulation field generator, which is arranged in the clamping device and produces a stimulation field for an engagement sensor of the sensor device.</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. 7</figref><i>a </i>shows a fourth working embodiment of a sensor device of a reference distance measurement generally in accordance with the portion A in <figref idref="DRAWINGS">FIG. 2</figref><i>a. </i></p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. 7</figref><i>b </i>shows the sensor device for engagement measurement in accordance with <figref idref="DRAWINGS">FIG. 7</figref><i>a </i>but set in the direction of a gap between the clamped object and the clamping face.</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. 8</figref> is a partial front view of the clamping device and of the sensor device as in <figref idref="DRAWINGS">FIG. 1</figref> to illustrate an angular offset between a reference distance sensor and the engagement sensor.</p>
+<p id="p-0039" num="0038"><figref idref="DRAWINGS">FIG. 9</figref><i>a </i>shows the machine tool according to <figref idref="DRAWINGS">FIG. 1</figref>, the clamped object engaging the clamping face in a planar manner.</p>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIG. 9</figref><i>b </i>shows a signal from the engagement sensor.</p>
+<p id="p-0041" num="0040"><figref idref="DRAWINGS">FIG. 9</figref><i>c </i>shows a signal from the associated reference sensor of the sensor device in accordance with <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0042" num="0041"><figref idref="DRAWINGS">FIG. 10</figref><i>a </i>is a view corresponding to <figref idref="DRAWINGS">FIG. 9</figref><i>a</i>, in the case of which there is a terminal gap between the clamped object and the clamping device.</p>
+<p id="p-0043" num="0042"><figref idref="DRAWINGS">FIG. 10</figref><i>b </i>shows a signal of the engagement sensor.</p>
+<p id="p-0044" num="0043"><figref idref="DRAWINGS">FIG. 10</figref><i>c </i>shows a signal of the reference sensor in the case of the configuration according to <figref idref="DRAWINGS">FIG. 10</figref><i>a. </i></p>
+<p id="p-0045" num="0044"><figref idref="DRAWINGS">FIG. 11</figref><i>a </i>is a view similar to <figref idref="DRAWINGS">FIG. 9</figref><i>a</i>, there being a radial offset between the clamped object and the clamping device.</p>
+<p id="p-0046" num="0045"><figref idref="DRAWINGS">FIG. 11</figref><i>b </i>shows a signal from the engagement sensor.</p>
+<p id="p-0047" num="0046"><figref idref="DRAWINGS">FIG. 11</figref><i>c </i>shows a signal from the reference sensor in the case of the arrangement of <figref idref="DRAWINGS">FIG. 11</figref><i>a. </i></p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED ACCOUNT OF WORKING EMBODIMENTS OF THE INVENTION</heading>
+<p id="p-0048" num="0047">In the following description of working examples similar or functionally equivalent component are provided with the same reference numerals.</p>
+<p id="p-0049" num="0048">A machine tool <b>10</b> only illustrated diagrammatically in part serves for processing workpieces <b>11</b>, which are also only indicated diagrammatically, as for example castings or other metal parts, by means of tools <b>12</b>. The tool <b>12</b> is a tool for chip removal as for example a milling cutter or a lathe tool. The tool <b>12</b> constitutes a clamped object <b>14</b>, which is held by a clamping device <b>13</b> of the machine tool <b>10</b>. The clamping device <b>13</b> is provided on a spindle rotor <b>16</b> of a spindle <b>15</b>. The tool <b>12</b> is inserted into a tool socket <b>17</b> in the spindle <b>15</b> and held fast in it.</p>
+<p id="p-0050" num="0049">The spindle rotor <b>16</b> is rotatably mounted on a spindle holder <b>18</b> with the aid of a spindle bearings <b>19</b> for rotation about an axis <b>20</b> of rotation <b>20</b>. The spindle <b>15</b> is driven by a motor <b>21</b>.</p>
+<p id="p-0051" num="0050">The shank <b>22</b> of the tool <b>12</b> is clamped in a tool holder <b>23</b> of the clamping device <b>13</b>. The tool holder <b>23</b> is a so-called hollow shank taper (HST) socket. The tool holder <b>23</b> clamps a face <b>27</b> of the clamped object at a terminal side <b>6</b> of the clamped object <b>14</b> against clamping faces <b>25</b> at the terminal side <b>24</b> of the spindle <b>15</b>. The clamping faces <b>25</b> are arranged on the terminal side <b>24</b> like circular segments, there being a set back terminal face <b>29</b> of the terminal side <b>24</b> between each two respective clamping faces <b>25</b>. The clamping faces <b>25</b> are disposed at the terminal side <b>24</b> along a circle. The face <b>27</b> of the clamped object <b>27</b> is a planar face of the tool <b>12</b>, which ideally is in planar contact with the clamping faces <b>25</b>.</p>
+<p id="p-0052" num="0051">It would admittedly be possible in principle to sense the engagement of the face <b>27</b> of the clamped object on the clamping faces <b>25</b> using conventional sensors, for example with the aid of sensors disposed on the clamping faces <b>25</b>. The same however would rotate during operation of the spindle <b>15</b> so that the transmission of measured values or data would be difficult. Accordingly in the case of the machine tool <b>10</b> a different principle is adopted in which a sensor device <b>30</b> monitors the engagement of the face <b>27</b> of the clamped object on one or more clamping faces <b>25</b>. Failing such an engagement, for example a planar engagement, i. e. for example in the case of a skew position of the tool <b>12</b> in relation to the axis <b>20</b> of rotation with a gap <b>28</b> between the face <b>27</b> of the clamped object and a respective clamping face <b>25</b>, such gap will be found by the sensor device <b>30</b><i>a. </i></p>
+<p id="p-0053" num="0052">The sensor device <b>30</b><i>a </i>is stationary and does not rotate with the spindle <b>15</b>. The sensor device <b>30</b><i>a </i>has an engagement sensor <b>31</b><i>a </i>for detection of engagement or the presence of a gap <b>28</b> at the side <b>27</b> of the clamped object at one or more clamping faces <b>25</b>. An evaluating means <b>32</b> detects, on the basis of the engagement measured values or data <b>39</b> from the engagement sensor <b>31</b><i>a</i>, whether there is engagement or a gap <b>28</b> and on the basis of the engagement data <b>39</b> sends an engagement signals <b>40</b> to a control <b>38</b> of the machine tool <b>10</b>.</p>
+<p id="p-0054" num="0053">A processor <b>33</b> of the evaluating means <b>32</b> processes the engagement data <b>39</b> with the aid of an evaluating program module <b>35</b>, which is held in a memory of the evaluating means <b>32</b> and comprises program code able to be implemented by the processor <b>33</b>. A line <b>37</b> between the evaluating means <b>32</b> and the control <b>38</b> is connected with a transmission/reception interface <b>36</b> of the evaluating means <b>32</b>. It will be apparent that a wireless transmission of the engagement signal <b>40</b> is also possible.</p>
+<p id="p-0055" num="0054">The sensor device <b>30</b> is stationary in relation to the spindle <b>15</b>. The engagement sensor <b>31</b><i>a </i>and also the further components <b>33</b>, <b>34</b> and <b>36</b> are arranged in a sensor holder <b>41</b><i>a </i>having a housing or being designed in the form of a housing, of the sensor device <b>30</b><i>a</i>. The sensor holder <b>41</b><i>a </i>is attached to the spindle holder <b>18</b>, for example with a screw <b>44</b> extending through a hole <b>42</b> in the socket <b>42</b><i>a </i>on the spindle holder <b>18</b>. The screw socket <b>42</b><i>a </i>serves as such to receive a torque support (not illustrated). The hole <b>42</b> renders it possible for such a torque support nevertheless to be attached to the spindle <b>15</b>, for example with a longer screw (not illustrated) instead of the relatively short screw <b>44</b>.</p>
+<p id="p-0056" num="0055">The engagement sensor <b>31</b><i>a </i>and also a reference sensor <b>50</b> are disposed in an arm <b>43</b> of the sensor holder <b>41</b><i>a</i>, which extends radially inward toward the axis <b>20</b> of rotation to a common outline <b>53</b> of the clamped object <b>14</b> and the clamping device <b>13</b>. Accordingly it is possible to arrange the sensor device <b>30</b><i>a </i>on an already existing clamping device <b>13</b> to upgrade it and to detect engagement of the clamped object <b>14</b> with the clamping face <b>25</b>.</p>
+<p id="p-0057" num="0056">The engagement sensor <b>31</b><i>a </i>is arranged in an axial position in relation to the axis <b>20</b> of rotation, where a gap <b>28</b> might be present. This is for example then the case, when the tool <b>12</b> is braced obliquely in relation to the axis <b>20</b> of rotation in the tool socket <b>17</b> (indicated in the drawing in chained lines). The engagement sensor <b>31</b><i>a </i>measures as it were into any gap <b>28</b> present for engagement measurement. In accordance with the principle of the invention the engagement sensor <b>31</b><i>a </i>in this case measures a stimulation field <b>46</b><i>a </i>produced by a stimulation field generator <b>45</b><i>a</i>, such field extending right through the gap <b>28</b> or, respectively, into the gap <b>28</b>. The stimulation field generator <b>45</b><i>a </i>for example produces a magnetic or electrical stimulation field, which is detected by a receiver <b>47</b> of the engagement sensor <b>31</b><i>a</i>. The stimulation field generator <b>45</b><i>a </i>is a component of the engagement sensor <b>31</b><i>a. </i></p>
+<p id="p-0058" num="0057">In accordance with the invention the principle has been recognized that on engagement of the face <b>27</b> of the clamped object with at least one clamping face <b>25</b> a stimulation field <b>46</b><i>a </i>is produced different to the field in the case of no engagement (<figref idref="DRAWINGS">FIG. 2</figref><i>b</i>), in the case of which a gap <b>28</b> containing the air exists between the clamping face <b>25</b> and the face <b>27</b> of the clamped object. The extent of the stimulation field generator <b>46</b><i>a</i>, more particularly in the axial direction in relation to the axis <b>20</b> of turning, i. e. athwart the longitudinal or depth extent of the gap <b>28</b>, is for example influenced by a different dielectric constant of the air in the gap <b>28</b> or an altered magnetic flux in the gap <b>28</b>.</p>
+<p id="p-0059" num="0058">The reference sensor <b>50</b> measures a reference distance <b>51</b> between the sensor device <b>30</b><i>a </i>and an outline <b>52</b> of the clamped object <b>10</b> adjacent to the clamping face <b>25</b>. Thus for example it is possible to utilize tools <b>12</b> with different diameters, there then being a different reference distance <b>51</b>.</p>
+<p id="p-0060" num="0059">The reference sensor <b>50</b> produces reference distance values <b>55</b> taken into account for the production of the engagement signal <b>40</b>. The progressions of the engagement measured values <b>39</b> on the one hand during engagement and on the other hand without engagement are for example indicated in <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0061" num="0060">During each respective measurement the spindle <b>15</b> is turned at least through part of a rotation. Then there are for example sinusoidal reference distance values <b>55</b> due to a so-called radial wobble of the clamped object <b>14</b> from the sensor device <b>30</b><i>a</i>. The reference distance values <b>55</b> vary at a reference distance amplitude <b>57</b> sinusoidally about a reference level <b>58</b>.</p>
+<p id="p-0062" num="0061">When&#x2014;in a manner different to the measurement illustrated&#x2014;there is no radial wobble or runout the reference distances are constant so that for example they have the same amplitude S along the time axis t and for example remain constantly at the same reference distance level <b>58</b>.</p>
+<p id="p-0063" num="0062">In a manner corresponding to the sinusoidal reference distance values <b>55</b> the engagement measurements <b>56</b> also progress, which are produced by the engagement sensor <b>31</b><i>a</i>. The engagement measurement values <b>56</b> on engagement oscillate sinusoidally with an engagement amplitude <b>59</b> about an engagement level <b>60</b>. Between the reference distance values <b>55</b> and the engagement measurement values <b>56</b> there is a phase offset <b>67</b>, which owing to a distance in the angle of rotation <b>68</b> is present between the reference sensor <b>50</b> and the engagement sensor <b>31</b><i>a </i>(<figref idref="DRAWINGS">FIG. 8</figref>). During engagement there is for example a distance in level between the engagement measured values <b>56</b> and the reference distance values <b>55</b>. This naturally is dependent however on the matching of the engagement sensor and of the reference sensor <b>50</b> i. e. may be set differently from case to case.</p>
+<p id="p-0064" num="0063">In the absence of an engagement or of planar engagement, that is to say with the existence of a gap <b>28</b>, the relationships are changed. The reference sensor <b>50</b> produces then reference distance values <b>61</b>, which have a larger reference distance amplitude <b>63</b> than the reference distance values <b>55</b> and furthermore a somewhat changed reference distance level <b>64</b>. Owing to the oblique setting (in chained lines in <figref idref="DRAWINGS">FIG. 1</figref>) of the tool <b>12</b> in relation to the spindle <b>15</b> the radial wobble of the tool <b>12</b> will vary, something meaning a greater reference distance amplitude <b>63</b>. Furthermore the engagement measured values <b>62</b>, which are produced by the engagement sensor <b>31</b><i>a </i>in the case of lack of engagement or respectively the presence of a gap <b>28</b>, have a greater engagement amplitude <b>65</b> and more especially an altered engagement level <b>66</b>.</p>
+<p id="p-0065" num="0064">The evaluating means <b>32</b> may now detect, even owing to the presence of the changed engagement amplitude <b>65</b>, a lack engagement as compared with the engagement measured values <b>56</b>. The engagement amplitude <b>65</b> and the engagement amplitude <b>59</b> may be taken as a measure for the width of the gap <b>28</b>, i. e. a distance between face <b>27</b> of the clamped object and the clamping face <b>25</b>. The evaluating means <b>32</b> represents, preferably in the engagement signal <b>40</b>, a measure for the width of the gap <b>28</b>. It will be clear that the engagement signal <b>40</b> may also merely distinguish between engagement and non-engagement.</p>
+<p id="p-0066" num="0065">The engagement signal <b>40</b> may be an analog signal or a digital signal.</p>
+<p id="p-0067" num="0066">Preferably the evaluating means <b>12</b> takes into account the reference distance values <b>55</b> and <b>61</b> in the formation of the engagement signal <b>40</b>. Thus the evaluating program module <b>35</b> may for example be designed to form the difference between the engagement measured values or data <b>56</b> and <b>62</b> and the reference distance values <b>55</b> and <b>61</b> for the formation of the engagement signal <b>40</b>. Naturally the engagement measured values <b>56</b> and <b>62</b> and/or the reference distance values <b>55</b> and <b>61</b> may be made subject to a weighting factor before the formation of this difference signal.</p>
+<p id="p-0068" num="0067">In <figref idref="DRAWINGS">FIG. 4</figref> the situation is represented with an even larger gap <b>28</b>. The reference distance values <b>70</b> of the reference sensor <b>50</b> have, as compared with the reference distance amplitudes <b>57</b> and <b>63</b>, a substantially larger reference distance amplitude <b>72</b>. Furthermore an engagement amplitude <b>73</b> of the engagement measured values <b>71</b> is essentially larger than the engagement amplitudes <b>59</b> and <b>63</b>. It will be quite clear that an even more oblique setting of the tool <b>12</b> in relation to the axis of rotation <b>20</b> will exert an influence both on the reference distance measured values <b>70</b> and also more particularly on the engagement measured values <b>71</b>. It is here that the principle of the invention is more especially relevant because namely the engagement sensor <b>31</b><i>a </i>is responsive to the greater influence of the enlarged air gap <b>28</b>, since the engagement sensor <b>31</b><i>a </i>measures as it were into the air very gap <b>28</b> itself and respectively detects the stimulation field <b>46</b><i>a </i>active here.</p>
+<p id="p-0069" num="0068">This principle is also employed in the working examples illustrated in the <figref idref="DRAWINGS">FIGS. 5</figref>, <b>6</b>, <b>7</b><i>a </i>and <b>7</b><i>b. </i></p>
+<p id="p-0070" num="0069">A sensor device <b>31</b><i>b </i>possesses a stimulation field generator <b>45</b><i>b</i>, which is separate from an engagement sensor <b>31</b><i>b</i>. The stimulation field generator <b>45</b><i>b </i>produces for example an electrical and/or magnetic stimulation field <b>46</b><i>b</i>, which extends past the clamped object <b>14</b>, which preferably consists of metal, into any air gap <b>28</b> between the face <b>27</b> of the clamped object and the clamping face <b>25</b>. The engagement sensor <b>31</b><i>b </i>is as it were only a receiver for the stimulation field generator <b>46</b><i>b. </i></p>
+<p id="p-0071" num="0070">Furthermore it would be possible to place a stimulation field generator in the clamped object or the clamping device, something which is represented in <figref idref="DRAWINGS">FIG. 6</figref>. A stimulation field generator <b>45</b><i>c </i>is arranged near the clamping face <b>25</b> on the clamping device <b>13</b>. The stimulation field generator <b>45</b><i>c </i>is for example a magnet, which generates the stimulation field <b>45</b><i>c</i>. The latter is detected by an engagement sensor <b>31</b><i>c</i>. The clamped object <b>14</b> conducts the stimulation field <b>46</b><i>c </i>to the engagement sensor <b>31</b><i>c</i>. The engagement sensor <b>31</b><i>c </i>is not disposed near a possible gap <b>28</b> but parallel to it in a plane <b>80</b> parallel to the clamping face <b>25</b>.</p>
+<p id="p-0072" num="0071">In the case of a sensor device <b>30</b><i>d </i>depicted in <figref idref="DRAWINGS">FIGS. 7</figref><i>a </i>and <b>7</b><i>b </i>only one engagement sensor <b>31</b><i>d </i>is present but there is no separate reference sensor. The engagement sensor <b>31</b><i>d </i>is adapted for engagement measurement and reference distance measurement. In this connection it is to be noted that although the reference distance measurement improves the quality of measurement of the engagement, it is not absolutely essential.</p>
+<p id="p-0073" num="0072">A sensor holder <b>41</b><i>d </i>of the sensor device <b>30</b><i>d </i>is able to be moved between a reference measurement position <b>81</b> for measurement of the reference distance <b>51</b> and an engagement measurement position <b>82</b> for measurement of the engagement of the face <b>27</b> of the clamped object on the clamping face <b>25</b>, by being pivotally and/or, as in the working example, linearly movable. The engagement sensor <b>31</b><i>d </i>has a stimulation field generator <b>45</b><i>d </i>for the production of a stimulation field <b>46</b><i>d</i>. In the reference position <b>81</b> the engagement sensor <b>31</b><i>d </i>firstly measures the reference distance <b>51</b>. Then the sensor holder <b>41</b><i>d </i>is shifted in the direction of the clamping face <b>25</b> so that the engagement sensor <b>31</b><i>d </i>assumes an axial position corresponding to any possible gap <b>28</b>. Then the stimulation field <b>46</b><i>d </i>pervades the gap (<figref idref="DRAWINGS">FIG. 7</figref><i>b</i>) and is influenced by any air present there. This is detected by the engagement sensor <b>31</b><i>d. </i></p>
+<p id="p-0074" num="0073">Preferably the sensor holder <b>41</b> is able to be adjusted not only axially in relation to the axis <b>20</b> of rotation but also with a further degree of freedom so that it may be moved between the two measurement positions <b>81</b> and <b>82</b> on the one hand and a reserve position <b>83</b> spaced therefrom on the other hand. For each engagement measurement the sensor device <b>30</b><i>d </i>is shifted out of the reserve position <b>83</b> into the measurement positions <b>81</b> and <b>82</b> and after this back into the reserve position <b>83</b>.</p>
+<p id="p-0075" num="0074">Furthermore it is possible to provide several engagement sensors along the common outline <b>52</b> defined by the clamped object <b>14</b> and the clamping device <b>13</b>, for example in addition to the engagement sensor <b>31</b><i>a </i>an engagement sensor <b>31</b><i>a</i>&#x2032; st at an angle.</p>
+<p id="p-0076" num="0075">The <figref idref="DRAWINGS">FIGS. 10 through 12</figref> individually indicate once again how the different imperfections in engagement take effect in the machine tool <b>10</b> and are for example detected by the sensor means <b>30</b><i>a. </i></p>
+<p id="p-0077" num="0076">In the case of such ideal engagement (<figref idref="DRAWINGS">FIG. 9</figref><i>a</i>) the engagement sensor <b>31</b><i>a </i>and the reference sensor <b>50</b> (which is a sort of tool sensor) associated with the tool <b>12</b> and sensing its outline produce constant engagement values <b>85</b> and furthermore reference values <b>85</b>. It will be clear that the amplitude of the engagement values <b>85</b> and of the reference values <b>86</b> will be dependent on a production tolerance, as for example of the respective sensors <b>31</b><i>a </i>and <b>50</b>, on the tool <b>12</b> and on the clamping device <b>13</b> or the like. Accordingly for example instead of the engagement values <b>85</b> engagement values <b>85</b>&#x2032; or <b>85</b>&#x2033; are possible.</p>
+<p id="p-0078" num="0077">When a terminal engagement error or a terminal planar setting error is present, which in <figref idref="DRAWINGS">FIG. 10</figref><i>a </i>is diagrammatically indicated, the engagement sensor <b>31</b><i>a </i>and the reference sensor <b>50</b> will produce engagement values <b>87</b> and reference values <b>88</b>. In the case of angles of rotation of 0, 2 &#x3c0;, 4&#x3c0; and the like (0, 360 degrees, 720 degrees etc.) the engagement values <b>87</b> are for example respectively zero. This is because for example the tool <b>12</b> is in planar engagement with the end face <b>24</b> at the engagement point <b>88</b> so that the associated engagement value <b>87</b> are zero for example. Diametrally opposite the engagement point <b>89</b> on the other hand the gap is <b>28</b> at a maximum so that the engagement values <b>87</b> will have a respective maximum at the angular positions of &#x3c0;, 3 &#x3c0; etc.</p>
+<p id="p-0079" num="0078">An error in the outline, the presence of dirt <b>90</b> or the radially outer periphery of the part seated in the tool socket <b>17</b>, of the clamped object <b>14</b> or respectively of the tool <b>12</b> will lead to a radial wobble of the clamped object <b>14</b> in relation to the clamping device <b>13</b> and in the working example a so-called cone engagement error. Thus for example an axis <b>91</b> of rotation has an offset <b>92</b> in relation to the axis <b>20</b> or rotation of the spindle <b>15</b>. The engagement values <b>93</b> resulting from this of the engagement sensor <b>31</b><i>a </i>and the reference values <b>94</b> of the reference sensor <b>50</b> which are respectively approximately sinusoidal. The offset <b>92</b> between the axes <b>20</b> and <b>91</b> of rotation is indicated in an exaggerated fashion in <figref idref="DRAWINGS">FIG. 11</figref><i>a. </i></p>
+<p id="p-0080" num="0079">The technology provided by the invention renders it possible to find engagement errors on the basis of one measurement directed into any possible gap or respectively in the vicinity of a possible gap, which is present in the case of an engagement error and also higher order effects, i. e. for example an axial offset or a radial wobble like in the arrangement in accordance with <figref idref="DRAWINGS">FIG. 11</figref><i>a </i>and/or a terminal engagement error like in <figref idref="DRAWINGS">FIG. 10</figref><i>a</i>, same being able to be found as a higher order effect.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. An engagement sensor device for engagement measurement for a machine tool for processing workpieces using tools or a laser, in the case of which the machine tool possesses a clamping device with a clamping face for clamping an object, in particular a tool or a workpiece, and the engagement sensor device is provided for the measurement or engagement of a face of the clamped object at the clamping face or any gap between the face of the clamped object and the clamping face, comprising at least one engagement sensor, arranged to the side of the clamping face, with a measurement range aligned in the direction of the gap or of the clamping face for the detection of an electrical or magnetic stimulation field, such field extending between the face of clamped object and the clamping face and being able to be influenced by any gap, the measurement range extending essentially along the clamping face in accordance with a depth direction of any gap or parallel to the clamping face.</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The engagement sensor device in accordance with <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the stimulation field extends athwart the clamping face and more particularly perpendicularly to it.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The engagement sensor device in accordance with <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the at least one engagement sensor is a contact-free capacitive or inductive distance sensor.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The engagement sensor device in accordance with claim <b>1</b>, wherein the clamping device is able to be moved and more particularly turned in relation to a machine frame of the engagement sensor device.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The engagement sensor device in accordance with <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the clamping device is movable and wherein the sensor device is arranged in a stationary manner in relation to the movable clamping device.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The engagement sensor device in accordance with <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the sensor device is disposed on a sensor holder movable in a manner independent from the clamping device.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The engagement sensor device in accordance with <claim-ref idref="CLM-00001">claim 1</claim-ref>, designed for producing an engagement signal on the basis of engagement measurement of the engagement of the clamped object face on the clamping face and on the basis of a reference distance measurement of a reference distance between the sensor device and an outline, extending adjacent to the clamping face, of the clamped object.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The engagement sensor device in accordance with <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the at least one engagement sensor possesses a measurement range able to be switched over between an engagement setting for the engagement measurement and a reference setting for reference distance measurement.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The engagement sensor device in accordance with <claim-ref idref="CLM-00007">claim 7</claim-ref>, comprising a reference sensor for reference distance measurement.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The engagement sensor device in accordance with <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the movable sensor holder is provided for resetting the at least one engagement sensor between a reference measurement position for reference distance measurement and an engagement measurement position for reference distance measurement and an engagement measurement position for engagement measurement.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The engagement sensor device in accordance with <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the sensor device comprises an evaluating means for deriving a dependent engagement signal produced by the at least one engagement sensor.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The engagement sensor device in accordance with <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the evaluating means is adapted for detection of a movement and more particularly a rotation, of the clamping device.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The engagement sensor device in accordance with <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the evaluating means is designed for detecting engagement of the face of the clamped object on the clamping face at least two measurement positions.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The engagement sensor device in accordance with <claim-ref idref="CLM-00001">claim 1</claim-ref>, comprising a stimulation field generator for producing the stimulation field, such generator being disposed in the clamped object and/or the clamping device and/or the sensor device.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The engagement sensor device in accordance with <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein the stimulation field generator constitutes a component of the at least one engagement sensor.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The engagement sensor device in accordance with <claim-ref idref="CLM-00015">claim 15</claim-ref>, comprising several engagement sensors arranged along a common outline defined by the clamped object and the clamping device.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. A machine tool comprising an engagement sensor device in accordance with <claim-ref idref="CLM-00001">claim 1</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The machine tool in accordance with <claim-ref idref="CLM-00017">claim 17</claim-ref>, wherein the clamping device comprises a spindle.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The machine tool in accordance with <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein the clamping face is provided on a terminal side of a rotor of the spindle and wherein the measurement range of the at least one engagement sensor extends athwart the axis of rotation of the spindle and more especially radially thereto.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The machine tool in accordance with <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein the sensor device is disposed on a spindle holder holding the spindle and more particularly rotatably supporting the spindle rotor.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text>21. A method for engagement measurement in a machine tool for processing workpieces by means of tools or a laser, in the case of which the following steps are performed:
+<claim-text>clamping a object to be clamped, more particularly a tool or a workpiece, on a clamping face of a clamping device,</claim-text>
+<claim-text>measurement of engagement of a face of the clamped object on the clamping face or of any gap between the face of the clamped object and the clamping face using a sensor device,</claim-text>
+</claim-text>
+<claim-text>comprising
+<claim-text>detection of an electrical and/or magnetic stimulation field extending between the face of the clamped object and the clamping face using at least one engagement sensor placed laterally of the clamping face with a measurement range aligned in the direction of the gap or of the clamping face, the measurement range extending essentially along the clamped object in accordance with a depth direction of any gap or parallel to the clamping face.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text>22. The method in accordance with <claim-ref idref="CLM-00021">claim 21</claim-ref> comprising moving the sensor device and/or clamping device during detection of the stimulation field. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

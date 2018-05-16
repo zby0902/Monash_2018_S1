@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891107-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891107</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12584406</doc-number>
+<date>20090904</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>20</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 33521</main-classification>
+<further-classification> 33  1 N</further-classification>
+<further-classification> 33  1 SB</further-classification>
+</classification-national>
+<invention-title id="d2e43">Gauge for determining angle of sloped ground and method of using same</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>4454654</doc-number>
+<kind>A</kind>
+<name>Mayer</name>
+<date>19840600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 33  1 N</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>4625409</doc-number>
+<kind>A</kind>
+<name>Arakawa</name>
+<date>19861200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 33  1 N</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>5117560</doc-number>
+<kind>A</kind>
+<name>Nevins</name>
+<date>19920600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 33471</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>5896671</doc-number>
+<kind>A</kind>
+<name>Yu</name>
+<date>19990400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 33  1 SB</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>6457247</doc-number>
+<kind>B1</kind>
+<name>Lin</name>
+<date>20021000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 33  1 N</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>6854190</doc-number>
+<kind>B1</kind>
+<name>Lohmann</name>
+<date>20050200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 33  1 SB</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>7591079</doc-number>
+<kind>B1</kind>
+<name>Marcum</name>
+<date>20090900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 33521</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>2005/0210688</doc-number>
+<kind>A1</kind>
+<name>Stephens</name>
+<date>20050900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 33  1 N</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>2010/0005672</doc-number>
+<kind>A1</kind>
+<name>Cerwin</name>
+<date>20100100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 33  1 N</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>2010/0223798</doc-number>
+<kind>A1</kind>
+<name>Zimmerman</name>
+<date>20100900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 33563</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>12</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 33  1 H</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 33  1 N</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 33  1 SB</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 33521</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 33534</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 33563</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>9</number-of-drawing-sheets>
+<number-of-figures>10</number-of-figures>
+</figures>
+<us-related-documents>
+<continuation-in-part>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>12074075</doc-number>
+<date>20080228</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>7591079</doc-number>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>12584406</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation-in-part>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090320308</doc-number>
+<kind>A1</kind>
+<date>20091231</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Marcum</last-name>
+<first-name>Timothy J.</first-name>
+<address>
+<street>P.O. Box 768</street>
+<city>Beavercreek</city>
+<state>OR</state>
+<postcode>97004</postcode>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Chernoff Vilhauer</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<examiners>
+<primary-examiner>
+<last-name>Bennett</last-name>
+<first-name>G. Bradley</first-name>
+<department>2841</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A gauge for determining the angle of sloped ground includes a panel, having a transparent window located in it, which can be held by a user so that the sloped ground can be viewed through the window. The panel has a spatial reference associated with it which allows the panel to be oriented properly with respect to the horizontal or vertical. Inscribed on the window are a positioning indicia and a plurality of lines which radiate outwardly from the positioning indicia at specific angles with respect to the horizontal. In use the panel is held such that the positioning indicia is located on the slope. The user can then determine which one of the lines overlies the slope. The angle associated with that line is the angle of the slope.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="208.03mm" wi="167.22mm" file="US07891107-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="223.86mm" wi="178.48mm" file="US07891107-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="200.15mm" wi="184.74mm" orientation="landscape" file="US07891107-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="198.20mm" wi="175.60mm" orientation="landscape" file="US07891107-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="221.23mm" wi="171.20mm" orientation="landscape" file="US07891107-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="188.13mm" wi="167.39mm" orientation="landscape" file="US07891107-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="202.95mm" wi="174.16mm" file="US07891107-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="230.55mm" wi="192.28mm" file="US07891107-20110222-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="250.19mm" wi="202.18mm" file="US07891107-20110222-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="246.80mm" wi="182.29mm" file="US07891107-20110222-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is a continuation-in-part of application Ser. No. 12/074,075 filed Feb. 28, 2008 now U.S. Pat. No. 7,591,079.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">This invention relates to a gauge for determining the angle of sloped ground, and in particular for determining this angle with a hand-held gauge.</p>
+<p id="p-0004" num="0003">When a construction project creates a sloped section of ground the permissible angle of the slope relative to the horizontal or vertical is established by one or more standards in order to prevent cave-in. However, unless a surveyor is on site it is difficult to determine whether the angle of the slope falls within the applicable standard. Where the sloped sides are steep, the problem of determining the angles of the sloped sides is even more difficult because a person cannot stand on the sloped side walls without fear of causing a cave-in. In many types of excavation it is even dangerous to stand at the bottom of the excavation.</p>
+<p id="p-0005" num="0004">Inclinometers can be used to measure excavation slopes but they have inherent problems. Inclinometers will only measure the angle of a small portion of a slope. However, ground slopes by their nature are uneven. As a result, with an inclinometer it is necessary to take multiple measurements while standing on the slope and then average them.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0006" num="0005">The subject invention provides a hand-held gauge for determining the angle of sloped ground. The gauge comprises a panel having a transparent window through which the user can view the sloped surface. The panel includes a spatial reference which allows the gauge to be properly oriented relative to the horizontal or vertical. The window has a positioning indicia inscribed on it and a plurality of lines radiate outwardly from the positioning indicia at specific angles with respect to the spatial reference. A user holds the gauge so that the slope can be viewed through the window and the gauge is oriented such that the spatial reference indicates that the gauge is aligned horizontally or vertically and the positioning indicia overlies a point on the slope. The viewer can then determine which of the lines overlies the slope, and as a result, the angle of the slope.</p>
+<p id="p-0007" num="0006">The foregoing and other objectives, features, and advantages of the invention will be more readily understood upon consideration of the following detailed description of the invention, taken in conjunction with the accompanying drawings.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE SEVERAL VIEWS OF THE DRAWINGS</heading>
+<p id="p-0008" num="0007"><figref idref="DRAWINGS">FIG. 1</figref> is a perspective view of a gauge for determining angles of sloped ground embodying the subject invention.</p>
+<p id="p-0009" num="0008"><figref idref="DRAWINGS">FIG. 2</figref> is a perspective view of the gauge held over an excavation in a manner in which the angle of the slope on both sides of the excavation can be measured.</p>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIG. 3</figref> is a perspective view similar to <figref idref="DRAWINGS">FIG. 2</figref> except that the gauge is oriented to measure the slope on only one side of an excavation.</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. 4</figref> is an elevation view showing the gauge held over an image of an excavation being displayed on a monitor.</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. 5</figref> is an elevation view showing the gauge overlying a photograph of an excavation.</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 6</figref> is an elevation view of another embodiment of the invention.</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 7</figref> is an elevation view of another embodiment of the invention.</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 8</figref> is an elevation view of yet another embodiment of the invention.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 9</figref> is an elevation view of still another embodiment of the invention.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 10</figref> is an elevation view of another embodiment of the invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF PREFERRED EMBODIMENT</heading>
+<p id="p-0018" num="0017">Referring now to the drawings, a gauge <b>10</b> is used for determining the angle of sloped ground. The gauge comprises a panel <b>12</b> which is arranged to be held in a user's hand, <figref idref="DRAWINGS">FIGS. 2 and 3</figref>, and has a transparent window <b>14</b> which the user can see through. In the embodiment illustrated the entire panel <b>12</b> is transparent and preferably is made from a thin sheet of plastic, such as polycarbonate. The sheet needs to only be thick enough to be self-supporting. If desired those portions of the panel <b>12</b> that are not encompassed by the window <b>14</b> can be non-transparent and can be thicker than the window.</p>
+<p id="p-0019" num="0018">As will be more fully explained later, when in use the gauge needs to first be oriented relative to the horizontal or vertical. Accordingly, associated with the panel is a spatial reference which allows the panel to be properly oriented. This could be a line <b>16</b> which is inscribed in the window or an edge <b>18</b> of the window. This line or edge is aligned with a surface on the ground that is horizontal or vertical, or nearly horizontal or vertical. If it is desired to have more accuracy in orienting the panel a level, such as the bubble inclinometer <b>20</b> illustrated, it can be placed on the panel.</p>
+<p id="p-0020" num="0019">Located on the panel is a positioning indicia, which in the embodiment illustrated is a small dot <b>22</b>. If the window is the only portion of the panel that is transparent the positioning indicia preferably would be located on the window <b>14</b>, but it could be located on a non-transparent portion of the panel adjacent to the window. In the embodiment illustrated the positioning indicia is located near the bottom of the window generally at the horizontal center of the window. Also located on the window <b>14</b> are a series of lines <b>24</b> which project outwardly from the positioning indicia <b>22</b>. The lines <b>24</b> are oriented at selected angles with respect to horizontal. The angles correspond to the angles specified in standards for ground slopes for surfaces such as the sides of a specific type of excavation, cut for roadway, slope of landscape area, etc. If desired a description <b>25</b> of the particular standard can be inscribed next to each line <b>24</b>. Each line <b>24</b> can be of a different color so that a particular standard can readily be identified for comparing a slope against.</p>
+<p id="p-0021" num="0020">Preferably the lines <b>24</b> are arranged in pairs with one line in each pair radiating from the positioning indicia in each direction. This allows measuring both right and left side slopes of an excavation at the same time. If desired a protractor <b>26</b> can be inscribed on the window <b>14</b>. The protractor preferably extends 90 degrees from both sides of the horizontal spatial reference line <b>16</b>. Both the horizontal and vertical spatial reference lines preferably pass through the positioning indicia <b>22</b>. In the preferred embodiment the various materials are printed on the window but they could be etched in the plastic, applied as a decal or any other method for accomplishing this.</p>
+<p id="p-0022" num="0021">The gauge is used by holding it in front of the user, <figref idref="DRAWINGS">FIGS. 2 and 3</figref>. The spatial reference is used to orient the gauge. If a single slope is being measured, the gauge is positioned such that the positioning indicia <b>22</b> appears to be located on that slope, <figref idref="DRAWINGS">FIG. 3</figref>. If the gauge is being used to simultaneously measure the slope on both sides of an excavation, it is positioned such that the positioning indicia appears to be located at the center of the excavation, <figref idref="DRAWINGS">FIG. 2</figref>. In either case the line <b>24</b> that appears to be at a right angle &#x3b1; with the top of the excavation is the line that indicates the angle of the slope. If desired, an object <b>28</b>, such as a rope or the ladder shown in <figref idref="DRAWINGS">FIG. 4</figref>, can be placed on the slope to increase the accuracy of the gauge.</p>
+<p id="p-0023" num="0022">Typically the user would be standing at the top of the slope, particularly with a narrow excavation which possibly could cave in and would be difficult to enter. Because the user is above the bottom of the slope and the positioning indicia is placed at the bottom of the slope, there is a slight amount of parallax and the lines may not provide the exact angle of the slope. It has been found, however, that this normally results in the slope being slightly less than indicated which means that the slope will normally be within the standard associated with that line. In a more open excavation or one with a shallower slope the user could stand at the bottom of the excavation.</p>
+<p id="p-0024" num="0023">While the foregoing refers to the gauge being used by a person standing, the gauge can be used many other ways. The user can be sitting in a vehicle or piece of construction equipment, or the gauge can be attached to the vehicle or equipment. The gauge can even be used under water by a diver. In addition it is not necessary for the user to have a completely clear line of sight to the slope being measured. Equipment, pipes, fencing, etc. located on or projecting into the view of the slope do not prevent the gauge from being used. All that is necessary is that the user can view enough of the slope to make a measurement.</p>
+<p id="p-0025" num="0024">The gauge <b>10</b> can also be used to measure the angle of a slope off-site. Referring to <figref idref="DRAWINGS">FIG. 4</figref>, one way of doing this is to lay the gauge over a monitor <b>30</b> which is displaying an image of the slope. The gauge is aligned and read much the same way as it is when it is used in the field. Referring to <figref idref="DRAWINGS">FIG. 5</figref>, another way of measuring a slope off-site is to lay the gauge over a photograph <b>32</b> of the slope. Again the gauge is aligned and read much the same way as it is when it is used in the field.</p>
+<p id="p-0026" num="0025">The gauge <b>10</b> also can be oriented as described above to determine the angle of a slope and a photograph can be taken of the gauge, showing the slope and the angle. This photograph then can be used to commemorate that the slope has been measured.</p>
+<p id="p-0027" num="0026">Referring now also to <figref idref="DRAWINGS">FIGS. 6-10</figref>, in addition to being used to determine whether sloped sides of a trench are at the correct angle, the gauge can be used to determine the angle between any rectilinear object and a specific reference line. The rectilinear object can be the vertical edge of a building, the side or top edge of a window frame, the side or top of a hung art piece, a fence post, etc. The specific reference line would typically be the horizontal or vertical but it could be anything. Typical uses would be to determine if something that is supposed to be vertical is out of plum, to determine if a tree being planted is vertical, to determine the pitch of a roof, for setting fence posts, for hanging cabinets, shelves and large art pieces or for building deck frames. Moreover, the foregoing can be done from a long distance.</p>
+<p id="p-0028" num="0027">The embodiment illustrated in <figref idref="DRAWINGS">FIG. 6</figref> is a simplified device that can be used for accomplishing these functions. In this embodiment the horizontal and vertical spatial reference lines <b>30</b> intersect at the positioning indicia <b>32</b> near the center of the window <b>34</b> rather than near the bottom edge of the window. In addition the protractor <b>36</b> extends 360&#xb0; around the positioning indicia <b>32</b>. While in the embodiment illustration the protractor has two 180&#xb0; sections it could be graduated in four 90&#xb0; sections or a single 360&#xb0; section. A marker <b>38</b> is rotatably mounted on the window to rotate 360&#xb0; about the positioning indicia <b>32</b>. The marker <b>38</b> is rotated by turning a knob <b>40</b> located on the gauge. In this embodiment the level <b>42</b> extends 90&#xb0; on each side of vertical.</p>
+<p id="p-0029" num="0028">This embodiment can be used by aligning the horizontal spatial reference line <b>30</b> with a known horizontal line, or centering the bubble <b>44</b> in the level <b>42</b>, while looking through the window and centering the positioning indicia <b>32</b> on the rectilinear object whose angle is being measured. The marker <b>38</b> is then aligned with the rectilinear object to give its angle relative to the horizontal. Alternatively, the vertical spatial reference line <b>30</b> can be aligned with a rectilinear object whose angle is being measured and the angle of the rectilinear object relative to the vertical can be determined by the angle indicated on the level <b>42</b>.</p>
+<p id="p-0030" num="0029">Referring now to <figref idref="DRAWINGS">FIG. 7</figref>, the gauge can have a digital angle display <b>46</b>. The digital angle display can serve as the spatial reference line by indicating the angle of an electronic level (not shown) is offset from horizontal. Alternatively, the digital display can display the angle of a digital marker <b>48</b> which is set by a knob <b>50</b>.</p>
+<p id="p-0031" num="0030">Referring now to <figref idref="DRAWINGS">FIG. 8</figref> a more sophisticated embodiment has additional features. For example, the protractor has multiple scales. In the embodiment illustrated the middle scale <b>52</b> has two 180&#xb0; scales oriented about the horizontal spatial reference line <b>30</b> and the outer scale <b>54</b> has four 90&#xb0; scales. The inner scale <b>56</b> is a specialty scale and can measure items such as percent grade of a slope, roof pitch, inches per foot of fall, OSHA angles, etc. The gauge can comprise multiple templates <b>58</b> each having different scales which are attached to the window <b>30</b> by conventional means. Alternatively, the special scale <b>56</b> can be an electronic display which can be changed through a control panel <b>60</b>.</p>
+<p id="p-0032" num="0031">The gauge also can have an electronic level (not shown) with a digital readout which can be used to align the device with the horizontal, <b>64</b>, or vertical, <b>66</b>. The embodiment illustrated includes 90&#xb0; and 45&#xb0; bubble indicators <b>62</b> which can be used to calibrate the digital level. In the embodiment there are two markers <b>68</b>A and <b>68</b>B which can be rotated about the positioning indicia <b>32</b>. The angle of the marker <b>68</b>A is indicated in digital readout <b>70</b> and the angle of marker <b>68</b>B is indicated in digital readout <b>72</b>. A battery level indicator <b>74</b> is also provided to show the amount of charge remaining on the rechargeable battery (not shown) which powers the gauge's electronics. A control button <b>76</b> activates a back light in the digital readouts. A control button <b>78</b> changes the scales and the spatial scale <b>56</b>. A control button <b>80</b> holds the readings in the various digital readouts when pressed once and clears the readings when pressed twice. A control <b>82</b> allows the reading in the digital readouts to be stored in memory. A control button <b>84</b> zeros the digital readouts when pressed once and sets them to predetermine levels when pressed twice. A control button <b>84</b> turns on or off an audible system (not shown) which announces angles through a speaker <b>88</b>. A light <b>90</b> illuminates when a preset angle is reached.</p>
+<p id="p-0033" num="0032">A final embodiment, shown in <figref idref="DRAWINGS">FIG. 10</figref> is used in shearing Christmas trees to insure that they have the proper proportions after they are sheared.</p>
+<p id="p-0034" num="0033">Referring to <figref idref="DRAWINGS">FIG. 9</figref> the entire panel <b>90</b> can be transparent and serve as the window. For simplicity of use the panel can be circular which makes it easier to rotate.</p>
+<p id="p-0035" num="0034">The terms and expressions which have been employed in the foregoing specification are used therein as terms of description and not of limitation, and there is not intention, in the use of such terms and expressions, of excluding equivalents of the features shown and described or portions thereof, it being recognized that the scope of the invention is defined and limited only by the claims which follow.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>I claim:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A device for determining the angle of a remote rectilinear object relative to a specific reference line comprising:
+<claim-text>(a) a panel which is configured to be held in front of a user;</claim-text>
+<claim-text>(b) said panel including a transparent window which allows a user to see completely through said panel and view a remote rectilinear object located behind said panel;</claim-text>
+<claim-text>(c) said window having a positioning indicia located thereon;</claim-text>
+<claim-text>(d) a spatial reference associated with said panel;</claim-text>
+<claim-text>(e) at least one radial line extending at least partial across said window from said positioning indicia; wherein</claim-text>
+<claim-text>(f) a user looking through said window can simultaneously see said panel and said remote rectilinear object in order to determine the angle of said remote rectilinear object relative to said specific reference line by aligning said spatial reference in an established manner with respect to said specific reference line with said positioning indicia overlying said rectilinear object, using said at least one radial line.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The device of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said rectilinear object is an edge of said window.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The device of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said rectilinear object is a line inscribed on said window.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The device of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said rectilinear object is a level indicator located on said gauge.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The device of <claim-ref idref="CLM-00002">claim 2</claim-ref> wherein said at least one radial line is a protractor located on said window, said protractor having a center point which is located at said positioning indicia.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The device of <claim-ref idref="CLM-00005">claim 5</claim-ref> wherein said at least one radial line is multiple protractors located on said window.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The device of <claim-ref idref="CLM-00006">claim 6</claim-ref> including templates which are releasably attached to said window and at least one of said multiple protractors is located on said template.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The device of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said at least one radial line is movable about said positioning indicia.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The device of <claim-ref idref="CLM-00008">claim 8</claim-ref> including a pointer which is rotatable about said positioning indicia and said at least one radial line is located on said pointer.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The device of <claim-ref idref="CLM-00008">claim 8</claim-ref> wherein said at least one radial line is electronically displayed on said window.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The device of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said window includes all of said panel.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The device of <claim-ref idref="CLM-00011">claim 11</claim-ref> wherein said panel is circular. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891116-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891116</doc-number>
+<kind>B1</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11903371</doc-number>
+<date>20070921</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>769</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>43</class>
+<subclass>B</subclass>
+<main-group>1</main-group>
+<subgroup>10</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 36  4</main-classification>
+<further-classification> 36  9 R</further-classification>
+<further-classification> 36 45</further-classification>
+</classification-national>
+<invention-title id="d2e53">Footwear and its manufacture</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>2686376</doc-number>
+<kind>A</kind>
+<name>Burkholz</name>
+<date>19540800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 36  9 R</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>4294022</doc-number>
+<kind>A</kind>
+<name>Stockli et al.</name>
+<date>19811000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 36  4</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>4599810</doc-number>
+<kind>A</kind>
+<name>Sacre</name>
+<date>19860700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>5913592</doc-number>
+<kind>A</kind>
+<name>Moore</name>
+<date>19990600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 36  81</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>6065227</doc-number>
+<kind>A</kind>
+<name>Chen</name>
+<date>20000500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 36  4</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>6467116</doc-number>
+<kind>B1</kind>
+<name>Strickland</name>
+<date>20021000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 12142 D</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>6474002</doc-number>
+<kind>B2</kind>
+<name>Chen</name>
+<date>20021100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 36 55</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>6665954</doc-number>
+<kind>B2</kind>
+<name>Chen</name>
+<date>20031200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 36  3 R</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>2007/0039210</doc-number>
+<kind>A1</kind>
+<name>Clark et al.</name>
+<date>20070200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 36113</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>2007/0204482</doc-number>
+<kind>A1</kind>
+<name>Gibson-Collinson</name>
+<date>20070900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 36 10</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>2008/0216354</doc-number>
+<kind>A1</kind>
+<name>Morlacchi et al.</name>
+<date>20080900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 36 98</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>7</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 36  4</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 36  9 R</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 36 45</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 36  3 R</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 36 55</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 36 10</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>9</number-of-drawing-sheets>
+<number-of-figures>21</number-of-figures>
+</figures>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60846522</doc-number>
+<date>20060921</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Iglikov</last-name>
+<first-name>Nikolay</first-name>
+<address>
+<street>240 Portage Rd.</street>
+<city>Lewiston</city>
+<state>NY</state>
+<postcode>14092</postcode>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Kloss, Stenger &#x26; LoTempio</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<last-name>LoTempio</last-name>
+<first-name>Vincent G.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<examiners>
+<primary-examiner>
+<last-name>Kavanaugh</last-name>
+<first-name>Ted</first-name>
+<department>3728</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A rubberless neoprene boot waterproofed from the inside comprised of a composite sock fabricated from a neoprene foam, coated with a polyurethane film sandwiched by an inner boot liner and a stretchable external layer that may be stretched and formed upon a shoe last. A composite upper shaft section made of neoprene foam, polyurethane film and an inner boot liner, and a semi-stretchable external durable fabric extending from said sock. An external foot jacket jacketing the sock forming an upper boot unit having internal seams with a series of thermoplastic heat sealing tapes to collectively seal all said internal seams against the penetration of moisture and a toe reinforcing stiffener and a heel reinforcing stiffener located between the stretchable external layer of said sock and the foot jacket. An inner sole secured to the sock and an outer sole securely anchored to a bottom end of the inner sole.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="166.62mm" wi="161.29mm" file="US07891116-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="244.26mm" wi="180.76mm" file="US07891116-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="238.00mm" wi="181.53mm" file="US07891116-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="209.63mm" wi="176.11mm" file="US07891116-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="225.81mm" wi="151.47mm" orientation="landscape" file="US07891116-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="242.32mm" wi="181.61mm" file="US07891116-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="234.87mm" wi="175.85mm" file="US07891116-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="248.24mm" wi="167.72mm" file="US07891116-20110222-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="188.64mm" wi="146.56mm" file="US07891116-20110222-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="200.91mm" wi="133.52mm" file="US07891116-20110222-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<p id="p-0002" num="0001">This application claims priority of U.S. Provisional Patent Application to Nikolay Iglikov Ser. No. 60/846,522 for FOOTWEAR AND ITS MANUFACTURE, filed on Sep. 21, 2006.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">1. Field of Invention</p>
+<p id="p-0004" num="0003">The present invention relates to footwear and, more particularly, to unique neoprene footwear products and their manufacture.</p>
+<p id="p-0005" num="0004">2. Background of the Invention</p>
+<p id="p-0006" num="0005">The manufacture of rubber footwear products for use by the general public and most typical outdoors person such as hunters and fisherman has made relatively small inroads in meeting modern day needs. When it is desired to create an insulated and waterproof footwear product, the mainstay typically entails a bulky and heavy rubber vulcanized fit for use only by the young and hardy. The endeavors to create a lightweight, waterproof and insulated footwear product generally has led to replacing the heavy rubber components and the less durable thermoplastic substitutes such as currently used in PVC jacketed footwear products. Also, footwear products typically adapted for use under wet, inclement conditions are notoriously known for their improper fitting and especially about the ankles and foot, consequently the limb tends to move independently and float within the footwear gear when used. A typical rubber boot is made of non-stretchable rubber and the ankle area of the boot has to be made wide enough to allow the users foot entry in the boot. As a result a rubber boot has to be manufactured so that it does not fit snugly around the ankle.</p>
+<p id="p-0007" num="0006">Several articles of manufacture have been invented to facilitate a light weight, breathable and durable footwear product, for example U.S. Pat. No. 4,599,810 issued to Sacre, discloses an inner liner for a shoe that makes the shoe waterproof and at the same time allows the foot to breathe. To accomplish this purpose, the liner is constructed of a material that is impervious to water but is pervious to perspiration vapors. But this waterproof and breathable shoe liner does not possess the necessary contour fitting so as to move in a substantial harmony with the ankle, foot, and calf of the wearer. The problem with this design is that the liner is independent from the exterior substance of the rubber boot and is dependent upon the stretchability and fitability of the exterior component.</p>
+<p id="p-0008" num="0007">Another example is U.S. Pat. No. 6,665,954 issued to Chen, which discloses a boot which includes a shell having a foot portion and an upper. The shell is composed of a waterproof first part and at least one non-waterproof air-pervious second part. This patent for footwear generally addresses only one of the desired attributes, namely, having a boot that is waterproof and breathable but does not address the problem associated with float, improper fit and the foot protection.</p>
+<p id="p-0009" num="0008">Other types of shoes have been provided that are completely waterproof, such as rubber or plastic shoes, but here again the feet cannot breathe and such shoes are generally uncomfortable and unhealthy in their use. Also, this latter type of shoe is not fitted to the user's body.</p>
+<p id="p-0010" num="0009">Thus it is readily apparent that there is a long felt need for a durable lightweight, insulated and waterproof footwear product capable of mass production at a relatively inexpensive cost. A footwear product which would preserve the durability and protective structural integrity of current top quality rubber footwear products, while also providing the desired lightweightness, waterproof and insulated attributes would fulfill a long existing need. There also exists a need for a durable, lightweight and waterproof footwear product which possesses the necessary contour fitting so as to move in a substantial harmony with the ankle, foot, and calf of the wearer so as to thereby provide a more effortless, comfortable and safer footwear product. The present invention meets these long-felt needs. It is with an extension of the foregoing knowledge that the present invention is concerned.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0011" num="0010">It is accordingly a primary object of the present invention to provide a foot wear product which provides an appropriate substrate for insulating, lightness, structural integrity, durability, fitting, comfort and sealability.</p>
+<p id="p-0012" num="0011">Another object of the invention is to provide a durable lightweight, waterproof and insulated and protective footwear product made of a composite laminar construction.</p>
+<p id="p-0013" num="0012">Yet another object of the invention is to provide a waterproof footwear product made of a composite material having an exterior comprising of durable stretchable fabric, an interior comprising an insulating foam core, at least one heat reflecting polyurethane layer and an inner layer fabric capable of waterproof taping.</p>
+<p id="p-0014" num="0013">Another further object of the invention is to provide a product made of a composite material having an interior comprising an insulating foam core, at least one heat reflecting polyurethane layer and a tapable waterproofable internal fabric layer.</p>
+<p id="p-0015" num="0014">Another object of the invention is to provide an integrated construction of the footwear product that retains its structural integrity and durability while protectively shoeing the wearer's feet.</p>
+<p id="p-0016" num="0015">A further object of the invention is to provide a waterproof footwear product having rubberless upper boot unit that is durable, lightweight which possesses the necessary contour fitting so as to move in a substantial harmony with the ankle, foot, and calf of the wearer so as to thereby provide a more effortless, comfortable and safer footwear product.</p>
+<p id="p-0017" num="0016">Yet another object of the invention is to provide a high quality footwear product at an affordable cost.</p>
+<p id="p-0018" num="0017">Additional objects and advantages will become apparent and a more thorough and comprehensive understanding may be had from the following description and claims taken in conjunction with the accompanying drawings forming a part of this specification.</p>
+<p id="p-0019" num="0018">The footwear product allows the young and old, the freedom and dexterity to readily move about with the minimum of foot effort and comfort even under the most trying or strenuous conditions. The footwear products of this invention may be constructed of a waterproof and insulated upper composite (an upper shaft section) fabricated from an insulated, laminated composite pieces secured together chambering onto composite sock collectively sealed against the penetration of moisture and an external foot jacket jacketing (on an external upper jacketing the sock) the sock and bordering onto an inner sole and a sole securely anchored onto a bottom end of the footwear product. The foot sock and the footwear upper may be appropriately made of a composite laminar construction which provides an appropriate substrate for insulating, lightness, structural integrity, durability, fitting, comfort and sealability as required by a quality outdoor footwear product. The upper shaft, sock and external foot jacket may be appropriately sewn together and then internally sealed with a sealing tape which seals the seams, the sealed seamed perforations and adjoining capillary margins prevent external water from seeping or wicking into the footwear product. After seaming and sealing together the upper shaft, sock and jacketing foot jacket, the sock may be stretched or formed to the appropriate foot size upon a shoe last whereupon the toe and heel re-enforcing stiffeners may be inserted and the insole and out sole attached thereto to provide the finished footwear product. By reason of the manner in which the footwear product is constructed and the particular composite components used in its manufacture, a firm but flexible, durable, lightweight, superior fitting, comfortable, waterproof, and insulated footwear product possessing uniquely different footwear attributes may be thereby obtained.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0020" num="0019">The present invention and the manner in which it may be practiced is further illustrated with reference to the accompanying drawings wherein:</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 1</figref> is a front perspective view of a footwear product device of the present invention.</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 2</figref> is a back perspective view of a footwear product of the present invention.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 3</figref> a front perspective view of a footwear product device of the present invention showing interior of the product.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 4</figref> is a side view of the sock and the upper shaft portion of the footwear product of the present invention sewn together.</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 5</figref> is a side bottom view of the sock and the upper shaft portion of the footwear product of the present invention sewn together.</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 6</figref> is a top view of a foot jacket used in the fabrication of the footwear product.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 7</figref> is a partial exploded view of the present invention, showing how the foot jacket mates with the sock.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 8</figref> is an elevational side view showing a foot jacket, sock and upper shaft sewn together.</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 9</figref> is an elevational bottom view showing the inner construction of a partially completed footwear product.</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 10</figref> is a side view of the footwear product shown in <figref idref="DRAWINGS">FIG. 8</figref> turned inside out wherein all sewn seams are waterproofed by sealing tape.</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. 11</figref> is an elevational rear view of the footwear product shown in <figref idref="DRAWINGS">FIG. 8</figref> turned inside out wherein all sewn seams are waterproofed by sealing tape.</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. 12</figref> is a bottom view of the footwear product shown in <figref idref="DRAWINGS">FIG. 8</figref> turned inside out wherein all sewn seams are waterproofed by sealing tape.</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. 13</figref> is an elevational side view of an unhinged last being inserted into a partially assembled footwear product after it is waterproofed.</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. 14</figref> shows a heel counter and toe box stiffener used in fabricating the footwear product.</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. 15</figref> is a view of an insole used in making the footwear product.</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. 16</figref> is an elevational view of a partially completed footwear product with a shoe last inserted and an unattached sole being attached to the bottom of the sock.</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. 17</figref> depicts the insertion of the toe box and heal counter between the footwear sock and the foot jacket as employed in the fabrication of the footwear product.</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. 18</figref> is a side view of the partially assembled lasted footwear product depicting the attached insole.</p>
+<p id="p-0039" num="0038"><figref idref="DRAWINGS">FIG. 19</figref> is a side view of the partially assembled lasted footwear product showing how the out sole mates with the insole.</p>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIG. 20</figref> is a close-up top view of one embodiment of the external surface of the footwear product of the present invention.</p>
+<p id="p-0041" num="0040"><figref idref="DRAWINGS">FIG. 21</figref> is a cross sectional view taken substantially along line <b>21</b>-<b>21</b> of <figref idref="DRAWINGS">FIG. 2</figref> showing the construction of the composite material of the present invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0042" num="0041">This application claims priority of U.S. Provisional Patent Application to Nikolay Iglikov Ser. No. 60/846,522 for FOOTWEAR AND ITS MANUFACTURE, filed on Sep. 21, 2006.</p>
+<p id="p-0043" num="0042">At the outset, it should be clearly understood that like reference numerals are intended to identify the same structural elements, portions, or surfaces consistently through out the several drawing figures, as may be further described or explained by the entire written specification of which this detailed description is an integral part. The drawings are intended to be read together with the specification and are to be construed as a portion of the entire &#x201c;written description&#x201d; of this invention as required by 35 U.S.C. &#xa7;112.</p>
+<p id="p-0044" num="0043">Adverting now to the drawings, with reference to <figref idref="DRAWINGS">FIG. 1</figref>, a preferred embodiment of the present invention is indicated as footwear product <b>30</b>. The footwear product <b>30</b> possesses a host of desirable attributes which uniquely distinguish it from existing footwear products and enhances its efficacy by the footwear user when used under the most inclement conditions. Footwear product <b>30</b> comprises a laminated composite upper shaft <b>40</b> internally communicating onto a laminated composite sock <b>50</b> (shown in <figref idref="DRAWINGS">FIGS. 4 and 5</figref>) of a predetermined foot size protectively enshrouded by foot jacket <b>60</b> and an outsole securely attached to provide a footwear product <b>30</b> illustratively depicted in <figref idref="DRAWINGS">FIGS. 1-3</figref>. The footwear product <b>30</b> as depicted is commonly referred to as a high top boot which includes a foot section <b>62</b> and upper shaft <b>40</b>.</p>
+<p id="p-0045" num="0044">The construction and design of the footwear product <b>30</b> of this invention provides a footwear product which cooperatively functions in conjunction with the boot and allow movement of both the limb and the footwear product <b>30</b> as a unitary and contour fitting unit. The sock <b>50</b> of the footwear product <b>30</b> serves to superficially engage the foot above the ankle and throughout the foot section so that the footwear product <b>30</b> feels and wears upon the wearer's foot more as a sock than a boot or shoe. Thus, the footwear product <b>30</b> moves in unison (rather than independently) with the wearer's ankle and foot, thus avoiding footwear creep. Similarly, the upper shaft section <b>40</b> construction mates onto the muscular movement of the calf muscle to enhance fit, use and comfort. A broad spectrum of footwear products ranging ankle top, high top, laced and unlaced boots, military, cowboy footwear, fashion; hip waders, slippers and other footwear sized to fit about the foot and particularly above the wearer's ankle may be manufactured by this technology.</p>
+<p id="p-0046" num="0045">The <figref idref="DRAWINGS">FIGS. 4-18</figref> depict footwear product <b>30</b> and the sequential steps of manufacturing the footwear product <b>30</b> from patterned pieces involving unique composite patterned pieces sewn and internally sealed together with other footwear components by unique processing and footwear techniques.</p>
+<p id="p-0047" num="0046">As illustrated in <figref idref="DRAWINGS">FIGS. 4 and 5</figref> the footwear product <b>30</b> includes an internally disposed sock <b>50</b> and the upper shaft <b>40</b> which elastically and comfortably circumscribes the ankle and foot of the wearer. In essence both the upper shaft <b>40</b> and the sock <b>50</b> include basic materials which allow for the waterproofing of the sewn seams <b>32</b> as well as providing a more appropriately leg calf, ankle and foot fitting footwear product <b>30</b>. Upper shaft <b>40</b> and preformed sock <b>50</b> in combination with a heat sealing tape allow the sewn seams <b>32</b> and juxtapositioned seamed margins to be sealed against wicking or seepage of water through the seamed area.</p>
+<p id="p-0048" num="0047">The upper portion in the ankle area of the sock <b>50</b> and the upper shaft <b>40</b> desirably possess girth stretchability which allows the component parts to elastically and comfortably conform to the contour of the wearer's ankle and thereby maintain the fit about the wearer's ankle. The upper portion in the ankle area of the sock <b>50</b> and the upper shaft <b>40</b> in effect walks with the ankle, lower calf and foot of the wearer. The type of movement that is commonly found in ordinary rubber boots such as float or upwardly or downwardly movement of the footwear as well as forward, backward or sideward slide of the foot within ordinary footwear is essentially eliminated by the unique construction of the footwear product <b>30</b>. The composite upper shaft <b>40</b> (refers to the laminated upper shaft section of footwear product <b>30</b>) also provides an ability to retain its structural upper shaft identity with sufficient girth stretch so as to conform the upper shaft <b>40</b> to the wearer's leg calf and maintain the appropriate position for comfortable use by the wearer.</p>
+<p id="p-0049" num="0048">The upper shaft <b>40</b> (as depicted in <figref idref="DRAWINGS">FIGS. 4 and 5</figref>) and sock <b>50</b> may be appropriately fabricated from a foam core <b>54</b> coated or laminated on at least one side (advantageously upon the inner or internal side) with PU film <b>53</b> (a heat reflecting metal alloy coating such as by a titanium alloy or a polyurethane film coating) and sandwiched by an internal tricot fabric layer <b>52</b> and an external layer <b>42</b> (the details of which is shown in <figref idref="DRAWINGS">FIG. 20</figref>).</p>
+<p id="p-0050" num="0049">A wide range of materials may be used for the fabric based exterior (e.g. the exterior of footwear upper shaft <b>40</b> and sock <b>50</b>). Particularly useful are those fabrics possessing the necessary characteristics of strength, lightweight, water penetration resistance and durability to serve effectively as a footwear exterior shell. Polyesters and nylon are illustrative materials that may be used to fabricate the exterior. The stretch characteristics of the fabric of the external layer is altered by the type of material and type of knit utilized to make the sock and the upper shaft of footwear product <b>30</b>. For example, if it is desired to achieve a durable exterior surface there will be less stretch in the material, i.e. the exterior material for the upper shaft. For another example, exterior fabric <b>42</b> of sock <b>50</b> is made of a material that should possess greater amount of stretch so as to allow it to conform to the footwear forming last as depicted by <figref idref="DRAWINGS">FIG. 13</figref>. Durability is not a characteristic that is important for the exterior of the sock composite. Sock <b>50</b> is made of synthetic woven and knitted fabric having greater stretchable characteristics, for example.</p>
+<p id="p-0051" num="0050"><figref idref="DRAWINGS">FIG. 6</figref> depicts a top view of foot jacket <b>60</b> used in the fabrication of the footwear product. In a preferred embodiment of the present invention, foot jacket <b>60</b> is comprised of a single layer of material suitable for the exterior of a boot, an oxford polyester for example. It is desirable in the manufacture of foot jacket <b>60</b>, to provide an exterior layer of foot section <b>62</b> with greater durability and protection for the foot of the user. Another function of foot jacket <b>60</b> is to prepare for attachment of the outer sole and to a cover the toe box, the heal counter and the insole. The jacket should be a durable nonstretchable material that holds its integrity after the lasting process.</p>
+<p id="p-0052" num="0051"><figref idref="DRAWINGS">FIG. 7</figref> is a partial exploded view of the present invention, showing how the foot jacket mates with the sock in the general direction of the arrow <b>67</b>. <figref idref="DRAWINGS">FIG. 8</figref> is an elevational side view showing a foot jacket, sock and upper shaft sewn together. Foot sock <b>50</b> is fitted with a foot jacket <b>60</b> before sock <b>50</b> is placed upon a forming last so as to conform sock <b>50</b> to the contour of the user's foot. The composite upper shaft <b>40</b> section, foot jacket <b>60</b> and sock <b>50</b> are respectively fabricated from patterned pieces appropriately sewn together (as may be observed from <figref idref="DRAWINGS">FIGS. 1-18</figref>). In the preferred embodiment the foot sock is covered by the foot jacket which is sewn to the bottom portion of the upper shaft. It should be appreciated by one skilled in the art the foot jacket should be positioned below the ankle. If the jacket is secured too high on the upper shaft it eliminates the stretchability of the material that comprises the upper shaft. The foot jacket material is necessarily constructed of a non-stretch fabric material to increase the durability and wearability of the footwear product. Foot section <b>62</b> is the portion of the boot which will receive the most wear and tear and therefore is covered by a foot jacket made of a non-stretch durable fabric. The use of a non-stretch material in the construction of the foot jacket is particularly important when the jacket is pulled around the shoe last in the lasting process. Whereas the upper shaft is constructed of a stretchable material to improve the mobility, comfort and fit of the footwear product in the calf and ankle region of the user. <figref idref="DRAWINGS">FIG. 9</figref> is an elevational bottom view showing the preferred way a foot jacket, sock and upper shaft is sewn together.</p>
+<p id="p-0053" num="0052">After sewing the upper shaft, foot jacket and sock pieces together, sealing tapes are heat sealed to all interior seems to waterproof the foot wear product. The partially completed footwear product as illustrated in <figref idref="DRAWINGS">FIGS. 8 and 9</figref> is appropriately turned inside out and taped with sealing tape <b>46</b> which seals from the inside the sewn seams against water or moisture penetration. The sealing tapes are applied by hot air tape sealing techniques which completely waterproofs the partially completed footwear product <b>30</b> as depicted in the <figref idref="DRAWINGS">FIGS. 10-12</figref>. This creates a highly effective seal for waterproofing the sewn boot seams. The completed footwear product is then returned to customary form from its inside out form as shown in <figref idref="DRAWINGS">FIGS. 10-12</figref> and checked for leaks by inserting the unit in a vat of water and if a leak is detected the seam is re-taped, if there are no leaks the upper boot is further assembled as per the next step in the manufacturing procedure.</p>
+<p id="p-0054" num="0053">An important feature of footwear product <b>30</b> is that it is waterproofed from the inside of the boot rather than a conventional means of waterproofing by adding vulcanized rubber on the outside of the boot. When a neoprene footwear product is covered with rubber it eliminates many of the neoprene's positive flexibility characteristics. However with the unique composite and taping techniques taught herein the seams are effectively sealed internally to provide a waterproof footwear product <b>30</b> without the use of any rubber. Conventional thermoplastic heat sealing tapes applied by conventional hot air tape sealing machines operated under heat sealing conditions (e.g. 300-380 degrees F. at 10 feet/min) may be used to apply heat and seal the seams. Thus, the manufacture of footwear product <b>30</b> may appropriately waterproof seam the laminated composite upper shaft <b>40</b>, foot sock <b>50</b> and foot jacket <b>60</b> together by hot air tape sealing as opposed to conventional vulcanization techniques to produce a unique waterproof footwear product <b>30</b>.</p>
+<p id="p-0055" num="0054">After sealing the seams of the sewn upper shaft <b>40</b>, sock <b>50</b> and foot jacket <b>60</b>, the completed footwear product is then returned to customary form from its inside out form as shown in <figref idref="DRAWINGS">FIGS. 10-12</figref> and placed upon footwear last <b>61</b> as illustrated by <figref idref="DRAWINGS">FIG. 13</figref> to finalize the manufacture of footwear product <b>30</b>. <figref idref="DRAWINGS">FIG. 17</figref> depicts the insertion of the toe box and heal counter between the footwear sock and the footjacket as employed in the fabrication of the footwear product. In one desired embodiment of the present invention foot section <b>62</b> includes a sized sock <b>50</b> enshrouded by foot jacket <b>60</b> which maintains reinforcement footwear components (e.g. toe box <b>76</b> a puff or stiffener, heel counter <b>74</b> and insole <b>72</b>) to impart a more rigid structure to foot section <b>62</b> and provides protection that conventional neoprene rubber boots cannot provide (i.e. portion below the upper shaft <b>40</b>).</p>
+<p id="p-0056" num="0055">As shown in <figref idref="DRAWINGS">FIG. 13</figref>, an unhinged shoe last is inserted into the partially shoe assembly and the extended last stretches sock <b>50</b> to conform to the shape of the last as shown in <figref idref="DRAWINGS">FIGS. 16 and 17</figref>. <figref idref="DRAWINGS">FIG. 16</figref> is an elevational view of a partially completed footwear product with a shoe last inserted and an unattached sole being attached to sock bottom <b>63</b>. <figref idref="DRAWINGS">FIG. 17</figref> illustrates the placement of adhesively backed heel counter <b>74</b> and toe box <b>76</b> (for example a stiffener or puff made from formable thermoplastic, Tenco GI) positioned between the foot jacket <b>60</b> and the sock bottom along with the insole <b>72</b>. Thereafter, insole <b>72</b> (illustratively a water resistant synthetic 2.25 mm Texon insole and the like) is glued to the sock bottom <b>63</b> with a shoe contact glue or adhesive applied about the outer periphery of insole <b>72</b> and jacket overhang <b>64</b> (shown in <figref idref="DRAWINGS">FIGS. 13 and 18</figref>) of foot jacket <b>60</b> (commonly known as skirt or blouse) is then pulled tautly with the lasting machine onto glued insole <b>72</b> and secured thereto as depicted in <figref idref="DRAWINGS">FIGS. 16 and 17</figref>. A conventional shoe lasting pulling machine equipped with a heel contour conforming and a toe box heating means (e.g. heated at 350 degrees F.) may be used to create the desired heel and toe configurations. The lasting machine (pulling and heating) pulls the toe section (while forming the toe puff) of foot jacket tautly about the juxtapositioned portion onto insole <b>72</b> thereto and cements jacket <b>60</b> to insole <b>72</b> as shown in <figref idref="DRAWINGS">FIG. 18</figref>.</p>
+<p id="p-0057" num="0056"><figref idref="DRAWINGS">FIG. 18</figref> depicts a partially assembled footwear product with the foot jacket <b>60</b> cemented onto insole <b>72</b> ready for the installation of out sole <b>70</b>. In the lasting operation, the flat toe puff section may be heated sufficiently so that the thermoplastic material conforms to the desired last configuration. Foot jacket <b>60</b> is pulled tautly and heated so that it likewise conforms to the heal section of the last. The machine then pulls foot jacket <b>60</b> tightly about the arch section of the last so as to securely glue the arch section to insole <b>72</b>. When the foot jacket <b>60</b> is pulled tightly and lasted onto the insole <b>72</b> with shoe cement, the sock <b>50</b> retains its stretched lasted form. If desired, lasting machines capable of conducting all three lasting operations may be used for this purpose. After the lasting procedure is completed the resulting product is an upper boot unit as illustrated by <figref idref="DRAWINGS">FIGS. 18 and 19</figref>. Alternatively, the insole <b>72</b> may be sewn to the foot jacket <b>60</b> (Strobel Slip Last) and then slip lasted over the last for assembly of the sole thereto. This insole <b>72</b> sewing technique will eliminate the need for expensive lasting equipment.</p>
+<p id="p-0058" num="0057">The unique construction of the preferred embodiment of the instant invention provides a foot section <b>62</b> which wears on the inside as a sock rather than a shoe, however once the structure is reinforced, as addressed above, the outside portion of foot section <b>62</b> wears like a reinforced shoe. It is common in the footwear industry to manufacture a rubber boot with a neoprene liner, however the outside rubber is unforgiving and doesn't flex with the neoprene liner in the boot and the toe and heel of the rubber boot need reinforcement. A common method of reinforcing a neoprene lined rubber boot is to merely put multiple layers of rubber over the neoprene shell, the problem with this however is that the no matter how many layers of rubber is applied it can not nearly protect the foot of the user as does footwear product <b>30</b>.</p>
+<p id="p-0059" num="0058">The final processing step involves securing the molded rubber outsole <b>70</b> to partially completed footwear product <b>30</b>. <figref idref="DRAWINGS">FIG. 19</figref> illustrates a suitable outsole <b>70</b> constructed of a molded synthetic rubber configured so as to mate onto the bottom of the upper boot unit. The outsole <b>70</b> (e.g. a remolded sole) may be attached by a variety of conventional techniques such as gluing or cementing, injection molding (e.g. PU or TPR) or the outsole <b>70</b> may be integrated into the structure by cold or thermally induced vulcanization techniques. The outsole <b>70</b> may be appropriately conditioned for vulcanization by roughing or grating the surface to better prepare the surface for adhesion applying the vulcanization components and vulcanizing.</p>
+<p id="p-0060" num="0059"><figref idref="DRAWINGS">FIG. 20</figref> is a close-up top view of one embodiment of the external surface of the footwear product of the present invention. A variety of materials or fabrics can be used for external layer <b>42</b>. Any fabric as durable as possible can impregnated with a uniform sequential arrangement of small dots (circular globular polyurethane projections imparting a rough surface), upon its external surface to impart waterproofing, durability and wear ability to the footwear product <b>30</b>, as shown in <figref idref="DRAWINGS">FIG. 20</figref>. It should be understood that the exterior surface of the boot must be as durable as rubber or better, and a polyurethane dotted coating <b>43</b> on the external surface achieves this objective.</p>
+<p id="p-0061" num="0060"><figref idref="DRAWINGS">FIG. 21</figref> is a cross sectional view taken substantially along line <b>21</b>-<b>21</b> of <figref idref="DRAWINGS">FIG. 2</figref> showing the construction of the laminated composite material of the present invention. It should be understood, the entire inner footwear structure comprises a composite sandwich of layered material of which is generally comprised of a core of foamed elastic which most appropriately imparts the desired elasticity and insulative attributes to the footwear product for footwear upper shaft section <b>40</b> and sock <b>50</b>. In a preferred embodiment of the present invention the composite structure is comprised of four layers as shown in <figref idref="DRAWINGS">FIG. 21</figref>, foam core <b>54</b> and PU film <b>53</b> sandwiched between external layer <b>42</b>, and inner boot layer <b>52</b>.</p>
+<p id="p-0062" num="0061">External layer <b>42</b> is comprised of the fabric material had a different characteristics for each of the components of the upper boot unit (i.e. the upper shaft, the sock and the foot jacket). External layer <b>42</b> is a durable polyester fabric coated with polyurethane dots which replaces the rubber.</p>
+<p id="p-0063" num="0062">Foam core <b>54</b> is a neoprene core providing great insulation. Foam core <b>54</b> is a neoprene core, such as an expanded closed cell of a 100% CR-Chloroprene rubber (neoprene) utilizing a 99.7% calcium carbonate as blowing agent precursor to create more than 93% micro closed cell structure. PU film <b>53</b> is a metallic alloy such as titanium alpha coating barrier applied to the foam core <b>54</b> surface to increase the installation through heat reflection. In addition, PU film <b>53</b> is the basis for waterproofing capability of a composite of the foot wear product. PU film <b>53</b> is sandwiched between the neoprene foam core <b>54</b> and the laminated fabric layer <b>52</b>.</p>
+<p id="p-0064" num="0063">The inner boot layer <b>52</b> is a Tricot fabric which is a tapable semi-stretchable 100% nylon wrap knit furnished by Yamamoto Corporation, the melting characteristic of inner boot layer <b>52</b> allows the heat sealing glue from the internal tape to pass through to the PU film <b>53</b> and heat seal the composite structure avoiding capillary and making the unit waterproof. This tricot fabric is developed for breathable fabrics which are always non-stretchable. Never before in the art has there been developed a combination of composite materials which comprise this type of tricot laminated over neoprene, because the main purpose of using neoprene is to take advantage of its stretchable characteristics and until now it has been thought that if it is used in conjunction with less stretchable tricot it diminishes this characteristic. The limited stretchability prohibits the making of many neoprene products. However the stretchability of the neoprene in conjunction with the other layers of this composite, especially the tricot layer, allow the tricot to be stretchable enough to make a formfitting waterproofed footwear product of the instant invention. The advantage obtained is to have a composite material having enough stretch to have ability to make a non-glued neoprene seem waterproofed (i.e sewn seam).</p>
+<p id="p-0065" num="0064">While preferred embodiments of the present invention have been disclosed, it is to be understood that the present invention is not limited thereto, but may be otherwise embodied within the scope of the following claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A rubberless form fitting neoprene boot waterproofed from the inside comprised of:
+<claim-text>a seamed composite sock fabricated from a neoprene foam that provides insulation, a tapable polyurethane film with titanium coating to provide heat reflection and allow waterproofing of said seams sandwiched by a tapable tricot liner to avoid capillary movement of water and stretchable external layer that may be stretched and formed upon a shoe last;</claim-text>
+<claim-text>a composite upper shaft section extending from said sock; wherein said upper shaft is a composite of said neoprene foam, said polyurethane film sandwiched by said tapable tricot liner and a semistretchable external layer that is a durable fabric;</claim-text>
+<claim-text>an external foot jacket attached to said upper shaft jacketing said sock forming an upper boot unit having internal seams;</claim-text>
+<claim-text>a series of thermoplastic heat sealing tapes to collectively seal all said internal seams against the penetration of moisture;</claim-text>
+<claim-text>a toe reinforcing stiffener and a heel reinforcing stiffener located between said stretchable external layer of said sock and said foot jacket;</claim-text>
+<claim-text>an inner sole secured to said sock by a border of said external foot jacket;</claim-text>
+<claim-text>an outer sole securely anchored to a bottom end of said inner sole.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. A footwear construction comprising:
+<claim-text>a composite sock to define a cavity for receiving a foot;</claim-text>
+<claim-text>a composite upper shaft section extending from said sock wherein said sock and said upper shaft is fabricated from a composite of a foam core coated on at least one side with a heat reflecting polyurethane film coating sandwiched by an internal fabric liner and an external layer of fabric;</claim-text>
+<claim-text>an external foot jacket attached to said upper shaft jacketing said sock forming an upper boot unit having internal seams and an external surface;</claim-text>
+<claim-text>a sealing means to collectively seal all said internal seams against the penetration of moisture;</claim-text>
+<claim-text>an inner sole secured to said sock by a border of said external foot jacket;</claim-text>
+<claim-text>an outer sole securely anchored to a bottom end of said inner sole.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. A footwear construction as set forth in <claim-ref idref="CLM-00002">claim 2</claim-ref> wherein said external surface of said upper boot unit includes circular globular polyurethane projections imparting a rough surface.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. A footwear construction as set forth in <claim-ref idref="CLM-00003">claim 3</claim-ref> including a toe reinforcing stiffener and a heel reinforcing stiffener located between said external stretchable fabric layer of said sock and said foot jacket.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. A footwear construction as set forth in <claim-ref idref="CLM-00003">claim 3</claim-ref> wherein said foam core is a neoprene core; said polyurethane film coating is metal alloy coating such as a titanium alloy; and said internal fabric liner is a tapable tricot liner to avoid capillary of water.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. A footwear construction as set forth in <claim-ref idref="CLM-00002">claim 2</claim-ref> wherein said external layer of said upper shaft is a semi-stretchable fabric and wherein said external layer of fabric of said sock is a stretchable fabric.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. A footwear construction as set forth in <claim-ref idref="CLM-00006">claim 6</claim-ref> wherein said sealing means comprise thermoplastic heat sealing tapes.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891177-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891177</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11980466</doc-number>
+<date>20071031</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>764</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>3</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 60297</main-classification>
+<further-classification> 7311469</further-classification>
+</classification-national>
+<invention-title id="d2e53">Particulate trap temperature sensor swap detection</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>4209981</doc-number>
+<kind>A</kind>
+<name>Miyamori et al.</name>
+<date>19800700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>5369957</doc-number>
+<kind>A</kind>
+<name>Hanson</name>
+<date>19941200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 62126</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>6651422</doc-number>
+<kind>B1</kind>
+<name>LeGare</name>
+<date>20031100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>6898585</doc-number>
+<kind>B2</kind>
+<name>Benson et al.</name>
+<date>20050500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>7043351</doc-number>
+<kind>B2</kind>
+<name>Grossman et al.</name>
+<date>20060500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>7159391</doc-number>
+<kind>B2</kind>
+<name>Kogo et al.</name>
+<date>20070100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>7178326</doc-number>
+<kind>B2</kind>
+<name>Kojima et al.</name>
+<date>20070200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>7179316</doc-number>
+<kind>B2</kind>
+<name>Merkel et al.</name>
+<date>20070200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>7203588</doc-number>
+<kind>B2</kind>
+<name>Kaneko et al.</name>
+<date>20070400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>7216481</doc-number>
+<kind>B2</kind>
+<name>MacBain et al.</name>
+<date>20070500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>7243488</doc-number>
+<kind>B2</kind>
+<name>Bonadies et al.</name>
+<date>20070700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>7243489</doc-number>
+<kind>B2</kind>
+<name>Johnson et al.</name>
+<date>20070700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>7259120</doc-number>
+<kind>B2</kind>
+<name>Ellison et al.</name>
+<date>20070800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>2004/0261402</doc-number>
+<kind>A1</kind>
+<name>Sealy et al.</name>
+<date>20041200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>2005/0241301</doc-number>
+<kind>A1</kind>
+<name>Okugawa et al.</name>
+<date>20051100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>2006/0032213</doc-number>
+<kind>A1</kind>
+<name>Woll et al.</name>
+<date>20060200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>2006/0179826</doc-number>
+<kind>A1</kind>
+<name>Kuboshima et al.</name>
+<date>20060800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>2006/0242945</doc-number>
+<kind>A1</kind>
+<name>Wang et al.</name>
+<date>20061100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>2006/0242950</doc-number>
+<kind>A1</kind>
+<name>Wang et al.</name>
+<date>20061100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>2007/0033925</doc-number>
+<kind>A1</kind>
+<name>Berger et al.</name>
+<date>20070200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>2008/0083271</doc-number>
+<kind>A1</kind>
+<name>He et al.</name>
+<date>20080400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 731181</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>KR</country>
+<doc-number>2005112707</doc-number>
+<kind>A</kind>
+<date>20051200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</citation>
+</references-cited>
+<number-of-claims>20</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 60297</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 7311469</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 7311475</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>3</number-of-drawing-sheets>
+<number-of-figures>3</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090107114</doc-number>
+<kind>A1</kind>
+<date>20090430</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Ammineni</last-name>
+<first-name>Chandini M.</first-name>
+<address>
+<city>Peoria</city>
+<state>IL</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Zich</last-name>
+<first-name>Andrew J.</first-name>
+<address>
+<city>Peoria</city>
+<state>IL</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Finnegan, Henderson, Farabow, Garrett &#x26; Dunner LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Caterpillar Inc.</orgname>
+<role>02</role>
+<address>
+<city>Peoria</city>
+<state>IL</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Denion</last-name>
+<first-name>Thomas E</first-name>
+<department>3748</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Shanske</last-name>
+<first-name>Jason</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">An exhaust after-treatment system is disclosed. The system has a particulate trap disposed to remove particulate matter from an exhaust flow of an engine, an upstream temperature sensor disposed to measure a temperature of the exhaust flow upstream of the particulate trap, and a downstream temperature sensor disposed to measure a temperature of the exhaust flow downstream of the particulate trap. The system also has a controller in communication to receive from the upstream and downstream temperature sensors indications of the upstream and downstream temperatures. The controller is configured to compare the upstream and downstream temperatures, determine if the upstream and downstream temperature sensors are improperly swapped based on the comparison, and take a precaution if it is determined that the upstream and downstream temperature sensors are improperly swapped.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="124.88mm" wi="216.58mm" file="US07891177-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="184.66mm" wi="126.24mm" orientation="landscape" file="US07891177-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="219.96mm" wi="151.05mm" orientation="landscape" file="US07891177-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="224.03mm" wi="145.46mm" file="US07891177-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0002" num="0001">The present disclosure is directed to an exhaust after-treatment system, and, more particularly, to an exhaust after-treatment including particulate trap temperature sensor swap detection.</p>
+<heading id="h-0002" level="1">BACKGROUND</heading>
+<p id="p-0003" num="0002">Engines, including diesel engines, gasoline engines, gaseous fuel powered engines, and other engines known in the art exhaust a complex mixture of air pollutants. These air pollutants include solid material known as particulate matter or soot. Due to increased attention on the environment, exhaust emission standards have become more stringent, and the amount of particulate matter emitted from an engine is regulated depending on the type of engine, size of engine, and/or class of engine.</p>
+<p id="p-0004" num="0003">One method implemented by engine manufacturers to comply with the regulation of particulate matter exhausted to the environment has been to remove the particulate matter from the exhaust flow of an engine with a device called a particulate trap. A particulate trap is a filter designed to trap particulate matter and typically consists of a wire mesh or ceramic honeycomb medium. However, the use of the particulate trap for extended periods of time may cause the particulate matter to build up in the medium, thereby reducing the functionality of the filter and subsequent engine performance.</p>
+<p id="p-0005" num="0004">The collected particulate matter may be removed from the filter through a process called regeneration. To initiate regeneration of the filter, the temperature of the particulate matter entrained within the filter must be elevated to a combustion threshold at which the particulate matter is burned away. One way to elevate the temperature of the particulate matter is to inject a catalyst such as diesel fuel into the exhaust flow of the engine and ignite the injected fuel. Another way is to use a heating element or a flame-producing burner to heat the filter to the combustion threshold.</p>
+<p id="p-0006" num="0005">One method of controlling regeneration is described in U.S. Patent Application Publication No. 2005/0241301 by Okugawa et al. published on Nov. 3, 2005 (the &#x201c;301 publication&#x201d;). The 301 publication discloses a system to control regeneration of a diesel particulate trap (DPF) within an exhaust flow path. The system includes a temperature sensor upstream of the DPF, a temperature sensor downstream of the DPF, and a DPF differential pressure sensor in communication with a controller. As particulate matter accumulates in the DPF, the upstream-downstream pressure difference increases. The controller estimates the amount of accumulation based on the pressure difference and determines a target temperature necessary for regeneration of the DPF based on the amount of accumulation. During subsequent DPF regeneration, the controller operates an upstream oxidation catalyst to heat the DPF to the target temperature and thereby combust all of the accumulated particulate matter.</p>
+<p id="p-0007" num="0006">Although the system of the '301 publication may heat the DPF to an appropriate target combustion temperature, it may malfunction under some circumstances. Specifically, the system uses the upstream temperature sensor to determine the temperature of the DPF during regeneration. Thus, if the upstream temperature sensor and the downstream temperature sensor are installed in the wrong positions (i.e., swapped) due to improper manufacture or assembly, the system may improperly control regeneration. For example, the system may heat the DPF to a temperature far beyond the target and/or for a longer period of time than necessary, causing damage thereto or failure thereof.</p>
+<p id="p-0008" num="0007">This disclosure is directed to overcoming one or more of the problems set forth above.</p>
+<heading id="h-0003" level="1">SUMMARY</heading>
+<p id="p-0009" num="0008">One aspect of the disclosure is directed to an exhaust after-treatment system. The system may include a particulate trap disposed to remove particulate matter from an exhaust flow of an engine, an upstream temperature sensor disposed to measure a temperature of the exhaust flow upstream of the particulate trap and a downstream temperature sensor disposed to measure a temperature of the exhaust flow downstream of the particulate trap. The system may further include a controller in communication to receive from the upstream and downstream temperature sensors indications of the upstream and downstream temperatures. The controller may be configured to compare the upstream and downstream temperatures, determine if the upstream and downstream temperature sensors are improperly swapped based on the comparison, and take a precaution if it is determined that the upstream and downstream temperature sensors are improperly swapped.</p>
+<p id="p-0010" num="0009">Another aspect of the disclosure is directed to a method. The method may include disposing a particulate trap to remove particulate matter from an exhaust flow of an engine, receiving from an upstream temperature sensor an indication of a temperature of the exhaust flow upstream of the particulate trap, and receiving from a downstream temperature sensor an indication of a temperature of the exhaust flow downstream of the particulate trap. The method may further include comparing the upstream and downstream temperatures, determining if the upstream and downstream temperature sensors are improperly swapped based on the comparison, and taking a precaution if it is determined that the upstream and downstream temperature sensors are improperly swapped.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. 1</figref> is a diagrammatic illustration of a machine according to an exemplary disclosed embodiment;</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. 2</figref> is a diagrammatic illustration of a particulate trap regeneration control system according to an exemplary disclosed embodiment; and</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 3</figref> is a flowchart depicting exemplary operation of the particulate trap regeneration control system of <figref idref="DRAWINGS">FIG. 2</figref>.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 1</figref> illustrates a machine <b>10</b>. Machine <b>10</b> may include an operator station <b>11</b>, one or more traction devices <b>12</b>, an engine <b>14</b>, and a particulate trap regeneration temperature control system <b>16</b>. Although machine <b>10</b> is shown as a truck, machine <b>10</b> could be any type of machine having an exhaust-producing engine. Accordingly, traction devices <b>12</b> may be any type of traction devices, such as, for example, wheels, tracks, belts, or any combinations thereof.</p>
+<p id="p-0015" num="0014">Engine <b>14</b> may be any kind of engine that produces an exhaust flow of exhaust gases. For example, engine <b>14</b> may be an internal combustion engine, such as a gasoline engine, a diesel engine, a natural gas engine or any other exhaust gas producing engine.</p>
+<p id="p-0016" num="0015">System <b>16</b> may include an after-treatment device <b>18</b>. After-treatment device <b>18</b> may be any type of device configured to remove one or more constituents from the exhaust flow of engine <b>14</b>. In some embodiments, after-treatment device <b>18</b> may be regenerated by heat or another measure. In one embodiment, after-treatment device <b>18</b> may include a particulate trap <b>19</b>. Particulate trap <b>19</b> may be configured to remove one or more types of particulate matter from the exhaust gases produced by engine <b>14</b> and flowing through an exhaust conduit <b>20</b> configured to direct all or a portion of the exhaust gases produced by engine <b>14</b> to after-treatment device <b>18</b>. Particulate trap <b>19</b> may include an outer housing <b>22</b>, which may encase a filter medium <b>24</b> (e.g. a metal mesh or screen, or a porous ceramic material, such as cordierite) configured to remove (i.e., trap) one or more types of particulate matter from the exhaust flow of engine <b>14</b>.</p>
+<p id="p-0017" num="0016">Although after-treatment device <b>18</b> is discussed herein primarily as being a particulate trap, in other embodiments after-treatment device <b>18</b> may include multifunctional devices such as a combination of a catalytic converter and a particulate trap in the same unit or a catalytic particulate trap, wherein filter medium <b>24</b> may include a catalytic material and/or a catalytic coating.</p>
+<p id="p-0018" num="0017">After-treatment device <b>18</b> may be configured to be thermally regenerated. System <b>16</b> may include a heating system <b>26</b>, which may be configured to increase the temperature of after-treatment device <b>18</b> (i.e., particulate trap <b>19</b>). This may be done using a variety of different means and/or methods. For example, heating system <b>26</b> may be configured to apply heat directly to after-treatment device <b>18</b> via a heating device integrated with or adjacent to after-treatment device <b>18</b>. An example of such a heating device may include an electric heating element (not shown).</p>
+<p id="p-0019" num="0018">Alternatively or additionally, heating system <b>26</b> may be configured to increase the temperature of after-treatment device <b>18</b> by transferring heat to after-treatment device <b>18</b> from the exhaust gases flowing through it. In such embodiments, heating system <b>26</b> may be configured to apply heat to exhaust gases upstream from after-treatment device <b>18</b>. Heating system <b>26</b> may increase the temperature of exhaust gases in one or more ways. For example, altering engine parameters may have an effect on exhaust gas temperature. Running engine <b>14</b> with a &#x201c;rich&#x201d; air/fuel mixture may increase exhaust gas temperature. Increases in engine speed and/or load may also increase exhaust gas temperature. Timing and exhaust valve actuation may also be manipulated to control exhaust gas temperatures. Exhaust gases may also be heated by post injection, which involves injecting additional fuel into the combustion chambers after the combustion has taken place, which may result in the additional fuel being burned in the exhaust system, thereby elevating the temperature of the exhaust gases in the system.</p>
+<p id="p-0020" num="0019">Exhaust temperature may also be raised by heating the exhaust gases or exhaust conduit <b>20</b>. For example, heating system <b>26</b> may include one or more heating devices, such as an electric heating element and/or a flame-producing burner configured to heat the exhaust gases or exhaust conduit <b>20</b>. In one embodiment shown in <figref idref="DRAWINGS">FIG. 2</figref>, heating system <b>26</b> may include a regeneration device <b>28</b> configured to reduce an amount of particulate matter in after-treatment device <b>18</b>. In an exemplary embodiment, regeneration device <b>28</b> may include a burner assembly <b>30</b> configured to increase the temperature of the exhaust gases flowing through exhaust conduit <b>20</b> upstream from after-treatment device <b>18</b>.</p>
+<p id="p-0021" num="0020">Burner assembly <b>30</b> may maintain or restore the performance of after-treatment device <b>18</b> through thermal regeneration. Accumulation of exhaust flow constituents in after-treatment device <b>18</b> may result in a decline in engine performance and/or possible damage to after-treatment device <b>18</b> and/or other components of system <b>16</b>. Burner assembly <b>30</b> may thus be configured to prevent or restore any decline in engine performance and avoid possible damage to after-treatment device <b>18</b> and/or other components of system <b>16</b>. For example, burner assembly <b>30</b> may combust (i.e., burn off) at least some of the particulate matter that may have accumulated in after-treatment device <b>18</b> by raising the temperature of after-treatment device <b>18</b> to an appropriate combustion temperature.</p>
+<p id="p-0022" num="0021">Although system <b>16</b> is shown with a single after-treatment device <b>18</b> and a single regeneration device <b>28</b>, system <b>16</b> may include more than one after-treatment device <b>18</b> and/or more than one regeneration device <b>28</b>. For example, in one embodiment, system <b>16</b> may include a single regeneration device <b>28</b> configured to regenerate two after-treatment devices. In another embodiment, system <b>16</b> may include two regeneration devices configured to regenerate two after-treatment devices. In such an embodiment, each regeneration device may be configured to regenerate one of the after-treatment devices or contribute to the regeneration of both of the after-treatment devices. System <b>16</b> could also include any number of regeneration devices and/or after-treatment devices in any combination suitable for regeneration.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 2</figref> illustrates an exemplary embodiment of particulate trap regeneration temperature control system <b>16</b>. For purposes of the following explanation, after-treatment device <b>18</b> will be discussed as being particulate trap <b>19</b>, while regeneration device <b>28</b> will be discussed as being burner assembly <b>30</b>. However, it should be noted that after-treatment device <b>18</b> and regeneration device <b>28</b> could be any of the disclosed types of after-treatment and regeneration devices mentioned above. System <b>16</b> may also include a controller <b>32</b> configured to receive information from various sources and control one or more components of system <b>16</b> based on this information.</p>
+<p id="p-0024" num="0023">Burner assembly <b>30</b> may be positioned anywhere along exhaust conduit <b>20</b> between engine <b>14</b> and particulate trap <b>19</b> (i.e., upstream of particulate trap <b>19</b>). Burner assembly <b>30</b> may include a fuel injector <b>34</b> configured to supply fuel to burner assembly <b>30</b>. Burner assembly <b>30</b> may be configured to create a flame, which may be in a heat exchange relationship with the exhaust flow. System <b>16</b> may be configured to supply fuel injector <b>34</b> with fresh air for mixing with the fuel for combustion, as well as for flushing fuel injector <b>34</b> of any fuel or debris before and/or after operation of burner assembly <b>30</b>. The supply of air to fuel injector <b>34</b> may be regulated by an air valve <b>36</b>, controllable by controller <b>32</b>.</p>
+<p id="p-0025" num="0024">In some embodiments, the source of the fresh air may be an air intake system <b>38</b> of engine <b>14</b>. That is, air may be routed from a portion of air intake system <b>38</b>, such as an intake manifold <b>40</b>, downstream from a compressor <b>42</b> configured to create forced induction for engine <b>14</b>. Compressor <b>42</b> may include a turbocharger, supercharger, or any other device configured to compress intake air and thereby produce forced induction for engine <b>14</b>. Air may be directed from intake manifold <b>40</b> to fuel injector <b>34</b> via an air conduit <b>44</b>. The supply of air to fuel injector <b>34</b> may be regulated by air valve <b>36</b>, which may be controllable by controller <b>32</b> as discussed above.</p>
+<p id="p-0026" num="0025">Burner assembly <b>30</b> may also include a spark plug <b>46</b> configured to provide spark to ignite the air/fuel mixture delivered by fuel injector <b>34</b>. Current may be supplied to spark plug <b>46</b> by an ignition coil <b>48</b>, which may be controlled by controller <b>32</b>. Although burner assembly <b>30</b> has been shown and described as including spark plug <b>46</b>, alternative ignition sources may be employed, such as, for example, glow plugs or another means for igniting an air/fuel mixture.</p>
+<p id="p-0027" num="0026">Controller <b>32</b> may include any means for receiving machine operating parameter-related information and/or for monitoring, recording, storing, indexing, processing, and/or communicating such information. These means may include components such as, for example, a memory, one or more data storage devices, a central processing unit, or any other components that may be used to run an application. Although aspects of the present disclosure may be described generally as being stored in memory, one skilled in the art will appreciate that these aspects can be stored on or read from types of computer program products or computer-readable media, such as computer chips and secondary storage devices, including hard disks, floppy disks, optical media, CD-ROM, or other forms of RAM or ROM. Various other known circuits may be associated with controller <b>32</b>, such as power supply circuitry, signal-conditioning circuitry, solenoid driver circuitry, communication circuitry, and other appropriate circuitry.</p>
+<p id="p-0028" num="0027">Controller <b>32</b> may perform multiple processing and controlling functions, such as, for example, engine management, determining particulate loading, and controlling regeneration of particulate trap <b>19</b>. For instance, controller <b>32</b> may be an engine control module (ECM). Alternatively, machine <b>10</b> may include multiple controllers (a configuration not shown), each dedicated to perform one or more of these or other functions. Such multiple controllers may be configured to communicate and cooperate with one another.</p>
+<p id="p-0029" num="0028">Controller <b>32</b> may be further configured to activate regeneration device <b>28</b> in response to a determination that more than a predetermined amount of particulate matter is or may be trapped in filter medium <b>24</b>. Controller <b>32</b> may also be configured to activate regeneration device <b>28</b> in response to one or more other trigger conditions. These other trigger conditions may include, for example, operation of engine <b>14</b> for a predetermined amount of time; consumption of a predetermined amount of fuel by engine <b>14</b>; detection of an elevated backpressure upstream of particulate trap <b>19</b> above a predetermined pressure; detection of a pressure differential across particulate trap <b>19</b> greater than a predetermined amount; and/or a determination that a calculated or measured amount of particulate matter accumulated in particulate trap <b>19</b> is above a predetermined amount. Controller <b>32</b> may be configured to control regeneration to raise the temperature of particulate trap <b>19</b>, i.e., the temperature of the exhaust flow upstream thereof, to a target combustion temperature at which the accumulated particulate matter may be burned off.</p>
+<p id="p-0030" num="0029">Regeneration may also be initiated manually by an operator, owner, service technician, etc. of machine <b>10</b>. Manually triggering regeneration may be accomplished via a switch, button, or the like associated with machine <b>10</b> and/or a service tool configured to interface with machine <b>10</b>.</p>
+<p id="p-0031" num="0030">System <b>16</b> may include various sensors configured to gather information about operating parameters of system <b>16</b>. Such information may be communicated to controller <b>32</b> for subsequent determinations. For example, system <b>16</b> may include an upstream temperature sensor <b>50</b>, an upstream pressure sensor <b>52</b>, a downstream temperature sensor <b>54</b>, and a downstream pressure sensor <b>56</b>. Such sensors may be positioned along exhaust conduit <b>20</b> upstream and downstream from particulate trap <b>19</b>, respectively, and configured to take measurements of the temperature and pressure of the exhaust gases within exhaust conduit <b>20</b> at their respective locations. These measurements may be communicated to controller <b>32</b>. Specifically, each of sensors <b>50</b>-<b>54</b> may measure its respective temperature or pressure and generate a signal indicative of the measured temperature or pressure. The signals may be communicated to controller <b>32</b> via communication lines <b>74</b>-<b>77</b>, respectively.</p>
+<p id="p-0032" num="0031">Upstream pressure sensor <b>52</b> and downstream pressure sensor <b>56</b> may constitute a pressure differential measurement system. Such a system may be configured to measure a pressure differential between an upstream pressure of the exhaust flow upstream from particulate trap <b>19</b> and a downstream pressure of the exhaust flow downstream from particulate trap <b>19</b>. Alternatively, instead of upstream pressure sensor <b>52</b> and downstream pressure sensor <b>56</b>, the pressure differential measurement system may include a single pressure differential sensor (not shown) configured to measure the difference in pressure between the exhaust flow upstream and downstream of particulate trap <b>19</b>.</p>
+<p id="p-0033" num="0032">System <b>16</b> may also include a ground speed sensor <b>58</b> configured to monitor the ground speed of machine <b>10</b> (i.e., the speed of machine <b>10</b> relative to the surface over which it travels). System <b>16</b> may also be provided with a flame sensing system associated burner assembly <b>30</b> and configured to detect whether burner assembly <b>30</b> is currently producing a flame. Such a flame sensing system may include, for example, a flame sensor <b>60</b>. In addition, system <b>16</b> may include an engine speed sensor <b>62</b> configured to measure the speed at which engine <b>14</b> is operating (i.e., rpm).</p>
+<p id="p-0034" num="0033">The aforementioned sensors may include any type of sensing means suitable for monitoring their respective parameters. In particular, flame sensor <b>60</b> may include any type of sensor suitable for detecting the presence of a flame, such as temperature sensors (e.g., thermocouples), optical sensors, ultraviolet sensors, and ion sensors. Flame sensor <b>60</b> may be configured to detect a condition (e.g., temperature, ultraviolet light, ions, etc.) in proximity to the flame. Such a condition may be monitored at any location within close enough proximity to the flame to enable the presence of the flame to be detected. Additionally or alternatively, the flame sensing system may be configured to detect a rate of change in the condition. For example, a temperature in proximity to the flame location that is increasing at a predetermined rate may indicate that a flame is lit and causing the increase.</p>
+<p id="p-0035" num="0034">In addition or as an alternative to flame sensor <b>60</b>, upstream temperature sensor <b>50</b> may be located upstream of burner assembly <b>30</b>. In such an embodiment, the flame sensing system may be configured to determine whether the downstream exhaust temperature measured by downstream temperature sensor <b>54</b> exceeds the upstream exhaust temperature measured by upstream temperature sensor <b>50</b> by a predetermined amount. A significantly higher downstream temperature may indicate that the flame is lit and is thus heating exhaust gases as they flow through burner assembly <b>30</b>.</p>
+<p id="p-0036" num="0035">Controller <b>32</b> may include a timing device <b>64</b>. Controller <b>32</b> may be configured to couple information from timing device <b>64</b> with information from other sources. For example, controller <b>32</b> may utilize information from timing device <b>64</b> in conjunction with information regarding operation of engine <b>14</b> (e.g., from engine speed sensor <b>62</b>) to determine how long engine <b>14</b> is operated. Timing device <b>64</b> may also be used to monitor and control duration of regeneration events or any other operating parameters of system <b>16</b> and/or machine <b>10</b>.</p>
+<p id="p-0037" num="0036">System <b>16</b> may be configured to control one or more additional system functions and/or parameters. Controller <b>32</b> may be configured to control the pressure of the fuel delivered to fuel injector <b>34</b> (and therefore the rate of fuel injection). A fuel on/off valve <b>66</b>, which may be controllable by controller <b>32</b>, may be associated with fuel injector <b>34</b> to selectively allow fuel to be delivered to fuel injector <b>34</b>. In addition to fuel on/off valve <b>66</b>, system <b>16</b> may also include a fuel pressure regulator valve <b>68</b> controllable by controller <b>32</b> to regulate the pressure of the fuel, and thereby the rate at which fuel is delivered to fuel injector <b>34</b>. In some embodiments, controller <b>32</b> may be configured to control the pressure of fuel delivered to fuel injector <b>34</b> in a closed loop fashion, i.e., in response to pressure measurements taken at or near fuel injector <b>34</b> (e.g., by a fuel pressure sensor, not shown).</p>
+<p id="p-0038" num="0037">Controller <b>32</b> may be further configured to control fuel on/off valve <b>66</b> and/or fuel pressure regulator valve <b>68</b> (i.e., flow of fuel to fuel injector <b>34</b>) in response to other parameters of system <b>16</b>. For example, controller <b>32</b> may be configured to control the temperature of exhaust gases entering particulate trap <b>19</b> in response to feedback from upstream temperature sensor <b>50</b>. This upstream exhaust temperature may be controlled by regulating the amount of fuel and/or air supplied to fuel injector <b>34</b>, which may be accomplished by controlling fuel on/off valve <b>66</b> and/or fuel pressure regulator valve <b>68</b>. Other types of regeneration devices or methods may be controlled in response to measurements taken by upstream temperature sensor <b>50</b>. For example, the amount of post injection may be varied by controller <b>32</b> to regulate the temperature of the exhaust gases entering after-treatment device <b>18</b>.</p>
+<p id="p-0039" num="0038">System <b>16</b> may include multiple fuel pressure regulator valves, which may be independently controlled. At least one fuel pressure regulator valve <b>68</b> may be configured to regulate main fuel pressure, and a second fuel pressure regulator valve (not shown) may be configured to regulate pilot fuel pressure. Pilot fuel pressure may be used during a pilot mode in which system <b>16</b> utilizes a predetermined air/fuel mixture to prevent flameouts during various engine operating conditions, e.g., hard accelerations and rapid decelerations.</p>
+<p id="p-0040" num="0039">Other operating parameters of system <b>16</b> may be monitored to maintain and/or optimize control of the regeneration process. For example, downstream temperature sensor <b>54</b> may detect whether downstream exhaust temperature is above a predetermined temperature. If the downstream exhaust temperature gets too high, it could indicate that temperatures within particulate trap <b>19</b> may be at an undesirably high level as well and/or that the regeneration may be somewhat unstable (e.g., incineration of particulate matter and/or a catalyst driven reaction may be intensifying within after-treatment device <b>18</b> beyond a level commanded by controller <b>32</b>).</p>
+<p id="p-0041" num="0040">System <b>16</b> may also be configured to monitor the stability of the regeneration process by determining a difference between the upstream exhaust temperature measured by upstream temperature sensor <b>50</b> and the downstream exhaust temperature measured by downstream temperature sensor <b>54</b>. If the downstream temperature exceeds the upstream temperature by more than a predetermined amount for more than a predetermined amount of time, for example, controller <b>32</b> may initiate steps to scale back or terminate the regeneration process. For example, in such a case, controller <b>32</b> may reduce the intensity of the flame produced by burner assembly <b>30</b>. In some circumstances, controller <b>32</b> may terminate the regeneration process if the regeneration process is significantly unstable. For example, if the downstream temperature exceeds a predetermined value or exceeds the upstream exhaust temperature by more than a predetermined amount, then controller <b>32</b> may terminate the regeneration process.</p>
+<p id="p-0042" num="0041">Under some circumstances, upstream temperature sensor <b>50</b> and downstream temperature sensor <b>54</b> may be swapped due to improper installation. For instance, upstream temperature sensor <b>50</b> may be installed in the downstream temperature sensor's position, and vice versa; the wiring harness connecting the sensor box (not shown) to temperature sensors <b>50</b>, <b>54</b> may be incorrect; and/or the internal wiring of the sensor box may be incorrect. As a result, controller <b>32</b> may attempt to control the regeneration process based on the wrong temperature indications. This improper control may result in excessive or insufficient regeneration events; increased thermal stress on and failure of after-treatment device <b>18</b>; increased soot loot load on and failure of after-treatment device <b>18</b>; decreased fuel efficiency, and/or increased harmful emissions.</p>
+<p id="p-0043" num="0042">Controller <b>32</b> may implement one or more strategies to detect swapped temperature sensors <b>50</b>, <b>54</b>. It is to be appreciated that, during normal operation of engine <b>14</b>, upstream temperature sensor <b>50</b> may measure a higher temperature than downstream temperature sensor <b>54</b>, because upstream temperature sensor <b>50</b> is closer to the combustion source. In addition, after-treatment device <b>18</b> may slightly insulate downstream temperature sensor <b>54</b> from the combustion source. In one aspect, controller <b>32</b> may determine that upstream temperature sensor <b>50</b> and downstream temperature sensor <b>54</b> are swapped if the measured downstream temperature is greater than the measured upstream temperature. In some applications, however, it may be difficult to detect swapped temperature sensors <b>50</b>, <b>54</b> using this strategy because the upstream temperature and the downstream temperature may be about equal. As such, fluctuations caused by environmental factors and the imprecision or insensitivity of temperature sensors <b>50</b>, <b>54</b> may render difficult detection in this manner of whether temperature sensors <b>50</b>, <b>54</b> are swapped.</p>
+<p id="p-0044" num="0043">Controller <b>32</b> may also utilize the thermal inertia of after-treatment device <b>18</b> to detect whether temperature sensors <b>50</b>, <b>54</b> are swapped. The thermal inertia of after-treatment device <b>18</b> may delay a rise in the downstream temperature caused by a rise in the upstream temperature. That is, the thermal inertia of after-treatment device <b>18</b> may cause the rate of increase of the downstream temperature to be less than the rate of increase of the upstream temperature. As such, for a given operating state, the upstream temperature may reach steady state prior to the downstream temperature. Likewise, after a regeneration event concludes, the thermal inertia of after-treatment device <b>18</b> may cause the downstream temperature to cool down more slowly than the upstream temperature.</p>
+<p id="p-0045" num="0044">Controller <b>32</b> may thus be configured to detect whether temperature sensors <b>50</b>, <b>54</b> are swapped during or after changes in the operating state of machine <b>10</b>, engine <b>14</b>, system <b>14</b>, and/or other associated systems or components. Abrupt changes in the operating state, in particular, may facilitate detection of swapped temperature sensors <b>50</b>, <b>54</b>.</p>
+<p id="p-0046" num="0045">In a first strategy, controller <b>32</b> may check for swapped temperature sensors <b>50</b>, <b>54</b> at the onset of a regeneration event or shortly thereafter, and when the measured upstream and downstream temperatures are within a predetermined range (e.g., 200&#xb0; C.). Alternatively or additionally, controller <b>32</b> may be configured to wait a specified period of time to elapse since regeneration was initiated. It is to be appreciated that, at a given point during or shortly after initiation of regeneration, the upstream temperature should be predictably greater than the downstream temperature due to the thermal inertia of after-treatment device <b>18</b>. In addition, when the upstream and downstream temperatures are relatively cool (e.g., less than 200&#xb0; C.), and after-treatment device <b>18</b> is also thus relatively cool, the thermal inertia of after-treatment device <b>18</b> may result in the high exhaust temperatures caused by regeneration to effectuate a rate of downstream temperature increase significantly lower than the rate of upstream temperature increase. In addition, as the temperature of after-treatment device <b>18</b> increases, its thermal inertia may decrease (i.e., it may become &#x201c;easier&#x201d; to heat up). The predetermined range (or specified amount of time) may thus be chosen to ensure that the upstream and downstream temperatures are cool enough to allow a temperature sensor swap to be comparatively detected upon a sudden increase or decrease in the upstream temperature.</p>
+<p id="p-0047" num="0046">As such, controller <b>32</b> may check for a temperature sensor swap when after regeneration device <b>28</b> (e.g., burner assembly <b>30</b>) has been activated and the upstream and downstream temperatures are within the predetermined range (e.g., 200&#xb0; C.), and/or after the specified amount of time has elapsed since the onset of regeneration. This may ensure the upstream and downstream temperatures are cool enough to expose the swap during the regeneration event. Thus, once either or both of the measured upstream and downstream temperatures have risen by a specified amount (e.g., 100&#xb0; C.), or after a specified period of time (e.g., 10 seconds) stored in memory, controller <b>32</b> may compare the measured upstream and downstream temperatures. Like the predetermined range, it is to be appreciated that the specified period of time may be chosen as to ensure a that temperature sensor <b>50</b>, <b>54</b> swap can be reliably detected, if it is indeed present. These values may be chosen or calculated based on the sensitivity and/or accuracy of temperature sensors <b>50</b>, <b>54</b>; the thermal inertia of after-treatment device; the type of fuel used; and/or other factors.</p>
+<p id="p-0048" num="0047">If the difference between the measured upstream and downstream temperatures is above a threshold (e.g., 50&#xb0; C.), controller <b>32</b> may determine that temperature sensors <b>50</b>, <b>54</b> are swapped. One of skill in the art will appreciate that by waiting until either or both of the measured upstream and downstream temperatures have risen by the specified amount or until the specified period of time has elapsed, controller <b>32</b> may advantageously utilize the thermal inertia of after-treatment device <b>18</b> to detect whether temperature sensors <b>50</b>, <b>54</b> are swapped. Specifically, if the measured downstream temperature has risen, with respect to the measured upstream temperature, beyond what is reasonably expected under the circumstances, controller <b>32</b> can determine that temperature sensors <b>50</b>, <b>54</b> are swapped. For instance, controller <b>32</b> may determine that temperature sensors <b>50</b>, <b>54</b> are swapped if the following inequality (1) is satisfied:
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>T</i><sub>down</sub><i>&#x2212;T</i><sub>up</sub><i>&#x3e;T</i><sub>threshold</sub>,&#x2003;&#x2003;(1)<?in-line-formulae description="In-line Formulae" end="tail"?>
+<br/>
+where T<sub>down </sub>is the downstream temperature measured by downstream temperature sensor <b>54</b>; T<sub>up </sub>is the upstream temperature measured by upstream temperature sensor <b>54</b>; and T<sub>threshold </sub>is a specified threshold stored in memory or computed by controller <b>32</b> and known to indicate that temperature sensors <b>50</b>, <b>54</b> are swapped given the circumstances under which T<sub>down</sub>, and T<sub>up </sub>are measured and compared (e.g., at the particular point during regeneration). It is to be appreciated that the value of T<sub>threshold </sub>may depend on particular characteristics of machine <b>10</b>, engine <b>14</b>, after-treatment device <b>18</b>, filter medium <b>14</b>, regeneration device <b>28</b>; the type of fuel used; the operating temperature ranges of system <b>16</b>; and/or other relevant conditions or characteristics. T<sub>threshold </sub>may be computed based on fleet data gathered in the field for a particular type of machine <b>10</b>, simulation data, and/or any other means known in the art.
+</p>
+<p id="p-0049" num="0048">In a second strategy, controller <b>32</b> may alternatively or additionally be configured to check for a temperature sensor <b>50</b>, <b>54</b> swap upon the completion of a regeneration event, when the upstream and downstream temperatures are substantially equal. It is to be appreciated that the duration of a regeneration event may be sufficient to cause the downstream temperature to eventually be about the same as the upstream temperature. In other words, a complete regeneration event may result in the upstream and downstream temperatures reaching a steady state condition in which the upstream temperature is about equal to the downstream temperature.</p>
+<p id="p-0050" num="0049">Just as the thermal inertia of after-treatment device <b>18</b> may cause the downstream temperature to increase at a lower rate than the upstream temperature during regeneration, it may likewise cause the downstream temperature to decrease (i.e., cool) at a lower rate than the upstream temperature. That is, when regeneration concludes and the exhaust returns to normal operating temperatures, the exhaust may cool the upstream temperature may more rapidly than the downstream temperature due to the thermal inertia of after-treatment device <b>18</b>. Controller <b>32</b> may thus be alternatively or additionally configured to detect a temperature sensor <b>50</b>, <b>54</b> swap upon completion of a regeneration event. Specifically, upon completion of a regeneration event, controller <b>32</b> may wait until either or both of the measured upstream and downstream temperatures have fallen by a specified amount (e.g., 100&#xb0; C.), or until a specified amount of time has elapsed since regeneration has completed. If the measured downstream temperature has fallen, with respect to the measured upstream temperature, beyond what is reasonably expected under the circumstances, controller <b>32</b> can determine that temperature sensors <b>50</b>, <b>54</b> are swapped. For instance, controller <b>32</b> may determine that temperature sensors <b>50</b>, <b>54</b> are swapped if the following inequality (2) is satisfied:
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>T</i><sub>down</sub><i>&#x2212;T</i><sub>up</sub><i>&#x3c;T</i><sub>threshold</sub>,&#x2003;&#x2003;(2)<?in-line-formulae description="In-line Formulae" end="tail"?>
+<br/>
+where T<sub>down </sub>is the downstream temperature measured by downstream temperature sensor <b>54</b>; T<sub>up </sub>is the upstream temperature measured by upstream temperature sensor <b>54</b>; and T<sub>threshold </sub>is a specified threshold stored in memory or computed by controller <b>32</b> and known to indicate that temperature sensors <b>50</b>, <b>54</b> are swapped given the circumstances under which T<sub>down </sub>and T<sub>up </sub>are measured and compared (i.e., at the particular point during cool-down). T<sub>threshold </sub>may be the same as or different than the threshold discussed above with respect to inequality (1).
+</p>
+<p id="p-0051" num="0050">Controller <b>32</b> may be configured to take one or more precautions if it is determined that temperature sensors <b>50</b>, <b>54</b> are swapped; that is, if inequality (1) or (2) is satisfied, depending on whether the temperature sensor <b>50</b>, <b>54</b> swap check was performed at the onset or completion of regeneration, respectively. For instance, controller <b>32</b> may be in communication with a display <b>70</b>. Display <b>70</b> may be positioned at any suitable location on machine <b>10</b>, e.g., in operator station <b>11</b>. Display <b>70</b> may be any kind of display, including a screen, such as, for example, a cathode ray tube (CRTs), a liquid crystal display (LCDs), a plasma screen, or the like. Display <b>70</b> may be configured to display information about operating parameters of system <b>16</b>. Display <b>70</b> may include a warning indicator <b>72</b> (e.g., a warning lamp, warning message, LEDs, etc.). Controller <b>32</b> may be configured to illuminate warning indicator <b>72</b> upon a determination that sensors <b>50</b>, <b>54</b> are swapped. Alternatively or additionally, controller <b>32</b> may be configured to sound an audible alert upon such a determination. Controller <b>32</b> may also be configured to provide other visual feedback regarding operating parameters of system <b>16</b> or machine <b>10</b> via display <b>70</b>, if desired.</p>
+<p id="p-0052" num="0051">In another aspect, controller <b>32</b> may be configured to log a fault in response to a determination that temperature sensors <b>50</b>, <b>54</b> are swapped. For instance, controller <b>32</b> may store a fault code indicating that temperature sensors <b>50</b>, <b>54</b> are swapped in a machine operation log. The fault code may be used by a technician to diagnose and remedy the problem during maintenance or repair of machine <b>10</b>. Alternatively or additionally, controller <b>32</b> may be configured to terminate a current regeneration event and/or preclude further regeneration events until the swapped temperature condition is remedied (e.g., until a technician repairs and resets the condition).</p>
+<p id="p-0053" num="0052">In yet another aspect, controller <b>32</b> may be further configured to remedy the improperly swapped sensor condition by swapping the temperature signal indications received from temperature sensors <b>50</b> and <b>54</b> via communication lines <b>74</b> and <b>76</b>, respectively. Until the swapped sensor condition is corrected, e.g., by a technician servicing machine <b>10</b>, controller <b>32</b> may use the swapped temperature signal indications in subsequent determinations. For instance, controller <b>32</b> may use the swapped temperature signal indications to control regeneration events as discussed above.</p>
+<p id="p-0054" num="0053">It is to be appreciated that controller <b>32</b> may be configured to similarly manage other faults detected during operation of machine <b>10</b>. For instance, controller <b>32</b> may be configured to log faults when the downstream exhaust temperature exceeds a predetermined temperature or when the downstream exhaust temperature exceeds the upstream exhaust temperature by more than a predetermined amount. Controller <b>32</b> may also be configured to terminate the regeneration process if the number of faults reaches a predetermined value (e.g., when three faults have occurred).</p>
+<heading id="h-0006" level="1">INDUSTRIAL APPLICABILITY</heading>
+<p id="p-0055" num="0054">The disclosed particulate trap regeneration temperature control system may be useful to enhance exhaust emissions control for combustion engines. In particular, the disclosed system may be useful to detect situations in which an upstream particulate trap temperature sensor and a downstream particulate trap temperature sensor are swapped due to improper installation. By taking precautions in response to such detected conditions, controlling regeneration events based on improper temperature indications may be avoided. Thus, excessive or insufficient regeneration events; failure of the after-treatment device; decreased fuel efficiency; and/or harmful emissions may be reduced. Operation <b>80</b> of the disclosed system <b>16</b> will now be explained.</p>
+<p id="p-0056" num="0055">Referring to <figref idref="DRAWINGS">FIG. 3</figref>, after machine <b>10</b> has been started (step <b>82</b>), controller <b>32</b> may wait until a regeneration event is initiated or completed in accordance with the monitored parameters, as discussed above, depending on whether the first strategy or the second strategy is implemented, respectively (step <b>84</b>). Immediately after a regeneration event is started&#x2014;e.g., after burner assembly <b>30</b> is engaged or catalyst is introduced and ignited in exhaust flow&#x2014;or completed, controller <b>32</b> may begin to check whether temperature sensors <b>50</b>, <b>54</b> are improperly swapped (step <b>86</b>).</p>
+<p id="p-0057" num="0056">In particular, controller <b>32</b> may read the temperature indication signals provided by upstream temperature sensor <b>50</b> and downstream temperature sensor <b>54</b> to determine if the upstream and downstream temperatures are within the specified range suitable for initiating checking whether temperature sensors <b>50</b>, <b>54</b> are improperly swapped (step <b>88</b>). For instance, in implementing the first strategy, controller <b>32</b> may determine whether the upstream and downstream temperatures are sufficiently cool to allow a swap to be detected, as discussed above (e.g., less than 200&#xb0; C.). In implementing the second strategy, controller <b>32</b> may determine whether the upstream and downstream temperatures are about equal to ensure that the completed regeneration event heated the upstream and downstream temperatures to a steady state.</p>
+<p id="p-0058" num="0057">If the measured upstream and downstream temperatures are determined to be within range in step <b>88</b>, controller <b>32</b> may wait until the measured upstream and/or downstream temperatures have risen or fallen by the specified amount, depending on whether the first strategy or the second strategy is implemented, respectively (step <b>90</b>). If the upstream and/or downstream temperatures have risen or fallen by the specified amount, controller <b>32</b> may determine whether inequality (1) T<sub>down</sub>&#x2212;T<sub>up</sub>&#x3e;T<sub>threshold </sub>or inequality (2) T<sub>down</sub>&#x2212;T<sub>up</sub>&#x3c;T<sub>threshold </sub>is satisfied, respectively, as discussed above (step <b>92</b>).</p>
+<p id="p-0059" num="0058">If controller <b>32</b> determines in step <b>92</b> that inequality (1) or inequality (2) is satisfied, controller <b>32</b> may decide that upstream temperature sensor <b>50</b> and downstream temperature sensor <b>54</b> are swapped and take a precaution in response thereto (step <b>94</b>). As discussed above, the precaution may include, for example, logging a fault in a machine operation log; terminating the current regeneration event; disabling future regeneration events; alerting the machine operator (e.g., via display <b>70</b>); and/or swapping the upstream and downstream temperature indication signals receive by controller <b>32</b> via communication lines <b>74</b>, <b>76</b>, and controlling and/or monitoring subsequent regeneration events and/or make other temperature determinations using the swapped indications.</p>
+<p id="p-0060" num="0059">By detecting when the upstream particulate trap temperature sensor and the downstream particulate trap temperature sensor have been swapped due to improper installation and taking precautions in response thereto, the disclosed system may prevent malfunctioning of an exhaust after-treatment system. Specifically, the performance and the longevity of the particulate trap may be preserved and excessive or insufficient regeneration events may be avoided. Further, by preemptively detecting and correcting a temperature sensor swap conditions, operating the machine in this undesirable state may be avoided.</p>
+<p id="p-0061" num="0060">It will be apparent to those having ordinary skill in the art that various modifications and variations can be made to the disclosed particulate trap regeneration temperature control system without departing from the scope of the disclosure. Other embodiments will become apparent upon consideration of the specification and practice of the disclosure. For example, step <b>88</b> discussed above may be replaced with a step of waiting for or initiating another high machine operating state (e.g., high engine speed) that may cause the upstream and/or downstream temperatures to rise suddenly and allow the measured upstream and downstream temperatures to be compared in view of the thermal inertia of the after-treatment device. It is intended that the specification and examples be considered as exemplary only, with a true scope of the invention being indicated by the following claims and their equivalents.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. An exhaust after-treatment system, comprising:
+<claim-text>an exhaust-treatment device positioned in an exhaust flow of an engine;</claim-text>
+<claim-text>an upstream temperature sensor disposed to measure a temperature of the exhaust flow upstream of the exhaust-treatment device;</claim-text>
+<claim-text>a downstream temperature sensor disposed to measure a temperature of the exhaust flow downstream of the exhaust-treatment device; and</claim-text>
+<claim-text>a controller receiving from the upstream and downstream temperature sensors indications of the upstream and downstream temperatures, the controller being configured to:
+<claim-text>compare the upstream and downstream temperatures;</claim-text>
+<claim-text>determine if the upstream and downstream temperature sensors are improperly swapped based on the comparison; and</claim-text>
+<claim-text>trigger a precaution if it is determined that the upstream and downstream temperature sensors are improperly swapped.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The system of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein triggering a precaution includes at least one of logging a fault indicating that the upstream and downstream temperature sensors are improperly swapped, terminating a current exhaust-treatment device regeneration event, and precluding future exhaust-treatment device regeneration events.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The system of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further including a regeneration device disposed with the exhaust-treatment device and configured to reduce buildup of particulate matter within the exhaust-treatment device, wherein:
+<claim-text>triggering a precaution includes swapping the indications of the upstream and downstream temperatures, and</claim-text>
+<claim-text>the controller is in communication with and configured to control the regeneration device based on the swapped upstream and downstream temperature indications.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The system of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the controller is further configured to compare the upstream and downstream temperatures at the onset of or upon the conclusion of a exhaust-treatment device regeneration event.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The system of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the controller is further configured to wait until either or both of the upstream and downstream temperatures have risen or fallen by a specified amount, or to wait a specified amount of time since the onset of or the completion of the exhaust-treatment device regeneration event, before comparing the upstream and downstream temperatures.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The system of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein it is determined that the upstream and downstream temperature sensors are improperly swapped if the difference between the downstream temperature and the upstream temperature is above or below a threshold.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. A method for an exhaust treatment system, comprising:
+<claim-text>using an exhaust-treatment device in an exhaust flow of an engine;</claim-text>
+<claim-text>receiving from an upstream temperature sensor an indication of a temperature of the exhaust flow upstream of the exhaust-treatment device;</claim-text>
+<claim-text>receiving from a downstream temperature sensor an indication of a temperature of the exhaust flow downstream of the exhaust-treatment device;</claim-text>
+<claim-text>comparing the upstream and downstream temperatures;</claim-text>
+<claim-text>determining, by a controller associated with the exhaust treatment system, if the upstream and downstream temperature sensors are improperly swapped based on the comparison; and</claim-text>
+<claim-text>triggering a precaution if it is determined that the upstream and downstream temperature sensors are improperly swapped.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The method of <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein triggering a precaution includes at least one of logging a fault indicating that the upstream and downstream temperature sensors are improperly swapped, terminating a current exhaust-treatment device regeneration event, and precluding future exhaust-treatment device regeneration event.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The method of <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein triggering a precaution includes:
+<claim-text>swapping the indications of the upstream and downstream temperatures, and</claim-text>
+<claim-text>controlling regeneration of the exhaust-treatment device based on the swapped upstream and downstream temperature indications.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The method of <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the comparing is performed at the onset of a exhaust-treatment device regeneration event.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The method of <claim-ref idref="CLM-00010">claim 10</claim-ref>, further including waiting until either or both of the upstream and downstream temperatures have risen by a specified amount, or waiting a specified amount of time since the onset of the exhaust-treatment device regeneration event, before comparing the upstream and downstream temperatures.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The method of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein it is determined that the upstream and downstream temperature sensors are improperly swapped if the difference between the downstream temperature and the upstream temperature is above a threshold.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The method of <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the comparing is performed upon the conclusion of a exhaust-treatment device regeneration event.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The method of <claim-ref idref="CLM-00013">claim 13</claim-ref>, further including waiting until either or both of the upstream and downstream temperatures have fallen by a specified amount, or waiting a specified amount of time since the completion of the exhaust-treatment device regeneration event, before comparing the upstream and downstream temperatures.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The method of <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein it is determined that the upstream and downstream temperature sensors are improperly swapped if the difference between the downstream temperature and the upstream temperature is below a threshold.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. A machine, comprising:
+<claim-text>a combustion engine configured to power operations of the machine; and</claim-text>
+<claim-text>an exhaust after-treatment system, comprising:
+<claim-text>an exhaust-treatment device in an exhaust flow of an engine;</claim-text>
+<claim-text>an upstream temperature sensor disposed to measure a temperature of the exhaust flow upstream of the exhaust-treatment device;</claim-text>
+<claim-text>a downstream temperature sensor disposed to measure a temperature of the exhaust flow downstream of the exhaust-treatment device; and</claim-text>
+<claim-text>a controller in communication to receive from the upstream and downstream temperature sensors indications of the upstream and downstream temperatures, the controller being configured to:
+<claim-text>compare the upstream and downstream temperatures;</claim-text>
+<claim-text>determine if the upstream and downstream temperature sensors are improperly swapped based on the comparison; and</claim-text>
+<claim-text>trigger a precaution if it is determined that the upstream and downstream temperature sensors are improperly swapped.</claim-text>
+</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The machine of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein triggering a precaution includes at least one of logging a fault indicating that the upstream and downstream temperature sensors are improperly swapped, terminating a current regeneration event, and precluding future exhaust-treatment device regeneration events.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The machine of <claim-ref idref="CLM-00016">claim 16</claim-ref>, further including a regeneration device disposed with the exhaust-treatment device and configured to reduce buildup of particulate matter within the exhaust-treatment device, wherein:
+<claim-text>triggering a precaution includes swapping the indications of the upstream and downstream temperatures, and</claim-text>
+<claim-text>the controller is in communication with and configured to control the regeneration device based on the swapped upstream and downstream temperature indications.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The machine of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the controller is further configured to compare the upstream and downstream temperatures at the onset of or upon the conclusion of a exhaust-treatment device regeneration event.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The machine of <claim-ref idref="CLM-00019">claim 19</claim-ref>, wherein:
+<claim-text>the controller is further configured to wait until either or both of the upstream and downstream temperatures have risen or fallen by a specified amount prior to comparing the upstream and downstream temperatures, and</claim-text>
+<claim-text>it is determined that the upstream and downstream temperature sensors are improperly swapped if the difference between the measured downstream temperature and the measured upstream temperature is above or below a threshold. </claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

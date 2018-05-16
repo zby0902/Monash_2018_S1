@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891036-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891036</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11376610</doc-number>
+<date>20060314</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>1319</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>47</class>
+<subclass>L</subclass>
+<main-group>11</main-group>
+<subgroup>283</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 15 503</main-classification>
+<further-classification> 15 29</further-classification>
+<further-classification> 15 501</further-classification>
+<further-classification>239722</further-classification>
+<further-classification>239754</further-classification>
+</classification-national>
+<invention-title id="d2e53">Multi-function power washer</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>1884871</doc-number>
+<kind>A</kind>
+<name>Riebel, Jr.</name>
+<date>19321000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>3331090</doc-number>
+<kind>A</kind>
+<name>Reiber et al.</name>
+<date>19670700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3631558</doc-number>
+<kind>A</kind>
+<name>Kovacevic</name>
+<date>19720100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 15 503</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>3977602</doc-number>
+<kind>A</kind>
+<name>Kirch</name>
+<date>19760800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>4766638</doc-number>
+<kind>A</kind>
+<name>McDowell</name>
+<date>19880800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>4903364</doc-number>
+<kind>A</kind>
+<name>Long</name>
+<date>19900200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>5312044</doc-number>
+<kind>A</kind>
+<name>Eaton</name>
+<date>19940500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>5421520</doc-number>
+<kind>A</kind>
+<name>Simonette et al.</name>
+<date>19950600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>5494414</doc-number>
+<kind>A</kind>
+<name>Steinhart et al.</name>
+<date>19960200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>5538402</doc-number>
+<kind>A</kind>
+<name>McKenney</name>
+<date>19960700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>6012645</doc-number>
+<kind>A</kind>
+<name>Poppitz</name>
+<date>20000100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>6295692</doc-number>
+<kind>B1</kind>
+<name>Shideler</name>
+<date>20011000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>6497001</doc-number>
+<kind>B2</kind>
+<name>Di Nunzio et al.</name>
+<date>20021200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>6695235</doc-number>
+<kind>B2</kind>
+<name>Faller et al.</name>
+<date>20040200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>6776363</doc-number>
+<kind>B1</kind>
+<name>Falletta et al.</name>
+<date>20040800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>6866486</doc-number>
+<kind>B2</kind>
+<name>Dexter et al.</name>
+<date>20050300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>6929198</doc-number>
+<kind>B2</kind>
+<name>Dexter</name>
+<date>20050800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>6945261</doc-number>
+<kind>B2</kind>
+<name>Wadsworth et al.</name>
+<date>20050900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>7121484</doc-number>
+<kind>B2</kind>
+<name>Daley</name>
+<date>20061000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>7198204</doc-number>
+<kind>B2</kind>
+<name>Bennett et al.</name>
+<date>20070400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>7217053</doc-number>
+<kind>B2</kind>
+<name>Alexander et al.</name>
+<date>20070500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>7308900</doc-number>
+<kind>B2</kind>
+<name>Otterson</name>
+<date>20071200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>7472842</doc-number>
+<kind>B2</kind>
+<name>Gilpatrick et al.</name>
+<date>20090100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>239397</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>2003/0062430</doc-number>
+<kind>A1</kind>
+<name>Cook</name>
+<date>20030400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>2003/0129065</doc-number>
+<kind>A1</kind>
+<name>Hu</name>
+<date>20030700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>2004/0046044</doc-number>
+<kind>A1</kind>
+<name>Bennett et al.</name>
+<date>20040300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>2004/0140379</doc-number>
+<kind>A1</kind>
+<name>Dexter</name>
+<date>20040700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>2005/0145270</doc-number>
+<kind>A1</kind>
+<name>Ray</name>
+<date>20050700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>2005/0189437</doc-number>
+<kind>A1</kind>
+<name>Alexander et al.</name>
+<date>20050900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>2006/0101606</doc-number>
+<kind>A1</kind>
+<name>Gordon et al.</name>
+<date>20060500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>2006/0102212</doc-number>
+<kind>A1</kind>
+<name>Leasure et al.</name>
+<date>20060500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>2006/0102745</doc-number>
+<kind>A1</kind>
+<name>Dexter</name>
+<date>20060500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>2006/0108449</doc-number>
+<kind>A1</kind>
+<name>Sodemann et al.</name>
+<date>20060500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>2006/0130884</doc-number>
+<kind>A1</kind>
+<name>Liao</name>
+<date>20060600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>2006/0156497</doc-number>
+<kind>A1</kind>
+<name>Burkholder et al.</name>
+<date>20060700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00036">
+<document-id>
+<country>US</country>
+<doc-number>2006/0275146</doc-number>
+<kind>A1</kind>
+<name>Williams</name>
+<date>20061200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00037">
+<document-id>
+<country>US</country>
+<doc-number>2007/0169796</doc-number>
+<kind>A1</kind>
+<name>Johnson et al.</name>
+<date>20070700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>45</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 15 24</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 15 29</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 15 501</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 15 503</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>239722</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>239754</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>239525</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>239526</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>239530</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>239532</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>14</number-of-drawing-sheets>
+<number-of-figures>37</number-of-figures>
+</figures>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60664665</doc-number>
+<date>20050318</date>
+</document-id>
+</us-provisional-application>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20060254008</doc-number>
+<kind>A1</kind>
+<date>20061116</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Hahn</last-name>
+<first-name>Klaus Karl</first-name>
+<address>
+<city>Braselton</city>
+<state>GA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Long</last-name>
+<first-name>Charles Keith</first-name>
+<address>
+<city>Seneca</city>
+<state>SC</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Ayers</last-name>
+<first-name>Thomas R.</first-name>
+<address>
+<city>Hoschton</city>
+<state>GA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Michael Best &#x26; Friedrich LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Techtronic Outdoor Products Technology Limited</orgname>
+<role>03</role>
+<address>
+<city>Hamilton</city>
+<country>BM</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Chin</last-name>
+<first-name>Randall</first-name>
+<department>3723</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A power washer is provided with a transport frame, a wash unit and a gun. The wash unit and the gun may be separated from the transport frame to be used in multiple modes. Possible modes include a walk-behind mode, a spray mode and hand wash modes. A quick connection is also provided to make it easier to disconnect and reconnect various components of the power washer.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="148.00mm" wi="202.35mm" file="US07891036-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="245.03mm" wi="136.14mm" file="US07891036-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="225.13mm" wi="164.59mm" file="US07891036-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="261.96mm" wi="143.26mm" file="US07891036-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="215.98mm" wi="176.53mm" file="US07891036-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="236.98mm" wi="139.53mm" file="US07891036-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="209.04mm" wi="166.20mm" file="US07891036-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="255.69mm" wi="146.64mm" orientation="landscape" file="US07891036-20110222-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="180.42mm" wi="139.45mm" orientation="landscape" file="US07891036-20110222-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="194.39mm" wi="175.77mm" orientation="landscape" file="US07891036-20110222-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="214.04mm" wi="164.76mm" orientation="landscape" file="US07891036-20110222-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="235.20mm" wi="171.37mm" orientation="landscape" file="US07891036-20110222-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="235.29mm" wi="141.99mm" orientation="landscape" file="US07891036-20110222-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="230.97mm" wi="139.62mm" orientation="landscape" file="US07891036-20110222-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="176.61mm" wi="140.63mm" file="US07891036-20110222-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<p id="p-0002" num="0001">This application claims priority to U.S. Provisional Application No. 60/664,665, filed Mar. 18, 2005, which is hereby incorporated by reference herein.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND</heading>
+<p id="p-0003" num="0002">The present invention relates generally to a mobile apparatus with a frame and wheels for transporting the apparatus, and more particularly, to a mobile power washer.</p>
+<p id="p-0004" num="0003">Power washers are commonly used to clean a variety of surfaces using high pressure liquid which is sprayed onto a wash surface. Most power washers are used to spray water which may include a cleaning solution or other additives. However, power washers may be used with a number of different liquids and may be used in a variety of applications. Typically, power washers include a frame that is mobile to allow the power washer to be moved easily from place to place. The frame normally supports the fluid pump and the engine, or motor, which powers the pump. Since the pump and the engine are usually relatively heavy, the frame typically includes wheels that allow the frame to be rolled by pushing or pulling on a handle. For example, in one conventional arrangement, the frame is provided with two wheels at the rear end of the frame and two wheels at the forward end of the frame.</p>
+<p id="p-0005" num="0004">Most current power washers are limited in the ways in which the power washer may be used. For example, many power washers are single-use machines equipped with a gun that sprays high pressure fluid from the gun. These types of power washers are commonly used to clean floors or walls by waving the gun toward the wash surface in order to direct high pressure spray at the area being cleaned. However, these devices are generally not designed to be used in different modes of operation and the flexibility of these devices is limited.</p>
+<p id="p-0006" num="0005">Accordingly, it is apparent to the inventors that an improved power washer is needed. As described more fully below, the inventors have devised a number of improvements that may be useful in a variety of power washers.</p>
+<heading id="h-0002" level="1">BRIEF SUMMARY</heading>
+<p id="p-0007" num="0006">A mobile power washer is described that may be used in more than one mode of operation. For example, the power washer may be used in a walk behind mode in which the user pushes the handle of the transport frame to move the power washer while the wash unit cleans floor surfaces. The power washer may also be used in a spray mode in which the user waves a gun to direct spray toward the surface being cleaned. The power washer may also be used in a hand wash mode in which the gun is connected to the wash unit through a wand. The power washer may also be used in a vertical hand wash mode in which the gun is directly connected to the wash unit. It is also possible to design the power washer with more or less modes of operation. Additional details are described below.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF SEVERAL VIEWS OF THE DRAWINGS</heading>
+<p id="p-0008" num="0007">The invention may be more fully understood by reading the following description in conjunction with the drawings, in which:</p>
+<p id="p-0009" num="0008"><figref idref="DRAWINGS">FIG. 1</figref> is a perspective view of one embodiment of a power washer;</p>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIG. 2</figref> is a side view of a portion of the power washer;</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. 3</figref> is a bottom view of the wash unit of the power washer;</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. 4</figref> is a side cross sectional view of the wash unit;</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 5</figref> is a side view of a spray nozzle of the wash unit;</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 6</figref> is a perspective view of the wash unit being separated from the transport frame of the power washer;</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 7</figref> is a perspective view of the wash unit and the transport frame, showing a quick connection between the wash unit and the transport frame;</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 8A-8C</figref> are side elevational views of the quick connection;</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 9</figref> is a perspective view of the power washer, showing the wash unit being used with the transport frame;</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 10</figref> is a perspective view of the power washer, showing the gun being used with a wand and a nozzle;</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 11</figref> is a perspective view of the power washer, showing the gun being used with the wand and the washer unit;</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 12</figref> is a perspective view of the power washer, showing the gun being used with the wash unit without using the wand;</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 13</figref> is a perspective view of another embodiment of the power washer;</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 14</figref> is a side view of the power washer shown in <figref idref="DRAWINGS">FIG. 13</figref>, showing the wash unit separated from the transport frame;</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 15</figref> is a perspective view of a power washer, showing a fixed spray bar;</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 16A</figref> is a top view of a wash unit, showing a fixed spray bar;</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 16B</figref> is a side view of the wash unit in <figref idref="DRAWINGS">FIG. 16A</figref>, showing the fixed spray bar;</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 17A</figref> is a top view of a wash unit, showing a fixed spray bar and a roller scrubbing brush;</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 17B</figref> is a side view of the wash unit in <figref idref="DRAWINGS">FIG. 17A</figref>, showing the fixed spray bar and the roller scrubbing brush;</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 18A</figref> is a top view of a wash unit, showing a fixed spray bar and two roller scrubbing brushes;</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 18B</figref> is a side view of the wash unit in <figref idref="DRAWINGS">FIG. 18A</figref>, showing the fixed spray bar and the two roller scrubbing brushes;</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 19A</figref> is a top view of a wash unit, showing a fixed spray bar and three disk type rotating brushes;</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. 19B</figref> is a side view of the wash unit in <figref idref="DRAWINGS">FIG. 19A</figref>, showing the fixed spray bar and the three disk type rotating brushes;</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. 20A</figref> is a top view of a wash unit, showing a fixed spray bar and three larger disk type rotating brushes;</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. 20B</figref> is a side view of the wash unit in <figref idref="DRAWINGS">FIG. 20A</figref>, showing the fixed spray bar and the three larger disk type rotating brushes;</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. 21</figref> is a perspective view of a power washer with a detergent tank;</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. 22</figref> is a perspective view of a wash unit, showing an integrated detergent tank;</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. 23</figref> is a perspective view of a wash unit, showing a removable detergent tank;</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. 24</figref> is a side view of a power washer, showing a height adjustable handle;</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. 25</figref> is a side view of the power washer, showing a double folding handle;</p>
+<p id="p-0039" num="0038"><figref idref="DRAWINGS">FIG. 26A</figref> is a rear perspective view of the power washer, showing a soft basket for storing a hose;</p>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIG. 26B</figref> is a rear perspective view of the power washer, showing a hard tray for storing a hose;</p>
+<p id="p-0041" num="0040"><figref idref="DRAWINGS">FIG. 26C</figref> is a rear perspective view of the power washer, showing a hook on the handle for hanging a hose;</p>
+<p id="p-0042" num="0041"><figref idref="DRAWINGS">FIG. 26D</figref> is a rear perspective view of the power washer, showing a series of hooks on a fixed portion of the frame for hanging and/or wrapping a hose; and</p>
+<p id="p-0043" num="0042"><figref idref="DRAWINGS">FIG. 27</figref> is a front perspective view of another power washer.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DESCRIPTION</heading>
+<p id="p-0044" num="0043">Referring to the drawings, a power washer <b>10</b> is shown in <figref idref="DRAWINGS">FIG. 1</figref> which may be used to clean floors and other surfaces. As described further below, one of the advantages of the power washer <b>10</b> is that it may be reconfigured for multiple uses. In general, the power washer <b>10</b> includes a transport frame <b>12</b> with a pair of rear wheels <b>14</b> and a pair of front wheels <b>16</b>. Preferably, the rear wheels <b>14</b> are larger than the front wheels <b>16</b> to improve maneuverability of the power washer <b>10</b>. For example, the rear wheels <b>14</b> may be 10&#x2033; in diameter or larger. This raises the height of the rear axle and generally makes it easier for the operator to maneuver the power washer <b>10</b>. Preferably the front wheels <b>16</b> are casters that freely pivot about a vertical axis. This also improves maneuverability. The front wheels could also be substituted with fixed wheels (height adjustable) or simple feet with wear pads. The transport frame <b>12</b> also includes a rearwardly extending handle <b>18</b> with a transverse handle grip <b>20</b>. As shown in <figref idref="DRAWINGS">FIG. 9</figref>, the handle <b>18</b> and handle grip <b>20</b> are typically used by the operator to push and maneuver the transport frame <b>12</b>. As shown in <figref idref="DRAWINGS">FIG. 24</figref>, the handle <b>152</b> may be height adjustable for different user heights and spacing from the transport frame <b>12</b> for better handling during cleaning in the walk-behind mode. As shown in <figref idref="DRAWINGS">FIG. 25</figref>, the handle <b>152</b> may also fold with single or double joints <b>154</b>, <b>160</b> to rest over the transport frame <b>12</b> for space-saving storage. The fold-mechanism may be a star handle type as sometimes found on lawnmowers or other mechanisms that allow quick-release. The height adjustment may be a push-pin type lock or other means.</p>
+<p id="p-0045" num="0044">The power washer <b>10</b> also includes a wash unit <b>22</b>. A variety of different types of wash units <b>22</b> may be used. For example, as shown in <figref idref="DRAWINGS">FIGS. 3-4</figref>, the wash unit may have a rotating spray bar. As shown in <figref idref="DRAWINGS">FIGS. 15-20B</figref>, the wash unit may also have a fixed spray bar <b>110</b> with two or more nozzles <b>118</b> attached at specified distances facing toward the floor at an angle. The spray bar may also be height adjustable. As shown in <figref idref="DRAWINGS">FIGS. 17A-20B</figref>, the wash unit may also have roller scrubbing brushes or disk type rotating brushes or a combination of one or more cleaning structures. The brushes may be driven by a gear and/or belt system connected to the drive shaft of the engine or motor or may be self-propelled using water pressure or the push-motion of the power washer <b>10</b>. The brushes may also be quick-removable for easy changing when they are worn out. In general, wash units <b>22</b> are used to clean various surfaces by dispensing a fluid onto the surface either at high pressure through a nozzle or through a scrubbing brush or other dispensing structure. As shown in <figref idref="DRAWINGS">FIGS. 3 through 5</figref>, the wash unit <b>22</b> may include a rotating spray bar <b>24</b>. In general, a spray diameter of about 10&#x2033; to 32&#x2033; is preferred. The spray bar <b>24</b> may be mounted within a cover <b>26</b> so that the spray bar <b>24</b> is positioned generally parallel to the surface to be washed. High pressure nozzles <b>28</b> are positioned at opposing ends of the spray bar <b>24</b> to dispense fluid downward toward the surface being washed. Although a single spray bar <b>24</b> with two opposing nozzles <b>28</b> is shown, it should be understood that other variations with multiple spray bars and numerous nozzles are possible. As shown in <figref idref="DRAWINGS">FIG. 4</figref>, a skirt <b>30</b> may be provided around the bottom edge of the cover <b>26</b> to contact the surface being washed. This keeps the spray fluid inside of the cover <b>26</b> during washing to prevent overspray. Preferably, the skirt <b>30</b> is made of brush fibers, elastomer or the like. The position of the spray bar <b>24</b> may also be vertically adjustable relative to the cover <b>26</b> as shown by the vertical arrow <b>32</b> in <figref idref="DRAWINGS">FIG. 4</figref>. This allows the distance between the spray bar <b>24</b> and the wash surface to be adjusted to increase or decrease spray intensity. In addition, as shown by the top vertical arrow <b>34</b> in <figref idref="DRAWINGS">FIG. 4</figref>, the position of the cover <b>26</b> may be vertically adjusted. This allows the bottom edge of the cover <b>26</b> and the spray bar <b>24</b> to be positioned closer or farther away from the wash surface as desired. As shown in <figref idref="DRAWINGS">FIG. 5</figref>, quick couplers <b>36</b> may be provided for the spray nozzles <b>28</b> in the wash unit <b>22</b>. The quick couplers <b>36</b> may be provided with different spray patterns and different spray angles from the wash surface. As a result, the operator may easily change the spray pattern or spray angle without time consuming disassembly and reassembly of the nozzle components.</p>
+<p id="p-0046" num="0045">As shown in <figref idref="DRAWINGS">FIG. 2</figref>, the power washer <b>10</b> includes a power source <b>38</b>, such as a gas engine or electric motor or the like, and a fluid pump <b>40</b>. The fluid pump typically provides a flow rate between 0.5 gal/min. and 5 gal/min. and pressure between 1,000 psi and 5,000 psi. However, other ranges may be possible. As shown in <figref idref="DRAWINGS">FIG. 2</figref>, the pump <b>40</b> is located below the power source <b>38</b> and is driven by the power source <b>38</b> through a vertical drive housing <b>42</b>. However, other arrangements are also possible. For example, the pump <b>40</b> could be positioned behind the power source <b>38</b> and could be driven through a horizontal drive housing. A low pressure hose <b>44</b> is connected to the pump inlet <b>46</b>. Typically, the low pressure hose <b>44</b> is connected to a conventional water outlet or faucet to supply water to the power washer <b>10</b>. Preferably, an elastic, coiled hose is used for the low pressure hose <b>44</b> so that the hose will self-coil and uncoil as the operator maneuvers the power washer <b>10</b>. This provides added convenience by helping to keep the low pressure hose <b>44</b> out of the way during maneuvering. However, a regular straight garden hose may also be used. The pump outlet <b>48</b> is connected to a high pressure hose <b>50</b>. As shown in <figref idref="DRAWINGS">FIG. 1</figref>, the high pressure hose <b>50</b> is connected to a gun <b>52</b>, which is described further below. Because the gun <b>52</b> normally is not separated from the high pressure hose <b>50</b>, the gun <b>52</b> may be permanently attached to the high pressure hose <b>50</b>. Typically, the gun may have either a screw type or quick-connect connection between the gun <b>52</b> and the high-pressure hose <b>50</b>. The quick-connect connection may be of the type described below or may be a bayonet type quick-connect connection. Preferably, the high pressure hose <b>50</b> is provided as a long length of hose, which may be wrapped in a storage coil as shown in <figref idref="DRAWINGS">FIG. 1</figref>. A basket <b>54</b> positioned behind the power source <b>38</b> and within the handle <b>18</b> may be provided to contain the high pressure hose <b>50</b>. Alternatively, a hose reel, plastic tray, hook, bracket, hook and loop strap and other means may also be used to store the hose. As described below, a length of at least 5 feet is desirable for the high pressure hose <b>50</b> to allow the gun <b>52</b> to be used away from the transport frame <b>12</b>. As further shown in <figref idref="DRAWINGS">FIG. 2</figref>, a pick-up hose <b>56</b> is also provided at the pump outlet <b>48</b> as a detergent intake. The pick-up hose <b>56</b> is typically used to draw detergent or other chemicals <b>58</b> into the high pressure hose <b>50</b> for dispersion with the water or other fluid pressured by the pump <b>40</b>, such as a low pressure venturi type system. The power washer <b>10</b> may include on-board storage for conventional detergent bottles and containers. The power washer <b>10</b> may also be provided with a fixed or removable container that detergents can be poured into. For example, the pick-up hose <b>56</b> may be used to conveniently apply detergents out of this container.</p>
+<p id="p-0047" num="0046">The power washer <b>10</b> also includes a gun <b>52</b> that may be secured to the handle <b>18</b> by clips <b>60</b> or other means either above or below the handle <b>18</b>. The gun <b>52</b> includes a conventional fluid valve, or manifold valve, in the handle portion <b>62</b> that is controlled by a trigger <b>64</b> with child-safety lock-out. Thus, when the trigger <b>64</b> is actuated, fluid flows through the valve and the gun <b>52</b>. However, when the trigger <b>64</b> is at rest, fluid flow is blocked and does not flow through the gun <b>52</b>. Preferably, the gun <b>52</b> is positioned on the handle <b>18</b> so that the trigger <b>64</b> is near the handle grip <b>20</b> so that the user can actuate the trigger <b>64</b> at the same time the user grasps the handle grip <b>20</b>. In <figref idref="DRAWINGS">FIG. 1</figref>, a hose <b>66</b> secured to the transport frame <b>12</b> connects the gun <b>52</b> to the wash unit <b>22</b>. As shown in <figref idref="DRAWINGS">FIG. 1</figref>, a wand <b>68</b> may be stored by securing the wand <b>68</b> to the power washer handle <b>18</b> with clips <b>70</b> or other means either above or below the handle <b>18</b>. The wand <b>68</b> may also be stored elsewhere on the power washer <b>10</b>. Alternatively, the wand <b>68</b> may be connected between the gun <b>52</b> and the hose <b>66</b> which is secured to the transport frame <b>12</b>. As shown in <figref idref="DRAWINGS">FIG. 27</figref> and described below, the gun may also be permanently connected to the transport frame with an integral design. The high-pressure hose may be connected to the gun through a quick-connect type connection. The power washer may also be equipped with an additional gun that can be connected to the high-pressure hose and wand for spray, hand wash or vertical hand wash modes.</p>
+<p id="p-0048" num="0047">One feature of the power washer <b>10</b> is that the wash unit <b>22</b> may be disconnected from the transport frame <b>12</b> for use in other modes as described below. For example, as shown in <figref idref="DRAWINGS">FIG. 6</figref>, an operator may separate the wash unit <b>22</b> from underneath the transport frame <b>12</b>. A handle <b>72</b> may be provided on the top of the wash unit <b>22</b> to allow the operator to grasp the wash unit <b>22</b> during separation or for better control while cleaning vertical surfaces. In the arrangement shown in <figref idref="DRAWINGS">FIGS. 6 and 7</figref>, the front wheels <b>16</b> of the power washer <b>10</b> remain with the transport frame <b>12</b> after separation of the wash unit <b>22</b>. Alternatively, the front wheels <b>16</b>, <b>96</b> could be substituted with feet and wear pads or skids. However, as described further below and shown in <figref idref="DRAWINGS">FIGS. 13 and 14</figref>, the front wheels <b>96</b> may be integral with the wash unit <b>92</b>. As shown in <figref idref="DRAWINGS">FIG. 7</figref>, fluid from the high pressure hose <b>50</b> and the hose <b>66</b> secured to the frame <b>12</b> is preferably supplied to the wash unit <b>22</b> through a quick connection <b>74</b>. This allows the operator to quickly and easily disconnect, and reconnect, the wash unit <b>22</b> from the transport frame <b>12</b>. Other types of connections, such as screw connections or high-pressure bayonet-type connections as sometimes found on electric pressure washers, may also be used.</p>
+<p id="p-0049" num="0048">The quick connection <b>74</b> is shown in more detail in <figref idref="DRAWINGS">FIGS. 8A through 8C</figref>. In <figref idref="DRAWINGS">FIG. 8A</figref>, the quick connection <b>74</b> is shown disconnected. The quick connection <b>74</b> includes a coupler body <b>76</b> connected to one hose and a nipple <b>78</b> connected to the other hose which is designed to be received by the coupler body <b>76</b>. The coupler body <b>76</b> includes a longitudinally displaceable ring <b>80</b> that forces a series of balls inward to lock against a groove <b>82</b> in the nipple <b>78</b>. The balls are released to allow disengagement of the nipple <b>78</b> from the coupler body <b>76</b> by moving the displaceable ring <b>80</b>. In order to increase the bending strength of the quick connection <b>74</b>, a pair of support rings <b>84</b>, <b>86</b> are provided. The coupler support ring <b>84</b> is attached to the coupler body <b>76</b> behind the displaceable ring <b>80</b>. The nipple support ring <b>86</b> is attached to the nipple <b>78</b> behind the ball receiving groove <b>82</b>. Preferably, the coupler support ring <b>84</b> is rigidly attached to the coupler body <b>76</b>, and the nipple support ring <b>86</b> is threadably attached to the nipple <b>78</b>. In <figref idref="DRAWINGS">FIG. 8B</figref>, the quick connection <b>74</b> is shown partially connected, with the nipple <b>78</b> connected to the coupler body <b>76</b> to form a coupling. In <figref idref="DRAWINGS">FIG. 8C</figref>, the nipple support ring <b>86</b> is shown in the connected configuration. In this configuration, the nipple support ring <b>86</b> is tightened by threading the nipple support ring <b>86</b> toward the coupler support ring <b>84</b> until the two support rings <b>84</b>, <b>86</b> abut against each other. Thus, in the connected configuration, the nipple support ring <b>86</b> encompasses the nipple <b>78</b> and the coupler body <b>76</b> to provide extra strength to the connection.</p>
+<p id="p-0050" num="0049">As shown in <figref idref="DRAWINGS">FIGS. 9 through 12</figref>, the power washer <b>10</b> may be used in multiple modes to make the power washer <b>10</b> more versatile than a single use type washer. Preferably, quick connections <b>74</b> like that shown in <figref idref="DRAWINGS">FIGS. 8A-8C</figref> may be used throughout the power washer <b>10</b> to make it easier to switch between each of the possible modes. One of the advantages of the multiple modes described below is that a single high pressure valve controlled by the gun trigger <b>64</b> may be used for all of the described modes. This decreases costs and simplifies operation of the power washer <b>10</b>.</p>
+<p id="p-0051" num="0050">In <figref idref="DRAWINGS">FIG. 9</figref>, the power washer <b>10</b> is shown in a walk-behind mode. In this mode, the wash unit <b>22</b> is connected to the transport frame <b>12</b>. High pressure fluid is supplied from the pump <b>40</b> to the gun <b>52</b> which is secured to the handle <b>18</b>. Preferably, the handle portion <b>62</b> and trigger <b>64</b> of the gun <b>52</b> are positioned adjacent to the handle grip <b>20</b> to make it easy for the operator to actuate the trigger <b>64</b> while pushing on the handle <b>18</b>. The fluid is then supplied to the wash unit <b>22</b> through the hose <b>66</b> secured to the transport frame <b>12</b>. Alternatively, the wand <b>68</b> could be connected between the gun <b>52</b> and the hose <b>66</b> secured to the transport frame <b>12</b> if desired. Accordingly, in the walk-behind mode, the operator cleans the wash surface by rolling the transport frame <b>12</b> and wash unit <b>22</b> over the wash surface. In general, this mode is preferred when cleaning large horizontal surfaces.</p>
+<p id="p-0052" num="0051">In <figref idref="DRAWINGS">FIG. 10</figref>, the power washer <b>10</b> is shown in a spray mode. In this mode, the gun <b>52</b> is disconnected from the hose <b>66</b> secured to the transport frame <b>12</b> and is connected to the wand <b>68</b>. A spray nozzle <b>88</b> is connected to the opposing end of the wand <b>68</b>. Preferably, quick connections <b>74</b> are used between the gun <b>52</b> and the wand <b>68</b> and between the wand <b>68</b> and the nozzle <b>88</b>. Accordingly, in the spray mode, the operator cleans surfaces by waving the gun <b>52</b> in the direction where spray from the nozzle <b>88</b> is desired. In this mode, the operator generally works away from the transport frame <b>12</b>, and the transport frame <b>12</b> functions generally as a base unit to supply high pressure fluid to the gun <b>52</b>. Thus, the transport frame <b>12</b> only needs to be moved when the operator moves to a new area outside the reach of the high pressure hose <b>50</b>.</p>
+<p id="p-0053" num="0052">In <figref idref="DRAWINGS">FIG. 11</figref>, the power washer <b>10</b> is shown in a hand wash mode. In this mode, the wash unit <b>22</b> is disconnected from the transport frame <b>12</b> and is connected to the wand <b>68</b> opposite from the gun <b>52</b>. A quick connection <b>74</b> between the wand <b>68</b> and the wash unit <b>22</b> that is compatible with the quick connection <b>74</b> between the transport frame <b>12</b> and the wash unit <b>22</b> is preferred. Accordingly, in the hand wash mode, the operator cleans surfaces by moving the gun <b>52</b> to direct the wash unit <b>22</b> to areas to be washed. In general, this mode is preferred when cleaning smaller areas where more precise control is desired or elevated areas when it is difficult to lift the power washer <b>10</b>, such as stairs, decks, etc.</p>
+<p id="p-0054" num="0053">In <figref idref="DRAWINGS">FIG. 12</figref>, the power washer <b>10</b> is shown in a vertical hand wash mode. In this mode, the gun <b>52</b> is connected directly to the wash unit <b>22</b> without the wand <b>68</b> being connected between the gun <b>52</b> and the wash unit <b>22</b>. Thus, this mode is similar to the hand wash mode described above but places the wash unit <b>22</b> closer to the handle portion <b>62</b> of the gun <b>52</b>. As shown, this mode is generally useful when cleaning vertical surfaces since the operator can grasp the handle <b>62</b> on the wash unit <b>22</b> at the same time that the operator controls the gun <b>52</b>. If desired, the gun <b>52</b> and the wash unit <b>22</b> may have different quick connections <b>74</b>, <b>75</b> that are incompatible with each other. This may be useful to prevent the user from directly connecting the gun <b>52</b> to the wash unit <b>22</b> if a specified distance between the gun handle <b>62</b> and the wash unit <b>22</b> is desired. Thus, one alternative to the operating mode shown in <figref idref="DRAWINGS">FIG. 12</figref> would be to provide a shorter wand than the wand <b>68</b> shown in <figref idref="DRAWINGS">FIG. 11</figref> to allow the gun handle <b>62</b> to be positioned closer to the wash unit <b>22</b> but at a specified distance from the wash unit <b>22</b>. Additional, multiple or telescoping spray wand extensions may also be connected between the gun <b>52</b> and wash unit <b>22</b> in order to reach higher vertical surfaces, such as second story exteriors of a house. The spray wand extensions may be connected through quick-connections, such as the one described above or bayonet-types, or screw-type connections.</p>
+<p id="p-0055" num="0054">In <figref idref="DRAWINGS">FIGS. 13 and 14</figref>, another embodiment of a power washer <b>90</b> is shown. The power washer <b>90</b> that is shown in <figref idref="DRAWINGS">FIGS. 13 and 14</figref> is similar to the power washer <b>10</b> described above, and thus, only those features that are different are described here. In this embodiment, the wash unit <b>92</b> is disconnected from the transport frame <b>94</b> by sliding the wash unit <b>92</b> forward away from the power source <b>38</b>. The front wheels <b>96</b> remain with the wash unit <b>92</b> instead of remaining with the transport frame <b>94</b>. In order to maintain the transport frame <b>94</b> in an upright position after disconnecting the wash unit <b>92</b>, a forwardly positioned support foot <b>98</b> may be provided on the transport frame <b>94</b>. The support foot <b>98</b> may be hingedly attached to the transport frame <b>94</b>. Alternatively, the support foot <b>98</b> may be positioned so that the bottom of the foot <b>98</b> is a small distance above the ground when the wash unit <b>92</b> is connected to the transport frame <b>94</b>. Then, when the wash unit <b>92</b> is separated from the transport frame <b>94</b>, the forward part of the transport frame <b>94</b> will drop a short distance until the bottom of the support foot <b>98</b> contacts the ground. The power washer <b>90</b> shown in <figref idref="DRAWINGS">FIGS. 13 and 14</figref> may be desirable where a larger wash unit <b>92</b> is used which may be more difficult to control in the hand wash modes. Because the front wheels <b>96</b> are integral with the wash unit <b>92</b>, the hand wash modes may be easier to perform since the front wheels <b>96</b> can be used to roll the wash unit <b>92</b> over the wash surfaces. Other advantages of integrating the front wheels <b>96</b> with the wash unit <b>92</b> may also be possible.</p>
+<p id="p-0056" num="0055">In addition, as shown in <figref idref="DRAWINGS">FIG. 14</figref>, the wash unit <b>92</b> may be connected to the transport frame <b>94</b> on rails <b>100</b>. If desired, the forward position of the wash unit <b>92</b> may be adjustable by adjusting the rails <b>100</b> while the wash unit <b>92</b> is connected to the transport frame <b>94</b>. As a result, the operator may optimize maneuverability of the power washer <b>90</b> in the walk-behind mode by changing the forward position of the wash unit <b>92</b> if desired.</p>
+<p id="p-0057" num="0056">A squeegee <b>102</b> may also be provided behind the wash unit <b>92</b> if desired. The squeegee <b>102</b> is preferably made from rubber or an elastomeric material. The squeegee <b>102</b> may be helpful to push fluid on the wash surface off to the sides when the operator pushes the power washer <b>90</b> forward in the walk-behind mode. The squeegee may also be connected to the wash unit. In <figref idref="DRAWINGS">FIG. 13</figref>, an alternative arrangement for the hoses <b>44</b>, <b>50</b> is also shown. As shown, the low pressure, coiled hose <b>44</b> may be placed in a bag <b>104</b> within the handle <b>18</b>. The high pressure hose <b>50</b> may then be wrapped around a rearwardly extending hook <b>106</b>. The hook <b>106</b> may be collapsible or foldable for quick removal of the hose <b>44</b>.</p>
+<p id="p-0058" num="0057">In <figref idref="DRAWINGS">FIGS. 15-20B</figref>, a number of wash units are shown with fixed spray bars. In <figref idref="DRAWINGS">FIG. 15</figref>, an embodiment of a power washer <b>108</b> is shown with a fixed spray bar <b>110</b> included in the wash unit <b>112</b>. For clarity, the spray bar <b>110</b> in <figref idref="DRAWINGS">FIG. 15</figref> is shown through the cover <b>114</b> of the wash unit <b>112</b> although it is understood that the spray bar <b>110</b> is positioned underneath the cover <b>114</b>.</p>
+<p id="p-0059" num="0058">In <figref idref="DRAWINGS">FIGS. 16A and 16B</figref>, the wash unit <b>116</b> is shown with a fixed spray bar <b>110</b> extending laterally across the width of the wash unit <b>116</b>. The spray bar <b>110</b> may have three high pressure nozzles <b>118</b>, as shown, or may have any other number of nozzles as desired. In <figref idref="DRAWINGS">FIGS. 16A and 16B</figref>, the wash unit <b>116</b> is provided only with the fixed spray bar <b>110</b> and without any other cleaning apparatus. In <figref idref="DRAWINGS">FIGS. 17A and 17B</figref>, the wash unit <b>120</b> is shown with a roller scrubbing brush <b>122</b> that contacts the wash surface to provide additional cleaning. As shown, the axis of rotation of the roller scrubbing brush <b>122</b> is parallel to the wash surface. In <figref idref="DRAWINGS">FIGS. 18A and 18B</figref>, the wash unit <b>124</b> is shown with two roller scrubbing brushes <b>122</b> behind the fixed spray bar <b>110</b>. The roller scrubbing brushes <b>122</b> may be the same as each other or may be different from each other to complement the cleaning effect of each roller scrubbing brush <b>122</b>. It is generally preferred that rotation of the roller scrubbing brushes <b>122</b> in <figref idref="DRAWINGS">FIGS. 17A-18B</figref> be powered by the power source <b>38</b>.</p>
+<p id="p-0060" num="0059">In <figref idref="DRAWINGS">FIGS. 19A and 19B</figref>, the wash unit <b>126</b> is shown with three disk type rotating brushes <b>128</b>. As shown, the three disk type rotating brushes <b>128</b> are positioned adjacent each other so that the three disk type rotating brushes <b>128</b> extend across the width of the wash unit <b>126</b>. The axis of rotation of the disk type rotating brushes <b>128</b> is perpendicular to the wash surface. In <figref idref="DRAWINGS">FIGS. 20A and 20B</figref>, the wash unit <b>130</b> is shown with three larger disk type rotating brushes <b>132</b> positioned to provide a transverse overlap of the brushing surface. Preferably, the rotation of the disk type rotating brushes <b>132</b> in <figref idref="DRAWINGS">FIGS. 19A-20B</figref> are powered by the power source <b>38</b>. As shown in <figref idref="DRAWINGS">FIG. 20A</figref>, the three disk type rotating brushes <b>132</b> may be interconnected with a drive belt <b>134</b> or other drive mechanism. As result, only one of the brushes <b>132</b> needs to be directly powered by the power source <b>38</b>, since the directly powered brush <b>132</b> will power the other brushes <b>132</b> through the drive belt <b>134</b>. The wash units may also have other numbers or groupings of brushes as desired.</p>
+<p id="p-0061" num="0060">In <figref idref="DRAWINGS">FIGS. 21-23</figref>, the power washer <b>136</b> is shown with a detergent tank on the wash unit. As shown in <figref idref="DRAWINGS">FIG. 22</figref>, the detergent tank <b>138</b> may be made integral with the wash unit <b>140</b>, such as with a double wall system. A metering valve <b>142</b> may also be provided to regulate the amount of detergent that flows to the wash unit <b>140</b>. As shown in <figref idref="DRAWINGS">FIG. 23</figref>, the detergent tank <b>144</b> may also be removable from the wash unit <b>146</b> for refilling or to allow the wash unit <b>146</b> to be used without the detergent tank <b>144</b>. The detergent tank <b>144</b> may also wrap around the top of the wash unit <b>146</b> in a circular fashion to evenly distribute the weight. Preferably, the wash unit <b>146</b> is provided with a ring cavity <b>148</b> along the top side of the wash unit <b>146</b>. The ring cavity <b>148</b> is designed to match the shape of the detergent tank <b>144</b> to allow the ring cavity <b>148</b> to receive the detergent tank <b>144</b>. The detergent intake valve may be controlled by a pressure differential caused by fluid flow through the power washer when the gun <b>52</b> is opened and closed or may be controlled by the rotation of the spray bar or controlled in any other manner well known in the art.</p>
+<p id="p-0062" num="0061">In <figref idref="DRAWINGS">FIG. 24</figref>, the power washer <b>150</b> is shown with a handle <b>152</b> that is adjustable in height. As shown, a joint <b>154</b> is provided near the rear side of the power source <b>38</b>. The joint <b>154</b> allows the height of the transverse handle grip <b>156</b> to be adjusted to suit the desired height of various users. The handle may also telescope to accommodate the height of the user. In <figref idref="DRAWINGS">FIG. 25</figref>, the handle <b>152</b> is shown with a double fold feature that allows the handle <b>152</b> to be folded on top of the power source <b>38</b> for compact storage. As shown, the handle <b>152</b> includes two joints <b>154</b>, <b>160</b>. The lower joint <b>154</b> is located behind the power source <b>38</b> near the rear wheels <b>14</b>. The lower joint <b>154</b> allows the lower portion <b>162</b> of the handle <b>152</b> to fold forward over the wash unit <b>164</b>. The upper joint <b>160</b> allows the upper portion <b>166</b> of the handle <b>152</b> to fold rearward on top of the lower portion <b>162</b> of the handle <b>152</b>. As shown, it is preferable in this embodiment for the gun <b>52</b> to be attached to the top side of the handle <b>152</b> to permit the handle <b>152</b> to be folded without interference from the gun <b>52</b>. However, as shown in <figref idref="DRAWINGS">FIG. 15</figref>, the gun <b>52</b> may also be attached to the bottom side of the handle <b>18</b>. The handle <b>18</b> may also fold with only a single joint or may be removable for storage.</p>
+<p id="p-0063" num="0062">In <figref idref="DRAWINGS">FIGS. 26A-26D</figref> several storage arrangements are shown for storing a high pressure hose <b>168</b> and/or a low pressure hose <b>168</b>. As shown in <figref idref="DRAWINGS">FIG. 26A</figref>, a soft basket <b>170</b> may be attached to the handle <b>18</b> behind the power source <b>38</b>. An opening <b>172</b> is provided at the top of the basket <b>170</b> for placing the hose <b>168</b> in the basket <b>170</b> and retrieving the hose <b>168</b>. As shown in <figref idref="DRAWINGS">FIG. 26B</figref>, a hard tray <b>174</b> may be attached to a fixed portion <b>176</b> of the frame <b>12</b> behind the power source <b>38</b>. An opening <b>178</b> is provided at the top of the tray <b>174</b> for placing the hose <b>168</b> in the tray <b>174</b> and retrieving the hose <b>168</b>. As shown in <figref idref="DRAWINGS">FIG. 26C</figref>, a hook <b>180</b> may be provided on the handle <b>18</b> for hanging the hose <b>168</b>. As shown in <figref idref="DRAWINGS">FIG. 26D</figref>, a series of hooks <b>182</b> may be provided on the fixed portion <b>176</b> of the frame <b>12</b> behind the power source <b>38</b> for hanging and/or wrapping the hose <b>168</b>.</p>
+<p id="p-0064" num="0063">In <figref idref="DRAWINGS">FIG. 27</figref> another alternative embodiment of a power washer <b>184</b> is shown. As shown, the gun is replaced with an integral control valve <b>186</b>. The control valve <b>186</b> may be opened and closed with a control lever <b>188</b> near the handle grip <b>20</b>. The high pressure hose <b>190</b> from the pump <b>40</b> is connected to the control valve <b>186</b>, and the high pressure hose <b>192</b> connected to the wash unit <b>22</b> is also connected to the control valve <b>186</b>. Preferably, the high pressure hose <b>190</b> from the pump <b>40</b> is connected to the control valve <b>186</b> with a quick-connect connection. This allows the high pressure hose <b>190</b> from the pump <b>40</b> to be easily disconnected from the control valve <b>186</b>. A gun <b>194</b> like that described above may be stored on the power washer <b>184</b> along with a wand <b>196</b>. The high pressure hose <b>190</b> from the pump <b>40</b> may then be connected to the gun <b>194</b> in order to use the power washer <b>184</b> in other modes of operation as described above.</p>
+<p id="p-0065" num="0064">While preferred embodiments of the invention have been described, it should be understood that the invention is not so limited, and modifications may be made without departing from the invention. The scope of the invention is defined by the appended claims, and all devices that come within the meaning of the claims, either literally or by equivalence, are intended to be embraced therein. Furthermore, the advantages described above are not necessarily the only advantages of the invention, and it is not necessarily expected that all of the described advantages will be achieved with every embodiment of the invention.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>We claim:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A power washer configurable into at least two distinct modes of operation, comprising:
+<claim-text>a transport frame comprising a first wheel, a power source, a fluid pump, and a handle, said transport frame being maneuverable by engaging said handle to roll said transport frame on said first wheel;</claim-text>
+<claim-text>a gun attached to said transport frame and fluidly connected to said fluid pump in a first mode of operation, said fluid pump thereby supplying pressurized fluid to said gun, said gun operable to block fluid flow from said fluid pump and being actuable to allow fluid to flow from said gun;</claim-text>
+<claim-text>a wash unit attached to said transport frame independently from said gun and adapted to be fluidly connected to said gun in said first mode of operation while said wash unit is attached to said transport frame, said wash unit comprising a first nozzle adapted to spray fluid onto a wash surface; and</claim-text>
+<claim-text>wherein said gun is detachable from said transport frame and is adapted to be fluidly disconnected from said wash unit in a second mode of operation.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The power washer according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a wand adapted to be fluidly connected at a first end to said gun in said second mode of operation.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The power washer according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, further comprising a second nozzle adapted to be fluidly connected to said wand at a second end in a third mode of operation.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The power washer according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein said wash unit is detachable from said transport frame and is adapted to be fluidly connected to said wand at a second end in a third mode of operation.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The power washer according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said wash unit is detachable from said transport frame and is adapted to be fluidly connected to said gun with a direct connection between said gun and said wash unit in a third mode of operation.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The power washer according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said handle comprises a transverse handle grip and said gun comprises a trigger, said gun being attached to said transport frame in said first mode of operation with said trigger disposed adjacent said transverse handle grip, whereby said trigger is actuable by grasping said transverse handle grip in said first mode of operation.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The power washer according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said wash unit comprises a fixed spray bar comprising at least one of said first nozzle.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The power washer according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein said wash unit further comprises a roller scrubbing brush.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The power washer according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein said wash unit further comprises two of said roller scrubbing brushes.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The power washer according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein said wash unit further comprises a disk type rotating brush.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The power washer according to <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein said wash unit further comprises three of said disk type rotating brushes.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The power washer according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein one of said disk type rotating brushes is powered by said power source and others of said disk type rotating brushes are powered by said one disk type rotating brush.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The power washer according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a quick connection between said gun and said transport frame.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The power washer according to <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein said quick connection comprises a coupling and a support ring.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The power washer according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said handle comprises at least a first joint and a second joint, a lower portion of said handle being rotatable forward around said first joint and an upper portion of said handle being rotatable rearward around said second joint, said handle thereby being foldable generally above said wash unit, said gun being attached to a top side of said upper portion of said handle.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The power washer according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said transport frame further comprises a soft basket disposed behind said power source, said soft basket adapted to contain a hose.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The power washer according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said transport frame further comprises a hard tray fixedly attached thereto and disposed behind said power source, said hard tray adapted to contain a hose.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The power washer according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said transport frame further comprises a hook attached to said handle, said hook adapted to hang a hose.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The power washer according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said transport frame further comprises a hook fixedly attached thereto and disposed behind said power source, said hook adapted to hang a hose.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The power washer according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a wand adapted to be fluidly connected at a first end to said gun in said second mode of operation, a second nozzle adapted to be fluidly connected to said wand at a second end in said second mode of operation, wherein said wash unit is detachable from said transport frame and is adapted to be fluidly connected to said wand at said second end in a third mode of operation.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text>21. The power washer according to <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein said wash unit is adapted to be fluidly connected to said gun with a direct connection between said gun and said wash unit in a fourth mode of operation.</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text>22. The power washer according to <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein said handle comprises a transverse handle grip and said gun comprises a trigger, said gun being attached to said transport frame in said first mode of operation with said trigger disposed adjacent said transverse handle grip, whereby said trigger is actuable by grasping said transverse handle grip in said first mode of operation.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text>23. The power washer according to <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein said wash unit comprises a fixed spray bar comprising at least one of said first nozzle.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text>24. The power washer according to <claim-ref idref="CLM-00023">claim 23</claim-ref>, wherein said wash unit further comprises a roller scrubbing brush.</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text>25. The power washer according to <claim-ref idref="CLM-00024">claim 24</claim-ref>, wherein said wash unit further comprises two of said roller scrubbing brushes.</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text>26. The power washer according to <claim-ref idref="CLM-00023">claim 23</claim-ref>, wherein said wash unit further comprises a disk type rotating brush.</claim-text>
+</claim>
+<claim id="CLM-00027" num="00027">
+<claim-text>27. The power washer according to <claim-ref idref="CLM-00026">claim 26</claim-ref>, wherein said wash unit further comprises three of said disk type rotating brushes.</claim-text>
+</claim>
+<claim id="CLM-00028" num="00028">
+<claim-text>28. The power washer according to <claim-ref idref="CLM-00027">claim 27</claim-ref>, wherein one of said disk type rotating brushes is powered by said power source and others of said disk type rotating brushes are powered by said one disk type rotating brush.</claim-text>
+</claim>
+<claim id="CLM-00029" num="00029">
+<claim-text>29. The power washer according to <claim-ref idref="CLM-00020">claim 20</claim-ref>, further comprising a quick connection between said gun and said transport frame.</claim-text>
+</claim>
+<claim id="CLM-00030" num="00030">
+<claim-text>30. The power washer according to <claim-ref idref="CLM-00029">claim 29</claim-ref>, wherein said quick connection is compatible with said first end of said wand and further comprising another quick connection at said second end of said wand, said another quick connection being compatible with said wash unit, said quick connection and said another quick connection being incompatible with each other to prevent said gun from being directly connected to said wash unit.</claim-text>
+</claim>
+<claim id="CLM-00031" num="00031">
+<claim-text>31. The power washer according to <claim-ref idref="CLM-00029">claim 29</claim-ref>, wherein said quick connection comprises a coupling and a support ring.</claim-text>
+</claim>
+<claim id="CLM-00032" num="00032">
+<claim-text>32. The power washer according to <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein said transport frame comprises a second wheel fixedly attached thereto, said transport frame being maneuverable in said first mode of operation by rolling said transport frame on said second wheel, said second wheel being detachable from said transport frame with said wash unit.</claim-text>
+</claim>
+<claim id="CLM-00033" num="00033">
+<claim-text>33. The power washer according to <claim-ref idref="CLM-00032">claim 32</claim-ref>, wherein said transport frame comprises a support foot adapted to contact a surface and support a forward portion of said transport frame when said wash unit is detached from said transport frame.</claim-text>
+</claim>
+<claim id="CLM-00034" num="00034">
+<claim-text>34. The power washer according to <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein said first wheel comprises two rear wheels and further comprising two second wheels fixedly attached to a forward portion of said transport frame, said second wheels adapted to support said forward portion of said transport frame when said wash unit is detached from said transport frame.</claim-text>
+</claim>
+<claim id="CLM-00035" num="00035">
+<claim-text>35. The power washer according to <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein said wash unit comprises a handle engageable to maneuver said wash unit when said wash unit is detached from said transport frame.</claim-text>
+</claim>
+<claim id="CLM-00036" num="00036">
+<claim-text>36. The power washer according to <claim-ref idref="CLM-00020">claim 20</claim-ref>, further comprising a detergent intake adapted to supply detergent to said fluid sprayed from said wash unit in said first mode of operation.</claim-text>
+</claim>
+<claim id="CLM-00037" num="00037">
+<claim-text>37. The power washer according to <claim-ref idref="CLM-00036">claim 36</claim-ref>, further comprising a detergent tank attached to said wash unit and detachable therefrom, said wash unit comprising a mating cavity adapted to receive said detergent tank.</claim-text>
+</claim>
+<claim id="CLM-00038" num="00038">
+<claim-text>38. The power washer according to <claim-ref idref="CLM-00036">claim 36</claim-ref>, further comprising a detergent tank integrated into said wash unit.</claim-text>
+</claim>
+<claim id="CLM-00039" num="00039">
+<claim-text>39. The power washer according to <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein said handle comprises a first joint disposed adjacent said power source, said handle being pivotable about said first joint, a height of a transverse handle grip thereby being adjustable.</claim-text>
+</claim>
+<claim id="CLM-00040" num="00040">
+<claim-text>40. The power washer according to <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein said handle comprises at least a first joint and a second joint, a lower portion of said handle being rotatable forward around said first joint and an upper portion of said handle being rotatable rearward around said second joint, said handle thereby being foldable generally above said wash unit, said gun being attached to a top side of said upper portion of said handle.</claim-text>
+</claim>
+<claim id="CLM-00041" num="00041">
+<claim-text>41. A power washer configurable into at least two distinct modes of operation, comprising:
+<claim-text>a transport frame comprising a first wheel, a power source, a fluid pump, and a handle, said transport frame being maneuverable by engaging said handle to roll said transport frame on said first wheel;</claim-text>
+<claim-text>a gun attached to said transport frame and fluidly connected to said fluid pump in a first mode of operation, said fluid pump thereby supplying pressurized fluid to said gun, said gun operable to block fluid flow from said fluid pump and being actuable to allow fluid to flow from said gun;</claim-text>
+<claim-text>a wash unit attached to said transport frame and adapted to be fluidly connected to said gun in said first mode of operation, said wash unit comprising a first nozzle adapted to spray fluid onto a wash surface;</claim-text>
+<claim-text>wherein said gun is detachable from said transport frame and is adapted to be fluidly disconnected from said wash unit in a second mode of operation; and</claim-text>
+<claim-text>wherein said wash unit comprises a rotating spray bar comprising at least one of said first nozzle.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00042" num="00042">
+<claim-text>42. The power washer according to <claim-ref idref="CLM-00041">claim 41</claim-ref>, wherein said rotating spray bar comprises at least two of said first nozzles, said first nozzles being angled relative to said wash surface.</claim-text>
+</claim>
+<claim id="CLM-00043" num="00043">
+<claim-text>43. The power washer according to <claim-ref idref="CLM-00042">claim 42</claim-ref>, wherein said wash unit comprises a cover enveloping said rotating spray bar, said rotating spray bar being adjustable in height relative to said cover and said wash surface.</claim-text>
+</claim>
+<claim id="CLM-00044" num="00044">
+<claim-text>44. A power washer configurable into at least two distinct modes of operation, comprising:
+<claim-text>a transport frame comprising a first wheel, a power source, a fluid pump, and a handle, said transport frame being maneuverable by engaging said handle to roll said transport frame on said first wheel;</claim-text>
+<claim-text>a gun attached to said transport frame and fluidly connected to said fluid pump in a first mode of operation, said fluid pump thereby supplying pressurized fluid to said gun, said gun operable to block fluid flow from said fluid pump and being actuable to allow fluid to flow from said gun;</claim-text>
+<claim-text>a wash unit attached to said transport frame and adapted to be fluidly connected to said gun in said first mode of operation, said wash unit comprising a first nozzle adapted to spray fluid onto a wash surface;</claim-text>
+<claim-text>wherein said gun is detachable from said transport frame and is adapted to be fluidly disconnected from said wash unit in a second mode of operation;</claim-text>
+<claim-text>a wand adapted to be fluidly connected at a first end to said gun in said second mode of operation;</claim-text>
+<claim-text>a second nozzle adapted to be fluidly connected to said wand at a second end in said second mode of operation;</claim-text>
+<claim-text>wherein said wash unit is detachable from said transport frame and is adapted to be fluidly connected to said wand at the second end in a third mode of operation; and</claim-text>
+<claim-text>wherein said wash unit comprises a rotating spray bar comprising at least two of said first nozzles, said first nozzles being angled relative to said wash surface.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00045" num="00045">
+<claim-text>45. The power washer according to <claim-ref idref="CLM-00044">claim 44</claim-ref>, wherein said wash unit comprises a cover enveloping said rotating spray bar, said rotating spray bar being adjustable in height relative to said cover and said wash surface. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

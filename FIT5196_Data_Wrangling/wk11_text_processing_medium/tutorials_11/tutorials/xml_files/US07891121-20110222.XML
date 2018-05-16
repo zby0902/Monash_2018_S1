@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891121-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891121</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12142585</doc-number>
+<date>20080619</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>E</section>
+<class>02</class>
+<subclass>F</subclass>
+<main-group>3</main-group>
+<subgroup>36</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 37447</main-classification>
+<further-classification> 37403</further-classification>
+<further-classification> 37232</further-classification>
+<further-classification> 37903</further-classification>
+<further-classification>299 69</further-classification>
+</classification-national>
+<invention-title id="d2e43">Earthworking implement</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>1067375</doc-number>
+<kind>A</kind>
+<name>Proctor</name>
+<date>19130700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>299 67</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>2228445</doc-number>
+<kind>A</kind>
+<name>De Velbiss</name>
+<date>19410100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>299 67</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>2694354</doc-number>
+<kind>A</kind>
+<name>Roberg</name>
+<date>19541100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>172423</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>2770056</doc-number>
+<kind>A</kind>
+<name>Hawkins</name>
+<date>19561100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 37301</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>3065557</doc-number>
+<kind>A</kind>
+<name>Pewthers</name>
+<date>19621100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>299 67</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>3269039</doc-number>
+<kind>A</kind>
+<name>Bodiue</name>
+<date>19660800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 37411</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>3293778</doc-number>
+<kind>A</kind>
+<name>Mcauliff</name>
+<date>19661200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 37447</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>3305953</doc-number>
+<kind>A</kind>
+<name>Von Mehren et al.</name>
+<date>19670200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 37414</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>3478450</doc-number>
+<kind>A</kind>
+<name>Cunningham</name>
+<date>19691100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 37447</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>3550960</doc-number>
+<kind>A</kind>
+<name>Holder</name>
+<date>19701200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>299 67</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>3645021</doc-number>
+<kind>A</kind>
+<name>Sonerud</name>
+<date>19720200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 37447</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>3677604</doc-number>
+<kind>A</kind>
+<name>Leyrat</name>
+<date>19720700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>299 67</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>3828951</doc-number>
+<kind>A</kind>
+<name>Fleming</name>
+<date>19740800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>414694</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>3864852</doc-number>
+<kind>A</kind>
+<name>Lochrie</name>
+<date>19750200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 37414</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>4364191</doc-number>
+<kind>A</kind>
+<name>Cazes</name>
+<date>19821200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 37301</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>4625438</doc-number>
+<kind>A</kind>
+<name>Mozer</name>
+<date>19861200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 37447</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>4959915</doc-number>
+<kind>A</kind>
+<name>Roussin et al.</name>
+<date>19901000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 37447</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>5123710</doc-number>
+<kind>A</kind>
+<name>Morrell et al.</name>
+<date>19920600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>299 69</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>6209236</doc-number>
+<kind>B1</kind>
+<name>Omann</name>
+<date>20010400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 37405</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>6301809</doc-number>
+<kind>B1</kind>
+<name>Staggs, Jr.</name>
+<date>20011000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 37444</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>6572324</doc-number>
+<kind>B2</kind>
+<name>Ihm</name>
+<date>20030600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>414723</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>6574891</doc-number>
+<kind>B1</kind>
+<name>Ireland et al.</name>
+<date>20030600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 37447</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>2006/0017313</doc-number>
+<kind>A1</kind>
+<name>Gagnon et al.</name>
+<date>20060100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>299 371</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>14</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 37403</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 37404</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 37452</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 37232</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 37903</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>299 69</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>11</number-of-drawing-sheets>
+<number-of-figures>11</number-of-figures>
+</figures>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60944892</doc-number>
+<date>20070619</date>
+</document-id>
+</us-provisional-application>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20080313934</doc-number>
+<kind>A1</kind>
+<date>20081225</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Smoljo</last-name>
+<first-name>Doug</first-name>
+<address>
+<street>1199 Milford Bay Road</street>
+<city>Milford Bay, Ontario</city>
+<postcode>P0B 1E0</postcode>
+<country>CA</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>CA</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Orange</last-name>
+<first-name>John</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<last-name>Chari</last-name>
+<first-name>Santosh</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="03" rep-type="attorney">
+<addressbook>
+<last-name>Zhang</last-name>
+<first-name>Sean</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<examiners>
+<primary-examiner>
+<last-name>Beach</last-name>
+<first-name>Thomas A</first-name>
+<department>3671</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A blade assembly for an earthworking implement has a set of teeth that are independently slideable within guides. The teeth slide to conform to an undulating surface and permit scraping of the surface.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="152.57mm" wi="296.67mm" file="US07891121-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="183.47mm" wi="157.73mm" file="US07891121-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="171.37mm" wi="133.69mm" file="US07891121-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="170.35mm" wi="172.97mm" file="US07891121-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="148.00mm" wi="97.45mm" file="US07891121-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="187.11mm" wi="145.37mm" file="US07891121-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="170.94mm" wi="154.60mm" file="US07891121-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="214.04mm" wi="123.36mm" file="US07891121-20110222-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="198.46mm" wi="166.88mm" file="US07891121-20110222-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="176.87mm" wi="160.95mm" file="US07891121-20110222-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="218.61mm" wi="94.23mm" file="US07891121-20110222-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="190.92mm" wi="137.41mm" file="US07891121-20110222-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application claims priority from U.S. Provisional Patent Application No. 60/944,892 filed on Jun. 19, 2007 and is hereby incorporated by reference.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0003" num="0002">The present invention relates to a blade assembly for an earthworking implement for use in excavating.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0004" num="0003">The majority of excavation is performed by a vehicle equipped with a bucket, blade or the like, collectively referred to as an earthworking implement, that engages the soil and removes it to either a truck or to a storage area. Typically, such implements have a blade assembly with a leading edge for engagement with the soil. The leading edge may be either a single smooth edge or a toothed edge depending on the ground conditions.</p>
+<p id="p-0005" num="0004">The operators of the earth moving machines exhibit great dexterity in manipulating the implements so that the removal of the soil is accomplished with a minimal disturbance. However, in some operations the configuration of the leading edge prevents the efficient removal of the soil and turns the task into a relatively time consuming operation.</p>
+<p id="p-0006" num="0005">One such operation is removal of soil from an irregular surface such as a rock. The rock invariably has a contoured outer surface and the fixed linear leading edge found on the implement essentially establishes a single point contact. Even where a toothed edge is provided, multiple point contact is difficult to achieve and the net result is that the surface of the rock cannot be easily cleared of the soil. This hampers removal of the soil overburden, makes it difficult to ascertain the physical limits of the rock and leads to extraneous material being removed with the rock.</p>
+<p id="p-0007" num="0006">It is therefore an object of the present invention to provide a blade assembly for an earthworking implement in which the above disadvantages are obviated or mitigated.</p>
+<p id="p-0008" num="0007">In general terms the present invention provides a blade assembly for earthworking implement in which a soil engaging leading edge is segmented into a plurality of individual segments. Each segment can slide relative to the adjacent segment. The individual segments may then adopt a relative configuration that conforms to the contours of the surface over which the bucket is traversed.</p>
+<p id="p-0009" num="0008">Preferably, a biasing element such as a spring is used to bias the segments beyond the leading edge of the bucket.</p>
+<p id="p-0010" num="0009">In a further embodiment, the segments are hydraulically connected to link relative movements of the segments and accommodate the contours of the surface over which the edge is moved.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0011" num="0010">Embodiments of the invention will now be described by way of example only with reference to the accompanying drawings in which:</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. 1</figref> is a side perspective view of a first embodiment of a blade assembly used with a bucket.</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 2</figref> is a side view of the assembly shown in <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 3</figref> is an under view with portions of the bucket shown in <figref idref="DRAWINGS">FIGS. 1 and 2</figref> removed.</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 4</figref> is a side view of an alternative embodiment of the blade assembly.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 5</figref> is a three quarter perspective of the blade assembly shown in <figref idref="DRAWINGS">FIG. 4</figref>.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 6</figref> is an under view of the assembly shown in <figref idref="DRAWINGS">FIGS. 4 and 5</figref> with portions thereof removed for clarity.</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 7</figref> is a perspective view of a further embodiment of blade assembly.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 8</figref> is a rear perspective view of the assembly of <figref idref="DRAWINGS">FIG. 7</figref>.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 9</figref> is a exploded view of the assembly of <figref idref="DRAWINGS">FIG. 7</figref>.</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 10</figref> is a section of the line X-X of <figref idref="DRAWINGS">FIG. 7</figref>.</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 11</figref> is a view similar to <figref idref="DRAWINGS">FIG. 7</figref> showing the blade assembly in use.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0023" num="0022">Referring therefore to <figref idref="DRAWINGS">FIG. 1</figref>, an earthworking implement shown as an excavator bucket and generally indicated at <b>10</b> is arranged to be attached through lugs <b>12</b>, <b>14</b> to a boom of an earth moving machine (not shown) in a conventional manner. It will be appreciated that the exact form of the implement may vary according to the earth moving machine and maybe configured as a bucket to fit on the end of a 360&#xb0; excavator boom, as a bucket for a front end loader or other commonly used configurations of bucket or as a blade of a dozer.</p>
+<p id="p-0024" num="0023">The bucket <b>10</b> has sidewalls <b>16</b> and a bottom wall <b>18</b>. Mounted to the underside of the bottom wall <b>18</b> is an attachment in the form of a blade assembly generally indicated at <b>20</b> that provides individual segments in advance of the leading edge of the bucket <b>10</b>.</p>
+<p id="p-0025" num="0024">The blade assembly <b>20</b> includes a plurality of teeth <b>22</b>, each of which has a shank <b>24</b> extending rearwardly from the tooth <b>22</b>. Each off the shanks <b>24</b> is slidably received within a respective tube <b>26</b> conveniently formed from a square section tubing welded to the underside of the base <b>18</b>. The shank <b>24</b> has a slot <b>26</b> that receives a pin <b>28</b> extending laterally through the tube <b>26</b> to limit movement. The pin <b>28</b> retains the shank <b>24</b> within the tube <b>26</b> and the square section inhibits rotation of the shank <b>24</b> relative to the tube <b>26</b>.</p>
+<p id="p-0026" num="0025">A spring <b>32</b> acts between an end wall <b>34</b> of the tube <b>26</b> and the shank <b>24</b> to bias the tooth <b>22</b> forwardly in advance of the base <b>18</b>.</p>
+<p id="p-0027" num="0026">It will be appreciated that each of the teeth <b>22</b> is independently movable against the force of the respective spring <b>32</b>. The tubes <b>26</b> act as guides for the shanks to constrain the teeth for sliding movement. The tubes <b>26</b> maintain the teeth <b>24</b> in generally planar alignment with the edges of the teeth defining a linear edge. The independent relative movement of the teeth <b>22</b> enables the teeth slide relative to one another to conform to the surface over which the teeth are moved, as indicated in chain dot lines and thereby perform a scraping action that is effective to remove the majority of the soil from the surface. Movement of the bucket is controlled by the boom operating cylinders in a normal manner and the independent movement allows a relatively smooth arc or wiping motion to be achieved with movement of the shank <b>24</b> within the tube <b>26</b> accommodating the irregularities of the surface over which the teeth <b>22</b> are moved.</p>
+<p id="p-0028" num="0027">An alternative embodiment is shown in <figref idref="DRAWINGS">FIGS. 4 through 6</figref> in which like components will be identified with like reference numbers with a suffix &#x201c;a&#x201d; added for clarity. In the embodiments of <figref idref="DRAWINGS">FIGS. 4 through 6</figref>, the shanks <b>26</b><i>a </i>connected to the teeth <b>22</b><i>a </i>are formed as piston rods that slide within hydraulic cylinders <b>40</b>. The shanks <b>26</b><i>a </i>are connected to pistons <b>42</b> and each of the cylinders <b>40</b> is connected to a manifold <b>44</b>. The manifold <b>44</b> allows hydraulic communication between the cylinders <b>40</b> so that retraction of one of the teeth <b>22</b><i>a </i>causes a corresponding extension of one or more of the other teeth <b>22</b>. Initially, the manifold <b>44</b> is filled such that each of the pistons <b>42</b> is positioned approximately half way along the cylinder <b>40</b>.</p>
+<p id="p-0029" num="0028">In use, the normal loads placed upon the teeth <b>22</b><i>a </i>maintain the pistons <b>42</b> at a retracted position within the cylinder <b>40</b>. In this condition the teeth are aligned and present a linear edge. As the teeth <b>22</b><i>a </i>traverse an irregular surface, the teeth will adjust through the hydraulic connection of the manifold to conform to the surface over which they are traversed. Thus, in the event that one of the teeth passes over a relatively shallow or concave portion, that tooth will extend and the adjacent teeth retract so that the teeth <b>22</b><i>a </i>conform to the surface.</p>
+<p id="p-0030" num="0029">It will be seen therefore that in both embodiments, the teeth <b>22</b><i>a </i>are allowed to conform to an irregular surface and thereby facilitate removal of soil from that surface.</p>
+<p id="p-0031" num="0030">A further embodiment of the blade assembly is shown in <figref idref="DRAWINGS">FIGS. 7 through 11</figref> where like components will be identified with like reference numerals with the suffix b added for clarity. In the embodiments of <figref idref="DRAWINGS">FIGS. 1 through 6</figref>, the blade assembly <b>20</b> is mounted directly to the base <b>18</b> of the implement. In the embodiment of <figref idref="DRAWINGS">FIGS. 7 through 11</figref>, the blade assembly is made as a separate unit that can be mounted to the base <b>18</b> in either a permanent or dismountable manner.</p>
+<p id="p-0032" num="0031">Referring therefore to <figref idref="DRAWINGS">FIG. 7</figref>, the blade assembly <b>20</b><i>b </i>includes a set of teeth <b>22</b><i>b </i>each of which has a square section shank <b>24</b><i>b</i>. The shank <b>24</b><i>b </i>is slidably mounted within tubes <b>26</b><i>b</i>, also of square cross section. The tubes <b>26</b><i>b </i>are mounted in parallel spaced relationship to a mounting plate <b>50</b> such that the teeth <b>22</b><i>b </i>form a substantially continuous transverse edge. As can be seen from <figref idref="DRAWINGS">FIG. 8</figref>, a brace <b>52</b> extends across the opposite face of the tubes <b>26</b><i>b </i>and mounting arms <b>54</b> project outwardly for connection to the bucket <b>10</b> through suitable mounting pins. Pins may also be used to connect the plate <b>50</b> to the base plate <b>18</b> or the plate <b>50</b> may be welded directly to the base plate <b>15</b> if the connection is to be permanent.</p>
+<p id="p-0033" num="0032">A hydraulic cylinder <b>40</b><i>b </i>is located within each of the tubes <b>26</b><i>b </i>and secured by a pin <b>56</b> that extends through each of the tubes <b>26</b><i>b</i>. A piston rod <b>42</b><i>b </i>projects from each of the cylinders <b>40</b><i>b </i>within the tubes <b>26</b><i>b </i>and is connected by way of a pin <b>58</b> to the shanks <b>24</b><i>b. </i></p>
+<p id="p-0034" num="0033">The cylinder <b>40</b><i>b </i>has a head side port <b>46</b> that is connected to the manifold <b>44</b><i>b</i>. The manifold <b>44</b><i>b </i>includes T-couplings <b>48</b> and hoses <b>49</b> that form a continuous connection between each of the head side ports <b>46</b> such that cylinders <b>40</b><i>b </i>are connected in parallel. One end of the manifold includes a check valve that allows the cylinders <b>40</b><i>b </i>to be charged with hydraulic fluid.</p>
+<p id="p-0035" num="0034">As in the embodiment of <figref idref="DRAWINGS">FIGS. 4 through 6</figref>, the cylinders <b>40</b><i>b </i>are filled such that the pistons <b>42</b><i>b </i>are approximately one half of the travel along the cylinder <b>40</b><i>b. </i></p>
+<p id="p-0036" num="0035">In use, the teeth <b>22</b><i>b </i>are initially aligned to present a linear cutting edge. The resistance to flow of the hydraulic fluid and the sliding connection of the shanks <b>24</b><i>b </i>within the tubes <b>26</b><i>b </i>enable the teeth <b>22</b><i>b </i>to remain aligned during normal digging operations. In the event that a surface is to be cleaned, one or more of the teeth <b>22</b><i>b </i>will extend relative to the other teeth <b>22</b><i>b </i>and allow the teeth <b>22</b><i>b </i>to conform generally to the uneven surface. Such an arrangement is indicated more clearly in <figref idref="DRAWINGS">FIG. 11</figref>. The teeth <b>22</b><i>b </i>may then pass across the surface and adjust continually to the undulations of the surface and thereby allow soil to be removed from the surface.</p>
+<p id="p-0037" num="0036">As noted above, the attachment shown in <figref idref="DRAWINGS">FIG. 7 through 11</figref> may be permanently connected to the bucket <b>10</b> or may be selectively mounted on the implement when cleaning operations are to be performed.</p>
+<p id="p-0038" num="0037">It will be apparent that moderate biasing of the pistons to a retracted position through the use of coil springs within the rod side of the cylinder <b>40</b><i>b </i>may assist in avoiding the teeth from extending under the influence of gravity during transport or the like. Such springs would not affect the ability of the teeth to accommodate undulations in the surface.</p>
+<p id="p-0039" num="0038">It will also be apparent that the blade assemblies shown in <figref idref="DRAWINGS">FIG. 1 to 3</figref>, <b>4</b>, <b>7</b> through <b>11</b> may be mounted on to the blade of a dozer allowing the lower edge of the blade to conform to the surface or an other earthworking machine to permit efficient cleaning operations.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A blade assembly for an earth working implement, said blade assembly comprising a plurality of teeth aligned with one another to define a ground engaging edge, each of said teeth lying in a common plane and each of them slidable in said plane relative to one another, wherein said teeth are linked to one another so that sliding movement of one of said teeth in one direction induces a complementary sliding movement of other of said teeth in an opposite direction, whereby non linearity of ground engaged by said edge is accommodated by relative displacement of said teeth.</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. A blade assembly according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said teeth are linked by a hydraulic manifold.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. A blade assembly according to <claim-ref idref="CLM-00002">claim 2</claim-ref> wherein said teeth are connected to respective hydraulic actuators having a piston slidable within a cylinder and said cylinders are hydraulically connected in parallel so that displacement of one piston within its cylinder induces a transfer fluid between each of said cylinders to cause a complementary displacement of one or more of said pistons.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. A blade assembly according to <claim-ref idref="CLM-00003">claim 3</claim-ref> where said teeth are connected to said piston.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. A blade assembly according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said teeth are mounted on shanks slideable in tubes, said tubes and shanks having a complimentary cross section to inhibit rotation of said shank in said tube.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. A blade assembly according to <claim-ref idref="CLM-00005">claim 5</claim-ref> wherein said shanks are connected to a hydraulic actuator having a piston and cylinder and sliding of said teeth causes displacement of said piston relative to said cylinder.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. A blade assembly according to <claim-ref idref="CLM-00006">claim 6</claim-ref> wherein said actuator is located within said tube.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. A blade assembly according to <claim-ref idref="CLM-00007">claim 7</claim-ref> wherein said cylinder is secured to said tube and said piston is secured to said shank.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. An earth working implement having a plurality of guides secured in spaced parallel relationship to a base of said implement, each of said guides having a tooth mounted for sliding movement relative to said guide with said teeth aligned with one another to define a ground engaging edge, each of said teeth being interconnected to one another so that movement of one of said teeth in one direction causes a complementary movement of other of said teeth in an opposite direction, whereby non linearity of ground engaged by said edge is accommodated by relative displacement of said teeth.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. An implement according to <claim-ref idref="CLM-00009">claim 9</claim-ref> wherein said guides are tubes and said teeth are connected to shanks slideable within said tubes.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. An implement according to <claim-ref idref="CLM-00010">claim 10</claim-ref> wherein said shanks and tubes are of complimentary cross section to inhibit relative rotation between said tubes and said shanks.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. An implement according to <claim-ref idref="CLM-00011">claim 11</claim-ref> wherein said teeth are biased to a predetermined position.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. An implement according to <claim-ref idref="CLM-00011">claim 11</claim-ref> wherein said shanks are connected to said tubes through a respective hydraulic actuator and said hydraulic actuators are hydraulically connected in parallel to interconnect said teeth.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. An implement according to <claim-ref idref="CLM-00013">claim 13</claim-ref> wherein said hydraulic actuators are located within said tubes. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

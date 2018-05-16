@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891269-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891269</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12188946</doc-number>
+<date>20080808</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2007-210266</doc-number>
+<date>20070810</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>274</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>62</class>
+<subclass>K</subclass>
+<main-group>21</main-group>
+<subgroup>12</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 745518</main-classification>
+</classification-national>
+<invention-title id="d2e71">Straddle type vehicle</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>692383</doc-number>
+<kind>A</kind>
+<name>Tarzian</name>
+<date>19020200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 745513</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>3204481</doc-number>
+<kind>A</kind>
+<name>Golden</name>
+<date>19650900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 745511</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>6581709</doc-number>
+<kind>B2</kind>
+<name>Tsuji</name>
+<date>20030600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>180 90</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>6616165</doc-number>
+<kind>B2</kind>
+<name>Tsuji</name>
+<date>20030900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>2802884</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>7017507</doc-number>
+<kind>B2</kind>
+<name>Hattori et al.</name>
+<date>20060300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>114144 R</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>2004/0045395</doc-number>
+<kind>A1</kind>
+<name>Chen</name>
+<date>20040300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 745518</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>JP</country>
+<doc-number>2005-119392</doc-number>
+<date>20050500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>11</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 745511</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 745518</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 745585</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>180 90</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>2802884</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>114 555</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>114 5552</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>114144 R</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>114169</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 16421</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>8</number-of-drawing-sheets>
+<number-of-figures>8</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090038432</doc-number>
+<kind>A1</kind>
+<date>20090212</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Shimizu</last-name>
+<first-name>Masafumi</first-name>
+<address>
+<city>Shizuoka</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Keating &#x26; Bennett, LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Yamaha Hatsudoki Kabushiki Kaisha</orgname>
+<role>03</role>
+<address>
+<city>Shizuoka</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Johnson</last-name>
+<first-name>Vicky A</first-name>
+<department>3656</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A vehicle includes a handlebar and a handlebar cover. The handlebar cover includes a front cover for covering a front side of the handlebar and a rear cover for covering a rear side of the handlebar. The front and rear covers are fastened to each other by a fastener member. The fastener member is covered by a cover attached to the handlebar cover.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="133.18mm" wi="135.89mm" file="US07891269-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="193.04mm" wi="142.58mm" orientation="landscape" file="US07891269-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="183.56mm" wi="153.75mm" orientation="landscape" file="US07891269-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="177.55mm" wi="120.57mm" orientation="landscape" file="US07891269-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="135.64mm" wi="125.81mm" file="US07891269-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="175.34mm" wi="121.16mm" orientation="landscape" file="US07891269-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="148.17mm" wi="134.96mm" file="US07891269-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="151.64mm" wi="130.81mm" file="US07891269-20110222-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="150.79mm" wi="140.04mm" orientation="landscape" file="US07891269-20110222-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application claims the benefit of priority under 35 USC 119 of Japanese patent application no. 2007-210266, filed on Aug. 10, 2007, which application is hereby incorporated by reference in its entirety.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">1. Field of the Invention</p>
+<p id="p-0004" num="0003">The present invention relates to a vehicle having a handlebar, and in particular, relates to a straddle-type vehicle including a handlebar cover.</p>
+<p id="p-0005" num="0004">2. Description of Related Art</p>
+<p id="p-0006" num="0005">In general, in a straddle-type vehicle, a meter unit including a speedometer and the like is attached to a handlebar. For example, in JP-A-2005-119392, a handlebar cover for covering the handlebar and a meter unit are integrally assembled. The handlebar cover in JP-A-2005-119392 includes a front cover for covering the handlebar from the front and a rear cover for covering the handlebar from the rear that are mated with each other and joined together with a screw. The meter unit is fitted to an opening formed on top of the rear cover.</p>
+<p id="p-0007" num="0006">However, in the handlebar cover disclosed in JP-A-2005-119392, the screw is exposed to the outside and therefore has insufficient protection. For example, rainwater may collect around the screw and cause the screw to rust. In addition, because the screw is fastened from a rear cover side, the space for a meter display (such as a speedometer display) in the rear cover is decreased. A large space for the meter display is preferable from a viewpoint of visibility so that a rider who moves his/her attention to the meter display can immediately recognize a vehicle state.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0008" num="0007">The present invention addresses this point and provides a vehicle with protection of a fastener member for fastening a handlebar cover.</p>
+<p id="p-0009" num="0008">A vehicle of the present invention includes a handlebar and a handlebar cover for covering the handlebar. The handlebar cover comprises a front cover for covering a front side of the handlebar and a rear cover for covering a rear side of the handlebar. The front cover and the rear cover are fastened to each other by a fastener member. The fastener member is covered by a cover attached to the handlebar cover.</p>
+<p id="p-0010" num="0009">With the vehicle of the present invention, the fastener member for fastening the front and rear covers is covered. Therefore, exposure of the fastener member to the outside of the handlebar cover is avoided, and consequently, the fastener member is protected. Collection of rainwater around the fastener member and consequent rust of the fastener member are thereby avoided.</p>
+<p id="p-0011" num="0010">Other features and advantages of the invention will be apparent from the following detailed description, taken in conjunction with the accompanying drawings that illustrate, by way of example, various features of embodiments of the invention.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. 1</figref> is an external side view of a straddle-type vehicle according to the present invention.</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 2</figref> is a exploded perspective view illustrating surroundings of a handlebar of the straddle-type vehicle.</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 3</figref> is a schematic front view of the surroundings of the handlebar with a cover removed.</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 4</figref> is a cross-sectional view taken along IV-IV of <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 5</figref> is a schematic front view of the surroundings of the handlebar with a cover attached.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 6</figref> is a cross-sectional view taken along VI-VI of <figref idref="DRAWINGS">FIG. 5</figref>.</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 7</figref> is a cross-sectional view taken along VII-VII of <figref idref="DRAWINGS">FIG. 5</figref>.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 8</figref> is a top schematic view of the surroundings of the handlebar.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0020" num="0019">An embodiment of the present invention is now described with reference to the drawings. In the drawings, the same reference numerals are given to members and parts having the same functions. It should be understood that the present invention is not limited to the embodiment described below.</p>
+<p id="p-0021" num="0020">A straddle-type vehicle <b>100</b> according to an embodiment of the present invention is described with reference to <figref idref="DRAWINGS">FIG. 1</figref>. <figref idref="DRAWINGS">FIG. 1</figref> is a side view of straddle-type vehicle <b>100</b>. In the following description, directions are indicated from the perspective of a rider on vehicle <b>100</b>. Front and rear directions are defined by a traveling direction of vehicle <b>100</b>, the rider's left and right are left and right directions, and a vertical direction includes the up and down directions.</p>
+<p id="p-0022" num="0021">Straddle-type vehicle <b>100</b> of this embodiment is a so-called underbone-type motorcycle. Vehicle <b>100</b> includes a front wheel <b>70</b> that interlocks with a handlebar <b>20</b> to be rotatable and a rear wheel <b>72</b> driven by power of an engine. A seat <b>74</b> is disposed at the center of vehicle <b>100</b>, and handlebar <b>20</b> is disposed in front of seat <b>74</b>.</p>
+<p id="p-0023" num="0022">Front forks <b>76</b> extend downward to the front from handlebar <b>20</b> and support front wheel <b>70</b>. Front forks <b>76</b> absorb shocks from a road surface. The engine is disposed between front wheel <b>70</b> and seat <b>74</b> and drives rear wheel <b>72</b>. Front wheel <b>70</b> is maneuvered by handlebar <b>20</b> attached to top ends of front forks <b>76</b>. A handlebar cover <b>10</b> covers a central portion of handlebar <b>20</b>.</p>
+<p id="p-0024" num="0023">Handlebar cover <b>10</b> is described with reference to <figref idref="DRAWINGS">FIGS. 2-4</figref>. <figref idref="DRAWINGS">FIG. 2</figref> is an exploded perspective view illustrating surroundings of handlebar <b>20</b>, and <figref idref="DRAWINGS">FIG. 3</figref> is a schematic front view of the surroundings of handlebar <b>20</b> with a cover removed. <figref idref="DRAWINGS">FIG. 4</figref> is a cross-sectional view taken along IV-IV of <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0025" num="0024">Handlebar cover <b>10</b> covers the central portion of handlebar <b>20</b> and is segmented into front and rear parts. That is, as shown in <figref idref="DRAWINGS">FIG. 2</figref>, handlebar cover <b>10</b> is configured by assembling a front cover <b>10</b><i>a </i>and a rear cover <b>10</b><i>b </i>that are segmented into the front and the rear parts.</p>
+<p id="p-0026" num="0025">Front cover <b>10</b><i>a </i>is a handlebar cover member disposed in a front side and constitutes generally a front half of handlebar cover <b>10</b>. In this embodiment, front cover <b>10</b><i>a </i>extends in a left-and-right direction and covers the front central portion of handlebar <b>20</b> except grip portions <b>22</b>. Rear cover <b>10</b><i>b </i>is a handlebar cover member disposed in a rear side and constitutes generally a rear half of handlebar cover <b>10</b>. In this embodiment, rear cover <b>10</b><i>b </i>extends in the left-and-right direction and covers the rear central portion of handlebar <b>20</b> except grip portions <b>22</b>.</p>
+<p id="p-0027" num="0026">Front cover <b>10</b><i>a </i>and rear cover <b>10</b><i>b </i>are fastened to each other by two fastener members <b>16</b>, <b>17</b>. Fastener members <b>16</b>, <b>17</b> are, for example, screws. As shown in <figref idref="DRAWINGS">FIGS. 2 and 3</figref>, front cover <b>10</b><i>a </i>and rear cover <b>10</b><i>b </i>are screwed together via screw <b>16</b> in a left side of handlebar cover <b>10</b> and screw <b>17</b> in a right side of handlebar cover <b>10</b>. Disassembly of handlebar cover <b>10</b> is facilitated by screwing front cover <b>10</b><i>a </i>to rear cover <b>10</b><i>b</i>, thereby improving the maintainability of an inside of handlebar <b>20</b>.</p>
+<p id="p-0028" num="0027">Screws <b>16</b>, <b>17</b> are fastened in a longitudinal direction of vehicle <b>100</b> from a front cover <b>10</b><i>a </i>side. As shown in <figref idref="DRAWINGS">FIG. 4</figref>, screw holes <b>14</b><i>a </i>and <b>14</b><i>b </i>for screw <b>16</b> are respectively formed in front cover <b>10</b><i>a </i>and rear cover <b>10</b><i>b</i>. Screw <b>16</b> is inserted through screw holes <b>14</b><i>a</i>, <b>14</b><i>b </i>from the front cover <b>10</b><i>a </i>side in the longitudinal direction (a reverse direction of the traveling direction of the vehicle) and fastens covers <b>10</b><i>a </i>and <b>10</b><i>b</i>. Screw <b>17</b> is screwed in the longitudinal direction from the front cover <b>10</b><i>a </i>side in the same configuration as screw <b>16</b>. As shown in <figref idref="DRAWINGS">FIGS. 3 and 4</figref>, screws <b>16</b>, <b>17</b> are fastened in such a manner with their screw heads <b>18</b>, <b>19</b> exposed on a front surface of front cover <b>10</b><i>a. </i></p>
+<p id="p-0029" num="0028">A cover <b>30</b> is placed to cover screw heads <b>18</b>, <b>19</b>. <figref idref="DRAWINGS">FIGS. 5-7</figref> show a condition where cover <b>30</b> is attached. <figref idref="DRAWINGS">FIG. 5</figref> is a schematic front view showing the surroundings of handlebar <b>20</b> with cover <b>30</b> attached. <figref idref="DRAWINGS">FIG. 6</figref> is a cross-sectional view taken along VI-VI of <figref idref="DRAWINGS">FIG. 5</figref>. <figref idref="DRAWINGS">FIG. 7</figref> is a cross-sectional view taken along VII-VII of <figref idref="DRAWINGS">FIG. 5</figref>.</p>
+<p id="p-0030" num="0029">As shown in <figref idref="DRAWINGS">FIGS. 5 and 6</figref>, cover <b>30</b> is attached to cover screws <b>16</b>, <b>17</b> exposed on an outer surface of handlebar cover <b>10</b> (especially, the front surface of front cover <b>10</b><i>a</i>). In this embodiment, cover <b>30</b> is a generally triangular plate member made of a resin material. Cover <b>30</b> can be of any shape as long as it covers screws <b>16</b>, <b>17</b> exposed on the outer surface of handlebar cover <b>10</b>. The shape of cover <b>30</b> can be modified according to the configuration of the handlebar cover (according to the fastening positions and number of screws, for example).</p>
+<p id="p-0031" num="0030">Screws <b>16</b>, <b>17</b> for fastening front cover <b>10</b><i>a </i>and rear cover <b>10</b><i>b </i>are thereby covered by cover <b>30</b>. Exposure of screws <b>16</b>, <b>17</b> on the outer surface of handlebar cover <b>10</b> is thereby avoided, and screws <b>16</b>, <b>17</b> are consequently protected from collection of rainwater and rust. In addition, in this embodiment, screws <b>16</b>, <b>17</b> are fastened in the longitudinal direction of the vehicle from the front cover <b>10</b><i>a </i>side. Consequently, even when rainwater and the like enters inside cover <b>30</b>, it is difficult for the rainwater to collect around screws <b>16</b>, <b>17</b>.</p>
+<p id="p-0032" num="0031">While the material for cover <b>30</b> is not limited in any way, an opaque material such as ABS resin is preferable. Here, the term &#x201c;opaque&#x201d; means a degree of opacity such that the inside of cover <b>30</b> is visually unrecognizable. With such a configuration, screws <b>16</b>, <b>17</b> are covered to be invisible. Accordingly, the exterior appearance of the handlebar cover (consequently, the exterior appearance of vehicle <b>100</b>) are improved, and consequently, merchantability is improved. Regardless of the material used for cover <b>30</b>, cover <b>30</b> covers and protects fastening screws <b>16</b>, <b>17</b>. Therefore, cover <b>30</b> may be made of a translucent material (for example, polycarbonate, acrylic resin, or the like).</p>
+<p id="p-0033" num="0032">Cover <b>30</b> may be configured only to cover screws that need to be covered. Thus, cover <b>30</b> may be configured to cover all screws or to selectively cover only some screws. For example, cover <b>30</b> can be configured such that it selectively covers a screw fastened in a position where rainwater tends to collect (such as an exposed screw heading upward of the vehicle). Or, cover <b>30</b> can be configured such that it selectively covers a screw that is highly visible (for example, a screw exposed on the front surface of the front cover) in order to improve the exterior appearance of the handlebar cover.</p>
+<p id="p-0034" num="0033">Cover <b>30</b> may not only cover a cover fastening section, which is described above, but may also cover other components mounted around the handlebar. For example, as shown in <figref idref="DRAWINGS">FIG. 2</figref>, a brake master cylinder may be housed in the right side within handlebar cover <b>10</b>. However, if a vehicle structure wherein a part of the brake master cylinder is exposed to the outside is adopted, cover <b>30</b> can be configured to cover the brake master cylinder.</p>
+<p id="p-0035" num="0034">Components around a brake handle can also be protected by cover <b>30</b>, and thus can be prevented from being exposed. The shape of cover <b>30</b> can be modified in accordance with a layout of the components covered by cover <b>30</b>. Cover <b>30</b> may have functions beyond improving the design or covering fastening section. For example, cover <b>30</b> may be in a screen shape and be utilized as a so-called visor.</p>
+<p id="p-0036" num="0035">In this embodiment, as shown in <figref idref="DRAWINGS">FIG. 2</figref>, cover <b>30</b> is screwed to front cover <b>10</b><i>a </i>through two screws <b>42</b>, <b>43</b>. As shown in <figref idref="DRAWINGS">FIG. 7</figref>, a rear surface of cover <b>30</b> has a projection <b>34</b> projecting obliquely downward, and screw holes <b>46</b>, <b>40</b> for a screw <b>42</b> are respectively formed in projection <b>34</b> and front cover <b>10</b><i>a</i>. Screw <b>42</b> is inserted through screw holes <b>46</b>, <b>40</b> in the longitudinal direction from a cover <b>30</b> side and fastens projection <b>34</b> and front cover <b>10</b><i>a </i>to each other. In this configuration, screw <b>42</b> is concealed behind cover <b>30</b>, and exposure of a screw head of screw <b>42</b> is thereby avoided when seen from forward of the vehicle.</p>
+<p id="p-0037" num="0036">Other characteristics of handlebar cover <b>10</b> are described in detail with reference to <figref idref="DRAWINGS">FIG. 8</figref>, which is a top schematic view of the surroundings of handlebar <b>20</b>.</p>
+<p id="p-0038" num="0037">As shown in <figref idref="DRAWINGS">FIG. 8</figref>, a meter unit <b>50</b> is fitted to an opening formed in the top of rear cover <b>10</b><i>b</i>. In order for the rider seated on the seat to have a better view, the opening opens obliquely upward to the rear. Meter unit <b>50</b> has a lens <b>52</b> at its top and various meter mechanisms including a speedometer are mounted therein. Lens <b>52</b> is a transparent member such that the inside of meter unit <b>50</b> is visually recognizable. Because screws <b>16</b>, <b>17</b> for fastening front cover <b>10</b><i>a </i>and rear cover <b>10</b><i>b </i>are fastened from the screw cover <b>10</b><i>a </i>side, the fastening sections of screws <b>16</b>, <b>17</b> are not exposed on a rear surface of rear cover <b>10</b><i>b. </i></p>
+<p id="p-0039" num="0038">With such a configuration, compared to a handlebar cover with screws fastened from the rear cover <b>10</b><i>b </i>side, the opening in rear cover <b>10</b><i>b </i>can be enlarged due to a lack of exposure of the fastening sections of screws <b>16</b>, <b>17</b>. Accordingly, the housing space of meter unit <b>50</b> (especially, a display area of the meter) can be enlarged. As a result, a rider who moves his/her attention to the display area of the meter mounted in the handlebar cover can immediately recognize a vehicle state.</p>
+<p id="p-0040" num="0039">The present invention is not limited to a vehicle in which a rider straddles to sit on a seat, but also is applicable to a vehicle in which a rider is seated with his/her legs closed (typically, a scooter-type vehicle). In addition, in vehicle <b>100</b> as shown in <figref idref="DRAWINGS">FIG. 1</figref>, headlights <b>73</b> are installed on a cowling <b>71</b> disposed below and in front of handlebar cover <b>10</b>; however, the structure is not limited to this. The headlights may be installed on the handlebar cover, for example. Moreover, the invention is not limited to an underbone-type motorcycle, and is also applicable to other straddle-type vehicles having a handlebar cover that can be segmented into a front and a rear parts. For example, the invention may be applied to four-wheel buggies (ATV: all terrain vehicles) and snowmobiles.</p>
+<p id="p-0041" num="0040">Although embodiments of the present invention have been described, these descriptions should not be construed as limitations and various modifications may be made thereto.</p>
+<p id="p-0042" num="0041">The present invention provides a straddle-type vehicle with protection of a fastener member for fastening a handlebar cover.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A vehicle comprising:
+<claim-text>a handlebar including a front side and a rear side;</claim-text>
+<claim-text>a handlebar cover arranged to cover the handlebar, the handlebar cover including a front cover arranged to cover the front side of the handlebar and a rear cover arranged to cover the rear side of the handlebar;</claim-text>
+<claim-text>at least one fastener member arranged to fasten the front cover to the rear cover, the at least one fastener member arranged to extend through an aperture in the front cover; and</claim-text>
+<claim-text>a cover arranged to cover the fastener member from a front of the vehicle.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The vehicle according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the at least one fastener member extends through a front surface of the front cover, and the cover is disposed on a front side of the at least one fastener member.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The vehicle according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the at least one fastener member extends in a longitudinal direction of the vehicle from a front surface of the front cover.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The vehicle according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the at least one fastener member is a screw.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The vehicle according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the cover is made of an opaque material.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The vehicle according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the rear cover includes an opening arranged to expose a meter unit at a top of the rear cover.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The vehicle according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the front cover is attached to the rear cover by a second fastener member, and the second fastener member is concealed by a surface of the cover.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The vehicle according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the cover includes a projection projecting obliquely downward from a rear surface of the cover, and the second fastener member extends through a hole in the projection.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The vehicle according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the vehicle is a straddle vehicle.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The vehicle according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the vehicle is an underbone motorcycle.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The vehicle according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the cover is arranged to cover at least a portion of a front surface of the front cover.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

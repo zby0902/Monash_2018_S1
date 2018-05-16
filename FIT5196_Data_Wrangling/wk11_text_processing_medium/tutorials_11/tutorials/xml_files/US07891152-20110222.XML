@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891152-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891152</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12323962</doc-number>
+<date>20081126</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>CN</country>
+<doc-number>2008 1 0066257</doc-number>
+<date>20080328</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>202</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>E</section>
+<class>04</class>
+<subclass>C</subclass>
+<main-group>2</main-group>
+<subgroup>38</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 52657</main-classification>
+<further-classification> 52291</further-classification>
+</classification-national>
+<invention-title id="d2e71">Sliding door arrangement</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>202722</doc-number>
+<kind>A</kind>
+<name>Harrington</name>
+<date>18780400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 49381</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>515340</doc-number>
+<kind>A</kind>
+<name>Judd</name>
+<date>18940200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52291</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>1114479</doc-number>
+<kind>A</kind>
+<name>Iven</name>
+<date>19141000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>256 31</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>1235152</doc-number>
+<kind>A</kind>
+<name>Swan</name>
+<date>19170700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 49388</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>1298072</doc-number>
+<kind>A</kind>
+<name>McNabney</name>
+<date>19190300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>256 73</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>1923961</doc-number>
+<kind>A</kind>
+<name>Wood</name>
+<date>19330800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52291</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>2144528</doc-number>
+<kind>A</kind>
+<name>Warren</name>
+<date>19390100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52675</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>2434447</doc-number>
+<kind>A</kind>
+<name>Van Horn</name>
+<date>19480100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 49160</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>2597786</doc-number>
+<kind>A</kind>
+<name>Fontaine</name>
+<date>19520500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 527981</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>2686579</doc-number>
+<kind>A</kind>
+<name>Johannsen</name>
+<date>19540800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52579</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>2732919</doc-number>
+<kind>A</kind>
+<name>Johnson, Jr.</name>
+<date>19560100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 49372</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>3367080</doc-number>
+<kind>A</kind>
+<name>McClelland</name>
+<date>19680200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52645</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>4083535</doc-number>
+<kind>A</kind>
+<name>Britt</name>
+<date>19780400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>256 24</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>4167088</doc-number>
+<kind>A</kind>
+<name>Governale</name>
+<date>19790900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52207</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>4618067</doc-number>
+<kind>A</kind>
+<name>Cohn et al.</name>
+<date>19861000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>220  15</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>4628638</doc-number>
+<kind>A</kind>
+<name>Elko et al.</name>
+<date>19861200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 49426</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>5279088</doc-number>
+<kind>A</kind>
+<name>Heydon</name>
+<date>19940100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52241</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>5575321</doc-number>
+<kind>A</kind>
+<name>Currier</name>
+<date>19961100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>160 90</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>5862639</doc-number>
+<kind>A</kind>
+<name>Abou-Rached</name>
+<date>19990100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 522236</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>6192637</doc-number>
+<kind>B1</kind>
+<name>Boilen et al.</name>
+<date>20010200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 521673</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>6941718</doc-number>
+<kind>B1</kind>
+<name>diGirolamo et al.</name>
+<date>20050900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52695</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>2002/0129569</doc-number>
+<kind>A1</kind>
+<name>Collins</name>
+<date>20020900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 5220461</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>2003/0056465</doc-number>
+<kind>A1</kind>
+<name>Banicevic et al.</name>
+<date>20030300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 527841</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>9</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 522231</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 522236</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 522238</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 5222312</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 52291</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 52640</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 526561</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 526568</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 52695</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 52657</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 526564</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 52207</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 52455</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 52456</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 52457</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 52458</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>256 73</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 49404</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 49413</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 49453</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 49463</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 49464</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 49380</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 49501</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>5</number-of-drawing-sheets>
+<number-of-figures>6</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090241427</doc-number>
+<kind>A1</kind>
+<date>20091001</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Yu</last-name>
+<first-name>Jiahong</first-name>
+<address>
+<city>Shenzhen</city>
+<country>CN</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>CN</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>J.C. Patents</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Shenzhen Hongmen Science &#x26; Technology Co., Ltd.</orgname>
+<role>03</role>
+<address>
+<city>Guangdong</city>
+<country>CN</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Canfield</last-name>
+<first-name>Robert J</first-name>
+<department>3633</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Demuren</last-name>
+<first-name>Babajide</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A sliding door arrangement includes a plurality of door units; at least one upright post connecting adjacent door units; a lower beam located at the bottom of and connected with the upright post; and a plurality of cross rod assemblies disposed at one side or both sides of the door units respectively to adjust the tightness of the sliding door arrangement. The sliding door arrangement of the present invention can be packaged and transported in separate parts and then quickly and conveniently assembled on site. In addition, the sliding door arrangement of the present invention is perfectly integral and decorative and provides sufficient strength.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="213.53mm" wi="150.03mm" file="US07891152-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="232.49mm" wi="130.89mm" orientation="landscape" file="US07891152-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="228.60mm" wi="149.44mm" file="US07891152-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="155.79mm" wi="120.31mm" file="US07891152-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="224.28mm" wi="88.82mm" file="US07891152-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="180.85mm" wi="156.38mm" orientation="landscape" file="US07891152-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATION</heading>
+<p id="p-0002" num="0001">This application claims the priority benefit of Chinese application serial no. 200810066257.1, filed Mar. 28, 2008. The entirety of the above-mentioned patent application is hereby incorporated by reference herein and made a part of specification.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">1. Field of the Invention</p>
+<p id="p-0004" num="0003">The present invention relates to a sliding door which is opened or closed in an integrally sliding way, particularly relates to a door arrangement for a sliding door, which is convenient to transport and assembly, and which is perfectly integral and decorative.</p>
+<p id="p-0005" num="0004">2. Discussion of the Related Art</p>
+<p id="p-0006" num="0005">Doors are important component parts for buildings and public facilities. Doors are also the most frequently used architectural components. Common doors include doors opened pivotally, telescopic doors opened or closed telescopically as yard doors and sliding doors opened in a push-pull way as yard doors. Conventional sliding door consists of a door body and a roller mounted at the bottom of the door body, and requires sliding track to be laid on the ground. With external force, the sliding door can slide on the sliding track through the roller at the bottom thereof. The door bodies for conventional sliding doors are all fixed structures. The connections between the door frames and the vertical bars and the connections between the door frames and the upper beam and the lower beam are made by welding or riveting. Sliding doors are usually large in size, some even to the extent of dozens of meters in length and/or width. Due to the fixed structure of the conventional sliding doors, these doors cannot be transported in separate parts and assembled on site later, thus cause great inconvenience and cost increase in both packaging and transportation.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0007" num="0006">An object of the present invention is to provide a sliding door arrangement, which can be packaged and transported in separate parts and then quickly and conveniently assembled on site.</p>
+<p id="p-0008" num="0007">Another object of the present invention is to provide a sliding door arrangement which is perfectly integral and decorative and provides sufficient strength.</p>
+<p id="p-0009" num="0008">To achieve the above object, the present invention provides a sliding door arrangement which comprises: a plurality of door units; at least one upright post, connecting two adjacent door units; a lower beam, located at a bottom of the lower beams and connected with the upright post; and a plurality of cross rod assemblies, disposed at one side or both sides of each door unit respectively to adjust a tightness of the sliding door arrangement.</p>
+<p id="p-0010" num="0009">The door units are grid type, to be specific, the door units are formed by connecting an outer frame and a plurality of vertical rods which are arranged vertically and spaced apart.</p>
+<p id="p-0011" num="0010">The sliding door arrangement further comprises: an upper beam, located on a top of the sliding door arrangement; and a plurality of connectors, connecting the lower beam, the upper beam and the cross rod assembly with the upright post.</p>
+<p id="p-0012" num="0011">The upright post is hollow in its center and comprises: a plurality of positioning slots on right side and left side thereof for engaging respective door units; an upper connecting hole near the upper end thereof; a lower connecting hole near the lower end thereof; an upper opening at the upper end thereof for connecting the upright post with the upper beam; a lower opening at the lower end thereof for connecting the upright post with the lower beam.</p>
+<p id="p-0013" num="0012">The lower beam generally has an inverted U shape cross-section, and comprises: a groove on its top surface along the longitudinal direction, to engage with the door unit; and a plurality of connecting holes disposed corresponding to the position of the upright post, to connect the lower beam with the upright post.</p>
+<p id="p-0014" num="0013">The connector includes a plurality of connecting sleeves, with a shape conforming to the internal shape of the upright post for inserting therein. The connecting sleeve comprises: an opening, facing to the upper opening or the lower opening of the upright post when assembled; a bottom, having a plurality of vertical connecting holes thereon; at least two sidewalls, having a plurality of horizontal connecting holes thereon for connecting with the rods.</p>
+<p id="p-0015" num="0014">The connector further includes: a plurality of connecting blocks, disposed in the upper beam and the lower beam corresponding to the positions of the connecting sleeves respectively, and having a plurality of threaded holes thereon corresponding to the plurality of vertical connecting holes of the connecting sleeves; and a plurality of connecting bolts, each with one end disposed in corresponding connecting sleeve and the other end threadedly connected with the connecting block through the lower beam or the upper beam respectively, so that the lower beam and the upper beam are connected with the upright post.</p>
+<p id="p-0016" num="0015">Each of cross rod assemblies comprises two rods substantially diagonally disposed across the side surface of each door unit. Both ends of each rod have a rod connecting hole. The rod is connected with the upright post by a pin shaft or bolt. The pin shaft or bolt passes through the rod connecting hole, the upper connecting hole and the lower connecting hole of the upright post, and the horizontal connecting hole of the connecting sleeve respectively. Each of the two rods has a shaft hole at an intersection of two rods. Each of cross rod assemblies further comprises a center shaft assembly, for rotatablely connecting the two rods together at the intersection. Furthermore, each of the rods consists of several threadedly connected rod segments, and the revolving direction of the rod segments is configured so that the tightness of the sliding door arrangement could be adjusted by revolving corresponding rod segments.</p>
+<p id="p-0017" num="0016">The contribution of the present invention is in that it overcomes various defects in conventional sliding doors. Since the connections of the various members of the sliding door according to the present invention, including the connections between each door unit and the upright posts and the connections between the upright posts and the upper beam and the lower beam, are formed by insertion, these members are not only easy to be processed, but also convenient to be packaged and transported in separate parts and assembled quickly on site. Thus, the cost for packaging and transportation is saved considerably and the work efficiency is improved significantly. In addition, the cross rods disposed at both sides of the sliding door arrangement which are used to adjust the tightness thereof ensure the strength of the sliding door arrangement, and also enhance the decorativeness and the aesthetic appearance of the sliding door arrangement.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 1</figref> is a schematic diagram illustrating an exemplary sliding door arrangement according to one embodiment of the present invention.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 2A</figref> is an exploded view of the sliding door arrangement of <figref idref="DRAWINGS">FIG. 1</figref>, and <figref idref="DRAWINGS">FIG. 2B</figref> is an enlarged view of portion A in <figref idref="DRAWINGS">FIG. 2A</figref>.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 3</figref> is a cross-sectional side view of <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 4A</figref> is a schematic diagram illustrating a rod assembly used in the sliding door arrangement of <figref idref="DRAWINGS">FIG. 1</figref>, and <figref idref="DRAWINGS">FIG. 4B</figref> is an exploded view illustrating the parts of the rod assembly.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DESCRIPTION OF THE PREFERRED EMBODIMENTS</heading>
+<p id="p-0022" num="0021">The following embodiments are intended to further explain and illustrate the present invention, but not intended to limit the present invention in any way.</p>
+<p id="p-0023" num="0022">Referring to <figref idref="DRAWINGS">FIG. 1</figref> and <figref idref="DRAWINGS">FIG. 2</figref>, the sliding door arrangement according to the present invention includes a plurality of door units <b>10</b>, a plurality of upright posts <b>20</b>, a lower beam <b>30</b>, cross rod assemblies <b>40</b> and connectors <b>60</b>. The sliding door arrangement may selectively include an upper beam <b>50</b>. The door unit <b>10</b> is grid type, to be specific, the door unit <b>10</b> is a grid type part formed by connecting an outer frame <b>11</b> of aluminum profile and a plurality of vertical rods <b>12</b> of hollow aluminum tube which are arranged vertically and spaced apart from each other, and the door unit <b>10</b> can be packaged and transported separately. The sliding door arrangement <b>100</b> of the present invention is generally configured by connecting the door units by the plurality of the upright posts. Though only two door units are shown in <figref idref="DRAWINGS">FIG. 1</figref> and <figref idref="DRAWINGS">FIG. 2</figref>, the number of the door units is not limited to this; obviously, the number of the door units depends on the actual length and design requirements of the sliding door arrangement.</p>
+<p id="p-0024" num="0023">As shown in <figref idref="DRAWINGS">FIG. 2B</figref>, the upright post <b>20</b> is a hollow tubular body of aluminum profile with a substantially rectangular cross section, the height of which is about the same as that of the sliding door arrangement. The upright post has positioning slots <b>21</b> on the right side and the left side, so that the right side and the left side of the door unit <b>10</b> can be positioned in these slots. The upright post <b>20</b> has an upper opening <b>22</b> and a lower opening <b>23</b> at the upper end and the lower end respectively to connect with the upper beam <b>50</b> and the lower beam <b>30</b>. The upright post <b>20</b> has an upper connecting hole <b>24</b> near the upper end thereof for connecting the cross rod assembly to the upright post. The upright post <b>20</b> further has a lower connecting hole <b>25</b> near the lower end thereof for connecting the cross rod assembly to the upright post.</p>
+<p id="p-0025" num="0024">In an embodiment of the present invention, an upper beam <b>50</b>, which is a hollow tubular body of aluminum profile with U shape cross section, is mounted on the top of the sliding door arrangement <b>100</b>. The upper beam <b>50</b> has connecting holes (not shown) on the lower sidewall at positions corresponding to the upright posts <b>20</b> in order to connect with the upright posts <b>20</b> through connectors <b>60</b>.</p>
+<p id="p-0026" num="0025">As show in <figref idref="DRAWINGS">FIG. 2A</figref>, the lower beam <b>30</b>, which is made of aluminum profile, with an approximately rectangular cross-section (also could be regarded as an inverted U shape cross-section), is mounted at the bottom of the sliding door arrangement <b>100</b>. As shown in <figref idref="DRAWINGS">FIG. 3</figref>, a spacer plate <b>33</b>, which has an inverted T shape, is disposed in the lower beam near the upper portion thereof in order to increase the strength of the lower beam. The lower beam has two grooves on the top surface along the longitudinal direction, which are corresponding to a wall thickness of the outer frame <b>11</b> of the door units, so that the outer frame <b>11</b> of the plurality of door units <b>10</b> can be embedded and engaged in these grooves. The lower beam <b>30</b> has a plurality of connecting holes <b>32</b> on its top surface at positions corresponding to the upright posts <b>20</b> and connects with the upright posts <b>20</b> though connectors <b>60</b>.</p>
+<p id="p-0027" num="0026">As shown in <figref idref="DRAWINGS">FIG. 2A</figref>, <figref idref="DRAWINGS">FIG. 2B</figref> and <figref idref="DRAWINGS">FIG. 3</figref>, the connector <b>60</b> includes a connecting sleeve <b>61</b>, at least a connecting block <b>62</b> and several connecting bolts <b>63</b>. As shown in <figref idref="DRAWINGS">FIG. 2A</figref>, the connecting sleeve <b>61</b> is in a rectangular shape conforming to the internal shape of the upright post <b>20</b> for inserting therein. For example, the connecting sleeve <b>61</b> is made of plastic material. The connecting sleeve <b>61</b> includes an opening, a bottom and at least two sidewalls (not labeled). The opening faces to the upper opening <b>22</b> or the lower opening <b>23</b> of the upright post <b>20</b> when assembled. The bottom has a plurality of vertical connecting holes <b>611</b> thereon. The sidewalls have a plurality of horizontal connecting holes <b>612</b> thereon for connecting with the rods <b>41</b>,<b>42</b>(below mentioned). The connecting sleeve for connecting the lower beam <b>30</b> is opened upward, while the connecting sleeve for connecting the upper beam <b>50</b> is opened downward.</p>
+<p id="p-0028" num="0027">In <figref idref="DRAWINGS">FIG. 2B</figref>, the connecting block <b>62</b> which is a plate like body has a plurality of threaded holes <b>621</b> corresponding to the plurality of vertical connecting holes <b>611</b> on the connecting sleeve <b>61</b>. As shown in <figref idref="DRAWINGS">FIG. 3</figref>, the connecting block <b>62</b> is disposed in the lower beam <b>30</b> or the upper beam <b>50</b> at the position corresponding to the upright post <b>20</b> respectively, where the connecting block in the lower beam <b>30</b> is mounted in the top portion inside of the lower beam, while the connecting block in the upper beam <b>50</b> is mounted at the bottom of the upper beam, and the connecting block is mounted into the upper beam or lower beam by a special fixture. When the lower beam <b>30</b> and the upper beam <b>50</b> are connected with the upright post <b>20</b>, one end of the connecting bolt <b>63</b> with a screw cap is disposed in the connecting sleeve <b>61</b>, while the other end passes through the lower beam <b>30</b> or the lower beam <b>50</b> to threadedly connect with the connecting block <b>62</b>, so that the lower beam <b>30</b> and the upper beam <b>50</b> could connect with the upright post.</p>
+<p id="p-0029" num="0028">As shown in <figref idref="DRAWINGS">FIG. 2A</figref>, <figref idref="DRAWINGS">FIG. 2B</figref> and <figref idref="DRAWINGS">FIG. 3</figref>, each door unit <b>10</b> is equipped with a pair of cross rod assemblies <b>40</b> on the front side and the rear side respectively to adjust the degree of tightness. The rod assembly, as shown in <figref idref="DRAWINGS">FIG. 1</figref>, <figref idref="DRAWINGS">FIG. 4A</figref> and <figref idref="DRAWINGS">FIG. 4B</figref>, includes two rods <b>41</b>, <b>42</b> and a center shaft assembly <b>43</b>. Refer to <figref idref="DRAWINGS">FIG. 4B</figref>, the rods <b>41</b>, <b>42</b> are formed by threadedly connecting several rod segments made of hollow tube. In this example, each of the rods <b>41</b>, <b>42</b> is formed by threadedly connecting three rod segments <b>411</b>, <b>412</b>, <b>413</b> and <b>421</b>, <b>422</b>, <b>423</b> respectively. The two ends of each of the rod segments <b>411</b>, <b>413</b> and <b>421</b>, <b>423</b> located at the edges have threaded portions with a smaller external diameter than an internal diameter of the rod segments <b>412</b> and <b>422</b> located at center. The revolving directions of the external threads at the two ends of each of the rod segments <b>411</b>, <b>413</b> and <b>421</b>, <b>422</b> are opposite, that is, if one end revolves to the left, then the other end revolves to the right. Correspondingly, both ends of each of the rod segments <b>412</b>, <b>412</b> located at the center have internal threads that revolve in the same direction as the external threads of the rod segments <b>411</b>, <b>413</b> and <b>421</b>, <b>423</b> and threadedly connect with them respectively. Rod segments <b>412</b>, <b>422</b> have shaft holes <b>4121</b>, <b>4221</b> respectively at the intersection of two rods <b>41</b>, <b>42</b>. In this example, both ends of each of rods <b>41</b>, <b>42</b> are provided with adapters <b>414</b>,<b>424</b> respectively. The adapters <b>414</b> and <b>424</b> have rod connecting holes <b>4141</b> and <b>4241</b> respectively to connect with the upright post <b>20</b>. The adapters <b>414</b> and <b>424</b> have internal threads that revolve in the same direction as the external threads of the rod segments <b>411</b>, <b>413</b> and <b>421</b>, <b>423</b> and threadedly connect with them respectively. As shown in <figref idref="DRAWINGS">FIG. 1</figref>, the rods <b>41</b>, <b>42</b> are diagonally connected on the side surface of each door unit, the upper end and the lower end of each of the rods <b>41</b>, <b>42</b> connecting with the upright posts <b>20</b> by a shaft pin <b>44</b> passing through the rod connecting holes <b>4141</b>, <b>4241</b> and the upper connecting hole <b>24</b> and lower connecting hole <b>25</b> of the upright post. The center shaft assembly <b>43</b> is rotatablely connected at the intersection of two rods. The center shaft assembly <b>43</b>, as shown in <figref idref="DRAWINGS">FIG. 4A</figref> and <figref idref="DRAWINGS">FIG. 4B</figref>, includes a center shaft <b>431</b>, a front shaft seat <b>432</b> and a rear shaft seat <b>433</b>, wherein, the front shaft seat <b>432</b> and the rear shaft seat <b>433</b> are in cover shape with shaft holes, and function to support and decorate the center shaft. A shaft sleeve <b>4331</b> is disposed in the rear shaft seat <b>433</b> and passes through the shaft holes <b>4121</b>, <b>4221</b>. The center shaft <b>431</b> passes through the front shaft seat <b>432</b> and the shaft sleeve <b>4331</b> of the rear shaft seat <b>433</b> and is fixed by at least a bolt, so that the rods <b>41</b>, <b>42</b> can rotate around the center shaft <b>431</b>. The degree of tightness of the rods <b>41</b>, <b>42</b> is adjustable. When adjusting, clamp any of the rod segments <b>411</b>, <b>413</b> and <b>421</b>, <b>423</b> of the rods <b>41</b> or <b>42</b> with a specific tool and rotate to simultaneously tighten or release the rods <b>41</b> or <b>42</b> to a suitable degree of tightness.</p>
+<p id="p-0030" num="0029">Referring to <figref idref="DRAWINGS">FIG. 2A</figref> and <figref idref="DRAWINGS">FIG. 2B</figref>, when assembling the sliding door arrangement of the present invention, firstly, engage each door unit <b>10</b> with the upright posts <b>20</b> on both sides; next, connect the upper end and the lower end of each upright post <b>20</b> with the upper beam <b>50</b> and the lower beam <b>30</b> through the connectors <b>60</b> respectively; then connect both ends of each of the rods <b>41</b>, <b>42</b> with the upright posts <b>20</b> respectively by the shaft pin <b>44</b> through connectors <b>60</b>.</p>
+<p id="p-0031" num="0030">The foregoing is illustrative of the present invention and is not to be construed as limiting thereof. Although a few exemplary embodiments of this invention have been described, those skilled in the art will readily appreciate that many modifications are possible in the exemplary embodiments without materially departing from the novel teachings and advantages of this invention. Accordingly, all such modifications are intended to be included within the scope of this invention as defined in the claims. Therefore, it is to be understood that the foregoing is illustrative of the present invention and is not to be construed as limited to the specific embodiments disclosed, and that modifications to the disclosed embodiments, as well as other embodiments, are intended to be included within the scope of the appended claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A sliding door arrangement, comprising:
+<claim-text>a plurality of door units;</claim-text>
+<claim-text>at least one upright post, connecting two adjacent door units;</claim-text>
+<claim-text>a lower beam, located at a bottom of the upright post and connected therewith;</claim-text>
+<claim-text>a plurality of cross rod assemblies, disposed at one side or both sides of each of the door units respectively to adjust a tightness of the sliding door arrangement;</claim-text>
+<claim-text>an upper beam located on a top of the sliding door arrangement; and</claim-text>
+<claim-text>a plurality of connectors connecting the lower beam, the upper beam and the cross rod assembly with the upright post respectively,</claim-text>
+<claim-text>wherein the upright post is hollow in a center thereof and comprises:</claim-text>
+<claim-text>a plurality of positioning slots defined on right side and left side of the upright post for engaging respective door units;</claim-text>
+<claim-text>an upper connecting hole near the upper end of the upright post for connecting the cross rod assembly thereto;</claim-text>
+<claim-text>a lower connecting hole near the lower end of the upright post for connecting the cross rod assembly thereto;</claim-text>
+<claim-text>an upper opening at the upper end of the upright post for connecting the upper beam therewith; and</claim-text>
+<claim-text>a lower opening at the lower end of the upright post for connecting the lower beam therewith.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The sliding door arrangement according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the door units are grid type.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The sliding door arrangement according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the door units are formed by connecting an outer frame and a plurality of vertical rods which are arranged vertically and spaced apart.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The sliding door arrangement according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein, the lower beam generally has an inverted U shape cross-section, and comprises:
+<claim-text>a groove on its top surface along the longitudinal direction, to engage with the door unit; and</claim-text>
+<claim-text>a plurality of connecting holes disposed corresponding to the position of the upright post, for connecting the lower beam with the upright post.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The sliding door arrangement according to <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the connector comprises:
+<claim-text>a plurality of connecting sleeves, with a shape conforming to the internal shape of the upright post for inserting therein, the connecting sleeves comprising:</claim-text>
+<claim-text>an opening, facing to the upper opening or the lower opening of the upright post when assembled;</claim-text>
+<claim-text>a bottom, having a plurality of vertical connecting holes thereon;</claim-text>
+<claim-text>at least two sidewalls, having a plurality of horizontal connecting holes thereon for connecting with the rods,</claim-text>
+<claim-text>a plurality of connecting blocks, disposed in the upper beam and the lower beam corresponding to the positions of the connecting sleeves respectively, and having a plurality of threaded holes thereon corresponding to the plurality of vertical connecting holes of the connecting sleeves; and</claim-text>
+<claim-text>a plurality of connecting bolts, each with one end disposed in corresponding connecting sleeve and the other end threadedly connected with the connecting block through the lower beam or the upper beam respectively, so that the lower beam and the upper beam are connected with the upright post.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The sliding door arrangement according to <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein each of cross rod assemblies comprises:
+<claim-text>two rods, substantially diagonally disposed across the side surface of each door unit; and</claim-text>
+<claim-text>a center shaft assembly, for rotatablely connecting the two rods together at the intersection,</claim-text>
+<claim-text>wherein both ends of each rod have a rod connecting hole, and the rods are connected with the upright post by a pin shaft or bolt, the pin shaft or bolt passing through the rod connecting holes and the upper connecting hole and the lower connecting hole of the upright post respectively, each of the two rods having a shaft hole at an intersection of two rods.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The sliding door arrangement according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein each of the cross rod assemblies comprises:
+<claim-text>two rods, substantially diagonally disposed across the side surface of each door unit, both ends of each rod connected to the upright post; and</claim-text>
+<claim-text>a center shaft assembly, for rotatablely connecting the two rods together at an intersection of the two rods,</claim-text>
+<claim-text>wherein each of the rods consists of several threadedly connected rod segments, and each of the revolving direction of the rod segments is configured so that the tightness of the sliding door arrangement could be adjusted by revolving corresponding rod segments.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The sliding door arrangement according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the center shaft assembly comprises:
+<claim-text>a center shaft;</claim-text>
+<claim-text>a front shaft seat; and</claim-text>
+<claim-text>a rear shaft seat with a shaft sleeve, the front shaft seat and the rear shaft seat being in cover shape with shaft holes, and functioning to support and decorate the center shaft,</claim-text>
+<claim-text>wherein the shaft sleeve passes through the shaft holes, and the center shaft passes through the front shaft seat and the shaft sleeve of the rear shaft seat and is fixed by at least a bolt, so that the rods could rotate around the center shaft.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. A sliding door arrangement, comprising:
+<claim-text>a plurality of door units, the door unit being grid type;</claim-text>
+<claim-text>at least one upright post, being hollow in its center;</claim-text>
+<claim-text>a lower beam, located at a bottom of the upright post and connected therewith; and</claim-text>
+<claim-text>a plurality of cross rod assemblies, disposed at one side or both sides of each door unit respectively to adjust the tightness of the sliding door arrangement,</claim-text>
+<claim-text>wherein, the upright post comprises:</claim-text>
+<claim-text>a plurality of positioning slots on right side and left side thereof for engaging respective door units;</claim-text>
+<claim-text>an upper connecting hole near the upper end thereof for connecting the cross rod assembly to the upright post;</claim-text>
+<claim-text>a lower connecting hole near the lower end thereof for connecting the cross rod assembly to the upright post;</claim-text>
+<claim-text>a lower opening at the lower end thereof for connecting the upright post with the lower beam; and</claim-text>
+<claim-text>a plurality of connectors, connecting the lower beam and the cross rod assembly with the upright post,</claim-text>
+<claim-text>wherein each of the cross rod assemblies comprises:</claim-text>
+<claim-text>two rods, substantially diagonally disposed across the side surface of each door unit, both ends of each rod connected to the upright post; and</claim-text>
+<claim-text>a center shaft assembly, for rotatablely connecting the two rods together at an intersection of the two rods. </claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

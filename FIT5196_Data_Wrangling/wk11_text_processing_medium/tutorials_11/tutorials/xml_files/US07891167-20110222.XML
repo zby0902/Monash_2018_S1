@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891167-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891167</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11798748</doc-number>
+<date>20070516</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>GB</country>
+<doc-number>0611963.0</doc-number>
+<date>20060616</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>951</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>02</class>
+<subclass>K</subclass>
+<main-group>3</main-group>
+<subgroup>02</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 602262</main-classification>
+<further-classification>244110 B</further-classification>
+<further-classification>23926525</further-classification>
+</classification-national>
+<invention-title id="d2e71">Gas turbine engine flow reverser</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>3650110</doc-number>
+<kind>A</kind>
+<name>Ghougasian</name>
+<date>19720300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60230</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>4232516</doc-number>
+<kind>A</kind>
+<name>Lewis et al.</name>
+<date>19801100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>6474059</doc-number>
+<kind>B2</kind>
+<name>Stretton</name>
+<date>20021100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 602262</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>6568172</doc-number>
+<kind>B2</kind>
+<name>Jannetta et al.</name>
+<date>20030500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 602262</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>6663042</doc-number>
+<kind>B2</kind>
+<name>Hatrick et al.</name>
+<date>20031200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>244110 B</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>7334395</doc-number>
+<kind>B2</kind>
+<name>Tweedie et al.</name>
+<date>20080200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 602262</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>7484356</doc-number>
+<kind>B1</kind>
+<name>Lair</name>
+<date>20090200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 602262</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>7673442</doc-number>
+<kind>B2</kind>
+<name>Seda et al.</name>
+<date>20100300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 602262</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>EP</country>
+<doc-number>1 416 147</doc-number>
+<kind>A1</kind>
+<date>20040500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>EP</country>
+<doc-number>1 515 035</doc-number>
+<kind>A2</kind>
+<date>20050300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>30</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 602262</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 60230</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>244110 B</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>23926525</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>23926529</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>5</number-of-drawing-sheets>
+<number-of-figures>5</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20080060342</doc-number>
+<kind>A1</kind>
+<date>20080313</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Udall</last-name>
+<first-name>Kenneth F.</first-name>
+<address>
+<city>Derby</city>
+<country>GB</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>GB</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Oliff &#x26; Berridge, PLC</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Rolls-Royce plc</orgname>
+<role>03</role>
+<address>
+<city>London</city>
+<country>GB</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Rodr&#xed;guez</last-name>
+<first-name>William H</first-name>
+<department>3741</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A flow reverser comprising a sleeve having a first part and a second part to define a flow path and axially separable from each other about a conjunction formed by a respective profile edges for the first part and the second part, the profile edges in a stowed position overlapping, the reverser characterised in that in a deployed position a nozzle part of each profile edge define together a nozzle jet and a reverser part of one edge profile is adjacent to a core to provide an effective flow deflector.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="290.15mm" wi="254.76mm" file="US07891167-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="242.91mm" wi="141.99mm" orientation="landscape" file="US07891167-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="256.29mm" wi="158.67mm" orientation="landscape" file="US07891167-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="254.17mm" wi="157.40mm" orientation="landscape" file="US07891167-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="236.98mm" wi="165.61mm" orientation="landscape" file="US07891167-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="194.90mm" wi="189.57mm" file="US07891167-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0002" num="0001">1. Field of the Invention</p>
+<p id="p-0003" num="0002">The present invention relates to thrust or flow reversers utilised in such situations as gas turbine engines or where control of a primary and secondary flow is required.</p>
+<p id="p-0004" num="0003">2. Description of Related Art</p>
+<p id="p-0005" num="0004">Thrust reversers in a gas turbine engine provide three functions, namely, to provide a contiguous external aero-dynamic surface for the engine nacelle, to provide a flow path for the engine in forward thrust mode and to reverse the exhaust flow in the engine to assist typically aircraft deceleration. It is known to provide thrust reversers which utilise blocker doors which extend into the flow path in order to reverse the flow direction in the exhaust flow reversal mode described above. It is also known to provide blocker less door designs in which axial translation of the aft part of the nacelle brings the front outer annulus into sealing engagement with the inner annulus hump which opens up a radial gap for the outflow of fan air for reverse thrust. Cascades are provided to form a nozzle and to direct the air axially and circumferentially. These cascades interleave between the inner and outer aft nacelle skins in the stowed position so that the load-path connecting the skins has to wrap around the cascades, hence the load-path is long and flexible.</p>
+<heading id="h-0002" level="1">BRIEF SUMMARY OF THE INVENTION</heading>
+<p id="p-0006" num="0005">In accordance with aspects of the present invention there is provided a gas turbine engine incorporating a flow reverser, the flow reverser comprising a first part and a translatable second part to define a flow path and axially separable from each other about a conjunction formed by respective profile edges of the first part and the second part, the profile edges in a stowed position overlapping, wherein in a deployed position a nozzle part of each profile edge define together a nozzle jet characterised in that the nozzle jet has a width that varies around at least a part of the circumference of the engine.</p>
+<p id="p-0007" num="0006">Typically, the profile edges in the stowed position provide a substantially contiguous surface across the conjunction opposite the core.</p>
+<p id="p-0008" num="0007">Typically, the conjunction includes a bull nose part in one edge profile and a hook part in the other edge profile.</p>
+<p id="p-0009" num="0008">Advantageously the reverser part engages the core to form a seal.</p>
+<p id="p-0010" num="0009">Possibly, the reverser part engages a hump part of the core.</p>
+<p id="p-0011" num="0010">Possibly, the nozzle parts converge to form the nozzle jet. Normally the nozzle parts converge to an opening at an outer side of the sleeve.</p>
+<p id="p-0012" num="0011">Potentially, the nozzle parts are arranged to substantially face each other.</p>
+<p id="p-0013" num="0012">Typically, the nozzle parts are reciprocally curved in an axis of separation between the first part and the second part.</p>
+<p id="p-0014" num="0013">Possibly, the reverser part and/or the core include seal elements. Typically, the seal elements include an inflatable part or flap or iris-type mechanism to close any gap between the reverser part and the core.</p>
+<p id="p-0015" num="0014">Possibly, the overlapping profile edges have a respective inter-engagement surface. Possibly, the inter-engagement surfaces have a variable width along the conjunction between the first part and the second part. Possibly, the profile edges define a half-moon nozzle jet in the deployed position. Normally, there are two half-moon nozzle jets either side of the flow reverser. Generally, top dead centre and bottom dead centre parts of the conjunction have the minimum or no gap between the first part and the second part in the deployed position.</p>
+<p id="p-0016" num="0015">Typically, the nozzle parts have rounded edges. Advantageously, one nozzle part is slightly outboard of the other nozzle part.</p>
+<p id="p-0017" num="0016">Generally, the sleeve can be cylindrical or oval or any cross-section appropriate in order to provide a nozzle jet by axial separation of a first part and a second part through profile edges.</p>
+<p id="p-0018" num="0017">Generally, in the stowed position outer parts of the edge profiles form a contiguous surface for the sleeve.</p>
+<p id="p-0019" num="0018">Generally, the edge profiles have a variable angle about the sleeve in order to create appropriate presentation of the nozzle jet in the deployed position. Possibly, the nozzle jets created in the flow reverser are symmetrical. Alternatively, the nozzle jets are not symmetrical about the sleeve.</p>
+<p id="p-0020" num="0019">Generally, the flow reverser is a thrust reverser in a gas turbine engine.</p>
+<p id="p-0021" num="0020">Possibly, the nozzle jets have a circumferential flow component.</p>
+<p id="p-0022" num="0021">Also in accordance with the present invention is a gas turbine engine including a flow reverser as a thrust reverser.</p>
+<p id="p-0023" num="0022">Preferably, the width of the nozzle jet is a minimum within 30 degrees of the bottom dead centre of the engine.</p>
+<p id="p-0024" num="0023">Preferably, the width of the nozzle jet (<b>30</b>) is a minimum within 30 degrees of the top dead centre of the engine.</p>
+<p id="p-0025" num="0024">Alternatively, the engine is attached to a pylon, the width of the nozzle jet is a minimum within 30 degrees of the pylon.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0026" num="0025">An embodiment depicting aspects of the present invention will now be described by way of example only with reference to the accompanying drawings in which:</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 1</figref> is a schematic illustration of a flow reverser in accordance with aspects of the present invention as a top half cross-section through a horizontal centreline H-H and shown in the deployed position;</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 2</figref> is a schematic rear perspective view illustrating a core part of the flow reverser;</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 3</figref> is a schematic side view of a gas turbine engine incorporating a flow reverser in accordance with aspects of the present invention in a stowed position; and</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 4</figref> is a schematic front perspective view of a gas turbine engine incorporating a flow reverser in accordance with aspects of the present invention in a deployed position; and,</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. 5</figref> is a schematic cross section of an engine with a reverser in a deployed position.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. 1</figref> provides a schematic top half cross-section along a horizontal centreline H-H of a flow or thrust reverser in accordance with aspects of the present invention. The flow reverser is illustrated in <figref idref="DRAWINGS">FIG. 1</figref> in its deployed position, that is to say with axial separation between a first part <b>1</b> and a second part <b>2</b>. In this deployed position a nozzle jet is created between surface parts <b>3</b>, <b>4</b> of the respective parts <b>1</b>, <b>2</b>. Thus, the angle of the thrust reverse direction duct is determined by the nozzle jet formed between the surfaces <b>3</b>, <b>4</b>. It will be understood that the particular angles and other configurations of the surfaces <b>3</b>, <b>4</b> are determined by operational performance requirements but generally will converge towards an opening at an outer peripheral part of the reverser. Furthermore, there will be a local gap and angle arranged so that the surfaces <b>3</b>, <b>4</b> face each other to define the appropriate nozzle jet between the surfaces <b>3</b>, <b>4</b>. In order to maintain the local gap and angle between the surfaces <b>3</b>, <b>4</b> it will be understood that these angles and relative axial positions will vary around the periphery of the reverser from the horizontal centreline H-H to maintain the appropriate presentation of the surfaces <b>3</b>, <b>4</b> whilst varying outward flow angle and local nozzle area for flow and thrust reverse performance.</p>
+<p id="p-0033" num="0032">It will be understood that the reverser is moved from the stowed position to the deployed position depicted in <figref idref="DRAWINGS">FIG. 1</figref> through effective axial separation of a conjunction of profile edges formed in the respective parts <b>1</b>, <b>2</b>. These profile edges incorporate the nozzle surface parts <b>3</b>, <b>4</b>. In such circumstances, deployment will be through the axial movement in the direction of arrowheads A. In the preferred embodiment depicted in <figref idref="DRAWINGS">FIG. 1</figref> it will therefore be understood that there is an effective large translation of an aft nacelle incorporating part <b>2</b> from a forward stowed position to an aft deployed position shown in <figref idref="DRAWINGS">FIG. 1</figref>. In the deployed position a reverser part <b>5</b> acts against a flow path core <b>6</b> and in particular a hump section <b>7</b> of that core. In the embodiment depicted it will be appreciated that a gas turbine engine is depicted and therefore the core <b>6</b> comprises the engine core. In such circumstances a reverse thrust flow BR from fan blades <b>8</b> and outlet guide vanes, <b>9</b> exits through the nozzle jet formed between the surfaces <b>3</b>, <b>4</b>.</p>
+<p id="p-0034" num="0033">In the stowed position the reverser part <b>5</b> seals against a bull nose part <b>10</b> of the edge profile defined in the first part <b>1</b>. In such circumstances it will be appreciated that at least a hook section of the reverser part <b>5</b> and the bull nose part <b>10</b> are axi-symmetric in order to create a substantially contiguous surface for normal operation. It will be understood that the fan blades <b>8</b> and guide vanes <b>9</b> generate a thrust flow which passes in the direction of arrowheads B. In the deployed position depicted in <figref idref="DRAWINGS">FIG. 1</figref> this flow B exits as the reverse flow BR. In the stowed position, that is to say with the profile edge of part <b>2</b> overlapping the profile edge of part <b>1</b> with the reverser or deflector part <b>5</b> engaging the bull nose <b>10</b> as indicated a substantially contiguous surface is created illustrated by broken line <b>11</b><i>s </i>and so the flow B will then pass along the flow path created between that contiguous surface <b>11</b><i>s </i>and the core <b>6</b> in a forward thrust mode. In the deployed position it will be noted the surface is axially displaced to a position shown as <b>11</b><i>d. </i></p>
+<p id="p-0035" num="0034">It will be noted that in the stowed position (shown in broken line), that inter-engagement surfaces <b>12</b>, <b>13</b> are provided in each profile edge when the profile edges overlap in normal forward thrust situations when the flow reverser is in the stowed position. In such circumstances a front edge part <b>4</b><i>s </i>substantially provided by the nozzle part <b>4</b> in such circumstances approaches an edge <b>14</b> to create an external aero-dynamic profile for a nacelle incorporating the flow reverser, that is to say, the outer surfaces <b>15</b>, <b>16</b> are substantially contiguous over the conjunction of the profile edges.</p>
+<p id="p-0036" num="0035">The situation depicted in <figref idref="DRAWINGS">FIG. 1</figref> assumes it is possible to provide sufficient radial outward projection by the hump <b>7</b> or inward projection by the reverser/deflector part <b>5</b> to create a reversing flow or that there is sufficient length to allow the axial separation to define the nozzle jet between the surfaces <b>3</b>, <b>4</b>. In such circumstances where it is difficult to provide sufficient radial projection it will be understood that either the reverser or deflector part <b>5</b> or the hump <b>7</b> may be provided with blocker doors, that is to say upstanding flaps with actuators or an inflatable seal or a camera iris-type arrangement to control the gap between the reverser/deflector part <b>5</b> and the hump <b>7</b>. It will be understood that such arrangements may also allow a higher efficiency seal to be created than simply bringing the deflector part <b>5</b> and hump <b>7</b> into close association.</p>
+<p id="p-0037" num="0036">A further alternative where translational length is limited or where fan flow area control balance is necessary is to allow some flow to continue through the forward thrust flow path with a gap left between the reverser/deflector part <b>5</b> and the hump <b>7</b> of the core <b>6</b>. This reduced gap throttles the axial forward flow proportion of flow B so that this flow over-expands through the forward thrust nozzle jet so that again the axial flow residual forward thrust B is low and the reverse thrust BR dominates.</p>
+<p id="p-0038" num="0037">It will be understood that there is a general need for a local small nozzle jet gap between the surfaces <b>3</b>, <b>4</b> with generally a large off-set between the forward surface <b>3</b> and the reverser/deflector part <b>5</b>. These conflicting requirements are achieved through use of a variable length with regard to the overlapping surfaces <b>12</b>, <b>13</b> separating the aft surface <b>4</b> of the nozzle jet and the reverser/deflector part <b>5</b>. As can be seen, the edge profile with nozzle surface <b>4</b> generally is not flat and has a curvature as described later.</p>
+<p id="p-0039" num="0038">It will be understood that the reverser arrangement in accordance with aspects of the present invention essentially comprises a sleeve having parts <b>1</b>, <b>2</b> normally held together in a stowed position with a preferably contiguous surface <b>11</b> for a flow path between that surface <b>11</b> and the core <b>6</b>. In such circumstances the parts <b>1</b>, <b>2</b> are generally cylindrical and in order to maximise the air guide flow length in the nozzle jet formed between the surfaces <b>3</b>, <b>4</b> it will be understood that in the stowed position the part <b>2</b> in the form of a cylinder <b>12</b> is only just outboard of a similar cylinder <b>13</b> formed in the part <b>1</b>. The profile edges are generally rounded to aid air flow, create structural smoothness and assist with regard to scissoring engagement of one part sliding over the other when moving to the stowed position. As will be described later typically the profile edges will be symmetrical creating half-moon apertures either side of top dead centre (TDC) and bottom dead centre (BDC) with the parts <b>1</b>, <b>2</b> never completely disengaging, that is to say separating from each other at these TDC and btc positions. As described previously, when in the stowed position the radial abutment of the parts <b>1</b>, <b>2</b> overlapping each other ensure radial alignment of the outer nacelle surfaces <b>15</b>, <b>16</b> to give a smooth external flow line.</p>
+<p id="p-0040" num="0039">For the avoidance of doubt although generally a cylindrical shape for the surfaces <b>12</b> and <b>13</b> is appropriate, it will be understood that the sleeve formed by the parts <b>1</b>, <b>2</b> may also take other axially viewed profiles including oval or even re-entrant interlocking profiles.</p>
+<p id="p-0041" num="0040">Although typically the surface <b>3</b> through its bull nose <b>10</b> will be symmetric with the surface incorporating the reverser or deflector part <b>5</b>, other parts of the thrust or flow reverser can be conformal in order to create the desired external surface. It will be understood that the edge <b>14</b> generally follows the same profile, which will typically be curved, as the surface <b>4</b> in order to create a substantive seal relative to external flow. Underlying this close association between the surface <b>4</b> and forward edge <b>14</b> it will be appreciated that this edge <b>14</b> may closely be formed to the surface <b>4</b> or not dependent upon requirements. Although it is necessary to accurately provide profiling of the surfaces <b>3</b>, <b>4</b> in order to achieve a desired nozzle jet form, it will be understood that the edge <b>14</b> as well as the reverser/deflector part <b>5</b> can take a simpler form providing significant benefits with regard to cost and weight reduction. By simpler form what is meant is that these parts <b>5</b>, <b>14</b> can be shaped to reasonable conformity with their opposed parts, respectively surface <b>3</b> and bull nose <b>10</b> along with nozzle surface <b>4</b>. If the surfaces are not accurately conformed as shown they need to avoid interference when stowing, that is to say maintain a position gap except at the sealing parts.</p>
+<p id="p-0042" num="0041"><figref idref="DRAWINGS">FIG. 2</figref> provides a schematic rear perspective view illustrating the first part <b>1</b> associated with an engine core <b>6</b> with the second part (<figref idref="DRAWINGS">FIG. 1</figref>) removed. It will be noted that the surface <b>3</b> varies in angle around its circumference starting within an angle of 40&#xb0; to the radial at 90&#xb0; from the top dead centre to a 50&#xb0; angle at 60&#xb0; from top dead centre and then follows a 10&#xb0; of circumference rule until 20&#xb0; from the top dead centre when it switches back to the side angle to bring the sleeve surface aft for a nozzle gap closure. This particular angular variation is not essential and will depend upon particular operational requirements but may be considered typical to an embodiment of the present invention. Its general form controls the axial and circumferential directions of the efflux jet. In particular, it will be understood that 20&#xb0; from top dead centre relationship with regard to the surface <b>3</b> angle may be too severe and a more radial angle may be acceptable for a smoother blend to top dead centre.</p>
+<p id="p-0043" num="0042">Note should be taken with regard to the edge <b>14</b> which will marry with the other nozzle surface <b>4</b> (<figref idref="DRAWINGS">FIG. 1</figref>) in use. As can be seen, the edge <b>14</b> is curved to match similar shaping of the nozzle surface <b>4</b> and in particular its profile edge for a consistency of surface <b>16</b> with the outer surface <b>15</b>.</p>
+<p id="p-0044" num="0043"><figref idref="DRAWINGS">FIG. 3</figref> illustrates a side view of a gas turbine engine incorporating a thrust or flow reverser in accordance with aspects of the present invention in a stowed position. As can be seen, the parts <b>1</b>, <b>2</b> are held in a juxtaposed position with the edge profiles overlapping so that nozzle surface <b>4</b> is associated with edge <b>14</b> and a substantially contiguous external surface is created between parts <b>1</b>, <b>2</b> over surfaces <b>15</b>, <b>16</b>. In such circumstances the aero-dynamic profile of an engine <b>100</b> incorporating a thrust reverser in its normal stowed position is not compromised. It will be understood that within the overlapping parts <b>1</b>, <b>2</b> the deflector or reverser part <b>5</b> (<figref idref="DRAWINGS">FIG. 1</figref>) has engaged the nozzle surface <b>3</b> (<figref idref="DRAWINGS">FIG. 1</figref>) and therefore a substantially contiguous surface <b>11</b> (<figref idref="DRAWINGS">FIG. 1</figref>) has been formed to enable normal forward thrust operation of the engine <b>100</b>.</p>
+<p id="p-0045" num="0044"><figref idref="DRAWINGS">FIG. 4</figref> shows a schematic front perspective view of the engine <b>100</b> depicted in <figref idref="DRAWINGS">FIG. 3</figref> in its deployed position. It will be noted that a nozzle jet is defined between surfaces <b>3</b>, <b>4</b> but at a top dead centre, and at a bottom dead centre although not shown, there is closing off of the nozzle jet so that the reverser in terms of the reversed flow BR avoids direct infringement at TDC with a mounting pylon or slat for the engine <b>100</b> and also ground impingement at BDC. It will also be noted that as the overlapping sections of the parts <b>1</b>, <b>2</b> in terms of the edge profiles are curved to give a scissoring effect initiated at TDC and BDC, that is to say gradual expansion and gradual pinching of the nozzle jet between the surfaces <b>3</b>, <b>4</b> during movement between the stowed position and the deployed position. It will also be understood that by appropriate choice of the angling of the angular nozzle surfaces <b>3</b>, <b>4</b> and particularly a reduced angle at 20% from either side of TDC and BDC also minimises the radial component of the reverse thrust BR to again minimise slat and ground impingement by that flow BR. Finally, it will be understood by appropriate choice of angling and gaps between the surfaces <b>3</b>, <b>4</b> specific control of the reversed thrust BR can be achieved and so present more desirable axial loads more evenly round the circumference of the engine <b>100</b>.</p>
+<p id="p-0046" num="0045">By appropriate choice of angles and gaps the reverser will have a nozzle jet area near to 90&#xb0; from TDC, that is to say in mid-point locations which are greater than that at near to TDC and BDC. In such circumstances the maximum nozzle jet area will typically be around portion <b>20</b> in <figref idref="DRAWINGS">FIG. 4</figref> and will symmetrically decrease back to lower nozzle areas nearer to the TDC and BDC. This arrangement as indicated may be symmetrical but the edge profiling in terms of creating the nozzle jet area need not be symmetrical from top to bottom or side to side if there is a benefit from such asymmetry in terms of greater reverse thrust performance. It will be appreciated that the embodiment described above generally has two lobes, that is to say half-moon type nozzle jets either side of TDC and BDC but where desirable by appropriate choice of nozzle surface <b>3</b>, <b>4</b> shaping it will be understood that a single substantially circumferential symmetrical nozzle jet could form a single lobe or more lobes could be provided about the circumference of the engine <b>100</b>. In such circumstances the nozzle jet area and distribution about the circumference may be tailored to requirements.</p>
+<p id="p-0047" num="0046">It will be appreciated by appropriate shaping of the nozzle surfaces <b>3</b>, <b>4</b> that the reverse thrust flow BR can be arranged to migrate away from TDC and BDC to the more open nozzle positions towards the lateral horizontal portion <b>20</b>. Such an arrangement should allow more efficient use of reverse thrust flow BR whilst avoiding slats and ground impingement problems.</p>
+<p id="p-0048" num="0047"><figref idref="DRAWINGS">FIG. 5</figref> shows a schematic cross section of a flow or thrust reverser in accordance with aspects of the present invention and in particular with regard to circumferential variation in the nozzle jet aperture provided in the references. Similar deployed position to previous Figs. has been used for comparison. Thus, an opening or nozzle jet <b>30</b> is provided between nozzle surfaces <b>3</b>, <b>4</b>. It will be noted in use a reverse flow or thrust BR passes through the jet nozzle <b>30</b>.</p>
+<p id="p-0049" num="0048">It will be noted at top dead centre TDC and bottom dead centre the nozzle jet <b>30</b> or opening closes or is blocked such that bypass air for the reverse flow or thrust BR is preferentially expelled out of the wider mid potions <b>20</b> of the nozzle jet <b>30</b>. Generally, at the top dead centre a pylon or nacelle hinge or mounting structures for an engine <b>100</b> are provided such that it will be undesirable to provide reverse flow or thrust in this area. At bottom dead centre (BDC) it is undesirable to eject air as such reverse flow or thrust will generally disturb runway debris potentially leading to ingestion by the fan blades. Nevertheless, the bypass air at the top dead centre and bottom dead centre has a circumferential velocity component diverted towards the openings of the nozzle jet <b>30</b>. This circumferential velocity component may be utilised in order to provide reverse thrust or flow particularly tuned to desired situations. As indicated above, a two lobe format as depicted in <figref idref="DRAWINGS">FIG. 5</figref> has substantially half moon type nozzle jets <b>30</b> but it will be appreciated where desired and in particular in order to create more circumferential velocity components in the reverse flow or thrust, additional lobes can be provided which are either balanced and circumferentially distributed across the engine <b>100</b> or not. It will also be understood that the lobe distribution in a multi engine aircraft may provide reverse thrust in a controllable manner by aggregate or the reverse thrust from each engine combined to provide a net result.</p>
+<p id="p-0050" num="0049">Modifications and alterations to the present invention will be appreciated by those skilled in the art. Thus, the flow reverser could be utilised in other situations where reversing direction of a flow such as a ventilation flow is required.</p>
+<p id="p-0051" num="0050">In summary the present invention is a gas turbine engine <b>10</b> incorporating a flow reverser comprising a fixed first part <b>1</b> and a translatable second part <b>2</b>. The translatable part <b>2</b> is moveable in a general axially rearwardly direction, although alternatively the first part may be translatable forwardly with respect to the general flow direction through the engine. The first part <b>1</b> and the translatable second part <b>2</b> define a bypass air-flow path and are axially separable from each other about a conjunction formed by respective profile edges of the first part and the second part. When the flow reverser is in a stowed position the profile edges overlap one another and there is no reverse flow. In the deployed position, where the first part <b>1</b> and the translatable second part <b>2</b> are axially spaced, a nozzle part <b>3</b>, <b>4</b> of each profile edge define together a nozzle jet <b>30</b> that has a width that varies around at least a part of the circumference of the engine. Thus the reverse flow may be preferentially ejected away from certain regions of the circumference, particularly near a pylon <b>104</b>, <b>104</b>&#x2032; (see <figref idref="DRAWINGS">FIG. 5</figref>) and/or the ground immediately under the engine. Avoiding a significant flow or having a zero flow immediately adjacent the ground prevents runway debris being flung up by the efflux and ingested into the engine.</p>
+<p id="p-0052" num="0051">In particular, the width of the nozzle jet <b>30</b> is a minimum, including zero, within an angle &#x3b1;=30 degrees either side of the bottom dead centre or top dead centre or of the engine or the pylon <b>104</b>, <b>104</b>&#x2032;. Therefore more or all the exhaust flow is ejected around the sides of the engine.</p>
+<p id="p-0053" num="0052">Preferably, and as shown in the figures the nozzle jet has smooth curves defined by the edges, which increase the width to a maximum at least 30 degrees away from the minimum width position. Alternatively, a rectilinear step change is possible, having no smooth transitional width between the minimum and maximum widths.</p>
+<p id="p-0054" num="0053">The width of the nozzle jet <b>30</b> is preferably symmetrical about a vertical centre-line <b>102</b> (see <figref idref="DRAWINGS">FIG. 5</figref>) of the engine, thus both the port and starboard engine's reversers may be the same configuration.</p>
+<p id="p-0055" num="0054">It should be appreciated that a fuselage mounted engine is supported from a pylon <b>104</b>&#x2032; attached on a lateral side thereof. In cases where a fuselage mounted engine is sufficiently high above ground, then there may be some or full flow of exhaust gases at BDC. Hence only a minimum nozzle jet width is present near the pylon <b>104</b>&#x2032;.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>I claim:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A flow reverser of a gas turbine engine, the flow reverser comprising a first part; and
+<claim-text>a translatable second part to define a flow path and axially separable from each other about a conjunction formed by respective profile edges of the first part and the second part, the profile edges in a stowed position overlapping, wherein in a deployed position a nozzle part of each profile edge define together a nozzle jet, the nozzle jet having a width that varies around at least a part of the circumference of the engine.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. A reverser as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the profile edges in the stowed position provide a substantially contiguous surface across the conjunction opposite the core.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. A reverser as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the conjunction includes a bull nose part in one edge profile and a hook part in the other edge profile.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. A reverser as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the reverser part engages the core to form a seal.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. A reverser as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the reverser part engages a hump part of the core.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. A reverser as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the nozzle parts converge to form the nozzle jet.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. A reverser as claimed in <claim-ref idref="CLM-00006">claim 6</claim-ref> wherein the nozzle parts converge to an opening at an outer side of a sleeve.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. A reverser as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the nozzle parts are arranged to substantially face each other.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. A reverser as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the nozzle parts are reciprocally curved in an axis of separation between the first part and the second part.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. A reverser as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the reverser part and/or the core include seal elements.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. A reverser as claimed in <claim-ref idref="CLM-00010">claim 10</claim-ref> wherein the seal elements include an inflatable part or flap or iris-type mechanism to close or narrow any gap between the reverser part and the core.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. A reverser as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the overlapping profile edges have a respective inter-engagement surface.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. A reverser as claimed in <claim-ref idref="CLM-00012">claim 12</claim-ref> wherein the inter-engagement surfaces have a variable width along the conjunction between the first part and the second part.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. A reverser as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the profile edges define a half-moon nozzle jet in the deployed position.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. A reverser as claimed in <claim-ref idref="CLM-00014">claim 14</claim-ref> wherein there are two half-moon nozzle jets either side of the flow reverser.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. A reverser as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein top dead centre and bottom dead centre parts of the conjunction have the minimum or no gap between the first part and the second part in the deployed position.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. A reverser as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the nozzle parts have rounded edges.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. A reverser as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein one nozzle part is slightly outboard of the other nozzle part.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. A reverser as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein a sleeve can be cylindrical or oval or any cross-section appropriate in order to provide a nozzle jet by axial separation of a first part and a second part through profile edges.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. A reverser as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein in the stowed position outer parts of the edge profiles form a contiguous surface for a sleeve.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text>21. A reverser as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the edge profiles have a variable angle about a sleeve in order to create appropriate presentation of the nozzle jet in the deployed position.</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text>22. A reverser as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the nozzle jets created in the flow reverser are symmetrical about a sleeve.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text>23. A reverser as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the nozzle jets are not symmetrical about a sleeve.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text>24. A reverser as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the nozzle jets have a circumferential flow component.</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text>25. A reverser as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the flow reverser is a thrust reverser in a gas turbine engine.</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text>26. A flow reverser as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> acting as a thrust reverser in a gas turbine engine.</claim-text>
+</claim>
+<claim id="CLM-00027" num="00027">
+<claim-text>27. A gas turbine engine as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the width of the nozzle jet is a minimum within 30 degrees of the bottom dead centre of the engine.</claim-text>
+</claim>
+<claim id="CLM-00028" num="00028">
+<claim-text>28. A gas turbine engine as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the width of the nozzle jet is a minimum within 30 degrees of the top dead centre of the engine.</claim-text>
+</claim>
+<claim id="CLM-00029" num="00029">
+<claim-text>29. A gas turbine engine as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the engine is attached to a pylon, the width of the nozzle jet is a minimum within 30 degrees of the pylon.</claim-text>
+</claim>
+<claim id="CLM-00030" num="00030">
+<claim-text>30. A gas turbine engine as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the nozzle jet has a lobed shape. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

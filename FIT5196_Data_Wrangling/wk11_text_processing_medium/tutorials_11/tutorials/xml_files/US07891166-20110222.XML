@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891166-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891166</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11819516</doc-number>
+<date>20070627</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>909</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>63</class>
+<subclass>H</subclass>
+<main-group>11</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 60221</main-classification>
+<further-classification>417174</further-classification>
+<further-classification>446 52</further-classification>
+</classification-national>
+<invention-title id="d2e53">Water rocket engine with a two-phase nozzle</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>2351750</doc-number>
+<kind>A</kind>
+<name>Fawkes</name>
+<date>19440600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60257</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>2486019</doc-number>
+<kind>A</kind>
+<name>Goddard</name>
+<date>19491000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>417173</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>2528354</doc-number>
+<kind>A</kind>
+<name>Flanagan</name>
+<date>19501000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60221</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>3252281</doc-number>
+<kind>A</kind>
+<name>Everett et al.</name>
+<date>19660500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60227</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>3371618</doc-number>
+<kind>A</kind>
+<name>Chambers</name>
+<date>19680300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>417196</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>3402555</doc-number>
+<kind>A</kind>
+<name>Piper</name>
+<date>19680900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60227</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>3650214</doc-number>
+<kind>A</kind>
+<name>Green</name>
+<date>19720300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>3664056</doc-number>
+<kind>A</kind>
+<name>Stanzel</name>
+<date>19720500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>4815942</doc-number>
+<kind>A</kind>
+<name>Alperin et al.</name>
+<date>19890300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60269</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>5072579</doc-number>
+<kind>A</kind>
+<name>Gongwer</name>
+<date>19911200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60221</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>5197452</doc-number>
+<kind>A</kind>
+<name>Johnson et al.</name>
+<date>19930300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>5222361</doc-number>
+<kind>A</kind>
+<name>Nelson et al.</name>
+<date>19930600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>5415153</doc-number>
+<kind>A</kind>
+<name>Johnson et al.</name>
+<date>19950500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>5433646</doc-number>
+<kind>A</kind>
+<name>Tarng</name>
+<date>19950700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>5839940</doc-number>
+<kind>A</kind>
+<name>Ensmenger</name>
+<date>19981100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>6290184</doc-number>
+<kind>B1</kind>
+<name>Paterro</name>
+<date>20010900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>6347623</doc-number>
+<kind>B1</kind>
+<name>Kownacki et al.</name>
+<date>20020200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>6532948</doc-number>
+<kind>B2</kind>
+<name>Grichen</name>
+<date>20030300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>6957526</doc-number>
+<kind>B1</kind>
+<name>Lin</name>
+<date>20051000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60221</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>2005/0077055</doc-number>
+<kind>A1</kind>
+<name>Celorio-Villasenor</name>
+<date>20050400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>2006/0225716</doc-number>
+<kind>A1</kind>
+<name>Lapointe</name>
+<date>20061000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>CA</country>
+<doc-number>2066118</doc-number>
+<date>19930800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>JP</country>
+<doc-number>2001-140746</doc-number>
+<date>20010500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>4</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 602001</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 60221</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 60227</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 60780</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>23926517</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>417174</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>440 44</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>440 45</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>446 52</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>1</number-of-drawing-sheets>
+<number-of-figures>1</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090000269</doc-number>
+<kind>A1</kind>
+<date>20090101</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Al-Qutub</last-name>
+<first-name>Amro Mohammad</first-name>
+<address>
+<city>Dhahran</city>
+<country>SA</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>SA</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Taleb</last-name>
+<first-name>Jad</first-name>
+<address>
+<city>Dhahran</city>
+<country>SA</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>SA</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Litman</last-name>
+<first-name>Richard C.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>King Fahd University of Petroleum and Minerals</orgname>
+<role>03</role>
+<address>
+<city>Dhahran</city>
+<country>SA</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Kim</last-name>
+<first-name>Ted</first-name>
+<department>3741</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The water rocket engine with a two-phase nozzle includes a water rocket propulsion system having a reservoir, and a nozzle assembly disposed along a central longitudinal axis therein, the nozzle assembly comprising an inverted cup shaped fluid capture vessel having a substantially concave sidewall and extending away from an elongated tube. Open lower portion of the fluid capture vessel forms a fluid inlet. The elongated tube has a concave shaped side wall that forms a nozzle gas inlet at an upper portion of the tube, a nozzle outlet at a lower portion of the tube, and a passageway disposed between the tube upper portion and the tube lower portion. Within the confines of the capture vessel, fluid injection holes are disposed in the tube sidewall to provide fluid intake into the nozzle passageway where fluid and gas combine to form a two phase propellant.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="231.65mm" wi="183.90mm" file="US07891166-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="241.13mm" wi="183.22mm" file="US07891166-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0002" num="0001">1. Field of the Invention</p>
+<p id="p-0003" num="0002">The present invention relates to a liquid-vapor gas motor and nozzle. More specifically, it is directed to a two phase reservoir and nozzle that, when sufficiently pressurized, can be used to propel a vehicle such as, e.g., a boat, plane, rocket, and the like, by a liquid/air propulsion combination.</p>
+<p id="p-0004" num="0003">2. Description of the Related Art</p>
+<p id="p-0005" num="0004">Over the years various types of water rockets have been developed which rely upon thrust developed from the expulsion of pressurized liquid and/or pressurized gases from a projectile in order to propel the vehicle. For example, in conventional water rockets the water acts as the propellant, while compressed gas is used as the energy source. Propulsion force is provided initially by the accelerated water through the nozzle, the water being driven by the high pressure of the gas acting on the top surface of the fluid. Once the fluid is exhausted, the gas exits the nozzle to thereby add few percent of the total impulse of the propulsion system.</p>
+<p id="p-0006" num="0005">More specifically, while the aforementioned water rocket propulsion system has been historically provided by variations of known designs and configurations, the variations generally consist of familiar, expected, and obvious structural configurations, notwithstanding the myriad of designs encompassed by the crowded prior art which has been developed for the fulfillment of countless objectives and requirements. Yet, there remains an unfulfilled need to continually improve water rocket performance by, e.g., increasing the specific impulse of the propulsion system.</p>
+<p id="p-0007" num="0006">Thus, a water rocket engine with a two-phase nozzle solving the aforementioned problem is desired.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0008" num="0007">The water rocket engine with a two-phase nozzle includes a water rocket propulsion system having a reservoir, and a nozzle assembly disposed along a central longitudinal axis therein, the nozzle assembly comprising an inverted cup shaped fluid capture vessel having a substantially concave sidewall and extending away from an elongated tube. Open lower portion of the fluid capture vessel forms a fluid inlet. The elongated tube has a concave shaped side wall that forms a nozzle gas inlet at an upper portion of the tube, a nozzle outlet at a lower portion of the tube, and a passageway disposed between the tube upper portion and the tube lower portion.</p>
+<p id="p-0009" num="0008">Within the confines of the capture vessel, fluid injection holes are disposed in the tube sidewall to provide fluid intake into the nozzle passageway where fluid and gas combine to form a two phase propellant. During operation of the propulsion system the combined propellants are expelled from the nozzle outlet. Gas pressure in the system provides the kinetic energy to force the gas phase to flow into the gas inlet and the fluid phase to flow into the fluid inlet and into the nozzle passageway via the injection holes.</p>
+<p id="p-0010" num="0009">The liquid-gas mixture expelled at the nozzle outlet has a specific impulse that is generally higher than that of related art systems because of the fluid and gas dynamics provided by the present invention. Fluid and gas are accelerated simultaneously through the nozzle. Gas is accelerated through the inlet of the nozzle. Water is drawn in the high speed gas stream through holes surrounding the side of the nozzle to form droplets of calculated sizes. The water is driven by the pressure difference between the high speed gas and the stagnant gas pressure acting on the water surface.</p>
+<p id="p-0011" num="0010">Size, distribution and location of the inlet water holes determine the water to gas mass flow ratio. The water droplets are accelerated via drag force generated by the speed difference relative to accelerated gas. Higher equivalent exhaust velocities are achieved to provide improved performance and range of the rocket.</p>
+<p id="p-0012" num="0011">These and other features of the present invention will become readily apparent upon further review of the following specification and drawings.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 1</figref> is a section view of a water rocket engine with a two-phase nozzle, according to the present invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<p id="p-0014" num="0013">Similar reference characters denote corresponding features consistently throughout the attached drawings.</p>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENT</heading>
+<p id="p-0015" num="0014">As shown in <figref idref="DRAWINGS">FIG. 1</figref>, the present invention is a water rocket propulsion system <b>5</b> having a reservoir <b>50</b>, and a nozzle assembly <b>7</b> disposed along a central longitudinal axis therein, the nozzle assembly <b>7</b> comprising an inverted cup shaped fluid capture vessel <b>25</b> having a substantially concave sidewall <b>27</b> and concentrically extending from an elongated tube <b>45</b>. Open lower portion of the fluid capture vessel forms a fluid inlet <b>29</b>.</p>
+<p id="p-0016" num="0015">The elongated tube has a concave shaped side wall <b>47</b> that forms a nozzle gas inlet <b>49</b> at an upper portion of the tube, a nozzle outlet <b>39</b> at a lower portion of the tube, and a passageway <b>51</b> disposed between the tube upper portion and the tube lower portion. Within the confines of the capture vessel <b>25</b>, fluid injection holes <b>40</b> are disposed in the tube sidewall <b>47</b> to provide fluid intake into the nozzle passageway <b>51</b> where fluid <b>20</b> and gas <b>10</b> combine to form a two phase propellant <b>30</b>.</p>
+<p id="p-0017" num="0016">During operation of the propulsion system the combined propellants are expelled from the nozzle outlet <b>39</b>. Gas pressure in the system provides the kinetic energy to force the gas phase to flow into the gas inlet <b>49</b> and the fluid phase to flow through the fluid inlet <b>29</b> and into the nozzle passageway <b>51</b> via the injection holes <b>40</b>.</p>
+<p id="p-0018" num="0017">The liquid-gas mixture expelled at the nozzle outlet <b>39</b> has a specific impulse that is generally higher than that of related art systems because of the fluid and gas dynamics provided by the present invention. Fluid <b>20</b> and gas <b>10</b> are accelerated simultaneously through the nozzle passageway <b>51</b>. Gas <b>10</b> is accelerated through the nozzle inlet <b>49</b>. Fluid, e.g., water, is drawn in the high speed gas stream through the holes <b>40</b> in the side of the nozzle to form droplets <b>35</b> of calculated sizes. The fluid <b>20</b>, e.g., water, is driven by the pressure difference between the high speed gas and the stagnant gas pressure acting on the fluid surface.</p>
+<p id="p-0019" num="0018">Size, distribution and location of the inlet fluid holes <b>40</b> determine the fluid to gas mass flow ratio. The fluid droplets are accelerated via drag force generated by the speed difference relative to accelerated gas. Higher equivalent exhaust velocities are achieved to provide improved performance and range of the rocket engine <b>5</b>.</p>
+<p id="p-0020" num="0019">It is to be understood that the present invention is not limited to the embodiment described above, but encompasses any and all embodiments within the scope of the following claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>We claim:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A water rocket engine with a two-phase nozzle, comprising:
+<claim-text>a reservoir, and a nozzle assembly disposed along a central longitudinal axis therein, wherein the reservoir has an upper portion and a lower portion, the upper portion thereof being adapted for receiving a volume of pressurized air, the lower portion thereof being adapted for receiving a volume of liquid water;</claim-text>
+<claim-text>the nozzle assembly comprising an inverted cup shaped fluid capture vessel concentrically extending from an elongated tube, the inverted cup shaped fluid capture vessel being positioned within the lower portion of the reservoir and being completely submerged within the volume of liquid water stored therein, the inverted cup shaped fluid capture vessel having an open lower end for receiving the water and a closed upper end, the closed upper end being secured to an outer surface of the elongated tube such that the elongated tube is positioned co-axially therewith;</claim-text>
+<claim-text>the elongated tube having a sidewall that forms a nozzle gas inlet at an upper portion of the tube, a nozzle outlet at a lower portion of the tube, and a passageway disposed between the tube upper portion and the tube lower portion, wherein the nozzle gas inlet is positioned within the upper portion of the reservoir such that the pressurized air flows into the nozzle gas inlet, through the passageway and out of the nozzle outlet;</claim-text>
+<claim-text>within the confines of the capture vessel, a plurality of fluid injection holes are disposed in the sidewall of the elongated tube, wherein the plurality of fluid injection holes are arrayed along the sidewall within a central region thereof which is covered and surrounded by the inverted cup shaped fluid capture vessel; and</claim-text>
+<claim-text>wherein the water captured in the inverted cup shaped capture vessel flows through the plurality of fluid injection holes to combine with the air flowing through the tube inlet to thereby form a combined fluid-gas propellant that accelerates through the passageway and is expelled from the nozzle outlet to provide increased thrust of the rocket engine.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The water rocket engine with a two-phase nozzle according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the capture vessel has a substantially concave sidewall.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The water rocket engine with a two-phase nozzle according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the elongated tube sidewall is concave.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The water rocket engine with a two-phase nozzle according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein size, distribution and location of the fluid injection holes determines a fluid to gas mass flow ratio. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

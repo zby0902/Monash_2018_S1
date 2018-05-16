@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891160-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891160</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12485813</doc-number>
+<date>20090616</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>SE</country>
+<doc-number>0302633</doc-number>
+<date>20031002</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>65</class>
+<subclass>B</subclass>
+<main-group>31</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 53512</main-classification>
+<further-classification> 53434</further-classification>
+<further-classification>493313</further-classification>
+<further-classification>493924</further-classification>
+<further-classification>493926</further-classification>
+</classification-national>
+<invention-title id="d2e61">Method and device for gas filling and sealing of a duct intended to be filled with gas and positioned in a container of a collapsible type, and container blank comprising such a duct</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>2245738</doc-number>
+<kind>A</kind>
+<name>Taylor</name>
+<date>19410600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>3382642</doc-number>
+<kind>A</kind>
+<name>Shaw</name>
+<date>19680500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53434</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3692613</doc-number>
+<kind>A</kind>
+<name>Pedersen</name>
+<date>19720900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>4216639</doc-number>
+<kind>A</kind>
+<name>Gautier</name>
+<date>19800800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53413</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>4219054</doc-number>
+<kind>A</kind>
+<name>Carter et al.</name>
+<date>19800800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>4360996</doc-number>
+<kind>A</kind>
+<name>Rutter</name>
+<date>19821100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53469</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>4361235</doc-number>
+<kind>A</kind>
+<name>Gautier</name>
+<date>19821100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>206527</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>4363338</doc-number>
+<kind>A</kind>
+<name>Brown</name>
+<date>19821200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>141  2</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>4377192</doc-number>
+<kind>A</kind>
+<name>Gautier</name>
+<date>19830300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>383  7</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>4411123</doc-number>
+<kind>A</kind>
+<name>Gautier et al.</name>
+<date>19831000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>4452030</doc-number>
+<kind>A</kind>
+<name>Inada</name>
+<date>19840600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53426</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>4731978</doc-number>
+<kind>A</kind>
+<name>Martensson</name>
+<date>19880300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53468</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>4805378</doc-number>
+<kind>A</kind>
+<name>Anderson</name>
+<date>19890200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53426</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>4832096</doc-number>
+<kind>A</kind>
+<name>Kohlbach</name>
+<date>19890500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>141114</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>4964261</doc-number>
+<kind>A</kind>
+<name>Benn</name>
+<date>19901000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53469</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>4999978</doc-number>
+<kind>A</kind>
+<name>Kohlbach et al.</name>
+<date>19910300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53512</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>5029432</doc-number>
+<kind>A</kind>
+<name>Loeliger</name>
+<date>19910700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53469</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>5137154</doc-number>
+<kind>A</kind>
+<name>Cohen</name>
+<date>19920800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>5441174</doc-number>
+<kind>A</kind>
+<name>Sperry</name>
+<date>19950800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>222105</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>5788121</doc-number>
+<kind>A</kind>
+<name>Sasaki et al.</name>
+<date>19980800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>6070728</doc-number>
+<kind>A</kind>
+<name>Overby et al.</name>
+<date>20000600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>2065248</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>6244466</doc-number>
+<kind>B1</kind>
+<name>N&#xe4;slund</name>
+<date>20010600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>6536484</doc-number>
+<kind>B2</kind>
+<name>Hewlitt et al.</name>
+<date>20030300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>141  2</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>7024836</doc-number>
+<kind>B2</kind>
+<name>Powell et al.</name>
+<date>20060400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>7673438</doc-number>
+<kind>B2</kind>
+<name>Murray</name>
+<date>20100300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53469</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>FR</country>
+<doc-number>1.318.719</doc-number>
+<kind>A</kind>
+<date>19630100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>GB</country>
+<doc-number>1 598 843</doc-number>
+<kind>A</kind>
+<date>19810900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>SE</country>
+<doc-number>518 406</doc-number>
+<kind>C2</kind>
+<date>20021000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>15</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 53403</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 53433</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 53434</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 53 88</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 53511</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 53512</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>493267</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>493313</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>493314</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>493924</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>493926</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>493968</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>4</number-of-drawing-sheets>
+<number-of-figures>4</number-of-figures>
+</figures>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>10572553</doc-number>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>7654063</doc-number>
+</document-id>
+</parent-grant-document>
+<parent-pct-document>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/SE2004/001386</doc-number>
+<date>20040929</date>
+</document-id>
+</parent-pct-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>12485813</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090249745</doc-number>
+<kind>A1</kind>
+<date>20091008</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Forss</last-name>
+<first-name>Stefan</first-name>
+<address>
+<city>Helsingborg</city>
+<country>SE</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>SE</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Birch, Stewart, Kolasch &#x26; Birch, LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Eco Lean Research &#x26; Development A/S</orgname>
+<role>03</role>
+<address>
+<city>Copenhagen</city>
+<country>DK</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Durand</last-name>
+<first-name>Paul R</first-name>
+<department>3721</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The invention relates to a method and a device for gas filling and sealing of a duct intended to be filled with gas and positioned in a container of a collapsible type. The duct is defined by two opposite side walls which are joined along a connecting portion and comprises an inlet arranged in one of the side walls. A part of the container that comprises the inlet is clamped between an abutment and a gas module which is axially movable towards the abutment. Clamping occurs in such a manner that one of the two side walls included in the duct is allowed, in response to a gas flow supplied from the gas module and entering the duct through said inlet, to bulge to form a free passage into the duct for filling the same with gas. After completion of the gas filling, the duct is sealed. The invention also relates to a container blank having a duct which is specially developed for the method and the device.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="127.17mm" wi="103.55mm" file="US07891160-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="137.75mm" wi="102.53mm" file="US07891160-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="175.26mm" wi="138.60mm" file="US07891160-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="176.87mm" wi="126.75mm" orientation="landscape" file="US07891160-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="120.48mm" wi="79.08mm" file="US07891160-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is a continuation of prior application Ser. No. 10/572,553, filed Mar. 17, 2006 now U.S. Pat. No. 7,654,063, which is a national-stage application of International Application No. PCT/SE2004/001386, filed Sep. 29, 2004, which claims the benefit of Swedish Patent Application No. 0302633-3, filed Oct. 2, 2003, all of which are herein incorporated by reference in their entireties.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0003" num="0002">The present invention relates to a method and a device for gas filling of a duct intended for the purpose and positioned in a container of a collapsible type. The invention also relates to a container blank having a duct intended to be filled with gas.</p>
+<heading id="h-0003" level="1">BACKGROUND ART</heading>
+<p id="p-0004" num="0003">It has been known for a long time to use containers of a collapsible type, for example, for foodstuffs or expendable material such as sanitary articles and detergents. The contents can be both in liquid and in powder form.</p>
+<p id="p-0005" num="0004">By a container of a collapsible type is meant the type of container that consists of thin flexible walls which are joined in connecting portions to define a compartment. The volume of the compartment depends on the relative distance between the walls, which means that the volume depends on the filling ratio of the container.</p>
+<p id="p-0006" num="0005">This type of containers may have a number of different handle shapes, one of which is shown in WO 99/41155. This handle forms a hole pattern through which a user's hand can be inserted so that the container can be gripped and handled like a jug.</p>
+<p id="p-0007" num="0006">In SE 518,406, a corresponding container type has been further developed by gas-filled ducts being arranged in the connecting portion along at least one side of the container. The main purpose of this type of gas-filled duct is to increase the stability of the container, but also to make it more comfortable to grip. The gas-filled duct shown in this document is arranged to be filled in connection with the filling of the container with its contents. How this gas filling is done or how such equipment is designed has not been described.</p>
+<p id="p-0008" num="0007">Containers of a collapsible type are as a rule filled through a duct/opening which is defined by two opposite walls of the container. Such filling occurs with the container in an upright position, in which case the filling nozzle can act essentially in the vertical direction and be introduced into the duct between the two walls. This is a method that is well established and well functioning when supplying fluids in liquid form. The same method, however, causes great problems when supplying fluids in gaseous form due to difficulties in providing a gas-tight seal around the nozzle while the gas is being supplied. Additional problems arise when the gas-filled duct is to be sealed.</p>
+<p id="p-0009" num="0008">A solution to these problems is that the duct is filled with gas through a check valve integrated in the container. This technique is very expensive to apply to mass-produced containers, such as food containers where the duct is to be filled only once.</p>
+<p id="p-0010" num="0009">Therefore there is a need for a method and a device for gas filling of such ducts in collapsible containers, independently of the purpose of the gas-filled ducts. There is also a need for a further development of the construction of the duct to allow, in industrial use, easy filling with gas and also easy sealing. It will be appreciated that the duct intended for the purpose is not intended to be refilled.</p>
+<heading id="h-0004" level="1">OBJECTS OF THE PRESENT INVENTION</heading>
+<p id="p-0011" num="0010">The object of the present invention is to provide a device and a method for gas filling of ducts in containers of a collapsible type.</p>
+<p id="p-0012" num="0011">The method and the device should be easy to use and allow a high rate of production and great reliability.</p>
+<p id="p-0013" num="0012">A further object of the invention is to provide a container blank which has a duct that is suitably designed for the device and the method.</p>
+<p id="p-0014" num="0013">The duct should have such a construction that no new material or components in the form of, for example, check valves have to be added to the container blank.</p>
+<heading id="h-0005" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0015" num="0014">To achieve at least one of the above objects and also other objects that will appear from the following description, a method, a device and a container blank having the features provided according to the present invention.</p>
+<p id="p-0016" num="0015">More specifically, a method of gas filling and sealing of a duct intended to be filled with gas and positioned in a container of a collapsible type is provided, said duct being defined by two opposite side walls which are joined along a connecting portion, and comprising an inlet arranged in one of the side walls. The method is characterised by clamping a part of the container, which part comprises said inlet, between an abutment and a gas module which is axially movable towards the abutment, in such a manner that one of the two side walls included in the duct is allowed, in response to a gas flow supplied from the gas module and entering the duct through said inlet, to bulge to form a free passage into the duct for filling the same with gas and, after completion of the gas filling, sealing the duct.</p>
+<p id="p-0017" num="0016">During gas filling, the container is thus clamped by a grip over the part of the container which comprises the inlet, i.e. a part of the duct. Subsequently gas is supplied to the duct through a gas module acting in the clamping direction. Both the clamping direction and the operating direction of the gas module are thus oriented more or less perpendicular to the direction of extension of the duct. Although clamping occurs over the part of the container that comprises the inlet, one of the walls defining the duct is allowed to bulge to provide a free passage into the duct. The method is very simple and advantageous compared with prior-art technique as described above, in which the two side walls that define the duct and form its inlet must be separated, after which the nozzle intended for gas filling can be introduced into the duct in the longitudinal direction thereof while at the same time the nozzle has a clamping effect on the duct in a direction transversely to the direction of gas filling. The need for any check valves is completely eliminated.</p>
+<p id="p-0018" num="0017">It is preferred for said part of the container to be clamped by axial displacement of a nozzle and a packing means, which is arranged outside the same and associated with the gas module, in relation to said abutment.</p>
+<p id="p-0019" num="0018">Moreover it is preferred for the abutment to be formed with a recess in its side facing the container to allow said bulge. Such a recess allows a portion of the side walls forming the duct to bulge during the supply of gas and, thus, form a free passage into the duct although the part of the container that comprises the inlet to the duct is clamped by gripping over precisely the duct.</p>
+<p id="p-0020" num="0019">After completion of the gas filling, it is advantageous to seal the duct by applying heat and pressure to the duct part which abuts against the abutment. Precisely heat sealing is a most advantageous method since it is quick and does not require any extra supply of material. Moreover heat sealing provides in a simple manner a gas-tight seal.</p>
+<p id="p-0021" num="0020">According to another aspect, the invention relates to a device for gas filling and sealing of a duct intended to be filled with gas and positioned in a container of a collapsible type, said duct being defined by two opposite side walls, which are joined along a common connecting portion, and comprising an inlet arranged in one of the side walls. The device is characterised by an abutment, and a gas module which is axially applicable to the abutment to abut against a part of the container and the inlet arranged therein, the gas module being arranged to fill the duct with gas through the inlet and to seal the duct after completion of the gas filling.</p>
+<p id="p-0022" num="0021">The construction of the device is very simple. The gas module allows the same operating direction for all functions, i.e. holding the container, filling its duct with gas and the subsequent sealing. The device requires no additional means on the container in the form of, for example, check valves or separate inlets.</p>
+<p id="p-0023" num="0022">In a preferred embodiment, the gas module comprises a nozzle which is applicable to the inlet for supplying gas to the duct. A packing means is arranged around the nozzle and applicable to the abutment to seal around the nozzle. The packing means is intended to prevent unnecessary gas leakage during the gas filling process.</p>
+<p id="p-0024" num="0023">The nozzle and the packing means can be arranged on a common unit in the form of a first piston rod, said first piston rod comprising a bore for supplying gas to the duct through the nozzle. The integration of the connection between the gas source and the nozzle in the piston rod eliminates the need for a separate gas supply duct which by the movement of the gas module relative to the abutment would require frequent maintenance.</p>
+<p id="p-0025" num="0024">It is also preferred for the gas module to comprise a sealing means which is adapted, after filling the duct arranged in the container with gas, to disconnect the inlet from the duct by sealing. This sealing means preferably comprises a mandrel which is axially engageable with a heating jaw. Sealing thus occurs by a combination of pressure and heat and produces melting-together of at least the surface layers of the two opposite side walls which define the duct. The sealing should establish a gas-tight seal of the duct.</p>
+<p id="p-0026" num="0025">The heating jaw can be arranged outside the abutment. Alternatively, the mandrel can be arranged outside the abutment. Depending on which alternative is chosen, it is preferred for either the mandrel or the heating jaw to be arranged as a second piston rod outside the first piston rod, which allows simplified control of the movements of the piston rods. If the heating jaw is arranged outside the abutment, the heating jaw can be the same as used when closing the duct means in the container, through which duct means the container is filled with its contents. Such a solution allows very compact and space-saving equipment for manufacturing containers.</p>
+<p id="p-0027" num="0026">In another preferred embodiment, the first piston rod comprises an external lug which, during a return stroke of the first piston rod, is engageable with the second piston rod for returning the same. This results in a very simple and reliable return stroke of the piston rods.</p>
+<p id="p-0028" num="0027">It is preferred for the abutment to comprise, in its plane, a groove for receiving the bulge, resulting during filling of the duct with gas, of at least one side wall. This results in a free passage into the duct through the inlet although the container is clamped between the gas module and the abutment by a clamping effect over a part of the duct.</p>
+<p id="p-0029" num="0028">It is advantageous if the abutment is made of a material with low thermal conductivity. This is applicable especially if the abutment is enclosed by a heating jaw. This eliminates the risk that the abutment reaches such a temperature that the container material is thermally affected and causes uncontrolled joining. It is also possible to provide the abutment with cooling means, for instance in the form of cooling coils.</p>
+<p id="p-0030" num="0029">According to another aspect, the invention relates to a container blank which is intended for a container of a collapsible type, said container blank comprising a duct which is intended to be filled with gas and which is defined by two opposite walls which are joined along a common connecting portion. The container blank is characterised in that the duct comprises a first segment which after gas filling provides a geometry desired in the container; a second segment adjoining the first segment, said second segment having a significantly smaller cross-sectional area than the first segment; and a third segment adjoining the second segment and comprising an inlet to the duct.</p>
+<p id="p-0031" num="0030">This division of the duct into segments where the second segment has a significantly smaller cross-sectional area than the first segment implies that the gas supplied to the duct is capable of expanding the first segment, but not the second segment. This means that the second segment, also when the first segment is fully expanded, is essentially flat. Consequently a sealing means that is arranged over the second segment need only expel a small amount of gas before full engagement between the two opposite side walls of the duct can be achieved to produce a gas-tight seal.</p>
+<p id="p-0032" num="0031">The first segment should have such a geometry as to provide a desired technical function in the completed container, for instance in the form of a comfortable handle-forming bead or a stiffening duct.</p>
+<p id="p-0033" num="0032">The inlet preferably is a hole formed in one side wall. Such an inlet construction is the simplest possible one and requires no addition of further material or components in the form of, for example, check valves.</p>
+<p id="p-0034" num="0033">It is preferred for the third segment to be arranged in connection with a duct means of the container blank, through which duct means the container blank is adapted to be filled with its contents. This means that the device used for filling the duct with gas can be arranged in direct connection with the device that is used to seal the container after it has been filled with its contents. The position of the inlet in one of the side walls, in combination with the sealing of the duct means conventionally occurring transversely to the duct means, implies that the two devices can act in a common direction and even in such a manner that the movements of the two devices can be coordinated since sealing of the duct as well as the duct means suitably occurs in a thermal way.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0006" level="1">DESCRIPTION OF DRAWINGS</heading>
+<p id="p-0035" num="0034">The invention will now be described in more detail by way of example and with reference to the accompanying drawings which illustrate currently preferred embodiments of the device and the container blank.</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. 1</figref> shows an example of a container of a collapsible type comprising a gas-filled, handle-forming duct.</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. 2</figref> illustrates a container blank corresponding to the container shown in <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. 3</figref> schematically shows an embodiment of the device that is used for filling the handle with gas. The device is shown in a non-activated and an activated state respectively.</p>
+<p id="p-0039" num="0038"><figref idref="DRAWINGS">FIG. 4</figref> shows the abutment used in the device.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0007" level="1">TECHNICAL DESCRIPTION</heading>
+<p id="p-0040" num="0039">With reference to <figref idref="DRAWINGS">FIG. 1</figref>, an example of a collapsible container <b>1</b> is shown, to which the present device and method have been applied.</p>
+<p id="p-0041" num="0040">The container is especially intended for liquid foodstuffs such as milk, water, juice or wine, but it may, of course, also be intended for products in some other form or for other purposes.</p>
+<p id="p-0042" num="0041">The container comprises three flexible walls, two of which constitute side walls <b>2</b> and the third constitutes a bottom wall <b>3</b>. The walls are joined along connecting portions <b>4</b> to define a compartment <b>5</b>. The walls <b>2</b>, <b>3</b> are made of a bendable and flexible material, which means that the volume of the compartment <b>5</b> depends on the relative distance between the walls <b>2</b>, <b>3</b>. The volume of the compartment <b>5</b> is thus directly dependent on the filling ratio of the container <b>1</b>. In other words, the container is of a collapsible type.</p>
+<p id="p-0043" num="0042">The walls <b>2</b>, <b>3</b> of the container <b>1</b> are preferably joined in the connecting portions <b>4</b> by welding. Also other methods of joining, such as gluing, are conceivable.</p>
+<p id="p-0044" num="0043">A handle <b>6</b> is arranged in the connecting portion <b>4</b> at the rear end of the container <b>1</b>. The handle <b>6</b> consists of a gas-filled duct <b>7</b> which is defined by the connecting portion <b>4</b> and the side walls <b>2</b> of the container <b>1</b>. By gas is preferably meant air, but of course also other gases or even liquids may be used. The handle <b>6</b> has such a geometry and filling ratio as to form an easy-to-grip bead. The handle <b>6</b> also promotes by its geometry and gas filling a considerable rigidity of the container <b>1</b>.</p>
+<p id="p-0045" num="0044">The container <b>1</b> has centrally in its upper part a duct means <b>8</b> through which the container has been filled. This has occurred by a portion (not shown) in the upper part of the container being separated, after which a filling nozzle (not shown) has been inserted into the container through the duct means for filling of the container. After completion of the filling, the filling nozzle is removed, after which the container is once more sealed to form a new connecting portion in the upper part of the container.</p>
+<p id="p-0046" num="0045">The shown container <b>1</b> has at its upper front end an opening portion <b>9</b> which is formed as a spout. To open the container <b>1</b>, an outer end of the opening portion <b>9</b> is separated, thereby making the compartment <b>5</b> communicate with the environment. The outer end can be separated, for example, by cutting or tearing off. The container <b>1</b> can thus be emptied in a pouring motion like a jug.</p>
+<p id="p-0047" num="0046">Generally it is desirable for the selected container material to consist of a laminate comprising a core layer of mineral-based filler and a binder of polyolefin. It will be appreciated that also other materials are possible.</p>
+<p id="p-0048" num="0047">With reference to <figref idref="DRAWINGS">FIG. 2</figref>, a container blank <b>10</b> corresponding to the container <b>1</b> shown in <figref idref="DRAWINGS">FIG. 1</figref> is illustrated.</p>
+<p id="p-0049" num="0048">At the rear end of container blank <b>10</b>, the handle-forming duct <b>7</b> intended to be filled with gas is shown. The duct <b>7</b> is defined by the two side walls <b>2</b> and a peripheral connecting portion <b>4</b>.</p>
+<p id="p-0050" num="0049">The duct <b>7</b> is divided into three segments which all communicate with each other. The first segment <b>12</b> comprises the part that is intended to form the actual handle <b>6</b>. The first segment <b>12</b> thus is the segment which in the completed container gives the desired function, whether, like in the shown and described example, it consists of a handle or it provides some other function, such as a stiffening effect. A second segment <b>13</b> is directly connected to the first segment <b>12</b> and constitutes a narrow duct that will be described below. A third segment <b>14</b> is directly connected to the second segment <b>13</b>. The third segment <b>14</b> consists in its simplest form of an area with a hole <b>15</b> in one side wall <b>2</b>. The hole <b>15</b> thus constitutes an inlet to the duct <b>7</b>, through which inlet the duct communicates with the environment before being filled with gas and sealed. The third segment <b>14</b> preferably has such a surface area as to allow minor position deviations between the container blank <b>10</b> and the gas module which is used for filling the duct <b>7</b> with gas.</p>
+<p id="p-0051" num="0050">As mentioned above, the second segment <b>13</b> constitutes a narrow duct. Its main function is to form a surface over which a means for sealing of the duct after completion of the gas filling can be arranged. The cross-sectional area of the second segment <b>13</b> is significantly smaller than the cross-sectional area of the first segment <b>12</b>. By cross-sectional area is in this case meant the area that can be made up by the side walls between them transversely to the longitudinal direction of the duct. This difference in cross-sectional area means that the gas pressure in a gas-filled and sealed duct <b>7</b> is capable of expanding the first segment <b>12</b> to the required volume, but not the second segment <b>13</b>. Thus, the second segment <b>13</b> will constitute a substantially flat surface also when the duct <b>7</b> is filled with gas. The sealing of the duct transversely to the second segment <b>13</b> can thus be performed without first having to expel a considerable amount of gas before the two opposite side walls <b>2</b> that define the duct <b>7</b> can be brought into contact with each other for sealing. To achieve this effect, the ratio of the cross-sectional area of the second segment <b>13</b> to that of the first segment <b>12</b> should be at least 1:150 in a circular cross-sectional geometry.</p>
+<p id="p-0052" num="0051">The second <b>13</b> and the third segment <b>14</b> of the duct are preferably on their insides provided with an embossed surface (not shown). The embossed surface makes it easy to separate the walls in connection with gas filling.</p>
+<p id="p-0053" num="0052">The duct <b>7</b> with the three segments <b>12</b>, <b>13</b>, <b>14</b> is in the shown embodiment oriented in such a manner that the third segment <b>14</b> is arranged adjacent to the upper part of the container blank <b>10</b>, i.e. the portion through which the container blank is intended to be filled. However, it will be appreciated that the duct <b>7</b> can be oriented fully as desired.</p>
+<p id="p-0054" num="0053">In the following, the device <b>16</b> which is intended for filling the above-described duct <b>7</b> with gas will be described with reference to <figref idref="DRAWINGS">FIG. 3</figref>. <figref idref="DRAWINGS">FIG. 3</figref> is made up to show that, on the respective sides of a centre axis in the Figure, the device <b>16</b> is in its non-activated and activated state respectively.</p>
+<p id="p-0055" num="0054">The device <b>16</b> preferably constitutes a module in the equipment (not shown) that is used to manufacture a completed container <b>1</b> from a container blank <b>10</b>. In such equipment, the module is mounted preferably in direct connection with the module that is used for heat sealing of the duct means through which the container has been filled.</p>
+<p id="p-0056" num="0055">The device <b>16</b> comprises an abutment <b>17</b> which is shown in detail in <figref idref="DRAWINGS">FIG. 4</figref>. In the shown embodiment, the abutment <b>17</b> consists of a circular rod <b>18</b>. Of course, the abutment <b>17</b> may also have some other suitable shape. The abutment <b>17</b> has in its surface a recess <b>19</b> with a geometry corresponding at least to the third segment <b>14</b> of the duct <b>7</b>, but preferably as shown in <figref idref="DRAWINGS">FIG. 4</figref> a geometry corresponding to the third segment <b>14</b> and at least a part of the second segment <b>13</b>. The purpose of the recess <b>19</b> is that one side wall <b>2</b> of the duct <b>7</b> should be allowed to bulge in the recess <b>19</b> during gas filling so that, although the container <b>1</b> is clamped by a grip over a part of the duct <b>7</b>, an open passage is formed, through which the duct <b>7</b> can be filled with gas. The recess <b>19</b> is preferably of a size to allow minor position deviations between the container and the gas module, which will be described below, that is used while filling the duct <b>7</b> with gas.</p>
+<p id="p-0057" num="0056">The abutment <b>17</b> should be made of a material with low thermal conductivity, for instance insulated fibre glass. By low thermal conductivity is here meant that the abutment <b>17</b>, even if it is enclosed by a heating jaw that has a sufficiently high temperature for melting of the material used in the container, has a temperature that prevents a container material abutting against the abutment <b>17</b> from melting.</p>
+<p id="p-0058" num="0057">The abutment <b>17</b> may also comprise cooling means (not shown) to ensure a suitable temperature.</p>
+<p id="p-0059" num="0058">A gas module <b>20</b> is arranged axially with the abutment <b>17</b>. The gas module <b>20</b> comprises a first piston rod <b>21</b> which at its end facing the abutment <b>17</b> has a nozzle (not shown) which is enclosed by a packing means <b>22</b>. The nozzle, on its own or in cooperation with, for instance, the packing means <b>20</b> or some other clamping means (not shown) of the first piston rod <b>21</b>, is adapted to clamp the container <b>1</b> against the abutment <b>17</b> by clamping over that part of the container <b>1</b> which comprises at least the third segment <b>14</b>, i.e. the hole that constitutes the inlet <b>15</b> to the duct <b>7</b>. The packing means <b>22</b> can, as shown, consist of a bellows or, for instance, a sealing O ring. The packing means <b>22</b> should, during gas filling, provide the necessary seal around the inlet when this is applied to the inlet <b>15</b> for filling the duct <b>7</b> with gas.</p>
+<p id="p-0060" num="0059">The first piston rod <b>21</b> also comprises an axial bore <b>23</b> through which the nozzle by valves (not shown) communicates with a compressed air source (not shown).</p>
+<p id="p-0061" num="0060">The gas module <b>20</b> further comprises a sealing means <b>24</b> which comprises a mandrel <b>26</b> which is axially engageable with a heating jaw <b>25</b>. In the shown embodiment, the mandrel <b>26</b> is arranged on a second piston rod <b>27</b> which concentrically encloses the first piston rod <b>21</b>. More specifically, the mandrel <b>26</b> is arranged at the end of the second piston rod <b>27</b> that faces the abutment <b>17</b>. It will, of course, be appreciated that the mandrel <b>26</b> need not enclose the first piston <b>21</b> concentrically, but they can also be arranged side by side. The mandrel <b>26</b> can be designed in various ways, for instance as shown in the form of a flexible O ring <b>28</b>. In operation of the device, the mandrel <b>26</b> is adapted to form an abutment surface against a projection <b>29</b> of a heating jaw <b>25</b>. In the shown embodiment, the heating jaw <b>25</b> encloses the abutment <b>17</b> axially. It will be appreciated that the O ring <b>28</b> can be replaced by some other suitable means that can cooperate with the heating jaw <b>25</b>.</p>
+<p id="p-0062" num="0061">The projection <b>29</b> of the heating jaw <b>25</b> has an extent corresponding to the desired sealing surface <b>34</b> of the duct <b>7</b>, i.e. the seal that disconnects the first segment <b>12</b> of the duct <b>7</b> from the rest of the duct <b>7</b>. The sealing surface <b>34</b> is shown in <figref idref="DRAWINGS">FIG. 1</figref>. In the case illustrated, the annular projection <b>29</b> provides an annular sealing surface <b>34</b> around the inlet <b>15</b> in the third segment <b>14</b>. The sealing surface <b>34</b> can also extend over a part of the second segment <b>13</b>. It will thus be appreciated that the sealing surface <b>34</b> obtains the same geometry as the abutment surface between the projection <b>29</b> and the O ring <b>28</b>.</p>
+<p id="p-0063" num="0062">In the case where the device <b>16</b> constitutes a module which is arranged directly connected to the module that is used to seal the duct means <b>8</b> of the container <b>1</b>, through which the container is filled with its contents, this heating jaw <b>25</b> may constitute a part of the heating jaw (not shown) that is used to reseal the duct means <b>8</b>.</p>
+<p id="p-0064" num="0063">Both the first <b>21</b> and the second <b>27</b> piston rod are at their ends facing away from the abutment <b>17</b> connected by valves (not shown) to a pneumatic control system (not shown) for controlling the motion of the piston rods <b>21</b>, <b>27</b>.</p>
+<p id="p-0065" num="0064">For simplified control of the piston rods <b>21</b>, <b>27</b>, the first piston rod <b>21</b> has on its outside a lug <b>30</b> which is adapted to cooperate with a complementary stepped recess <b>31</b> on the inside of the second piston rod <b>27</b>, which recess concentrically encloses the first piston rod <b>21</b>.</p>
+<p id="p-0066" num="0065">In the following the function of the device will be described with reference to <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0067" num="0066">A container (not shown in <figref idref="DRAWINGS">FIG. 3</figref>), whose duct <b>7</b> is ready to be filled with gas, is arranged between two supporting surfaces <b>33</b><i>a</i>, <b>33</b><i>b </i>in such a manner that the inlet <b>15</b> in the third segment <b>14</b>, i.e. the hole, and the second segment <b>13</b> coincide with the recess <b>19</b> in the abutment <b>17</b>. The container is oriented in such a manner that the inlet <b>15</b> is directed away from the abutment <b>17</b>. The first piston rod <b>21</b> is activated, whereby it makes an outward stroke so that the nozzle (not shown) and the packing means <b>22</b> clamp a part of the container so that the packing means <b>22</b> makes airtight contact with the container and so that the nozzle abuts against the inlet <b>15</b>. In this position, the valve (not shown) to the bore <b>23</b> through the first piston rod <b>21</b> is opened, thereby allowing gas to freely pass through the bore <b>23</b> and into the duct <b>7</b> for expanding the same. While gas is being supplied, the side wall <b>2</b> in the duct <b>7</b> that faces the abutment <b>17</b> is allowed to bulge in the recess <b>19</b> so that, in spite of the clamping of the container <b>1</b>, a free passage is formed for the gas into the duct <b>7</b>. The side wall portion in the third segment <b>14</b> that encloses the inlet <b>15</b> will, owing to the hole from the inlet <b>15</b>, have a tendency towards resilience. As soon as an indication of resilience occurs, the gas will be able to escape into the resulting space between the side walls <b>2</b> and on to the remaining part of the duct <b>7</b>. During gas filling, the separation of the side walls <b>2</b> can be facilitated by an internal embossment of the side walls in the second <b>13</b> and the third <b>14</b> segment. When the duct <b>7</b>, and in particular its first segment <b>12</b>, has expanded to the necessary pressure and volume, the valve is closed, and the supply of gas through the bore <b>23</b> is terminated.</p>
+<p id="p-0068" num="0067">Subsequently the second piston rod <b>27</b> makes its outward stroke, its mandrel <b>26</b> in the form of an O ring <b>28</b> pressing, for the required time and at the required pressure, the side walls <b>2</b> of the duct <b>7</b> against the projection <b>29</b> of the heating jaw <b>25</b>, whereby a gas-tight weld joint <b>32</b> forms and seals the duct <b>7</b>. The resulting sealing surface <b>34</b> is illustrated very schematically in <figref idref="DRAWINGS">FIG. 1</figref>. The heating jaw <b>25</b> is preferably oriented so as to act over the second segment <b>13</b> and/or over the third segment <b>14</b>. The important thing is that the inlet <b>15</b> is disconnected from the rest of the duct <b>7</b>. The heating jaw <b>25</b> can be used together with an insulated relief means (not shown) which is arranged next to the heating jaw on the side facing the gas-filled duct <b>7</b>. The relief means is arranged on the same level as, or slightly below, the heating jaw and acts to remove/reduce an inner gas pressure in direct connection with the sealing. Such removal or reduction of the inner gas pressure means that the temperature of the heating jaw is not critical to the same extent for obtaining a gas-tight weld joint <b>32</b> that seals the duct <b>7</b>.</p>
+<p id="p-0069" num="0068">After the necessary time, an inward stroke of the first piston rod <b>21</b> occurs to return this to its home position. During this inward stroke, the external lug <b>30</b> of the first piston rod <b>21</b> will engage the inner stepped recess <b>31</b> of the second piston rod <b>27</b>, whereby the second piston rod <b>27</b> is entrained in the inward stroke so that this, too, returns to its home position.</p>
+<p id="p-0070" num="0069">The container <b>1</b> with the sealed gas-filled duct <b>7</b> is now free to be removed from the device <b>16</b> for further transport/treatment.</p>
+<p id="p-0071" num="0070">In the above-described device <b>16</b> and its function, the first piston rod <b>21</b> and the second piston rod <b>27</b> are arranged to operate in the same operating direction relative to the abutment <b>17</b> and the heating jaw <b>25</b> arranged around the abutment. It will be appreciated that the same final result can be achieved in other ways by minor changes of the device, which changes are all within the scope of protection of the invention.</p>
+<p id="p-0072" num="0071">In a variant, the heating jaw <b>25</b> can, for instance, be arranged on the second piston rod <b>27</b>, in which case the heating jaw <b>25</b> by the motion of the second piston rod <b>27</b> is applied to the abutment <b>17</b> and a mandrel <b>26</b> cooperating therein with the heating jaw <b>25</b>.</p>
+<p id="p-0073" num="0072">In another variant, the first and the second piston rods <b>21</b>, <b>27</b> can be arranged to operate in mutually different operating directions and with a heating jaw <b>25</b> and a mandrel <b>26</b> which are suitably arranged for the motion.</p>
+<p id="p-0074" num="0073">The invention thus relates to a method and a device for gas filling and sealing of a duct <b>7</b> intended to be filled with gas and positioned in a container <b>1</b> of a collapsible type. The invention further relates to a container blank <b>10</b> with a duct <b>7</b> which is specially developed for the method and the device.</p>
+<p id="p-0075" num="0074">The method and the device are developed in such a manner that the functions relating to clamping of the container <b>1</b>, gas filling of the duct <b>7</b> and sealing of the same can all be performed in one and the same operating direction, which allows a highly space-saving device <b>16</b>. This means that the device <b>16</b> can without great difficulties be integrated into existing packing machines. The device <b>16</b> has a very simple construction that makes it simple to use, easy to maintain and to have a high rate of production.</p>
+<p id="p-0076" num="0075">The container blank <b>10</b> developed for the method and the device <b>16</b> has a duct <b>7</b> which can easily be filled with gas and sealed without new material or new components in the form of, for instance, check valves having to be added to the container. Such a duct <b>7</b> can thus easily be integrated in other types of container blanks.</p>
+<p id="p-0077" num="0076">It will be appreciated that the present invention is not limited to the embodiments shown. Several modifications and variations are thus conceivable within the scope of the invention which thus is exclusively defined by the appended claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A device for gas filling a duct intended to be filled with gas and positioned in a container of a collapsible type, said duct being defined by two opposite side walls, which are joined along a common connecting portion, and comprising an inlet arranged through one of the side walls, the device comprising:
+<claim-text>an abutment; and</claim-text>
+<claim-text>a gas module which is axially applicable to the abutment for abutment against a part of said one of the side walls of the container and the inlet arranged therein and for pressing the other of the side walls against the abutment, the gas module being arranged to fill the duct with gas through the inlet,</claim-text>
+<claim-text>wherein the abutment includes a recess formed in a side of the abutment that is facing the container for allowing a portion of at least one side wall forming the duct to bulge during the filling of the duct with gas in order to form a free passage into the duct.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The device as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, in which the gas module comprises a nozzle which is applicable to the inlet for supplying gas to the duct.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The device as claimed in <claim-ref idref="CLM-00002">claim 2</claim-ref>, in which the gas module comprises a packing means which is arranged outside the nozzle and applicable to the abutment to seal around the nozzle.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The device as claimed in <claim-ref idref="CLM-00003">claim 3</claim-ref>, in which the nozzle and the packing means are arranged on a common unit in the form of a first piston rod, said first piston rod comprising a bore for supplying gas to the duct through the nozzle.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The device as claimed in <claim-ref idref="CLM-00004">claim 4</claim-ref>, in which the first piston rod comprises an external lug which, during a return stroke of the first piston rod, is engageable with a second piston rod for returning the same.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The device as claimed in <claim-ref idref="CLM-00002">claim 2</claim-ref>, in which the nozzle and the packing means are arranged on a common unit in the form of a first piston rod, said first piston rod comprising a bore for supplying gas to the duct through the nozzle.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The device as claimed in <claim-ref idref="CLM-00006">claim 6</claim-ref>, in which the first piston rod comprises an external lug which, during a return stroke of the first piston rod, is engageable with a second piston rod for returning the same.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The device as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, in which the gas module comprises a sealing means which is adapted, after filling the duct arranged in the container with gas, to disconnect the inlet from the duct by sealing.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The device as claimed in <claim-ref idref="CLM-00008">claim 8</claim-ref>, in which the sealing means comprises a mandrel which is axially engageable with a heating jaw.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The device as claimed in <claim-ref idref="CLM-00009">claim 9</claim-ref>, in which the heating jaw is arranged outside the abutment.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The device as claimed in <claim-ref idref="CLM-00008">claim 8</claim-ref>, in which a mandrel is arranged as a second piston rod outside the first piston rod.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The device as claimed in <claim-ref idref="CLM-00008">claim 8</claim-ref>, in which a mandrel is arranged outside the abutment.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The device as claimed in <claim-ref idref="CLM-00008">claim 8</claim-ref>, in which a heating jaw is arranged as a second piston rod outside the first piston rod.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The device as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, in which the abutment is made of a material with low thermal conductivity.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The device as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, in which the abutment comprises cooling means.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

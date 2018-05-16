@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891082-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891082</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12427207</doc-number>
+<date>20090421</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2008-110777</doc-number>
+<date>20080421</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>156</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>H</section>
+<class>01</class>
+<subclass>F</subclass>
+<main-group>7</main-group>
+<subgroup>06</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 29606</main-classification>
+<further-classification> 296021</further-classification>
+<further-classification> 29605</further-classification>
+<further-classification> 2960326</further-classification>
+<further-classification>2423653</further-classification>
+<further-classification>2423656</further-classification>
+<further-classification>2423658</further-classification>
+<further-classification>242366</further-classification>
+<further-classification>242328</further-classification>
+<further-classification>310179</further-classification>
+<further-classification>310187</further-classification>
+<further-classification>310198</further-classification>
+<further-classification>310199</further-classification>
+<further-classification>310201</further-classification>
+</classification-national>
+<invention-title id="d2e71">Method of manufacturing coil assembly unit for rotary electric machine</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>6376961</doc-number>
+<kind>B2</kind>
+<name>Murakami et al.</name>
+<date>20020400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>6951054</doc-number>
+<kind>B2</kind>
+<name>Hirota et al.</name>
+<date>20051000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>7337525</doc-number>
+<kind>B2</kind>
+<name>Ueda et al.</name>
+<date>20080300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>7644905</doc-number>
+<kind>B2</kind>
+<name>Ogata et al.</name>
+<date>20100100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>2541343 CL</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>2001/0019234</doc-number>
+<kind>A1</kind>
+<name>Murakami et al.</name>
+<date>20010900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>2004/0040142</doc-number>
+<kind>A1</kind>
+<name>Hirota et al.</name>
+<date>20040300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>2004/0207282</doc-number>
+<kind>A1</kind>
+<name>Ueda et al.</name>
+<date>20041000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>2006/0005376</doc-number>
+<kind>A1</kind>
+<name>Hirota et al.</name>
+<date>20060100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 29605</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>2007/0180682</doc-number>
+<kind>A1</kind>
+<name>Ueda et al.</name>
+<date>20070800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>JP</country>
+<doc-number>2002-176752</doc-number>
+<date>20020600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>JP</country>
+<doc-number>2004-104841</doc-number>
+<date>20040400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>JP</country>
+<doc-number>2005237167</doc-number>
+<kind>A</kind>
+<date>20050900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>JP</country>
+<doc-number>3982446</doc-number>
+<date>20070700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>11</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 296021</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29605</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29606</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 2960324</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 2960326</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>242166</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>242328</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>242329</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>2423653</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>2423655</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>2423658</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>242366</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>310179</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>310187</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>310198</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>310199</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>310201</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>310210</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>10</number-of-drawing-sheets>
+<number-of-figures>20</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090260222</doc-number>
+<kind>A1</kind>
+<date>20091022</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Akimoto</last-name>
+<first-name>Akito</first-name>
+<address>
+<city>Kariya</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Nixon &#x26; Vanderhye PC</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Denso Corporation</orgname>
+<role>03</role>
+<address>
+<city>Kariya</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Kim</last-name>
+<first-name>Paul D</first-name>
+<department>3729</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A method of manufacturing a coil assembly unit comprises steps of coil forming, weaving, compressing steps. In the forming step, each coil wire is formed which provides linear portions and turn portions each connecting linear portions, during which bent portions are formed at both ends of each linear portion, the bent portions being bent so that mutually adjacent linear portions are deviated from each other. In the weaving step, the coil wires are mutually woven in turn, in which the turn portions intersect in turn. All the coil wires are subjected to the weaving step in turn to produce a woven coil assembly. In the compressing step, the woven coil assembly is compressed by compressing the woven coil so that each bent portion is deformed to be linear to allow the mutually adjacent linear portions to come closer to each other, thus producing the coil assembly unit.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="94.23mm" wi="161.71mm" file="US07891082-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="259.33mm" wi="193.38mm" file="US07891082-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="245.79mm" wi="156.80mm" file="US07891082-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="244.43mm" wi="187.54mm" file="US07891082-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="250.11mm" wi="182.80mm" file="US07891082-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="246.38mm" wi="188.04mm" file="US07891082-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="239.61mm" wi="184.23mm" file="US07891082-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="248.33mm" wi="151.89mm" orientation="landscape" file="US07891082-20110222-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="239.61mm" wi="179.92mm" file="US07891082-20110222-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="251.54mm" wi="164.68mm" file="US07891082-20110222-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="192.70mm" wi="119.72mm" orientation="landscape" file="US07891082-20110222-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATION</heading>
+<p id="p-0002" num="0001">This application is based on and claims the benefit of priority from earlier Japanese Patent Application No. 2008-110777 filed Apr. 21, 2008, the description of which is incorporated herein by reference.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">1. Technical Field of the Invention</p>
+<p id="p-0004" num="0003">The present invention relates to a method of manufacturing a coil assembly unit for a rotary electric machine.</p>
+<p id="p-0005" num="0004">2. Related Art</p>
+<p id="p-0006" num="0005">In general, rotary electric machines, such as motors, generators, and motor generators, need coil assembly units in which coil wires are assembled together to induce current therethrough or generate a magnetic field by supplying current therethrough. To manufacture such coil assembly units, there have been known various manufacturing methods.</p>
+<p id="p-0007" num="0006">For example, Japanese Patent Laid-open Publication No. 2002-176752 discloses one manufacturing method, in which a pair of plate-like winding cores, which are located to be opposed to each other, is used to wind a plurality of coil wires at the same time. Another manufacturing method is disclosed by Japanese Patent Laid-open Publication No. 2004-104841, in which two coils are laced with each other. Practically, in a winding step, the first coil wire is formed into a triangular-waveform coil wire, and in the next step, the second coil wire is turned 90 degrees around the axis thereof during which time the second coil wire is made to advance in the direction along the first coil wire so that an overlapped portion between both coil wires increases by half of one turn. In the next step, the second coil wire is further turned 90 degrees around the axis thereof. Repeating these steps allows the second coil wire to be sequentially woven with the first coil wire by half of the one turn.</p>
+<p id="p-0008" num="0007">As other methods of mutually weaving (i.e., combining, lacing, plaiting, or twining) a plurality of coil wires each having a plurality of turns, the following method can be conceived of. For example, as is performed by known weaving machines, there are known various weaving methods. One method is that another coil wire is rotated around a fixed coil wire, during which time the rotated coil wire is shifted in the longitudinal direction of the fixed coil wire by one coil pitch. Another method is that two coil wires are held to be mutually open from their initial woven portions by a given opening angle, and then mutually woven so that the two coil wires are mutually rotated around the counterpart.</p>
+<p id="p-0009" num="0008">However, to avoid interference between turn portions of the woven coil wires, these methods require that an angle made between the axis lines of the two coil wires be increased. This will thus lead to a problem that the coil wires are likely to deform. Especially, when it is required to manufacture a coil assembly unit for motors having a longer axial length, such deformations may be larger when being woven, because each coil wire has a longer straight portion being accommodated in each slot. If the coil wires are deformed when being woven, the woven coils are also resulted in having distorted shapes, whereby it is difficult to provide coil assembly units with precision.</p>
+<p id="p-0010" num="0009">In addition, the foregoing conceivable weaving methods still have another problem that the coil wires should be rotated at larger angles, resulting in being larger the size of the manufacturing devices. Hence, the manufacturing cost of the devices become higher and it is difficult to manufacture coil assembly units at higher speed.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0011" num="0010">The present invention has been made in consideration of the foregoing various problems encountered by the conventional manufacturing methods, and the object of the present invention is to provide a method of manufacturing a coil assembly unit for rotary electric machines, which causes less deformation to the coils and which allows a smaller-size device to weave coil wires at higher speed.</p>
+<p id="p-0012" num="0011">In order to achieve the above object, the present invention provides a method of manufacturing a coil assembly unit for a rotary electric machine by mutually weaving (i.e., combining, lacing, plaiting, or twining) a plurality of coil wires each having a plurality of linear so portions being accommodated in slots and a plurality of turn portions each connecting mutually adjacent linear portions among the linear portions, the method comprising steps of: a coil forming step of forming each of the coil wires, in which bent portions are formed at both ends of each of the linear portions formed along each of the coil wires, the bent is portions being bent so that the mutually adjacent linear portions are deviated from each other; a coil weaving step of mutually weaving the plurality of formed coil wires in turn, in which, at one end of each of a pair of the formed coil wires, a pair of the turn portions of the formed coil wires are made to intersect to each other and the other ends of the pair of the formed coil wires are held to keep an angle between axis lines of the paired formed coil wires within a predetermined angular range, and in this held state, at least one of the paired formed coil wires is rotated so that the turn portions of the paired formed coil wires intersect in turn, wherein all the plurality of formed coil wires are subjected to the weaving step in turn to produce a woven coil assembly; and a coil compressing step of compressing the woven coil assembly by compressing the woven coil so that each of the bent portions is deformed to be linear so as to allow the mutually adjacent linear portions to come closer to each other, thus producing the coil assembly unit.</p>
+<p id="p-0013" num="0012">In this manufacturing method, the coil forming step, the coil weaving step, and the coil compressing step are performed sequentially and repeatedly. In the coil forming step, the bent portions are formed at both ends of each of the linear portions so that the mutually adjacent linear portions are deviated from each other. Thanks to this deviation of mutually adjacent linear portions, both turn portions of the pair of formed coil wires can be weaved sequentially with each other without mutual interference when at least one of the formed coil wires is rotated or revolved in the coil weaving step. Thus, compared with liner portions with no bent portions, the angle between both axis lines of the pair of formed coil wires can be set smaller, leading to less deformation of the coil wires during the coil weaving step.</p>
+<p id="p-0014" num="0013">In the coil weaving step, the coil bent portions are deformed) to be linear (i.e., made straight) such that mutually adjacent linear portions come closer to each other. Since the bent portions are now deformed linearly and part of the liner portions that have come closer to each other, it is possible to have a woven coil assembly unit in which the linear portions are approximately parallel with each other, for example.</p>
+<p id="p-0015" num="0014">In this way, forming the bent portions allows the turn portions of a pair of formed coil wires to be woven with no spatial interference therebetween. In particular, when a large number of formed coil wires are subjected to the coil weaving step (for example, one coil wire is woven with five woven coil wires, two woven coil wires are woven with other two woven coil wires, or four woven coil wires are woven with other four woven coil wires), the width between mutually liner portions become narrower. Even in such a state, the bent portions are reliably avoided from being interfered with each other during the coil weaving step. This makes it possible to provide a smaller amount to the angel between both axis lines of a pair of formed coil wires, resulting in that there is less deformation of the coil wires in the coil weaving step.</p>
+<p id="p-0016" num="0015">In addition, when the coil weaving step is performed using a rotating device to rotate or revolve the coil wires, the rotating device can be made compact, thus contributing in lowering manufacturing the rotating device. Further, the smaller angle between both axis lines of a pair of formed coil wires gives compact rotating or revolving actions to the coil wires, the coil wires can be rotated or revolved faster, whereby the coil weaving step can be made faster.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0017" num="0016">In the accompanying drawings:</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 1A</figref> is a plan view showing a stator for rotary electric machines, which stator adopts a coil assembly unit being manufactured by methods taught in embodiments according to the present invention;</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 1B</figref> is a side view showing the stator shown in <figref idref="DRAWINGS">FIG. 1A</figref>;</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 2</figref> is an enlarged perspective view showing a portion of the stator shown in <figref idref="DRAWINGS">FIGS. 1A and 1B</figref>;</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 3</figref> is a perspective view showing the appearance of the coil assembly unit;</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 4</figref> is a side view showing a coil end portion of the coil assembly unit;</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 5</figref> is an illustration showing, in a developed form, the entire form of a coil wire woven into the coil assembly unit;</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 6</figref> is a sectional view of the coil wire</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 7</figref> is a partial perspective view showing the turn portion of a coil wire;</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 8</figref> is an illustration showing a coil forming step adopted by the manufacturing method according to the embodiment;</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIGS. 9A to 9C</figref> are illustrations each showing various weaving techniques in a coil weaving step employed in the manufacturing method;</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 10</figref> is an illustration showing one weaving technique which can be employed in the coil weaving step;</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 11</figref> is a side view showing part of woven coil wires produced after the coil weaving step;</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 12</figref> is an illustration showing a coil compressing step for woven coil wires in the manufacturing method;</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. 13</figref> is a developed view showing part of woven coil wires produced after the coil compressing step;</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. 14</figref> is a graph showing the relationship between an opening angle &#x3b1; and a weaving angle &#x3b8; exemplified in the embodiment;</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. 15</figref> illustrates woven coil wires for an opening angle &#x3b1; of 0 degrees;</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. 16</figref> illustrates woven coil wires for an opening angle &#x3b1; of 25 degrees; and</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. 17</figref> illustrates woven coil wires for an opening angle &#x3b1; of 60 degrees.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENTS</heading>
+<p id="p-0036" num="0035">With reference to the accompanying drawings, embodiments of the present invention will now be described, in which how to manufacture a coil assembly for a rotary electric machine, according to the present invention, will now be described.</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIGS. 1A and 1B</figref> outline a rotor <b>10</b> for the rotary electric machine which is for example an alternator, a motor, or a motor generator for a vehicle. <figref idref="DRAWINGS">FIG. 1A</figref> shows a perspective view of the rotor <b>10</b>, while <figref idref="DRAWINGS">FIG. 1B</figref> shows a side view of the rotor <b>10</b>. This rotor <b>10</b> is manufactured with a coil assembly <b>20</b>, which can be assembled based on various manufacturing methods provided various embodiments of the present invention.</p>
+<p id="p-0038" num="0037">The stator <b>10</b> shown in <figref idref="DRAWINGS">FIGS. 1A and 1B</figref> is used by, for example, a rotary electric machine called a motor generator for a vehicle, which works as an electric motor as well as a generator. The stator <b>10</b> has a bore in which a stator <b>11</b> is accommodated. Though not detailed, the rotor <b>11</b> has a plurality of magnetic poles of which two type of N and S magnetic polarities are alternate to each other in a circumferential direction of the rotor <b>11</b>. In the rotor <b>11</b>, the magnetic poles are located to face to the inner circumferential surface of the stator <b>10</b>. The stator <b>10</b> is provided with a stator core <b>12</b>. The stator core <b>12</b> is composed of magnetic steel plates of a predetermined thickness, which are stacked on one another in a direction which corresponds to an axial direction AX of the stator <b>10</b>.</p>
+<p id="p-0039" num="0038">As shown in <figref idref="DRAWINGS">FIG. 2</figref>, the stator core <b>12</b> has a plurality of slots which are straight in the axial direction AX but mutually adjacent to each other, with predetermined pitches therebetween, in a circumferential direction CR orthogonal to the axial direction AX. The slots are formed to open to the inner circumferential surface of the stator core <b>12</b>. The plurality of slots are composed of a plurality of paired mutually-adjacent slots <b>14</b> and <b>15</b>.</p>
+<p id="p-0040" num="0039">A coil assembly <b>20</b> serves as stator windings composed of three-phase windings, and segments for the stator windings for each of the respective phases are embedded in each pair of the slots <b>14</b> and <b>15</b>. The different-phase stator windings are embedded in three pairs of is slots <b>14</b> and <b>15</b> which are, pair by pair, mutually adjacent to each other in the circumferential direction.</p>
+<p id="p-0041" num="0040">With reference to <figref idref="DRAWINGS">FIGS. 3-7</figref>, the coil assembly unit <b>20</b> will now be detailed, which comprises coil wires <b>30</b> woven with each other. The woven coil wires <b>30</b> compose the coil assembly unit <b>30</b> with turn portions <b>42</b> at axially both ends thereof.</p>
+<p id="p-0042" num="0041">Each coil wire <b>30</b> of the coil assembly unit <b>20</b> is produced as shown in <figref idref="DRAWINGS">FIG. 5</figref>, where each coil wire <b>30</b> has a plurality of turn portions <b>42</b> located at predetermined pitches in the circumferential direction CR (<figref idref="DRAWINGS">FIG. 5</figref> shows each coil wire <b>30</b> in an expanded form). One coil wire <b>30</b> has a length of approximately 3 m. As shown in <figref idref="DRAWINGS">FIG. 6</figref>, each coil wire <b>30</b> essentially consists of a copper-made conductor <b>32</b> and electrical insulating sheaths composed of an electrical insulating inner layer <b>34</b> covering the conductor <b>34</b> and an electrical insulating outer layer <b>36</b> covering the layer <b>34</b>. The thickness of both the inner and outer layers <b>34</b> and <b>36</b> is set to be 100 to 200 &#x3bc;m. In this way, the insulating sheaths are thicker, so that it is not necessary to insert other electric insulating means, such as insulating papers, between the coil wires <b>30</b> when being stacked on one another.</p>
+<p id="p-0043" num="0042">As shown in <figref idref="DRAWINGS">FIG. 2</figref>, each of the respective coil wires <b>30</b> has linear coil portions <b>40</b> being accommodated in the slots <b>14</b> and <b>15</b> of the stator core <b>12</b> (hereinafter, if necessary, such coil portions <b>40</b> are called &#x201c;slot-accommodated linear portions&#x201d;) and coil portions <b>42</b> located to protrude from the slots <b>14</b> and <b>15</b> in the axial direction AX (hereinafter, if necessary, such coil portions <b>42</b> are called &#x201c;turn portions&#x201d;). That is, each turn portion <b>42</b> is located outside of the stator core <b>12</b> to eclectically and physically connect both slot-accommodated linear portions embedded in differently allocated slots <b>14</b> (<b>15</b>) in the circumferential direction CR. As a wholes the coil wires <b>30</b> are wound in and around the stator core <b>12</b> in a wave winding form, thereby providing a stator winding, that is, the coil assembly unit <b>20</b>. In effect, the turn portions <b>42</b> of the respective coil wires <b>30</b> are present on both axial sides of the stator core <b>12</b>. Of the plurality of turn portions <b>42</b> of each coil wire <b>30</b>, the odd-numbered turn portions and the even-numbered turn portions are alternately located at different circumferential positions whose phases are mutually shifted by an electrical angle of 180 degrees from each other.</p>
+<p id="p-0044" num="0043">As shown in <figref idref="DRAWINGS">FIG. 7</figref>, each turn portion <b>42</b> has a crank part with no twisting at the center thereof. The crank part <b>44</b> is formed into a crank shape which is consistent with an axial end face <b>13</b> of the stator core <b>12</b>.</p>
+<p id="p-0045" num="0044">Referring to <figref idref="DRAWINGS">FIGS. 8 to 13</figref>, how to manufacture the coil assembly unit <b>20</b> according to the present embodiment will now be described.</p>
+<p id="p-0046" num="0045">In the present embodiment, the manufacturing method for the coil assembly unit <b>20</b> includes a coil forming step, a coil weaving (i.e., combining, lacing, plaiting, or twining) step, and a coil compressing step, which are carried out in turn. As shown in <figref idref="DRAWINGS">FIG. 8</figref>, in the coil forming step, a forming die <b>51</b> is used to form a linear coil wire <b>30</b>A into a formed coil wire <b>30</b>B which has a predetermined shape. Each formed coil wire <b>30</b>B has linear slot-accommodated linear portions <b>40</b> and step-wise turn portions, which are continuously, but alternately, connected to each other. More precisely, between each slot-accommodated linear portion <b>40</b> and each turn portion <b>42</b>, there is formed a bent portion <b>47</b> that connects both coil portions <b>40</b> and <b>42</b>.</p>
+<p id="p-0047" num="0046">Each bent portion <b>47</b> is bent to allow mutually-adjacent slot-accommodated linear portions <b>40</b> to step away from each other. Practically, concerning mutually-adjacent slot-accommodated linear portions <b>40</b> whose one ends are connected by one turn portion <b>42</b>, the bent portions <b>47</b> are bent respectively so that the other ends of such mutually-adjacent slot-accommodated linear portions <b>40</b> are opened outward. In the present embodiment, an opening angle &#x3b1; (refer to <figref idref="DRAWINGS">FIG. 9</figref>) made between mutually-adjacent slot-accommodated linear portions <b>40</b> is set to 40 degrees. Each bent portion <b>47</b> is displaced from a corner at which one slot-accommodated linear portion <b>40</b> and one turn portion <b>40</b> intersects, thus unchanging the intersection angle of both coil portions <b>40</b> and <b>42</b> at the corner.</p>
+<p id="p-0048" num="0047">The bent angles of both bent portions <b>47</b> connected to both ends of each slot-accommodated linear portion <b>40</b> are set to the same value. Thus, two linear portions P, which can be regarded as part of turn portions directly connected to both ends of each slot-accommodated linear portion <b>40</b> respectively, are substantially parallel with each other. This permits the axis line of the formed coil wire <b>30</b>B is not distorted, but straight. In addition, each slot-accommodated linear portion <b>40</b> has a length longer than the maximum interval between mutually-adjacent slot-accommodated linear portions <b>40</b>. The odd-numbered turns <b>42</b> and the even-numbered turns <b>42</b> are alternately located at positions whose phases are mutually shifted by an electrical angle of 180 degrees around the axis line.</p>
+<p id="p-0049" num="0048">Next, the coil weaving step is carried out. In this step, as shown in <figref idref="DRAWINGS">FIG. 9A</figref>, a pair of formed coil wires <b>30</b>B is arranged such that the turn portion <b>42</b> located at one end side of one coil wire intersects with that of the other coil wire. The intersecting ends are fixedly held by a rotating device (not shown), but the rotating device itself is rotatable with fixedly holding the intersecting ends in synchronism with the weaving rotation (revolution) later described. Concurrently, the other end sides of both formed coil wires <b>30</b>B are held by the rotating device to keep an angle &#x3b8; made between the axis lines AL of both formed coil wires <b>30</b>B within a predetermined angular range (for example, in the present embodiment, approximately 15 degrees). Hereinafter this angle &#x3b8; is referred to as a weaving angle.</p>
+<p id="p-0050" num="0049">From this arrangement, as shown in <figref idref="DRAWINGS">FIG. 9A</figref>, the rotating device is operated such that each coil wire of the paired formed coil wires <b>30</b>B is rotated (revolved) in the same direction around each axis line, with the result that the respective turn portions <b>42</b> of one coil wire intersect with those of the other coil wire, in turn, from the turn portion <b>42</b> located at one end. This sequential intersection allows both formed coil wires <b>30</b>B to be woven with each other.</p>
+<p id="p-0051" num="0050">Alternatively, other weaving techniques which are illustrated in <figref idref="DRAWINGS">FIGS. 9B and 9C</figref> may be adopted selectively. In the case shown in <figref idref="DRAWINGS">FIG. 9B</figref>, one of the paired formed coil wires <b>30</b>B is rotated (revolved) about the other of the paired formed coil wires <b>30</b>B, which other coil wire is fixedly held. Furthermore in the case of <figref idref="DRAWINGS">FIG. 9C</figref>, the paired formed coil wires <b>30</b>B are fixedly held so that one end of each of both coil wires intersects with each other at a predetermined weaving angle and, in this held state, each coil wire is rotated (revolved) around the other one.</p>
+<p id="p-0052" num="0051">In addition, each of the paired formed coil wires <b>30</b>B is not limited to one coil wire, but can be composed of already woven two or more coil wires. Hence, in addition to the case where one-to-one paired coil wires are woven with each other, one-to-plural paired coil wires, plural-to-one paired coil wires, or plural-to-plural paired coil wires (each consisting of plural coil wires which are already woven) can be woven with each other. One such an example is shown in <figref idref="DRAWINGS">FIG. 10</figref>, where one coil wire is woven with five woven coil wires using any one of the weaving techniques shown in <figref idref="DRAWINGS">FIGS. 9A to 9C</figref>.</p>
+<p id="p-0053" num="0052">The foregoing weaving process is carried out to provide a woven coil <b>30</b>C in which, in total, for example, twelve formed coil wires <b>30</b>B are woven together, as shown in <figref idref="DRAWINGS">FIG. 11</figref>.</p>
+<p id="p-0054" num="0053">The coil compressing step is then carried out. In this step, as shown in <figref idref="DRAWINGS">FIG. 12</figref>, the woven coil <b>30</b>C is processed such that the bent portions <b>47</b> on both sides of the respective slot-accommodated linear portions <b>40</b> are clamped by two coil holders <b>55</b> and <b>56</b>. Then, the coil holders <b>55</b> and <b>56</b> are operated to bring the respective bent portions <b>47</b> into a linear form, during which time the group of the first turn portions, which are located at the leftmost end of the woven coil <b>30</b>C in <figref idref="DRAWINGS">FIG. 12</figref> are positionally fixed. Therefore, moving the coil holders <b>55</b> and <b>56</b> makes it possible to deform the respective bent portions <b>47</b> linearly. The mutually-adjacent slot-accommodated linear portions <b>40</b> can thus be deformed to come closer to each other.</p>
+<p id="p-0055" num="0054">Hence, the second turn portions group A, the third turn portions group B, the fourth portions group C, and so on move leftward at the same time in the arrangement shown in <figref idref="DRAWINGS">FIG. 12</figref>. When it is assumed that the amount of movement of the second turn portions group A is 1 unit, that of the third turn portions group B and that of the fourth turn portions group C become 2 units and 3 units, respectively, i.e., 2 and 3 times the amount of movement of the group A portions respectively. As a result, as shown in <figref idref="DRAWINGS">FIG. 13</figref>, the slot-accommodated linear portions <b>40</b> are brought into a state where those portions <b>40</b> are linear and parallel with each other, providing a given form of woven coil unit <b>30</b>D. The ends of the respective coil wires <b>30</b> of this woven coil unit <b>30</b>D are joined at a plurality of points thereof and the entire unit <b>30</b>D is shaped into a toroidal form, thus providing the coil assembly unit <b>20</b> shown in <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0056" num="0055">As stated, in the coil forming step, the bent portions <b>47</b> are arranged at both ends of each slot-accommodated linear portion <b>40</b> and bent to allow mutually adjacent linear portions <b>40</b> to step away from each other. The existence of these bent portions <b>47</b> eliminates spatial interference among the turn portions <b>42</b> of the formed coil wires <b>30</b>B in the coil weaving step. Hence, the weaving angle &#x3b8; can be made smaller, whereby deformation which may occur in weaving the formed coil wires <b>30</b>B can be set minimized.</p>
+<p id="p-0057" num="0056">The rotating device used in the coil weaving step can be made smaller in size, thereby making the whole manufacturing apparatus (including the rotating device used in the coil weaving step) compact in size and reducing the whole cost of manufacturing. In addition, it is possible to reduce the range of rotation of the formed coil wires <b>30</b>B. This makes the rotating action faster, so that the weaving step can be performed at higher speed.</p>
+<p id="p-0058" num="0057">In the present embodiment, the opening angle &#x3b1; made between mutually-adjacent slot-accommodated linear portions <b>40</b>, which angle is set in the coil forming step, is larger than the weaving angle &#x3b8; which is set in the coil weaving step. This means that making the opening angle &#x3b1; larger will lead to setting the weaving angle &#x3b8; smaller. Hence, deformation of coil wires which will occur in weaving the formed coil wires <b>30</b>B can be suppressed.</p>
+<p id="p-0059" num="0058">The inventors used the coil wires <b>30</b>B, which had been subjected to weaving in the coil weaving step, to examine the relationship between the opening angle &#x3b1; of the formed coil wires <b>30</b>B and the weaving angle &#x3b8; which is able to obviate spatial interference among the turn portions. This examination provided a result shown in <figref idref="DRAWINGS">FIG. 14</figref>. This result reveals that when the opening angle &#x3b1; is zero degrees as illustrated in <figref idref="DRAWINGS">FIG. 15</figref>, the weaving angle &#x3b8; obviating the interference among the turn portions is 50 degrees. When the opening angle &#x3b1; is 25 degrees as illustrated in <figref idref="DRAWINGS">FIG. 16</figref>, the weaving angle &#x3b8; obviating such interference is 25 degrees. Moreover, as stated in the foregoing embodiment, when the opening angle &#x3b1; is 40 degrees as illustrated in <figref idref="DRAWINGS">FIG. 10</figref>, the weaving angle &#x3b8; obviating such interference is 15 degrees. When the opening angle &#x3b1; is 60 degrees as illustrated in <figref idref="DRAWINGS">FIG. 17</figref>, the weaving angle &#x3b8; obviating such interference is 10 degrees.</p>
+<p id="p-0060" num="0059">Accordingly, it can be understood that the larger the opening angle &#x3b1;, the smaller the weaving angle &#x3b8;. It is preferred that the ratio of the opening angle &#x3b1; to the weaving angle &#x3b8; be equal to or less than 1.</p>
+<p id="p-0061" num="0060">In addition to the foregoing advantages, the present embodiment provides the following advantages.</p>
+<p id="p-0062" num="0061">Each coil wire <b>30</b> is equal to or longer in width than a distance between the mutually-adjacent slot-accommodated linear portions <b>40</b> of two of the plurality of formed coil wires. In this case, as the slot-accommodated liner portions are longer relative to the width between mutually-adjacent slot-accommodated linear portions, the spatial interference between the turn portions is easier to occur in the coil weaving step. However, in the present embodiment, even in such a condition, thanks to forming the bent portions <b>47</b>, the foregoing advantage of preventing the deformation of the coil wires in the coil weaving step can be gained.</p>
+<p id="p-0063" num="0062">In addition, in the coil forming step, each of the respective bent portions <b>47</b> is formed as part of each of the slot-accommodated linear portions <b>40</b> and is displaced from a corner at which each of the slot-accommodated linear portions <b>40</b> intersects with each of the turn portions <b>42</b>. Due to this displacement, it is possible to avoid the angle of each of the corners from changing during the formation of the bent portions <b>47</b>. Therefore, in the coil compressing step, the angle of each of the corners can be kept as it is during deforming each of the bent portions <b>47</b> into a linear form in the coil compressing step. The deformation process can be made easier and also, the slot-accommodated liner portions can be made approximately parallel with each other in an easier manner.</p>
+<p id="p-0064" num="0063">Further, two of the bent portions <b>47</b> produced during the coil so forming step, which two bent portions are located at both ends of each of the linear portions, are bent at the same angle. Hence, the linear parts P (refer to <figref idref="DRAWINGS">FIG. 8</figref>) each connecting each bent portion <b>47</b> and each turn portion <b>42</b>, which parts P are located on both end sides of each slot-accommodated liner potion <b>40</b>, are approximately parallel with each other, making it easier to keep the axis line of each of the formed coil wires straight, without being curved.</p>
+<p id="p-0065" num="0064">In addition, the bent portions <b>47</b> are formed so that an opening angle &#x3b1; made between the mutually-adjacent slot-accommodated linear portions <b>40</b> produced during the coil forming step is equal to or larger than an angle &#x3b8; (called a weaving angle) made between the axis lines of the paired formed coil wires <b>30</b>B produced during the coil weaving step. In this case, by making the opening angle &#x3b1; larger, the weaving angle &#x3b8; which is set in the coil weaving step can be made smaller. This is effective in suppressing the deformation of coil wires in the coil weaving step.</p>
+<p id="p-0066" num="0065">The coil assembly unit manufactured according to the present invention can be used by, for example, a rotary electric machine provided with a stator and a rotor located inside or outside the stator and formed with a plurality of magnetic poles arranged alternately in the circumferential direction. In this rotary electric machine, the coil wire <b>30</b>A, whose section is almost rectangular, is wound in a plurality of slots of the stator core so as to compose a multiple-phase stator winding. The coil wire <b>30</b>A is formed to have the slot-accommodated linear portions <b>40</b> and the turn portions <b>42</b> connecting linear portions <b>40</b> and protruding from the slots <b>14</b>, <b>15</b>. Each of the turn portions <b>42</b> has a crank part <b>44</b>, so that each of the turn portions <b>42</b> protruded from slots <b>14</b> and <b>15</b> is composed of the crank part <b>44</b>. The crank part <b>44</b> is arranged at an approximately central part of each turn portion <b>42</b> and may not be twisted as stated in the foregoing embodiment. Alternatively, the central part in which the crack part <b>44</b> is formed may be cranked, in the circumferential direction CR when being assembled into the rotary electric machine, to have a cranked amount approximately corresponding to the width of the coil wire <b>30</b>A. The coil wire <b>30</b>A may be continuous throughout the stator core.</p>
+<p id="p-0067" num="0066">The present invention may be embodied in several other forms without departing from the spirit thereof. The embodiments described so far are therefore intended to be only illustrative and not restrictive, since the scope of the invention is defined by the appended claims rather than by the description preceding them. All changes that fall within the metes and bounds of the claims, or equivalents of such metes and bounds, are therefore intended to be embraced by the claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A method of manufacturing a coil assembly unit for a rotary electric machine by mutually weaving a plurality of waveform coil wires each having a plurality of linear portions being accommodated in slots and a plurality of turn portions each connecting adjacent linear portions among the linear portions, the method comprising steps of:
+<claim-text>a coil forming step of forming each of the coil wires, in which bent portions are formed at both ends of each of the linear portions formed along each of the coil wires, the bent portions being bent so that the mutually adjacent linear portions are stepped away from each other;</claim-text>
+<claim-text>a coil weaving step of mutually weaving the plurality of formed coil wires in turn, in which, at one end of each of a pair of the formed coil wires, a pair of the turn portions of the formed coil wires are made to intersect to each other and the other ends of the pair of the formed coil wires are held to keep an angle between axis lines of the paired formed coil wires within a predetermined angular range, and in this holding state, at least one of the paired formed coil wires is rotated around the axis line so that the turn portions of the paired formed coil wires intersect in turn, wherein all the plurality of formed coil wires are subjected to the weaving step in turn to produce a weaved coil assembly; and</claim-text>
+<claim-text>a coil compressing step of compressing the weaved coil assembly by compressing the weaved coil so that each of the bent portions is deformed to be linear in relation to each of the linear portions so as to allow the mutually adjacent linear portions to come closer to each other, thus producing the coil assembly unit.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein each coil wire is equal to or longer in width than a distance between the mutually adjacent linear portions of two of the plurality of formed coil wires.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The method of <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein in the coil forming step, each of the respective bent portions is formed as part of each of the linear portions and is apart from a corner at which each of the linear portions intersects with each of the turn portions.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The method of <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein two of the bent portions produced during the coil forming step, which two bent portions are located at both ends of each of the linear portions, are bent at the same angle.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The method of <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the bent portions are formed so that an opening angle made between the mutually adjacent linear portions produced during the coil forming step is equal to or larger than an angle made between the axis lines of the paired formed coil wires produced during the coil weaving step.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein in the coil forming step, each of the respective bent portions is formed as part of each of the linear portions and is displaced from a corner at which each of the linear portions intersects with each of the turn portions.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The method of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein two of the bent portions produced during the coil forming step, which two bent portions are located at both ends of each of the linear portions, are bent at the same angle.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The method of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the bent portions are formed so that an opening angle made between the mutually adjacent linear portions produced during the coil forming step is equal to or larger than an angle made between the axis lines of the paired formed coil wires produced during the coil weaving step.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein two of the bent portions produced during the coil forming step, which two bent portions are located at both ends of each of the linear portions, are bent at the same angle.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The method of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the bent portions are formed so that an opening angle made between the mutually adjacent linear portions produced during the coil forming step is equal to or larger than an angle made between the axis lines of the paired formed coil wires produced during the coil weaving step.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the bent portions are formed so that an opening angle made between the mutually adjacent linear portions produced during the coil forming step is equal to or larger than an angle made between the axis lines of the paired formed coil wires produced during the coil weaving step. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

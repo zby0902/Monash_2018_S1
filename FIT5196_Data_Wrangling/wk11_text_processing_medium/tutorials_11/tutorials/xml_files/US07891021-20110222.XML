@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891021-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891021</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12148653</doc-number>
+<date>20080421</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>190</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>62</class>
+<subclass>B</subclass>
+<main-group>17</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>  2 81</main-classification>
+</classification-national>
+<invention-title id="d2e53">Protective garment having two sleeves, each attached so as to extend in a forward direction when unstressed</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>4507808</doc-number>
+<kind>A</kind>
+<name>Montalto</name>
+<date>19850400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2 93</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>4627112</doc-number>
+<kind>A</kind>
+<name>Grilliot et al.</name>
+<date>19861200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2 81</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>4864655</doc-number>
+<kind>A</kind>
+<name>McKenney et al.</name>
+<date>19890900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2 93</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>5010591</doc-number>
+<kind>A</kind>
+<name>Kalaam</name>
+<date>19910400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2 93</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>5031242</doc-number>
+<kind>A</kind>
+<name>Aldridge et al.</name>
+<date>19910700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2 81</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>5165110</doc-number>
+<kind>A</kind>
+<name>Grilliot et al.</name>
+<date>19921100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2 93</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>5410759</doc-number>
+<kind>A</kind>
+<name>Hari</name>
+<date>19950500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2108</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>3</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>  2 81</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2 69</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2 93</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2125</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2 59</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2 85</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2108</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>2</number-of-drawing-sheets>
+<number-of-figures>4</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090260125</doc-number>
+<kind>A1</kind>
+<date>20091022</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Grilliot</last-name>
+<first-name>William L.</first-name>
+<address>
+<city>Dayton</city>
+<state>OH</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Grilliot</last-name>
+<first-name>Mary I.</first-name>
+<address>
+<city>Dayton</city>
+<state>OH</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Waters</last-name>
+<first-name>Patricia K.</first-name>
+<address>
+<city>Tipp City</city>
+<state>OH</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="004" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Grilliot, Jr.</last-name>
+<first-name>William L.</first-name>
+<address>
+<city>Dayton</city>
+<state>OH</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="005" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Lewis</last-name>
+<first-name>James H.</first-name>
+<address>
+<city>West Carrollton</city>
+<state>OH</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Wood, Phillips, Katz, Clark &#x26; Mortimer</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Morning Pride Manufacturing, L.L.C.</orgname>
+<role>02</role>
+<address>
+<city>Dayton</city>
+<state>OH</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Patel</last-name>
+<first-name>Tejash</first-name>
+<department>3765</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A protective garment of a type preferably conforming to at least one NFPA standard and worn by firefighters and by emergency rescue workers has a body, which has two sleeve mouths, and has two sleeves. Each sleeve is attached to the body by being sewn thereto, along and around a margin of an associated one of the sleeve mouths, so as to extend in a forward direction when unstressed. The forward direction may be a forward and downward direction, a forward and upward direction, or a forward and lateral direction. The protective garment may be a protective coat, a protective jacket, a protective shirt, or a suit of protective coveralls.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="139.19mm" wi="102.70mm" file="US07891021-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="221.91mm" wi="178.05mm" file="US07891021-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="229.28mm" wi="161.97mm" file="US07891021-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">Not Applicable.</p>
+<heading id="h-0002" level="1">FEDERALLY SPONSORED RESEARCH OR DEVELOPMENT</heading>
+<p id="p-0003" num="0002">Not Applicable.</p>
+<heading id="h-0003" level="1">MICROFICHE/COPYRIGHT REFERENCE</heading>
+<p id="p-0004" num="0003">Not Applicable.</p>
+<heading id="h-0004" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0005" num="0004">This invention pertains to a protective garment, such as a protective coat, a protective jacket, a protective shirt, or a suit of protective coveralls, which has a body and two sleeves. This invention contemplates that each of the sleeves is attached to the body so as to extend in a forward direction when unstressed.</p>
+<heading id="h-0005" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0006" num="0005">Typically, a protective garment of a type worn by firefighters and by emergency rescue workers conforms to one or more National Fire Protection Association (NFPA) standards, for example as exemplified in any editions of NFPA 1971; NFPA 1976; NFPA 1951 USAR; NFPA 1977; NFPA 1999 EMS; and/or NFPA 1991, 1992, 1994 HAZMAT; the disclosures of which are incorporated herein by reference. If the protective garment is a protective coat, a protective jacket, or a suit of protective coveralls, the protective garment has a body and two sleeves.</p>
+<p id="p-0007" num="0006">An example of a protective coat of the type noted above, wherein each of the sleeves is attached by being sewn to the body so as to extend in an upward and lateral direction when unstressed, is disclosed in U.S. Pat. No. 5,165,110, the disclosure of which is incorporated herein by reference. As disclosed in U.S. Pat. No. 5,165,110, stress upon a wearer as a result of arm movement is minimal. A protective coat of related interest is disclosed in U.S. Pat. No. 5,010,591.</p>
+<heading id="h-0006" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0008" num="0007">This invention provides a protective garment of a type worn by firefighters and by emergency rescue workers. The protective garment has a body, which has two sleeve mouths, and has two sleeves. Preferably, the protective garment conforms to the current edition of at least one of NFPA 1971; NFPA 1975; NFPA 1951 USAR; NFPA 1977; NFPA 1999 EMS; NFPA 1991, 1992, 1994 HAZMAT; and/or NFPA 1971. Each of the sleeves is attached to the body, preferably by being sewn to the body, along and around a margin of an associated one of the sleeve mouths, so as to extend in a forward direction when unstressed. The forward direction may be a forward and downward direction, a forward and upward direction, or a forward and lateral direction.</p>
+<p id="p-0009" num="0008">Other objects, features, and advantages of the invention will become apparent from a review of the entire specification, including the appended claims and drawings.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0007" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIGS. 1</figref>, <b>2</b>, and <b>3</b>, respectively, are fragmentary, perspective, front views of three embodiments of this invention in a protective garment, such as a protective coat, a protective jacket, or a suit of protective coveralls. In each of these embodiments, a body of the protective garment is illustrated as flattened, while each of two sleeves of the protective garment is illustrated as being sewn to the body of the protective garment so as to extend in a forward direction when unstressed; and</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. 4</figref> is a fragmentary side view of the garments of <figref idref="DRAWINGS">FIGS. 1-3</figref> with the left-hand sleeve not shown.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0008" level="1">DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENT</heading>
+<p id="p-0012" num="0011">As illustrated, a protective garment <b>10</b> of a type worn by firefighters and by emergency rescue workers conforms to one or more National Fire Protection Association (NFPA) standards, as exemplified by NFPA 1971; NFPA 1976; NFPA 1951 USAR; NFPA 1977; NFPA 1999 EMS; NFPA 1991, 1992, 1994 HAZMAT; and has an outer shell, an intermediate liner providing a moisture barrier, and an inner liner providing a thermal barrier. To simplify the drawings, only the outer shell is illustrated. The protective garment <b>10</b> has a body <b>20</b>, which has two sleeve mouths <b>30</b>, and two sleeves <b>40</b>, each of which is attached to the body <b>20</b> by being sewn to the body <b>20</b> along and around a margin <b>50</b> of an associated one of the sleeve mouths <b>30</b>.</p>
+<p id="p-0013" num="0012">As contemplated by this invention, the sleeve mouths <b>30</b> are configured so that, when each sleeve <b>40</b> is attached to the body <b>20</b> by being sewn to the body <b>20</b> along and around the margin <b>50</b> of the associated one of the sleeve mouths <b>30</b>, said sleeve <b>40</b> extends in a forward direction when said sleeve <b>40</b> is unstressed. The forward direction may be a forward and downward direction, as in the embodiment of <figref idref="DRAWINGS">FIG. 1</figref>, a forward and upward direction, as in the embodiment of <figref idref="DRAWINGS">FIG. 2</figref>, or a forward and lateral direction, as in the embodiment of <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0014" num="0013">Advantageously, the embodiment of <figref idref="DRAWINGS">FIG. 2</figref>, in which each sleeve <b>40</b> extends in a forward and upward direction when said sleeve <b>40</b> is unstressed, also includes the subject matter of U.S. Pat. No. 5,165,110, supra.</p>
+<p id="p-0015" num="0014">As best seen in <figref idref="DRAWINGS">FIG. 4</figref>, a majority of each of the margins <b>50</b> of each of the sleeve mouths <b>30</b> is located on the anterior (front) side <b>60</b> of a coronal plane <b>70</b>, as defined by a wearer of the garment <b>10</b> in the unstressed condition of the garment <b>10</b>.</p>
+<p id="p-0016" num="0015">It should be appreciated that while the invention described herein is particularly useful in protective garments of the type worn by firefighter's and/or emergency rescue workers, the invention may prove useful and be incorporated in other garments, including jackets, shirts, and coveralls and such for casual, sport and other type wear.</p>
+<p id="p-0017" num="0016">Hereinbefore and in the claims, all directions are referred to the protective garment, as the protective garment would be oriented if the protective garment were worn by an erectly standing wearer who was not stressing the sleeves. Hereinbefore, all references to a sleeve being unstressed refer to the sleeve being unstressed by a wearer, gravitationally, or otherwise.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A protective garment of a type worn by firefighters and by emergency rescue workers, the protective garment having a body, which has two sleeve mouths, the protective garment having two sleeves, each of which is attached to the body, along and around a margin of an associated one of the sleeve mouths, a majority of each margin being located on the anterior side of a coronal plane as defined by a wearer of the protective garment with the garment in an unstressed condition.</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The protective garment of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein each sleeve is attached to the body, by being sewn to the body.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The protective garment of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the protective garment conforms to at least one of NFPA 1971; NFPA 1975; NFPA 1951 USAR; NFPA 1977; NFPA 1999 EMS; NFPA 1991, 1992, 1994 HAZMAT. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891248-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891248</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11990123</doc-number>
+<date>20060808</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>GB</country>
+<doc-number>0518153.2</doc-number>
+<date>20050907</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>459</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>29</main-group>
+<subgroup>265</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 73634</main-classification>
+<further-classification> 73629</further-classification>
+<further-classification> 73621</further-classification>
+</classification-national>
+<invention-title id="d2e71">Apparatus for measuring wall thicknesses of objects</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>3575043</doc-number>
+<kind>A</kind>
+<name>Allen et al.</name>
+<date>19710400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73619</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>4166395</doc-number>
+<kind>A</kind>
+<name>Dannehl</name>
+<date>19790900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73634</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>5189805</doc-number>
+<kind>A</kind>
+<name>Matsumoto et al.</name>
+<date>19930300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>5412880</doc-number>
+<kind>A</kind>
+<name>Raab</name>
+<date>19950500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>5446673</doc-number>
+<kind>A</kind>
+<name>Bauer et al.</name>
+<date>19950800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>5576492</doc-number>
+<kind>A</kind>
+<name>Phalin</name>
+<date>19961100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73634</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>7448271</doc-number>
+<kind>B2</kind>
+<name>Duncan et al.</name>
+<date>20081100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73634</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>2002/0128790</doc-number>
+<kind>A1</kind>
+<name>Woodmansee</name>
+<date>20020900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>2005/0126291</doc-number>
+<kind>A1</kind>
+<name>Czerw et al.</name>
+<date>20050600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73589</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>2005/0166413</doc-number>
+<kind>A1</kind>
+<name>Crampton</name>
+<date>20050800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>2005/0276466</doc-number>
+<kind>A1</kind>
+<name>Vaccaro et al.</name>
+<date>20051200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>2009/0165317</doc-number>
+<kind>A1</kind>
+<name>Little</name>
+<date>20090700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 33503</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>EP</country>
+<doc-number>1 526 356</doc-number>
+<kind>A2</kind>
+<date>20050400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>JP</country>
+<doc-number>A-60-86462</doc-number>
+<date>19850500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>JP</country>
+<doc-number>A-63-75511</doc-number>
+<date>19880400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>WO</country>
+<doc-number>WO 94/14108</doc-number>
+<date>19940600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>WO</country>
+<doc-number>WO 2004/033991</doc-number>
+<kind>A1</kind>
+<date>20040400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>15</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 73634</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 73633</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 73629</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 73627</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 73621</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 73620</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 73619</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 73618</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>1</number-of-drawing-sheets>
+<number-of-figures>2</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090178482</doc-number>
+<kind>A1</kind>
+<date>20090716</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Hough</last-name>
+<first-name>Gerald William</first-name>
+<address>
+<city>Derby</city>
+<country>GB</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>GB</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Orchard</last-name>
+<first-name>Nicholas Barrington</first-name>
+<address>
+<city>Bristol</city>
+<country>GB</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>GB</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Whiteside</last-name>
+<first-name>Dean Samuel Robert</first-name>
+<address>
+<city>Ravenstone</city>
+<country>GB</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>GB</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Oliff &#x26; Berridge, PLC</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Rolls-Royce PLC</orgname>
+<role>03</role>
+<address>
+<city>London</city>
+<country>GB</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Williams</last-name>
+<first-name>Hezron</first-name>
+<department>2856</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Miller</last-name>
+<first-name>Rose M</first-name>
+</assistant-examiner>
+</examiners>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/GB2006/002927</doc-number>
+<kind>00</kind>
+<date>20060808</date>
+</document-id>
+<us-371c124-date>
+<date>20080207</date>
+</us-371c124-date>
+</pct-or-regional-filing-data>
+<pct-or-regional-publishing-data>
+<document-id>
+<country>WO</country>
+<doc-number>WO2007/028441</doc-number>
+<kind>A </kind>
+<date>20070315</date>
+</document-id>
+</pct-or-regional-publishing-data>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">An apparatus for measuring wall thicknesses of objects, includes a coordinate measuring machine that has a probe holder and an object support. The coordinate measuring machine is configured to provide relative movement between the probe holder and the object support in three dimensions. The apparatus also includes an ultrasonic test probe which is held by the probe holder. The coordinate measuring machine brings the transducer of the ultrasonic test probe into contact with a position on a surface of an object at the object support so that the probe can measure an object wall thickness at the probe contact position.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="74.68mm" wi="53.00mm" file="US07891248-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="231.73mm" wi="175.01mm" file="US07891248-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0002" num="0001">The present invention relates to an apparatus for measuring wall thicknesses of objects, and particularly, but not exclusively, to an apparatus in which the measured wall thicknesses can be converted to spatial coordinates on surfaces of objects.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">Manufactured objects often have to conform to dimensional and/or geometrical tolerances. These may be specified by the manufacturer or ultimate user of the object e.g. to ensure that the object behaves correctly in service. Thus it is common to subject objects to post-manufacture inspection procedures.</p>
+<p id="p-0004" num="0003">A known technique for determining the dimensional accuracy of objects involves driving a coordinate measuring probe or stylus over the surface of the object. Such a probe typically comprises a stiff elongate member (formed e.g. of carbon fibre) having a small hard (typically industrial ruby) sphere at the measuring end. An example of a commercially available probe is the Renishaw SP600&#x2122; analogue scanning probe. In one arrangement, the probe is fitted to a Renishaw MIH&#x2122; head providing angular movement about two orthogonal axes in 7.5 increments. The head is then mounted to the quill of a programmable coordinate measuring machine (CMM), which controls the movement of the probe. A typical CMM comprises a quill providing z-direction movement, a carriage assembly which carries the quill and provides x- and y-direction movement, and a measuring table, as shown for example in U.S. Pat. No. 5,189,805. The CMM typically also comprises a programmable computer to control the probe movements. CMMs are commercially available from a number of suppliers.</p>
+<p id="p-0005" num="0004">Sensing means associated with the probe detects when and where the sphere contacts a surface and the CMM translates that information into a spatial coordinate for the surface contact point with the sphere. Thus by making contact with the object at spaced apart points along a programmed guide path, the probe can provide discrete measurements of the relative positions of these points. In this way, shape characteristics (such as profiles or outlines) of the actual object can be built up, and these characteristics can then be compared for conformity with e.g. predetermined tolerance limits.</p>
+<p id="p-0006" num="0005">Conventionally, the operator programs a guide path by a teach-and-learn technique in which he drives the probe under manual control to specific points along the desired guide path, and saves the positions of those points in the memory of the CMM. When performing a measurement run, the CMM subsequently drives the probe from point-to-point in an order determined by the operator, taking measurements along the way. In defining the guide path, the operator will also specify approach directions and probe angles to ensure that the probe or quill does not collide with the object. As and when necessary, the operator may also program the quill to change the probe (usually at a probe change station remote from the object) so that e.g. a probe with a longer elongate member is used to reach otherwise-inaccessible parts of the object.</p>
+<p id="p-0007" num="0006">Gas turbine engine components, and particularly critical components such as blades, vanes and discs, are commonly inspected using such techniques.</p>
+<p id="p-0008" num="0007">A problem can arise, however, when the object under inspection has internal surfaces (which are inaccessible to the probe. For example, it is common for gas turbine blades and vanes to be formed as hollow components, with internal cavities which reduce the weight of the component and/or provide cooling channels. In particular, a known technique for producing hollow titanium alloy fan blades involves superplastic forming of the blade to expand internal blade cavities, followed by acid dipping of the blade to taper etch the external surface and provide the desired aerofoil shape. The external surface may then be linished to give the desired surface finish. However, as a result of these procedures, variability can be introduced into the thickness of the blade walls which define the cavities, i.e. there can be a degree of uncertainty in the positions of the internal surfaces of the cavities.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0009" num="0008">Thus an object of the present invention is to provide an apparatus which enables the measurement of wall thicknesses and preferably the spatial coordinates of positions on internal surfaces of an object.</p>
+<p id="p-0010" num="0009">The present invention is at least partly based on the realisation that an ultrasonic test probe can be mounted to a CMM to provide wall thickness measurements at predetermined probe contact positions on an object. If the spatial coordinates of these contact positions are known, each wall thickness measurement can be converted into spatial coordinates for the opposing position on the other side of the wall to the probe contact position.</p>
+<p id="p-0011" num="0010">Thus, in a first aspect, the present invention provides an apparatus for measuring wall thicknesses of objects, the apparatus comprising:</p>
+<p id="p-0012" num="0011">a coordinate measuring machine comprising a probe holder and an object support, the coordinate measuring machine being configured to provide relative movement between the probe holder and the object support in three dimensions; and</p>
+<p id="p-0013" num="0012">an ultrasonic test probe which is held by the probe holder;</p>
+<p id="p-0014" num="0013">whereby, in use, the coordinate measuring machine brings the transducer of the ultrasonic test probe into contact with a position on a surface of an object at the object support so that the probe can measure an object wall thickness at the probe contact position.</p>
+<p id="p-0015" num="0014">Preferably, the apparatus further comprises an angle adjustment mechanism that adjusts the angle of the ultrasonic test probe when it is brought into contact with said surface so that the measured wall thickness is along a line perpendicular to said surface.</p>
+<p id="p-0016" num="0015">For example, the angle adjustment mechanism may comprise gymbals. The gymbals can connect the probe to the probe holder. In this way, when the probe is offered to the object surface, the gymbals can correct any misalignment between the probe and the surface. However, preferably the probe holder is adapted to provide angular movement of the probe about two or more axes so that the coordinate measuring machine can at least approximately align the probe before it is offered to the object surface.</p>
+<p id="p-0017" num="0016">An object may be located at the object support, the object having walls which on one side are contactable by the ultrasonic test probe and on the other side are not contactable by the probe. For example, the object may be a vane or blade of a gas turbine engine.</p>
+<p id="p-0018" num="0017">Preferably, the coordinate measuring machine further comprises a computer system which (i) controls the probe movements, (ii) commands thickness measurements by the probe, and/or (iii) stores thickness measurements made by the probe. Alternatively or additionally, the computer system can relate each measured wall thickness to one or more reference positions for the object and thereby converts the measured wall thickness into spatial coordinates for the opposing position on the other side of the wall to the probe contact position. For example, the computer system may store the spatial coordinates of each probe contact position, whereby the reference position for each measured wall thickness is the corresponding probe contact position.</p>
+<p id="p-0019" num="0018">Preferably, when the measured object is a component of a gas turbine engine, the computer system defines the spatial coordinates relative to one or more axes and/or directions of the gas turbine engine. For example, the fundamental axes of the coordinates system may include the gas turbine engine centre axis. Typically, when the component is a vane or blade, the axes include the engine centre axis and a radial engine direction along the length of the vane or blade.</p>
+<p id="p-0020" num="0019">Typically, the coordinate measuring machine is also used to measure the spatial coordinates of the probe contact positions. Thus, the apparatus may further comprise at least one coordinate measuring stylus which is interchangeable with the ultrasonic test probe, such that the coordinate measuring stylus can be held by the probe holder when the ultrasonic test probe is not in use. The coordinate measuring stylus is then movable by the coordinate measuring machine into contact with the object at the probe contact positions.</p>
+<p id="p-0021" num="0020">Desirably, the apparatus further comprises a system for delivering couplant to the face of the probe transducer before it is brought into contact with the object. This avoids a human operator having to intervene before each thickness measurement to apply the couplant.</p>
+<p id="p-0022" num="0021">Preferably, the couplant is carried in a reservoir which is mounted to the ultrasonic test probe. More preferably, the apparatus further comprises:</p>
+<p id="p-0023" num="0022">a probe change station where the ultrasonic test probe can be docked when not in use by the coordinate measuring machine; and</p>
+<p id="p-0024" num="0023">a larger couplant reservoir which replenishes the reservoir mounted to the ultrasonic test probe when it is docked in the probe change station.</p>
+<p id="p-0025" num="0024">In further aspects, the present invention provides the use of the apparatus of the first aspect for measuring wall thicknesses of objects, and the use of the apparatus of the first aspect for measuring the spatial coordinates of positions on object surfaces which are not directly contactable by the ultrasonic test probe (or indeed conventional tactile CMM probes).</p>
+<p id="p-0026" num="0025">Another aspect of the present invention provides a method for determining spatial coordinates on inaccessible surfaces of objects, the method comprising the steps of:</p>
+<p id="p-0027" num="0026">(a) providing an object having walls which on one side are directly contactable by an ultrasonic test probe and on the other side are not directly contactable by such a probe;</p>
+<p id="p-0028" num="0027">(b) measuring the spatial coordinates of a plurality of probe contact positions on contactable surfaces of the object;</p>
+<p id="p-0029" num="0028">(c) moving an ultrasonic test probe into contact with the object at each probe contact position to measure a wall thickness of the object at that position; and</p>
+<p id="p-0030" num="0029">(d) relating each measured wall thickness to the measured spatial coordinates of the corresponding probe contact position to convert the measured wall thickness into spatial coordinates for the opposing position on the non-contactable side of the wall.</p>
+<p id="p-0031" num="0030">Step (c) may include adjusting the angle of the ultrasonic test probe when it is brought into contact with the object so that the measured wall thickness is along a line perpendicular to the contacted surface.</p>
+<p id="p-0032" num="0031">Any one or more of the optional features of the first aspect of the invention may be applied to this aspect of the invention.</p>
+<p id="p-0033" num="0032">For example, the object may be a vane or blade of a gas turbine engine. The spatial coordinates may be defined relative to one or more axes and/or directions of the gas turbine engine. The axes may be the engine centre axis and a radial engine direction along the length of the vane or blade.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF TH DRAWINGS</heading>
+<p id="p-0034" num="0033">Embodiments of the invention will now be described by way of example with reference to the accompanying drawings in which:</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. 1</figref> shows schematically an apparatus according to the present invention; and</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. 2</figref> shows in more detail the ultrasonic test probe of the apparatus of <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. 1</figref> shows schematically an apparatus according to the present invention. The apparatus comprises a conventional CMM which includes a table <b>10</b> on which an object O to be measured is supported. In the drawing of <figref idref="DRAWINGS">FIG. 1</figref>, the object is a hollow titanium alloy fan blade held in a jig J.</p>
+<p id="p-0038" num="0037">The CMM has a Y-slider device <b>20</b> which is movable in the &#x201c;Y&#x201d; direction of the table. The Y-slider device has columns <b>21</b>, <b>22</b> at opposing sides of the table which support a beam <b>23</b> traversing the table. On the beam, an X-slider device <b>30</b> is mounted which is movable in the &#x201c;X&#x201d; direction of the table. The X-slider device in turn contains a quill <b>40</b> which is movable in the &#x201c;Z&#x201d; direction of the table. The lower end of the quill has a head <b>41</b> which can detachably hold a measuring probe and provides angular movement of the probe about two orthogonal axes. The measuring probe can be either an ultrasonic test probe <b>50</b>, or a coordinate measuring stylus <b>60</b>. As shown in <figref idref="DRAWINGS">FIG. 1</figref>, the ultrasonic test probe is held by the quill, the coordinate measuring stylus being docked in a probe change station <b>70</b> of the CMM. However, the quill is drivable to the probe change station to allow the interchange of the probe and the stylus. Thus the CMM can move either the probe or the stylus relative to the fan blade in three dimensions.</p>
+<p id="p-0039" num="0038">The CMM further includes a programmable computer system <b>80</b> which controls the movement of the slider devices and quill, and thence the movement of the probe or stylus. Measurement signals from the probe or stylus pass via head <b>41</b> and quill <b>40</b> to the computer system, where they are stored in memory until needed. Likewise, command signals pass to the probe or stylus from the computer system, to command e.g. the performance of measurements and the ejection of couplant onto the transducer of the ultrasonic test probe.</p>
+<p id="p-0040" num="0039">The titanium alloy fan blade O has walls which define internal cavities. Thus, one side of the walls is formed by the external surface of the blade, and the other side of the walls is formed by internal surfaces which are inaccessible to the probe and the stylus. The processing operation by which the blade is produced is such that there is a degree of uncertainty in the locations of the internal surfaces relative to the external geometry of the blade.</p>
+<p id="p-0041" num="0040">In order to measure spatial coordinates on those internal surfaces, the ultrasonic test probe takes thickness measurements across the walls of the blade. These measurements are related to contact positions on the external surface of the blade. If the spatial coordinates of those contact positions are known, the thickness measurements can be converted into spatial coordinates for opposing positions on the internal surfaces.</p>
+<p id="p-0042" num="0041">Thus a first step is to determine the spatial coordinates of the external contact positions. This can be accomplished by defining a set of coordinate axes for the blade. Conveniently, these axes are the engine centre axis, a radial engine direction along the length of the blade, and a third axis orthogonal to the previous two axes.</p>
+<p id="p-0043" num="0042">Reference markers are provided on the jig. In use, the blade would be mounted in the engine in a predetermined relationship to the engine centre line axis and with its stacking axis aligned with an engine radial direction. The blade is held by the jig such that the reference markers have a known spatial relationship to the defined coordinate axes. Thus the spatial coordinates of the probe and stylus in a coordinate system of the engine can be calibrated with reference to the jig reference markers. That is, at any instant the spatial coordinates of the probe or stylus are known in the coordinates system of the CMM, but by knowing the spatial coordinates of the reference markers in the CMM coordinates system, a simple coordinate transformation allows the CMM spatial coordinates of the probe or stylus to be converted to the engine coordinates system.</p>
+<p id="p-0044" num="0043">With the jig and blade on table <b>10</b>, and the reference marker positions properly calibrated, the next step is to run coordinate measuring stylus <b>60</b> to contact positions on the external surface of the blade in order to measure the spatial coordinates of those positions. This can be accomplished using techniques and procedures known in the art.</p>
+<p id="p-0045" num="0044">The stylus is then returned to probe change station <b>70</b> and ultrasonic test probe <b>50</b> is picked up by head <b>41</b>. The probe is driven by the CMM to the contact positions previously visited by the stylus and at each a wall thickness measurement is made.</p>
+<p id="p-0046" num="0045">When the wall thickness measurements are completed, they are converted by the computer system into spatial coordinates for the opposing positions on the internal surfaces of the blade.</p>
+<p id="p-0047" num="0046"><figref idref="DRAWINGS">FIG. 2</figref> shows probe <b>50</b> in more detail. Probe <b>50</b> attaches to head <b>41</b> at connector <b>54</b>. The probe has a delay line transducer <b>51</b> which emits and receives ultrasonic signals when coupled to the surface of object O. In order to properly couple the transducer to the object surface and to maximise the return signal, the axis of the probe should be perpendicular to the surface. However, although head <b>41</b> provides angular movement of the probe about orthogonal axes A and B, the movement proceeds in 7.5&#xb0; increments. Thus, while the CMM can be programmed to offer the probe to the blade at an angle that is approximately perpendicular to the surface of the blade, in the majority of cases the probe measurement direction will not be precisely aligned.</p>
+<p id="p-0048" num="0047">To overcome this problem, the probe has gymbal mechanisms <b>52</b> which automatically adjust the angle of the probe when it contacts the object to so that its axis is perpendicular to the contacted surface. In <figref idref="DRAWINGS">FIG. 2</figref> one of the gymbal mechanisms is indicated. The other is largely hidden by the body of the probe in <figref idref="DRAWINGS">FIG. 2</figref>, although its eight mounts <b>57</b> are just visible. The adjustment effected by the gymbal mechanisms introduces a small degree of uncertainty into the actual contact position of the transducer with the object surface, but for most objects this does not lead to any significant loss in measurement accuracy because the external and internal surface curvatures are small enough such that the thickness measured post-adjustment is essentially the same as the thickness that would have been measured at the nominal contact position. Of course, if necessary the gymbal mechanisms can be adapted to send a signal to the computer system indicating the amount of adjustment and thereby allowing the spatial coordinates of the actual probe contact position to be calculated.</p>
+<p id="p-0049" num="0048">When the CMM has positioned the probe at a contact position, and the gymbal mechanisms have taken out any probe misalignment, the CMM commands the probe to take a thickness measurement. A return signal from the probe to the CMM provides the thickness measurement and an indication of measurement quality. If the measurement quality is insufficient, the CMM can command the probe to take repeat measurements.</p>
+<p id="p-0050" num="0049">Although couplant can be placed on the face of the transducer by the CMM operator before each thickness measurement, for fully automated operation of the probe, application of the couplant can be under the control of the computer system.</p>
+<p id="p-0051" num="0050">The probe shown in <figref idref="DRAWINGS">FIG. 2</figref> has a couplant reservoir <b>53</b> which is carried by the probe. A stepper motor (hidden by the body of the probe in <figref idref="DRAWINGS">FIG. 2</figref>) controlled by the computer system draws couplant from the reservoir and ejects it onto the transducer via hose <b>56</b> before the probe is offered to the object surface.</p>
+<p id="p-0052" num="0051">A further and larger couplant reservoir (not shown) is maintained at the probe change station. When the probe is docked at the station reservoir <b>53</b>, finger <b>55</b> activates a switch (not shown) to automatically refill reservoir <b>53</b> from the larger reservoir. Typically, the coordinate measuring stylus and the ultrasonic test probe are used in alternation, so reservoir <b>53</b> can be refilled when the stylus is in use.</p>
+<p id="p-0053" num="0052">Although the apparatus has been described above in relation to measurements of the spatial coordinates of positions on inaccessible surfaces, it will be apparent that the apparatus can also be use simply to measure wall thicknesses, and that these need not be converted into spatial coordinates.</p>
+<p id="p-0054" num="0053">While the invention has been described in conjunction with the exemplary embodiment described above, many equivalent modifications and variations will be apparent to those skilled in the art when given this disclosure. Accordingly, the exemplary embodiment of the invention set forth above is considered to be illustrative and not limiting. Various changes to the described embodiment may be made without departing from the spirit and scope of the invention.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. An apparatus for measuring wall thicknesses of objects, the apparatus comprising:
+<claim-text>a coordinate measuring machine comprising a probe holder and an object support, the coordinate measuring machine being configured to provide relative movement between the probe holder and the object support in three dimensions; and</claim-text>
+<claim-text>an ultrasonic test probe which is held by the probe holder;</claim-text>
+<claim-text>whereby, in use, the coordinate measuring machine brings the transducer of the ultrasonic test probe into contact with a position on a surface of an object at the object support so that the probe can measure an object wall thickness at the probe contact position wherein an angle adjustment mechanism that adjusts the angle of the ultrasonic test probe when it is brought into contact with said surface so that the measured wall thickness is along a line perpendicular to said surface,</claim-text>
+<claim-text>wherein a system is provided for delivering couplant to the face of the ultrasonic test probe before the test probe is brought into contact with the object, and</claim-text>
+<claim-text>wherein the couplant is carried in a reservoir which is mounted to the ultrasonic test probe.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the angle adjustment mechanism comprises gymbals.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the object has walls which on one side are contactable by the ultrasonic test probe and on the other side are not contactable by the probe.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The apparatus according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the object is a vane or blade of a gas turbine engine.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the coordinate measuring machine further comprises a computer system which relates each measured wall thickness to one or more reference positions for the object and thereby converts the measured wall thickness into spatial coordinates for the opposing position on the other side of the wall to the probe contact position.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The apparatus according to <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein the computer system stores the spatial coordinates of each probe contact position, the reference position for each measured wall thickness being the corresponding probe contact position.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The apparatus according to <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein the computer system defines the spatial coordinates relative to one or more axes of the gas turbine engine.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The apparatus according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the axes include the engine centre axis and/or a radial engine direction along the length of the vane or blade.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein at least one coordinate measuring stylus is interchangeable with the ultrasonic test probe such that the coordinate measuring stylus can be held by the probe holder when the ultrasonic test probe is not in use;
+<claim-text>whereby the coordinate measuring stylus is movable by the coordinate measuring machine into contact with the object at the probe contact positions so that the probe can measure the spatial coordinates of the probe contact positions.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+<claim-text>a probe change station where the ultrasonic test probe can be docked when not in use by the coordinate measuring machine; and</claim-text>
+<claim-text>a larger couplant reservoir which replenishes the reservoir mounted to the ultrasonic test probe when it is docked in the probe change station.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. A method for determining spatial coordinates on inaccessible surfaces of objects, the method comprising the steps of:
+<claim-text>(a) providing an object having walls which on one side are directly contactable by an ultrasonic test probe and on the other side are not directly contactable by such a probe;</claim-text>
+<claim-text>(b) measuring the spatial coordinates of a plurality of probe contact positions on contactable surfaces of the object;</claim-text>
+<claim-text>(c) moving an ultrasonic test probe into contact with the object at each probe contact position to measure a wall thickness of the object at that position;</claim-text>
+<claim-text>(d) relating each measured wall thickness to the measured spatial coordinates of the corresponding probe contact position to convert the measured wall thickness into spatial coordinates for the opposing position on the noncontactable side of the wall; and</claim-text>
+<claim-text>(e) delivering couplant to the face of the ultrasonic test probe before the test probe is brought into contact with the object, and the couplant is carried in a reservoir which is mounted to the ultrasonic test probe.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The method according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein step (c) includes adjusting the angle of the ultrasonic test probe when it is brought into contact with the object so that the measured wall thickness is along a line perpendicular to the contacted surface.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The method according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the object is a vane or blade of a gas turbine engine.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The method according to <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein in step (b), the spatial coordinates are defined relative to one or more axes of the gas turbine engine.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The method according to <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein the axes are the stacking axis of the vane or blade, and/or the engine centre axis. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

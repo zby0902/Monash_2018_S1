@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891203-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891203</doc-number>
+<kind>B1</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12637406</doc-number>
+<date>20091214</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>25</class>
+<subclass>B</subclass>
+<main-group>1</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 62115</main-classification>
+<further-classification> 62244</further-classification>
+</classification-national>
+<invention-title id="d2e43">Method and system for cooling items using vehicle HVAC system</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>2902838</doc-number>
+<kind>A</kind>
+<name>Nichols</name>
+<date>19590900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 62244</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>4892138</doc-number>
+<kind>A</kind>
+<name>Bibik, Jr.</name>
+<date>19900100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>5165646</doc-number>
+<kind>A</kind>
+<name>Gewecke</name>
+<date>19921100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>2483112</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>5181555</doc-number>
+<kind>A</kind>
+<name>Chruniak</name>
+<date>19930100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>165 41</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>5203833</doc-number>
+<kind>A</kind>
+<name>Howell</name>
+<date>19930400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>165 41</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>5701754</doc-number>
+<kind>A</kind>
+<name>Choi et al.</name>
+<date>19971200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 62244</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>6206442</doc-number>
+<kind>B1</kind>
+<name>Breunig</name>
+<date>20010300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>296 3712</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>6412287</doc-number>
+<kind>B1</kind>
+<name>Hughes et al.</name>
+<date>20020700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>6422300</doc-number>
+<kind>B1</kind>
+<name>Wylin</name>
+<date>20020700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>7073338</doc-number>
+<kind>B2</kind>
+<name>Harwood et al.</name>
+<date>20060700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>7082773</doc-number>
+<kind>B2</kind>
+<name>Cauchy</name>
+<date>20060800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 62  33</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>7389650</doc-number>
+<kind>B2</kind>
+<name>Kukucka et al.</name>
+<date>20080600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>7726143</doc-number>
+<kind>B2</kind>
+<name>Marginean et al.</name>
+<date>20100600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 62244</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>2005/0257531</doc-number>
+<kind>A1</kind>
+<name>Kadle et al.</name>
+<date>20051100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>2008/0148752</doc-number>
+<kind>A1</kind>
+<name>Marginean et al.</name>
+<date>20080600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>2010/0156131</doc-number>
+<kind>A1</kind>
+<name>D'Alessandro et al.</name>
+<date>20100600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>296 378</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>2010/0244478</doc-number>
+<kind>A1</kind>
+<name>Depue</name>
+<date>20100900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>296 2443</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>20</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 62115</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 62244</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 62239</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 62440</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 62434</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 62243</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 62337</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 624571</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 624577</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 624579</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>454144</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>454145</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>454146</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>454284</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>165 41</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>165 42</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>296 3712</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>296 378</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>2205922</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>22059221</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>4</number-of-drawing-sheets>
+<number-of-figures>5</number-of-figures>
+</figures>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Burns</last-name>
+<first-name>Trevor</first-name>
+<address>
+<city>Milford Center</city>
+<state>OH</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Myers</last-name>
+<first-name>Ronald W.</first-name>
+<address>
+<city>Dublin</city>
+<state>OH</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Rankin Hill &#x26; Clark LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Honda Motor Co., Ltd.</orgname>
+<role>03</role>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Ali</last-name>
+<first-name>Mohammad M</first-name>
+<department>3784</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A vehicle heating, ventilation and air conditioning (&#x201c;HVAC&#x201d;) system includes an HVAC control, a fan, an evaporator downstream from the fan, a cooler box downstream from the evaporator, a condenser in fluid communication with the evaporator and a compressor in fluid communication with the condenser and the evaporator. A method for cooling items using the HVAC system includes detecting a cooler box signal from the HVAC control, in response to detecting the cooler box signal, opening or closing a valve interposed between the evaporator and the cooler box, and in response to detecting the cooler box signal, performing at least one of the following: changing an HVAC mode or adjusting power delivered to the fan. Opening the valve can allow cool air to travel through a passage toward the cooler box. Closing the valve can block cool air from traveling through the passage toward the cooler box.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="223.69mm" wi="155.79mm" file="US07891203-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="279.40mm" wi="190.16mm" file="US07891203-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="279.40mm" wi="205.15mm" orientation="landscape" file="US07891203-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="279.40mm" wi="196.51mm" file="US07891203-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="279.40mm" wi="214.80mm" file="US07891203-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND</heading>
+<p id="p-0002" num="0001">The present disclosure generally relates to cooling items in a vehicle in addition to or separate from cooling the passenger compartment, and more particularly relates to a method and system for cooling items (e.g., food, beverages, etc.) using the vehicle HVAC system.</p>
+<p id="p-0003" num="0002">Vehicles having a built-in cooler for storing food and beverages are known to use a compressor, which is not the same compressor for the HVAC system, or to use the vehicle air conditioning refrigerant loop. Using a vehicle HVAC system to cool items, e.g. beverages, food, etc., within a storage bin located in the vehicle is also known. For example, a storage bin located near a vehicle glove box connects to the vehicle HVAC system so the cooled air is provided into the storage bin via the air conditioning system. It is also known to cool individual beverages using the vehicle HVAC system by placing these beverages in a housing where the housing is connected with a vehicle HVAC system so that cool air from the air conditioning system is blown over the beverage container.</p>
+<p id="p-0004" num="0003">Known systems that employ the vehicle HVAC system to cool a cooled storage bin or to cool an individual beverage are turned on and off by a mechanical shut-off valve (if the system is shut off at all). Also in these known systems, there is no control link between the cooled storage bin being ON or OFF and the vehicle HVAC operation. Accordingly, operation of the cooling storage bin can be to the detriment of the HVAC system, which can adversely affect the comfort of the vehicle cabin.</p>
+<heading id="h-0002" level="1">SUMMARY</heading>
+<p id="p-0005" num="0004">A vehicle heating, ventilation and air conditioning (&#x201c;HVAC&#x201d;) system that can overcome the aforementioned shortcomings includes an HVAC control, a fan, an evaporator downstream from the fan, a cooler box downstream from the evaporator, a condenser in fluid communication with the evaporator and a compressor in fluid communication with the condenser and the evaporator. A method for cooling items using the HVAC system includes detecting a cooler box signal via the HVAC control; in response to detecting the cooler box signal, opening or closing a valve interposed between the evaporator and the cooler box; and, in response to detecting the cooler box signal, performing at least one of the following: changing an HVAC mode or adjusting power delivered to the fan. Opening the valve can allow cool air to travel through a cooler box supply conduit toward the cooler box. Closing the valve can block cool air from traveling through the cooler box supply conduit toward the cooler box.</p>
+<p id="p-0006" num="0005">Another example of a system for cooling items in a vehicle that can overcome the aforementioned shortcomings includes a fan, an evaporator downstream from the fan, a cooler box, a supply conduit downstream from the evaporator for delivering cool air to the cooler box, a valve disposed downstream from the evaporator for controlling air flow through the supply conduit, a compressor in fluid communication with the evaporator, a cooler box signal generator, and a control communicating with the cooler box signal generator, the valve, the fan, and the compressor. The control can be configured to receive a cooler box signal from the cooler box signal generator. The control can be configured to change an HVAC mode or to adjust power delivered to the fan in response to receiving the cooler box signal.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0007" num="0006"><figref idref="DRAWINGS">FIG. 1</figref> is a schematic depiction of a vehicle HVAC system that includes a system for cooling items in a vehicle.</p>
+<p id="p-0008" num="0007"><figref idref="DRAWINGS">FIG. 2</figref> is a perspective view of an interior of a vehicle showing portions of the vehicle HVAC system.</p>
+<p id="p-0009" num="0008"><figref idref="DRAWINGS">FIG. 3</figref> is a flow chart depicting operation of the vehicle HVAC system including a method for cooling items using a vehicle HVAC system.</p>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIG. 4</figref> is another flow chart depicting operation of the vehicle HVAC system.</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. 5</figref> is another flow chart depicting operation of the vehicle HVAC system.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. 1</figref> schematically depicts an HVAC unit <b>10</b> for a vehicle including a housing <b>12</b> having an inlet <b>14</b>, a cabin outlet <b>16</b>, and a cooler box outlet <b>18</b>. Air is drawn into the housing <b>12</b> through the inlet <b>14</b> (only one inlet is shown; however, multiple inlets could be provided) using a fan <b>22</b>. The fan <b>22</b> propels air over or through an evaporator <b>24</b>. Air that is passed through the evaporator <b>24</b> can exit the housing <b>12</b> at the cooler box outlet <b>18</b>, which is downstream from the evaporator. A mixing door <b>26</b> operated by a mixing door actuator <b>28</b> is disposed between the evaporator <b>24</b> and a heater <b>32</b>. The mixing door <b>26</b> can operate between two positions including a first position (dashed lines) that allows air to flow through and over the heater <b>32</b> and a second position (solid lines) that substantially prevents air from traveling over the heater <b>32</b>. In particular, the mixing door <b>26</b> can be moved to the first position, the second position, or any position between the first and second positions. At the cabin outlet <b>16</b>, the housing <b>12</b> connects with a vehicle cabin supply conduit <b>34</b>, which supplies conditioned air (heated or cooled) to the vehicle cabin <b>36</b> (<figref idref="DRAWINGS">FIG. 2</figref>) such as through floor vents, defrost vents, mid-level cabin vents, etc. The cooler box supply conduit <b>38</b> connects to the housing <b>12</b> at the cooler box outlet <b>18</b>. The cooler box outlet <b>18</b> is downstream from the evaporator <b>24</b> and upstream from the heater <b>32</b> and mixing door <b>26</b> such that only cooled air (i.e., air that has not passed through the heater <b>32</b>) is supplied to the cooler box supply conduit <b>38</b>.</p>
+<p id="p-0013" num="0012">The HVAC unit <b>10</b> also includes a compressor <b>42</b>, a condenser <b>44</b>, and an expansion device <b>46</b>. The compressor <b>42</b>, the condenser <b>44</b> and the expansion device <b>46</b> are each in fluid communication with the evaporator <b>24</b> to provide a refrigeration cycle, which is known in the art, for the evaporator. Other than the addition of the cooler box outlet <b>18</b> in the housing <b>12</b> and the addition of the cooler box supply conduit <b>38</b>, the HVAC unit <b>10</b> described above can be conventional. The components that provide power to the fan <b>22</b>, the evaporator <b>24</b>, the mixing door actuator <b>28</b>, the heater <b>32</b>, and the compressor <b>42</b> are not shown, but can be conventional power sources found in vehicles.</p>
+<p id="p-0014" num="0013">The cooler box supply conduit <b>38</b> delivers cool air to a cooler box <b>50</b>. The cooler box <b>50</b> includes a cooler box inlet <b>52</b>, which is connected with the cooler box supply conduit <b>38</b>, and a cooler box outlet <b>54</b>, which is connected to a cooler box return conduit <b>56</b>. The cooler box return conduit <b>56</b> connects with the housing <b>12</b> of the HVAC unit <b>10</b> at the inlet <b>14</b>. In an alternative embodiment, the cooler box outlet <b>54</b> could connect with an outlet conduit that would deliver cool air exiting the cooler box into the vehicle cabin <b>36</b>. With reference to <figref idref="DRAWINGS">FIG. 2</figref>, in one embodiment, the cooler box <b>50</b> can be located near the front of the vehicle cabin <b>36</b>, which allows the operator or the front passenger of the vehicle to access to the cooler box <b>50</b>. The cooler box <b>50</b> can be configured to receive a few beverages, other food items, etc., which can be consumed during a trip. The cooler box <b>50</b> shown in <figref idref="DRAWINGS">FIG. 2</figref> includes a door <b>58</b> that pivots with respect to a housing <b>62</b> to provide access to the interior of the cooler box. The cooler box <b>50</b> can of course take alternative configurations.</p>
+<p id="p-0015" num="0014">With reference back to <figref idref="DRAWINGS">FIG. 1</figref>, an HVAC control <b>64</b> controls the operation of the HVAC unit <b>10</b>, along with other components that are found in the system for cooling items using the vehicle HVAC system. The HVAC control <b>64</b> can communicate with a cooler box signal generator, such as a cooler box switch <b>66</b>, and a valve <b>68</b>, which can control the flow of cool air to the cooler box <b>50</b>. The valve <b>68</b> is depicted in the cooler box supply conduit <b>38</b>; however, the valve <b>68</b> can be located elsewhere in the system between the evaporator <b>24</b> and the cooler box <b>50</b>.</p>
+<p id="p-0016" num="0015">The HVAC control <b>64</b> can also communicate with the fan <b>22</b> and the compressor <b>42</b> found in the HVAC unit <b>10</b>. The HVAC control <b>64</b> is configured to receive a cooler box signal <b>66</b><i>a </i>(cooler box ON or cooler box OFF) from the cooler box signal generator, e.g. the cooler box switch <b>66</b>. The HVAC control <b>64</b> can also be configured to change an HVAC mode or to adjust power delivered to the fan <b>22</b> in response to receiving the cooler box signal <b>66</b><i>a</i>. This will be described in more detail below.</p>
+<p id="p-0017" num="0016">The HVAC control <b>64</b> can also be associated and/or connected with a memory <b>72</b>, which can store, among other data, a state of the cooler box <b>50</b>, which will be described in more detail below. The HVAC control <b>64</b> can also be in communication with an ignition switch <b>74</b> for the vehicle. The HVAC control <b>64</b> can also be in communication with an ambient temperature sensor <b>76</b>, a cabin temperature sensor <b>78</b>, and a cooler box temperature sensor <b>82</b>. The HVAC control <b>64</b> can also be in communication with a timer <b>84</b> and HVAC operator controls <b>86</b>.</p>
+<p id="p-0018" num="0017">With reference to <figref idref="DRAWINGS">FIG. 2</figref>, in one embodiment, the cooler box switch <b>66</b> (<figref idref="DRAWINGS">FIG. 1</figref>) can be operated by a button <b>88</b> located near the cooler box <b>50</b>. An operator of the vehicle desiring to cool items stored in the cooler box <b>50</b> can actuate the button <b>88</b>, which actuates the cooler box switch <b>66</b> delivering the cooler box signal <b>66</b><i>a </i>to the HVAC control <b>64</b>. The HVAC operator controls <b>86</b> can include knobs <b>90</b>, buttons <b>92</b> and a display panel <b>94</b> located on an HVAC control panel <b>96</b>, which allow the operator of the vehicle to adjust the climate settings in the vehicle cabin <b>36</b>. The knobs <b>90</b>, buttons <b>92</b> and display panel <b>94</b> for the HVAC operator controls <b>86</b> can also be similar or the same as conventional HVAC operator controls.</p>
+<p id="p-0019" num="0018">A method for cooling items using the vehicle HVAC system is depicted in a flow chart in <figref idref="DRAWINGS">FIG. 3</figref>. The method can begin at <b>110</b> by detecting a cooler box state. The flow chart in <figref idref="DRAWINGS">FIG. 3</figref> is provided for understanding embodiments of the subject system, however, the invention is not limited to the arrangement of steps as shown in the figure. The steps shown in <figref idref="DRAWINGS">FIG. 3</figref> can be performed in other logical orders. Generally, the system responds to receiving the cooler box signal <b>66</b><i>a </i>(described in more detail below) by opening or closing the valve <b>68</b> interposed between the evaporator <b>24</b> and the cooler box <b>50</b>. The system also responds to detecting the cooler box signal <b>66</b><i>a </i>by performing at least one of the following: adjusting the HVAC mode or adjusting the power delivered to the fan <b>22</b>. The cooling operation for the cooler box <b>50</b> can be controlled by the ON/OFF cooler box switch <b>66</b> and the HVAC control <b>64</b>.</p>
+<p id="p-0020" num="0019">The method depicted in <figref idref="DRAWINGS">FIG. 3</figref> typically begins when the ignition switch <b>74</b> of the vehicle is turned ON; however, this is not required. The memory <b>72</b> associated with the HVAC control <b>64</b> can store the cooler box state, e.g. cooler box ON or cooler box OFF, based on the state of the cooler box <b>50</b> when the ignition switch <b>74</b> is turned OFF, which will be described in more detail below. The HVAC control <b>64</b> can also be programmed to generate a default cooler box state, e.g. a cooler box OFF. The system can then operate, for example as described below, until the system is interrupted by the cooler box signal <b>66</b><i>a</i>, which can be generated by the ON/OFF cooler box switch <b>66</b>. Detecting the cooler box state as ON does not require cool air to be flowing to the cooler box.</p>
+<p id="p-0021" num="0020">With reference back to <figref idref="DRAWINGS">FIG. 3</figref>, when the cooler box state is detected as OFF, at <b>112</b> the HVAC system operates in an operator selected mode. The operator of the vehicle can select the operator selected mode using the HVAC operator controls <b>86</b>, e.g. knobs, buttons, and/or display, located on the HVAC control panel <b>96</b>. Alternatively, the HVAC system can be configured to automatically start in an operator selected mode upon startup of the vehicle. In other words, the operator may not each time after the ignition switch <b>74</b> is turned ON select a mode in which the HVAC system will operate; however, the system can be configured to treat this automatically chosen mode as the operator selected mode. These modes can include, but are not limited to, AUTO and ECON for AC modes, as well as a heat mode and/or a defrost mode. The system can be designed to operate in the operator selected mode until interrupted by the cooler box signal.</p>
+<p id="p-0022" num="0021">When the cooler box state is detected ON, which could be from a request made by the operator (described below) or this state has been stored in the memory <b>72</b> associated with the HVAC control <b>64</b>, at <b>114</b> the HVAC system operates in a cooler box mode. When operating in cooler box mode, the compressor <b>42</b> operates so that cool air can be delivered to the cooler box <b>50</b>. Accordingly, the fan <b>22</b> is energized (if the fan was OFF) and the compressor <b>42</b> is energized (if the compressor was OFF) to deliver cool air to the cooler box <b>50</b>. The system can be designed to return to the operator selected mode when the cooler box mode is no longer desired by the operator or when the system detects the cooler box state as OFF.</p>
+<p id="p-0023" num="0022">Many vehicle HVAC systems are configured to operate in one of an ECON mode and an AUTO mode within the AC mode. The AUTO mode prioritizes the comfortableness of the cabin and can result in the compressor <b>42</b> operating more often to cool the vehicle cabin. The ECON mode is configured to save fuel by operating the compressor <b>42</b> less often as compared to the AUTO mode. The system can be configured to return to the operator selected mode, e.g. AUTO, ECON, heat or defrost, when the cooler box state is OFF. Accordingly, when the system detects that the cooler box state as ON and the system is operating in the cooler box mode, at <b>114</b>, the system detects whether the operator selected mode (as per the HVAC operator controls <b>86</b> on the HVAC control panel <b>96</b>, for example) is at ECON at <b>116</b>. If the operator selected mode is at ECON mode, then ECON mode can turn off at <b>118</b> to allow the compressor <b>42</b> to accommodate for a cooler box compressor demand, which will be described in more detail below.</p>
+<p id="p-0024" num="0023">If not already open, the valve <b>68</b> opens at <b>120</b> and the system operates in the cooler box mode (step <b>114</b>) until interrupted by a cooler box signal. With the valve <b>68</b> open, the fan <b>22</b> and the compressor <b>42</b> operating, cool air can be delivered to the cooler box <b>50</b>. The cooler box signal <b>66</b><i>a </i>can be generated by the cooler box ON/OFF switch <b>66</b>.</p>
+<p id="p-0025" num="0024">The system can be designed to operate in the cooler box mode or the operator selected mode until the HVAC control <b>64</b> receives the cooler box signal <b>66</b><i>a</i>. Receiving the cooler box signal <b>66</b><i>a </i>results in the HVAC control <b>64</b> detecting whether the cooler box signal is a cooler box ON signal or a cooler box OFF signal at <b>132</b>. If the HVAC system is operating in the cooler box mode, e.g. the cooler box state is ON, and the HVAC control detects a cooler box OFF signal, then the HVAC system reverts to the operator selected mode at <b>112</b>, which could be stored in the memory <b>72</b>, and operates in this mode until interrupted again by the system detecting the cooler box signal <b>66</b><i>a </i>(<figref idref="DRAWINGS">FIG. 1</figref>) at <b>132</b>. If the HVAC system is operating in the operator selected mode, e.g. the cooler box state is OFF, and the HVAC control detects a cooler box ON signal at <b>132</b>, then the HVAC system can store the operator selected mode (so that the system can later revert back to this mode when the cooler box is turned off) and operate in the cooler box mode at <b>114</b>. The system can detect whether the operator selected mode was at ECON at <b>116</b>. If the operator selected mode was at ECON, the system can turn off ECON mode at <b>118</b> and open the valve at <b>120</b>.</p>
+<p id="p-0026" num="0025">With reference to <figref idref="DRAWINGS">FIG. 4</figref>, with the system operating in the cooler box mode (step <b>114</b> in <figref idref="DRAWINGS">FIG. 3</figref>), the system can be interrupted by the ignition switch <b>74</b> being turned OFF at <b>150</b>. With the ignition OFF, the engine (not shown), which through a series of components (also not shown) drives the compressor <b>42</b>, is also OFF. Thus the compressor <b>42</b> no longer delivers cooled fluid to the evaporator <b>24</b> so cool air is not delivered to the cooler box <b>50</b>. With the ignition switch <b>74</b> being detected as OFF and the cooler box state being ON, the timer <b>84</b> starts at <b>152</b> and counts toward a predetermined value at <b>154</b>. At <b>156</b> the system detects whether the timer <b>84</b> has reached the predetermined value.</p>
+<p id="p-0027" num="0026">If the timer <b>84</b> has reached the predetermined value, e.g. the vehicle has been off for a few minutes or so, then at <b>158</b> the cooler box state is stored in the memory <b>72</b> as being OFF. With reference back to <figref idref="DRAWINGS">FIG. 3</figref>, this results in the system automatically starting off in the cooler box OFF state, which results in the HVAC system operating in the operator selected mode at <b>112</b>.</p>
+<p id="p-0028" num="0027">With reference back to <figref idref="DRAWINGS">FIG. 4</figref>, if the timer <b>84</b> has not reached the predetermined value at <b>156</b>, then at <b>160</b> the system detects for the ignition switch <b>74</b> being ON. If the ignition switch <b>74</b> is detected ON before the timer <b>84</b> reaches the predetermined value, then the cooler box state ON is stored in the memory <b>72</b> at <b>162</b>. This allows the system to automatically start up in cooler box state ON if the engine is restarted within a certain amount of time after having been shut down. If the ignition switch <b>74</b> is not detected as being ON before the timer <b>84</b> reaches the predetermined value, then the system reverts back to <b>154</b> and continues to count toward the predetermined value.</p>
+<p id="p-0029" num="0028">An example of the operation of the HVAC system is described with reference to <figref idref="DRAWINGS">FIG. 5</figref>. The flow chart in <figref idref="DRAWINGS">FIG. 5</figref> is provided for understanding embodiments of the subject system, however, the invention is not limited to the arrangement of steps as shown in the figure. For example, the steps shown in <figref idref="DRAWINGS">FIG. 5</figref> can be performed in other logical orders.</p>
+<p id="p-0030" num="0029">When operating in either the cooler box mode or the operator selected mode (e.g. ECON, AUTO, heat or defrost), the system, at <b>162</b>, can determine the total compressor demand for the system. The total compressor demand is based on a cabin compressor demand and a cooler box compressor demand. The cabin compressor demand is equal to the demand on the compressor <b>42</b> to cool the vehicle cabin. For example, where the AC mode is ON (either in AUTO or ECON), i.e. the operator of the vehicle has turned on the AC to cool the vehicle cabin, the compressor <b>42</b> operates to deliver cooling fluid to the evaporator <b>24</b>. The compressor demand can be related to the power drawn by the compressor <b>42</b> and/or the compressor operating cycle, e.g. how often the compressor <b>42</b> comes on. The cabin compressor demand can be based on ambient air temperature, which is measured by the ambient air temperature sensor <b>76</b>, cabin air temperature, which is measured by the cabin air temperature sensor <b>78</b>, and a cabin temperature set point, which is set using the HVAC controls found on the climate control panel. Where the AC mode is OFF, i.e. the operator of the vehicle does not wish to cool the vehicle cabin <b>36</b> or a windshield defrost function is not operating, the compressor <b>42</b> is not operating. This would result in the cabin compressor demand to equal zero.</p>
+<p id="p-0031" num="0030">The cooler box compressor demand, on the other hand, is equal to the demand on the compressor <b>42</b> necessary to cool the cooler box <b>50</b>. The cooler box compressor demand can be based on cooler box air temperature and a cooler box temperature set point. The cooler box air temperature is measured using the cooler box air temperature sensor <b>82</b>. The cooler box temperature set point can be set using a cooler box control (which could be located on the HVAC control panel <b>96</b>) operated by the operator of the vehicle. Alternatively, the cooler box temperature set point can be preset in the HVAC control <b>64</b>, e.g. the cooler box set point can be 34&#xb0; F. (or another value) and the vehicle operator is unable to change this set point. Additionally, the cooler box compressor demand can be preset in the HVAC control <b>64</b>. Where the cooler box compressor demand is preset, the HVAC control <b>64</b> automatically determines the desired compressor cycle and/or power draw that is to be run when the cooler box state is ON. Since the cooler box compressor demand is equal to the compressor demand necessary to cool the cooler box <b>50</b>, when the system detects the cooler box state to be OFF, e.g. at <b>110</b> in <figref idref="DRAWINGS">FIG. 3</figref>, the cooler box compressor demand equals zero.</p>
+<p id="p-0032" num="0031">After determining the total compressor demand at <b>162</b>, e.g. by adding the cabin compressor demand and the cooler box compressor demand, the system determines whether the total compressor demand exceeds a maximum capacity for the compressor <b>42</b> at <b>164</b>. The compressor <b>42</b> is designed and/or manufactured to operate at a maximum capacity, e.g. a maximum power draw and/or a maximum cycle. Where the total compressor demand exceeds or is equal to the maximum compressor capacity, at <b>168</b>, the compressor <b>42</b> operates, e.g. cycles and/or draws power, at the maximum compressor capacity. Where the total compressor demand is less than the maximum compressor capacity, at <b>170</b>, the compressor <b>42</b> operates at the total compressor demand.</p>
+<p id="p-0033" num="0032">In addition to determining the total compressor demand and operating the compressor at the maximum compressor capacity or the total compressor demand, the system can also adjust the power delivered to the fan <b>22</b> in response to the detected state of the cooler box. At step <b>172</b>, the HVAC control <b>64</b> determines a total fan power demand, which is based on a cabin fan demand and a cooler box fan demand.</p>
+<p id="p-0034" num="0033">The cabin fan demand is equal to the fan power, e.g. voltage, used to cool or to heat the vehicle cabin <b>36</b> using the vehicle HVAC system. For example, where the AC mode is ON, the fan <b>22</b> operates to blow air over the evaporator into the vehicle cabin. The cabin fan demand can be based on ambient air temperature, cabin air temperature, and a cabin temperature set point. The cabin fan demand can also be directly controlled by the operator of the vehicle using the HVAC settings on the HVAC control panel <b>96</b>. Where the HVAC system is OFF, e.g. the operator of the vehicle does not wish to cool or to heat the vehicle cabin <b>36</b> or a windshield defrost function is not operating, the fan <b>22</b> is not operating. This would result in the cabin fan demand to equal zero.</p>
+<p id="p-0035" num="0034">The cooler box fan demand, on the other hand, is equal to the fan power necessary to deliver cool air to the cooler box <b>50</b>. The cooler box fan demand can be based on cooler box air temperature and/or a cooler box temperature set point. The cooler box fan demand can also be preset in the HVAC control. Where the cooler box fan demand is preset, the HVAC control <b>64</b> automatically determines the desired fan power when the cooler box state is detected as ON. Where the cooler box state is detected as OFF, then the fan <b>22</b> need not blow cool air into the cooler box <b>50</b>, and therefore, the cooler box fan demand can be set at zero.</p>
+<p id="p-0036" num="0035">After determining the total fan demand at <b>172</b>, e.g. by adding the cabin fan demand and the cooler box fan demand, the system can determine whether the total fan demand exceeds a maximum fan power at <b>174</b>. The fan <b>22</b> is designed and/or manufactured to operate at a maximum power, e.g. voltage. Where the total fan demand exceeds or is equal to the maximum fan power, the fan operating power, e.g. the voltage at which the fan <b>22</b> operates to blow air into the cabin <b>36</b> and/or the cooler box <b>50</b>, is set to the maximum fan power at <b>176</b>. Where the total fan demand is less than the maximum fan power, the fan operating power is set to equal the total fan demand at <b>178</b>.</p>
+<p id="p-0037" num="0036">After having set the fan power and the compressor operation, the system can continue to re-cycle through these decisions, as shown in <figref idref="DRAWINGS">FIG. 5</figref>. Accordingly, if the operator of the vehicle actuates the cooler box switch <b>66</b>, the HVAC system can accommodate for the change in the demand on the compressor <b>42</b> and the fan <b>22</b> by moving through the logic in <figref idref="DRAWINGS">FIG. 5</figref>. For example, where the detected cooler box state is ON and where the received cooler box signal is a cooler box OFF signal, the system can return to an operator selected mode. This can result in the total compressor demand decreasing and the total fan demand decreasing. Another example is where the detected cooler box state is OFF and where the received cooler box signal is a cooler box ON signal. This can result in an increase in the total compressor demand and an increase in the total fan demand. An increase in the total fan demand can result in an increase in the power delivered to the fan.</p>
+<p id="p-0038" num="0037">A system and a method for cooling items using a vehicle HVAC system have been described with reference to preferred embodiments. Modifications and alterations will occur to those upon reading and understanding the preceding detailed description. The invention, however, is not limited to only the embodiments illustrated above. Instead, the invention is broadly defined by the appended claims and the equivalents thereof.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A method for cooling items using a vehicle heating, ventilation and air conditioning (&#x201c;HVAC&#x201d;) system including an HVAC control, a fan, an evaporator downstream from the fan, a cooler box downstream from the evaporator, a condenser in fluid communication with the evaporator and a compressor in fluid communication with the condenser and the evaporator, the method comprising:
+<claim-text>detecting a cooler box signal from the HVAC control;</claim-text>
+<claim-text>in response to detecting the cooler box signal, opening or closing a valve interposed between the evaporator and the cooler box, wherein opening the valve allows cool air to travel through a cooler box supply conduit toward the cooler box, wherein closing the valve blocks cool air from through the cooler box; and</claim-text>
+<claim-text>in response to detecting the cooler box signal, performing at least one of the following: changing an HVAC mode or adjusting power delivered to the fan.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+<claim-text>detecting a cooler box state; and</claim-text>
+<claim-text>where the detected cooler box state is ON and where the detected cooler box signal is a cooler box OFF signal, returning the HVAC system to an operator selected mode.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+<claim-text>detecting a cooler box state; and</claim-text>
+<claim-text>where the detected cooler box state is OFF and where the detected cooler box signal is a cooler box ON signal, increasing the power delivered to the fan.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+<claim-text>detecting an HVAC mode; and</claim-text>
+<claim-text>where the detected HVAC mode is an ECON mode, in response to detecting a cooler box ON signal, deactivating the ECON mode.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+<claim-text>detecting for an ignition switch OFF;</claim-text>
+<claim-text>starting a timer in response to detecting the ignition switch OFF; and</claim-text>
+<claim-text>determining whether the timer has reached a predetermined value.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The method of <claim-ref idref="CLM-00005">claim 5</claim-ref>, further comprising:
+<claim-text>detecting for an ignition switch ON after starting the timer; and</claim-text>
+<claim-text>if the ignition switch is detected not detected ON before the timer has reached the predetermined value, then storing a cooler box state as OFF.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+<claim-text>determining a total compressor demand based on a cabin compressor demand and a cooler box compressor demand.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The method of <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the cabin compressor demand is based on an ambient air temperature, a cabin air temperature and a cabin temperature set point.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The method of <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the cooler box compressor demand is based on a cooler box air temperature and a cooler box temperature set point.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The method of <claim-ref idref="CLM-00007">claim 7</claim-ref>, further comprising:
+<claim-text>determining whether the total compressor demand exceeds a maximum compressor capacity, and</claim-text>
+<claim-text>where the total compressor demand exceeds or is equal to the maximum compressor capacity, operating the compressor at the maximum compressor capacity, and</claim-text>
+<claim-text>where the total compressor demand does not exceed the maximum compressor capacity, operating the compressor at the total compressor demand.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+<claim-text>determining a total fan demand based on a cabin fan demand and a cooler box fan demand.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The method of <claim-ref idref="CLM-00011">claim 11</claim-ref>, further comprising:
+<claim-text>determining whether the total fan demand exceeds a maximum fan power, and</claim-text>
+<claim-text>where the total fan demand exceeds or is equal to the maximum fan power, setting a fan operating power at the maximum fan power, and</claim-text>
+<claim-text>where the total fan demand does not exceed the maximum fan power, setting the fan operating power to equal the total fan demand.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. A system for cooling items in a vehicle, the system comprising:
+<claim-text>a fan;</claim-text>
+<claim-text>an evaporator downstream from the fan;</claim-text>
+<claim-text>a cooler box;</claim-text>
+<claim-text>a supply conduit downstream from the evaporator for delivering cool air to the cooler box;</claim-text>
+<claim-text>a valve disposed downstream from the evaporator for controlling air flow through the supply conduit;</claim-text>
+<claim-text>a compressor in fluid communication with the evaporator;</claim-text>
+<claim-text>a cooler box signal generator;</claim-text>
+<claim-text>a control communicating with the cooler box signal generator, the valve, the fan, and the compressor, wherein the control is configured to receive a cooler box signal from the cooler box signal generator, and wherein the control is configured to change an HVAC mode or to adjust power delivered to the fan in response receiving the cooler box signal.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The system of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the valve is disposed in the supply conduit.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The system of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the cooler box signal generator includes a switch positioned adjacent the cooler box.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The system of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the cooler box is configured to receive a beverage.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The system of <claim-ref idref="CLM-00013">claim 13</claim-ref>, further comprising a timer in communication with the control, wherein the timer is configured to count toward a predetermined value in response to the control detecting that an ignition switch is OFF.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The system of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the control is configured to open or to close the valve in response to receiving the cooler box signal from the cooler box signal generator.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The system of <claim-ref idref="CLM-00013">claim 13</claim-ref>, further comprising a memory associated with the control, the memory being configured to store a cooler box state upon detection of an ignition switch being OFF.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The system of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the control is further configured to detect an ON state or an OFF state for the cooler box.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

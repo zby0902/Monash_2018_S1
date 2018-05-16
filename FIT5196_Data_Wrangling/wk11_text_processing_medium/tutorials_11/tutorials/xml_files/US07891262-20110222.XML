@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891262-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891262</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12176847</doc-number>
+<date>20080721</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2007-256536</doc-number>
+<date>20070928</date>
+</priority-claim>
+<priority-claim sequence="02" kind="national">
+<country>JP</country>
+<doc-number>2007-256537</doc-number>
+<date>20070928</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>277</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>16</class>
+<subclass>H</subclass>
+<main-group>59</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 743375</main-classification>
+</classification-national>
+<invention-title id="d2e90">Transmission for vehicles</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>6619450</doc-number>
+<kind>B2</kind>
+<name>Ota et al.</name>
+<date>20030900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>192  356</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>7617904</doc-number>
+<kind>B1</kind>
+<name>Einboeck et al.</name>
+<date>20091100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>180336</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>2008/0236321</doc-number>
+<kind>A1</kind>
+<name>Hayakawa et al.</name>
+<date>20081000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 744731</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>2010/0050805</doc-number>
+<kind>A1</kind>
+<name>Hayakawa et al.</name>
+<date>20100300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 7447328</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>EP</country>
+<doc-number>1 138 546</doc-number>
+<kind>A2</kind>
+<date>20011000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>JP</country>
+<doc-number>02-212675</doc-number>
+<kind>A</kind>
+<date>19900800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>JP</country>
+<doc-number>2002-067741</doc-number>
+<kind>A</kind>
+<date>20020300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>19</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>None</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>11</number-of-drawing-sheets>
+<number-of-figures>11</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090084208</doc-number>
+<kind>A1</kind>
+<date>20090402</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Hayakawa</last-name>
+<first-name>Koshi</first-name>
+<address>
+<city>Saitama</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Iwashita</last-name>
+<first-name>Kanau</first-name>
+<address>
+<city>Saitama</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Ieda</last-name>
+<first-name>Yoshihisa</first-name>
+<address>
+<city>Saitama</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="004" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Tomoda</last-name>
+<first-name>Akihiko</first-name>
+<address>
+<city>Saitama</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="005" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Sahoda</last-name>
+<first-name>Katsumi</first-name>
+<address>
+<city>Saitama</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Birch, Stewart, Kolasch &#x26; Birch, LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Honda Motor Co., Ltd.</orgname>
+<role>03</role>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Wright</last-name>
+<first-name>Dirk</first-name>
+<department>3655</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A shift position changing drive member for a transmission includes an arm member capable of turning around the axis of a shift spindle for drivingly turning a shift drum in response to the turning of the shift spindle wherein the shift drum is prevented from coming into a neutral position even if the shifting speed is stopped in midstream. A lost motion spring includes gripping portions gripping a pressing portion from both sides of a coil portion surrounding the shift spindle. An arm member of shift position changing drive member is provided with a pressure-receiving member which is gripped by both gripping portions in such a manner that when the turning member is turned, if, in response to the turning direction, the pressing portion abuts against one of the gripping portions for turning, the other of the gripping portions abuts against the pressure-receiving member.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="207.35mm" wi="158.33mm" file="US07891262-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="226.91mm" wi="158.75mm" file="US07891262-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="233.09mm" wi="163.91mm" orientation="landscape" file="US07891262-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="208.62mm" wi="161.80mm" file="US07891262-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="198.54mm" wi="160.61mm" file="US07891262-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="215.22mm" wi="157.14mm" file="US07891262-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="199.05mm" wi="148.08mm" file="US07891262-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="184.32mm" wi="155.96mm" file="US07891262-20110222-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="192.19mm" wi="130.73mm" orientation="landscape" file="US07891262-20110222-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="155.45mm" wi="97.87mm" file="US07891262-20110222-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="201.08mm" wi="157.06mm" file="US07891262-20110222-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="123.36mm" wi="118.87mm" file="US07891262-20110222-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">The present application claims priority under 35 USC 119 to Japanese Patent Application No. 2007-256537 filed on Sep. 28, 2007 and Japanese Patent Application No. 2007-256536 filed on Sep. 28, 2007 the entire contents of which are hereby incorporated by reference.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">1. Field of the Invention</p>
+<p id="p-0004" num="0003">The present invention relates to a transmission for a vehicle that includes a gear shifting mechanism provided with a plurality of selectively establishable gear trains for speed steps between a speed change input shaft and a speed change output shaft. A clutch is adapted to switch between connection and disconnection of power transmission between a power source output shaft and the speed change input shaft with a shift drum turnably carried by an engine case so as to selectively establish the gear trains in response to a turning position. A shift spindle is turnably attached to the engine case so as to turn in response to shifting operation. A shift position changing drive means is provided having an arm member capable of turning around the axis of the shift spindle and being adapted to drivingly turn the shift drum in response to turning of the shift spindle.</p>
+<p id="p-0005" num="0004">In addition, the present invention relates to a transmission for a vehicle that includes a plurality of gear trains for speed steps accommodated in an engine case so as to enable selective engagement. A shift drum is turnably carried by the engine case so as to selectively establish the gear trains in response to a turning position. Shifting position changing drive means are provided for covering one end of the shift drum so as to drivingly turn the shift drum in response to a shift operation. A shifting position sensor detects which one of the gear trains is established.</p>
+<p id="p-0006" num="0005">2. Description of Background Art</p>
+<p id="p-0007" num="0006">As disclosed in Japanese Patent Laid-open No. Hei 2-212675, a transmission for a motorcycle is known that is devised to drivingly turn a shift drum by turning an arm member secured to a shift spindle by turning of the shift spindle.</p>
+<p id="p-0008" num="0007">The transmission as disclosed in Japanese Patent Laid-open No. Hei 2-212675 requires that when a shifting operation is performed to turn a shift spindle, if it is stopped in the power transmission state of a clutch, it is stopped at the neutral position. In addition, when control is exercised to reduce output torque of an engine during the shifting, if the shifting operation is stopped at the neutral position as described above, the above control is continued as a result of a determination in which the shifting operation is not finished. Further, there is a possibility that a shifting operational load may excessively be applied to component parts such as a shift drum and the like.</p>
+<p id="p-0009" num="0008">A transmission for a motorcycle is disclosed in Japanese Patent Laid-open No. 2002-67741 that is devised to directly detect the turning amount of a shift drum by a shifting position sensor in order to detect a shifting position.</p>
+<p id="p-0010" num="0009">The transmission as disclosed in Japanese Patent Laid-open No. 2002-67741 includes a shifting position sensor often disposed inside an engine case. In such a situation, it is desired to enhance the maintenance performance for the shifting position sensor.</p>
+<heading id="h-0003" level="1">SUMMARY AND OBJECTS OF THE INVENTION</heading>
+<p id="p-0011" num="0010">In view of the foregoing the present invention has been made and it is an object of an embodiment of the present invention to provide a transmission for a vehicle that can prevent a shifting operation from being brought into a neutral position even if it is stopped in midstream for preventing a excessively large shifting operational load from being applied to the shift drum side.</p>
+<p id="p-0012" num="0011">To achieve the above object, according to an embodiment of the present invention a transmission for a vehicle includes a gear shifting mechanism in which a plurality of selectively establishable gear trains for respective speed steps are provided between a speed change input shaft and a speed change output shaft. A clutch is adapted to switch between a connection and a disconnection of power transmission between a power source output shaft and the speed change input shaft. A shift drum is turnably carried by an engine case so as to selectively establish the gear trains in response to a turning position. A shift spindle is turnably attached to the engine case so as to turn in response to shifting operation. A shifting position changing drive means is provided having an arm member being capable of turning around an axis of the shift spindle and enabling to drivingly turn the shift drum in response to turning of the shift spindle. A turning member is secured to the shift spindle and projectingly provided with a pressing member. A lost motion spring in which gripping portions gripping the pressing portion from both sides is provided at both sides of a coil portion surrounding the shift spindle. The arm member is provided with a pressure-receiving member which is gripped by both the gripping portions in such a manner that when the turning member is turned, in response to the turning direction, the pressing portion is abutted against one of both the gripping portions for turning, the other of the gripping portions and is abutted against the pressure-receiving member.</p>
+<p id="p-0013" num="0012">According to an embodiment of the present invention, a shift cover is mounted to the engine case so as to define an operational chamber between the engine case and the shift cover, the operational chamber accommodating a portion of the shift spindle, the turning member, the lost motion spring and the shift position changing drive means, and a turning member turning-amount detecting means for detecting a turning amount of the turning member is secured to the shift cover.</p>
+<p id="p-0014" num="0013">According to an embodiment of the present invention, further including drum turning amount detecting means for detecting the turning amount of the shift drum, opening angle calculating means for calculating an opening angle between the arm member and the turning member on the basis of a detection value of the drum turning amount of the shift drum and of a detection value of the turning member turning-amount detection means and operational load calculation means for calculating an operational load inputted to the shift spindle on the basis of a calculated value of the opening angle calculation means.</p>
+<p id="p-0015" num="0014">According to an embodiment of the present invention, further including a clutch actuator adapted to cause the clutch to switch between engagement and disengagement and clutch operation controlling means for controlling operation of the clutch actuator so that the clutch is brought into a power interruption state when the calculated value of the operational load calculating means exceeds a predetermined value.</p>
+<p id="p-0016" num="0015">In addition, the main shaft <b>12</b> of the embodiment corresponds to the speed change input shaft of the invention, the cam shaft <b>13</b> of the embodiment corresponds to the change speed output shaft of the invention, the master arm <b>74</b> of the embodiment corresponds to the arm member of the invention, and the shift position sensor <b>102</b> of the embodiment corresponds to the drum turning amount detecting means of the present invention.</p>
+<p id="p-0017" num="0016">According to an embodiment of the present invention, the pressing portion projectingly provided on the turning member secured to the shift spindle is gripped by the gripping portions at both the ends of the lost motion spring. The arm member of the shift position changing driving means is provided with the pressure-receiving member which is gripped by both the gripping portions in such a manner that when the turning member is turned, if, in response to the turning direction, the pressing portion is abutted against one of both the gripping portions for turning, the other of the gripping portions is abutted against the pressure-receiving member. Thus, when the shift spindle is turned, the turning force of the turning member turning with the shift spindle is transmitted to the arm member of the shift position changing drive means via the lost motion spring. The turning member is precedently turned while leaving the arm member during the shifting operation with the clutch being in the power transmission state. If the shifting operation is stopped in midstream, the turning member and the shift spindle are returned to the original position by the spring force of the lost motion spring, thereby being prevented from coming into the neutral position. Even if a shifting operation load applied to the shift spindle is excessively large, it can partially be absorbed by the lost motion spring.</p>
+<p id="p-0018" num="0017">According to an embodiment of the present invention, the turning member turning-amount detection means for detecting the turning amount of the turning member is secured to the shift cover attached to the engine case to define the operational chamber between the engine case and the shift cover. The operational chamber accommodates a portion of the shift spindle, the turning member, the lost motion spring and the shift position changing drive means. Thus, the shifting operation can be detected from the start to the finish thereof by detecting the turning amount of the turning member.</p>
+<p id="p-0019" num="0018">According to an embodiment of the present invention, the opening angle between the arm member and the turning member is calculated on the basis of the detection value of the drum turning amount detecting means for detecting the turning amount of the shift drum and of the detection value of the turning member turning-amount detection means. In addition, the operating load inputted to the shift spindle can be calculated on the basis of the opening angle. Thus, the shift operational load can be calculated without use of an expensive load sensor.</p>
+<p id="p-0020" num="0019">According to an embodiment of the present invention, the operation of the clutch actuator adapted to cause the clutch to operatively switch between engagement and disengagement is controlled by the clutch operational controlling means so that the clutch may be brought into the power interruption state when the calculated value of the operational load calculation means exceeds a predetermined value. Thus, when the shift operational load exceeds the predetermined value, it is determined that it is intended to execute a shifting operation and the clutch is brought into the power interruption state, thereby making it possible to perform accurate shifting performance.</p>
+<p id="p-0021" num="0020">In view of the foregoing, it is an object of an embodiment of the present invention to provide a transmission for a vehicle that enhances maintenance performance for a shifting position sensor.</p>
+<p id="p-0022" num="0021">To achieve the above object, according to an embodiment of the present invention, a transmission for a vehicle includes a plurality of gear trains for respective speed steps accommodated in an engine case to enable selective establishment with a shift drum turnably carried by the engine case so as to selectively establish the gear trains in response to a turning position. A shifting position changing drive means covers one end of the shift drum so as to drivingly turn the shift drum in response to a shifting operation. A shifting position sensor for detecting which one of the gear trains is being established is provided. A to-be-detected member is connected to one end of the shift drum so as to be rotatable with the shift drum but to be incapable of relative rotation is turnably passed through an opening portion provided in the shifting position changing drive means and extends to a side opposite to the shift drum. The shifting position sensor, for detecting a turning operation amount of the to-be-detected member, is secured to the cover member mounted to an engine case so as to cover an external end of the to-be-detected member.</p>
+<p id="p-0023" num="0022">According to an embodiment of the present invention, the to-be-detected member; formed like a bar to extend in an axial direction of the shift drum, and the shift drum are arranged coaxially with each other.</p>
+<p id="p-0024" num="0023">According to an embodiment of the present invention, a speed reduction mechanism is interposed between the to-be-detected member and the shifting position sensor to reduce a turning operation amount of the to-be-detected member and transmit the turning operation amount reduced toward the shifting position sensor.</p>
+<p id="p-0025" num="0024">According to an embodiment of the present invention, a shift cover, which covers the shifting position changing means, is mounted to the engine case. The shifting position sensor, connected to a portion of the to-be-detected member projecting from the shift cover, is secured to an external surface of the cover member mounted to the shift cover so as to cover a portion of the shift cover.</p>
+<p id="p-0026" num="0025">The gear cover <b>67</b> of the embodiment corresponds to the cover member of the present invention.</p>
+<p id="p-0027" num="0026">According to an embodiment of the present invention, since the turning operation amount of the to-be-detected member turning together with the shift drum is detected by the shifting position sensor, the shifting position can be detected with good accuracy. Although the shifting position changing drive means covers one end of the shift drum, the to-be-detected member turnably passing through the opening portion provided in the shifting position changing drive means is connected to one end of the shift drum so as to be incapable of relative rotation and the shifting position sensor is secured to the outer surface of the cover member mounted to the engine case so as to cover the external end of the to-be-detected member. Thus, the shifting position sensor can be disposed externally of the engine case without making significant modifications to the design of the engine case and the shifting position changing drive means. This can enhance maintenance performance by eliminating the disassembly of the engine case at the time of maintaining the shifting position sensor. In addition, it is possible to reduce a thermal influence on the shifting position sensor from the engine side.</p>
+<p id="p-0028" num="0027">According to an embodiment of the present invention, since the bar-like to-be-detected member and the shift drum are arranged coaxially with each other, the opening area of the opening portion provided in the shifting position changing drive means can be reduced and the periphery of the shifting position sensor can be made compact.</p>
+<p id="p-0029" num="0028">According to an embodiment of the present invention, since the turning operation amount of the to-be-detected member turning together with the shift drum is reduced by the speed reduction mechanism and transmitted to the shifting position sensor, the small-sized and inexpensive shifting position sensor can be used.</p>
+<p id="p-0030" num="0029">According to an embodiment of the present invention, since the shifting position sensor is disposed externally of the engine case and of the shift cover, the thermal influence on the shifting position sensor from the engine can further be reduced. In addition, it is possible to further enhance the maintenance performance of the shifting position sensor.</p>
+<p id="p-0031" num="0030">Further scope of applicability of the present invention will become apparent from the detailed description given hereinafter. However, it should be understood that the detailed description and specific examples, while indicating preferred embodiments of the invention, are given by way of illustration only, since various changes and modifications within the spirit and scope of the invention will become apparent to those skilled in the art from this detailed description.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0032" num="0031">The present invention will become more fully understood from the detailed description given hereinbelow and the accompanying drawings which are given by way of illustration only, and thus are not limitative of the present invention, and wherein:</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. 1</figref> is a longitudinal cross-sectional view of an essential portion of a transmission for a motorcycle;</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. 2</figref> is an enlarged cross-sectional view of <figref idref="DRAWINGS">FIG. 1</figref>, taken along line <b>2</b>-<b>2</b> of <figref idref="DRAWINGS">FIG. 4</figref>;</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. 3</figref> is a perspective view as viewed from arrow <b>3</b> of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. 4</figref> illustrates the essential portion as viewed from arrow <b>4</b> of <figref idref="DRAWINGS">FIG. 2</figref> with a shift cover and a gear cover removed;</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. 5</figref> is a perspective view illustrating the inside of the shift cover as viewed from the engine case side;</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. 6</figref> is a perspective view illustrating the inside of the shift cover as viewed from the side opposite to the engine case with the gear cover removed;</p>
+<p id="p-0039" num="0038"><figref idref="DRAWINGS">FIG. 7</figref> is a perspective view illustrating the inside of the shift cover as viewed from the side opposite to the engine case in a direction different from that of <figref idref="DRAWINGS">FIG. 6</figref> with a speed reduction mechanism removed;</p>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIG. 8</figref> is a cross-sectional view taken along line <b>8</b>-<b>8</b> of <figref idref="DRAWINGS">FIG. 4</figref>;</p>
+<p id="p-0041" num="0040"><figref idref="DRAWINGS">FIG. 9</figref> illustrates shifting position change-drive means as viewed from the arrow direction of line <b>9</b>-<b>9</b> in <figref idref="DRAWINGS">FIG. 2</figref>;</p>
+<p id="p-0042" num="0041"><figref idref="DRAWINGS">FIG. 10</figref> is a perspective view illustrating the inside of a gear chamber with a gear cover removed from the shift cover; and</p>
+<p id="p-0043" num="0042"><figref idref="DRAWINGS">FIG. 11</figref> is a block diagram illustrating a configuration of a control system adapted to control the operation of a clutch actuator.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENTS</heading>
+<p id="p-0044" num="0043">One embodiment of the present invention will hereinafter be described with reference to the accompanying drawings.</p>
+<p id="p-0045" num="0044"><figref idref="DRAWINGS">FIGS. 1 through 11</figref> illustrate one embodiment of the present invention. In <figref idref="DRAWINGS">FIG. 1</figref>, the transmission may be used with a motorcycle and includes a gear shifting mechanism <b>10</b> configured such that a plurality of speed steps, e.g., first through sixth speed gear trains G<b>1</b>, G<b>2</b>, G<b>3</b>, G<b>4</b>, G<b>5</b> and G<b>6</b> are provided between a main shaft <b>12</b> as a speed change input shaft and a counter shaft <b>13</b> as a speed change output shaft so as to enable selectable establishment. The main shaft <b>12</b> and the counter shaft <b>13</b> have respective axes parallel to each other and are rotatably journaled by an engine case <b>11</b>. The first through sixth speed gear trains G<b>1</b> through G<b>6</b> are accommodated in the engine case <b>11</b>.</p>
+<p id="p-0046" num="0045">A clutch <b>14</b> is provided between a crankshaft (not shown), a power source output shaft, of an engine and one end of the main shaft <b>12</b> to switch between connection and disconnection of power transmission. The clutch <b>14</b> includes a clutch outer <b>17</b>, a clutch inner <b>18</b>, a plurality of drive friction plates <b>19</b>, a plurality of driven friction plates <b>20</b>, a pressure-receiving plate <b>21</b>, a pressurizing plate <b>22</b> and a clutch spring <b>23</b>. The clutch outer <b>17</b> is adapted to receive power from the crankshaft via a first speed reduction device <b>15</b> and via a torque damper <b>16</b>. The clutch inner <b>18</b> is disposed at the central portion of the clutch outer <b>17</b> and is joined to the main shaft <b>12</b> so as to be incapable of relative rotation. The drive friction plates <b>19</b> are spline-fitted to the inner circumferential wall of the clutch outer <b>17</b> so as to be axially slidable. The driven friction plates <b>20</b> are alternately superimposed on the drive friction plates <b>19</b> and spline-connected to the outer circumference of the clutch inner <b>18</b> so as to be axially slidable. The pressure-receiving plate <b>21</b> is integrally provided on the inner end of the clutch inner <b>18</b> so as to receive the innermost drive friction plate <b>19</b>. The pressurizing plate <b>22</b> is slidably attached to the outer end of the clutch inner <b>18</b> so as to be able to push the outermost drive friction plate <b>19</b>. The clutch spring <b>23</b> is adapted to bias the pressurizing plate <b>22</b> toward the pressure-receiving plate <b>21</b>.</p>
+<p id="p-0047" num="0046">With such a clutch <b>14</b>, if the drive friction plates <b>19</b> and driven friction plate <b>20</b> are gripped between the pressurizing plate <b>22</b> and the pressure-receiving plate <b>21</b> by the biasing force of the clutch spring <b>23</b>, the clutch <b>14</b> is brought into a clutch-on state (the power transmission state) where the clutch outer <b>17</b> and the clutch inner are frictionally connected to each other.</p>
+<p id="p-0048" num="0047">A release member <b>25</b> is disposed at the central portion of the clutch inner <b>18</b> with a release bearing <b>24</b> interposed between the pressurizing plate <b>22</b> and the release member <b>25</b>. A push rod <b>26</b> which is axially movably inserted into the main shaft <b>12</b> is connected to the release member <b>25</b>. A clutch actuator <b>30</b>, capable of providing a pressing force, is connected to the push rod <b>26</b>. If the push rod <b>26</b> is pushed by the clutch actuator <b>30</b>, the pressurizing plate <b>22</b> is moved rearwardly against the spring force of the clutch spring <b>23</b>. This brings the drive friction plates <b>19</b> and the driven friction plates <b>20</b> into a free state. Thus, the clutch <b>14</b> is brought into a clutch-off state (the power interruption state) where the clutch outer <b>17</b> and the clutch inner <b>18</b> are not connected to each other.</p>
+<p id="p-0049" num="0048">The counter shaft <b>13</b> partially projects from the engine case <b>11</b> toward the side opposite to the clutch <b>14</b>. A drive sprocket <b>27</b> is secured to the end portion of the countershaft <b>13</b> projecting from the engine case <b>11</b>. The drive sprocket <b>27</b> constitutes part of the power transmission means <b>29</b> along with an endless chain <b>28</b> wound around the drive sprocket <b>27</b>. The power outputted from the countershaft <b>13</b> is transmitted to a rear wheel not shown via the power transmission means <b>29</b>.</p>
+<p id="p-0050" num="0049">The first speed gear train G<b>1</b> is composed of a first speed drive gear <b>31</b> formed integrally with the main shaft <b>12</b> and a first speed driven gear <b>32</b> carried on the counter shaft <b>13</b> so as to be capable of relative rotation and meshing with the first speed drive gear <b>31</b>. The second speed gear train G<b>2</b> is composed of a second speed drive gear <b>33</b> carried on the main shaft <b>12</b> so as to be incapable of relative rotation and a second speed driven gear <b>34</b> meshing with the second speed drive gear <b>33</b> so as to be capable of relative rotation. The third speed gear train G<b>3</b> is composed of a third speed drive gear <b>35</b> incapable of relative rotation with the main shaft <b>12</b> and a third speed driven gear <b>36</b> carried on the counter shaft <b>13</b> so as to be capable of relative rotation and meshing with the third speed drive gear <b>35</b>. The fourth speed gear train G<b>4</b> is composed of a fourth speed drive gear <b>37</b> incapable of relative rotation with the main shaft <b>12</b> and a fourth speed driven gear <b>38</b> carried on the counter shaft <b>13</b> so as to be capable of relative rotation and meshing with the fourth speed drive gear <b>37</b>. The fifth speed gear train G<b>5</b> is composed of a fifth speed drive gear <b>39</b> carried on the main shaft <b>12</b> so as to be capable of relative rotation therewith and a fifth speed driven gear <b>40</b> incapable of relative rotation with the counter shaft <b>13</b> and meshing with the fifth speed drive gear <b>39</b>. The sixth speed gear train G<b>6</b> is composed of a sixth speed drive gear <b>41</b> carried on the main shaft <b>12</b> so as to be capable of relative rotation and a sixth speed driven gear <b>42</b> being incapable of relative rotation with the counter shaft <b>13</b> and meshing with the sixth speed drive gear <b>41</b>.</p>
+<p id="p-0051" num="0050">A fifth-sixth speed switching shifter <b>44</b> is axially slidably splined-fitted to the main shaft <b>12</b> between the fifth-speed drive gear <b>39</b> and the sixth speed drive gear <b>41</b>. The third-speed drive gear <b>35</b> is formed integrally with the fifth-sixth switching shifter <b>44</b> so as to face the sixth speed drive gear <b>41</b>. The fourth speed drive gear <b>37</b> is formed integrally with the fifth-sixth switching shifter <b>44</b> so as to face the fifth-speed drive gear <b>39</b>. A first-fourth speed switching shifter <b>45</b> formed integrally with the fifth-speed driven gear <b>40</b> is axially slidably spline-fitted to the counter shaft <b>13</b> between the first speed driven gear <b>32</b> and the fourth speed driven gear <b>38</b>. A second-third switching shifter <b>46</b> formed integrally with the sixth speed driven gear <b>42</b> is axially slidably spline-fitted to the counter shaft <b>13</b> between the second speed driven gear <b>34</b> and the third speed driven gear <b>36</b>.</p>
+<p id="p-0052" num="0051">When the fifth-sixth speed switching shifter <b>44</b> is made to axially slide and engage the fifth-speed drive gear <b>39</b>, the fifth-speed drive gear <b>39</b> is connected to the main shaft <b>12</b> via the fifth-sixth speed switching shifter <b>44</b> so as to be incapable of relative rotation, thereby establishing the fifth-speed gear train G<b>5</b>. When the fifth-sixth speed switching shifter <b>44</b> is made to axially slide and engage the sixth-speed drive gear <b>41</b>, the sixth-speed drive gear <b>41</b> is connected to the main shaft <b>12</b> via the fifth-sixth speed switching shifter <b>44</b> so as to be incapable of relative rotation, thereby establishing the sixth-speed gear train G<b>6</b>.</p>
+<p id="p-0053" num="0052">When the first-fourth speed switching shifter <b>45</b> is made to axially slide and engage the first-speed drive gear <b>32</b>, the first-speed driven gear <b>32</b> is connected to the counter shaft <b>13</b> via the first-fourth speed switching shifter <b>45</b> so as to be incapable of relative rotation, thereby establishing the first-speed gear train G<b>1</b>. When the first-fourth speed switching shifter <b>45</b> is made to axially slide and engage the fourth-speed driven gear <b>38</b>, the fourth-speed driven gear <b>38</b> is connected to the counter shaft <b>13</b> via the first-fourth switching shifter <b>45</b> so as to be incapable of relative rotation, thereby establishing the fourth-speed gear train G<b>4</b>.</p>
+<p id="p-0054" num="0053">When the second-third speed switching shifter <b>46</b> is made to axially slide and engage the second-speed driven gear <b>34</b>, the second-speed driven gear <b>34</b> is connected to the counter shaft <b>13</b> via the second-third speed shifter <b>46</b> so as to be incapable of relative rotation, thereby establishing the second speed gear train G<b>2</b>. When the second-third speed switching shifter <b>46</b> is made to axially slide and engage the third speed driven gear <b>36</b>, the third speed driven gear <b>36</b> is connected to the counter shaft <b>13</b> via the second-third speed switching shifter <b>46</b> so as to be incapable of relative rotation, thereby establishing the third speed gear train G<b>3</b>.</p>
+<p id="p-0055" num="0054">The fifth-sixth switching shifter <b>44</b> is turnably held by a first shift fork <b>47</b>. The first-fourth speed switching shifter <b>45</b> is turnably held by a second shift fork <b>48</b>. The second-third speed switching shifter <b>46</b> is turnably held by the third shift fork <b>49</b>. The first shift fork <b>47</b> has an axis parallel to the main shaft <b>12</b> and to the counter shaft <b>13</b> and is axially slidably supported by a first shift fork shaft <b>50</b> carried by the engine case <b>11</b>. The second and third shift forks <b>48</b>, <b>49</b> each have an axis parallel to the first shift fork shaft <b>50</b> and are axially slidably supported by a second shift fork shaft <b>51</b> carried by the engine case <b>11</b>.</p>
+<p id="p-0056" num="0055">As illustrated in <figref idref="DRAWINGS">FIG. 2</figref>, a shift drum <b>52</b> having an axis parallel to the first and second shift forks <b>50</b>, <b>51</b> is turnably supported by the engine case <b>11</b>. The shift drum <b>52</b> is formed in an external surface with three engaging grooves <b>53</b>, <b>54</b> and <b>55</b> with which the first, second and third shift forks <b>47</b>, <b>48</b> and <b>49</b> are engaged, respectively. The engaging grooves <b>53</b>, <b>54</b> and <b>55</b> are formed to determine the positions of the first through third shift forks <b>47</b>, <b>48</b>, <b>49</b> on the first and second shift fork shafts <b>50</b>, <b>51</b> in response to the turning position of the shift drum <b>52</b>. Turning the shift drum <b>52</b> selectively establishes the first through sixth speed gear trains G<b>1</b> through G<b>6</b> in response to the turning position thereof.</p>
+<p id="p-0057" num="0056">Both ends of the shift drum <b>52</b> are turnably passed through corresponding bearing holes <b>56</b>, <b>57</b> provided in the engine case <b>11</b>. Ball bearings <b>58</b>, <b>59</b> are interposed between the inner circumference of the bearing holes <b>56</b>, <b>57</b> and the shift drum <b>52</b>.</p>
+<p id="p-0058" num="0057">The shift drum <b>52</b> is turnably driven by the operation of shifting position changing drive means <b>62</b>, which is operable in response to the turn of a shift spindle <b>60</b> resulting from a shifting operation. A shift lever <b>61</b> is secured to one end of the shift spindle <b>60</b> having an axis parallel to the shift drum <b>52</b>. The shift lever is interlocked with and connected to a change pedal (not shown).</p>
+<p id="p-0059" num="0058">As illustrated in <figref idref="DRAWINGS">FIG. 3</figref>, the engine case <b>11</b> is integrally provided with a wall portion <b>11</b><i>a </i>endlessly surrounding the shift spindle <b>60</b> and the shifting position changing drive means <b>62</b> on the one end side of the shift drum <b>52</b>. A shift cover <b>64</b> is fastened to the wall portion <b>11</b><i>a </i>with a plurality of bolts <b>65</b> so as to define an operational chamber <b>63</b> between the engine case <b>11</b> and the shift cover <b>64</b>. The operational chamber <b>63</b> is adapted to accommodate a portion of the shift spindle <b>60</b> and the shifting position changing drive means <b>62</b>. The shift spindle <b>60</b> has one end which projects from the shift cover <b>64</b> that is turnably carried by the engine case <b>11</b> and by the shift cover <b>64</b>. A gear cover <b>67</b> is fastened to the shift cover <b>64</b> with a plurality of bolts <b>68</b> so as to cover part of the shift cover <b>64</b> and to define a gear chamber <b>66</b> between the shift cover <b>64</b> and the gear cover <b>67</b>.</p>
+<p id="p-0060" num="0059">A shift cam <b>70</b> is coaxially secured to one end of the shift drum <b>52</b> with a bolt <b>71</b> so as to face the operational chamber <b>53</b>. The shift cam <b>70</b> is planted with follower pins <b>69</b> whose number is equal to that of the speed steps (six in the embodiment). The shifting position changing drive means <b>62</b> is disposed to cover one end of the shift drum <b>52</b> and the shift cam <b>70</b>. In addition, the shifting position changing drive means <b>62</b> is configured to drivingly turn the shift drum <b>52</b> by being engaged with one of the follower pins <b>69</b> for turning therewith.</p>
+<p id="p-0061" num="0060">As illustrated in <figref idref="DRAWINGS">FIGS. 4 through 9</figref>, the shifting position changing drive means <b>62</b> includes a master arm <b>74</b>, an arm <b>75</b> and a first return spring <b>76</b>. The master arm <b>74</b> is turnably supported at one end by the shift spindle <b>60</b>. The arm <b>75</b> is supported by the master arm <b>74</b> so as to enable a sliding operation in a limited range in the direction perpendicular to the axis of the shift spindle <b>60</b>. The first return spring <b>76</b> is operative to bias the arm <b>75</b> to bring it close to the shift spindle <b>60</b>.</p>
+<p id="p-0062" num="0061">The master arm <b>74</b> is provided at one end with a cylindrical support cylinder <b>74</b><i>a </i>surrounding the shift spindle <b>60</b>. The support cylinder <b>74</b><i>a </i>is turnably supported by the shift spindle <b>60</b>. The master arm <b>74</b> is formed with a pair of guide holes <b>77</b>, <b>78</b> which are located on a straight line passing the axis of the shift spindle <b>60</b> so as to be spaced apart from each other. The guide holes <b>77</b>, <b>78</b> are each formed like an oblong hole extending along the straight line. Pins <b>79</b> and <b>80</b> are secured at one end to the arm <b>75</b> disposed between the master arm <b>74</b> and the shift cam <b>70</b> so as to be inserted into a corresponding one of the guide holes <b>77</b> and <b>78</b>, respectively. In addition, the pins <b>79</b> and <b>80</b> are integrally provided at the other ends with flange portions <b>79</b><i>a </i>and <b>80</b><i>a</i>, respectively, which protrude radially outwardly so as to be in slidable contact with the surface opposite to the arm <b>75</b> of the master arm <b>74</b>. In this way, the arm <b>75</b> is supported by the master arm <b>74</b> so as to enable a sliding operation in a range where the pins <b>79</b> and <b>80</b> are movable within the guide holes <b>77</b> and <b>78</b>, respectively, in the direction perpendicular to the axis of the shift spindle <b>60</b>. The first return spring <b>76</b> is disposed to surround the pin <b>80</b>. The first return spring <b>76</b> abuts both ends against the end of the master arm <b>74</b> on the side opposite to the shift spindle <b>60</b> so that the arm <b>75</b> is spring-biased to the side close to the shift spindle <b>60</b>.</p>
+<p id="p-0063" num="0062">The arm <b>75</b> is formed with a pair of engaging claws <b>81</b>, <b>82</b> at ends on the side opposite to the shift spindle <b>60</b>. The arm <b>75</b> may be located at a position closest to the shift spindle <b>60</b> by the spring force of the first returning spring <b>76</b>. In such a case, the engaging claws <b>81</b>, <b>82</b> are each engageable from the outside with a corresponding one of circumferentially adjacent two follower pins <b>69</b> of the follower pins <b>69</b> provided on the shift cam <b>70</b>. In this state, if the master arm <b>74</b> is turned to one side around the axis of the shift spindle <b>60</b>, one of both the engaging claws <b>81</b>, <b>82</b> is engaged from the outside with one follower pin <b>69</b> and drivingly turns the shift cam <b>70</b>, i.e., the shift drum <b>52</b> but the other will not engage the follower pin <b>69</b>.</p>
+<p id="p-0064" num="0063">The engaging claws <b>81</b> and <b>82</b> are formed with slant surfaces <b>83</b> and <b>84</b>, respectively, on respective lateral surfaces on the side of the shift spindle <b>60</b>. The slant surfaces <b>83</b>, <b>84</b> are slanted to be away from the spindle <b>60</b> as they go toward the outside. In the state where e.g. one engaging claw <b>81</b> of the engaging claws <b>81</b>, <b>82</b> drivingly turns the shift drum <b>52</b> by a predetermined turning amount, the next follower pin <b>69</b> is moved to the position of the follower pin <b>69</b> engaged with the engaging claw <b>81</b>. Thus, when the arm <b>75</b> is turned and returned toward the original position along with the master arm <b>74</b>, the next follower pin <b>69</b> comes into abutment against the slant surface <b>83</b> to move the arm <b>75</b> against the spring force of the first return spring <b>76</b> so as to be away from the shift spindle <b>60</b>. This causes the engaging claw <b>81</b> to go over the next follower pin <b>69</b>. Also e.g. the other engaging claw <b>82</b> of the engaging claws <b>81</b>, <b>82</b> may drivingly turn the shift drum <b>52</b> by a predetermined turning amount. In such a case, similarly to the above, when the arm <b>75</b> is turned and returned toward the original position along with the master arm <b>74</b>, the next follower pin <b>69</b> is abutted against the slant surface <b>84</b> to move the arm <b>75</b> against the spring force of the first return spring <b>76</b> so as to be away from the shift spindle <b>60</b>. This causes the engaging claw <b>82</b> to go over the next follower pin <b>69</b>.</p>
+<p id="p-0065" num="0064">The master arm <b>74</b> is provided near the shift spindle <b>60</b> with a circular arc restriction hole <b>87</b> with the center on the axis of the shift spindle <b>60</b>. The stopper pin planted on the engine case <b>11</b> is inserted into the restriction hole <b>87</b>. Thus, the turning range of the master arm <b>74</b> around the axis of the shift spindle <b>60</b> is restricted by the stopper pin <b>85</b> that comes into abutment against both circumferential ends of the restriction hole <b>87</b>.</p>
+<p id="p-0066" num="0065">The master arm <b>74</b> is biased by a second return spring <b>86</b> to return to the original position, a neutral position. The second return spring <b>86</b> is integrally provided with gripping portions <b>86</b><i>b</i>, <b>86</b><i>c </i>at both ends of a coil portion <b>86</b><i>a</i>. The coil portion <b>86</b><i>a </i>surrounds the support cylinder <b>74</b><i>a </i>provided on the master arm <b>74</b> to surround the shift spindle <b>60</b><i>b</i>. The gripping portions <b>86</b><i>b</i>, <b>86</b><i>c </i>are adapted to grip the stopper pin <b>85</b> from both sides. The master arm <b>74</b> is integrally provided with an engaging portion <b>74</b><i>b </i>disposed outward of the stopper pin <b>85</b> and between both the gripping portions <b>86</b><i>b</i>, <b>86</b><i>c. </i></p>
+<p id="p-0067" num="0066">In this way, if the master arm <b>74</b> is turned around the axis of the shift spindle <b>60</b>, the engaging portion <b>74</b><i>b </i>of the master arm <b>74</b> abuts against and is engaged with one of the gripping portions <b>86</b><i>b</i>, <b>86</b><i>c </i>to leave the other of the gripping portions <b>86</b><i>b</i>, <b>86</b><i>c </i>by being brought into abutment against the stopper pin <b>85</b> and to turn one of the gripping portions while bending it to be away from the stopper pin <b>85</b>. If the load applied to the master arm <b>74</b> is released, the master arm <b>74</b> is returned by the spring force of the bent gripping portion of both the gripping portions <b>86</b><i>b</i>, <b>86</b><i>c </i>to the neutral position where the engaging portion <b>74</b><i>b </i>is located externally of the stopper pin <b>85</b>.</p>
+<p id="p-0068" num="0067">A turning member <b>88</b> facing the master arm <b>74</b> is secured to the shift spindle <b>60</b> at a position where a portion of the master arm <b>74</b> close to the shift spindle <b>60</b> is put between the arm <b>75</b> and the turning member <b>88</b>. This turning member <b>88</b> is formed with a circular arc restriction hole <b>89</b> with the center placed on the axis of the shift spindle <b>60</b> so as to receive the outer end of the stopper pin <b>85</b> inserted thereinto.</p>
+<p id="p-0069" num="0068">A lost motion spring <b>90</b> is disposed between the master arm <b>74</b> of the shifting position changing means <b>62</b> and the turning member <b>88</b>. This lost motion spring <b>90</b> is provided with gripping portions <b>90</b><i>b</i>, <b>90</b><i>c </i>at both ends of a coil portion <b>90</b><i>a</i>. The coil portion <b>90</b><i>a </i>surrounds a cylindrical sleeve <b>91</b> into which the shift spindle <b>60</b> is inserted. The gripping portions <b>90</b><i>b</i>, <b>90</b><i>c </i>grip from both sides a pressing portion <b>92</b> provided to project from the turning member <b>88</b>. The master arm <b>74</b> is provided with a pin <b>94</b> serving as a pressure-receiving portion gripped by both the gripping portions <b>90</b><i>b</i>, <b>90</b><i>c</i>. The pressing portion <b>92</b> is formed by partially cutting and raising the outer circumference of the turning member <b>88</b> so as to form a recessed portion <b>93</b> at which the pin <b>94</b> is disposed.</p>
+<p id="p-0070" num="0069">With such a lost motion spring <b>90</b>, when the turning member <b>88</b> is turned, if, in response to the turning direction, the pressing portion <b>92</b> abuts against one of the gripping portions <b>90</b><i>b</i>, <b>90</b><i>c</i>, the other of the gripping portions <b>90</b><i>b</i>, <b>90</b><i>c </i>abuts against the pin <b>94</b> in the same turning direction as that of the pressing portion <b>92</b>. The turning of the shift drum <b>52</b> may be restrained by the friction resulting from engine torque encountered when the clutch <b>14</b> is in the power transmission state. In such a case, since also the turning of the master arm <b>74</b> is restrained, the turning member <b>88</b> is turned to leave the master arm <b>74</b> while the gripping angle of the gripping portions <b>90</b><i>b</i>, <b>90</b><i>c</i>, i.e., the opening angle between the turning member <b>88</b> and the master arm <b>74</b> is increased. Thus, the spring biasing force is applied between the master arm <b>74</b> and the turning member <b>88</b> so as to reduce the opening angle therebetween.</p>
+<p id="p-0071" num="0070">A bar-like to-be-detected member <b>96</b> extending in the axial direction of the shift drum <b>52</b> is joined to one end of the shift drum <b>52</b> so as to be coaxial therewith and to be incapable of relative rotation. More specifically, an engaging pin <b>97</b> is orthogonally inserted into one end of the to-be-detected member <b>96</b>. The shift cam <b>70</b> secured to the one end of the shift drum <b>52</b> is formed with fitting grooves <b>98</b>, <b>98</b> adapted to receive both ends of the engaging pin <b>97</b> fitted thereto.</p>
+<p id="p-0072" num="0071">The other end of the to-be-detected member <b>96</b> extends toward the side opposite to the shift drum <b>52</b> and turnably passes through an opening portion <b>99</b> provided in the shifting position changing drive means <b>62</b>. This opening portion <b>99</b> includes a first through-hole <b>100</b> and a second through-hole <b>101</b>. The first through-hole <b>100</b> is provided in the arm <b>75</b> of the shifting position changing drive means <b>62</b>, whereas the second through-hole <b>101</b> is provided in the master arm <b>74</b> of the shifting position changing drive means <b>62</b>. The first through-hole <b>100</b> is formed so that the arm <b>75</b> may turn with the master arm <b>74</b> and the master arm <b>74</b> does not come into contact with the to-be-detected member <b>96</b> when the arm <b>75</b> operatively slides with respect to the master arm <b>74</b>. The second through-hole <b>101</b> is formed so that the master arm <b>74</b> may not come into contact with the to-be-detected member <b>96</b> when the master arm <b>74</b> turns around the axis of the shift spindle <b>60</b>.</p>
+<p id="p-0073" num="0072">The shift cover <b>64</b> is fastened to the wall portion <b>11</b><i>a </i>of the engine case <b>11</b> to define the operational chamber <b>63</b> between the engine case <b>11</b> and the shift cover <b>64</b>. The operational chamber <b>63</b> is adapted to accommodate a portion of the shift drum <b>60</b>, the shifting position changing drive means <b>62</b>, the first return spring <b>76</b>, the turning member <b>88</b> and the lost motion spring <b>90</b>. The to-be-detected member <b>96</b> turnably passes through the shift cover <b>64</b> at a position corresponding to the gear chamber <b>66</b> defined between the shift cover <b>64</b> and the gear cover <b>67</b> fastened to the shift cover <b>64</b>. In addition, the other end, i.e., the outer end, of the to-be-detected member <b>96</b> is covered by and turnably carried by the gear cover <b>67</b>.</p>
+<p id="p-0074" num="0073">A shifting position sensor <b>102</b>, adapted to detect the shift-turning position of the shift drum <b>52</b>, is secured to the outer surface of the gear cover <b>67</b> so as to detect the turning amounts of the to-be-detected member <b>96</b> and the shift drum <b>52</b>. A speed reduction mechanism <b>103</b> is interposed between the portion of the to-be-detected member <b>96</b> projecting from the shift cover <b>64</b> and the shifting position sensor <b>102</b>. This speed reduction mechanism <b>103</b> reduces the turn-operation amount of the to-be-detected member <b>96</b> and transmits it to the shifting position sensor <b>102</b>. The speed reduction mechanism <b>103</b> is accommodated in the gear chamber <b>66</b>.</p>
+<p id="p-0075" num="0074">As illustrated in <figref idref="DRAWINGS">FIG. 10</figref>, the speed reduction mechanism <b>103</b> includes a drive gear <b>104</b> which is fitted to the to-be-detected member <b>96</b> so as to be incapable of relative rotation and is put between the shift cover <b>64</b> and the gear cover <b>67</b> and a sector gear <b>105</b> meshing with the drive gear <b>104</b>. The sector gear <b>105</b> is turnably carried by the shift cover <b>64</b> via a shaft <b>106</b> having an axis parallel to the to-be-detected member <b>96</b>.</p>
+<p id="p-0076" num="0075">The sector gear <b>105</b> is provided with a pair of engaging pins <b>107</b>, <b>107</b> at a position offset from the turning axis thereof. The shifting position sensor <b>102</b> has a detecting portion (not shown) gripped between the engaging pins <b>107</b>, <b>107</b>. A sensor case <b>108</b> for the shifting position sensor <b>102</b> is fastened to the gear cover <b>67</b> with a plurality of screw members <b>109</b>.</p>
+<p id="p-0077" num="0076">Turning member turning-amount detecting means <b>110</b> is attached to the shift cover <b>64</b> to detect the turning amount of the turning member <b>88</b>. A case <b>111</b> for the turning member turning-amount detecting means <b>110</b> is fastened to the shift cover <b>64</b> with a plurality of screw members <b>112</b>.</p>
+<p id="p-0078" num="0077">A pin <b>113</b> is planted on the turning member <b>88</b> at a position offset from the shift spindle <b>60</b>. An operating member <b>114</b> is engaged at one end with the pin <b>113</b> at one end and provided with a shaft <b>115</b> at the other end. This shaft is engaged with a detection portion (not shown) of the turning member turning-amount detecting means <b>110</b> so as to be incapable of relative rotation.</p>
+<p id="p-0079" num="0078">Referring to <figref idref="DRAWINGS">FIG. 11</figref>, the operation of the clutch actuator <b>30</b> is controlled by a control unit <b>116</b>. The control unit <b>116</b> is adapted to receive the turning amount of the shift drum <b>52</b> detected by the shifting position sensor <b>102</b> and the turning amount of the turning member <b>88</b> detected by the turning member turning-amount detecting means <b>111</b>.</p>
+<p id="p-0080" num="0079">The control unit <b>116</b> includes opening angle calculation means <b>117</b>, operating load calculation means <b>118</b> and clutch operational controlling means <b>119</b>. The opening angle calculation means <b>117</b> calculates the opening angle between the master arm <b>74</b> and turning member <b>88</b> of the shifting position changing drive means <b>62</b> on the basis of the turning amount of the shift drum <b>52</b> detected by the shifting position sensor <b>102</b> and of the turning angle amount of the turning member <b>88</b> detected by the turning member turning-amount detecting means <b>111</b>. The operating load calculating means <b>118</b> calculates the operating load inputted to the shift spindle <b>60</b> on the basis of the calculated value of the opening angle calculation means <b>117</b>. The clutch operational controlling means <b>119</b> controls the operation of the clutch actuator <b>30</b> so that the clutch <b>14</b> is brought into a power interruption state when the calculated value of the operating value calculating means <b>118</b> exceeds a predetermined value.</p>
+<p id="p-0081" num="0080">A description is next given of the operation of the embodiment. The to-be-detected member <b>96</b> is connected to one end of the shift drum <b>52</b> so as to be rotatable with the shift drum <b>52</b> but to be incapable of relative rotation. In addition, the to-be-detected member <b>96</b> is rotatably passed through the opening portion <b>99</b> provided in the shifting position changing drive means <b>62</b> and extends to the side opposite to the shift drum <b>52</b>. The shifting position sensor <b>102</b> for detecting the turning operation amount of the to-be-detected member <b>96</b> is secured to the outer surface of the gear case <b>67</b> mounted to the engine case <b>11</b> so as to cover the external end of the to-be-detected member <b>96</b>. The shifting position sensor <b>102</b> detects the turning operation amount of the to-be-detected member <b>96</b> turning together with the shift drum <b>52</b>. Thus, the shifting position can be detected with good accuracy. Although the shifting position changing drive means <b>62</b> covers one end of the shift drum <b>52</b>, the to-be-detected member <b>96</b> is turnably passed through the opening portion <b>99</b> provided in the shifting position changing drive means <b>62</b> and the shifting position sensor <b>102</b> is secured to the outer surface of the gear member <b>67</b> covering the external end of the to-be -detected member <b>96</b>. Thus, the shifting position sensor <b>102</b> can be disposed externally of the engine case <b>11</b> without making significant changes to the design of the engine case <b>11</b> and the shifting position changing drive means <b>62</b>. This enhances maintenance performance by eliminating the disassembly of the engine case <b>11</b> during the maintenance of the shifting position sensor <b>102</b>. In addition, it is possible to reduce a thermal influence on the position sensor <b>102</b> from the engine side.</p>
+<p id="p-0082" num="0081">The to-be-detected member <b>96</b> is formed like a bar to extend in the axial direction of the shift drum <b>52</b> and is arranged coaxially with the shift drum <b>52</b>. Thus, it is possible to reduce the opening area of the opening portion <b>99</b> provided in the shifting position changing drive means <b>62</b> and to make the periphery of the shifting position sensor <b>102</b> compact.</p>
+<p id="p-0083" num="0082">The speed reduction mechanism <b>103</b> which reduces the turning operation amount of the to-be-detected member <b>96</b> and transmits it toward the shifting position sensor <b>102</b> is interposed between the to-be-detected member <b>96</b> and shifting position sensor <b>102</b>. Thus, it is possible to use the shifting position sensor <b>102</b> that has a narrow detection range and is small-sized and inexpensive.</p>
+<p id="p-0084" num="0083">The shift cover <b>64</b> covering the shifting position changing means <b>62</b> is mounted to the engine case <b>11</b> and the shifting position sensor <b>102</b> is secured to the outer surface of the gear cover <b>67</b> mounted to the shift cover <b>64</b> so as to cover part of the shift cover <b>64</b>. Thus, the shifting position sensor <b>102</b> is disposed externally of the engine case <b>11</b> and of the shift cover <b>64</b>. This further reduces the thermal influence on the shifting position sensor <b>102</b> and can further enhance the maintenance performance of the shifting position sensor <b>102</b>.</p>
+<p id="p-0085" num="0084">The turning member <b>88</b> projectingly provided with the pressing portion <b>92</b> is secured to the shift spindle <b>60</b>. The lost motion spring <b>90</b> is disposed between the master arm <b>74</b> of the shifting position changing drive means <b>62</b> and the turning member <b>88</b>. The lost motion spring <b>90</b> is provided with the gripping portions <b>90</b><i>b</i>, <b>90</b><i>c </i>at both the ends of the coil portion <b>90</b><i>a </i>surrounding the shift spindle <b>60</b> with the gripping portions <b>90</b><i>b</i>, <b>90</b><i>c </i>gripping the pressing portion <b>92</b> from both sides. The master arm <b>74</b> is provided with the pin <b>94</b> gripped by both the gripping portions <b>90</b><i>b</i>, <b>90</b><i>c </i>in such a manner that when the turning member <b>88</b> is turned, if, in response to the turning direction, the pressing portion <b>92</b> abuts against one of the gripping portions <b>90</b><i>b</i>, <b>90</b><i>c </i>with the other of the gripping portions <b>90</b><i>b</i>, <b>90</b><i>c </i>abutting against the pin <b>94</b>.</p>
+<p id="p-0086" num="0085">In this way, when the shift spindle <b>60</b> is turned, the turning force of the turning member <b>88</b> turning with the shift spindle <b>60</b> is transmitted to the master arm <b>74</b> of the shifting position changing drive means <b>62</b> via the lost motion spring <b>90</b>. During the shift operation in the power transmission state of the clutch <b>14</b>, the turning member <b>88</b> is precedently turned while leaving the master arm <b>74</b>. If the shift operation is stopped in midstream, the turning member <b>88</b> and the shift spindle <b>60</b> are returned to the respective original positions by the spring force of the lost motion spring <b>90</b>. Thus, it is possible to prevent the shift drum <b>52</b> from remaining unchanged at the neutral position. Even if the shift operational load to be applied to the shift spindle <b>60</b> is excessively large, it can partially be absorbed by the lost motion spring <b>90</b>.</p>
+<p id="p-0087" num="0086">The shift cover <b>64</b> is mounted to the engine case <b>11</b> to define the operational chamber <b>63</b> between the engine case <b>11</b> and the shift cover <b>64</b>. The operational chamber <b>63</b> accommodates a portion of the shift spindle <b>60</b>, the turning member <b>88</b>, the lost motion spring <b>90</b> and the shifting position changing drive means <b>62</b>. The turning member turning-amount detecting means <b>110</b> for detecting the turning amount of the turning member <b>88</b> is secured to the shift cover <b>64</b>. Thus, the shift operation can accurately be detected from the beginning to end thereof by detecting the turning amount of the turning member <b>88</b>.</p>
+<p id="p-0088" num="0087">The opening angle between the master arm <b>74</b> and the turning member <b>88</b> can be calculated by the opening angle calculation means <b>117</b> on the basis of the detected value of the shifting position sensor <b>102</b> for detecting the turning amount of the shift drum <b>52</b> and of the detected value of the turning member turning-amount detecting member <b>110</b>. In addition, the operational load inputted to the shift spindle <b>60</b> can be calculated by the operational load calculating means <b>118</b> on the basis of the calculation value of the opening angle calculating means <b>117</b>. Thus, the shift operational load can be calculated without use of an expensive load sensor.</p>
+<p id="p-0089" num="0088">The clutch actuator <b>30</b> which operatively switches between the engagement and disengagement of the clutch <b>14</b> is operatively controlled by the clutch operational controlling means <b>119</b> so that the clutch <b>14</b> may be brought into a power interruption state when the calculated value of the operational load calculating means <b>118</b> exceeds the predetermined value. Thus, when the shift operational load exceeds the predetermined value, it is determined that a shift operation is intended and the clutch <b>14</b> is brought into the power interruption state, thereby executing the reliable shifting operation.</p>
+<p id="p-0090" num="0089">While the embodiment of the present invention has been made thus far, the invention is not limited to the embodiment described above. Design modifications can be made in various ways without departing from the invention described in claims.</p>
+<p id="p-0091" num="0090">The invention being thus described, it will be obvious that the same may be varied in many ways. Such variations are not to be regarded as a departure from the spirit and scope of the invention, and all such modifications as would be obvious to one skilled in the art are intended to be included within the scope of the following claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A transmission for a vehicle, comprising:
+<claim-text>a gear shifting mechanism in which a plurality of selectively establishable gear trains for respective speed steps are provided between a speed change input shaft and a speed change output shaft;</claim-text>
+<claim-text>a clutch adapted to switch between connection and disconnection of power transmission between a power source output shaft and the speed change input shaft;</claim-text>
+<claim-text>a shift drum turnably carried by an engine case so as to selectively establish the gear trains in response to a turning position;</claim-text>
+<claim-text>a shift spindle turnably attached to the engine case so as to turn in response to a shifting operation;</claim-text>
+<claim-text>shifting position changing drive means having an arm member being capable of turning around an axis of the shift spindle for enabling to drivingly turn the shift drum in response to turning of the shift spindle;</claim-text>
+<claim-text>a turning member secured to the shift spindle and projectingly provided with a pressing member;</claim-text>
+<claim-text>a lost motion spring in which gripping portions gripping the pressing portion from both sides are provided at both sides of a coil portion surrounding the shift spindle;</claim-text>
+<claim-text>wherein the arm member is provided with a pressure-receiving member which is gripped by both the gripping portions in such a manner that when the turning member is turned, if, in response to the turning direction, the pressing portion abuts against one of both the gripping portions for turning, the other of the gripping portions abuts against the pressure-receiving member;</claim-text>
+<claim-text>a shift cover mounted to the engine case to define an operational chamber between the engine case and the shift cover, the operational chamber accommodating a portion of the shift spindle, the turning member, the lost motion spring and the shift position changing drive means; and</claim-text>
+<claim-text>a turning member turning-amount detecting means for detecting a turning amount of the turning member, said turning member turning-amount detecting means being secured to the shift cover.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The transmission for the vehicle according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, and further comprising:
+<claim-text>drum turning amount detecting means for detecting the turning amount of the shift drum;</claim-text>
+<claim-text>opening angle calculating means for calculating an opening angle between the arm member and the turning member on the basis of a detection value of the drum turning amount detecting means and of a detection value of the turning member turning-amount detection means; and</claim-text>
+<claim-text>operational load calculation means for calculating an operational load inputted to the shift spindle on the basis of a calculated value of the opening angle calculation means.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The transmission for the vehicle according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, and further comprising:
+<claim-text>a clutch actuator adapted to cause the clutch to switch between engagement and disengagement; and</claim-text>
+<claim-text>clutch operational controlling means for controlling operation of the clutch actuator so that the clutch is brought into a power interruption state when the calculated value of the operational load calculating means exceeds a predetermined value.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The transmission for the vehicle according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the arm member is provided at one end with a cylindrical support cylinder surrounding the shift spindle.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The transmission for the vehicle according to <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the arm member is formed with a pair of guide holes located on a straight line passing the axis of the shift spindle so as to be spaced apart from each other with the guide holes each being formed like an oblong hole extending along the straight line.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The transmission for the vehicle according to <claim-ref idref="CLM-00005">claim 5</claim-ref>, and further including pins secured at ends of the master arm member and each of said guide pins having a proximal end disposed between the arm member and the shift cam for insertion into corresponding guide holes and each of said guide pins having a distal end with flange portions protruding radially outwardly therefrom for slidably contacting the surface opposite to the arm member.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The transmission for the vehicle according to <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the arm member is slidable in a range wherein the pins are movable within the guide holes in a direction substantially perpendicular to the axis of the spindle shaft.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The transmission for the vehicle according to <claim-ref idref="CLM-00004">claim 4</claim-ref>, and further including a second arm disposed to be adjacent to said arm member, said second arm including engaging claws at an end opposite to the shift spindle, said engaging claws being engagable from the outside with a corresponding follower pin provided on a shift cam, said engaging claws selectively imparting movement to said shift cam for imparting movement to said shift drum.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The transmission for the vehicle according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, and further including a shift position sensor for detecting the shift-turning position of the shift drum, said shifting position sensor being secured to an outer surface of a gear cover for detecting the turning amounts of a to-be-detected member and the shift drum and a speed reduction mechanism being interposed between the portion of the to-be-detected member projecting from the shift cover and the shifting position sensor, said speed reduction mechanism reduces a turn-operation amount of the to-be-detected member and transmits the turn-operation amount to the shift position sensor.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. A transmission for a vehicle, comprising:
+<claim-text>a plurality of gear trains for respective speed steps accommodated in an engine case to enable selective establishment;</claim-text>
+<claim-text>a shift drum turnably carried by the engine case so as to selectively establish the gear trains in response to a turning position;</claim-text>
+<claim-text>shifting position changing drive means covering one end of the shift drum so as to drivingly turn the shift drum in response to shifting operation; and</claim-text>
+<claim-text>a shifting position sensor for detecting which one of the gear trains is being established;</claim-text>
+<claim-text>wherein a to-be-detected member connected to one end of the shift drum so as to be rotatable with the shift drum but to be incapable of relative rotation is turnably passed through an opening portion provided in the shifting position changing drive means and extends to a side opposite to the shift drum; and</claim-text>
+<claim-text>the shifting position sensor for detecting a turning operation amount of the to-be-detected member is secured to a cover member mounted to the engine case so as to cover an external end of the to-be-detected member.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The transmission for the vehicle according to <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the to-be-detected member formed like a bar to extend in an axial direction of the shift drum and the shift drum are arranged coaxially with each other.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The transmission for the vehicle according to <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein a speed reduction mechanism is interposed between the to-be-detected member and the shifting position sensor to reduce a turning operation amount of the to-be-detected member and transmit the turning operation amount reduced toward the shifting position sensor.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The transmission for the vehicle according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein a speed reduction mechanism is interposed between the to-be-detected member and the shifting position sensor to reduce a turning operation amount of the to-be-detected member and transmit the turning operation amount reduced toward the shifting position sensor.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The transmission for the vehicle according to <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein a shift cover covering the shifting position changing means is mounted to the engine case;
+<claim-text>the shifting position sensor connected to a portion of the to-be-detected member projecting from the shift cover is secured to an external surface of the cover member mounted to the shift cover so as to cover a portion of the shift cover.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The transmission for the vehicle according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein a shift cover covering the shifting position changing means is mounted to the engine case;
+<claim-text>the shifting position sensor connected to a portion of the to-be-detected member projecting from the shift cover is secured to an external surface of the cover member mounted to the shift cover so as to cover a portion of the shift cover.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The transmission for the vehicle according to <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein a shift cover covering the shifting position changing means is mounted to the engine case;
+<claim-text>the shifting position sensor connected to a portion of the to-be-detected member projecting from the shift cover is secured to an external surface of the cover member mounted to the shift cover so as to cover a portion of the shift cover.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The transmission for the vehicle according to <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein a shift cover covering the shifting position changing means is mounted to the engine case;
+<claim-text>the shifting position sensor connected to a portion of the to-be-detected member projecting from the shift cover is secured to an external surface of the cover member mounted to the shift cover so as to cover a portion of the shift cover.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The transmission for the vehicle according to <claim-ref idref="CLM-00010">claim 10</claim-ref>, and further including a speed reduction mechanism being interposed between the portion of the to-be-detected member projecting from the shift cover and the shifting position sensor, said speed reduction mechanism reduces a turn-operation amount of the to-be-detected member and transmits the turn-operation amount to the shift position sensor.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The transmission for the vehicle according to <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein the to-be-detected member is turnably passed through an opening portion provided in the shifting position changing drive means and the shifting position sensor is secured to the outer surface of a gear member covering an external end of the to-be-detected member. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891030-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891030</doc-number>
+<kind>B1</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12231352</doc-number>
+<date>20080902</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>354</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>47</class>
+<subclass>K</subclass>
+<main-group>11</main-group>
+<subgroup>06</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>  4483</main-classification>
+<further-classification>  4902</further-classification>
+</classification-national>
+<invention-title id="d2e53">Child training bathroom toilet</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>4883749</doc-number>
+<kind>A</kind>
+<name>Roberts et al.</name>
+<date>19891100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>434247</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>5008964</doc-number>
+<kind>A</kind>
+<name>Dean et al.</name>
+<date>19910400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  4661</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>5926864</doc-number>
+<kind>A</kind>
+<name>Lynch</name>
+<date>19990700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  4483</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>6038711</doc-number>
+<kind>A</kind>
+<name>Clarke</name>
+<date>20000300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  4449</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>6829788</doc-number>
+<kind>B1</kind>
+<name>Allen</name>
+<date>20041200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  4483</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>2004/0133971</doc-number>
+<kind>A1</kind>
+<name>Davis et al.</name>
+<date>20040700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  4483</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>20</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>  4479</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  4483-484</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  4902</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>3</number-of-drawing-sheets>
+<number-of-figures>6</number-of-figures>
+</figures>
+<us-related-documents>
+<continuation-in-part>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>11351701</doc-number>
+<date>20060210</date>
+</document-id>
+<parent-status>ABANDONED</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>12231352</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation-in-part>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60652781</doc-number>
+<date>20050214</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Sutton</last-name>
+<first-name>Faith</first-name>
+<address>
+<street>3339 Carter La.</street>
+<city>Chester</city>
+<state>PA</state>
+<postcode>19013</postcode>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Tracy</last-name>
+<first-name>Emery L.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<examiners>
+<primary-examiner>
+<last-name>Phillips</last-name>
+<first-name>Charles</first-name>
+<department>3751</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A toilet for use with training a child is provided. The toilet comprises a main toilet portion having a backrest and a pair of arm rests. A bowl rests within the main toilet portion. A seat is positioned over the bowl. A CD player is integrated into the main toilet portion. A plurality of finger-shaped recesses are formed on a top surface and front surface of the arm rests with the child's fingers receivable within the recesses. A sensor is positioned between the main toilet portion and the bowl with the bowl resting upon the sensor wherein upon the child contacting the finger-shaped recesses, the arm rests and recesses light up and make sounds and wherein upon bodily waste entering the bowl, the weight change of the bowl against the sensor automatically activates the CD player.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="102.62mm" wi="116.84mm" file="US07891030-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="231.14mm" wi="170.18mm" file="US07891030-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="180.09mm" wi="141.31mm" file="US07891030-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="165.78mm" wi="85.51mm" file="US07891030-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<p id="p-0002" num="0001">The present application is a continuation-in-part of U.S. patent application Ser. No. 11/351,701, filed on Feb. 10, 2006, now abandoned entitled &#x201c;Child Training Bathroom Toilet&#x201d; which claims the benefit of priority of pending provisional patent application Ser. No. 60/652,781, filed on Feb. 14, 2005, entitled &#x201c;Love My Potty&#x201d;.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">1. Field of the Invention</p>
+<p id="p-0004" num="0003">This invention relates generally to a child training bathroom toilet and, more particularly, the invention relates to a child training bathroom toilet which captures a child's attention thereby facilitating the quick and efficient potty training of that child.</p>
+<p id="p-0005" num="0004">2. Description of the Prior Art</p>
+<p id="p-0006" num="0005">The anticipated arrival of a new baby is a joyous time for most couples. As the expectant mother's belly swells, an expectant father might help out by transforming his den or office into a newly decorated nursery. As diapers, bottles, and other accessories are purchased, birthing classes are attended and books are read, the coming birth is made all the more meaningful with each passing day. Friends, grandparents-to-be and other family members give thoughtful advice to the expectant parents and baby showers are thrown honoring the blessed event. Although the birth or adoption of a baby is a joyous time, nothing can fully prepare parents for the hard work involved once the baby is actually born. While children are an incredible joy, getting through the first few years of a baby's development can be extremely difficult. Fevers and tempers brought on by colic and teething can render parents concerned and frustrated while sleepless nights spent rocking a restless infant can leave them exhausted. However, snuggling a baby close to one's heart, comforting them when thy cry, or seeing a toddler take their first few steps, makes all the pitfalls of parenting more than worthwhile. Over time, parents adjust to the schedules and needs of their newborns and sleepless nights and chaotic days give way to a more relaxed routine.</p>
+<p id="p-0007" num="0006">While the joys of parenting have never been disputed, there is one task in regards to a child's upbringing which can be quite challenging. Specifically, potty training a child can be a trying time for both the parent and the toddler. Coaching a child in the use of the potty, encouraging them when they have the occasional &#x201c;accident&#x201d; and wiping away tears when a child gets frustrated, are but a few of the many occurrences experienced by parents or caregivers of potty training toddlers. Most parents agree that the first step to potty training involves purchasing a potty seat. Similar in function to a standard toilet, potty seats are scaled appropriately for use by toddlers and typically feature a removable bowl for easy cleaning and maintenance. Although extremely practical items, encouraging a child to actually sit on the potty long enough to use the facilities, can be extremely difficult. As many parents and professionals would attest, most toddlers have relatively short attention spans. Because of this, sitting in the same place for extended periods, without squirming or attempting to get up, can be a daunting task for many little ones. Resulting in a child getting up from the potty before they have actually gone to the bathroom, this inability to sit still can make the task of potty training a child that much harder.</p>
+<heading id="h-0002" level="1">SUMMARY</heading>
+<p id="p-0008" num="0007">The present invention is a toilet for use with training a child. The toilet comprises a main toilet portion having a backrest and a pair of arm rests. A bowl rests within the main toilet portion. A seat is positioned over the bowl. A CD player is integrated into the main toilet portion. A plurality of finger-shaped recesses are formed on a top surface and front surface of the arm rests with the child's fingers receivable within the recesses. A sensor is positioned between the main toilet portion and the bowl with the bowl resting upon the sensor wherein upon the child contacting the finger-shaped recesses, the arm rests and recesses light up and make sounds and wherein upon bodily waste entering the bowl, the weight change of the bowl against the sensor automatically activates the CD player.</p>
+<p id="p-0009" num="0008">In addition, the present invention includes a method teaching a child to use a toilet. The method comprises providing a main toilet portion having a backrest and a pair of arm rests, resting a bowl within the main toilet portion, positioning a seat over the bowl, forming a plurality of finger-shaped recesses on a top surface and front surface of the arm rests, positioning a child's fingers within the recesses, activating lights and sounds in the arm rests and recesses, integrating a CD player into the main toilet portion, positioning a sensor between the main toilet portion and the bowl, and automatically activating the CD player upon bodily waste entering the bowl.</p>
+<p id="p-0010" num="0009">The present invention further includes a toilet for use with training a child. The toilet comprises a main toilet portion having a backrest and a pair of arm rests. A plurality of finger-shaped recesses are formed on a top surface and front surface of the arm rests with the child's fingers receivable within the recesses. A cup holder is formed in at least one of the arm rests. A bowl rests within the main toilet portion. A seat is positioned over the bowl. At least one hook secured to the main toilet portion adjacent the arm rests with each hook positioned directly under one of the arm rests and non-releasable by the child while sitting on the seat. A CD player is integrated into the main toilet portion. A sensor is positioned between the main toilet portion and the bowl wherein the arm rests are constructed from any variety of colors and light up and make sounds upon touch of the child within the recesses and wherein upon bodily waste entering the bowl, the sensor automatically activates the CD player.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. 1</figref> is a front perspective view illustrating a child training bathroom toilet, constructed in accordance with the present invention;</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. 2</figref> is a rear perspective view illustrating the child training bathroom toilet, constructed in accordance with the present invention;</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 3</figref> is another front perspective view illustrating the child training bathroom toilet, constructed in accordance with the present invention;</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 4</figref> is an elevational side view illustrating the child training bathroom toilet, constructed in accordance with the present invention;</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 5</figref> is a top plan view illustrating the child training bathroom toilet, constructed in accordance with the present invention; and</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 6</figref> is a rear elevational view illustrating the child training bathroom toilet, constructed in accordance with the present invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENTS</heading>
+<p id="p-0017" num="0016">As illustrated in <figref idref="DRAWINGS">FIGS. 1-6</figref>, the present invention is a child training bathroom toilet, indicated generally at <b>10</b>, for teaching a child to use a standard adult-sized toilet. The toilet <b>10</b> of the present invention specifically captures a child's attention thereby facilitating the quick and efficient potty training of the child.</p>
+<p id="p-0018" num="0017">The toilet <b>10</b> of the present invention includes a main toilet portion <b>12</b> being gently contoured to include integrated arm rests <b>14</b> and a backrest <b>16</b> and having a flat base surface <b>18</b> for resting directly on the ground. Preferably, the arm rests <b>14</b> are constructed from any variety of colors and light up and make sounds upon touch of the child. In addition, the arm rests <b>14</b> include a plurality of finger-shaped recesses <b>15</b> which, when the child positions their fingers in the recesses <b>15</b>, cause the recesses <b>15</b> and the arm rests <b>14</b> to light up and make sounds. In a preferred embodiment, the recesses <b>15</b> are formed in both a top surface and a front surface of the arm rests <b>14</b> allowing a child's fingers to naturally curl around the front surface of the arm rests <b>14</b> while being received within the recesses <b>15</b>. Underneath the recesses <b>15</b> is a small opening releasably sealable with a small screw for receiving a battery that is used to activate the lights and sounds. Preferably, the main toilet portion <b>12</b> is constructed from a durable, lightweight plastic material although constructing the main toilet portion <b>12</b> from other materials is within the scope of the present invention. A cup holder <b>20</b> or the like can be formed in one or both of the arm rests <b>14</b> for receiving a cup (not shown). In addition, the toilet <b>10</b> of the present invention includes specially designed hooks <b>22</b> evenly spaced about either side of the arm rests <b>14</b> on which various interactive toys (not shown) are positioned for entertaining the child while using the toilet <b>10</b>. The interactive toys can be packaged and sold with the toilet <b>10</b> or can be other items desired by the parent or child. Any type of child toy can be suspended from the hooks <b>22</b> in any convenient manner. It is important that the hooks <b>22</b> have a releasable locking mechanism such that only the supervising adult is able to attach and detach the toys.</p>
+<p id="p-0019" num="0018">The toilet <b>10</b> of the present invention further includes an oval shaped seat <b>24</b> which is positioned directly over a substantially circular shaped, removable bowl <b>26</b>. The oval shaped seat <b>24</b> is preferably removable and cushioned and can include a raised portion <b>25</b> at the front to cover a boy's private parts. For sanitary and aesthetic purposes, the removable bowl <b>26</b> is discreetly hidden beneath a hinged, oval shaped lid <b>28</b>. The lid <b>28</b> is hingedly connected to the main toilet portion <b>12</b>. When lifted, the lid <b>28</b> rests flush against the integrated backrest <b>16</b> located at the rear of the main toilet portion <b>12</b>. The toilet <b>10</b> of the present invention can be manufactured in an array of vibrant colors and can be adorned with a wide variety of popular licensed characters including, but not limited to, Big Bird&#xae;, Bert&#xae;, Ernie&#xae;, Cookie Monster&#xae;, and Grover&#xae;, from the popular Sesame Street&#xb0; series, as well as images from the hit Nickelodeon&#xb0; children show &#x201c;Dora the Explorer&#xae;&#x201d;. It should be noted that decoration of the toilet <b>10</b> of the present invention can be accomplished by the parents, if desired, with stickers, markers, or the like.</p>
+<p id="p-0020" num="0019">The toilet <b>10</b> of the present invention further yet includes interactive features that encourage the child to stay seated on the toilet <b>10</b>. Positioned on the back rest <b>16</b> out of sight and reach of the child is a compact disc (CD) player <b>30</b> featuring an integrated volume control <b>32</b> for adjusting the volume of the CD player <b>30</b> to a desired level, a switch <b>33</b> for turning the CD player <b>30</b> either on or off and alternating between continual play and sensor activated play, and a speaker <b>35</b>. The switch <b>33</b> further allows the CD player <b>30</b> to be set to play a first selection while the child is sitting on the toilet <b>10</b> and then, play a different selection, such as a song of praise, upon sensing the child has created liquid or solid waste matter, as will be described in further detail below or to play a song of praise or offer words of congratulations upon sensing the child has created liquid or solid waste material.</p>
+<p id="p-0021" num="0020">A slot <b>34</b> can be provided for receiving various compact discs (not shown) as desired by the parent to accomplish as set forth above. Designed to play a series of CD's boasting positive messages and words of encouragement which are developed specifically for use with the toilet <b>10</b>, the CD player <b>30</b> can be activated via a sensor mechanism <b>36</b> located on the toilet <b>10</b>. An eject button <b>37</b> allows the user to remove the CDs, as desired.</p>
+<p id="p-0022" num="0021">The removable bowl <b>26</b> is positioned directly on top of the sensor mechanism <b>36</b>. Once triggered by the weight change of the bowl <b>26</b> by liquid or solid waste matter entering the bowl <b>26</b>, the sensor mechanism <b>36</b> initializes the CD player <b>30</b> providing the child instant words of congratulations and praise. The CD player <b>30</b> can also be activated manually thus entertaining the child with music or stories as they sit on the toilet <b>10</b>. Appropriate switching and wiring are provided to accomplish the goals and features of the present invention.</p>
+<p id="p-0023" num="0022">Preferably, the CD player <b>30</b> of the toilet <b>10</b> of the present invention is powered by an internally contained battery such as a standard nine-volt of D alkaline battery located within a battery compartment <b>38</b> in the main toilet portion <b>12</b>. Powering the CD player <b>30</b> of the toilet <b>10</b> by other means is also within the scope of the present invention.</p>
+<p id="p-0024" num="0023">The toilet <b>10</b> of the present invention further includes an adjustable seat belt <b>37</b> with a latching mechanism for releasably securing the seat belt <b>37</b> about the child. The seat belt <b>37</b> assures that the child does not accidentally fall from the toilet <b>10</b> while in use.</p>
+<p id="p-0025" num="0024">The use of the toilet <b>10</b> of the present invention will now be described in detail. It will be understood by those persons skilled in the art that the manner of use of using the toilet <b>10</b> described herein is simply one manner of use and other manners of use are within the scope of the present invention.</p>
+<p id="p-0026" num="0025">The toilet <b>10</b> is positioned on a flat, horizontal surface in a desired location. For instance, the parent or caregiver positions the toilet <b>10</b> in a designated area within the home, such as a bathroom. To use the toilet <b>10</b>, the child simply lifts up the toilet seat lid <b>28</b>, sitting down on the seat <b>24</b> of the toilet <b>10</b> as they would any other conventional potty chair. As the child sits, he or she can remove one or more of the interactive toys located on the integrated hook closures <b>22</b> positioned on either side of the main toilet portion <b>12</b> thus serving to pass the time spent sitting on the toilet <b>10</b> in a fun and entertaining manner. Once the child has completed his or her use of the facilities, the sensor mechanism <b>36</b> located at the bottom of the removable bowl <b>26</b> is activated thereby activating the integrated CD player <b>30</b>. When this occurs, the encouraging sounds of praise and congratulations are heard throughout the bathroom, as well as alerting Mom or Dad to a job well done. After use, the toilet bowl <b>26</b> is emptied, cleaned, and set back in the main toilet portion <b>12</b> of the toilet <b>10</b>, until the toilet <b>10</b> is again needed.</p>
+<p id="p-0027" num="0026">The toilet <b>10</b> of the present invention is a unique product offering consumers many significant benefits and advantages. Foremost, the toilet <b>10</b> effectively encourages a child in the use of the potty. Featuring a fully functioning compact disc player <b>30</b>, the toilet <b>10</b> provides a fun and friendly way in which to keep a child entertained and occupied for extensive periods while they sit on the toilet <b>10</b>. Capturing a child's attention and imagination through entertaining, interactive toys, the toilet <b>10</b> provides simulating auditory congratulations and encouragement once a child has successfully used the toilet <b>10</b>. Because of this, a child who routinely uses the toilet <b>10</b> of the present invention effectively learns to use the toilet <b>10</b> in a faster, more efficient manner.</p>
+<p id="p-0028" num="0027">A learning tool, parents and caregivers appreciate that with the toilet <b>10</b> of the present invention, their child learns to associate the toilet <b>10</b> with its designated function thus greatly reducing the &#x201c;accidents&#x201d; which so often occur when a child is potty trained. Alerting the parent, via the integrated sensor mechanism <b>36</b> and compact disc player <b>30</b>, that the child has successfully utilized the potty, the toilet <b>10</b> provides an auditory reminder to Moms and Dads that their child deserves parental praise. Portable, the toilet <b>10</b> is easily packed for a family vacation or event for an afternoon trip to Grandma's house. Although designed with the general household use in mind, the toilet <b>10</b> is well suited for use in day care centers and similar establishments. Durably constructed of heavy-duty plastic materials, the toilet <b>10</b> can be passed down from one child to the next, ensuring years of continual use.</p>
+<p id="p-0029" num="0028">The foregoing exemplary descriptions and the illustrative preferred embodiments of the present invention have been explained in the drawings and described in detail, with varying modifications and alternative embodiments being taught. While the invention has been so shown, described and illustrated, it should be understood by those skilled in the art that equivalent changes in form and detail may be made therein without departing from the true spirit and scope of the'invention, and that the scope of the present invention is to be limited only to the claims except as precluded by the prior art. Moreover, the invention as disclosed herein, may be suitably practiced in the absence of the specific elements which are disclosed herein.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A toilet for use with training a child, the toilet comprising:
+<claim-text>a main toilet portion having a backrest and a pair of arm rests;</claim-text>
+<claim-text>a bowl resting within the main toilet portion;</claim-text>
+<claim-text>a seat positioned over the bowl;</claim-text>
+<claim-text>a CD player integrated into the main toilet portion;</claim-text>
+<claim-text>a plurality of finger-shaped recesses formed on a top surface and front surface of the arm rests, the child's fingers receivable within the recesses; and</claim-text>
+<claim-text>a sensor positioned between the main toilet portion and the bowl, the bowl resting upon the sensor;</claim-text>
+<claim-text>wherein upon the child contacting the finger-shaped recesses, the arm rests and recesses light up and make sounds; and</claim-text>
+<claim-text>wherein upon bodily waste entering the bowl, the weight change of the bowl against the sensor automatically activates the CD player.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The toilet of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the main toilet portion is constructed from a plastic material, the backrest and arm rests being integrally constructed.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The toilet of <claim-ref idref="CLM-00001">claim 1</claim-ref> and further comprising:
+<claim-text>a lid closable over the bowl, the lid hingedly connected to the main toilet portion.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The toilet of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the CD player includes a volume control.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The toilet of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein upon being automatically activated, the CD plays words or songs of encouragement to the child.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The toilet of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the CD player plays any desired CD, the CD player playing a first selection and a second selection, the first selection playing as the child sits on the toilet, the second selection playing when the child has a liquid or solid waste enter the bowl.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The toilet of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the seat is padded.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The toilet of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the arm rests are constructed from any variety of colors and light up and make sounds upon touch of the child.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The toilet of <claim-ref idref="CLM-00001">claim 1</claim-ref> and further comprising:
+<claim-text>a cup holder formed in at least one of the arm rests.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The toilet of <claim-ref idref="CLM-00001">claim 1</claim-ref> and further comprising:
+<claim-text>at least one hook secured to the main toilet portion adjacent the arm rests, each hook positioned directly under one of the arm rests, the hooks being constructed to releasably lock a toy to the hooks.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. A method for teaching a child to use a toilet, the method comprising:
+<claim-text>providing a main toilet portion having a backrest and a pair of arm rests;</claim-text>
+<claim-text>resting a bowl within the main toilet portion;</claim-text>
+<claim-text>positioning a seat over the bowl;</claim-text>
+<claim-text>forming a plurality of finger-shaped recesses on a top surface and front surface of the arm rests;</claim-text>
+<claim-text>positioning a child's fingers within the recesses;</claim-text>
+<claim-text>activating lights and sounds in the arm rests and recesses, when a child's fingers are positioned within said recesses;</claim-text>
+<claim-text>integrating a CD player into the main toilet portion;</claim-text>
+<claim-text>positioning a sensor between the main toilet portion and the bowl; and</claim-text>
+<claim-text>automatically activating the CD player upon bodily waste entering the bowl.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The method of <claim-ref idref="CLM-00011">claim 11</claim-ref> and further comprising:
+<claim-text>securing at least one hook to the main toilet portion directly under the arm rests; and</claim-text>
+<claim-text>releasably locking a toy to the hook.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The method of <claim-ref idref="CLM-00011">claim 11</claim-ref> and further comprising:
+<claim-text>integrally constructing the backrest and arm rests with the main toilet portion.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The method of <claim-ref idref="CLM-00011">claim 11</claim-ref> and further comprising:
+<claim-text>hingedly connecting a lid to the main toilet portion.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The method of <claim-ref idref="CLM-00011">claim 11</claim-ref> and further comprising:
+<claim-text>providing a volume control for the CD player.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The method of <claim-ref idref="CLM-00011">claim 11</claim-ref> and further comprising:
+<claim-text>playing words or songs of encouragement to the child when the CD player is automatically activated.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The method of <claim-ref idref="CLM-00011">claim 11</claim-ref> and further comprising:
+<claim-text>playing any desired CD in the CD plays.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. A toilet for use with training a child, the toilet comprising:
+<claim-text>a main toilet portion having a backrest and a pair of arm rests;</claim-text>
+<claim-text>a plurality of finger-shaped recesses formed on a top surface and front surface of the arm rests, the child's fingers receivable within the recesses;</claim-text>
+<claim-text>a cup holder formed in at least one of the arm rests;</claim-text>
+<claim-text>a bowl resting within the main toilet portion;</claim-text>
+<claim-text>a seat positioned over the bowl;</claim-text>
+<claim-text>at least one hook secured to the main toilet portion adjacent the arm rests, each hook positioned directly under one of the arm rests and non-releasable by the child while sitting on the seat;</claim-text>
+<claim-text>a CD player integrated into the main toilet portion; and</claim-text>
+<claim-text>a sensor positioned between the main toilet portion and the bowl;</claim-text>
+<claim-text>wherein the arm rests are constructed from any variety of colors and light up and make sounds upon touch of the child within the recesses; and</claim-text>
+<claim-text>wherein upon bodily waste entering the bowl, the sensor automatically activates the CD player.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The toilet of <claim-ref idref="CLM-00018">claim 18</claim-ref> wherein the seat is padded.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The toilet of <claim-ref idref="CLM-00018">claim 18</claim-ref> wherein the CD player plays any desired CD, the CD player playing a first selection and a second selection, the first selection playing as the child sits on the toilet, the second selection playing when the child has a liquid or solid waste enter the bowl.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

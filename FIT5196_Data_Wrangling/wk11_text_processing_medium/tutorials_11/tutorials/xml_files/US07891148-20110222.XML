@@ -1,0 +1,1752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891148-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891148</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11533206</doc-number>
+<date>20060919</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>870</us-term-extension>
+<disclaimer>
+<text>This patent is subject to a terminal disclaimer.</text>
+</disclaimer>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>E</section>
+<class>04</class>
+<subclass>H</subclass>
+<main-group>1</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 52239</main-classification>
+<further-classification> 522207</further-classification>
+<further-classification> 52 17</further-classification>
+</classification-national>
+<invention-title id="d2e55">Partition system</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>1666414</doc-number>
+<kind>A</kind>
+<name>Foster</name>
+<date>19280400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>2121213</doc-number>
+<kind>A</kind>
+<name>Small</name>
+<date>19380600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>2357819</doc-number>
+<kind>A</kind>
+<name>Greer</name>
+<date>19440900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>2982379</doc-number>
+<kind>A</kind>
+<name>Fisher</name>
+<date>19610500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>3095070</doc-number>
+<kind>A</kind>
+<name>McDonald</name>
+<date>19630600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>3290846</doc-number>
+<kind>A</kind>
+<name>Mader et al.</name>
+<date>19661200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>3425568</doc-number>
+<kind>A</kind>
+<name>Albright</name>
+<date>19690200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>3622012</doc-number>
+<kind>A</kind>
+<name>Lundgren</name>
+<date>19711100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>3686805</doc-number>
+<kind>A</kind>
+<name>Pofferi</name>
+<date>19720800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>3745732</doc-number>
+<kind>A</kind>
+<name>Pritchard et al.</name>
+<date>19730700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>3875711</doc-number>
+<kind>A</kind>
+<name>Palmer</name>
+<date>19750400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>3916972</doc-number>
+<kind>A</kind>
+<name>Breiner</name>
+<date>19751100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>4008872</doc-number>
+<kind>A</kind>
+<name>Thompson</name>
+<date>19770200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>4034864</doc-number>
+<kind>A</kind>
+<name>Tyson et al.</name>
+<date>19770700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>4136785</doc-number>
+<kind>A</kind>
+<name>McDevitt</name>
+<date>19790100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>4274687</doc-number>
+<kind>A</kind>
+<name>Bayles et al.</name>
+<date>19810600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>4338990</doc-number>
+<kind>A</kind>
+<name>Blodee et al.</name>
+<date>19820700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>4508300</doc-number>
+<kind>A</kind>
+<name>Minick</name>
+<date>19850400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>4535577</doc-number>
+<kind>A</kind>
+<name>Tenser et al.</name>
+<date>19850800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>4542832</doc-number>
+<kind>A</kind>
+<name>Minick et al.</name>
+<date>19850900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>4573513</doc-number>
+<kind>A</kind>
+<name>Small et al.</name>
+<date>19860300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>4602470</doc-number>
+<kind>A</kind>
+<name>Stuart et al.</name>
+<date>19860700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>4631881</doc-number>
+<kind>A</kind>
+<name>Charman</name>
+<date>19861200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>4660339</doc-number>
+<kind>A</kind>
+<name>Paz</name>
+<date>19870400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>4876835</doc-number>
+<kind>A</kind>
+<name>Kelley et al.</name>
+<date>19891000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>4944122</doc-number>
+<kind>A</kind>
+<name>Wendt</name>
+<date>19900700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>5038539</doc-number>
+<kind>A</kind>
+<name>Kelley et al.</name>
+<date>19910800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>5056285</doc-number>
+<kind>A</kind>
+<name>Frascaroli et al.</name>
+<date>19911000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>D321801</doc-number>
+<kind>S</kind>
+<name>Friedman</name>
+<date>19911100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>5129200</doc-number>
+<kind>A</kind>
+<name>Kaneko</name>
+<date>19920700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>5142832</doc-number>
+<kind>A</kind>
+<name>Branham, Sr. et al.</name>
+<date>19920900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>5155955</doc-number>
+<kind>A</kind>
+<name>Ball et al.</name>
+<date>19921000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>5230197</doc-number>
+<kind>A</kind>
+<name>Hart</name>
+<date>19930700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>5309686</doc-number>
+<kind>A</kind>
+<name>Underwood et al.</name>
+<date>19940500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>5328287</doc-number>
+<kind>A</kind>
+<name>Gilb</name>
+<date>19940700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00036">
+<document-id>
+<country>US</country>
+<doc-number>5345737</doc-number>
+<kind>A</kind>
+<name>Latchinian</name>
+<date>19940900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00037">
+<document-id>
+<country>US</country>
+<doc-number>5394668</doc-number>
+<kind>A</kind>
+<name>Lim</name>
+<date>19950300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00038">
+<document-id>
+<country>US</country>
+<doc-number>5399044</doc-number>
+<kind>A</kind>
+<name>Gilb</name>
+<date>19950300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00039">
+<document-id>
+<country>US</country>
+<doc-number>5406760</doc-number>
+<kind>A</kind>
+<name>Edwards</name>
+<date>19950400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00040">
+<document-id>
+<country>US</country>
+<doc-number>5483779</doc-number>
+<kind>A</kind>
+<name>Crawford et al.</name>
+<date>19960100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00041">
+<document-id>
+<country>US</country>
+<doc-number>5537290</doc-number>
+<kind>A</kind>
+<name>Brown et al.</name>
+<date>19960700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00042">
+<document-id>
+<country>US</country>
+<doc-number>5634300</doc-number>
+<kind>A</kind>
+<name>Huebner et al.</name>
+<date>19970600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00043">
+<document-id>
+<country>US</country>
+<doc-number>5685113</doc-number>
+<kind>A</kind>
+<name>Reuter et al.</name>
+<date>19971100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 522207</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00044">
+<document-id>
+<country>US</country>
+<doc-number>5740650</doc-number>
+<kind>A</kind>
+<name>Seiber et al.</name>
+<date>19980400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00045">
+<document-id>
+<country>US</country>
+<doc-number>5746035</doc-number>
+<kind>A</kind>
+<name>Seiber et al.</name>
+<date>19980500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 522381</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00046">
+<document-id>
+<country>US</country>
+<doc-number>5784843</doc-number>
+<kind>A</kind>
+<name>Greer et al.</name>
+<date>19980700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00047">
+<document-id>
+<country>US</country>
+<doc-number>5816001</doc-number>
+<kind>A</kind>
+<name>Goodman et al.</name>
+<date>19981000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00048">
+<document-id>
+<country>US</country>
+<doc-number>5881500</doc-number>
+<kind>A</kind>
+<name>Latino et al.</name>
+<date>19990300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00049">
+<document-id>
+<country>US</country>
+<doc-number>5881518</doc-number>
+<kind>A</kind>
+<name>Edwards et al.</name>
+<date>19990300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00050">
+<document-id>
+<country>US</country>
+<doc-number>5899035</doc-number>
+<kind>A</kind>
+<name>Waalkes et al.</name>
+<date>19990500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00051">
+<document-id>
+<country>US</country>
+<doc-number>5921040</doc-number>
+<kind>A</kind>
+<name>Glashouwer et al.</name>
+<date>19990700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00052">
+<document-id>
+<country>US</country>
+<doc-number>5950386</doc-number>
+<kind>A</kind>
+<name>Shipman et al.</name>
+<date>19990900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00053">
+<document-id>
+<country>US</country>
+<doc-number>5979118</doc-number>
+<kind>A</kind>
+<name>Gortsema et al.</name>
+<date>19991100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00054">
+<document-id>
+<country>US</country>
+<doc-number>6009676</doc-number>
+<kind>A</kind>
+<name>Feldpausch et al.</name>
+<date>20000100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00055">
+<document-id>
+<country>US</country>
+<doc-number>6067762</doc-number>
+<kind>A</kind>
+<name>Greer et al.</name>
+<date>20000500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 522207</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00056">
+<document-id>
+<country>US</country>
+<doc-number>6073399</doc-number>
+<kind>A</kind>
+<name>Shipman et al.</name>
+<date>20000600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00057">
+<document-id>
+<country>US</country>
+<doc-number>6079173</doc-number>
+<kind>A</kind>
+<name>Waalkes et al.</name>
+<date>20000600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00058">
+<document-id>
+<country>US</country>
+<doc-number>6112472</doc-number>
+<kind>A</kind>
+<name>Van Dyk et al.</name>
+<date>20000900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00059">
+<document-id>
+<country>US</country>
+<doc-number>6128876</doc-number>
+<kind>A</kind>
+<name>Nitschke et al.</name>
+<date>20001000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00060">
+<document-id>
+<country>US</country>
+<doc-number>6128877</doc-number>
+<kind>A</kind>
+<name>Goodman et al.</name>
+<date>20001000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00061">
+<document-id>
+<country>US</country>
+<doc-number>6173545</doc-number>
+<kind>B1</kind>
+<name>Feldpausch et al.</name>
+<date>20010100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00062">
+<document-id>
+<country>US</country>
+<doc-number>6230445</doc-number>
+<kind>B1</kind>
+<name>Arko et al.</name>
+<date>20010500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00063">
+<document-id>
+<country>US</country>
+<doc-number>6230459</doc-number>
+<kind>B1</kind>
+<name>Jeffers et al.</name>
+<date>20010500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00064">
+<document-id>
+<country>US</country>
+<doc-number>6266935</doc-number>
+<kind>B1</kind>
+<name>Seiber et al.</name>
+<date>20010700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00065">
+<document-id>
+<country>US</country>
+<doc-number>6282854</doc-number>
+<kind>B1</kind>
+<name>Vos et al.</name>
+<date>20010900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00066">
+<document-id>
+<country>US</country>
+<doc-number>D449748</doc-number>
+<kind>S</kind>
+<name>Martin et al.</name>
+<date>20011000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00067">
+<document-id>
+<country>US</country>
+<doc-number>6330773</doc-number>
+<kind>B1</kind>
+<name>MacDonald et al.</name>
+<date>20011200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00068">
+<document-id>
+<country>US</country>
+<doc-number>6349516</doc-number>
+<kind>B1</kind>
+<name>Powell et al.</name>
+<date>20020200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00069">
+<document-id>
+<country>US</country>
+<doc-number>6378255</doc-number>
+<kind>B1</kind>
+<name>Eich et al.</name>
+<date>20020400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00070">
+<document-id>
+<country>US</country>
+<doc-number>6425219</doc-number>
+<kind>B1</kind>
+<name>Barmak et al.</name>
+<date>20020700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00071">
+<document-id>
+<country>US</country>
+<doc-number>6442909</doc-number>
+<kind>B2</kind>
+<name>Waalkes et al.</name>
+<date>20020900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00072">
+<document-id>
+<country>US</country>
+<doc-number>6470990</doc-number>
+<kind>B1</kind>
+<name>Panoz</name>
+<date>20021000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00073">
+<document-id>
+<country>US</country>
+<doc-number>6516732</doc-number>
+<kind>B1</kind>
+<name>LaCombe et al.</name>
+<date>20030200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00074">
+<document-id>
+<country>US</country>
+<doc-number>6540094</doc-number>
+<kind>B1</kind>
+<name>Baloga et al.</name>
+<date>20030400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00075">
+<document-id>
+<country>US</country>
+<doc-number>6553731</doc-number>
+<kind>B2</kind>
+<name>Hsueh</name>
+<date>20030400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00076">
+<document-id>
+<country>US</country>
+<doc-number>D481226</doc-number>
+<kind>S</kind>
+<name>Overthun et al.</name>
+<date>20031000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00077">
+<document-id>
+<country>US</country>
+<doc-number>6665935</doc-number>
+<kind>B2</kind>
+<name>Panoz</name>
+<date>20031200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00078">
+<document-id>
+<country>US</country>
+<doc-number>D485096</doc-number>
+<kind>S</kind>
+<name>Overthun et al.</name>
+<date>20040100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00079">
+<document-id>
+<country>US</country>
+<doc-number>6729244</doc-number>
+<kind>B2</kind>
+<name>Cattaneo</name>
+<date>20040500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00080">
+<document-id>
+<country>US</country>
+<doc-number>6745525</doc-number>
+<kind>B2</kind>
+<name>High</name>
+<date>20040600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00081">
+<document-id>
+<country>US</country>
+<doc-number>6751914</doc-number>
+<kind>B2</kind>
+<name>Zeh et al.</name>
+<date>20040600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00082">
+<document-id>
+<country>US</country>
+<doc-number>6789268</doc-number>
+<kind>B2</kind>
+<name>Yan</name>
+<date>20040900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00083">
+<document-id>
+<country>US</country>
+<doc-number>6802169</doc-number>
+<kind>B2</kind>
+<name>Simmons</name>
+<date>20041000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00084">
+<document-id>
+<country>US</country>
+<doc-number>6837016</doc-number>
+<kind>B2</kind>
+<name>Simmons et al.</name>
+<date>20050100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00085">
+<document-id>
+<country>US</country>
+<doc-number>6883277</doc-number>
+<kind>B2</kind>
+<name>Wiechecki et al.</name>
+<date>20050400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00086">
+<document-id>
+<country>US</country>
+<doc-number>7150127</doc-number>
+<kind>B2</kind>
+<name>Underwood et al.</name>
+<date>20061200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00087">
+<document-id>
+<country>US</country>
+<doc-number>2002/0053174</doc-number>
+<kind>A1</kind>
+<name>Barmak</name>
+<date>20020500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00088">
+<document-id>
+<country>US</country>
+<doc-number>2003/0154673</doc-number>
+<kind>A1</kind>
+<name>MacGregor et al.</name>
+<date>20030800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00089">
+<document-id>
+<country>US</country>
+<doc-number>2003/0196388</doc-number>
+<kind>A1</kind>
+<name>Edwards</name>
+<date>20031000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>20</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 522207</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 52239</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 522369</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 522431</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>67</number-of-drawing-sheets>
+<number-of-figures>68</number-of-figures>
+</figures>
+<us-related-documents>
+<division>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>10453187</doc-number>
+<date>20030603</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>7150127</doc-number>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>11533206</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</division>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60386775</doc-number>
+<date>20020606</date>
+</document-id>
+</us-provisional-application>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60426994</doc-number>
+<date>20021115</date>
+</document-id>
+</us-provisional-application>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20070033894</doc-number>
+<kind>A1</kind>
+<date>20070215</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Underwood</last-name>
+<first-name>Robert A.</first-name>
+<address>
+<city>Jasper</city>
+<state>IN</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Metcalf</last-name>
+<first-name>Keith E.</first-name>
+<address>
+<city>Jasper</city>
+<state>IN</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Herbig</last-name>
+<first-name>Ryan A.</first-name>
+<address>
+<city>Jasper</city>
+<state>IN</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="004" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Mitchell</last-name>
+<first-name>J. Douglas</first-name>
+<address>
+<city>Newburgh</city>
+<state>IN</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Baker &#x26; Daniels LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Kimball International, Inc.</orgname>
+<role>02</role>
+<address>
+<city>Jasper</city>
+<state>IN</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Katcheves</last-name>
+<first-name>Basil</first-name>
+<department>3635</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A partition system for office spaces generally includes a framework and a plurality of different types of decorative and/or functional tiles mountable to the framework. The framework includes I- and C-shaped vertical frame members which are adjustably joined by upper and lower horizontal spanners such that the distance between the vertical frame members is adjustable. Also, the framework may include other types of vertical frame members for forming L-, T-, or X-junctions within the partition system framework. A variety of decorative and functional tiles are mountable to the framework, including retractable workspace tiles, several types of storage tiles, display tiles, window tiles, and electrical and data services tiles.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="164.68mm" wi="221.91mm" file="US07891148-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="221.40mm" wi="167.30mm" orientation="landscape" file="US07891148-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="161.37mm" wi="154.86mm" orientation="landscape" file="US07891148-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="206.42mm" wi="174.92mm" orientation="landscape" file="US07891148-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="225.04mm" wi="155.19mm" orientation="landscape" file="US07891148-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="228.35mm" wi="125.98mm" file="US07891148-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="208.20mm" wi="101.77mm" file="US07891148-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="213.36mm" wi="131.40mm" file="US07891148-20110222-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="228.01mm" wi="130.64mm" file="US07891148-20110222-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="174.92mm" wi="145.29mm" orientation="landscape" file="US07891148-20110222-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="208.20mm" wi="161.37mm" orientation="landscape" file="US07891148-20110222-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="225.81mm" wi="162.14mm" orientation="landscape" file="US07891148-20110222-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="193.29mm" wi="150.45mm" orientation="landscape" file="US07891148-20110222-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="153.42mm" wi="161.80mm" orientation="landscape" file="US07891148-20110222-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="174.16mm" wi="149.69mm" orientation="landscape" file="US07891148-20110222-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="190.67mm" wi="160.70mm" orientation="landscape" file="US07891148-20110222-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="224.71mm" wi="113.54mm" orientation="landscape" file="US07891148-20110222-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="235.71mm" wi="116.08mm" orientation="landscape" file="US07891148-20110222-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00018" num="00018">
+<img id="EMI-D00018" he="238.25mm" wi="114.64mm" orientation="landscape" file="US07891148-20110222-D00018.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00019" num="00019">
+<img id="EMI-D00019" he="239.69mm" wi="135.04mm" orientation="landscape" file="US07891148-20110222-D00019.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00020" num="00020">
+<img id="EMI-D00020" he="187.11mm" wi="158.07mm" orientation="landscape" file="US07891148-20110222-D00020.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00021" num="00021">
+<img id="EMI-D00021" he="166.79mm" wi="167.64mm" orientation="landscape" file="US07891148-20110222-D00021.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00022" num="00022">
+<img id="EMI-D00022" he="228.52mm" wi="109.39mm" file="US07891148-20110222-D00022.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00023" num="00023">
+<img id="EMI-D00023" he="164.51mm" wi="105.49mm" orientation="landscape" file="US07891148-20110222-D00023.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00024" num="00024">
+<img id="EMI-D00024" he="177.46mm" wi="168.49mm" orientation="landscape" file="US07891148-20110222-D00024.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00025" num="00025">
+<img id="EMI-D00025" he="171.28mm" wi="159.09mm" orientation="landscape" file="US07891148-20110222-D00025.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00026" num="00026">
+<img id="EMI-D00026" he="151.89mm" wi="157.40mm" orientation="landscape" file="US07891148-20110222-D00026.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00027" num="00027">
+<img id="EMI-D00027" he="226.74mm" wi="143.17mm" file="US07891148-20110222-D00027.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00028" num="00028">
+<img id="EMI-D00028" he="219.37mm" wi="162.05mm" orientation="landscape" file="US07891148-20110222-D00028.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00029" num="00029">
+<img id="EMI-D00029" he="193.29mm" wi="168.83mm" file="US07891148-20110222-D00029.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00030" num="00030">
+<img id="EMI-D00030" he="202.69mm" wi="156.55mm" file="US07891148-20110222-D00030.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00031" num="00031">
+<img id="EMI-D00031" he="223.27mm" wi="172.38mm" orientation="landscape" file="US07891148-20110222-D00031.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00032" num="00032">
+<img id="EMI-D00032" he="175.68mm" wi="171.45mm" file="US07891148-20110222-D00032.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00033" num="00033">
+<img id="EMI-D00033" he="236.39mm" wi="162.90mm" file="US07891148-20110222-D00033.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00034" num="00034">
+<img id="EMI-D00034" he="115.32mm" wi="150.45mm" orientation="landscape" file="US07891148-20110222-D00034.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00035" num="00035">
+<img id="EMI-D00035" he="183.39mm" wi="148.59mm" orientation="landscape" file="US07891148-20110222-D00035.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00036" num="00036">
+<img id="EMI-D00036" he="108.71mm" wi="114.22mm" file="US07891148-20110222-D00036.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00037" num="00037">
+<img id="EMI-D00037" he="137.33mm" wi="138.01mm" orientation="landscape" file="US07891148-20110222-D00037.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00038" num="00038">
+<img id="EMI-D00038" he="182.63mm" wi="159.60mm" orientation="landscape" file="US07891148-20110222-D00038.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00039" num="00039">
+<img id="EMI-D00039" he="218.44mm" wi="152.65mm" orientation="landscape" file="US07891148-20110222-D00039.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00040" num="00040">
+<img id="EMI-D00040" he="144.95mm" wi="150.45mm" orientation="landscape" file="US07891148-20110222-D00040.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00041" num="00041">
+<img id="EMI-D00041" he="189.57mm" wi="169.42mm" orientation="landscape" file="US07891148-20110222-D00041.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00042" num="00042">
+<img id="EMI-D00042" he="176.02mm" wi="150.11mm" orientation="landscape" file="US07891148-20110222-D00042.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00043" num="00043">
+<img id="EMI-D00043" he="185.17mm" wi="164.76mm" orientation="landscape" file="US07891148-20110222-D00043.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00044" num="00044">
+<img id="EMI-D00044" he="136.48mm" wi="141.65mm" orientation="landscape" file="US07891148-20110222-D00044.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00045" num="00045">
+<img id="EMI-D00045" he="131.40mm" wi="131.06mm" orientation="landscape" file="US07891148-20110222-D00045.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00046" num="00046">
+<img id="EMI-D00046" he="141.39mm" wi="130.89mm" orientation="landscape" file="US07891148-20110222-D00046.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00047" num="00047">
+<img id="EMI-D00047" he="120.23mm" wi="137.67mm" file="US07891148-20110222-D00047.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00048" num="00048">
+<img id="EMI-D00048" he="204.64mm" wi="166.03mm" orientation="landscape" file="US07891148-20110222-D00048.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00049" num="00049">
+<img id="EMI-D00049" he="162.81mm" wi="127.00mm" orientation="landscape" file="US07891148-20110222-D00049.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00050" num="00050">
+<img id="EMI-D00050" he="137.33mm" wi="124.04mm" orientation="landscape" file="US07891148-20110222-D00050.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00051" num="00051">
+<img id="EMI-D00051" he="171.96mm" wi="139.02mm" file="US07891148-20110222-D00051.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00052" num="00052">
+<img id="EMI-D00052" he="146.73mm" wi="147.74mm" orientation="landscape" file="US07891148-20110222-D00052.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00053" num="00053">
+<img id="EMI-D00053" he="177.46mm" wi="169.50mm" orientation="landscape" file="US07891148-20110222-D00053.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00054" num="00054">
+<img id="EMI-D00054" he="159.51mm" wi="159.60mm" orientation="landscape" file="US07891148-20110222-D00054.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00055" num="00055">
+<img id="EMI-D00055" he="158.83mm" wi="158.83mm" orientation="landscape" file="US07891148-20110222-D00055.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00056" num="00056">
+<img id="EMI-D00056" he="151.89mm" wi="141.99mm" orientation="landscape" file="US07891148-20110222-D00056.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00057" num="00057">
+<img id="EMI-D00057" he="142.07mm" wi="155.19mm" orientation="landscape" file="US07891148-20110222-D00057.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00058" num="00058">
+<img id="EMI-D00058" he="142.75mm" wi="136.91mm" orientation="landscape" file="US07891148-20110222-D00058.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00059" num="00059">
+<img id="EMI-D00059" he="191.43mm" wi="132.16mm" orientation="landscape" file="US07891148-20110222-D00059.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00060" num="00060">
+<img id="EMI-D00060" he="157.06mm" wi="143.17mm" orientation="landscape" file="US07891148-20110222-D00060.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00061" num="00061">
+<img id="EMI-D00061" he="122.26mm" wi="120.48mm" orientation="landscape" file="US07891148-20110222-D00061.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00062" num="00062">
+<img id="EMI-D00062" he="141.99mm" wi="153.50mm" orientation="landscape" file="US07891148-20110222-D00062.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00063" num="00063">
+<img id="EMI-D00063" he="175.26mm" wi="161.46mm" orientation="landscape" file="US07891148-20110222-D00063.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00064" num="00064">
+<img id="EMI-D00064" he="183.90mm" wi="120.57mm" orientation="landscape" file="US07891148-20110222-D00064.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00065" num="00065">
+<img id="EMI-D00065" he="178.48mm" wi="155.28mm" file="US07891148-20110222-D00065.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00066" num="00066">
+<img id="EMI-D00066" he="160.27mm" wi="139.11mm" orientation="landscape" file="US07891148-20110222-D00066.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00067" num="00067">
+<img id="EMI-D00067" he="165.95mm" wi="144.95mm" file="US07891148-20110222-D00067.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<p id="p-0002" num="0001">This application is a division of U.S. patent application Ser. No. 10/453,187, entitled PARTITION SYSTEM, filed on Jun. 3, 2003, which claims the benefit under Title 35, U.S.C. &#xa7;119(e) of U.S. Provisional Patent Application Ser. No. 60/386,775, entitled PARTITION SYSTEM, filed on Jun. 6, 2002, as well as U.S. Provisional Patent Application Ser. No. 60/426,994, entitled PARTITION SYSTEM, filed on Nov. 15, 2002.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">1. Field of the Invention</p>
+<p id="p-0004" num="0003">The present invention relates to partition systems of the type used in office spaces, and more particularly, to a movable and reconfigurable office partition system including a framework to which decorative and/or functional tiles are attached for subdividing an office space.</p>
+<p id="p-0005" num="0004">2. Description of the Related Art</p>
+<p id="p-0006" num="0005">Partition systems, which are used to divide interior office spaces, typically include a plurality of panels, each having a rectangular frame formed from vertical and horizontal frame members rigidly connected to one another. Panel tiles are mounted to the rectangular frames to cover the frames and to subdivide the office space into individual spaces such as work stations, conference rooms, and the like. Typically, the individual panels in the system are connected by attaching the rectangular frames of adjacent panels together along the side edges of the rectangular frames. The panels may be connected in an end-to-end manner to form a partition wall, or may be connected to one another to form L-, T-, or X-type panel-to-panel connections to form junctions between the partition walls.</p>
+<p id="p-0007" num="0006">In partition systems having the foregoing construction, the connections along the side edges of the rectangular panel frames are typically the weakest points in the entire partition system. Therefore, in order to provide rigid, durable connections between the panel frames, a plurality of brackets, latches, or other structures are needed, which may be difficult and tedious to install.</p>
+<p id="p-0008" num="0007">Additionally, known partition systems typically include decorative tiles for mounting to the panel frames to provide privacy between the individual work space areas within the office space which are formed by the partition system. The decorative tiles are sized to have a width which is co-extensive with the rectangular frames, which disadvantageously limits the locational positioning of the tiles on the frames and does not allow for flexibility in the configuration of the tiles relative to the frames.</p>
+<p id="p-0009" num="0008">Modular furniture components, such as work surfaces, cabinets and the like are typically mounted to the panels using specialized brackets or other hardware. Thus, the modular furniture components are disposed in a fixed position relative to the panels and are not easily movable or reconfigurable with respect thereto. In this manner, the decorative and space-dividing functions are performed by the decorative tile, while other functions, such as storage, are provided only by the modular furniture components.</p>
+<p id="p-0010" num="0009">Existing partition systems are substantially fixed after their initial installation, and do not permit easy reconfiguration thereof based upon changing space demands in a workspace. Existing systems further do not permit easy expansion, in which additional partition systems components are added to partition system components which are already installed.</p>
+<p id="p-0011" num="0010">What is needed is a partition system for office spaces which is an improvement over the foregoing.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0012" num="0011">The present invention provides a partition system for office spaces which generally includes a structure or framework, and a plurality of different types of decorative and/or functional tiles mountable to the framework. The framework includes I- and C-shaped vertical frame members which are adjustably joined by upper and lower horizontal spanners such that the distance between the vertical frame members is adjustable. Also, the framework may include other types of vertical frame members for forming L-, T-, or X-junctions within the partition system framework. Decorative tiles and a variety of functional tiles, are mountable to the framework, including retractable workspace tiles, several types of storage tiles, display tiles, window tiles, and electrical and data services tiles.</p>
+<p id="p-0013" num="0012">The horizontal spanners are adjustably mounted between the vertical frame members such that the distance between the vertical frame members may be modified as desired to create framework sections of varying width. The vertical frame members each include one or more upper and lower horizontal sub-frame members which are fixedly attached to the vertical frame members, and may also include one or more horizontal mid-channel members detachably mounted to the vertical frame members. The sub-frame members and mid-channel members support track members which extend horizontally along the partition system framework. The track members provide attachment points for mounting modular furniture components to the framework, and also support decorative and/or functional tiles on the framework. The number of mid-channel members may be varied to in turn vary the number and configuration of track members along the framework, which in turn allows tiles of varying height and/or width to be mounted upon the framework in a desired configuration.</p>
+<p id="p-0014" num="0013">The track members are attached to adjacent pairs of upper sub-frame members or to adjacent pairs of mid-channel members in a fastenerless manner, in which the track members are hung over edge portions of the upper sub-frame members and the mid-channel members. Thus, the track members are easily attachable to the framework without the use of fasteners or tools, such that the configuration of track members upon the framework, and in turn, the configuration of the tiles which are supported upon the framework by the track members, may be easily varied to suit the requirements of users of the partition system. Further, the track members each include anti-dislodgement structure cooperating with the upper sub-frame members and the mid-channel members.</p>
+<p id="p-0015" num="0014">The track members may extend horizontally along the framework, wherein the length of the track members is not determined by the placement or location of the vertical frame members within the framework. Further, each tile is supported between a pair of vertically spaced track members at any of an essentially infinite number of horizontal positions, regardless of the positioning of the underlying framework structure. In this manner, the placement and location of the tiles is not dependent upon the configuration of the framework which is covered by the tiles. Rather, the placement and location of the tiles is completely independent of the specific configuration of the framework.</p>
+<p id="p-0016" num="0015">Further, decorative tiles may be attached to the framework which either cover individual framework sections of the framework, or which span multiple framework sections or portions of adjacent framework sections. In this manner, because the tiles are attached to track members which may be configured differently on each side of the framework and which span one or more framework sections, the location and size of the tiles with respect to the framework need not correlate with the individual framework sections. Thus, for example, relatively large or wide tiles may be attached to the framework which span more than one framework section, and relatively smaller or narrow tiles may be used which span only one framework section or only a portion of a framework section. The track members are independently attachable to each side of the partition system framework, such that the location and placement of tiles on one side of the partition system framework may be configured differently than the location and placement of tiles on the opposite side of the partition system framework.</p>
+<p id="p-0017" num="0016">The track members of the partition system framework may be horizontally aligned with identical track members which are mounted to permanent, existing walls in the office space to provide aesthetic and visual continuity between the partition system and the existing walls within an office space. Further, a connection system is provided for connecting an end portion of the framework of the partition system to the track members of the permanent walls within an office space. Alternatively, the partition system may be free-standing within an interior office space, wherein the partition system is not connected to any of the existing, permanent walls of the office space. In a free-standing partition system, the framework of one framework run may be connected at selectively variable locations along the track members of the framework of another framework run, to provide an off-module connection between two runs within the framework of the partition system.</p>
+<p id="p-0018" num="0017">Additionally, a variety of decorative and functional tiles are provided for attaching to the partition system framework. The decorative tiles may include any exterior facing such as fabric, vinyl, metal, or a functional surface such as a marker board, chalk board, projection screen or a tack board, for example. Functional tiles may include retractable work station tiles and a variety of different types of storage tiles for storing papers and other materials used within an office environment. The decorative and functional tiles are mounted to the framework without the use of tools, such that the particular arrangement of functional and/or decorative tiles on the partition system framework may be easily reconfigured to suit the particular needs of workers within the office space. Additionally, the storage tiles provide storage space within the interior of the partition system framework, in contrast with existing systems, in which the space within the interior of the partition system framework is occupied by filler material or is not used at all.</p>
+<p id="p-0019" num="0018">Also, a file pocket is provided which is sized to hold standard sized paper, or other office supplies. The file pocket is further dimensioned to be received within a standard sized drawer of a filing cabinet. The file pocket may also be received within the storage cavity or retractable storage bin of a storage tile of the partition system. Further, the file pocket includes hooks for mounting the file pocket to a track member of the partition system. In this manner, the file pocket provides a portable storage component which may be conveniently be moved between known casegoods, such as a filing cabinet, and the present partition system.</p>
+<p id="p-0020" num="0019">In another form of the present invention, a two-piece adjustable work surface support bracket is provided, which attaches to a track member of the partition system for supporting a work surface. A vertical member of the bracket includes a mounting portion adapted to be received within a track member, and a plate portion extending from the mounting portion which includes a plurality of vertically spaced slots. A horizontal member is attached to a work surface using suitable fasteners, and includes a tab which is received within any one of the vertically spaced slots in the vertical member. In this manner, a work surface may be mounted to a track member of the partition system in a vertically adjustable manner.</p>
+<p id="p-0021" num="0020">In a further form of the present invention, a work surface support post is provided which attaches in an adjustable manner to the vertical member of the foregoing work surface support bracket, thereby adjustably mounting the work surface to a track member of the partition system. The support post also engages the floor to support at least a portion of the load of the work surface on the floor, while also providing knee space beneath the work surface for a user seated at the work surface.</p>
+<p id="p-0022" num="0021">In one form thereof, the present invention provides a workspace partition system, including a framework including at least two adjacent frame elements, each the frame element including a vertical upright having upper and lower ends; at least one sub-frame member secured to a least one of the upper end and the lower end of each of the vertical uprights and extending horizontally therefrom; and at least one horizontal spanner adjustably connected at opposite ends thereof to adjacent sub-frame members of the adjacent frame elements, whereby the distance between the vertical uprights of the adjacent frame elements may be varied.</p>
+<p id="p-0023" num="0022">In another form thereof, the present invention provides a partition system, including a framework including a plurality of vertical frame elements, the vertical frame elements connected by a plurality of horizontal frame elements; at least two horizontal track members connected to the framework, the track members vertically spaced from one another and including tile-retaining structure; and at least one tile retained between the track members and disposed facewise adjacent the framework, the tile selectively locatable at any one of a plurality of horizontally spaced locations along the track members irrespective of the positioning of the frame elements.</p>
+<p id="p-0024" num="0023">In a further form thereof, the present invention provides a partition system, including a framework, including: at least three frame elements disposed in a row, each frame element including a vertical upright to which is secured at least one sub-frame member which extends horizontally therefrom; and horizontal spanners connecting adjacent sub-frame members of adjacent frame elements to form a pair of adjacent framework sections which share one of the frame elements as a common frame element therebetween; and at least one tile mounted to the framework, the tile covering at least a portion of each of the framework sections.</p>
+<p id="p-0025" num="0024">In a further form thereof, the present invention provides, in combination, a permanent wall including at least one track member mounted thereon, the track member disposed horizontally and defining a channel which opens outwardly of the permanent wall; and a partition system framework having at least one track member mounted thereon, the track member disposed horizontally and defining a channel which opens outwardly of the framework, the framework attached to at least one track member on the permanent wall, and at least one track member on the permanent wall and at least one track member on the framework horizontally aligned with one another.</p>
+<p id="p-0026" num="0025">In a further form thereof, the present invention provides, in combination, a lower framework, including a plurality of lower frame elements, each lower frame element including a vertical upright to which is attached at least one horizontal sub-frame member; and a horizontal spanner connecting the sub-frame members of adjacent lower frame elements; and an upper framework attached to and disposed above the lower framework, including a plurality of upper frame elements, each upper frame element including a vertical upright to which at least one horizontal sub-frame member is attached, the uprights of the upper frame elements attached to and vertically aligned with the uprights of the lower frame elements; and a horizontal spanner connecting the sub-frame members of adjacent upper frame elements.</p>
+<p id="p-0027" num="0026">In a further form thereof, the present invention provides a partition system, including a framework including vertical frame elements and horizontal frame elements, the horizontal frame elements having longitudinally extending edge portions; and at least one horizontal track member attached to a respective edge portion of at least one of the horizontal frame elements.</p>
+<p id="p-0028" num="0027">In a further form thereof, the present invention provides, in combination, a partition system, including a framework having a partition system component mounted thereon, the partition system component having receiving structure; and a portable storage compartment dimensioned for receipt within a drawer of a filing cabinet, the storage compartment having a body portion and attachment structure, the attachment structure attached to the receiving structure to attach the storage compartment to the partition system.</p>
+<p id="p-0029" num="0028">In a further form thereof, the present invention provides, in combination, a partition system including a horizontal track member defining an outwardly facing channel; and a work surface support bracket, including a first portion mountable within the channel, and a second portion attached to a work surface, the second portion adjustably attached to the first portion whereby the work surface is supported on the partition system.</p>
+<p id="p-0030" num="0029">In a further form thereof, the present invention provides, in combination, a partition system supported on a floor surface, the partition system including a horizontal track member defining an outwardly facing channel; and a work surface support post engaging the floor and including a first portion mountable within the channel, and a second portion attached to a work surface, the second portion adjustably attached to the first portion whereby the work surface is supported by the partition system and by the floor.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0031" num="0030">The above-mentioned and other features and advantages of this invention, and the manner of attaining them, will become more apparent and the invention itself will be better understood by reference to the following description of an embodiment of the invention taken in conjunction with the accompanying drawings, wherein:</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. 1</figref> is a perspective view of an exemplary partition system according to the present invention;</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. 2</figref> is an exploded view of a single framework section of a partition system according to the present invention;</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. 3</figref><i>a </i>is a perspective view of a first exemplary framework of a partition system according to the present invention;</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. 3</figref><i>b </i>is a perspective view of a second exemplary framework of a partition system according to the present invention;</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. 4</figref><i>a </i>is a perspective view of an I-shaped vertical frame member including a plurality of mid-channel members mounted thereto;</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. 4</figref><i>b </i>is a perspective view of a C-shaped vertical frame member including a pair of mid-channel members mounted thereto;</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. 4</figref><i>c </i>is a perspective view of an L-junction vertical frame member including a plurality of mid-channel members mounted thereto;</p>
+<p id="p-0039" num="0038"><figref idref="DRAWINGS">FIG. 4</figref><i>d </i>is a perspective view showing a manner in which upper and lower sub-frame members may be selectively attached to an upright to form various types of vertical frame members;</p>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIG. 5</figref><i>a </i>is a perspective view of a stacking arrangement for the partition system framework;</p>
+<p id="p-0041" num="0040"><figref idref="DRAWINGS">FIG. 5</figref><i>b </i>is an exploded view of the stacking arrangement of <figref idref="DRAWINGS">FIG. 5</figref><i>b; </i></p>
+<p id="p-0042" num="0041"><figref idref="DRAWINGS">FIG. 5</figref><i>c </i>is another perspective view of a stacking arrangement for the partition system framework, further showing L-junction, T-junction, and X-junction stacking frame members;</p>
+<p id="p-0043" num="0042"><figref idref="DRAWINGS">FIG. 5</figref><i>d </i>is an elevational view showing a number of vertical frame members of varying height, and also showing vertical frame members to which stacking vertical frame members are attached to increase the height of same;</p>
+<p id="p-0044" num="0043"><figref idref="DRAWINGS">FIG. 6</figref><i>a </i>is an end view of an upper sub-frame member;</p>
+<p id="p-0045" num="0044"><figref idref="DRAWINGS">FIG. 6</figref><i>b </i>is an end view of a lower sub-frame member;</p>
+<p id="p-0046" num="0045"><figref idref="DRAWINGS">FIG. 7</figref> is a partial perspective view showing a spanner connecting the upper sub-frame members of two adjacent vertical frame members within the partition system framework;</p>
+<p id="p-0047" num="0046"><figref idref="DRAWINGS">FIG. 8</figref> is a partial perspective view of the upper portion of an L-junction vertical frame member, showing a pair of spanners connected to the upper sub-frame members thereof;</p>
+<p id="p-0048" num="0047"><figref idref="DRAWINGS">FIG. 9</figref> is a partial perspective view of a portion of a vertical frame member, showing the attachment of a pair of mid-channel members thereto;</p>
+<p id="p-0049" num="0048"><figref idref="DRAWINGS">FIG. 10</figref> is an exploded view showing a lower portion of an L-junction within the partition system framework, and a plurality of harness brackets;</p>
+<p id="p-0050" num="0049"><figref idref="DRAWINGS">FIG. 11</figref> is a perspective view of the assembly of <figref idref="DRAWINGS">FIG. 10</figref>;</p>
+<p id="p-0051" num="0050"><figref idref="DRAWINGS">FIG. 12</figref> is a partial perspective view of the lower portion of a partition system framework, showing an electrical harness assembly connected to the framework;</p>
+<p id="p-0052" num="0051"><figref idref="DRAWINGS">FIG. 13</figref><i>a </i>is a sectional view through a portion of a partition system framework at a mid-height location, showing a mid-channel member, a track member, and portions of upper and lower decorative tiles attached to the track member;</p>
+<p id="p-0053" num="0052"><figref idref="DRAWINGS">FIG. 13</figref><i>b </i>is a perspective view illustrating the manner in which tiles are attached to the framework of the partition system;</p>
+<p id="p-0054" num="0053"><figref idref="DRAWINGS">FIG. 14</figref> is a sectional view through an upper portion of a partition system framework, showing a pair of track members attached to an upper sub-frame member of a vertical frame member, the track members and a mid-channel member supporting a pair of tiles on opposite faces of the framework, and a top cap mounted to the track members;</p>
+<p id="p-0055" num="0054"><figref idref="DRAWINGS">FIG. 15</figref> is an end view of a top cap;</p>
+<p id="p-0056" num="0055"><figref idref="DRAWINGS">FIG. 16</figref><i>a </i>is an exploded view of a portion of a partition system framework, showing five track members disposed at horizontal intervals along one side of the framework, with a plurality of smaller tiles mounted to one side of the framework and a single large tile mounted to an opposite side of the framework;</p>
+<p id="p-0057" num="0056"><figref idref="DRAWINGS">FIG. 16</figref><i>b </i>is a perspective view of a portion of a partition system framework, showing a tile mounted to one side of the framework between a pair of vertically spaced track members, the tile selectively locatable at any one of a plurality of horizontally spaced locations along the track members irrespective of the positioning of the framework;</p>
+<p id="p-0058" num="0057"><figref idref="DRAWINGS">FIG. 17</figref> is a portion of a partition system including a window tile mounted within the partition system framework;</p>
+<p id="p-0059" num="0058"><figref idref="DRAWINGS">FIG. 18</figref> is a sectional view taken along line <b>18</b>-<b>18</b> of <figref idref="DRAWINGS">FIG. 17</figref>;</p>
+<p id="p-0060" num="0059"><figref idref="DRAWINGS">FIG. 19</figref> is a perspective view of a lower portion of a partition system framework, showing the attachment of a floor trim element thereto;</p>
+<p id="p-0061" num="0060"><figref idref="DRAWINGS">FIG. 20</figref> is a sectional view taken along line <b>20</b>-<b>20</b> of <figref idref="DRAWINGS">FIG. 19</figref>;</p>
+<p id="p-0062" num="0061"><figref idref="DRAWINGS">FIG. 21</figref><i>a </i>is a perspective view showing the attachment of the partition system framework to a permanent, existing wall within an office space;</p>
+<p id="p-0063" num="0062"><figref idref="DRAWINGS">FIG. 21</figref><i>b </i>is a perspective view showing the attachment of two intersecting runs of framework to one another in an off-module configuration;</p>
+<p id="p-0064" num="0063"><figref idref="DRAWINGS">FIG. 22</figref> is an enlarged view of a portion of <figref idref="DRAWINGS">FIG. 21</figref><i>a; </i></p>
+<p id="p-0065" num="0064"><figref idref="DRAWINGS">FIG. 23</figref> is a perspective, exploded view showing the manner in which a framework run may be added to an installed section of the partition system;</p>
+<p id="p-0066" num="0065"><figref idref="DRAWINGS">FIG. 24</figref><i>a </i>is a perspective view of a corner block of a partition system framework according to a second embodiment;</p>
+<p id="p-0067" num="0066"><figref idref="DRAWINGS">FIG. 24</figref><i>b </i>is a horizontal sectional view through the center of the corner block of <figref idref="DRAWINGS">FIG. 24</figref><i>a</i>, further showing an upright of a vertical frame member attached thereto;</p>
+<p id="p-0068" num="0067"><figref idref="DRAWINGS">FIG. 25</figref> is a perspective view of a swivel bracket for use in either L-, T-, or X-junctions within the partition system framework of a second embodiment;</p>
+<p id="p-0069" num="0068"><figref idref="DRAWINGS">FIG. 26</figref> is a perspective view of a first retractable work surface tile, showing the work surface frame thereof in a retracted or storage position;</p>
+<p id="p-0070" num="0069"><figref idref="DRAWINGS">FIG. 27</figref> is a perspective view of the retractable work surface tile of <figref idref="DRAWINGS">FIG. 26</figref>, showing the work surface frame in an extended or use position;</p>
+<p id="p-0071" num="0070"><figref idref="DRAWINGS">FIG. 28</figref> is a perspective view of the retractable work surface tile of <figref idref="DRAWINGS">FIG. 27</figref>, further showing the work surface slidably extended from the work surface frame;</p>
+<p id="p-0072" num="0071"><figref idref="DRAWINGS">FIG. 29</figref> is a perspective view of a second retractable work surface tile, showing the upper and lower work surface frames thereof in a retracted or storage position;</p>
+<p id="p-0073" num="0072"><figref idref="DRAWINGS">FIG. 30</figref> is a perspective view of the retractable work surface tile of <figref idref="DRAWINGS">FIG. 29</figref>, showing the lower work surface frame thereof in an extended or use position;</p>
+<p id="p-0074" num="0073"><figref idref="DRAWINGS">FIG. 31</figref> is a perspective view of a the retractable work surface tile of <figref idref="DRAWINGS">FIG. 29</figref>, showing both the upper and lower work surface frames thereof in an extended or use position;</p>
+<p id="p-0075" num="0074"><figref idref="DRAWINGS">FIG. 32</figref> is a perspective view of the retractable work surface tile of <figref idref="DRAWINGS">FIG. 29</figref>, showing both the upper and lower work surface frames in extended or use positions, and further showing the lower work surface slidably extended from the lower work surface frame;</p>
+<p id="p-0076" num="0075"><figref idref="DRAWINGS">FIG. 33</figref> is a perspective view of the retractable work surface tile of <figref idref="DRAWINGS">FIG. 29</figref>, showing the center panel thereof pivoted to an open position;</p>
+<p id="p-0077" num="0076"><figref idref="DRAWINGS">FIG. 34</figref> is a perspective view of a storage tile;</p>
+<p id="p-0078" num="0077"><figref idref="DRAWINGS">FIG. 35</figref> is a perspective view of a horizontal file pocket;</p>
+<p id="p-0079" num="0078"><figref idref="DRAWINGS">FIG. 36</figref>, is a perspective view of a vertical file pocket;</p>
+<p id="p-0080" num="0079"><figref idref="DRAWINGS">FIG. 37</figref> is an end view of the storage tile of <figref idref="DRAWINGS">FIG. 34</figref>, showing a horizontal file pocket mounted therein;</p>
+<p id="p-0081" num="0080"><figref idref="DRAWINGS">FIG. 38</figref> is a perspective view of the storage tile of <figref idref="DRAWINGS">FIG. 34</figref>, showing a plurality of horizontal file pockets mounted therein;</p>
+<p id="p-0082" num="0081"><figref idref="DRAWINGS">FIG. 39</figref> is a perspective view of the storage tile of <figref idref="DRAWINGS">FIG. 34</figref>, showing a plurality of vertical file pockets mounted therein;</p>
+<p id="p-0083" num="0082"><figref idref="DRAWINGS">FIG. 40</figref> is a perspective view of an alternative file pocket;</p>
+<p id="p-0084" num="0083"><figref idref="DRAWINGS">FIG. 41</figref> is a perspective view of a file cabinet, showing insertion of the file pocket of <figref idref="DRAWINGS">FIG. 40</figref> thereinto;</p>
+<p id="p-0085" num="0084"><figref idref="DRAWINGS">FIG. 42</figref> is a perspective view of a portion of a partition system, illustrating various modes of attachment of file pockets thereto;</p>
+<p id="p-0086" num="0085"><figref idref="DRAWINGS">FIG. 43</figref><i>a </i>is a perspective view of a storage tile, showing a pair of retractable storage bins pivotally mounted therein;</p>
+<p id="p-0087" num="0086"><figref idref="DRAWINGS">FIG. 43</figref><i>b </i>is a perspective view of the storage tile and storage bins of <figref idref="DRAWINGS">FIG. 43</figref><i>a</i>, showing one of the storage bins in an open position, and a file pocket received within the storage bin;</p>
+<p id="p-0088" num="0087"><figref idref="DRAWINGS">FIG. 43</figref><i>c </i>is a perspective view of a storage tile having a net enclosure;</p>
+<p id="p-0089" num="0088"><figref idref="DRAWINGS">FIG. 43</figref><i>d </i>is a perspective view of a storage tile, including a compact disk holder and a pair of paper files;</p>
+<p id="p-0090" num="0089"><figref idref="DRAWINGS">FIG. 43</figref><i>e </i>is a perspective view of a storage tile including a pair of paper files, one of the paper files shown in an open position;</p>
+<p id="p-0091" num="0090"><figref idref="DRAWINGS">FIG. 44</figref> is a perspective view of a media tile;</p>
+<p id="p-0092" num="0091"><figref idref="DRAWINGS">FIG. 45</figref><i>a </i>is a front perspective view of an electrical tile;</p>
+<p id="p-0093" num="0092"><figref idref="DRAWINGS">FIG. 45</figref><i>b </i>is a perspective view of an outlet module trim element;</p>
+<p id="p-0094" num="0093"><figref idref="DRAWINGS">FIG. 45</figref><i>c </i>is a rear perspective view of the electrical tile of <figref idref="DRAWINGS">FIG. 46</figref>;</p>
+<p id="p-0095" num="0094"><figref idref="DRAWINGS">FIG. 45</figref><i>d </i>is a rear perspective view of a portion of <figref idref="DRAWINGS">FIG. 48</figref>;</p>
+<p id="p-0096" num="0095"><figref idref="DRAWINGS">FIG. 46</figref><i>a </i>is perspective view of a two-piece work surface support bracket, including a vertical member and a horizontal member;</p>
+<p id="p-0097" num="0096"><figref idref="DRAWINGS">FIG. 46</figref><i>b </i>is a sectional view through a portion of the partition system, showing the work surface support bracket of <figref idref="DRAWINGS">FIG. 46</figref><i>a </i>mounted within a track member of the partition system to adjustably support a work surface;</p>
+<p id="p-0098" num="0097"><figref idref="DRAWINGS">FIG. 47</figref><i>a </i>is a perspective view of a work surface support post, including a cantilever portion and a support portion; and</p>
+<p id="p-0099" num="0098"><figref idref="DRAWINGS">FIG. 47</figref><i>b </i>is a sectional view through a portion of the partition system, showing the work surface support post of <figref idref="DRAWINGS">FIG. 47</figref><i>a </i>mounted within a track member of the partition system to adjustably support a work surface.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<p id="p-0100" num="0099">Corresponding reference characters indicate corresponding parts throughout the several views. The exemplifications set out herein illustrate preferred embodiments of the invention, and such exemplifications are not to be construed as limiting the scope of the invention any manner.</p>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0101" num="0100">Referring to <figref idref="DRAWINGS">FIG. 1</figref>, partition system <b>50</b> is shown, of the type generally used in office spaces for dividing an interior office space into separate workspaces, such as work stations, conference rooms, reception rooms, and common areas, for example. Partition system <b>50</b> generally includes a framework or structure <b>52</b> (a portion of which is visible in <figref idref="DRAWINGS">FIG. 1</figref>), to which decorative and/or functional tiles are mounted for dividing the interior office space and providing privacy between the individual spaces therein. The tiles attached to framework <b>52</b> may include decorative tiles <b>54</b> or functional tiles, such as retractable workspace tiles <b>56</b> and/or a variety of different types of storage tiles <b>58</b>, for example, which are described below. Additionally, framework <b>52</b> may include window tiles, as described below. As shown in <figref idref="DRAWINGS">FIG. 1</figref>, partition system <b>50</b> is free-standing upon the floor surface of an office space and is not connected to the permanent walls of the building in which the office space is disposed. However, as described below, partition system <b>50</b> may optionally be connected to permanent walls of a building in which partition system <b>50</b> is disposed.</p>
+<p id="p-0102" num="0101">Referring to <figref idref="DRAWINGS">FIG. 3</figref><i>a</i>, a first exemplary configuration of framework <b>52</b> of partition system <b>50</b> is shown, which generally defines an enclosed workspace <b>60</b> with opening <b>62</b> for allowing passage into and out of workspace <b>60</b>. Framework <b>52</b> generally includes I-shaped vertical frame members <b>64</b>, C-shaped vertical frame members <b>66</b>, and L-junction vertical frame members <b>68</b>. Each of the foregoing vertical frame members <b>64</b>, <b>66</b>, <b>68</b> are connected to one another by upper and lower horizontal spanners <b>70</b> to define individual rectangular-shaped framework sections <b>72</b>. However, as shown in <figref idref="DRAWINGS">FIG. 3</figref><i>a</i>, because each framework section <b>72</b> includes at least one vertical frame member <b>64</b>, <b>66</b>, <b>68</b> which is common to an adjacent framework section <b>72</b>, framework <b>52</b> is a progressive-type framework which does not include individual, rectangular frames which are connected along the edges thereof to adjacent rectangular frames, as in known partition systems. In this manner, the present partition system <b>50</b> does not require brackets, latches, or other structure to connect the adjacent vertical edges of individual panel frames, as in known partition systems, thereby increasing the structural integrity of framework <b>52</b>, reducing the number of overall components of partition system <b>50</b>, and reducing the difficulty of assembly of partition system <b>50</b>. Thus, although the term &#x201c;framework section&#x201d; is used herein as a reference to the space which is bounded between two adjacent vertical frame members, framework <b>52</b> of partition system <b>50</b> does not include individual panel &#x201c;frames&#x201d; as in known partition systems.</p>
+<p id="p-0103" num="0102">Each of the I-shaped, C-shaped, and L-junction vertical frame members <b>64</b>, <b>66</b>, <b>68</b>, include at least one horizontal upper sub-frame member <b>74</b> and at least one horizontal lower sub-frame member <b>76</b> rigidly connected thereto, such as by suitable fasteners or by welding, for example. As may be seen in <figref idref="DRAWINGS">FIG. 4</figref><i>a</i>, for example, upper sub-frame members <b>74</b> define upwardly-opening channels <b>78</b> and lower sub-frame members <b>76</b> define downwardly-opening channels <b>80</b>. Referring back to <figref idref="DRAWINGS">FIG. 3</figref><i>a</i>, spanners <b>70</b> are received within the channels <b>78</b>, <b>80</b> of horizontally adjacent upper and lower sub-frame members <b>74</b>, <b>76</b>, respectively, to join adjacent vertical frame members <b>64</b>, <b>66</b>, <b>68</b> together to form framework sections <b>72</b>. As discussed in more detail below, spanners <b>70</b> are adjustably connected to vertical frame members <b>64</b>, <b>66</b>, <b>68</b> such that the distance between adjacent vertical frame members <b>64</b>, <b>66</b>, <b>68</b> to in turn vary the width of each framework section defined between adjacent vertical frame members <b>64</b>, <b>66</b>, and <b>68</b>. For example, referring to <figref idref="DRAWINGS">FIG. 3</figref><i>a</i>, framework includes short width framework sections <b>72</b><i>a</i>, medium width framework sections <b>72</b><i>b</i>, and extended width framework sections <b>72</b><i>c</i>, for example.</p>
+<p id="p-0104" num="0103">Referring to <figref idref="DRAWINGS">FIG. 4</figref><i>a</i>, I-shaped vertical frame member <b>64</b> is shown, which generally includes upright <b>82</b> to which are rigidly connected a pair of upper sub-frame members <b>74</b> and a pair of lower sub-frame members <b>76</b>. Upper sub-frame members <b>74</b> and lower sub-frame members <b>76</b> are respectively disposed 180&#xb0; from one another on I-shaped vertical frame member <b>64</b>. The lower portion of upright <b>82</b> includes a known level glide assembly with foot <b>84</b> mounted upon a threaded member and resting against a floor surface, wherein the distance between foot <b>84</b> and the bottom edge of upright <b>82</b> is vertically adjustable by rotating foot <b>84</b>, such that framework <b>52</b> may be leveled along an uneven floor surface. The lower portion of upright <b>82</b> additionally includes a pair of C-shaped floor trim mounts <b>86</b> rigidly secured thereto. Upright <b>82</b> includes a plurality of vertical slots <b>88</b>, located at vertical intervals along upright <b>82</b>, to which mid-channel members <b>90</b> may be attached, as described below.</p>
+<p id="p-0105" num="0104">Referring to <figref idref="DRAWINGS">FIGS. 4</figref><i>a </i>and <b>6</b><i>a</i>, upper sub-frame members <b>74</b> have a substantially upwardly directed C-shaped cross section, including base wall <b>92</b> and a pair of side walls <b>94</b> extending upwardly from base wall <b>92</b> which, together with base wall <b>92</b>, define channel <b>78</b>. A pair of track member mounting walls <b>96</b> are spaced laterally from, and extend upwardly from, side walls <b>94</b>. As shown in <figref idref="DRAWINGS">FIG. 4</figref><i>a</i>, side walls <b>94</b> include three or more sets of horizontally aligned apertures <b>98</b><i>a</i>, <b>98</b><i>b</i>, <b>98</b><i>c </i>therein for attachment of spanners <b>70</b>, as described below. Referring to <figref idref="DRAWINGS">FIGS. 4</figref><i>a </i>and <b>6</b><i>b</i>, lower sub-frame members <b>76</b> also have a generally downwardly directed C-shaped cross section, including base wall <b>100</b> and a pair of side walls <b>102</b> extending downwardly from base wall <b>100</b> which, together with base wall <b>100</b>, define channel <b>80</b>. Horizontal walls <b>104</b> extending horizontally from the lower ends of side walls <b>102</b>, and terminate in upwardly-projecting ridges <b>106</b>. As shown in <figref idref="DRAWINGS">FIG. 4</figref><i>a</i>, side walls <b>102</b> of lower sub-frame members <b>76</b> additionally include three or more sets of horizontally aligned apertures <b>98</b><i>a</i>, <b>98</b><i>b</i>, <b>98</b><i>c </i>for attachment of spanners <b>70</b>, as described below.</p>
+<p id="p-0106" num="0105">Referring to <figref idref="DRAWINGS">FIG. 4</figref><i>b</i>, C-shaped vertical frame member <b>66</b> is shown, including a single upper sub-frame member <b>74</b> and a single lower sub-frame member <b>76</b>. C-shaped vertical frame members <b>66</b> are generally used at the ends of a run of framework <b>52</b>, as shown in <figref idref="DRAWINGS">FIG. 3</figref><i>a</i>, or may also be used in an off-module connection between intersecting runs of framework <b>52</b>, as described below. Further, as also described below, C-shaped vertical frame members <b>52</b> may also be used in a wall start configuration in which framework <b>52</b> extends from a permanent wall. Referring to <figref idref="DRAWINGS">FIG. 4</figref><i>c</i>, L-junction vertical frame member <b>68</b> is shown, including two upper sub-frame members <b>74</b> attached thereto and disposed 90&#xb0; from one another, and two lower sub-frame members attached thereto and also disposed 90&#xb0; from one another. In this manner, L-junction vertical frame member <b>68</b> forms an L-junction within framework <b>52</b>.</p>
+<p id="p-0107" num="0106">Additionally, referring to a second exemplary framework <b>52</b> shown in <figref idref="DRAWINGS">FIG. 3</figref><i>b</i>, framework <b>52</b> may also include T-junction vertical frame members <b>65</b> and X-junction vertical frame members <b>67</b> for forming T-junctions or X-junctions within framework <b>52</b>. T-junction and X-junction vertical frame members <b>65</b>, <b>67</b> are analogous to L-junction vertical frame members <b>68</b>. For example, T-junction vertical frame member <b>65</b> includes three vertical sub-frame members <b>74</b> affixed thereto, with corresponding lower sub-frame members <b>76</b>. Similarly, X-junction vertical frame member <b>67</b> includes four upper sub-frame members <b>74</b> attached thereto, with corresponding lower sub-frame members <b>76</b>.</p>
+<p id="p-0108" num="0107">In many of the Figures herein, upper and lower sub-frame members <b>74</b>, <b>76</b> are shown rigidly and permanently attached to uprights <b>82</b> of vertical frame members <b>64</b>-<b>68</b> such as by welding, for example. However, upper and lower sub-frame members <b>74</b>, <b>76</b> may also be detachably connected to uprights <b>82</b> of vertical frame members <b>64</b>-<b>68</b> by suitable fasteners. Referring to <figref idref="DRAWINGS">FIG. 4</figref><i>d</i>, upright <b>82</b> may include brackets <b>69</b> mounted to each side face thereof at 90&#xb0; intervals around the both of the upper and lower ends of upright <b>82</b>. Suitable two-part fasteners <b>71</b>, for example, extend through aligned apertures <b>73</b> in brackets <b>69</b> and apertures <b>75</b> in upper and lower sub-frame members <b>74</b>, <b>76</b> to rigidly connect upper and lower sub-frame members <b>74</b>, <b>76</b> to upright <b>82</b>. In this manner, each upright <b>82</b> may be selectively configured as any one of the various types of I-shaped, T-junction, C-shaped, X-junction, or L-junction vertical frame members <b>64</b>-<b>68</b> described above by attaching suitable upper and lower sub-frame members <b>74</b>, <b>76</b> thereto. For example, in <figref idref="DRAWINGS">FIG. 4</figref><i>d</i>, upright <b>82</b> is configured as an I-shaped vertical frame member <b>64</b>.</p>
+<p id="p-0109" num="0108">Referring to <figref idref="DRAWINGS">FIG. 7</figref>, spanner <b>70</b> is shown disposed within channels <b>78</b> of horizontally aligned upper sub-frame members <b>74</b> of a pair of adjacent vertical frame members <b>64</b> and <b>68</b>. Spanners <b>70</b> generally have a square cross-section, and include a plurality of horizontally spaced through holes <b>108</b> at opposite ends thereof which are alignable with any pair of the horizontally aligned sets of apertures <b>98</b><i>a</i>, <b>98</b><i>b</i>, <b>98</b><i>c </i>in upper sub-frame members <b>74</b>. Fasteners, which may include bolt <b>110</b> and lug <b>112</b>, are inserted through a first aperture <b>98</b><i>a</i>, <b>98</b><i>b</i>, or <b>98</b><i>c </i>in upper sub-frame member <b>74</b>, through the through holes <b>108</b> in spanner <b>70</b> and through the corresponding horizontally aligned aperture <b>98</b><i>a</i>, <b>98</b><i>b</i>, or <b>98</b><i>c </i>in the upper sub-frame member <b>74</b> to connect spanner <b>70</b> to supper sub-frame member <b>74</b>. In <figref idref="DRAWINGS">FIG. 8</figref>, the upper portion of an L-junction vertical frame member <b>68</b> is shown, having a spanner <b>70</b> received within each of the upper sub-frame members <b>76</b> thereof.</p>
+<p id="p-0110" num="0109">As shown in <figref idref="DRAWINGS">FIG. 7</figref>, the ends of spanners <b>70</b> are connected to first set of apertures <b>98</b><i>a </i>to define an extended framework section <b>72</b><i>c </i>between vertical frame members <b>64</b> and <b>68</b>. However, as may be seen from <figref idref="DRAWINGS">FIG. 7</figref> and from <figref idref="DRAWINGS">FIGS. 3</figref><i>a </i>and <b>3</b><i>b</i>, spanners <b>70</b> may also be connected to second or third sets of apertures <b>98</b><i>b </i>or <b>98</b><i>c </i>to define narrow or medium width framework sections <b>72</b><i>a</i>, <b>72</b><i>b </i>between vertical frame members <b>64</b>, <b>66</b>, and <b>68</b>. In this manner, spanners <b>70</b> are adjustably connected to vertical frame members <b>64</b>, <b>66</b>, and <b>68</b> such that the width between vertical frame members <b>64</b>, <b>66</b>, and <b>68</b> is variable. Further, the length of spanners <b>70</b> themselves may also be varied. Therefore, the length of spanners <b>70</b>, together with the adjustability provided by through holes <b>108</b> in spanners and apertures <b>98</b><i>a</i>, <b>98</b><i>b</i>, and <b>98</b><i>c </i>of upper and lower sub-frame members <b>74</b> and <b>76</b>, allow selection of any distance between adjacent vertical frame members <b>64</b>, <b>66</b>, or <b>68</b> to create framework sections <b>72</b> of any width. For example, a spanner of a first length may be selectively attached to apertures <b>98</b><i>a</i>, <b>98</b><i>b</i>, or <b>98</b><i>c </i>resulting in framework sections 24 inches, 30 inches, or 36 inches wide, respectively, or a spanner of a second length may be selectively attached to apertures <b>98</b><i>a</i>, <b>98</b><i>b</i>, or <b>98</b><i>c </i>resulting in framework sections 36 inches, 42 inches, or 48 inches wide, respectively. Spanners <b>70</b> are connected to apertures <b>98</b><i>a</i>, <b>98</b><i>b</i>, and <b>98</b><i>c </i>of lower sub-frame members <b>76</b> of adjacent vertical frame members <b>64</b>, <b>66</b>, and <b>68</b> in the same manner as that described above.</p>
+<p id="p-0111" num="0110">Referring to <figref idref="DRAWINGS">FIG. 9</figref>, mid-channel members <b>90</b> generally have an I-shaped cross section, and are formed by a pair of bent metal pieces attached to one another in a back-to-back manner. Mid-channel members <b>90</b> include track member mounting walls <b>114</b>, and a mounting structure at one end thereof which includes hooks <b>116</b>, upper spacers <b>118</b>, and lower spacers <b>120</b>. Mid-channel members <b>90</b> are attached to uprights <b>82</b> of vertical frame members <b>64</b>, <b>66</b>, or <b>68</b> by first tilting mid-channel members <b>90</b> upwardly to insert hooks <b>116</b> of mid-channel members <b>90</b> into slots <b>86</b> of uprights <b>82</b>, followed by rotating mid-channel members <b>90</b> downwardly to a horizontal position such that upper spacers <b>118</b> and lower spacers <b>120</b> abut the faces of uprights <b>82</b> adjacent slots <b>86</b>. Mid-channel members <b>90</b> may be removed by the opposite of the foregoing procedure. In this manner, mid-channel members <b>90</b> may be firmly and rigidly, yet detachably, mounted to uprights <b>82</b> of vertical frame members <b>64</b>, <b>66</b>, and <b>68</b> at vertical intervals thereon defined by the locations of slots <b>86</b>.</p>
+<p id="p-0112" num="0111">Referring to <figref idref="DRAWINGS">FIGS. 5</figref><i>a</i>-<b>5</b><i>c</i>, framework <b>52</b> may include a stacking system in order to vary the height of framework <b>52</b> at selected locations therein. As shown in <figref idref="DRAWINGS">FIGS. 5</figref><i>a </i>and <b>5</b><i>b</i>, stacking frame members <b>400</b> each include vertical component <b>402</b> and at least one horizontal component <b>404</b> attached to vertical component <b>402</b> and extending therefrom. In this manner, stacking frame members <b>400</b> may each have an L-shaped profile as shown in <figref idref="DRAWINGS">FIGS. 5</figref><i>a </i>and <b>5</b><i>b</i>, when stacking frame members <b>400</b> are used along a run of framework <b>52</b>. Further, as shown in <figref idref="DRAWINGS">FIG. 5</figref><i>c </i>each vertical component <b>402</b> may also include two, three or four horizontal components <b>404</b> mounted thereto to form I-shaped stacking members or L-junction stacking frame members <b>401</b>, T-junction stacking frame members <b>403</b>, and X-junction stacking frame members <b>405</b>. In this manner, stacking frame members <b>400</b> may be used at L-type, T-type, or X-type panel junctions within framework <b>52</b>, as described above. The length of vertical components <b>402</b> may be varied in order to vary the height of stacking frame members <b>400</b>.</p>
+<p id="p-0113" num="0112">Horizontal components <b>404</b> are analogous or identical to upper sub-frame members <b>74</b> in construction, and are fixedly attached to vertical components by welding, for example. Also, horizontal components <b>404</b> may be attached to vertical components <b>402</b> in the manner described above with respect to <figref idref="DRAWINGS">FIG. 4</figref><i>d</i>, in which vertical components <b>402</b> include brackets <b>69</b> for selective mounting of one or more horizontal components <b>404</b> to vertical components <b>402</b>. Thus, vertical components <b>402</b> are analogous to vertical uprights <b>82</b> of vertical frame members <b>64</b>, <b>66</b>, and <b>68</b> in construction; however, as shown in <figref idref="DRAWINGS">FIG. 5</figref><i>b</i>, vertical components <b>402</b> each additionally include an extension <b>406</b> extending from the lower portion thereof, wherein extensions <b>406</b> may additionally include supports <b>408</b>. Extensions <b>406</b> of vertical components <b>402</b> are slidably received within cavities <b>410</b> defined in the upper ends of vertical frame members <b>64</b>, <b>66</b>, and <b>68</b> to vertically attach stacking frame members <b>400</b> to vertical frame members <b>64</b>, <b>66</b>, and <b>68</b>.</p>
+<p id="p-0114" num="0113">Referring to <figref idref="DRAWINGS">FIG. 5</figref><i>b</i>, when only one vertical component <b>402</b> of a stacking frame member <b>400</b> is attached to a given vertical frame member <b>64</b>, <b>66</b> or <b>68</b>, such as at the end of a run of framework <b>52</b>, supports <b>408</b> function to take up the space within cavities <b>410</b> of vertical frame members <b>64</b>, <b>66</b>, and <b>68</b> which is not occupied by extensions <b>410</b>, to thereby provide a stable vertical connection between stacking frame members <b>400</b> and vertical frame members <b>64</b>, <b>66</b>, and <b>68</b>. As also shown in <figref idref="DRAWINGS">FIG. 5</figref><i>b</i>, when two vertical components <b>402</b> of stacking frame members <b>400</b> are attached in a back-to-back manner to a single vertical frame member <b>64</b>, <b>66</b>, or <b>68</b>, such as in the middle of a run of framework <b>52</b>, extensions <b>406</b> thereof together occupy the space within cavity <b>410</b> thereof to provide a stable vertical connection, and supports <b>408</b> are not used. As shown in <figref idref="DRAWINGS">FIGS. 5</figref><i>a</i>-<b>5</b><i>c</i>, two vertical components <b>402</b> of stacking frame members <b>400</b> of different height may also attached in a back-to-back manner to a single vertical frame member <b>64</b>, <b>66</b>, or <b>68</b> in order to vary the height of stacking frame members <b>400</b> within a panel run, forming a &#x201c;high-low&#x201d; condition. Further, spanners <b>70</b> may be attached between adjacent horizontal components <b>404</b> in the same manner as described above with respect to the attachment of spanners <b>70</b> to upper sub-frame members <b>74</b> of vertical frame members <b>64</b>, <b>66</b>, and <b>68</b>.</p>
+<p id="p-0115" num="0114">As shown in <figref idref="DRAWINGS">FIGS. 5</figref><i>a </i>and <b>5</b><i>b</i>, track members <b>146</b> may be attached to horizontal components <b>404</b> of stacking frame members <b>400</b> in the same manner as described below with respect to the attachment of track members <b>146</b> to upper sub-frame members <b>74</b> of vertical frame members <b>64</b>, <b>66</b>, and <b>68</b>. In this manner, stacking frame members <b>400</b>, <b>401</b>, <b>403</b>, and <b>405</b> may support the various components of partition system <b>50</b>, such as decorative tiles <b>54</b> and storage tiles <b>58</b>, for example, as discussed below. Further, stacking frame members <b>400</b>, <b>401</b>, <b>403</b>, and <b>405</b> may also support window tiles <b>380</b> in the same manner as described below to provide clerestory windows within the upper spaces of partition system <b>50</b>.</p>
+<p id="p-0116" num="0115"><figref idref="DRAWINGS">FIG. 5</figref><i>d </i>illustrates how the height of framework <b>52</b> may be varied by using vertical frame members <b>64</b>-<b>68</b> of varying height, together with the use of stacking frame members <b>400</b> of varying height. For example, C-shaped vertical frame member <b>66</b><i>a </i>of <figref idref="DRAWINGS">FIG. 5</figref><i>d </i>is 30&#x2033; high, and includes an upper sub-frame member <b>74</b> disposed 30&#x2033; from floor surface F, which corresponds to work surface height. C-shaped vertical frame member <b>66</b><i>b </i>of <figref idref="DRAWINGS">FIG. 5</figref><i>d </i>is 42&#x2033; high, and includes a mid-channel member <b>90</b> disposed 30&#x2033; from floor surface F and an upper sub-frame member <b>74</b> disposed 42&#x2033; from floor surface F. C-shaped vertical frame member <b>66</b><i>c </i>of <figref idref="DRAWINGS">FIG. 5</figref><i>d </i>is 55&#x2033; high, and includes a mid-channel member <b>90</b> disposed 30&#x2033; from floor surface F and an upper sub-frame member <b>74</b> disposed 55&#x2033; from floor surface F. C-shaped vertical frame member <b>66</b><i>d </i>of <figref idref="DRAWINGS">FIG. 5</figref><i>d </i>is 68&#x2033; high, and includes a first mid-channel member <b>90</b> disposed 30&#x2033; from floor surface F, a second mid-channel member <b>90</b> disposed 55&#x2033; from floor surface F, and an upper sub-frame member <b>74</b> disposed 68&#x2033; from floor surface F. C-shaped vertical frame member <b>66</b><i>e </i>of <figref idref="DRAWINGS">FIG. 5</figref><i>d </i>is identical to C-shaped vertical frame member <b>66</b><i>d</i>, and further includes a 12&#x2033; stacking frame member <b>400</b> attached thereto to provide a total height of 80&#x2033; from floor surface F. C-shaped vertical frame member <b>66</b><i>f </i>of <figref idref="DRAWINGS">FIG. 5</figref><i>d </i>is identical to C-shaped vertical frame members <b>66</b><i>d </i>and <b>66</b><i>e</i>, and further includes a 25&#x2033; stacking frame member <b>400</b> attached thereto to provide a total height of 93&#x2033; from floor surface F. However, the foregoing dimensions are only exemplary&#x2014;the height of vertical frame members <b>64</b>-<b>68</b> and stacking frame members <b>400</b> may be varied as necessary to fit the needs of any interior space.</p>
+<p id="p-0117" num="0116">Referring to <figref idref="DRAWINGS">FIGS. 10-12</figref>, the attachment of harness assemblies <b>122</b> to framework <b>52</b>, for providing electrical and/or data service throughout framework <b>52</b> of partition system <b>50</b>, will be described. Referring to <figref idref="DRAWINGS">FIG. 10</figref>, harness brackets <b>124</b> generally include vertical portions <b>126</b>, a pair of oppositely-directed mounting tangs <b>128</b>, and a pair of lower, oppositely-directed floor trim mounts <b>130</b>. To attach harness brackets <b>124</b> to lower sub-frame members <b>76</b>, harness brackets <b>124</b> are first oriented such that mounting tangs <b>128</b> and floor trim mounts <b>130</b> are directed parallel to lower sub-frame members <b>76</b> and spanners <b>70</b>. Thereafter, harness brackets <b>124</b> are moved upwardly to align mounting tangs <b>128</b> with mounting slots <b>132</b> in lower sub-frame members <b>76</b>. Then, harness brackets <b>124</b> are rotated 90&#xb0; to engage mounting tangs <b>128</b> within mounting slots <b>132</b> of lower sub-frame members <b>76</b>, as shown in <figref idref="DRAWINGS">FIG. 11</figref>.</p>
+<p id="p-0118" num="0117">Referring to <figref idref="DRAWINGS">FIG. 12</figref>, harness assemblies <b>122</b> may be mounted to either side of vertical portions <b>126</b> of harness brackets <b>124</b> by suitable fasteners. Suitable harness assemblies <b>122</b> are available from suppliers such as Pent Manufacturing/Dekko Engineering of Kendallville, Ind., although other suitable harness assemblies are also readily available. Harness assemblies <b>122</b> generally include central portions <b>134</b> which contain electrical and/or data wiring, outlet modules <b>136</b> attached to central portions <b>134</b>, and connection ports <b>138</b> for attaching jumpers (not shown) to harness assemblies <b>122</b>. The jumpers are used to connect adjacent harness assemblies <b>122</b> between adjacent framework sections <b>72</b> within framework <b>52</b>, wherein jumpers may be appropriately sized to span the distance between adjacent framework sections <b>72</b>. Referring to FIGS. <b>7</b> and <b>10</b>-<b>12</b>, spanners <b>70</b> include central, rectangular-shaped openings <b>140</b> to allow electrical wiring, data cables, or other utilities to pass therethrough for routing same vertically within framework <b>52</b> of partition system <b>50</b>. In this manner, electrical and/or data services may be provided to electrical and data tiles <b>340</b>, described below, at selected mid-height locations within framework <b>52</b>. Referring to <figref idref="DRAWINGS">FIG. 14</figref>, electrical wiring and data cables may also be routed horizontally within channels <b>78</b> of upper sub-frame members <b>74</b> along the top edges of framework <b>52</b>. Referring back to <figref idref="DRAWINGS">FIG. 12</figref>, floor trim elements <b>142</b> are attachable to framework <b>52</b> as described below, and include openings <b>144</b> for access to outlet modules <b>136</b> of harness assemblies <b>122</b>.</p>
+<p id="p-0119" num="0118">Referring to <figref idref="DRAWINGS">FIG. 13</figref><i>a</i>, a track member <b>146</b> is shown mounted to a mid-channel member <b>90</b>. Track member <b>146</b> is similar to those which are described in detail in U.S. Pat. No. 5,309,686, assigned to the assignee of the present application, the disclosure of which is expressly incorporated herein by reference. Track members <b>146</b> generally include an extruded metal section having a horizontally-opening channel <b>147</b> defined by rear wall <b>148</b> and upper and lower walls <b>150</b>, <b>152</b>. Upper wall <b>150</b> terminates in upper front wall <b>154</b> and upper rear wall <b>156</b>, and lower wall <b>152</b> terminates in lower front wall <b>158</b> and lower rear wall <b>160</b>. Upper front wall <b>154</b>, bottom wall <b>150</b>, and upper rear wall <b>156</b> define tile space <b>162</b> therebetween for receipt of the lower edge of a tile, such as decorative tile <b>54</b> or a functional tile, and lower front wall <b>158</b>, bottom wall <b>152</b>, and lower rear wall <b>160</b> define tile space <b>164</b> therebetween for receipt of the upper edge of a tile. Track member <b>146</b> is mounted to mid-channel member <b>90</b> in a fastenerless manner with out the need for tools by engaging upper rear wall <b>160</b> of track member <b>146</b> over track member mounting wall <b>114</b> of mid-channel member <b>90</b> such that spacing projections <b>166</b> of rear wall <b>148</b> of track member <b>146</b> abut track member mounting wall <b>114</b> of mid-channel member <b>90</b>. Referring to <figref idref="DRAWINGS">FIGS. 6</figref><i>a </i>and <b>14</b>, track members <b>146</b> may be mounted to track member mounting walls <b>96</b> of upper sub-frame members <b>74</b> in a similar manner. Referring back to <figref idref="DRAWINGS">FIG. 13</figref><i>a</i>, lower rear wall <b>160</b> of track members <b>146</b> additionally include anti-dislodgment protrusion <b>168</b> which prevents dislodgment of track member <b>146</b> from mid-channel member <b>90</b> (or upper sub-frame member <b>74</b>) when track member <b>146</b> is moved vertically with respect thereto.</p>
+<p id="p-0120" num="0119">Referring together to <figref idref="DRAWINGS">FIGS. 13</figref><i>a </i>and <b>13</b><i>b</i>, tiles, such as decorative tiles <b>54</b>, are attached to track members <b>146</b> by tilting the tile at an angle with respect to vertical and inserting the upper edge of the tile into tile space <b>164</b> defined between lower wall <b>152</b>, lower front wall <b>158</b>, and lower rear wall <b>160</b> and pushing the tile upwardly within tile space <b>164</b> while also moving the tile to a vertical position. This first component of movement of the tile is shown by arrow <b>161</b> in <figref idref="DRAWINGS">FIG. 13</figref><i>b</i>. In this manner, the lower edge of the tile clears upper front wall <b>154</b> of another track member <b>146</b> (or clears ridge <b>106</b> of horizontal wall <b>104</b> of a lower sub-frame member <b>76</b>, <figref idref="DRAWINGS">FIG. 6</figref><i>a</i>), and the lower edge of the tile is moved into tile space <b>162</b> defined between upper wall <b>150</b>, upper front wall <b>154</b>, and upper rear wall <b>156</b> of the track member <b>146</b>. Thereafter, as shown by arrow <b>163</b> in <figref idref="DRAWINGS">FIG. 13</figref><i>b</i>, the tile is shifted downwardly such that the lower edge of the tile rests on upper wall <b>150</b> of the lower track member <b>146</b> (or upon horizontal wall <b>104</b> of a lower sub-frame member <b>76</b>).</p>
+<p id="p-0121" num="0120">Referring to <figref idref="DRAWINGS">FIG. 14</figref>, the rear faces <b>54</b><i>b </i>of the tiles <b>54</b> may additionally include hooks <b>170</b> for engaging the interior surfaces of track member mounting walls <b>114</b> of mid-channel members <b>90</b>. The foregoing connection is particularly useful with large tiles <b>54</b> which extend along the entire height of the framework <b>52</b> to prevent such tiles <b>54</b> from bowing outwardly relative to framework <b>52</b>. Therefore, as shown in <figref idref="DRAWINGS">FIGS. 2 and 16</figref>, relatively large tiles <b>54</b> may be mounted to framework <b>52</b> which extend the entire distance between the track members <b>146</b> which are mounted to upper sub-frame members <b>74</b> and lower sub-frame members <b>76</b>.</p>
+<p id="p-0122" num="0121">Additionally, as shown in <figref idref="DRAWINGS">FIG. 14</figref>, swing brackets <b>172</b> may be attached to framework <b>52</b> as shown in <figref idref="DRAWINGS">FIG. 14</figref> to provide further support for the upper edges of tiles <b>54</b>. Specifically, swing brackets <b>172</b> include tongues <b>174</b> which are received into grooves <b>176</b> which may be provided in track members <b>146</b> to attach swing brackets <b>172</b> to a pair of track members <b>146</b> which are disposed on opposite sides of framework <b>52</b>. Swing brackets <b>172</b> further include spacers <b>178</b> which abut base wall <b>92</b> of upper sub-frame members <b>74</b>. In this manner, swing brackets <b>172</b> also connect a pair of track members <b>146</b> which are disposed on opposite sides of framework <b>52</b> to secure the connection between track members <b>146</b> and framework <b>52</b>.</p>
+<p id="p-0123" num="0122">Referring to <figref idref="DRAWINGS">FIG. 16</figref><i>a</i>, a portion of framework <b>52</b> of an exemplary partition system <b>50</b> is shown which includes two C-shaped vertical frame members <b>66</b> connected by spanners <b>70</b>. The two C-shaped vertical frame members <b>66</b> in <figref idref="DRAWINGS">FIG. 16</figref><i>a </i>may be connected to further vertical frame members <b>64</b>-<b>68</b> as desired, in the manner described above, to create a larger framework <b>52</b> of a desired size and shape. Each vertical frame member <b>66</b> includes one upper sub-frame member <b>74</b> and one lower sub-frame member <b>76</b> attached thereto, and further, also includes four mid-channel members <b>90</b> attached thereto. Five track members <b>146</b> are shown attached to the framework <b>52</b> on one side thereof in <figref idref="DRAWINGS">FIG. 16</figref><i>a</i>; however up to five track members <b>146</b> may also be attached to the opposite side of framework <b>52</b> as desired. Specifically, one track member <b>146</b> is attached to the upper sub-frame members <b>74</b> of the vertical frame members <b>66</b>, and four track members <b>146</b> are attached to the respective mid-channel members <b>90</b> thereof.</p>
+<p id="p-0124" num="0123">On one side of framework <b>52</b> of <figref idref="DRAWINGS">FIG. 16</figref><i>a</i>, a number of decorative tiles <b>54</b> of varying width are mounted between pairs of vertically adjacent track members <b>146</b> or, with respect to the lowermost tile <b>54</b>, between the lowermost track member <b>146</b> and the lower sub-frame members <b>76</b> of the framework <b>52</b>, in the manner described above. Notably, the lateral location of each tile <b>54</b> which is mounted between adjacent track members <b>146</b> is not determined or related to the locations of the vertical frame members <b>66</b>, but is only determined by the placement of track members <b>146</b>. In this manner, as shown in <figref idref="DRAWINGS">FIG. 16</figref><i>b</i>, track members <b>146</b> allow for the placement and location of tiles <b>54</b> which is independent of the configuration of framework <b>52</b> therebeneath, such that tiles <b>54</b> may be arranged in any desired pattern on the face of framework <b>52</b>. For example, a repeating, brick-like pattern of tiles <b>54</b> may be arranged upon framework <b>52</b>, or alternatively, a random arrangement of tiles <b>54</b> of varying width may be arranged upon framework <b>52</b>.</p>
+<p id="p-0125" num="0124">Advantageously, the foregoing manner in which track members <b>146</b> are mounted to framework <b>52</b>, and the manner in which tiles <b>54</b> are in turn mounted to track members <b>146</b>, provides substantial design flexibility to partition system <b>50</b>. Similarly, each of the functional tiles, which are described below, may also be selectively mounted upon framework <b>52</b> in the same manner as described above with respect to decorative tiles <b>54</b>.</p>
+<p id="p-0126" num="0125">The number mid-channel members <b>90</b> which are attached to the vertical frame members <b>64</b>, <b>66</b>, and <b>68</b> may be varied as required to in turn vary the number of track members <b>146</b> which are attached to framework <b>52</b>. Further, the number of track members <b>146</b> on each side of framework <b>52</b> may be varied to in turn accommodate varying height and/or positioning of tiles <b>54</b> on each side of framework <b>52</b>. As shown in <figref idref="DRAWINGS">FIG. 16</figref><i>a</i>, a number of tiles <b>54</b> of varying width and/or height may be mounted to opposite sides of framework <b>52</b>. For example, a number of tiles <b>54</b> are mounted to one side of framework <b>52</b> in <figref idref="DRAWINGS">FIG. 16</figref><i>a</i>, and a single, large tile <b>54</b> is mounted to the opposite side of framework <b>52</b>. Further, because tiles <b>54</b> are attached to track members <b>146</b>, which may span multiple framework sections <b>72</b> of framework <b>52</b>, tiles <b>54</b> in turn may also span one or more framework sections <b>72</b> and/or vertical frame members <b>64</b>-<b>68</b> as desired, as shown in <figref idref="DRAWINGS">FIG. 16</figref><i>b</i>, or may span only portions of framework sections <b>72</b>. For example, referring to <figref idref="DRAWINGS">FIG. 1</figref>, tiles <b>54</b><i>a </i>each span two adjacent framework sections <b>72</b>.</p>
+<p id="p-0127" num="0126">Top cap <b>180</b>, shown in <figref idref="DRAWINGS">FIG. 15</figref>, generally includes arched body portion <b>182</b> and a pair of leg portions <b>182</b>. As shown in <figref idref="DRAWINGS">FIG. 14</figref>, leg portions <b>182</b> rest upon upper front walls <b>154</b> of track members <b>146</b>, and the ends of leg portions <b>182</b> engage upper rear walls <b>160</b> of track members <b>146</b>, to attach top cap <b>180</b> to the uppermost track members <b>146</b> of the partition system framework <b>52</b>. Top cap <b>180</b> covers channel <b>78</b> of upper sub-frame members <b>74</b>, and provides an aesthetic, finished upper surface to framework <b>52</b> of partition system <b>50</b>. Referring to <figref idref="DRAWINGS">FIG. 2</figref>, vertical trim elements <b>186</b> include arched body portions <b>188</b> and C-shaped attachment fittings <b>190</b> which engage around uprights <b>82</b> of vertical frame members <b>64</b>, <b>66</b>, <b>68</b> to attach vertical trim elements to framework <b>52</b>. Similar to top caps <b>180</b>, vertical trim elements <b>186</b> provide aesthetic, finished surfaces to framework <b>52</b> of partition system <b>50</b> at locations where uprights <b>82</b> of vertical frame members <b>64</b>, <b>66</b>, <b>68</b> would otherwise be exposed, such as at L-, or T-junctions within framework <b>52</b>, or at the end portions of framework <b>52</b> where C-shaped vertical frame members <b>66</b> are located.</p>
+<p id="p-0128" num="0127">Referring to <figref idref="DRAWINGS">FIGS. 19 and 20</figref>, the attachment of floor trim elements <b>142</b> to framework <b>52</b> is shown. Floor trim elements <b>142</b> generally include faces <b>192</b> with attachment legs <b>194</b> depending rearwardly therefrom, which have inwardly-directed lugs <b>196</b>. C-shaped floor trim mounts <b>86</b> are secured to the lower ends of uprights <b>82</b> of vertical frame members <b>64</b>, <b>66</b>, and <b>68</b>, and terminate in bent ends <b>198</b>. Floor trim elements <b>142</b> are pressed onto floor trim mounts <b>86</b> such that attachment legs <b>194</b> of floor trim elements <b>142</b> are biased outwardly by engagement of lugs <b>196</b> with bent ends <b>198</b>, until lugs <b>196</b> clear bent ends <b>198</b> to return inwardly to their original positions, thereby engaging behind bent ends <b>198</b> to secure floor trim elements <b>142</b> to floor trim mounts <b>86</b>. Also, the upper portions of floor trim elements <b>142</b> above the upper attachment legs <b>194</b> thereof overlap horizontal walls <b>104</b> and ridges <b>106</b> of lower sub-frame members <b>76</b>. Further, referring to <figref idref="DRAWINGS">FIG. 19</figref>, lower attachment leg <b>194</b> of each floor trim element <b>142</b> may additionally engage floor trim mounts <b>130</b> of harness brackets <b>124</b>.</p>
+<p id="p-0129" num="0128">Framework <b>52</b> of partition system <b>50</b> may be mounted to existing, permanent walls <b>200</b> within an office space as shown in <figref idref="DRAWINGS">FIGS. 21</figref><i>a </i>and <b>22</b>. Referring to <figref idref="DRAWINGS">FIG. 21</figref><i>a</i>, an existing, permanent wall <b>200</b> generally includes studs <b>202</b> to which track members <b>146</b> are mounted as described in the above-incorporated U.S. Pat. No. 5,309,686. Specifically, track members <b>146</b> may be mounted to studs <b>202</b> of permanent wall <b>200</b> using bolts (not shown) or may also be mounted to the drywall or other facing wall material <b>204</b> of permanent wall <b>200</b> between studs <b>202</b> using a bolt and molly anchor assembly (not shown) for example. Also, decorative wall panels <b>206</b> may be mounted to permanent wall <b>200</b> between track members <b>146</b> as described in the above-incorporated U.S. Pat. No. 5,309,686.</p>
+<p id="p-0130" num="0129">To attach framework <b>52</b> of partition system <b>50</b> to permanent wall <b>200</b>, a vertical frame member of framework <b>52</b>, such as C-shaped vertical frame member <b>66</b>, is provided which mounting plate <b>208</b> attached to the face thereof opposite upper and lower sub-frame members <b>74</b>, <b>76</b> and mid-channel members <b>90</b>. Referring to <figref idref="DRAWINGS">FIG. 22</figref>, mounting plate <b>208</b> includes apertures <b>210</b> therein. Fasteners <b>212</b> are inserted through apertures <b>210</b> in mounting plate <b>208</b> and into rectangular-shaped connectors <b>214</b> which, when disposed in the orientation shown in <figref idref="DRAWINGS">FIG. 22</figref>, may be received within the channel of track members <b>146</b>. After connectors <b>214</b> are received within track members <b>146</b>, fasteners <b>212</b> are threaded further thereinto, eventually rotating connectors <b>214</b> such that connectors <b>214</b> engage behind upper front wall <b>154</b> and lower front wall <b>158</b> of track members <b>146</b>. In this manner, upper front wall <b>154</b> and lower front wall <b>158</b> of track members <b>146</b> are captured between connectors <b>214</b> and mounting plate <b>208</b> to attach framework <b>52</b> to mounting tracks <b>146</b> of permanent wall <b>200</b>. Generally, the foregoing attachment is used to either start a run of the partition system <b>50</b> from permanent wall <b>200</b>, or to end a run of the partition system <b>50</b> against permanent wall <b>200</b>, but may also be used to attach partition system <b>50</b> to permanent wall <b>200</b> wherever necessary along track members <b>146</b> within an interior office space, as indicated by the horizontal arrow in <figref idref="DRAWINGS">FIG. 21</figref><i>a. </i></p>
+<p id="p-0131" num="0130">Alternatively, as shown in <figref idref="DRAWINGS">FIG. 21</figref><i>b</i>, the same attachment system described above with respect to <figref idref="DRAWINGS">FIGS. 21</figref><i>a </i>and <b>22</b> may also be used to secure one run <b>52</b><i>a </i>of framework <b>52</b> to an intersecting run <b>52</b><i>b </i>of framework <b>52</b> within partition system <b>50</b> in a 90&#xb0; off-module connection. In <figref idref="DRAWINGS">FIG. 21</figref><i>b</i>, for example, framework run <b>52</b><i>a </i>may comprise a finished, existing segment of partition system <b>50</b> within a workspace, which includes track members <b>146</b> and tiles <b>54</b>, with framework run <b>52</b><i>b </i>added as an extension from framework run <b>52</b><i>a</i>. Notably, due to the continuous extension of track members <b>146</b>, framework run <b>52</b><i>b </i>may be attached to the track members <b>146</b> of framework run <b>52</b><i>a </i>at any selected location along framework run <b>52</b><i>a</i>, as indicated by the arrow in <figref idref="DRAWINGS">FIG. 21</figref><i>b</i>, which provides unrestricted possibilities for the division of space provided by partition system <b>50</b>.</p>
+<p id="p-0132" num="0131">Referring back to <figref idref="DRAWINGS">FIG. 21</figref><i>a</i>, it may be seen that when track members <b>146</b> are attached to framework <b>52</b> of partition system <b>50</b>, such track members <b>146</b> will horizontally align with the track members <b>146</b> on permanent wall <b>200</b>. Similarly, referring to <figref idref="DRAWINGS">FIG. 21</figref><i>b</i>, the track members of framework runs <b>52</b><i>a </i>and <b>52</b><i>b </i>will similarly align with one another. The alignment between the track members <b>146</b> of partition system <b>50</b> and track members <b>146</b> of permanent wall <b>200</b>, as shown in <figref idref="DRAWINGS">FIG. 21</figref><i>a</i>, and the alignment of the track members <b>146</b> of framework runs <b>52</b><i>a </i>and <b>52</b><i>b</i>, as shown in <figref idref="DRAWINGS">FIG. 21</figref><i>b</i>, provide visual continuity in partition system to enhance the aesthetic appearance of the partition system <b>50</b> when same is attached to permanent wall <b>200</b> and/or when partition system includes intersecting framework runs.</p>
+<p id="p-0133" num="0132">Referring to <figref idref="DRAWINGS">FIG. 23</figref>, the manner in which an additional or &#x201c;add-on&#x201d; framework run may be attached to an installed portion of partition system <b>50</b> is shown. In <figref idref="DRAWINGS">FIG. 23</figref>, a portion of partition system <b>50</b> includes an L-junction provided by an L-junction vertical frame member <b>68</b>, as installed in an interior space. The installed portion of partition system <b>50</b> further includes track members <b>146</b>, tile <b>54</b>, top caps <b>180</b>, corner cap <b>181</b> mounted to framework <b>52</b> as described herein to finish partition system <b>50</b>. However, after partition system <b>50</b> is installed, it is sometimes necessary to add an additional run of framework <b>52</b> thereto in order to reconfigure partition system <b>50</b> as desired. Advantageously, after a vertical trim element <b>186</b> (<figref idref="DRAWINGS">FIG. 2</figref>) is removed from one side of L-junction vertical frame member <b>68</b>, the side of L-junction vertical frame member <b>68</b> is exposed to accommodate the attachment of upper and lower sub-frame members <b>74</b>, <b>76</b>, as well as mid-channel member <b>90</b>, as described above. Then, as also described above, spanners <b>70</b> may be attached to upper and lower sub-frame members <b>74</b>, <b>76</b> to extend framework <b>52</b> from L-junction vertical frame member <b>68</b>. Finally, track members <b>146</b> may be attached to the new run of framework <b>52</b> to support decorative and functional tiles thereon in any desired configuration. In this manner, even after partition system <b>50</b> is fully installed, partition system <b>50</b> my be easily reconfigured as necessary to adapt to changing space division needs within an interior workspace.</p>
+<p id="p-0134" num="0133">Referring to <figref idref="DRAWINGS">FIGS. 24</figref><i>a</i>-<b>25</b>, a second embodiment of framework <b>52</b> is shown, in which L-, T- or X-junctions are provided within framework <b>52</b> according to an alternative construction. Referring back to the first embodiment shown in <figref idref="DRAWINGS">FIGS. 3</figref><i>a </i>and <b>3</b><i>b</i>, it may be seen that in order to provide an L-junction within framework <b>52</b>, L-junction vertical frame member <b>68</b> is provided, which includes two upper sub-frame members <b>74</b> and two lower sub-frame members <b>76</b> rigidly or removeably attached thereto. As also described above with respect to the first embodiment, T-junction or X-junction vertical frame members are necessary to provide T-junctions and X-junctions, respectively, within framework <b>52</b>. Further, in the first embodiment of framework <b>52</b> shown in <figref idref="DRAWINGS">FIGS. 3</figref><i>a </i>and <b>3</b><i>b</i>, C-shaped vertical frame members <b>66</b> are typically used only at the ends of a run of framework <b>52</b>, or as shown in <figref idref="DRAWINGS">FIGS. 21</figref><i>a</i>-<b>22</b>, are used in off-module connections of framework <b>52</b> to a permanent wall or to another run of framework <b>52</b>.</p>
+<p id="p-0135" num="0134">Referring to <figref idref="DRAWINGS">FIGS. 24</figref><i>a </i>and <b>24</b><i>b</i>, the second embodiment includes corner blocks <b>220</b>, which are used to connect up to four C-shaped vertical frame members to one another to provide L-, T-, and X-junctions within framework <b>52</b>. Corner blocks <b>220</b> may be formed of a single metal extrusion, for example, or may alternatively be formed from a series of metal pieces attached to one another. Corner blocks <b>220</b> generally include central portion <b>222</b>, and four outwardly-opening channels <b>224</b> terminating in upright abutment flanges <b>226</b>. Attachment tubes <b>228</b> are pivotally mounted within channels <b>224</b> upon pins <b>230</b> which are received through transverse bores <b>232</b> of attachment tubes <b>228</b> and through the walls of channels <b>224</b>. Referring to <figref idref="DRAWINGS">FIG. 24</figref><i>b</i>, each attachment tube <b>228</b> additionally includes a longitudinal, threaded bore <b>234</b> extending therein opposite the ends of attachment tubes <b>228</b> which are attached to channels <b>224</b>. Referring to <figref idref="DRAWINGS">FIG. 24</figref><i>a</i>, each attachment tube <b>228</b> is pivotable between a retracted position in which the attachment tube <b>228</b> is disposed within a corresponding channel <b>224</b> of corner block <b>220</b> and an extended position in which attachment tube <b>228</b> is disposed perpendicular to channel <b>224</b> of corner block. In the extended position, the attachment tube <b>228</b> extends outwardly from corner block for attachment to uprights <b>82</b> of C-shaped vertical frame members <b>66</b>, as described below.</p>
+<p id="p-0136" num="0135">Referring to <figref idref="DRAWINGS">FIG. 24</figref><i>b</i>, when an attachment tube is in an extended position, same may be inserted through first aperture <b>236</b> in the wall on a first side of upright <b>82</b> of a C-shaped vertical frame member <b>66</b> until the end of attachment tube <b>228</b> abuts the interior opposite wall of upright <b>82</b> around second aperture <b>238</b>, which is smaller in diameter than first aperture <b>236</b>. The abutment of the end of attachment tube <b>228</b> with the wall of upright <b>82</b> about second aperture <b>238</b>, as well as the abutment of the wall of upright <b>82</b> about first aperture <b>236</b> with upright abutment flanges <b>226</b> of channel <b>224</b>, acts as stop upon extension of attachment tube <b>228</b> into upright <b>83</b>, and indicates to an installer that upright <b>82</b> is properly positioned with respect to corner block <b>220</b>. Thereafter, a fastener <b>240</b> is inserted through second aperture <b>238</b> into threaded bore <b>234</b> of attachment tube <b>228</b> to secure upright <b>82</b> of C-shaped vertical frame member <b>66</b> to corner block <b>220</b>. As may be seen from <figref idref="DRAWINGS">FIGS. 24</figref><i>a </i>and <b>24</b><i>b</i>, two C-shaped vertical frame members <b>66</b> may be connected to corner block <b>220</b> at a right angle to provide an L-junction within framework <b>52</b>. Further, three or four C-shaped vertical frame members <b>66</b> may be connected to corner block <b>230</b> to provide a T-junctions or an X-junctions within framework <b>52</b>, respectively, as desired. When not in use, attachment tubes <b>228</b> are disposed in the above-described retracted position. Thus, in the second embodiment, because only C-shaped vertical frame members <b>66</b> are used to form L-, T-, and X-type junctions within framework <b>52</b>, the use of specialized L-, T-, and X-junction vertical frame members is not required to form L-, T-, and X-type junctions within framework <b>52</b>, thus reducing the number of types of vertical frame members required.</p>
+<p id="p-0137" num="0136">Referring to <figref idref="DRAWINGS">FIG. 25</figref>, swivel bracket <b>242</b> is provided to secure the upper ends of adjacent C-shaped vertical frame members when same are connected to corner block <b>230</b> in an L-, T-, or X-junction in the second embodiment. Swivel bracket <b>242</b> includes a pair of L-shaped metal plates pivotally secured to one another as shown in <figref idref="DRAWINGS">FIG. 25</figref>. In the orientation shown in <figref idref="DRAWINGS">FIG. 25</figref>, swivel bracket <b>242</b> has an X-shape with four exposed blades <b>244</b> which are received within channels <b>78</b> of the upper sub-frame members <b>74</b> of four C-shaped vertical frame members <b>66</b> to secure same together in an X-junction. Swivel bracket <b>242</b> may be rotated along arrow <b>246</b> in <figref idref="DRAWINGS">FIG. 25</figref> to overlap two blades <b>244</b> such that swivel bracket <b>242</b> has a T-shape for receipt within channels <b>78</b> of the upper sub-frame members <b>74</b> of three adjacent C-shaped vertical frame members <b>66</b> to secure same together in a T-junction. Finally, swivel bracket <b>242</b> may be rotated along arrow <b>248</b> in <figref idref="DRAWINGS">FIG. 25</figref> to overlap two sets of blades <b>244</b> such that swivel bracket <b>242</b> has a L-shape for receipt within channels <b>78</b> of the upper sub-frame members <b>74</b> of two adjacent C-shaped frame members <b>66</b> to secure same together in an L-junction.</p>
+<p id="p-0138" num="0137">Referring to <figref idref="DRAWINGS">FIGS. 17 and 18</figref>, window tile <b>380</b> is shown mounted to framework <b>52</b> of an exemplary partition system <b>50</b>. Window tile <b>380</b> includes a pair of opposing window frame units <b>382</b>, each defined by horizontal and vertical frame members <b>384</b>, <b>386</b>, respectively. Window frame units <b>382</b> are attached to framework <b>52</b> in the same manner as described above with respect to tiles <b>54</b>, wherein the edges of horizontal frame members <b>384</b> thereof are captured by track members <b>146</b>. Each frame member <b>384</b>, <b>386</b> includes embossments <b>388</b> for receipt of fasteners (not shown) for attaching frame members <b>384</b>, <b>386</b> together to define rectangular window frame units <b>382</b>. A glass or other transparent or translucent pane <b>390</b> is attached to one of the opposing frame units <b>382</b> by brackets <b>392</b>, and is captured between opposing frame units <b>382</b> and located centrally within framework <b>52</b> when the opposing frame units <b>382</b> are attached to framework <b>52</b>. Alternatively, a sheet of fabric mesh or other material may be attached to one of frame members <b>384</b>, <b>386</b> by brackets <b>392</b>, by adhesive, or by a spline (not shown) secured to one of members <b>384</b>, <b>386</b> in a suitable manner. Such fabric mesh or other material may provide a semi-opaque transition through framework <b>52</b>, which provides visual privacy yet allows for air and sound passage between the opposite sides of partition system <b>50</b>.</p>
+<p id="p-0139" num="0138">In <figref idref="DRAWINGS">FIGS. 26-45</figref><i>d</i>, a variety of functional tiles are shown which, in addition to decorative tiles <b>54</b>, may be mounted to framework <b>52</b> of partition system <b>50</b> to provide functional features thereto. Generally, each of the functional tiles described below includes an upper edge and a lower edge similar to decorative tiles <b>54</b>, enabling the functional tiles to be attached to framework <b>52</b> of partition system <b>50</b> in the same manner as that described above with respect to decorative tiles <b>54</b>. Thus, the attachment of each functional tile below to framework <b>52</b> will not be further described.</p>
+<p id="p-0140" num="0139">Referring to <figref idref="DRAWINGS">FIGS. 26-28</figref>, retractable workspace tile <b>56</b><i>a </i>is shown, which includes tile body <b>250</b> having upper and lower edges, and work surface frame <b>252</b> pivotally connected by pivot hinge <b>254</b> at a lower end thereof to tile body <b>250</b>. Work surface frame <b>252</b> is also connected to tile body <b>250</b> by a pair of retracting-type hinges <b>256</b> such that work surface frame <b>252</b> may be move between a retracted or storage position, shown in <figref idref="DRAWINGS">FIG. 26</figref>, and an extended or use position, shown in <figref idref="DRAWINGS">FIGS. 27 and 28</figref>. In the extended or use position shown in <figref idref="DRAWINGS">FIGS. 27 and 28</figref>, work surface frames are supported by retracting-type hinges <b>256</b> to define workspace area <b>258</b>. Referring to <figref idref="DRAWINGS">FIGS. 27 and 28</figref>, work surface <b>260</b> includes handle recess <b>262</b> which may be grasped by a user to pull work surface <b>260</b> outwardly of work surface frame <b>252</b> to an extended position shown in <figref idref="DRAWINGS">FIG. 28</figref>. As shown in <figref idref="DRAWINGS">FIG. 27</figref>, any of the retractable workspace tiles <b>56</b> described herein may include magnet <b>265</b> on tile body <b>250</b> (or to work surface <b>260</b>) aligned to engage magnetically attractive material <b>267</b> on work surface <b>260</b> (or on tile body <b>250</b>) to hold work surface <b>260</b> against tile body <b>250</b> when work surface frame is disposed in the retracted, non-use position. Additionally, tile body <b>250</b> of retractable work surface tile <b>56</b><i>a </i>may include a power/data module <b>264</b> mounted therein, including electrical outlet <b>269</b> and data port <b>271</b> for providing electrical and/or data services to workspace area <b>258</b>.</p>
+<p id="p-0141" num="0140">Referring to <figref idref="DRAWINGS">FIGS. 29-33</figref>, a second retractable workspace tile <b>56</b><i>b </i>is shown, which is similar to retractable workspace tile <b>56</b><i>a</i>, and includes upper and lower retractable workspace frames <b>252</b><i>a</i>, <b>252</b><i>b </i>moveable between retracted or storage positions, shown in <figref idref="DRAWINGS">FIGS. 29</figref>, <b>30</b>, and <b>33</b>, and extended or use positions, shown in <figref idref="DRAWINGS">FIGS. 30-32</figref> to define upper and lower workspaces areas <b>258</b><i>a</i>, <b>258</b><i>b</i>, respectively. Outlet modules <b>264</b> may be provided within tile body <b>250</b> of retractable workspace tile <b>56</b><i>b </i>to provide electrical and/or data services to each workspace area <b>258</b><i>a</i>, <b>258</b><i>b</i>. Additionally, retractable work space tile <b>56</b><i>b </i>includes center tile <b>266</b> which is normally disposed in a lowered position as shown in <figref idref="DRAWINGS">FIGS. 29-32</figref>, but which also may be pivoted to a raised position, shown in <figref idref="DRAWINGS">FIG. 33</figref>, to provide access to a lighting fixture, for example, which may be disposed behind center tile <b>266</b> to provide lighting to upper or lower workspace areas <b>258</b><i>a</i>, <b>258</b><i>b. </i></p>
+<p id="p-0142" num="0141">Referring to <figref idref="DRAWINGS">FIG. 34</figref>, storage tile <b>270</b> is shown, which includes upper and lower edges and tile body portion <b>272</b> defining cavity <b>274</b> therein. When storage tile <b>270</b> is mounted to framework <b>52</b> of partition system <b>50</b>, cavity <b>274</b> of storage tile <b>270</b> is disposed within the interior space of framework <b>52</b>. Thus, in many of the applications described further below, storage tile <b>270</b> advantageously facilitates the use of the interior space within framework <b>52</b> for storage.</p>
+<p id="p-0143" num="0142">Referring to <figref idref="DRAWINGS">FIGS. 35 and 36</figref>, portable storage components, namely horizontal file pocket <b>276</b> and vertical file pocket <b>278</b> according to a first embodiment, are shown, which each body portions defined by front wall <b>280</b><i>a</i>, <b>280</b><i>b </i>rear wall <b>282</b><i>a</i>, <b>282</b><i>b</i>, side walls <b>284</b><i>a</i>, <b>284</b><i>b</i>, and bottom walls <b>286</b> defining storage spaces <b>288</b><i>a</i>, <b>288</b><i>b</i>, respectively. Storage spaces <b>288</b><i>a</i>, <b>288</b><i>b </i>may be used to hold papers or office supplies, for example. Front and rear walls <b>280</b><i>a</i>, <b>280</b><i>b </i>include apertures <b>290</b> therein defining handles <b>292</b>, and also include hooks <b>294</b> at the opposite upper ends thereof.</p>
+<p id="p-0144" num="0143">As shown in <figref idref="DRAWINGS">FIG. 37</figref>, horizontal and vertical file pockets <b>276</b> and <b>278</b> may be mounted within storage tile <b>270</b> by engaging hooks <b>294</b> thereof within apertures <b>296</b> in rear wall <b>298</b> of tile body portion <b>272</b> of storage tile <b>270</b>, wherein bottom walls <b>286</b> of horizontal and vertical file pockets <b>276</b> and <b>278</b> rest against bottom wall <b>300</b> of tile body portion <b>272</b> of storage tile <b>270</b>. In <figref idref="DRAWINGS">FIG. 38</figref>, a horizontal series of horizontal file pockets <b>276</b> are shown mounted within storage tile <b>270</b>, and in <figref idref="DRAWINGS">FIG. 39</figref>, a horizontal series of vertical file pockets <b>278</b> are shown mounted within storage tile <b>270</b>.</p>
+<p id="p-0145" num="0144">In <figref idref="DRAWINGS">FIGS. 43</figref><i>a </i>and <b>43</b><i>b</i>, storage tile <b>270</b> includes a pair of retractable storage bins <b>302</b>. Referring to <figref idref="DRAWINGS">FIG. 43</figref><i>b</i>, retractable storage bins <b>302</b> are pivotally mounted within storage tile <b>270</b> such that same may be selectively moved between a retracted storage position in which storage bins <b>302</b> are disposed substantially within cavity <b>274</b> of tile body <b>272</b>, and an extended access position in which at least the upper portions of storage bins <b>302</b> are pivoted outwardly of cavity <b>274</b> of tile body <b>272</b> to expose same for access. Retractable storage bins <b>302</b> may be sized to hold horizontal and/or vertical pockets <b>276</b> and <b>278</b> therein, as shown in <figref idref="DRAWINGS">FIG. 43</figref><i>b</i>. As shown in <figref idref="DRAWINGS">FIGS. 43</figref><i>a </i>and <b>43</b><i>b</i>, storage bins <b>302</b> additionally include handles <b>304</b> attached to the upper edges thereof, which may be grasped by a user to move same between the retracted storage position and the extended access position. Retractable storage bins <b>302</b> may accommodate papers or other office supplies.</p>
+<p id="p-0146" num="0145">In <figref idref="DRAWINGS">FIG. 43</figref><i>c</i>, storage tile <b>270</b> may include net enclosure <b>306</b> attached to tile body portion <b>272</b>, which extends across the front face of cavity <b>274</b> in tile body portion <b>272</b> to define a storage area therein. Net enclosure <b>306</b> is useful for storing odd-shaped or bulky items within storage tile <b>270</b>, and may be made of a stretchable material to allow net enclosure <b>306</b> to stretch as needed to contain such items.</p>
+<p id="p-0147" num="0146">Referring to <figref idref="DRAWINGS">FIG. 43</figref><i>d</i>, storage tile <b>270</b> may additionally include compact disk (CD) holder <b>308</b>, which includes an arch-shaped body <b>310</b> having a series of arch-shaped slots <b>312</b> therein which are dimensioned to receive compact disks <b>314</b> in a horizontal orientation for storage, as shown in <figref idref="DRAWINGS">FIG. 43</figref><i>d</i>. Additionally, as shown in <figref idref="DRAWINGS">FIGS. 43</figref><i>d </i>and <b>43</b><i>e</i>, storage tile <b>270</b> may include retractable paper files <b>316</b> pivotally mounted to tile body portion <b>272</b> at the lower edges thereof, which generally include front plate <b>318</b> having handle <b>320</b> mounted thereto and optionally, a key-actuated lock <b>322</b>. Front plate <b>318</b> may be attached to rails <b>324</b>, shown in <figref idref="DRAWINGS">FIG. 43</figref><i>e</i>, to enable hanging-type file folders to be hung therefrom for storage within cavity <b>274</b> of tile body portion <b>272</b>.</p>
+<p id="p-0148" num="0147">Referring to <figref idref="DRAWINGS">FIG. 40</figref>, another portable storage component, namely file pocket <b>279</b> according to a second embodiment, is shown. Many features of file pocket <b>279</b> which are identical to those of file pockets <b>276</b>, <b>278</b> are denoted with identical reference numerals. File pocket <b>279</b> includes modified hooks <b>281</b>, which are adapted to engage within track members <b>146</b>, as shown in <figref idref="DRAWINGS">FIG. 42</figref>.</p>
+<p id="p-0149" num="0148">As shown in <figref idref="DRAWINGS">FIG. 42</figref>, file pockets <b>279</b> may be attached to partition system <b>50</b> in a variety of different locations. For example, a number of first horizontal file pockets <b>279</b><i>a </i>are shown mounted within storage tile <b>270</b>, as described above with respect to <figref idref="DRAWINGS">FIG. 37</figref>. A second horizontal file pocket <b>279</b><i>b </i>is shown with hooks <b>281</b> thereof engaged within channel <b>147</b> of track member <b>146</b>. Thus, in this manner, file pockets <b>279</b> may be attached to track members <b>146</b> anywhere within partition system <b>50</b>. A third horizontal file pocket <b>279</b><i>c </i>is shown mounted within cavity <b>274</b> of storage tile <b>270</b>, and is retained therein by net enclosure <b>306</b>. A fourth horizontal file pocket <b>279</b><i>d </i>is held within retractable storage bin <b>302</b> of another storage tile <b>270</b>, in the manner shown in <figref idref="DRAWINGS">FIG. 43</figref><i>b </i>above.</p>
+<p id="p-0150" num="0149">Referring to <figref idref="DRAWINGS">FIG. 41</figref>, it may be seen that file pockets <b>279</b> are sized for receipt within a standard sized drawer <b>275</b> of a file cabinet <b>273</b>, with hooks <b>281</b> of file pocket <b>279</b> engaging rails <b>277</b> within drawer <b>275</b> to hang file pocket <b>276</b> within drawer <b>275</b>. Typically, in a standard sized filing cabinet, the width between rails <b>277</b> is nominally about 310 millimeters; however, the foregoing width may vary from about 305 millimeters to about 315 millimeters, for example. Therefore, file pockets <b>279</b> may advantageously be used for storage within drawers <b>275</b> of file cabinet <b>273</b>, may be attached or mounted to partition system <b>50</b> in any of the ways described above and shown in <figref idref="DRAWINGS">FIG. 42</figref>, or further, may be selectively moved between storage in drawers <b>275</b> of file cabinet <b>273</b> and attachment to partition system <b>50</b> as desired.</p>
+<p id="p-0151" num="0150">In <figref idref="DRAWINGS">FIG. 44</figref>, media tile <b>330</b> is shown, which includes upper and lower edges <b>332</b>, <b>334</b> and central plate <b>336</b>. Upper edge <b>332</b> of media tile <b>330</b> includes a resilient beading <b>338</b> therein, such that papers, pictures, or other flat materials may be inserted upwardly between beading <b>338</b> and central plate <b>336</b> to capture same therebetween for attachment to media tile <b>330</b> for display. Additionally, central plate <b>336</b> may be made of a suitable metal, such that magnets (not shown) may be used to attach paper, pictures, or other such materials to central plate <b>336</b>.</p>
+<p id="p-0152" num="0151">Referring to <figref idref="DRAWINGS">FIGS. 45</figref><i>a</i>-<b>45</b><i>d</i>, electrical tile <b>340</b> is shown, which may be used to provide electrical and/or data services to any selected vertical location within framework <b>52</b> of partition system <b>50</b>. Electrical tile <b>340</b> generally includes front face <b>342</b> having one or more outlet module apertures <b>344</b> therein, as well as upper edge <b>346</b> and lower edge <b>348</b>, and inwardly-curved side edges <b>350</b>. Outlet module apertures <b>344</b> receive trim elements <b>352</b> therein, which are shown in <figref idref="DRAWINGS">FIG. 45</figref><i>b</i>, and which may be made of a resilient material to enable same to be press-fitted within outlet module apertures <b>344</b>, such that the rim of front face <b>342</b> of electrical tile <b>340</b> around outlet module apertures <b>344</b> is captured within groove <b>354</b> of trim elements <b>352</b>. Trim elements <b>352</b> define central openings <b>356</b> therein for receipt of outlet modules <b>358</b> which, as shown in <figref idref="DRAWINGS">FIG. 46</figref>, may include electrical receptacles <b>360</b> and/or data ports <b>362</b>.</p>
+<p id="p-0153" num="0152">Referring to <figref idref="DRAWINGS">FIGS. 45</figref><i>c </i>and <b>45</b><i>d</i>, outlet module brackets <b>364</b> include tongues <b>366</b> at the opposite ends thereof which are received within slots <b>368</b> in upper and lower edges <b>346</b>, <b>348</b> of electrical tile <b>340</b>, respectively, to attach electrical outlet brackets <b>364</b> thereto. Outlet modules <b>358</b> are in turn connected to outlet module brackets <b>364</b> by suitable fasteners, for example, and outlet modules <b>358</b> extend through central openings <b>356</b> in trim elements <b>352</b>, and jumper connection ports <b>370</b> thereof are exposed behind electrical tile <b>340</b> for connection to jumpers (not shown) which are used to connect outlet modules <b>358</b> to suitable components of the electrical and/or data system within framework <b>52</b>, such as harness assemblies <b>122</b> (<figref idref="DRAWINGS">FIG. 12</figref>).</p>
+<p id="p-0154" num="0153">Additionally, referring to <figref idref="DRAWINGS">FIGS. 45</figref><i>a</i>, <b>45</b><i>c </i>and <b>45</b><i>d</i>, side panels <b>372</b> are captured between upper and lower edges <b>346</b>, <b>348</b> of electrical tile <b>340</b>, and may be slidably extended outwardly of electrical tile <b>340</b> to increase the effective width of electrical tile <b>340</b> as needed when electrical tile <b>340</b> is mounted to framework <b>52</b> of partition system <b>50</b>. Side panels <b>372</b> include lugs <b>374</b>, shown in <figref idref="DRAWINGS">FIG. 45</figref><i>d</i>, which are received within slots <b>376</b> in upper and lower edges <b>346</b>, <b>348</b> of electrical tile <b>340</b> to limit the travel of side panels <b>372</b> between the extreme retracted and extended positions of side panels <b>372</b>.</p>
+<p id="p-0155" num="0154">Referring to <figref idref="DRAWINGS">FIGS. 46</figref><i>a </i>and <b>46</b><i>b</i>, an adjustable work surface bracket <b>420</b> is shown, including vertical member <b>422</b> and horizontal member <b>424</b>. Vertical member <b>422</b> includes mounting structure for receipt within channel <b>147</b> of a track member <b>146</b> of partition system <b>50</b>, including hanger portion <b>426</b> which hangs over lower front wall <b>158</b> of track member <b>146</b>, and disengagement portion <b>428</b> which projects vertically within channel <b>147</b> of track member <b>146</b> to prevent disengagement of vertical member <b>422</b> from channel <b>147</b> of track member <b>146</b>. Vertical member <b>422</b> additionally includes plate portion <b>430</b> having a plurality of vertically spaced slots <b>432</b>. Horizontal member <b>424</b> is attached to the underside of a work surface <b>434</b> by suitable fasteners, such as screws <b>436</b> inserted through holes <b>437</b> in horizontal member <b>424</b>. Horizontal member <b>424</b> also includes a vertical tab <b>438</b> which may be received within any of the several slots <b>432</b> of vertical member <b>422</b>. In this manner, by varying the connection between tab <b>438</b> of horizontal member <b>424</b> and any one of slots <b>432</b> of vertical member <b>422</b>, work surface <b>434</b> may be adjustably mounted to any track member <b>146</b> of partition system <b>50</b>.</p>
+<p id="p-0156" num="0155">Referring to <figref idref="DRAWINGS">FIGS. 47</figref><i>a </i>and <b>47</b><i>b</i>, work surface support post <b>440</b> includes cantilever portion <b>442</b> and support portion <b>444</b>. Cantilever portion <b>442</b> includes planer surface <b>446</b> to which work surface <b>434</b> may be attached with fasteners <b>436</b>, such as screws, and also includes vertical tab <b>448</b> for connection with any one of slots <b>432</b> of vertical member <b>424</b> of bracket <b>420</b>. Thus, vertical member <b>422</b> is used in common with work surface bracket <b>420</b> and support post <b>440</b>. Cantilever portion <b>442</b> includes a plurality of vertically spaced holes <b>450</b> therein. Support portion <b>444</b> nests within cantilever portion <b>442</b>, and also includes a plurality of vertically spaced holes <b>452</b> which may be selectively aligned with holes <b>450</b> of cantilever portion <b>442</b>. Suitable fasteners <b>454</b> are used to attach cantilever portion <b>442</b> to support portion <b>444</b> in a vertically adjustable manner using the foregoing holes <b>450</b> and <b>452</b>. Support portion <b>444</b> includes an adjustable glide <b>456</b> which engages a floor surface. Referring to <figref idref="DRAWINGS">FIG. 47</figref><i>b</i>, it may be seen that when work surface <b>434</b> is mounted to a track member <b>146</b> of partition system <b>50</b> in the manner described above, support post <b>440</b> supports at least a portion of the load of work surface <b>434</b>. Also, as shown in <figref idref="DRAWINGS">FIG. 47</figref><i>b</i>, the relatively thin profiles of cantilever portion <b>442</b> and support portion <b>444</b> provide knee space beneath work surface <b>434</b> for a user seated at work surface <b>434</b>.</p>
+<p id="p-0157" num="0156">While this invention has been described as having a preferred design, the present invention can be further modified within the spirit and scope of this disclosure. This application is therefore intended to cover any variations, uses, or adaptations of the invention using its general principles. Further, this application is intended to cover such departures from the present disclosure as come within known or customary practice in the art to which this invention pertains and which fall within the limits of the appended claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. In combination:
+<claim-text>a permanent wall including at least one track member mounted thereon, said track member disposed horizontally and defining a channel which opens horizontally outwardly of said permanent wall; and</claim-text>
+<claim-text>a partition system framework having at least one track member mounted thereon, said track member disposed horizontally and defining a channel which opens horizontally outwardly of said framework, said framework attached to at least one track member on said permanent wall, said at least one track member on said permanent wall and said at least one track member on said framework horizontally aligned with one another.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The combination of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said track member on said permanent wall and said track member on said framework are identical in cross-section.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The combination of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising at least one mounting component connecting said framework to at least one track member on said permanent wall.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The combination of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said permanent wall and said framework each include at least two track members attached thereto which are vertically spaced from one another, said track members each including tile retaining structure.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The combination of <claim-ref idref="CLM-00004">claim 4</claim-ref>, further comprising at least one tile mounted respectively to each of said permanent wall and said framework, each said tile retained between respective vertically spaced track members on said permanent wall and on said framework such that said horizontally outwardly opening channels of said track members are not covered by said tiles.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The combination of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein said tiles are located at one of a plurality of horizontally spaced locations along said track members.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The combination of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising at least one modular furniture component attached to said channel of one of said track members.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. A partition system, comprising:
+<claim-text>a framework including vertical frame elements and horizontal frame elements;</claim-text>
+<claim-text>a pair of vertically spaced, horizontal track members attached to said framework, said track members including vertically-oriented channels facing one another; and</claim-text>
+<claim-text>at least one service tile having upper and lower edges retained within said vertically-oriented channels between said track members and disposed facewise adjacent said framework, said services tile including at least one of an electrical outlet and a data outlet.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The partition system of <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein each said track member further includes a channel which opens horizontally outwardly of said framework, said channel not covered by said at least one tile.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The partition system of <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein said at least one tile is selectively locatable at one of a plurality of variable horizontally spaced locations along said track members irrespective of the positioning of said frame elements.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The partition system of <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein said services tile includes at least one side panel slidable between a retracted position and an extended position with respect to said services tile to thereby selectively decrease and increase the effective width of said services tile.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The partition system of <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein said services tile includes a planar front face including at least one aperture receiving said at least one of an electrical outlet and a data outlet.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The partition system of <claim-ref idref="CLM-00012">claim 12</claim-ref>, further comprising a resilient trim element received within each said aperture, said trim element defining an opening in which said at least one of an electrical outlet and a data outlet is received.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The partition system of <claim-ref idref="CLM-00012">claim 12</claim-ref>, further comprising a bracket extending along at least a portion of a rear side of said front face and spaced therefrom, said at least one of an electrical outlet and a data outlet attached to said bracket.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. A partition system, comprising:
+<claim-text>a framework including vertical frame elements and horizontal frame elements; and</claim-text>
+<claim-text>at least one service tile having upper and lower edges attached to and disposed facewise adjacent said framework, said services tile including at least one of an electrical outlet and a data outlet, and at least one side panel slidable between a retracted position and an extended position with respect to said service tile to thereby selectively decrease and increase the effective width of said service tile.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The partition system of <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein said framework further includes a pair of vertically spaced, horizontal track members attached to said framework, said track members including vertically-oriented channels facing one another, said upper and lower edges of said services tile retained within said vertically-oriented channels between said track members.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The partition system of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein said at least one tile is selectively locatable at one of a plurality of variable horizontally spaced locations along said track members irrespective of the positioning of said frame elements.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The partition system of <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein said services tile includes a planar front face including at least one aperture receiving said at least one of an electrical outlet and a data outlet.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The partition system of <claim-ref idref="CLM-00018">claim 18</claim-ref>, further comprising a resilient trim element received within each said aperture, said trim element defining an opening in which said at least one of an electrical outlet and a data outlet is received.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The partition system of <claim-ref idref="CLM-00018">claim 18</claim-ref>, further comprising a bracket extending along at least a portion of a rear side of said front face and spaced therefrom, said at least one of an electrical outlet and a data outlet attached to said bracket. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

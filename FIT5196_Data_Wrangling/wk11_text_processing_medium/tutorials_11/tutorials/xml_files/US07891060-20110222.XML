@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891060-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891060</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11640685</doc-number>
+<date>20061218</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>GB</country>
+<doc-number>0525941.1</doc-number>
+<date>20051221</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>991</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>16</class>
+<subclass>G</subclass>
+<main-group>11</main-group>
+<subgroup>04</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 24136R</main-classification>
+</classification-national>
+<invention-title id="d2e71">Clamp</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>1504087</doc-number>
+<kind>A</kind>
+<name>Brady</name>
+<date>19240800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>2526661</doc-number>
+<kind>A</kind>
+<name>Mariana</name>
+<date>19501000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3467224</doc-number>
+<kind>A</kind>
+<name>Curtis et al.</name>
+<date>19690900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>3986583</doc-number>
+<kind>A</kind>
+<name>Kinzbach</name>
+<date>19761000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>188 67</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>4498563</doc-number>
+<kind>A</kind>
+<name>Trahan</name>
+<date>19850200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>FR</country>
+<doc-number>1 574 238</doc-number>
+<date>19800900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>GB</country>
+<doc-number>2 214 953</doc-number>
+<date>19890900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>GB</country>
+<doc-number>0 624 803.3</doc-number>
+<date>20070300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>37</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 24136 R</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 24115 M</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 24136 B</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>188 67</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>188 651</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>175423</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>166 882</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>166 7751</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>166 7753</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>9</number-of-drawing-sheets>
+<number-of-figures>39</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20070141922</doc-number>
+<kind>A1</kind>
+<date>20070621</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Ross</last-name>
+<first-name>Ralph Barclay</first-name>
+<address>
+<city>Aberdeen</city>
+<country>GB</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>GB</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Murray</last-name>
+<first-name>Bruce Andrew</first-name>
+<address>
+<city>Aberdeenshire</city>
+<country>GB</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>GB</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Taft Stettinius &#x26; Hollister LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Muro, Test and Certification UK</orgname>
+<role>03</role>
+<address>
+<city>Aberdeen</city>
+<country>GB</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Brittain</last-name>
+<first-name>James R</first-name>
+<department>3677</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A clamp for an oil well line is disclosed, the clamp having a casing, typically a pair of wedge members defining a line receiving recess between them and wherein the wedge member are movable within a channel in the casing to move together and grip the line when axial force is applied to the line. The radially outermost faces of the wedge members are typically shaped to match the taper of the channel in the casing, and so are pressed together as they move axially down the tapered channel. One wall of the channel is typically movable to disengage from the wedge member when the gripping force is to be removed. The line-receiving recess can be in the form of an arc or a dog leg, and can be lined with a high friction material or a softer material to minimize damage to the line by the clamping force.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="205.82mm" wi="143.85mm" file="US07891060-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="218.78mm" wi="145.80mm" file="US07891060-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="208.28mm" wi="150.71mm" file="US07891060-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="242.91mm" wi="173.74mm" file="US07891060-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="214.21mm" wi="170.43mm" file="US07891060-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="233.17mm" wi="140.55mm" file="US07891060-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="222.50mm" wi="147.74mm" file="US07891060-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="207.43mm" wi="147.57mm" orientation="landscape" file="US07891060-20110222-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="211.16mm" wi="147.32mm" orientation="landscape" file="US07891060-20110222-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="224.11mm" wi="109.81mm" orientation="landscape" file="US07891060-20110222-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">CROSS REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application claims the benefit under 35 U.S.C. &#xa7;119 of United Kingdom Patent Application Serial No. 0525941.1, filed Dec. 21, 2005, and entitled &#x201c;Clamp,&#x201d; the disclosure of which is incorporated herein by reference.</p>
+<heading id="h-0002" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0003" num="0002">This invention relates to a clamp. The invention particularly relates to a clamp for clamping wire or line in an oil or gas well.</p>
+<heading id="h-0003" level="1">DESCRIPTION OF THE RELATED ART</heading>
+<p id="p-0004" num="0003">It is common practice in the art of producing from oil and gas wells to deploy tools and other devices in the well and to suspend them from the surface by means of lines such as wireline or slickline, which are well known in the art. In the case of slickline, the line can be a plain cable, used to suspend and deliver a string of tools to a location in the wellbore. For example, slickline might be used to deliver a plug setting tool to the perforation zone. In the case of wireline, as well as a tensile support for the string, the line can incorporate signal conduits to transfer data back to the surface from well logging tools in the string, and/or power conduits to deliver power to downhole motors and pumps etc. within the string or elsewhere in the wellbore.</p>
+<p id="p-0005" num="0004">Over the years, wells have become deeper and tools have become more numerous and heavier, so the length and load-bearing capacity of wireline and slickline has increased to keep pace. Also, the complexity of the data that is recoverable from wells has also increased, so the lines must now carry more data. Present designs of wireline and slickline are therefore complex items with high capacities for loads and data transfer, and a high value.</p>
+<p id="p-0006" num="0005">When the tool string is run into the hole, the line is typically spooled out under tension from a winch drum. The winch drum might be located at a different location on the rig, and the line typically passes from the drum and over sheaves etc. on the derrick before passing into the hole. When the tool string is to be recovered, the winch drum motor is reversed to pull in the line and recover the string. Occasionally, during this recovery process, the tool string becomes stuck in the hole, for example where the aperture in the casing has narrowed due to scale build up or debris obstructing the hole, and the tool cannot pass back up through the narrowed aperture. Sometimes the winch motor can pull these snagged tool strings free if the tension on the line does not increase above a threshold of, for example, around 60%-70% of the capacity of the line. Above that threshold, breaking and crush damage of the line becomes more likely, and it is unsafe to recover the string by continued rotation of the drum winch, since if the line snaps between the hole and the drum, workers in the surrounding area could be injured. Also, with increasing weights of string, the load of the snagged string is sometimes too heavy for the drum winch motor and/or the sheaves etc. In such cases, clamps are presently used to grip the line just above the hole, and the lifting force is applied to the clamp rather than by the drum motor. This removes the strain from the relatively low capacity sheaves and the drum winch, and also ensures that any breakages of the line occur below the clamp and therefore do not endanger the rig workers to the same extent. Also, the higher rated derrick winch can be used to lift the clamp, applying a higher force than the drum winch.</p>
+<p id="p-0007" num="0006">This approach sometimes frees the snagged string, allowing recovery as normal, but in some cases, the tools are snagged so tightly downhole that they cannot be recovered by pulling on the line, and in those instances, a decision is sometimes taken to clamp the line just above the hole, and pull from the derrick winch to deliberately break the line at a weakened connection pre-installed close to the tool, so that most of the line can be recovered without significant damage. The tool string can then be &#x201c;fished&#x201d; by other means.</p>
+<p id="p-0008" num="0007">In present designs of clamps, the line is held between two plates that are bolted together around the line. The bolts (usually 8 or so) are inserted through the plates and tensioned manually to the same torque. This design is time consuming to assemble and prone to slippage, and for this reason multiple clamps are sometimes used in tandem.</p>
+<heading id="h-0004" level="1">INTRODUCTION OF THE INVENTION</heading>
+<p id="p-0009" num="0008">According to the present invention there is provided a clamp for an oil well line, the clamp having a casing, and at least one wedge member, the wedge member being movable within a channel in the casing to grip the line when axial force is applied to the line.</p>
+<p id="p-0010" num="0009">Typically, the wedge member has first side that is tapered to match a side of the channel, causing lateral movement of the wedge member when it is axially moved within the channel.</p>
+<p id="p-0011" num="0010">In simple embodiments, only one wedge member is provided, which slides in a tapered channel to move laterally against one side of the channel thereby gripping the line between the wedge member and the channel side. However, in other embodiments two or more wedge members can be provided movable in a radial arrangement with a line-receiving portion between them, and having radially outermost faces that are shaped to match the taper of the channel in the casing.</p>
+<p id="p-0012" num="0011">In the two-wedge embodiment, when the wedge members move axially down the tapered channel, they are pressed together by the tapered sides of the channel, thereby trapping the line between them in the line-receiving portion. As the axial tension on the line increases, thus the line pulls the wedge members further down into the channel, and the lateral gripping force exerted on the line by the wedges increases.</p>
+<p id="p-0013" num="0012">One wall of the channel is typically movable to disengage from the wedge member when the gripping force is to be removed. This can be accomplished by supporting the movable wall by means of threaded members adjustable to back the movable wall away from the line, and thereby allowing lateral movement of the wedge away from the line without any axial component of movement. This helps to disengage the clamp from the line after very high forces have been applied to the line making axial movement of the wedges difficult.</p>
+<p id="p-0014" num="0013">The line-receiving portion can be a bore or a recess, and in some embodiments can be straight with the ends axially aligned with the central section of the recess, and with the direction of force to be applied. In some other embodiments the bore or recess is not straight; for example, a central section of the bore or recess can be displaced from the axis, and optionally the recess can be in the form of an arc or a dog leg, so that while the ends of the recess may be aligned with one another and with the axis of force, at least a part of the central section of the recess can be displaced from the axis. This bend etc allows the wedge members to better grip the line within the bore or recess, and to resist pullout of the line therefrom.</p>
+<p id="p-0015" num="0014">In some embodiments, the walls of the bore or recess are lined, typically with a material that is different from the material of the wedge members. For example, the lining can be a softer material or one that has a different (e.g. higher) frictional coefficient. The lining can be continuous along the recess, or can be intermittent. The lining can be thicker at one end of the recess than at the other end, or can have different properties (e.g. frictional coefficient or hardness) at different ends of the recess.</p>
+<p id="p-0016" num="0015">The walls of the bore or recess can be ridged or toothed to grip the line, and the pattern of ridges or teeth can be different between the bottom and the top of the recess. In certain options, both ridges and teeth can be provided, each (or one of them) having a different pattern between the bottom and the top of the recess. The ridges (and/or teeth) can be formed from a different material than the wedge members. Optionally the ridges are formed from a material with a higher coefficient of friction than the material comprising the wedge members, so that the friction applied to the line by the ridges can be manipulated without affecting the wedges. The material of the ridges can also be softer than the material of the wedges. Typically, the ridges are mounted in recesses in the wedges and project radially from the inner walls of the recess. The ridges can be spaced axially from one another at equal distances along the recess, but in certain embodiments, the spacing between adjacent ridges can be different between the top of the recess and the bottom. In typical embodiments of this type, the ridges are spaced closer together at the top of the recess than at the bottom, so that there are more ridges at the top of the recess than at the bottom. Thus, more surface area of ridge material at the top of the recess is in contact with the line than at the bottom, and this helps to balance the force on the line between the top and bottom of the recess. Also, where the ridges are more compressible than the wedge members, this spacing differential allows manipulation of the compression balance between the top and the bottom of the recess.</p>
+<p id="p-0017" num="0016">The wedge members can be keyed to the casing to restrain movement that is not axial or lateral. For example, rotational movement around the axis of the wedge members can be prevented or restricted by means of splines or keys that engage between the outer face of the wedge members and the inner face of the channel.</p>
+<p id="p-0018" num="0017">The wedges can be pivotally or otherwise engaged with one another, for example, at one end of the recess. Optionally a hook on one of the wedge members engages with a T-shaped bar on the other. Pivotal engagement of the wedge members limits the available range of movement of the members to movement together to grip the line in the recess, and minimises the scope for the members to disengage with one another and lose their grip on the line. In some other embodiments, the wedge members are engaged together by means of a lug and recess that prevent axial movement but which allow radial movement.</p>
+<p id="p-0019" num="0018">In certain embodiments of the invention, the wedge members are biased towards one another by means of springs.</p>
+<p id="p-0020" num="0019">In certain other embodiments, the wedge members may be forced to move within the channel by means of mechanical screw devices, or by pneumatic or hydraulic pressure applied from a source of pressurised air or fluid. In some cases, the wedge members can be pulled downwards into the channel from the top of the channel to the bottom of the channel, in order to rapidly move the wedge members towards one another laterally due to the tapered sides of the channel, and to grip the line between them. The gripping mechanism can optionally be activated by the speed of line movement through the clamp, so that high-speed movement of the line in the recess triggers the closure mechanism in order to rapidly close the wedge members around the line located in the recess, and thereby prevent further movement of the line through the clamp.</p>
+<p id="p-0021" num="0020">In certain embodiments, the clamp can have a movement detector in order to determine the speed and direction of movement of the line through the clamp. Optionally, these can be in the form of rollers at the top or bottom of the clamp, and aligned with the recess, which are pressed together to engage the line as it enters or exits the recess. The direction of rotation of the rollers can give an indication of the direction of movement of the line, and the speed of the rollers can give an indication of the speed of the line through the clamp. In the case of high-speed sudden movement of the line through the recess, this might indicate a breakage of the line above the clamp, and rapid movement of the line through the clamp recess. In that situation, the movement detector can trigger the clamping mechanism in order to force the wedge members together and to grip the line more securely. The trigger can be a simple electronic switch unit, or can comprise a centrifugal arm. One suitable trigger can comprise an encoder that is connected to the axle of a jockey wheel pressed against the line, so that the speed of the line through the clamp drives rotation of the wheel at a designated speed, which is reported to the encoder. The encoder can be set to switch a valve at a present speed and/or direction, for example, 150 m/s in a downwards direction, which is designated as a fast fall of the wire indicative of line breakage. Alternatively the encoder can be set to monitor acceleration and to trigger the switch above a given value of acceleration that is indicative of breakage of the line. The switch can control a pressure line open to the main rig pressure system of 120 psi, which can, upon triggering of the switch, be exposed to a pneumatic piston that is connected between the wedges and the body of the clamp. The piston can be actuated by the exposure to the rig pressure system when the switch is triggered by the encoder, and this can instantaneously close the wedges around the line to prevent further movement through the clamp body. The piston can comprise a pneumatic arm arranged to drive the wedge members axially downwards with respect to the tapering channel, so that they are driven laterally towards one another by the corresponding taper.</p>
+<p id="p-0022" num="0021">In certain embodiments, the pull down feature and the line movement detector can be used to increase the gripping force applied by the wedge members that are actively gripping a line, and this can be useful in the unlikely event of the line slipping through the active clamp.</p>
+<p id="p-0023" num="0022">In certain other embodiments, the pull down feature and the line movement detector can be used to trigger the initial activation of a clamp that is not yet applied to a line, with the wedge members spaced apart from one another and from the line. Such embodiments can be passively connected around it with the line running through the recess. If desired, the line can run freely through the open recess between the spaced apart wedge members while the tool string is being run into the hole, and the rollers can monitor the speed of the line through the casing. If the line speed through the casing suddenly increases above a certain threshold, then the line movement detector can signal the pull down mechanism to trigger the movement of the wedge members together against the line, and thereby to arrest the line within the clamp, in order to capture a line that might have broken above the clamp.</p>
+<p id="p-0024" num="0023">In typical embodiments, the wedge members are axially linked to one another by means of the pivotal connection at the lower end of the recess, and typically also by means of a bar and socket arranged at the top of the recess, such that a reaction force against one of the wedge members to drive it axially downwards in the channel transfers the force to the other wedge member to do likewise.</p>
+<p id="p-0025" num="0024">In certain embodiments, the casing can have padeyes or other strong points to attach lifting devices. In certain other embodiments, the casing can be supported from below and can optionally comprise a seat for engagement with a stool.</p>
+<p id="p-0026" num="0025">In some embodiments, the casing has a slot aligned axially with the recess between the wedge members, so that a line can be passed through the slot into the recess without disassembly of the clamp. Typically, the wedge members are held in the channel by means of plates fastened across a portion of the channel, and leaving an access slot for a line between the plates in the assembled casing.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0027" num="0026">An embodiment of the present invention will now be described, by way of example, with reference to the accompanying drawings, in which:</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 1</figref> shows a perspective exploded view of a clamp according to the invention;</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 2</figref> shows a perspective view of the <figref idref="DRAWINGS">FIG. 1</figref> clamp, from the other side;</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 3</figref> shows a perspective view of the casing of the <figref idref="DRAWINGS">FIG. 1</figref> clamp;</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. 4</figref> shows a perspective view from the other side of the <figref idref="DRAWINGS">FIG. 3</figref> casing;</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. 5</figref> shows a plan view of the <figref idref="DRAWINGS">FIG. 3</figref> casing;</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. 6</figref> shows a front view of the <figref idref="DRAWINGS">FIG. 3</figref> casing;</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. 7</figref> shows a side view of the <figref idref="DRAWINGS">FIG. 3</figref> casing;</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. 8</figref> shows a view from beneath the <figref idref="DRAWINGS">FIG. 3</figref> casing;</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. 9</figref> is an exploded from view of the <figref idref="DRAWINGS">FIG. 1</figref> clamp;</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. 10</figref> is a front view of the <figref idref="DRAWINGS">FIG. 1</figref> clamp with the wedge members removed and the line in place;</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. 11</figref> is a perspective view of a first embodiment of a wedge member;</p>
+<p id="p-0039" num="0038"><figref idref="DRAWINGS">FIG. 12</figref> is a side view of the <figref idref="DRAWINGS">FIG. 11</figref> wedge member;</p>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIG. 13</figref> is a front view of the <figref idref="DRAWINGS">FIG. 11</figref> wedge member;</p>
+<p id="p-0041" num="0040"><figref idref="DRAWINGS">FIG. 14</figref> is a further perspective view of the <figref idref="DRAWINGS">FIG. 11</figref> wedge member;</p>
+<p id="p-0042" num="0041"><figref idref="DRAWINGS">FIG. 15</figref> is a plan view of the <figref idref="DRAWINGS">FIG. 11</figref> wedge member;</p>
+<p id="p-0043" num="0042"><figref idref="DRAWINGS">FIG. 16</figref> is a perspective view of the other wedge member of the first embodiment;</p>
+<p id="p-0044" num="0043"><figref idref="DRAWINGS">FIG. 17</figref> is a side view of the <figref idref="DRAWINGS">FIG. 16</figref> wedge member;</p>
+<p id="p-0045" num="0044"><figref idref="DRAWINGS">FIG. 18</figref> is a front view of the <figref idref="DRAWINGS">FIG. 16</figref> wedge member;</p>
+<p id="p-0046" num="0045"><figref idref="DRAWINGS">FIG. 19</figref> is a further perspective view of the <figref idref="DRAWINGS">FIG. 16</figref> wedge member;</p>
+<p id="p-0047" num="0046"><figref idref="DRAWINGS">FIG. 20</figref> is a top view of the first and second wedge members;</p>
+<p id="p-0048" num="0047"><figref idref="DRAWINGS">FIG. 21</figref> is a sectional view on the line AA in <figref idref="DRAWINGS">FIG. 17</figref>;</p>
+<p id="p-0049" num="0048"><figref idref="DRAWINGS">FIG. 22</figref> is a front view of a second embodiment of a wedge member;</p>
+<p id="p-0050" num="0049"><figref idref="DRAWINGS">FIG. 23</figref> is a side view of the same wedge member;</p>
+<p id="p-0051" num="0050"><figref idref="DRAWINGS">FIG. 24</figref> is a perspective view of the same wedge member;</p>
+<p id="p-0052" num="0051"><figref idref="DRAWINGS">FIG. 25</figref> is a side view of a second wedge member of the second embodiment;</p>
+<p id="p-0053" num="0052"><figref idref="DRAWINGS">FIG. 26</figref> is a front view of the same wedge member;</p>
+<p id="p-0054" num="0053"><figref idref="DRAWINGS">FIG. 27</figref> is a perspective view of the same wedge member;</p>
+<p id="p-0055" num="0054"><figref idref="DRAWINGS">FIG. 28</figref> is a sectional view through line AA of <figref idref="DRAWINGS">FIG. 23</figref>;</p>
+<p id="p-0056" num="0055"><figref idref="DRAWINGS">FIG. 29</figref> shows a front view of a third embodiment of a wedge member;</p>
+<p id="p-0057" num="0056"><figref idref="DRAWINGS">FIG. 30</figref> shows a side view of the same wedge member;</p>
+<p id="p-0058" num="0057"><figref idref="DRAWINGS">FIG. 31</figref> shows a perspective view of the same wedge member;</p>
+<p id="p-0059" num="0058"><figref idref="DRAWINGS">FIG. 32</figref> shows a side view of the other wedge member of the third embodiment;</p>
+<p id="p-0060" num="0059"><figref idref="DRAWINGS">FIG. 33</figref> shows a front view of the same wedge member;</p>
+<p id="p-0061" num="0060"><figref idref="DRAWINGS">FIG. 34</figref> shows a perspective view of the same wedge member;</p>
+<p id="p-0062" num="0061"><figref idref="DRAWINGS">FIG. 35</figref> shows a sectional view through the line AA of <figref idref="DRAWINGS">FIG. 30</figref>;</p>
+<p id="p-0063" num="0062"><figref idref="DRAWINGS">FIGS. 36 to 38</figref> show sectional views through different embodiments of wedge member, on the line BB through <figref idref="DRAWINGS">FIG. 32</figref>; and</p>
+<p id="p-0064" num="0063"><figref idref="DRAWINGS">FIG. 39</figref> shows a schematic view of a wiring diagram for an automatic actuation mechanism for a clamp of the invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">SPECIFIC DESCRIPTION OF ONE OR MORE EMBODIMENTS OF THE INVENTION</heading>
+<p id="p-0065" num="0064">Referring now to the drawings, <figref idref="DRAWINGS">FIG. 1</figref> shows an exploded view of a clamp having a casing <b>5</b> with a channel <b>7</b> provided in the casing <b>7</b>, and a pair of wedge members <b>10</b> and <b>11</b> and a pressing plate <b>15</b> adapted to fit within the channel <b>7</b>. The channel <b>7</b> is closed on the front face of the casing <b>5</b> by a pair of cover plates <b>18</b>, <b>19</b> held in place by bolts driven into tapped holes on the front face of the casing <b>5</b>. Thus, the cover plates <b>18</b> and <b>19</b> hold the wedging members <b>10</b> and <b>11</b> and the pressing plate <b>15</b> in place within the channel <b>7</b>.</p>
+<p id="p-0066" num="0065">The wedge members <b>10</b> and <b>11</b> are splined on their outer faces <b>10</b><i>s </i>and <b>11</b><i>s </i>to engage within corresponding spline receiving slots <b>7</b><i>s </i>and <b>15</b><i>s </i>on the inner surfaces of the channel <b>7</b>. The splines and slots are useful to prevent twisting movement of the wedge members when force is applied by the clamp.</p>
+<p id="p-0067" num="0066">The pressing plate <b>15</b> is urged against the wedge member <b>11</b> within the recess by means of bolts <b>20</b> faced with bearings <b>21</b> that extend through apertures <b>22</b> in the sidewall of the casing <b>5</b>. A groove <b>7</b><i>g </i>is formed within the rear face of the channel <b>7</b> adjacent to the sidewall of the casing <b>5</b> to receive a protrusion <b>15</b><i>p </i>extending from the rear wall of the pressing plate <b>15</b>. The lateral width of the groove <b>7</b><i>g </i>is slightly more than the lateral width of the protrusion <b>15</b><i>p, </i>allowing limited lateral movement of the pressing plate <b>15</b> against the rear wall of the casing <b>5</b>. In normal use, the pressing plate <b>15</b> is fully supported by the bolts <b>20</b>, and the protrusion <b>15</b><i>p </i>is forced against the radially innermost side of the groove <b>7</b><i>g, </i>so that the spline-receiving slots are continuous on both sides of the channel <b>7</b>. The bearings <b>21</b> include a cap and a bronze washer facilitate the rotational movement of the bolt <b>20</b> when the cap is held stationary against the wedging member <b>11</b>. This helps to remove the bolts <b>20</b> and loosen the clamp if the wedge members <b>10</b>, <b>11</b> are tightly held in the casing <b>5</b>.</p>
+<p id="p-0068" num="0067">As best seen in <figref idref="DRAWINGS">FIG. 9</figref>, the walls of the channel <b>7</b> are tapered so that the opening at the top is wider than the opening at the bottom. The splined sides <b>10</b><i>s, </i><b>11</b><i>s </i>of the wedge members <b>10</b> and <b>11</b> are also tapered to match the taper of the inside walls of the channel <b>7</b>, so that for example, as the wedge member <b>10</b> slides down the channel <b>7</b>, it moves axially and laterally, because of the taper in the channel <b>7</b> and the side wall <b>10</b><i>s. </i></p>
+<p id="p-0069" num="0068">The wedge members <b>10</b> and <b>11</b> define between them a line-receiving bore <b>16</b> formed by identical hemi-cylindrical channels that match one another to create the cylindrical bore <b>16</b>. The hemi-cylindrical inner faces of the wedge members that define the bore <b>16</b> have an array of recesses <b>11</b><i>r, </i><b>10</b><i>r </i>that extend radially to receive inserts <b>11</b><i>i, </i><b>10</b><i>i </i>that are held within the bore <b>16</b> in the assembled clamp. The inserts <b>11</b><i>i </i>and <b>10</b><i>i </i>protrude radially inwards into the line receiving bore <b>16</b> to form radial ridges therein. The inserts <b>10</b><i>i, </i><b>11</b><i>i </i>can themselves include cut away portions of various shapes to accommodate a line within the bore <b>16</b>, so that when the line is in the bore <b>16</b> in the assembled clamp, it is gripped primarily by the inwardly-protruding ridges of the inserts <b>10</b><i>i, </i><b>11</b><i>i. </i></p>
+<p id="p-0070" num="0069">In the present example, the line receiving bore <b>16</b> is straight.</p>
+<p id="p-0071" num="0070">In operation, the pressing plate <b>15</b> is fitted into the channel <b>7</b> with the protrusion <b>15</b><i>p </i>extending into the groove <b>7</b><i>g. </i>The cover plates <b>18</b> and <b>19</b> are then bolted onto the front face of the casing <b>5</b>, so as to cover a portion of the front face of the channel <b>7</b>, and to retain the pressing plate <b>15</b> therein. The bolts <b>20</b> are then offered to the holes <b>22</b> and tightened, so that the bearings <b>21</b> press against the radially outer surface of the pressing plate <b>15</b><i>p, </i>and urge the pressing plate <b>15</b> towards the central axis of the channel <b>7</b>. When the protrusion <b>15</b><i>p </i>is forced against the radially inner wall of the groove <b>7</b><i>g, </i>the spline-receiving slot of the inner face <b>15</b><i>s </i>is aligned with the upper and lower parts of the slot on the side of the channel <b>7</b>. The walls <b>7</b><i>s </i>and <b>15</b><i>s </i>of the channel <b>7</b> are tapered from top to bottom, with a wider opening at the top of the clamp than at the bottom. Typically the taper is very slight, and suitable values for the taper are around 1-5&#xb0; with respect to the vertical, but other tapers can be used. In certain examples the taper is 1.75&#xb0;.</p>
+<p id="p-0072" num="0071">When the casing <b>5</b> has been assembled, and the wedge members <b>10</b> and <b>11</b> have been fitted with the inserts <b>10</b><i>i, </i><b>11</b><i>i, </i>the wedge members <b>10</b> and <b>11</b> are assembled around the line L, so that the ridges formed by the radially-protruding inserts <b>10</b><i>i, </i><b>11</b><i>i </i>engage the outer surface of the line L within the bore <b>16</b>. Optionally, a lug <b>11</b><i>l </i>on the front face of the wedge member <b>11</b> engages within a recess <b>10</b><i>m </i>on the front face of the wedge member <b>10</b>. The assembled wedge members <b>10</b>, <b>11</b> holding the line L within the bore <b>16</b> are then slid down into the channel <b>7</b>, keeping the splines <b>10</b><i>s </i>and <b>11</b><i>s </i>engaged within the slots on the side walls <b>7</b><i>s </i>and <b>15</b><i>s </i>of the channel <b>7</b>. As the width of the channel <b>7</b> gradually decreases towards the lower end of the casing <b>5</b>, the wedge members <b>10</b> and <b>11</b> are forced radially together, thereby forcing the ridges against the line L, gripping the line L between them, and typically slightly deforming the ridges of the plastic inserts <b>10</b><i>i, </i><b>11</b><i>i </i>in preference to the crushing or bruising the line L.</p>
+<p id="p-0073" num="0072">The radial gripping force applied to the line can be applied naturally as the line L passes down through the bore <b>16</b>, having the effect of drawing the wedge members <b>10</b>, <b>11</b> down into the channel by means of friction. However, additional force can optionally be applied by a fixing <b>25</b> engaged within a socket <b>24</b> on the wedge member <b>10</b> which can be drawn down against the casing by means of a threaded bolt <b>26</b> passing through the casing <b>5</b> and into a socket on the fixing <b>25</b>, thereby forcing the wedge members <b>10</b>, <b>11</b> deeper into the tapered channel <b>7</b>, and therefore forcing them laterally against one another in order to grip the line L more securely. The screw threaded arrangement of the fixing <b>24</b>, bolt <b>26</b> and socket <b>24</b> can be replaced by a hydraulic ram, or an air ram, or by any other suitable means for applying axial force to the wedge members <b>10</b> and <b>11</b> in order to force them further down into the tapered channel <b>7</b>.</p>
+<p id="p-0074" num="0073">In the embodiment shown in <figref idref="DRAWINGS">FIG. 10</figref>, the clamp has a pair of rollers <b>28</b>, <b>29</b> at the top and bottom of the casing, biased toward each other to press against the line L as it enters or leaves the casing. The rollers <b>28</b>, <b>29</b> measure the direction of movement, and optionally the speed of the line L, as it passes the rollers.</p>
+<p id="p-0075" num="0074">In certain embodiments, the rollers can be omitted, and in some embodiments, a bush can be used instead. The bush can be longitudinally split along its central longitudinal bore to accommodate the line L, and can be flanged and chamfered if desired to ease passage of the line through the bore. Typically the bush has a top hat shape with a top flange and a lower sleeve.</p>
+<p id="p-0076" num="0075">The sensor measuring the speed of the line L through the clamp can be electronic, but in this example, there is a simple centrifugal arm (not shown) to trigger a switch <b>30</b> and open an air valve <b>31</b> to connect a source of pressurised gas with an air ram (shown in broken outline) mounted in the casing to pull the wedge members <b>10</b> down into the channel thereby forcing them laterally against one another to grip the line L in the bore <b>16</b>. The switch can be set to trigger the air ram at a present speed indicative of slippage of the line L through the bore <b>16</b> at a rate consistent with breakage of the line L above the clamp. Thus, the clamp can be used in a &#x201c;pass-through&#x201d; mode with the wedge members <b>10</b>, <b>11</b> allowing the line L to pass through the bore <b>16</b> without being gripped, but permitting instantaneous activation of the clamp to secure the line L against loss down the hole above a set speed threshold through the casing <b>5</b>. Naturally, the clamp allows free passage of the line upwards through the casing, as the wedges are pulled upwards to the wide end of the channel, and are free to move apart to allow free movement of the line L.</p>
+<p id="p-0077" num="0076">In a further embodiment shown schematically in <figref idref="DRAWINGS">FIG. 39</figref>, the switch <b>30</b> is an electronic switch connected to an encoder that measures the speed, and optionally the acceleration or the direction of movement, of at least one of roller <b>29</b> or of another jockey wheel that is pressed against the line L and which revolves in accordance with the movement of the line L. High-speed sudden movement of the line L, particularly in a downward direction, might indicate a breakage of the line above the clamp. In that situation, the encoder connected to the axle of the roller or jockey wheel is set to switch the valve <b>31</b> at a preset speed and/or direction, for example, 150 m/s in a downwards direction, which is typically designated as a fast fall of the wire indicative of line breakage. Alternatively the encoder can be set to monitor acceleration and to trigger the switch above a given value of acceleration that is indicative of breakage of the line. The encoder can be programmed to avoid triggering the valve <b>31</b> in the event of upward movement of the line, and in some embodiments, the encoder can be temporarily set to a higher value when recovering or paying out line in a safe environment, or bypassed altogether by user intervention. The switch typically controls a pressure line open to the main rig pressure system of 120 psi, which can, upon triggering of the switch, be exposed to the pneumatic piston that is connected between the wedges and the body of the clamp. The piston can be actuated by the exposure to the rig pressure system when the switch is triggered by the encoder, and this can instantaneously close the wedges around the line to prevent further movement through the clamp body. The piston can comprise a pneumatic arm arranged to drive the wedge members axially downwards with respect to the tapering channel, so that they are driven laterally towards one another by the corresponding taper.</p>
+<p id="p-0078" num="0077">While the bore <b>16</b> may be straight as shown in the embodiment of <figref idref="DRAWINGS">FIGS. 1-21</figref>, it may also incorporate a bend or arc, or otherwise have one or more portions of the central section of the bore displaced from the axis connecting the end portions. <figref idref="DRAWINGS">FIGS. 22-27</figref> show such an example, in which the radially innermost sides of the wedge members <b>10</b> and <b>11</b> that together form the bore <b>16</b> in the assembled device are formed by two end portions <b>16</b><i>a </i>and <b>16</b><i>b, </i>which are disposed at an angle of around 5-15&#xb0; to the vertical axis Y, and which meet at an apex <b>16</b><i>c </i>in the mid point of the bore <b>16</b>, so that the bore <b>16</b> is in the form of a dog leg with a central bend. The central apex increases the gripping force applied to the line L and reduces the tendency of the line L to pull out of the bore when clamped.</p>
+<p id="p-0079" num="0078">A similar embodiment is shown in <figref idref="DRAWINGS">FIGS. 29-35</figref>, in which the bore <b>16</b> is in the form of a regular arc. The arc radius is typically in the range that is consistent with the bend radius of the line being used, e.g. 100-350 mm. This reduces the tendency of the line L to pull out of the bore, and spreads the additional load across the bore thereby reducing the tendency of damage to the line L by kinking at discrete bend sites. Diverting the bore away from the axis also enables a longer bore for a given length of casing, and the added surface area of wedge members in contact with the line L improves the gripping force without sacrificing length and weight of the clamp.</p>
+<p id="p-0080" num="0079">Any of the above embodiments can optionally have teeth <b>12</b> or other formations cut on the inner surface of the bore <b>16</b>, in between the recesses that hold the inserts <b>10</b><i>i, </i><b>11</b><i>i. </i>This is especially useful if the clamp is to be used for intentional breaking of the line L after a tool string has become stuck, because the force on the wedge members <b>10</b> and <b>11</b> can be increased beyond the initial point when the line L is being gripped by the soft ridges, to compress the ridges against the harder body of the wedge members, so that the line L is pressed against the teeth and the inserts <b>10</b><i>i, </i><b>11</b><i>i </i>are pressed flat within the bore <b>16</b>. Forcing the line L against the relatively incompressible teeth on the wedge member, as opposed to the relatively soft insert <b>10</b><i>i, </i><b>11</b><i>i, </i>means that a much higher force can be applied to the line L by the teeth <b>12</b> than by the inserts <b>10</b><i>i, </i><b>11</b><i>i. </i>Thus, a single clamp can be used to gently handle fragile wireline with signal and power cables in the cores, and to deform the inserts <b>10</b><i>i, </i><b>11</b><i>i </i>in preference to the fragile wireline cable, but if the cable becomes stuck fast, and must be broken, the same clamp (on the same run) can be tightened up by pulling down on at least one of the wedging members <b>10</b>, <b>11</b>, to grip with the relatively incompressible teeth instead of the softer inserts <b>10</b><i>i, </i><b>11</b><i>i, </i>and thereby apply very high loads to the line L to break it. This facilitates a two stage operation with a single clamp, and is a significant advantage.</p>
+<p id="p-0081" num="0080">Naturally, embodiments can be devised that have only teeth (without ridges or inserts) or only ridges (with no teeth between the ridges). Typically, the wedge members are made of metal or some other hard and relatively incompressible material. The inserts <b>10</b><i>i, </i><b>11</b><i>i </i>can be made from nylon, urethane, or other deformable plastics materials.</p>
+<p id="p-0082" num="0081"><figref idref="DRAWINGS">FIGS. 36-38</figref> show different forms of inserted to be accommodated within the recesses in the wedge members. Any of the inserts shown may be suitable for any of the insert-receiving recesses, e.g. <b>10</b><i>r, </i><b>11</b><i>r, </i><b>40</b><i>r, </i><b>41</b><i>r, </i><b>50</b><i>r, </i><b>51</b><i>r, </i>and, of course, different forms of insert can be devised without departing from the scope of the invention.</p>
+<p id="p-0083" num="0082">Insert <b>10</b><i>i </i>has a cross section with a semi-circular cutaway channel for the line L. Insert <b>40</b><i>i </i>is a solid steel insert with a protrusion of relatively compressible material rather than a cutaway, and is useful for slickline or for single strand wire. Insert <b>50</b><i>i </i>has a v-shaped cutaway, which might be more useful for lines with rectilinear cross sections. Other shapes and configurations of insert can be devised to match the most surface area of the insert with the outer surface of the line being used at the time.</p>
+<p id="p-0084" num="0083">Modifications and improvements can be incorporated without departing from the scope of the invention.</p>
+<p id="p-0085" num="0084">Following from the above description and invention summaries, it should be apparent to those of ordinary skill in the art that, while the methods and apparatuses herein described constitute exemplary embodiments of the present invention, the invention contained herein is not limited to this precise embodiment and that changes may be made to such embodiments without departing from the scope of the invention as defined by the claims. Additionally, it is to be understood that the invention is defined by the claims and it is not intended that any limitations or elements describing the exemplary embodiments set forth herein are to be incorporated into the interpretation of any claim element unless such limitation or element is explicitly stated. Likewise, it is to be understood that it is not necessary to meet any or all of the identified advantages or objects of the invention disclosed herein in order to fall within the scope of any claims, since the invention is defined by the claims and since inherent and/or unforeseen advantages of the present invention may exist even though they may not have been explicitly discussed herein.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A clamp for an oil well line, the clamp having a casing, a line-receiving bore, and at least one wedge member, the wedge member having a first radially inner surface facing the line-receiving bore, and a second radially outer surface facing the casing, the wedge member being movable within a channel in the casing to grip the line when axial force is applied to the line, wherein one wall of the channel is movable radially outwards away from the line-receiving bore to selectively disengage from the outer surface of the at least one wedge member.</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. A clamp as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the wedge member has a first side that is tapered to match a side of the channel, causing lateral movement of the wedge member when it is axially moved within the channel.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. A clamp as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein only one wedge member is provided, which slides in a tapered channel to move laterally against one side of the channel thereby gripping the line between the wedge member and the channel side.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. A clamp as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein at least two wedge members are provided.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. A clamp as claimed in <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the wedge members define a line-receiving portion between them, and wherein the wedge members are radially movable relative to one another.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. A clamp as claimed in <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the wedge members have outer faces that are shaped to match the taper of the channel in the casing.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. A clamp as claimed in <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the wedge members are movable axially in the tapered channel and are pressed together by the tapered sides of the channel.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. A clamp as claimed in <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the line is gripped in a line-receiving recess formed between the wedge members.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. A clamp as claimed in <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the line receiving recess is straight.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. A clamp as claimed in <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the line receiving recess is not straight.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. A clamp as claimed in <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the casing has an axis and wherein a central section of the line receiving recess is displaced from the axis.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. A clamp as claimed in <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the recess is in a form selected from the group comprising an arc and a dog leg.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. A clamp as claimed in <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the walls of the recess are lined with a material that is different from the material of the wedge members.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. A clamp as claimed in <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the lining is formed from a softer material than the material of the wedge members.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. A clamp as claimed in <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein the lining is continuous along the recess.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. A clamp as claimed in <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein the lining is continuous along the recess.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. A clamp as claimed in <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the lining is formed from a material that has a different frictional coefficient than the material of the wedge members.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. A clamp as claimed in any one of <claim-ref idref="CLM-00013">claims 13</claim-ref>-<b>17</b>, wherein the lining is continuous along the recess.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. A clamp as claimed in <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the lining is intermittent along the recess.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. A clamp as claimed in <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the lining is thicker at one end of the recess than at the other end.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text>21. A clamp as claimed in <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the lining has different properties at different ends of the recess.</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text>22. A clamp as claimed in <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the walls of the recess have ridges to grip the line.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text>23. A clamp as claimed in <claim-ref idref="CLM-00022">claim 22</claim-ref>, wherein the ridges are disposed on the inner surface of the recess in a pattern, and wherein the pattern of ridges is different at different ends of the recess.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text>24. A clamp as claimed in <b>22</b>, wherein the ridges are formed from a material with a higher coefficient of friction than the wedge members.</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text>25. A clamp as claimed in <claim-ref idref="CLM-00022">claim 22</claim-ref>, wherein the ridges are softer than the wedge members.</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text>26. A clamp as claimed in <claim-ref idref="CLM-00022">claim 22</claim-ref>, wherein the ridges are mounted in ridge-receiving recesses in the wedge members and project radially from the inner walls of the line-receiving recess.</claim-text>
+</claim>
+<claim id="CLM-00027" num="00027">
+<claim-text>27. A clamp as claimed in <claim-ref idref="CLM-00022">claim 22</claim-ref>, wherein the spacing between adjacent ridges in the line-receiving recess can be different at different parts of the recess.</claim-text>
+</claim>
+<claim id="CLM-00028" num="00028">
+<claim-text>28. A clamp as claimed in <claim-ref idref="CLM-00022">claim 22</claim-ref>, wherein the ridges are spaced closer together at the top of the recess than at the bottom, so that there are more ridges at the top of the recess than at the bottom.</claim-text>
+</claim>
+<claim id="CLM-00029" num="00029">
+<claim-text>29. A clamp as claimed in <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the wedge members are pivotally connected together.</claim-text>
+</claim>
+<claim id="CLM-00030" num="00030">
+<claim-text>30. A clamp as claimed in <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the wedge members are biased towards one another by means of springs.</claim-text>
+</claim>
+<claim id="CLM-00031" num="00031">
+<claim-text>31. A clamp as claimed in <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the wedge members are connected such that a reaction force applied to one of the wedge members is applied to the other wedge member.</claim-text>
+</claim>
+<claim id="CLM-00032" num="00032">
+<claim-text>32. A clamp as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, having an actuating mechanism to drive movement of at least one wedge member to grip the line, and wherein at least one wedge member is driven within the channel by the actuating mechanism from its first position in which it is disengaged from the line, to a second position, in which it grips the line.</claim-text>
+</claim>
+<claim id="CLM-00033" num="00033">
+<claim-text>33. A clamp as claimed in <claim-ref idref="CLM-00032">claim 32</claim-ref>, having a movement detector arranged to determine changes in the velocity of the line through the clamp, and wherein the actuating mechanism is activated automatically by the movement detector in accordance with changes in the velocity of the line through the clamp.</claim-text>
+</claim>
+<claim id="CLM-00034" num="00034">
+<claim-text>34. A clamp as clamed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein at least one wedge member is keyed to the casing to restrain movement that is not axial or lateral.</claim-text>
+</claim>
+<claim id="CLM-00035" num="00035">
+<claim-text>35. A clamp as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the casing has a slot to permit passage of the line through the slot to be gripped by the wedge member without disassembly of the clamp.</claim-text>
+</claim>
+<claim id="CLM-00036" num="00036">
+<claim-text>36. A clamp as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the wedge member is held spaced apart from the line prior to actuation of the clamp.</claim-text>
+</claim>
+<claim id="CLM-00037" num="00037">
+<claim-text>37. A clamp for an oil well line, the clamp having a casing, and at least one wedge member, the wedge member being movable within a channel in the casing to grip the line when axial force is applied to the line, wherein one wall of the channel is movable to selectively disengage from the at least one wedge member, wherein the movable wall is supported by threaded members adjustable to back the movable wall away from the line, thereby allowing lateral movement of the at least one wedge member away from the line without any axial component of movement. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891242-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891242</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12027488</doc-number>
+<date>20080207</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>TW</country>
+<doc-number>96115622 A</doc-number>
+<date>20070502</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>518</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>F</subclass>
+<main-group>23</main-group>
+<subgroup>26</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 73304R</main-classification>
+</classification-national>
+<invention-title id="d2e71">Sensing device</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>3484829</doc-number>
+<kind>A</kind>
+<name>Erickson</name>
+<date>19691200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>4421189</doc-number>
+<kind>A</kind>
+<name>Watkins</name>
+<date>19831200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>4473234</doc-number>
+<kind>A</kind>
+<name>Egen</name>
+<date>19840900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>4532968</doc-number>
+<kind>A</kind>
+<name>Leonard</name>
+<date>19850800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>141  5</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>4566706</doc-number>
+<kind>A</kind>
+<name>Bihler</name>
+<date>19860100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>4569409</doc-number>
+<kind>A</kind>
+<name>Kluth</name>
+<date>19860200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>4790548</doc-number>
+<kind>A</kind>
+<name>Decelles</name>
+<date>19881200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>4919489</doc-number>
+<kind>A</kind>
+<name>Kopsco</name>
+<date>19900400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>4962941</doc-number>
+<kind>A</kind>
+<name>Rembos</name>
+<date>19901000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>5020818</doc-number>
+<kind>A</kind>
+<name>Oxford</name>
+<date>19910600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>5158309</doc-number>
+<kind>A</kind>
+<name>Quigg</name>
+<date>19921000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>5197558</doc-number>
+<kind>A</kind>
+<name>Misawa</name>
+<date>19930300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>5263547</doc-number>
+<kind>A</kind>
+<name>Alber</name>
+<date>19931100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>5273296</doc-number>
+<kind>A</kind>
+<name>Lepek</name>
+<date>19931200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>5308098</doc-number>
+<kind>A</kind>
+<name>Shea</name>
+<date>19940500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>5423563</doc-number>
+<kind>A</kind>
+<name>Wild</name>
+<date>19950600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>5577567</doc-number>
+<kind>A</kind>
+<name>Johnson</name>
+<date>19961100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>5676215</doc-number>
+<kind>A</kind>
+<name>Misawa</name>
+<date>19971000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>5701965</doc-number>
+<kind>A</kind>
+<name>Kamen</name>
+<date>19971200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>5868403</doc-number>
+<kind>A</kind>
+<name>Culp</name>
+<date>19990200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>5971091</doc-number>
+<kind>A</kind>
+<name>Kamen</name>
+<date>19991000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>5975225</doc-number>
+<kind>A</kind>
+<name>Kamen</name>
+<date>19991100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>6282804</doc-number>
+<kind>B1</kind>
+<name>Jiang</name>
+<date>20010900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 3336621</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>6325167</doc-number>
+<kind>B1</kind>
+<name>Jiang</name>
+<date>20011200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>6328120</doc-number>
+<kind>B1</kind>
+<name>Haussler</name>
+<date>20011200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>6341784</doc-number>
+<kind>B1</kind>
+<name>Carstens</name>
+<date>20020100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>6343664</doc-number>
+<kind>B2</kind>
+<name>Morrell</name>
+<date>20020200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>6415879</doc-number>
+<kind>B2</kind>
+<name>Kamen</name>
+<date>20020700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>6422576</doc-number>
+<kind>B1</kind>
+<name>Michaeli</name>
+<date>20020700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>6443250</doc-number>
+<kind>B1</kind>
+<name>Kamen</name>
+<date>20020900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>6443251</doc-number>
+<kind>B1</kind>
+<name>Morrell</name>
+<date>20020900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>6550787</doc-number>
+<kind>B1</kind>
+<name>Chu</name>
+<date>20030400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>6615938</doc-number>
+<kind>B2</kind>
+<name>Morrell</name>
+<date>20030900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>6619414</doc-number>
+<kind>B2</kind>
+<name>Rau</name>
+<date>20030900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>6644426</doc-number>
+<kind>B1</kind>
+<name>Larue</name>
+<date>20031100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00036">
+<document-id>
+<country>US</country>
+<doc-number>6799649</doc-number>
+<kind>B2</kind>
+<name>Kamen</name>
+<date>20041000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00037">
+<document-id>
+<country>TW</country>
+<doc-number>134144</doc-number>
+<date>19900500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00038">
+<document-id>
+<country>TW</country>
+<doc-number>204495</doc-number>
+<date>19930400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00039">
+<document-id>
+<country>TW</country>
+<doc-number>226782</doc-number>
+<date>19940700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00040">
+<document-id>
+<country>TW</country>
+<doc-number>301605</doc-number>
+<date>19970400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00041">
+<document-id>
+<country>TW</country>
+<doc-number>329964</doc-number>
+<date>19980400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00042">
+<document-id>
+<country>TW</country>
+<doc-number>350328</doc-number>
+<date>19990100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00043">
+<document-id>
+<country>TW</country>
+<doc-number>437388</doc-number>
+<date>20010500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00044">
+<document-id>
+<country>TW</country>
+<doc-number>472137</doc-number>
+<date>20020100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00045">
+<document-id>
+<country>TW</country>
+<doc-number>502863</doc-number>
+<date>20020900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00046">
+<document-id>
+<country>TW</country>
+<doc-number>511657</doc-number>
+<date>20021100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00047">
+<document-id>
+<country>TW</country>
+<doc-number>522137</doc-number>
+<date>20030300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00048">
+<document-id>
+<country>TW</country>
+<doc-number>567159</doc-number>
+<date>20031200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00049">
+<document-id>
+<country>TW</country>
+<doc-number>M241637</doc-number>
+<date>20040800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00050">
+<document-id>
+<country>TW</country>
+<doc-number>M286664</doc-number>
+<date>20060200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00051">
+<document-id>
+<country>TW</country>
+<doc-number>M289015</doc-number>
+<date>20060300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>10</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 73304 R</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>4</number-of-drawing-sheets>
+<number-of-figures>4</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20080271528</doc-number>
+<kind>A1</kind>
+<date>20081106</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Cheng</last-name>
+<first-name>Pi-Ying</first-name>
+<address>
+<city>Hsinchu</city>
+<country>TW</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>TW</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Wong</last-name>
+<first-name>Kian-Poh</first-name>
+<address>
+<city>Johor</city>
+<country>MY</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>MY</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Muncy, Geissler, Olds &#x26; Lowe, PLLC</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>National Chiao Tung University</orgname>
+<role>03</role>
+<address>
+<city>Hsinchu</city>
+<country>TW</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Williams</last-name>
+<first-name>Hezron</first-name>
+<department>2856</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Devito</last-name>
+<first-name>Alex</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The present invention discloses a sensing device, wherein a hemispherical container containing a liquid dielectric, and the hemispherical container has more than two pairs of electrodes, and the liquid dielectric can trigger the conduction states of the electrodes. A corrosion-resistant material envelops the container. A precision valve is arranged in the container and used to adjust the level of the liquid dielectric and the sensitivity of the sensing device. A buffer necking part is also arranged in the container and used to prevent from non-expected vibration-induced contact between the electrodes and the liquid dielectric. A leakage-proof detection device envelops the hemispherical container, the liquid dielectric, the precision valve, and the buffer necking part and functions to prevent from the leakage of the liquid dielectric. Thus, the present invention can provide an adjustable multi-directional tilt-sensing device for level control.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="124.38mm" wi="185.50mm" file="US07891242-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="185.00mm" wi="145.37mm" orientation="landscape" file="US07891242-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="149.27mm" wi="150.71mm" orientation="landscape" file="US07891242-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="178.31mm" wi="141.48mm" orientation="landscape" file="US07891242-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="203.96mm" wi="130.98mm" orientation="landscape" file="US07891242-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0002" num="0001">1. Field of the Invention</p>
+<p id="p-0003" num="0002">The present invention relates to a sensing device, particularly to a multi-directional tilt-sensing device.</p>
+<p id="p-0004" num="0003">2. Description of the Related Art</p>
+<p id="p-0005" num="0004">In a conventional sensing device, mercury and wires are sealed in a glass tube, wherein the wires function as fixed contacts, and mercury functions as a movable contact. As mercury is a liquid, tilt will cause mercury to move and results in that the fixed contact of the wire is submerged in mercury. Thus, the conventional sensor can function as a control switch. However, such a sensor cannot perform multi-directional control but can only function as a unidirectional switch.</p>
+<p id="p-0006" num="0005">Thus, a multi-directional mercury switch was proposed to overcome the disadvantage of the abovementioned sensor that can only detect unidirectional vibration or inclination. For example, a Taiwan patent No. 226782 proposed an improved mercury switch, which can detect vibration or inclination multi-directionally. In the conventional technology, two conductive pillars are shaped into two rings and arranged inside a glass body. The two rings are equidistantly separated and appropriately arranged along the inner wall of the glass body. The glass body is a disc-like body and has slightly-coned upper and lower surfaces, wherein the height of the glass body gradually decreases from the central protrusion to the perimeter. When the glass body is horizontally placed, mercury is at the center. When the glass body tilts, mercury contacts two conductive pillars, and a signal is thus sent out. Such a conventional technology can indeed achieve multi-directional detection. However, the conduction of the electrodes may be triggered by a slight vibration or inclination. Further, the sensitivity of the switch is unadjustable. When such a switch is used to adjust a movable platform, it may be too sensitive.</p>
+<p id="p-0007" num="0006">Accordingly, the present invention proposes a sensing device to solve the abovementioned problems.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0008" num="0007">The primary objective of the present invention is to provide a sensing device, wherein a container containing a liquid dielectric and at least two pairs of electrodes are used to implement an adjustable multi-directional tilt-sensing device for level control.</p>
+<p id="p-0009" num="0008">Another objective of the present invention is to provide a sensing device, wherein the sensitivity of the sensing device can be controlled by a precision valve.</p>
+<p id="p-0010" num="0009">Further objective of the present invention is to provide a sensing device, wherein a leakage-proof detection device functions as the second defense line for liquid dielectric leakage.</p>
+<p id="p-0011" num="0010">To achieve the abovementioned objectives, the present invention proposes a sensing device, wherein a hemispherical container is used to contain a liquid dielectric, and a corrosion-resistant material envelops the hemispherical container; two pairs of electrodes are arranged inside the hemispherical container and used to switch the conduction states of a circuit; the hemispherical container has a precision valve used to regulate the level of the liquid dielectric; the hemispherical container has a buffer necking part used to avoid non-expected vibration-induced contact between the electrodes and the liquid dielectric; a leakage-proof detection device envelops the hemispherical container, the liquid dielectric, the buffer necking part and the precision valve and functions as the second defense line against liquid dielectric leakage.</p>
+<p id="p-0012" num="0011">Below, the embodiments are to be described in detail in cooperation with the attached drawings to make easily understood the objectives, technical contents, characteristics and accomplishments of the present invention.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 1</figref> is a sectional view of a sensing device according to the present invention;</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 2</figref> is a diagram schematically showing a precision valve according to the present invention;</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 3</figref> is a sectional view of a precision valve according to the present invention; and</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 4</figref> is a diagram schematically showing a sensing device in a tilt state according to the present invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0017" num="0016">Refer to <figref idref="DRAWINGS">FIG. 1</figref>, a sectional view of a sensing device according to the present invention is shown. In the sensing device <b>102</b> of the present invention, a hemispherical container <b>104</b> contains a liquid dielectric <b>120</b>, and a corrosion-resistant material envelops the container <b>104</b>. The liquid dielectric may be mercury. At least two pairs of contact electrodes <b>110</b> are arranged on two sides of the container <b>104</b>. At least one bottom electrode <b>112</b> is arranged in the bottom of the container <b>104</b>. A circuit connection module <b>160</b> is arranged inside the container <b>104</b> and used to separate the positive and negative electrodes of the contact electrodes <b>110</b> and the bottom electrode <b>112</b> lest short circuit occur. The container <b>104</b> is fixedly installed inside a leakage-proof detection device <b>106</b>. The leakage-proof detection device <b>106</b> is used to prevent from the harm of liquid dielectric leakage caused by an accident. In addition to the above-mentioned hemispherical container, the container of the sensing device of the present invention may also adopt other shapes to meet different requirements.</p>
+<p id="p-0018" num="0017">Refer to <figref idref="DRAWINGS">FIG. 2</figref> and <figref idref="DRAWINGS">FIG. 3</figref>. The container <b>104</b> further comprises a precision valve <b>140</b>. The precision valve <b>140</b> has a thread <b>146</b>, which cooperates with an inner thread of a fixing element <b>105</b> to secure the precision valve <b>140</b> to the container <b>104</b>. One end of the precision valve <b>140</b> has a rotary knob <b>142</b>, and the other end has a cone <b>144</b>. The rotation of the rotary knob <b>142</b> can drive the cone <b>144</b> to move up or down. As the cone <b>144</b> is partially submerged in the liquid dielectric <b>120</b>, the vertical movement of the cone <b>144</b> will change the level of the liquid dielectric <b>120</b>. The higher the level of the liquid dielectric <b>120</b>, the smaller the difference between the height of the contact electrode <b>110</b> and the height of the liquid dielectric <b>120</b>, and the smaller the tilt angle required to make the liquid dielectric <b>120</b> contact the contact electrode <b>110</b>, and thus the greater the sensitivity to tilt. Contrarily, the lower the level of the liquid dielectric <b>120</b>, the greater the difference between the height of the contact electrode <b>110</b> and the height of the liquid dielectric <b>120</b>, and the greater the tilt angle required to make the liquid dielectric <b>120</b> contact the contact electrode <b>110</b>, and thus the smaller the sensitivity to tilt.</p>
+<p id="p-0019" num="0018">Refer to <figref idref="DRAWINGS">FIG. 1</figref>. A leakage-proof detection device <b>106</b>, which is in the form of an external casing and has a groove <b>10</b> at the bottom thereof, is used to envelops the container <b>104</b>, the liquid dielectric <b>120</b>, the buffer necking part <b>130</b>, the precision valve <b>140</b> and functions as the second defense line against the leakage of the liquid dielectric <b>120</b>. A sensing electrode <b>113</b> is arranged in the groove <b>10</b>. When there is a leakage, the liquid dielectric <b>120</b> will flow along the inner wall of the leakage-proof detection device <b>106</b> to the groove <b>10</b>, which will trigger the sensing electrode <b>113</b> to send signal to the user or to start necessary safety facilities.</p>
+<p id="p-0020" num="0019">Refer to <figref idref="DRAWINGS">FIG. 4</figref> a diagram schematically showing a sensing device in a tilt state according to the present invention. When the sensing device of the present invention is attached to a carrier, and when the support seat of the carrier tilts, a part of the contact electrodes <b>110</b> contact the liquid dielectric <b>120</b>. Thus, the liquid dielectric <b>120</b> electrically interconnects the contact electrodes <b>110</b> and the bottom electrode <b>112</b>. Therefore, an angle &#x3b8;<sub>1 </sub>is contained between the level of the liquid dielectric <b>120</b> and the extended line along the sideline and can be used to detect the tilt state of a platform and facilitate restoring the support seat back to the horizontal state. As the inner wall of the container <b>104</b> has at least two pairs of contact electrodes <b>110</b>, the sensing device of the present invention can detect tilt multi-directionally. The buffer necking part <b>130</b> in the container <b>104</b> is designed to eliminate the influence of surface tension and to avoid the non-expected vibration-induced contact between the contact electrode <b>110</b> and the liquid dielectric <b>120</b> during movement. Those described above are the embodiments to exemplify the present invention to enable the persons skilled in the art to understand, make and use the present invention. However, it is not intended to limit the scope of the present invention. Any equivalent modification or variation according to the spirit of the present invention is to be also included within the scope of the claims stated below.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A sensing device comprising:
+<claim-text>a container having a fixing element and at least two pairs of electrodes;</claim-text>
+<claim-text>a liquid dielectric contained by said container and used to trigger said electrodes in said container and switch conduction states of a circuit;</claim-text>
+<claim-text>a bottom electrode arranged at bottom of said container and used to detect leakage of said liquid dielectric;</claim-text>
+<claim-text>a buffer necking part located inside said container, arranged along a perimeter of the bottom of said fixing element and used to prevent said liquid dielectric from contacting said electrodes;</claim-text>
+<claim-text>a precision valve arranged in said container, penetrating said fixing element with a part thereof emerging from said fixing element and used to adjust level of said liquid dielectric, wherein a high level results in a high sensitivity, and a low level results in a low sensitivity; and</claim-text>
+<claim-text>a leakage-proof detection device enveloping said container, said liquid dielectric, said buffer necking part and said precision valve and used to detect leakage of said liquid dielectric and prevent from leakage of said liquid dielectric.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. A sensing device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein an inner thread is formed inside said fixing element and used to fix said precision valve.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. A sensing device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein a corrosion-resistant material is used to envelop said container to provide a vibration-proof function and a collision-proof function.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. A sensing device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said container is a hemispherical body.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. A sensing device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said liquid dielectric is mercury.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. A sensing device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein size of said buffer necking part correlates with surface tension of said liquid dielectric.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. A sensing device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said precision valve further comprises:
+<claim-text>a cone arranged inside said container, submerged in said liquid dielectric and used to change level of said liquid dielectric; and</claim-text>
+<claim-text>a rotary knob coupled to said cone, arranged above said fixing element and used to drive said cone to move up or down.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. A sensing device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said leakage-proof detection device is in a form of an external casing.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. A sensing device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein a groove is formed in bottom of said leakage-proof detection device; when said liquid dielectric leaks, said liquid dielectric will flow along inner wall of said leakage-proof detection device to said groove and trigger a sensing electrode arranged in said groove to send a signal to a user or start necessary safety facilities.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. A sensing device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said leakage-proof detection device has a sensor thereinside to send information about leakage of said liquid dielectric to a user or start necessary safety facilities. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

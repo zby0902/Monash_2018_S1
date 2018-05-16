@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891023-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891023</doc-number>
+<kind>B1</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11879094</doc-number>
+<date>20070716</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>854</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>41</class>
+<subclass>F</subclass>
+<main-group>19</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>  2310</main-classification>
+<further-classification>  2 69</further-classification>
+<further-classification>  2305</further-classification>
+<further-classification>  2327</further-classification>
+<further-classification>224583</further-classification>
+</classification-national>
+<invention-title id="d2e53">Peace officer's shirt and suspender set for supporting a duty belt</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>770761</doc-number>
+<kind>A</kind>
+<name>Lemly</name>
+<date>19040900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>224649</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>1335927</doc-number>
+<kind>A</kind>
+<name>Ainsworth</name>
+<date>19200400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2310</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>1398962</doc-number>
+<kind>A</kind>
+<name>Graves</name>
+<date>19211200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2331</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>1446948</doc-number>
+<kind>A</kind>
+<name>Taylor</name>
+<date>19230200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2117</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>1839143</doc-number>
+<kind>A</kind>
+<name>Ellis</name>
+<date>19311200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2305</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>1852030</doc-number>
+<kind>A</kind>
+<name>Shipman</name>
+<date>19320400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2327</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>1983636</doc-number>
+<kind>A</kind>
+<name>Palkens</name>
+<date>19341200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>450113</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>2133505</doc-number>
+<kind>A</kind>
+<name>Green</name>
+<date>19381000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2106</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>2411724</doc-number>
+<kind>A</kind>
+<name>Hill</name>
+<date>19461100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 51298</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>2682669</doc-number>
+<kind>A</kind>
+<name>Valentine et al.</name>
+<date>19540700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2310</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>3167786</doc-number>
+<kind>A</kind>
+<name>Johnson</name>
+<date>19650200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2327</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>3401857</doc-number>
+<kind>A</kind>
+<name>Wilson et al.</name>
+<date>19680900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>224637</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>4923105</doc-number>
+<kind>A</kind>
+<name>Snyder</name>
+<date>19900500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>224255</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>5214806</doc-number>
+<kind>A</kind>
+<name>Flores</name>
+<date>19930600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2312</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>5319806</doc-number>
+<kind>A</kind>
+<name>Hermann et al.</name>
+<date>19940600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2461</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>5413262</doc-number>
+<kind>A</kind>
+<name>Dewire et al.</name>
+<date>19950500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>224675</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>5488738</doc-number>
+<kind>A</kind>
+<name>Seamans</name>
+<date>19960200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2 69</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>5497923</doc-number>
+<kind>A</kind>
+<name>Pearson et al.</name>
+<date>19960300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>224639</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>5611079</doc-number>
+<kind>A</kind>
+<name>Bain, III</name>
+<date>19970300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2455</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>5623735</doc-number>
+<kind>A</kind>
+<name>Perry</name>
+<date>19970400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>6021528</doc-number>
+<kind>A</kind>
+<name>Jurga et al.</name>
+<date>20000200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2326</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>6088831</doc-number>
+<kind>A</kind>
+<name>Jensen et al.</name>
+<date>20000700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2  25</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>6216931</doc-number>
+<kind>B1</kind>
+<name>Trawinski</name>
+<date>20010400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>224583</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>6766532</doc-number>
+<kind>B1</kind>
+<name>Cabana</name>
+<date>20040700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2 44</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>6804834</doc-number>
+<kind>B1</kind>
+<name>Mok</name>
+<date>20041000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>6959455</doc-number>
+<kind>B2</kind>
+<name>Hall</name>
+<date>20051100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2340</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>7318542</doc-number>
+<kind>B2</kind>
+<name>Godshaw et al.</name>
+<date>20080100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>224674</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>D581633</doc-number>
+<kind>S</kind>
+<name>Seibold</name>
+<date>20081200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> D2841</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>7596813</doc-number>
+<kind>B2</kind>
+<name>Borowski et al.</name>
+<date>20091000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2 93</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>2002/0112275</doc-number>
+<kind>A1</kind>
+<name>Hall</name>
+<date>20020800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2310</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>2003/0110550</doc-number>
+<kind>A1</kind>
+<name>Guibord</name>
+<date>20030600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2312</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>2006/0185056</doc-number>
+<kind>A1</kind>
+<name>Zwick</name>
+<date>20060800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2115</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>2006/0289585</doc-number>
+<kind>A1</kind>
+<name>Godshaw et al.</name>
+<date>20061200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>224625</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>2009/0070915</doc-number>
+<kind>A1</kind>
+<name>Hill</name>
+<date>20090300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2117</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>8</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>  2310</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2331</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2117</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2 93</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2 94</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2305</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2320</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2327</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2106</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2461</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2 69</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2326</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2  25</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2455</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>224576</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>224322</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>7</number-of-drawing-sheets>
+<number-of-figures>8</number-of-figures>
+</figures>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Hill</last-name>
+<first-name>Elton N.</first-name>
+<address>
+<street>1210 Talon Rd.</street>
+<city>Lincoln</city>
+<state>NE</state>
+<postcode>68505</postcode>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Thomte</last-name>
+<first-name>Dennis L.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<orgname>Thomte Patent Law Office LLC</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<examiners>
+<primary-examiner>
+<last-name>Morin</last-name>
+<first-name>Katherine</first-name>
+<department>3765</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Quinn</last-name>
+<first-name>Richale L</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A suspender set and peace officer's shirt are described wherein the suspenders for the duty belt are located beneath the officer's shirt with only a portion of the suspender set extending outwardly through the front and rear of the shirt for connection to the duty belt worn by the officer.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="213.36mm" wi="342.22mm" file="US07891023-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="239.44mm" wi="153.42mm" file="US07891023-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="233.09mm" wi="160.87mm" file="US07891023-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="239.18mm" wi="175.94mm" file="US07891023-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="231.56mm" wi="164.25mm" file="US07891023-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="230.89mm" wi="170.52mm" file="US07891023-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="225.55mm" wi="164.51mm" file="US07891023-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="241.22mm" wi="164.59mm" file="US07891023-20110222-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0002" num="0001">1. Field of the Invention</p>
+<p id="p-0003" num="0002">This invention relates to a peace officer's shirt and suspender set for supporting a duty belt and more particularly to a suspender set for supporting a duty belt which is positioned for the most part inside the shirt.</p>
+<p id="p-0004" num="0003">2. Description of the Related Art</p>
+<p id="p-0005" num="0004">Peace officers such as police officers, highway patrolmen, deputy sheriffs, etc., normally wear a duty belt which supports heavy gear such as a pistol, cartridges, pouches, radio, etc. The weight of the duty belt and the gear supported thereon is carried by the back of the officer and many officers have experienced severe back problems as a result of wearing the heavy duty belt. Suspenders could be used to support the duty belt, but the suspenders detract from the appearance of the officer's uniform. Further, if conventional suspenders are worn by the police officer to support the duty belt, a person involved in a fight or scuffle with the officer could grab the exposed suspenders to gain an unfair leverage or advantage over the officer during the fight or scuffle.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0006" num="0005">A peace officer's shirt and suspender set for supporting a duty belt is disclosed wherein the suspenders are located primarily inside the shirt with only a small portion thereof extending through openings formed in the shirt for attachment to the duty belt. In one form of the invention, the suspender set is comprised of first and second flexible strap members which are length adjustable and which extend over the shoulders of the officer. Preferably, the suspenders extend through guide loops which are secured to the inside surface of the shirt above the shoulders of the officer. A buckle fastener is secured to each of the opposite ends of the first and second strap members and have belt loops secured thereto which may be extended through slits or openings formed in the front and rear sides of the shirt. The duty belt is extended through the belt loops so that the weight of the duty belt and gear supported thereon is carried by the shoulders rather than the back of the officer. In a second embodiment of the invention, the rearward ends of the first and second strap members are joined together with a single strap member extending downwardly from the juncture thereof through a single opening in the back of the officer's shirt. A modified form of the belt loops is also described which enables the belt loops to be disconnected from the duty belt without the need for removing the duty belt from the officer's waist. Preferably, the openings in the shirt are formed approximately one inch above the duty belt so that a minimum amount of the suspenders is exposed.</p>
+<p id="p-0007" num="0006">It is therefore a principal object of the invention to provide an improved peace officer's shirt and suspender set for supporting a duty belt.</p>
+<p id="p-0008" num="0007">A further object of the invention is to provide a device of the type described wherein the weight of the duty belt and the gear supported thereon is supported by the officers shoulders rather than the officer's back.</p>
+<p id="p-0009" num="0008">Still another object of the invention is to provide a suspender set of the type described wherein the belt loops thereof may be opened so that the duty belt may be disconnected from the suspender set without removing the duty belt from the officer's waist.</p>
+<p id="p-0010" num="0009">A further object of the invention is to provide peace officer's shirt and suspender set for supporting a duty belt where only a small portion of the suspender set is exposed at the outer surface of the officer's shirt.</p>
+<p id="p-0011" num="0010">These and other objects will be obvious to those skilled in the art.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. 1</figref> is a perspective view illustrating a peace officer wearing a duty belt which is supported by the suspender set of this invention;</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 2</figref> is a partial perspective view of the shirt of this invention;</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 3</figref> is an exploded perspective view of one form of the suspender set of this invention;</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 4</figref> is an exploded perspective view of a modified form of the suspender set of this invention;</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 5</figref> is a partial perspective view illustrating the relationship of the first embodiment of this invention and the peace officers duty belt;</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 6</figref> is a view similar to <figref idref="DRAWINGS">FIG. 5</figref> except that a modified form of the belt loop is utilized;</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 7</figref> is a perspective view of the modified loop in a closed position; and</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 8</figref> is a view similar to <figref idref="DRAWINGS">FIG. 7</figref> except that the belt loop has been opened.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0020" num="0019">The numeral <b>10</b> refers generally to a peace officer's shirt having a front <b>12</b>, a back <b>14</b>, sleeves <b>16</b> and <b>18</b>, with the tail <b>19</b> thereof being worn tucked into the officer's pants. The shirt <b>10</b> has an inner surface <b>20</b> and an outer surface <b>22</b>.</p>
+<p id="p-0021" num="0020">The numeral <b>24</b> refers to a peace officer's duty belt of conventional design which is adapted to extend around the officers waist and which supports heavy gear thereon such as cartridges, pistol, flashlight, handcuffs, etc. The numeral <b>26</b> refers to one embodiment of the suspender set of this invention which includes first and second flexible strap members <b>28</b> and <b>30</b>, respectively. The strap members <b>28</b> and <b>30</b> are length adjustable by means of the sliding buckles <b>32</b> and <b>34</b>, respectively. The suspender set <b>26</b> of this invention is intended to be worn under the officer's shirt and to extend over the officer's shoulders. It is preferred, but not necessary, that a pair of guide loops <b>36</b> are sewn or otherwise secured to the inner surface <b>20</b> of the shirt so as to be positioned over the shoulders of the officer. The strap members <b>28</b> and <b>30</b> are adapted to extend through the guide loops <b>36</b>. For purposes of description, the first strap member will be described as having a front end <b>40</b> and a rear end <b>42</b> while the second strap member <b>30</b> will be described as having a front end <b>44</b> and a rear end <b>46</b>.</p>
+<p id="p-0022" num="0021">The numeral <b>48</b> refers to a first buckle fastener having first and second buckles fastener members <b>50</b> and <b>52</b> which may be selectively fastened together in conventional fashion. The first buckle fastener member <b>50</b> of the buckle fastener <b>48</b> is secured to the front end <b>40</b> of the strap member <b>28</b>. The numeral <b>54</b> designates a second buckle fastener having first and second buckle fastener members <b>56</b> and <b>58</b>, respectively, which may be selectively fastened together in conventional fashion. The first buckle fastener member <b>56</b> of the buckle fastener <b>54</b> is secured to the front end <b>44</b> of the strap member <b>30</b>.</p>
+<p id="p-0023" num="0022">The numeral <b>60</b> refers to a third buckle fastener including first and second buckle fastener members <b>62</b> and <b>64</b>, respectively, which may be selectively fastened together in conventional fashion. The first buckle fastener member <b>62</b> of the buckle fastener <b>60</b> is secured to the rear end <b>42</b> of the strap member <b>28</b>.</p>
+<p id="p-0024" num="0023">The numeral <b>66</b> refers to a fourth buckle fastener including first and second buckle fastener members <b>68</b> and <b>70</b>, respectively, which may be selectively fastened together in conventional fashion. The first buckle fastener member <b>68</b> of the buckle fastener <b>66</b> is secured to the rear end <b>46</b> of the strap member <b>30</b>. The buckle fastener members <b>48</b>, <b>54</b>, <b>60</b> and <b>66</b> are of conventional design and are commonly referred to as side-release buckle fasteners. The side-release buckle fasteners described herein are comprised of a plastic material and may be obtained from American Cord and Webbing of Woon Socket, R.I.</p>
+<p id="p-0025" num="0024">The numerals <b>72</b>, <b>74</b>, <b>76</b> and <b>78</b> refer to third, fourth, fifth and sixth flexible strap members, respectively, having first and second ends <b>80</b> and <b>82</b>, <b>84</b> and <b>86</b>, <b>88</b> and <b>90</b>, and <b>92</b> and <b>94</b>, respectively. The first ends of the third, fourth, fifth and sixth strap members are secured to the second buckle fastener members of the buckle fasteners <b>48</b>, <b>54</b>, <b>60</b> and <b>66</b>, respectively, by stitching, as seen in <figref idref="DRAWINGS">FIG. 3</figref>, or by hook and loop fasteners. The second ends of the third, fourth, fifth and sixth strap members <b>72</b>, <b>74</b>, <b>76</b> and <b>78</b> are secured to the strap members to define belt loops <b>96</b>, <b>98</b>, <b>100</b> and <b>102</b>, respectively, adapted to have the duty belt extending therethrough so that a large portion of the weight of the duty belt is carried by the shoulders of the officer.</p>
+<p id="p-0026" num="0025">The shirt <b>10</b> has spaced-apart openings <b>104</b> and <b>106</b> formed in the front <b>12</b> thereof above the duty belt <b>24</b> so that the third and fourth strap members <b>72</b> and <b>74</b> may extend outwardly therethrough to the outer surface of the shirt. The shirt <b>10</b> also has third and fourth spaced-apart openings <b>108</b> and <b>110</b> formed in the back <b>14</b> thereof above the duty belt <b>24</b> so that the fifth and sixth strap member <b>76</b> and <b>78</b> may extend outwardly therethrough, respectively, to the outer surface of the shirt <b>10</b>. Preferably, the openings <b>104</b>, <b>106</b>, <b>108</b> and <b>110</b> are formed in the shirt approximately one inch above the belt. Preferably, the duty belt <b>24</b> is black and the strap members <b>72</b>, <b>74</b>, <b>76</b> and <b>78</b> are also black so as to esthetically blend together.</p>
+<p id="p-0027" num="0026">The loops <b>96</b>, <b>98</b>, <b>100</b> and <b>102</b> on the strap members <b>72</b>, <b>74</b>, <b>76</b> and <b>78</b> are shown to be formed by stitching, however, the strap members <b>72</b>, <b>74</b>, <b>76</b> and <b>78</b> and the loops thereon may be replaced by the structure illustrated in <figref idref="DRAWINGS">FIGS. 6-8</figref> so that the duty belt <b>24</b> may be disconnected from the suspender set without removing the duty belt from the officer's waist. As seen in <figref idref="DRAWINGS">FIGS. 6-8</figref>, the belt loop may be formed by including a buckle fastener <b>112</b> therein so that the loop may be opened. The buckle fastener is of the type described above and includes buckle fasteners member which are selectively connected together to form one side of the loop. The modified loop illustrated in <figref idref="DRAWINGS">FIGS. 6-8</figref> is referred to generally by the reference numeral <b>113</b>.</p>
+<p id="p-0028" num="0027">Although it is preferred that there be four support points between the suspender set and the duty belt, it may be possible to have two support points at the front of the duty belt and only one support point at the rear end of the duty belt. <figref idref="DRAWINGS">FIG. 4</figref> illustrates a structure wherein the rear end <b>42</b> of strap member <b>28</b> and the rear end <b>46</b> of strap member <b>30</b> are joined together at <b>114</b>. A strap member <b>116</b> is secured at its upper end to the juncture <b>114</b> of strap members <b>28</b> and <b>30</b> and extends downwardly therefrom. A buckle fastener <b>118</b> of the type described hereinabove is secured to the lower end of strap member <b>116</b>. Strap member <b>120</b> is secured at its upper end to the lower end of the buckle fastener <b>118</b> and has a belt loop <b>122</b> formed thereon. The belt loop <b>122</b> may be of either design described hereinabove. If the structure of <figref idref="DRAWINGS">FIG. 4</figref> is used, there is only the need for a single opening <b>124</b> to be formed in the rear of the shirt to enable the strap member <b>120</b> to extend therethrough for connection to the duty belt.</p>
+<p id="p-0029" num="0028">Thus it can be seen that a novel suspender set and shirt have been provided which enables the weight of the duty belt to be carried by the shoulders of the officer rather than the back of the officer. The vast majority of the suspender set is located beneath the shirt so as not to detract from the appearance of the ensemble. Further, the fact that the majority of the suspender set is located beneath the shirt prevents a person from grabbing the same should the officer be involved in a scuffle or fight with a person. Only a small portion of the suspender set is exposed above the duty belt and is preferably the same color as the belt so as to blend therein. The buckle fasteners described herein enable the suspender set to be quickly and easily attached to the duty belt and detached therefrom.</p>
+<p id="p-0030" num="0029">Thus it can be seen that the invention accomplishes at least all of the stated objectives.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>I claim:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. In combination:
+<claim-text>a peace officer's shirt having a front, a back, sleeves, and a tail which is worn tucked into the wearer's pants, said shirt having an inner surface and an outer surface;</claim-text>
+<claim-text>a peace officer's duty belt extending around the officer's waist which supports heavy gear;</claim-text>
+<claim-text>a suspender set comprising first and second flexible strap members;</claim-text>
+<claim-text>said suspender set intended to be worn under the officer's shirt and to extend over the officers shoulders;</claim-text>
+<claim-text>each of said first and second strap members having a front end and a rear end;</claim-text>
+<claim-text>a first buckle fastener including first and second buckle fastener members which may be selectively fastened together;</claim-text>
+<claim-text>said first buckle fastener member of said first buckle fastener means being secured to said front end of said first strap member;</claim-text>
+<claim-text>a second buckle fastener including first and second buckle fastener members which may be selectively fastened together;</claim-text>
+<claim-text>said first buckle fastener member of said second buckle fastener being secured to said front end of said second strap member;</claim-text>
+<claim-text>a third buckle fastener including first and second buckle fastener members which may be selectively fastened together;</claim-text>
+<claim-text>said first buckle fastener member of said third buckle fastener being secured to said rear end of said first strap member;</claim-text>
+<claim-text>a fourth buckle fastener including first and second buckle fastener members which may be selectively fastened together;</claim-text>
+<claim-text>said first buckle fastener member of said fourth buckle fastener being secured to said rear end of said second strap member;</claim-text>
+<claim-text>third, fourth, fifth and sixth flexible strap members having first and second ends;</claim-text>
+<claim-text>said first ends of said third, fourth, fifth and sixth strap members being secured to said second buckle fastener members of said first, second, third and fourth buckle fasteners respectively by hook and loop fasteners;</claim-text>
+<claim-text>said shirt having first and second spaced-apart openings formed in said front thereof above said duty belt so that said third and fourth strap members may extend outwardly therethrough to said outer surface of said shirt;</claim-text>
+<claim-text>said shirt having third and fourth spaced-apart openings formed in said back thereof above said duty belt so that said fifth and sixth strap members may extend outwardly therethrough to said outer surface of said shirt;</claim-text>
+<claim-text>each of said second ends of said third, fourth, fifth and sixth strap members having a belt loop thereon adapted to have said duty belt extending therethrough so that at least some of the weight of said duty belt is carried by the shoulders of the officer.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The combination of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein each of said first and second strap members are length adjustable.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The combination of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein each of said first, second, third and fourth buckle fasteners are of the side-release type.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. In combination:
+<claim-text>a peace officer's shirt having a front, a back, sleeves, and a tail which is worn tucked into the officer's pants, said shirt having an inner surface and an outer surface;</claim-text>
+<claim-text>a peace officer's duty belt extending around the officer's waist and which supports heavy gear;</claim-text>
+<claim-text>a suspender set comprising first and second flexible strap members having front and rear ends;</claim-text>
+<claim-text>said suspender set intended to be worn under the officer's shirt and to extend over the officer's shoulders;</claim-text>
+<claim-text>a first buckle fastener including first and second buckle fastener members which may be selectively fastened together;</claim-text>
+<claim-text>said first buckle fastener member of said first buckle fastener means being secured to said front end of said first strap member;</claim-text>
+<claim-text>a second buckle fastener including first and second buckle fastener members which may be selectively fastened together;</claim-text>
+<claim-text>said first buckle fastener member of said second buckle fastener being secured to said front end of said second strap member;</claim-text>
+<claim-text>said rear ends of said first and second strap members being operatively joined together;</claim-text>
+<claim-text>a third flexible strap having upper and lower ends;</claim-text>
+<claim-text>said upper end of said third strap member being secured to the juncture of said rear ends of said first and second strap members and extending downwardly therefrom;</claim-text>
+<claim-text>a third buckle fastener including first and second buckle fastener members which may be selectively fastened together;</claim-text>
+<claim-text>said first end of said third buckle fastener being secured to said lower end of said third strap member;</claim-text>
+<claim-text>fourth and fifth flexible strap members having first and second ends;</claim-text>
+<claim-text>said first ends of said fourth and fifth strap members being secured to said second buckle fastener members of said first and second buckle fasteners respectively by hook and loop fasteners;</claim-text>
+<claim-text>a sixth flexible strap member having first and second ends;</claim-text>
+<claim-text>said first end of said sixth strap member being secured to said second buckle member of said third buckle fastener by a hook and loop fastener;</claim-text>
+<claim-text>said shirt having first and second spaced-apart openings formed in said front thereof above said duty belt so that said fourth and fifth strap members may extend outwardly therethrough to said outer surface of said shirt;</claim-text>
+<claim-text>said shirt having a third opening formed in said back thereof above said duty belt so that said sixth strap member may extend outwardly therethrough to said outer surface of said shirt;</claim-text>
+<claim-text>each of said second ends of said fourth and fifth strap members and said lower end of said sixth strap member having a belt loop thereon adapted to have said duty belt extending therethrough so that at least some of the weight of said duty belt is carried by the shoulders of the officer.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The combination of <claim-ref idref="CLM-00004">claim 4</claim-ref> wherein each of said first and second strap members are length adjustable.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The combination of <claim-ref idref="CLM-00004">claim 4</claim-ref> wherein each of said first, second and third buckle fasteners are of the side-release type.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. In combination:
+<claim-text>a peace officer's shirt having a front, a back, sleeves, and a tail which is worn tucked into the wearer's pants, said shirt having an inner surface and an outer surface;</claim-text>
+<claim-text>a peace officer's duty belt extending around the officer's waist which supports heavy gear;</claim-text>
+<claim-text>a suspender set comprising first and second flexible strap members;</claim-text>
+<claim-text>said suspender set intended to be worn under the officer's shirt and to extend over the officer's shoulders;</claim-text>
+<claim-text>each of said first and second strap members having a front end and a rear end;</claim-text>
+<claim-text>a first buckle fastener including first and second buckle fastener members which may be selectively fastened together;</claim-text>
+<claim-text>said first buckle fastener member of said first buckle fastener means being secured to said front end of said first strap member;</claim-text>
+<claim-text>a second buckle fastener including first and second buckle fastener members which may be selectively fastened together;</claim-text>
+<claim-text>said first buckle fastener member of said second buckle fastener being secured to said front end of said second strap member;</claim-text>
+<claim-text>a third buckle fastener including first and second buckle fastener members which may be selectively fastened together;</claim-text>
+<claim-text>said first buckle fastener member of said third buckle fastener being secured to said rear end of said first strap member;</claim-text>
+<claim-text>a fourth buckle fastener including first and second buckle fastener members which may be selectively fastened together;</claim-text>
+<claim-text>said first buckle fastener member of said fourth buckle fastener being secured to said rear end of said second strap member;</claim-text>
+<claim-text>third, fourth, fifth and sixth flexible strap members having first and second ends;</claim-text>
+<claim-text>said first ends of said third, fourth, fifth and sixth strap members being secured to said second buckle fastener members of said first, second, third and fourth buckle fasteners, respectively;</claim-text>
+<claim-text>said shirt having first and second spaced-apart openings formed in said front thereof above said duty belt so that said third and fourth strap members may extend outwardly therethrough to said outer surface of said shirt;</claim-text>
+<claim-text>said shirt having third and fourth spaced-apart openings formed in said back thereof above said duty belt so that said fifth and sixth strap members may extend outwardly therethrough to said outer surface of said shirt;</claim-text>
+<claim-text>each of said second ends of said third, fourth, fifth and sixth strap members having a belt loop thereon adapted to have said duty belt extending therethrough so that at least some of the weight of said duty belt is carried by the shoulders of the officer;</claim-text>
+<claim-text>each of said belt loops being selectively openable to permit said belt loops to be disengaged from said duty belt;</claim-text>
+<claim-text>each of said belt loops including a buckle fastener including first and second buckle fastener members which may be selectively fastened together.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. In combination:
+<claim-text>a peace officer's shirt having a front, a back, sleeves, and a tail which is worn tucked into the officer's pants, said shirt having an inner surface and an outer surface;</claim-text>
+<claim-text>a peace officer's duty belt extending around the officer's waist and which supports heavy gear;</claim-text>
+<claim-text>a suspender set comprising first and second flexible strap members having front and rear ends;</claim-text>
+<claim-text>said suspender set intended to be worn under the officer's shirt and to extend over the officer's shoulders;</claim-text>
+<claim-text>a first buckle fastener including first and second buckle fastener members which may be selectively fastened together;</claim-text>
+<claim-text>said first buckle fastener member of said first buckle fastener means being secured to said front end of said first strap member;</claim-text>
+<claim-text>a second buckle fastener including first and second buckle fastener members which may be selectively fastened together;</claim-text>
+<claim-text>said first buckle fastener member of said buckle fastener being secured to said front end of said second strap member;</claim-text>
+<claim-text>said rear ends of said first and second strap members being operatively joined together;</claim-text>
+<claim-text>a third flexible strap having upper and lower ends;</claim-text>
+<claim-text>said upper end of said third strap member being secured to the juncture of said rear ends of said first and second strap members and extending downwardly therefrom;</claim-text>
+<claim-text>a third buckle fastener including first and second buckle fastener members which may be selectively fastened together;</claim-text>
+<claim-text>said first end of said third buckle fastener being secured to said lower end of said third strap member;</claim-text>
+<claim-text>fourth and fifth flexible strap members having first and second ends;</claim-text>
+<claim-text>said first ends of said fourth and fifth strap members being secured to said second buckle fastener members of said first and second buckle fasteners, respectively;</claim-text>
+<claim-text>a sixth flexible strap member having first and second ends;</claim-text>
+<claim-text>said first end of said sixth strap member being secured to said second buckle fastener of said third buckle fastener;</claim-text>
+<claim-text>said shirt having first and second spaced-apart openings formed in said front thereof above said duty belt so that said fourth and fifth strap members may extend outwardly therethrough to said outer surface of said shirt;</claim-text>
+<claim-text>said shirt having a third opening formed in said back thereof above said duty belt so that said sixth strap member may extend outwardly therethrough to said outer surface of said shirt;</claim-text>
+<claim-text>each of said second ends of said fourth and fifth strap members and said lower end of said sixth strap member having a belt loop thereon adapted to have said duty belt extending therethrough so that at least some of the weight of said duty belt is carried by the shoulders of the officer;</claim-text>
+<claim-text>each of said belt loops being selectively openable to permit said belt loops to be disengaged from said duty belt;</claim-text>
+<claim-text>each of said belt loops including a buckle fastener including first and second buckle fastener members which may be selectively fastened together. </claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

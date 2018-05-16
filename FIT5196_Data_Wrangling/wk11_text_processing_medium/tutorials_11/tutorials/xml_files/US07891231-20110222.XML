@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891231-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891231</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12291249</doc-number>
+<date>20081106</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>72</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>M</subclass>
+<main-group>7</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 73 1209</main-classification>
+</classification-national>
+<invention-title id="d2e53">Apparatus for monitoring and registering the location and intensity of impacts in sports</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>7110892</doc-number>
+<kind>B2</kind>
+<name>Kim</name>
+<date>20060900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>702 41</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>7384380</doc-number>
+<kind>B2</kind>
+<name>Reinbold et al.</name>
+<date>20080600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>482 91</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>7660692</doc-number>
+<kind>B2</kind>
+<name>Van Albert et al.</name>
+<date>20100200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>702127</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>2003/0217582</doc-number>
+<kind>A1</kind>
+<name>Reinbold et al.</name>
+<date>20031100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73 1209</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>2007/0213182</doc-number>
+<kind>A1</kind>
+<name>Anderson</name>
+<date>20070900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>482 83</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>2008/0258921</doc-number>
+<kind>A1</kind>
+<name>Woo et al.</name>
+<date>20081000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>3405731</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>2009/0288472</doc-number>
+<kind>A1</kind>
+<name>Le Carpentier</name>
+<date>20091100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73 1204</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>15</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 73 1201- 1214</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>6</number-of-drawing-sheets>
+<number-of-figures>14</number-of-figures>
+</figures>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>61070254</doc-number>
+<date>20080321</date>
+</document-id>
+</us-provisional-application>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090235761</doc-number>
+<kind>A1</kind>
+<date>20090924</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Song</last-name>
+<first-name>Jin Y.</first-name>
+<address>
+<street>15725 Apollo Heights Ct.</street>
+<city>Saratoga</city>
+<state>CA</state>
+<postcode>95070</postcode>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>McAfee &#x26; Taft</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<examiners>
+<primary-examiner>
+<last-name>Noori</last-name>
+<first-name>Max</first-name>
+<department>2855</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">This invention relates to impact sports, and to articles of clothing and for detection systems used to monitor and registering the intensity, location and sources of impacts in contact sports such as boxing, martial arts, fencing, and so forth.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="168.32mm" wi="174.50mm" file="US07891231-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="254.93mm" wi="177.12mm" file="US07891231-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="236.64mm" wi="184.49mm" orientation="landscape" file="US07891231-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="245.87mm" wi="158.41mm" file="US07891231-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="241.72mm" wi="156.80mm" file="US07891231-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="225.81mm" wi="173.91mm" file="US07891231-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="244.01mm" wi="179.58mm" file="US07891231-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<p id="p-0002" num="0001">This application claims the benefit of and priority under 35 U.S.C. 119e) of U.S. Provisional Patent Application No. 61/070,254 filed: Mar. 21, 2008 as incorporated herein by reference.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">This invention relates to articles of clothing worn in conjunction with various types of contact sports such as martial arts, including kick boxing, TaeKwonDo, fencing, boxing, and so forth. This invention also relates to detection systems for detecting and measuring vibrations such as weight measurement, perimeter intrusion detection, safety and security fencing, and other applications in which a force or a vibration is used to generate a detectable signal.</p>
+<p id="p-0004" num="0003">Prior publications forming the subject matter herein concerns the use of piezo film technical data sheets published by Measurement Specialties, Incorporated of Valley Forge, Pa. Additionally, the use of piezo film to sense impact in sporting and athletic devices is disclosed in U.S. Pat. No. 4,824,107. Also disclosed in a somewhat more limited extent is U.S. Pat. No. 5,553,880.</p>
+<p id="p-0005" num="0004">In combative sports such as boxing, martial arts such as kick boxing, dueling weapons such as fencing, and so forth, athletes compete in a duel. The object is to strike blows and score points while preventing an opponent from doing the same. Typically, points are awarded in these competitions to athletes who successfully deliver a legal blow to targets illustrated on designate parts or location on athletic gear such as articles of clothing. At the end of the competition, generally determined by the passage of a specific time frame, the athlete with the most points is declared the winner.</p>
+<p id="p-0006" num="0005">In TaeKwonDo, the athletes score points by delivering accurate &#x201c;trembling&#x201d; force blows to designated locations on an opponent's athletic gear through various kicking techniques. To protect athlete injuries from these blows, an athlete wears protective equipment, such as a helmet and a protective vest, on which are designated the locations on the opponent's body &#x201c;legal&#x201d; targets for kick-delivered impacts. Competition judges award points based on their observation of a competitor's impact delivery.</p>
+<p id="p-0007" num="0006">Currently, the ruling in this sport for issuance of legitimate points is the deliverance of a &#x201c;trembling shock&#x201d; observed by the judges as legal kicking techniques. Any other technique besides kicking is considered invalid, with the exception of a referee awarding a point to a punching technique that is deemed as good as a kick.</p>
+<p id="p-0008" num="0007">Although there are strict rules and regulations that govern a match, there are many shortcomings in the current scoring method, namely: 1. The observation of a &#x201c;trembling shock&#x201d; is qualities and subjective, and makes the definition relative and inconsistent. 2. Frequently, scoring is confusing to the players and spectators. 3. The threshold of the magnitude of an impact differs from competition to competition, which furthers the confusion of the combatants and spectators. Even within the same competition, the scoring methods differ from match to match and ring to ring, depending on interpretation of rules by the judges. 4. There is a lack of accuracy in judging due to the inability of the judges to visually keep up with the speed and position of the combatants to enable accurate and decisive observations. 5. Due to the difference in size of the combatants, the magnitude of an impact required to generate a &#x201c;trembling shock&#x201d; differs between age groups and weight classes, causing difficulty in judging, leading to inconsistency in scoring. 6. Judges have no way to monitor excessive force, which may cause a major injury during competition and hence the knowledge of which is useful for post-evaluation of a serious injury.</p>
+<p id="p-0009" num="0008">Additionally, it has been found that training for effective martial arts can be more effective with the addition of the following features:</p>
+<p id="p-0010" num="0009">1. Accurate measurement of the magnitude of an impact delivered by an athlete to evaluate efficiency and effectiveness of various techniques. 2. An accurate determination of the source of a technique which generated an impact. The source can be evaluated to determine the validity of the technique, while the impact determines the quality of the technique. The combination of source and impact can be used to determine a valid score. 3. During practice sparring, accurate measurement of valid techniques is important to evaluate an athlete's performance as well as to provide conditions which represent a true competitive environments. 4. Given an ability to quantitatively measure shock requirements, the athletes can monitor and optimize techniques to obtain valid points most effectively.</p>
+<p id="p-0011" num="0010">Accordingly, it is a principal objective of this invention to provide an article of clothing and athletic gear worn by a combatant that functions to indicate an impact delivered to a &#x201c;legal&#x201d; location on the body of a combatant delivered by a combatant's proper kicking technique.</p>
+<p id="p-0012" num="0011">Another object of this invention is to provide a detection system for recording the magnitude of the force imposed by an impact, and the legitimacy of the location at which the force is applied in relation to a combatant's body.</p>
+<p id="p-0013" num="0012">Another object of this invention is to provide a means and method for determining the source of the technique causing an impact. This is useful in sports requiring the distinction between a kicking technique, hand technique, elbow or other actions causing an impact.</p>
+<p id="p-0014" num="0013">Still another object of this invention is provide a means and method for adjustment of and setting of a threshold force that will activate equipment to account for the size and age of combatants during competition, or the appropriate threshold level during training sessions.</p>
+<p id="p-0015" num="0014">A further object of this invention is the provision of a means and method for indicating and recording the status of an impact on a combatant in terms of location of the impact and the intensity of force of the impact.</p>
+<p id="p-0016" num="0015">Another object of this invention is to provide a method and means to transmit to a control station data relating to the status of impacts delivered to a combatant for recording and display as an aid to judges when scoring legitimate points for the combatants.</p>
+<p id="p-0017" num="0016">Another object of this invention is to provide a method and means to facilitate the application of garments required to meet the functional objectives that are described, supra, that provide improved comfort level for the athletes wearing the equipment.</p>
+<p id="p-0018" num="0017">Another object of this invention is to provide a method for detecting impact and contact of weapons to weapon, and weapon to body during martial arts competition with simulated weapons. Currently, in martial arts competition or training using weapons, there are no realistic ways to determine valid techniques to keep track of a winner or loser.</p>
+<heading id="h-0002" level="1">THE INVENTION</heading>
+<p id="p-0019" num="0018">Broadly speaking, the present invention is embodied in a garment or protective gear adapted to be worn by a competitor in an impact sport. The garment may be fabricated as a protective structure that incorporates sufficient padding to absorb shock impacts and embedding sensor devices in its construction to sense both impact and intensity, and to determine the source of an impact by detecting the presence of the source causing the impact.</p>
+<p id="p-0020" num="0019">In another aspect, the garment may be fabricated from a light woven material adapted to be worn over conventional protective gear, and the sensor devices are attached to this over-garment at suitable locations to receive the shock of impact and to indicate the location and intensity of the impact.</p>
+<p id="p-0021" num="0020">The sensor that detects the source of an impact is a form of proximity sensor which is triggered by the presence of a special material that a player wears on their feet or hands to distinguish it from other kinds of impact. Preferably the impact sensors are formed from piezo film or cable attached to the garment by any suitable means. The proximity sensor is triggered by a flexible magnet embedded into an attacking player's gear. When the impact sensor detects the presence of the magnet embedded in a garment or worn by an attacking player, It triggers a signal that turns on an impact sensor detection processor. The impact sensor will detect an impact only after it has been enabled by the proximity sensor, thereby generating a signal indicating the location of the impact and its intensity.</p>
+<p id="p-0022" num="0021">While both the impact and proximity effects occur nearly simultaneously, the magnet location is always detected moments prior to detection of impact. The multiple signals are received by a signal processing circuitry that processes the signal to determine the validity of an impact. The output of the signal processor is then transmitted or conducted to a display or user control module that indicates visually or audibly the location of an impact and intensity so that judges and/or users are aided in making an accurate decision regarding the energy of an impact and/or the issuance of legitimate points. Data from the processor may also be channeled directly into a computer or into a memory bank for later display.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 1</figref> is a front view illustrating the torso of a combatant equipped with a protective helmet and wearing a protective vest on which are displayed scoring locations and at which locations are embedded sensors for transmitting or conducting data to a transceiver relating to the status of an impact at those locations, which data is then transmitted to a receiver or transceiver at a control station.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 2</figref> is a block diagram of the signal processing apparatus.</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 3</figref> is a plan view of a vest-like garment adapted to be donned over a protective gear on which is embedded a sensor in the form of a large, flat piezo electric film sensor for impact detection, and an electrically conductive wire for a proximity sensor that overlies abdominal and left and right lumbar regions of the human body.</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 4</figref> is a plan view similar to <figref idref="DRAWINGS">FIG. 3</figref>, but illustrating an embodiment incorporating multiple flat piezo film sensors. One sensor is arranged to be positioned over the abdominal region of the human body, with separate piezo film sensors being positioned over the left and right lumbar regions of the body. The proximity sensor position is the same as in <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 5</figref> is a plan view similar to <figref idref="DRAWINGS">FIG. 4</figref>, but illustrating yet another embodiment incorporating separate, spirally wound cable-cable type piezo film sensors in a positional arrangement similar to the arrangement in <figref idref="DRAWINGS">FIG. 4</figref>.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 6</figref> is a plan view similar to <figref idref="DRAWINGS">FIG. 5</figref>, but illustrating yet another embodiment incorporating sensor cables distributed horizontally on the underlying vest-like garment so as to intercept impact blows over the abdominal and lumbar regions with a single elongated sensor cable.</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 7</figref> is a plan view, similar to <figref idref="DRAWINGS">FIG. 6</figref>, but illustrating yet another embodiment utilizing a single, elongated sensor cable dispersed in a vertical pattern to intercept impact blows over the abdominal and lumbar regions of the human body when the garment is donned.</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 8</figref> is a plan view similar to <figref idref="DRAWINGS">FIG. 7</figref>, but illustrating yet another embodiment using a set of discrete sensor cables dispersed in a vertical pattern to intercept impact blows over the abdominal and lumbar regions of the human body when the garment is donned. The sensor cable is tied to the electronic circuit through electrically conductive wires.</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. 9</figref> is a cross-sectional view illustrating the embodiment of sensor cables being sandwiched in between two identical halves of the impact protective material. The magnetic sensing wires are mounted on both surfaces of the protective materials.</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. 10</figref> is an enlarged view of the neck area that illustrates the additional padding for protection of the neck area against the abrasion from the equipment as well as extra comfort.</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. 11</figref> is a plan view similar to <figref idref="DRAWINGS">FIG. 8</figref>, but illustrating yet another embodiment that allows multiple channels of sensors for detecting impact blows. Sets of sensor cables are tied to the electronics through multiple points of electrically conducting wires. Each set of sensor cables are tied to the electronics through a common electrically conducting wire representing a detection channel. Multiple channels allow for redundancy and self-detection of sensor failure. Each sensor channel is place in the garment such that it detects approximately the same impact magnitude. If one sensor channel malfunctions, then the values between the two or more channels would be significantly different enough to indicate that one of the channels has failed. Another advantage of multiple channels would be to provide more accurate sensing mechanisms through more sophisticated signal processing algorithms such as averaging, correlation, peak comparison, and time differentials in the peak.</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. 12</figref> is a plan view of foot gear with embedded magnets that induces a voltage signal as it approaches the garment shown in <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<p id="p-0035" num="0034">Throughout the figures, the proximity sensor is implemented using conductive wires embedded in a similar pattern to the impact sensor. Regardless of the pattern, the proximity sensor is activated on detecting the approaching magnetic material which generates current or signals in the detection material that can be monitored electronically.</p>
+<heading id="h-0004" level="1">DESCRIPTION OF THE PREFERRED EMBODIMENTS</heading>
+<p id="p-0036" num="0035">In terms of greater detail, the apparatus for monitoring and registering the location and intensity of impact sports, comprises a vest-like garment <b>2</b>, equipped with the placement of appropriate force transducers or sensors <b>3</b>, <b>44</b>, <b>50</b> to detect impacts. An electrically conductive wire <b>50</b> as shown in <figref idref="DRAWINGS">FIGS. 9</figref>, <b>3</b> is placed to detect proximity.</p>
+<p id="p-0037" num="0036">The vest-like garment may be fabricated from an appropriate protective material, such as synthetic, resinous foam, preferably a closed-cell variety, which is capable of absorbing and distributing the kinetic energy inherent in an impact but does not absorb the perspiration that is generated during the course of competition. Alternatively, the vest-like garment may be fabricated of light wind-breaker type of material that fits and is worn over or under the protective gear of whatever design. In either case, the force-detecting transducers or sensors and the proximity sensors are attached to the garment at specific locations that constitute the target areas on the body. The transducers can also be placed in between materials that are normally used to protect the player from an impact. <figref idref="DRAWINGS">FIG. 9</figref> illustrates a sandwiching of the sensor <b>3</b> between materials <b>40</b>, <b>41</b>.</p>
+<p id="p-0038" num="0037">The drawings illustrating the vest-like garment include a central body portion <b>4</b> possessing a height and width sufficient to cover the abdominal area. From the central body portion <b>4</b> of the garment there extend left and right lumbar engaging fastener tab portion members <b>8</b> attached thereto at the corners, as by stitching. Alternatively, Velcro may be used to detachably engage opposing members together to engage and hold the vest-like garment in place.</p>
+<p id="p-0039" num="0038">The vest-like garment <b>2</b> also includes a chest portion <b>9</b> that projects laterally from the upper long edge <b>11</b> of the garment. Projecting from the chest portion <b>9</b> are shoulder straps <b>12</b> and <b>13</b> that are spaced apart sufficiently to provide a recess <b>14</b> between them to enable the garment to be tucked up under the chin of a wearer as illustrated in <figref idref="DRAWINGS">FIG. 1</figref>. The distal ends of the shoulder straps (not shown) may be provided with Velcro fasteners to enable removable attachment to a belt or associated ends of attachment tabs <b>8</b> behind the wearer's back.</p>
+<p id="p-0040" num="0039">At the lower edge of the garment, there is provided a downwardly projecting protective member <b>16</b> that coves the lower abdominal area below the umbilicus, generally between the left and right inguinal areas of the human body. Embodied in protective gear, this projection provides protection from an impact that inadvertently strikes the body below the designated target area.</p>
+<p id="p-0041" num="0040"><figref idref="DRAWINGS">FIG. 1</figref> shows the sensor <b>3</b> situated in the center of the target area <b>17</b> comprises a circular area that is preferably distinguished from the surrounding surface of the vest by being of a different color, thus providing greater visibility and thus enhancing the likelihood that the impact from a kick will be applied to the target area. In addition to the target area <b>17</b>, there are also left and right lumbar area targets <b>18</b>, <b>19</b>, respectively, each of which has mounted in its center a sensor element <b>3</b> similar to the one attached to the abdominal area <b>17</b>.</p>
+<p id="p-0042" num="0041"><figref idref="DRAWINGS">FIG. 1</figref> shows the sensor or force transducer <b>3</b> is connected by a set of conductors <b>21</b> to a transceiver unit <b>22</b> detachably secured to the garment <b>13</b>. The set of conductors is normally threaded through the garment (and/or the protective padding) and passes in front, between or behind these garments to be attached to the transceiver. The transceiver is detachably secured in a location on or in the garment where it is not likely to be damaged due to impact. Alternatively, the transceiver could conceivably be mounted in any headgear worn by a combatant and be connected to the force transducer by a flexible lead, opposite ends of which detachably connect to the sensor and the transceiver.</p>
+<p id="p-0043" num="0042">In all the figures, the proximity sensor is implemented by overlaying electrically conductive wires into the vest garment (summary illustration in <figref idref="DRAWINGS">FIGS. 9 and 11</figref>). In cases where the garment can be worn with either side facing forward (a reversible garment), the identical conductive wires are embedded on both sides of the protective material. The ends of conductive wire <b>50</b> (<figref idref="DRAWINGS">FIG. 10</figref>) are fed into the preamp filter <b>26</b> of the sensor module <b>22</b> (<figref idref="DRAWINGS">FIG. 2</figref>).</p>
+<p id="p-0044" num="0043">According to one aspect of the invention, an attacking player wears a specially constructed foot gear or head gear which have embedded magnets that induce a current flow in the wires. The preferred embodiment of the foot gear is shown in <figref idref="DRAWINGS">FIG. 12</figref>, the foot gear being shown to demonstrate compliance with competition rules where a kicking technique is the only valid scoring technique. In a similar fashion, the magnets are embedded in gloves to accommodate competition rules where hand techniques are allowed to score points.</p>
+<p id="p-0045" num="0044">The foot gear of <figref idref="DRAWINGS">FIG. 12</figref> is typically a padded material that is formed to slip over the feet like a pair of socks. In general, foot gear refers to any form that protects the foot and at the same time incorporates the embedded magnet to trigger the proximity sensor <b>50</b> of the sensor module <b>22</b>. For practicality and comfort, the foot gear Is open-toed and open-heeled. The foot gear includes an elastic material that wraps around the foot from top to bottom while the elastic material ensures tight fitting. Typically, the foot gear has a built-in padding at the top of the foot to provide protection to the players.</p>
+<p id="p-0046" num="0045">The magnetic materials are embedded around the foot to induce current in the opposing electrically conductive wires as the foot approaches a target. Although in this embodiment as shown, the magnet is embedded into the top and bottom of the foot gear, it could be placed anywhere in the foot gear to cause the optimum triggering of an opponent's sensor. <figref idref="DRAWINGS">FIG. 12</figref> shows the magnet overlaid on top of the protective passing and at the insole at the bottom of the foot.</p>
+<p id="p-0047" num="0046">The elasticity of the foot gear and natural perspiration of the player causes the foot-gear to stick to the foot. This causes difficulty in wearing and removing the foot gear which is annoying and can cause a time crisis during the preparation for a competition. According to one aspect of this invention a specially designed garment is provided that a player slips of the foot before wearing the foot gear. The garment <b>103</b> shown in <figref idref="DRAWINGS">FIG. 12</figref> is designed to be light, sweat-absorbing, and is positioned between the skin of the foot and the foot gear.</p>
+<p id="p-0048" num="0047">As an attacker player's foot with an embedded magnet approaches an opponent's target, it induces a current in the electrically conductive wire. The current sensing amplifier <b>26</b> in the sensor module <b>22</b> senses the presence of the magnet and enables the impact detection function which is processed through sensors <b>3</b>, <b>44</b> and <b>50</b>. Once enabled, upon receiving an impact, the impact transducers generate an electrical signal that is processed by a data acquisition and detector processor <b>28</b> and transmitted to a remote monitoring station <b>29</b> by a wireless communication processor <b>28</b>A through an antenna <b>28</b>C. This signal is then displayed or otherwise indicated at a display <b>30</b> or bar graph or alarm <b>31</b>.</p>
+<p id="p-0049" num="0048">The processor <b>28</b>A may be packaged in a separate enclosure or combined within a common enclosure (shown as sensor module <b>22</b>). In either configuration, the wireless communication processor is connected to the radio frequency (RF) antenna <b>28</b>C to transmit the processed signal to a remote monitoring station. (conducted to the transceiver which in turn conducts or transmits the signal to a signal processing apparatus <b>23</b>. Such an apparatus may be as far away as 500 feet from the combatants, and preferably located in or associated with a control station or control interface <b>30</b> that provides a user with the facility to control the sensor and to set the operating parameters of the system.</p>
+<p id="p-0050" num="0049">In that regard, reference is made to <figref idref="DRAWINGS">FIG. 2</figref> showing a signal process apparatus in block diagram form. As shown, the electrical signal generated by the sensors <b>3</b>, <b>34</b> in response to an impact is correlated to the impact intensity and the signal is led to an amplifier <b>26</b> of conventional design. At the same time, the proximity sensor <b>50</b> is designed to detect the presence of a magnet embedded in the attacking player's apparatus. The typical proximity sensor consists of an electrically conducting copper wire of any convenient diameter.</p>
+<p id="p-0051" num="0050">Typically, a commercially available, flexible magnet is used to induce a current in the conductive material based on Lentz and Faraday laws. Both the impact sensor and the proximity sensor can either be embedded into the athlete's protective equipment or a separate garment worn over or under the existing equipment. A typical impact sensor may include a piezo film based on fiber or accelerometer, and/or a micro machined electro-mechanical system (MEMS) based accelerometer. The piezo electric film can quantitatively measure the impact over a large surface. The accelerometer measures acceleration due to an impact force over a smaller area. The piezo electric film sensor generates an electrical charge across the conducting materials when subjected to an impact, and the amount of charge generated is directly proportional to the impact magnitude. Given the capacitive property of the sensor which is proportional to the cable length, the following relation is established:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0051">Qo=g*x*l, where Qo=the total charge generated by the sensor;</li>
+    <li id="ul0001-0002" num="0052">g=appropriate piezoelectric coefficient for the axis of applied stress or strain;</li>
+    <li id="ul0001-0003" num="0053">x=applied stress in the relevant direction; and, t=film thickness.</li>
+</ul>
+</p>
+<p id="p-0052" num="0054">Given the above relationship, the output voltage can be expressed as: Vo=Qo/Cf, where Qo=the basic charge sensitivity in coulomb per psi or ergs (gravity force). This term is directly related to the parameters given in the above equation; and, Cf=internal sensor capacitance.</p>
+<p id="p-0053" num="0055">An accelerometer is a transducer whose electrical output is proportional to the acceleration motion of its base. Its small size, light weight and higher frequency response makes it ideal for measuring vibration and impact generated force in a small area. Typically, Vo=G*S; Vo=output voltage; G=acceleration measured in units of earth's gravity; and, S=scalar factor.</p>
+<p id="p-0054" num="0056">Hence, the voltage generated in the wire loop used for sensing follows Faraday's law of induction:
+<ul id="ul0002" list-style="none">
+    <li id="ul0002-0001" num="0057">V=d&#x201c;O&#x201d;/dt, where V=voltage; and &#x201c;O&#x201d;=change in flux.</li>
+</ul>
+</p>
+<p id="p-0055" num="0058">In short, the voltage generated in the current loop is inversely proportional to changes in magnetic flux, and in the present system, the flux change is generated by the approaching magnets embedded in the attacker's foot gear material <b>101</b> (<figref idref="DRAWINGS">FIG. 12</figref>). The amplifier <b>26</b> in the electronics detects this voltage and determines validity and, the magnitude of the voltage is a function of the magnet strength and mechanical layout of the wire. The amplifier is designed to detect sudden changes in voltage as a result of magnetic flux change which determines the proximity of the magnet causing this flux change; in this application, amplitude and voltage sign change is not critical to the detection function.</p>
+<p id="p-0056" num="0059">Upon impact, the signal from the sensors <b>3</b> and <b>44</b> are processed electronically for magnitude determination. The signal processing electronics is typically located on the athlete's protective equipment (but could be located in the remote monitoring station <b>29</b>, off the athlete) where it is least likely to interfere or receive a direct impact. The data acquisition and detection processor <b>28</b> electronically conditions the signal and processes the signal to determine its magnitude. The magnitude is compared against a pre-set threshold to determine the validity of the impact for point-earning purposes or simply displayed as a graph or enerty number on a screen, monitor or TV as part of a user interface and display GUI <b>30</b>. The sensor signal is forwarded to the operational amplifier, when required.</p>
+<p id="p-0057" num="0060">The amplifier output is converted to digital data by means of an ADC <b>27</b>, and digital data acquired by the data acquisition and detection processor <b>28</b> is processed for comparison against a threshold base. When the data from the ADC is greater than a set threshold, the processor <b>28</b> prepares the data in digital form and sends it to the wireless communication processor <b>28</b>A. This data information is then sent to the remote monitoring station <b>29</b> using a wireless communication protocol and commercially available frequency communication hardware. The remote monitoring station <b>29</b> constitutes a remote communication interface with a sensor module <b>22</b>, and a user interface and display GUI software in the interface hardware <b>30</b> and/or display device <b>31</b> such as an LCD, LED, bar graph or audible alarm, and thus constitutes a local display interface.</p>
+<p id="p-0058" num="0061">To be portable, the electronics are designed for low power consumption and are powered by a commercially available economical battery <b>32</b>, and this battery supplies power to the electronics in the sensor module <b>22</b>. When the sensor module is plugged into the garment <b>2</b>, the battery terminal connects to the electronics in the sensor module <b>22</b> through <b>22</b>B (<figref idref="DRAWINGS">FIG. 1A</figref>). When the sensor module is unplugged from the connector <b>22</b>A, the battery terminal is disconnected from the electronics in the sensor module. Hence, the wire loop functions as the power switch which is turned on when the module is plugged into the connector and turned off when disconnected. Accordingly, the battery is not used when disconnected, and this eliminates unnecessary use of the battery.</p>
+<p id="p-0059" num="0062">A threshold of use is set by the user through the interface hardware <b>30</b>, and allows the user to determine levels at which a valid impact can be registered. As indicated, the threshold will depend on the size and age of the user during competition, or appropriate level during training sessions. The display/user control interface provided by the local display interface <b>31</b> will display the status of the impact for observation purposes. There are at least two types of display status, namely a visible light indicating a valid score, or a display indicating the relative intensity of an impact. In the first case, an impact greater than a pre-determined criterion turns on a light indicating a valid score. In the second case, the relative impact intensity can be used using a bank of lights (a bar graph) or a numeric display. Using a bar graph, the activated (illuminated) portion of the bar is a function of impact intensity. The numeric display is typically implemented by a segmented light emitting diode (LED). An audible status indicator can also be implemented either simultaneously with or in place of the light display, and would be similar to the light display where impact intensity controls an audible volume.</p>
+<p id="p-0060" num="0063">The user interface <b>30</b> allows a user to set operation parameters, configure thresholds, and status signals from the sensor module <b>22</b>. The remote monitoring station <b>29</b> provides a wireless link to the sensor module through the communication processor <b>28</b>A. The sensor operation parameters could include threshold settings, data collection (e.g., magnitude of impact, impact time, number of impacts, etc.). The display apparatus <b>31</b> can be a larger sized light for greater visibility, an amplifier speaker, a TV, or a more sophisticated display for better entertainment value.</p>
+<p id="p-0061" num="0064">The signal processing electronics are packaged in a compact and rugged module which is easily attached and removable from the sensor merely by inserting the module into a &#x201c;holster&#x201d; or inserting a connector into the module. Power to the electronics is automatically applied when the module is inserted into the holster. A family of modules is designed to provide a variety of combinations of functions and features. For example, a lower cost module is designed to provide a simple, visible display for cost sensitive applications. An elaborate bar graph module can be designed for applications that require the ability to monitor impact magnitude. Finally, a remote monitoring module is designed for full feature integration to a control station for a variety of applications. The modular detachable design provides more versatility for different cost/performance requirements, allowing greater usage. As more functional requirements are identified, or new technology becomes available, new modules can be designed into the family incrementally with little or no affect to the existing modules or support systems. Detachability of the module allows easy access to the electronics for repair, upgrade, or data dump.</p>
+<p id="p-0062" num="0065">An important feature of this invention is the successful integration of the sensor to the protective equipment or gear. A large quantity of protective equipment or gear without the provisions for inclusion of a sensor mechanism already is in use by competitors in the sport of martial arts. To meet this need, the apparatus shown in FIGS. <b>1</b> AND <b>3</b>-<b>8</b> is provided. The sensor and electronic signal processing apparatus are embedded in a garment which is light in weight, yet rugged. The garment straps over the existing protective gear and the sensor element is patterned into the garment in the various ways illustrated in <figref idref="DRAWINGS">FIGS. 3-8</figref> to cover the impacts over the legal areas.</p>
+<p id="p-0063" num="0066">One of the key functional elements of the sensing mechanism is the accuracy, reliability and ability to perceive sensor failure. All of these issues can be addressed by implementing multiple sensor channels, as illustrated in <figref idref="DRAWINGS">FIG. 11</figref>. A second sensor channel <b>44</b> is shown identical to the first channel <b>3</b>. The sensor <b>44</b> is connected to the transceiver <b>22</b> through a separate conductive material <b>45</b> and processed separately from the first channel. The sensor materials are spaced such that both channels will pick up impacts with similar magnitudes. A malfunction in one of the channels can be determined when signals from the channels differ by a significant amount. The channel showing a significantly low signal level compared to the other channels can be considered to be malfunctioning.</p>
+<p id="p-0064" num="0067">In addition to the arrangement discussed in the previous paragraph, where the sensor and signal processing apparatus are mounted on a separate garment that is donned over the protective gear, it is contemplated that ultimately, the sensor and signal processing apparatus will be included directly into the protective gear, thus reducing overall cost and increasing reliability.</p>
+<p id="p-0065" num="0068">The neck guards <b>42</b>, <b>43</b> in <figref idref="DRAWINGS">FIG. 10</figref> provide comfort and an extra level of protection for the players and employ soft materials such as a low rebound memory foam encased in a smooth fabric. The fabric smoothness protects a player from abrasion compared to roughness of the fabrics <b>12</b>, <b>13</b>. In addition, the padding provided by the inner foam material provides extra protection from shock caused by a nearby impact of shifting of the vest-like garment during rapid movement of the players.</p>
+<p id="p-0066" num="0069">Using principles discussed herein, the sensors can be embedded into the practice targets used for kick boxing training, such as punching bags, kick paddles and other equipment other than an opponent, for developing new kick boxing techniques and methods for monitoring training progress. Again, piezo electronic film based sensors are applied to the practice and training targets so as to cover a large area to measure the intensity of a kick while an accelerometer is used for smaller and more compact targets typically used for speed and accuracy of measurement. Similar display and control mechanisms can be used in such applications.</p>
+<p id="p-0067" num="0070">Using principles discussed herein, the sensors can be embedded into simulated weapons such as swords and sticks for training in martial arts that involve weapon competition. The weapons with embedded sensors can detect the impact and proximity of other opponent's weapons to determine the validity of a technique.</p>
+<p id="p-0068" num="0071">To maintain the accuracy of a signal generated by a sensor, despite the fact that signal variations are minimal within a sensor type and a fixed overall geometry, there may be a minute variation in the sensor sensitivity due to differences in component tolerances and manufacturing procedures. This variation may cause inconsistencies in measurements leading to scoring inaccuracy. These signal variations may be addressed and eliminated by periodic calibration of the sensor and adjustment of the electronics to compensate for such variations. Calibration can be performed using various conventional methods which rely on the basic principle of measuring the difference between a known reference impact generated signal and an impact generated signal measured by the sensor. This amount is used to adjust the sensor output mathematically to produce an accurate measure of an impact. Typically, calibration is performed using a stand alone calibration apparatus which uses a known weight dropped on a sensor from a pre-determined height. Upon impact, the sensor measures the magnitude of impact and compares it against the expected mathematically determined impact to calculate any discrepancy. This discrepancy is used to adjust further measurements by the sensor during normal operation.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. An article of equipment incorporating a detection system for monitoring and registering the intensity and location of impacts for players in contact sports, comprising:
+<claim-text>(a) at least one electrically conductive wire providing a proximity sensor function, the wire embedded as a mechanical layout in the equipment;</claim-text>
+<claim-text>(b) an impact sensor connected to the conductive wire and embedded in the equipment, the impact sensor being adapted to generate an electrical signal based on the impact and location of an impact, wherein the impact sensor is an accelerometer;</claim-text>
+<claim-text>(c) a magnet mounted in an attacking gear of the player, the proximity sensor being adapted to detect the approaching presence of the magnet and to generate an electrical impulse proportional to the intensity and location of a subsequent impact;</claim-text>
+<claim-text>(d) a transceiver connected to the conductive wire;</claim-text>
+<claim-text>(e) a signal processor connected to the transceiver, whereby changes in voltage as a result of changes in voltage due to changes in magnetic flux caused by proximity of the magnet to the impact sensor will determine the extent of impact and the location of an impact based on the mechanical layout of the embedded wire in the equipment; and,</claim-text>
+<claim-text>(f) an output signal from the signal processor, the output signal defines sufficient information to produce at least a visual display and/or an audible signal.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The article of equipment of <claim-ref idref="CLM-00001">claim 1</claim-ref>, in which equipment comprises an article of clothing and the impact sensor is both the accelerometer and a piezoelectric device.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The article of equipment of <claim-ref idref="CLM-00001">claim 1</claim-ref>, in which the equipment comprises simulated weapons and practice targets and the impact sensor is the accelerometer and a piezoelectric device.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The article of equipment of <claim-ref idref="CLM-00001">claim 1</claim-ref>, in which the output signal defines sufficient information to produce a bar graph, the audible signal, at least one blinking lights, at least one display status and a numerical display.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The article of equipment <claim-ref idref="CLM-00001">claim 1</claim-ref>, in which a battery driven sensor module is plugged into the conductive wire in the equipment, the battery terminal connecting to the signal processor, and when the sensor module is unplugged from the equipment, the conductive wire functions as a power switch to turn off the signal processor, thereby saving battery power.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The article of equipment of <claim-ref idref="CLM-00001">claim 1</claim-ref>, in which the equipment is an article of clothing overlaid by a lightweight layer of protective clothing.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The article of equipment of <claim-ref idref="CLM-00001">claim 1</claim-ref>, in which the output signal is fed through multiple sensor channels to the signal processor.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. An electronic system for registering the intensity and location of contact in a monitoring device, comprising:
+<claim-text>(a) a plurality of electrically conductive wires providing a proximity sensor function, the wires are embedded within and arranged as a mechanical layout in a piece of contact sporting equipment;</claim-text>
+<claim-text>(b) an impact sensor associated with the equipment, adapted to generate an electrical signal based on an impact and a location of the impact;</claim-text>
+<claim-text>(c) a magnet mounted on the equipment, the proximity sensor being adapted to detect an approaching movement of the magnet and to generate an electrical impulse proportional to an intensity and location of the subsequent impact;</claim-text>
+<claim-text>(d) a transceiver connected to the electrically conductive wires;</claim-text>
+<claim-text>(e) a signal processor connected to the transceiver, whereby changes in voltage as a result of changes in voltage due to changes in magnetic flux caused by proximity of the magnet to the impact sensor will determine the extent of location of an impact based on the mechanical layout of the conductive wire; and</claim-text>
+<claim-text>(f) an output signal from the signal processor, the output signal defines sufficient information to produce at least a visual display and/or an audible signal.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The electronic system <claim-ref idref="CLM-00001">claim 1</claim-ref>, in which the output signal is fed through multiple sensor channels to the signal processor.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The electronic system of <claim-ref idref="CLM-00008">claim 8</claim-ref>, in which the impact sensor is one or both of an accelerometer, or a piezoelectric device.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The electronic system of <claim-ref idref="CLM-00008">claim 8</claim-ref>, in which the output signal defines sufficient information to produce a bar graph, the audible signal, at least one blinking lights, at least one display status and a numerical display.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The electronic system of <claim-ref idref="CLM-00008">claim 8</claim-ref>, in which a battery driven sensor module is plugged into the conductive wires, the battery terminal being connected to the signal processing, and when the sensor module is unplugged, the electrically conductive wires function as a power switch, to disconnect the battery from the signal processor, thereby saving power.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. An article of equipment incorporating a detection system for monitoring and registering the intensity and location of impacts for players in contact sports, comprising:
+<claim-text>(a) a plurality of electrically conductive wires providing a proximity sensor function, wherein the wires are all embedded as a mesh within the article of equipment;</claim-text>
+<claim-text>(b) an impact sensor connected to the conductive wire and embedded in the equipment, the impact sensor being adapted to generate an electrical signal based on the impact and location of an impact, wherein the impact sensor is a piezoelectric device;</claim-text>
+<claim-text>(c) a magnet mounted in an attacking gear of the player, the proximity sensor being adapted to detect the approaching presence of the magnet and to generate an electrical impulse proportional to the intensity and location of a subsequent impact;</claim-text>
+<claim-text>(d) a transceiver connected to the conductive wire;</claim-text>
+<claim-text>(e) a signal processor connected to the transceiver, whereby changes in voltage as a result of changes in voltage due to changes in magnetic flux caused by proximity of the magnet to the impact sensor will determine the extent of impact and the location of an impact based on the mechanical layout of the embedded wire in the equipment; and,</claim-text>
+<claim-text>(f) an output signal from the signal processor, the output signal defines sufficient information to produce at least a visual display and an audible signal.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The article of equipment of <claim-ref idref="CLM-00013">claim 13</claim-ref>, in which equipment comprises an article of clothing and the impact sensor is both an accelerometer and the piezoelectric device.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The article of equipment of <claim-ref idref="CLM-00013">claim 13</claim-ref>, in which the equipment comprises simulated weapons and practice targets and the impact sensor is both an accelerometer and the piezoelectric device. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

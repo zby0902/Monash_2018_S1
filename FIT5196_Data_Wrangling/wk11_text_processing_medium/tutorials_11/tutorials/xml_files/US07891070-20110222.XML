@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891070-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891070</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11735436</doc-number>
+<date>20070414</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>983</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>23</class>
+<subclass>P</subclass>
+<main-group>11</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 29446</main-classification>
+<further-classification> 29452</further-classification>
+<further-classification> 29820</further-classification>
+</classification-national>
+<invention-title id="d2e53">Method for handling elongate strength members</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>3017450</doc-number>
+<kind>A</kind>
+<name>Crosby et al.</name>
+<date>19620100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>3500625</doc-number>
+<kind>A</kind>
+<name>Gokyu</name>
+<date>19700300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3526570</doc-number>
+<kind>A</kind>
+<name>Durkee et al.</name>
+<date>19700900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>3586226</doc-number>
+<kind>A</kind>
+<name>Nippert</name>
+<date>19710600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>3659633</doc-number>
+<kind>A</kind>
+<name>Durkee et al.</name>
+<date>19720500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>3829956</doc-number>
+<kind>A</kind>
+<name>Miner</name>
+<date>19740800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>3855777</doc-number>
+<kind>A</kind>
+<name>Durkee et al.</name>
+<date>19741200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>3919762</doc-number>
+<kind>A</kind>
+<name>Borelly</name>
+<date>19751100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>3951355</doc-number>
+<kind>A</kind>
+<name>Morioka et al.</name>
+<date>19760400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>4117582</doc-number>
+<kind>A</kind>
+<name>Borelly</name>
+<date>19781000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>6560807</doc-number>
+<kind>B1</kind>
+<name>Stubler et al.</name>
+<date>20030500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>6658684</doc-number>
+<kind>B2</kind>
+<name>Stubler et al.</name>
+<date>20031200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>6800164</doc-number>
+<kind>B2</kind>
+<name>Brandstrom</name>
+<date>20041000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>156166</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>25</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 29446</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29452</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 294191</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29820</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 57314</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>6</number-of-drawing-sheets>
+<number-of-figures>22</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20080250631</doc-number>
+<kind>A1</kind>
+<date>20081016</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Buckley</last-name>
+<first-name>David L.</first-name>
+<address>
+<city>Monrovia</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Christie, Parker &#x26; Hale, LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Air Logistics Corporation</orgname>
+<role>02</role>
+<address>
+<city>Monrovia</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Cozart</last-name>
+<first-name>Jermie E</first-name>
+<department>3726</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A method and device for handling an elongate strength member. In the method, an elongate strength member with a plurality of elongate composite rods, or metal wires or plastic fibers are bundled together with the composite rods, or metal wires, or plastic fibers in a generally parallel and untwisted and un-spiraled arrangement when the elongate strength member is extended along a generally straight path, wherein the composite rods are longitudinally and rotatably moveable relative to each other. It is then twisted relative to a longitudinal dimension of the elongate strength member and the path of the elongate strength member is curved, such as by coiling.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="162.73mm" wi="165.27mm" file="US07891070-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="234.87mm" wi="179.24mm" orientation="landscape" file="US07891070-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="230.46mm" wi="157.90mm" orientation="landscape" file="US07891070-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="213.02mm" wi="166.62mm" orientation="landscape" file="US07891070-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="202.95mm" wi="172.64mm" orientation="landscape" file="US07891070-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="167.22mm" wi="166.29mm" orientation="landscape" file="US07891070-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="178.82mm" wi="151.55mm" orientation="landscape" file="US07891070-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND</heading>
+<p id="p-0002" num="0001">This invention relates to the field of strength members and how to handle them, and more particularly to a device, method and coiled form of a strength member wherein the individual composite rods, or metal wires, or plastic fibers, or other materials in the strength member are bundled together in a generally parallel, untwisted and unspiraled orientation when the strength member follows along a generally straight path, but when the strength member is coiled, e.g., on a spool device, the strength member will be twisted along it longitudinal axis and the individual composite rods, or metal wires or plastic fibers forming the strength member will be in a twisted and spiraled orientation so that no undue stresses will be exerted on the coiled strength member. This twisting and spiraling will be more pronounced for rods, or wires, or fibers lying closer to the outer perimeter of the strength member and rods, or metal wires, or plastic fibers lying closer to a centerline of the strength member will be less twisted and spiraled or possible not twisted or spiraled. The invention is particularly well suited for strength members formed of composite rods, such as carbon fiber rods and composite rods formed of other materials such as glass fiber, synthetic fibers and the like, but can be used in forming long strength members of other materials, such as metal wire, plastics fibers, etc.</p>
+<p id="p-0003" num="0002">In the case of metal wires that wound on spools, these wires have a cast, or natural tendency to curve or twist along a clockwise or counterclockwise path, depending on whether the wire was wound clockwise or counterclockwise. Thus, when forming cable from these wires, manufacturers have either first straightened the wires before forming the cables, or have handled the natural cast, such as by balancing the casts of wires by arranging wires with opposite casts during the forming of the cable. Failure to deal with the natural case may result in cables that have a tendency to twist or coil in one direction or the other. Whether the metals wires are first straightened before being formed into cables, or are arranged with opposite casts, this does involves extra steps or extra attention being required during the manufacturing process. In contrast, in the case of composite rods, e.g., formed or carbon fibers and resins, these rods do not have a natural cast and thus they can be used to form cables without any straightening or consideration of whether the composite rods come prepared wound on spools in a clockwise or counterclockwise orientation.</p>
+<p id="p-0004" num="0003">For cables formed of metal wires in a generally parallel orientation, others, such as Durkee et al. (U.S. Pat. Nos. 3,526,570 and 3,659,633) have attempted to balance internal forces by bundling wires together that have opposite casts. Durkee et al. further disclose that by binding the bunched up wires by resilient securing material (i.e., flexible tape) at intervals of every few feet, the wires are allowed to bow out during the winding on a reel, which is said to relieve stress on the wires forming the cables. The individual wires making up the Durkee et al. cables would not be longitudinally or rotabably moveable relative to each other. Furthermore, the Durkee et al. methodology would not be applicable to cables in which the individual wires and strands are not allowed to bow out, such as cables constructed with inflexible binding and/or overwrapping material.</p>
+<p id="p-0005" num="0004">Long lengths of high strength cables are needed for a variety of applications, including lifting cables, long towing cables, mooring cables for offshore drilling platforms that can be located in waters that are many thousands of feet deep, and bridge tendons, to name just a few applications. In the past, these cables were made from materials such as steel, but more recently plastics and composite materials have been used. Composite materials have some advantage in high strength cable applications compared to metal and plastic, including an excellent strength to weight ratio and good corrosion resistance. For example, U.S. Pat. No. 7,137,617 for &#x201c;Composite Tensioning Members and Method for Manufacturing Same&#x201d; describes composite tension members made up of a plurality of composite fiber rods that are bundled together with the composite rods parallel to each other and unspiraled, unbraided and without stranding. More typically, composite cables have their composite rods arranged similarly to the wires and filaments in wire cables and ropes, namely, either they are formed by providing different layers of rods that are wound counter-helically relative to each other, as shown in prior art <figref idref="DRAWINGS">FIG. 1</figref>, which shall be referred to herein as stranded composite cables, or in a so-called six around one design, shown in prior art <figref idref="DRAWINGS">FIG. 2</figref>. One reason this is done is because the stranded composite cables in either prior art embodiment can be more readily bent and thereby wound around a spool for storage and handling. In contrast, composite cables with parallel composite rods, such as those disclosed in U.S. Pat. No. 7,137,617, are more difficult to handle and wind on a spool and the like. The machinery used to form very long lengths of larger diameter cables can be quite large and expensive due to the necessity of twisting together a number of very long rods, which rods themselves are spooled out from large spools, which number of large spools are themselves on a rotating carriage.</p>
+<p id="p-0006" num="0005">While stranded cables, whether formed of metal wire, plastics rods or fibers, or composite rods, can be more easily handled, there are some disadvantages with stranded cables. Stranded cables are made up of different overlapping layers of counter-helically wound rods, metal wires or plastic fibers, (as shown in <figref idref="DRAWINGS">FIGS. 1 and 2A</figref>.) In the cable with a six around one design of <figref idref="DRAWINGS">FIG. 2</figref>, there are many crossover points where crossing rods, metal wires, or plastic fibers contact each other. In the case of applications where such cables may sway, swing, or otherwise move, for example, as in mooring cables where they can be moved by ocean currents and the like, the effects of internal rubbing and abrasion of the composite rods, metal wires or plastic fibers in the crossover areas, for example, can weaken the cable. Moreover, in particular case of stranded composite cables, that are made of composite rods which are generally less stretchable than other materials, because of different rod lengths, some rods may carry more tension than other rods and this can result in less than optimal cable strength or failure of the cable. In contrast, cables where the individual composite rods, metal wires or plastic fibers are parallel to each other do not experience the problem of rubbing, and can be made so that each rod, metal wire or plastic fiber more evenly carries an equal tensile load, which helps in maximizing the strength of the cable. Moreover, due to tighter packing of the individual rods, or metal wires or plastic fibers in cables with a parallel rod, metal wire or plastic fiber configuration compared to counter-helically assembled or braided or six around one, for example, cables, the cable diameter of cables with a parallel composite rod, or metal wire, or plastic fiber configuration with the same number and size of composite rods, or metal wires, or plastic fibers can be made smaller in diameter. Thus, for a given size and weight and same material, a parallel composite rod, or metal wire, or plastic fiber cable will be lighter and have a smaller diameter, which means that a greater length of cable can be carried in the same space. As noted above, composite cables formed of parallel composite rods deliver excellent performance in terms of strength, weight, and space and is most ideal, although cables made of other materials are possible.</p>
+<p id="p-0007" num="0006">Accordingly, it would be beneficial to have a method and device for handling cables with parallel composite rods, or metal wires, or plastic fibers and also cables with parallel composite rods, metal wires, or plastic fibers provided on spools.</p>
+<heading id="h-0002" level="1">SUMMARY</heading>
+<p id="p-0008" num="0007">The invention provides a device, method and a coiled form of a strength member wherein the individual composite rods, or metal wires, or plastic fibers in the strength member are bundled together in a generally parallel, untwisted and unspiraled orientation when the strength member follows along a generally straight path, but when the strength member is coiled, e.g., on a spool device, the strength member will be twisted along it longitudinal axis and the individual composite rods, or metal wires, or plastic fibers forming the strength member will be in a twisted and spiraled orientation so that no undue stresses will be exerted on the coiled strength member. As noted above, this twisting and spiraling will be more pronounced for composite rods, or metal wires or plastic fibers lying closer to the outer perimeter of the strength member and composite rods, or metal wires or plastic fibers lying closer to the centerline of the strength member will be less twisted and spiraled or possible not twisted or spiraled.</p>
+<p id="p-0009" num="0008">The invention provides a method for handling an elongate strength member, which comprises taking an elongate strength member composed of a plurality of elongate composite rods, or metal wires, or plastic fibers that are bundled together with the composite rods, or metal wires, or plastic fibers in a generally parallel and untwisted and unspiraled arrangement when the elongate strength member is extended along a generally straight path, twisting the elongate strength member relative to a longitudinal dimension of the elongate strength member, and curving the path of the elongate strength member.</p>
+<p id="p-0010" num="0009">The invention further provides a method for coiling an elongate strength member that comprises a plurality of elongate composite rods, or metal wires, or plastic fibers that are bundled together with the composite rods, or metal wires, or plastic fibers in a generally parallel and untwisted and unspiraled arrangement when the elongate strength member is extended along a generally straight path, the method comprising twisting the elongate strength member so that its composite rods, or metal wires, or plastic fibers are twisted and spiraled, and bending the twisted elongate strength member into a coil.</p>
+<p id="p-0011" num="0010">The invention yet further provides a device for handling an elongate strength member that has a plurality of elongate composite rods, or metal wires, or plastic fibers that are arranged with the composite rods, or metal wires, or plastic fibers in a generally parallel and untwisted and unspiraled arrangement when the elongate strength member is extended along a generally straight path, the device comprising a payout device that twists the elongate strength member as the elongate strength member is coiled around a spool device with a coil carrying portion.</p>
+<p id="p-0012" num="0011">The invention also provides a spool device with an elongate strength member coiled in coils thereon, comprising a spool device, and elongate strength member with a longitudinal axis, comprising a plurality of elongate composite rods, or metal wires, or plastic fibers that are arranged in a generally parallel and spiraled orientation relative to the elongate strength member's longitudinal axis and coiled on the spool device, wherein in coils of the elongate strength member on the spool device, the elongate composite rods, or metal wires, or plastic fibers in a given arc section of the coiled elongate strength member will have generally the same length.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 1</figref> is a top, partially exposed view of a section of a prior art stranded cable showing the counter-helically wound layers of composite rods, or metal wires, or plastic fibers.</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 2</figref> is a cross-sectional view of a prior art six around one stranded cable.</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 2A</figref> is a cross-sectional view of the prior art stranded cable of <figref idref="DRAWINGS">FIG. 1</figref> along view lines <b>2</b>A-<b>2</b>A.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 3</figref> is a diagrammatic view showing two composite rods, or metal wires, or plastic fibers of the prior art stranded cable that are crossed over.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 4</figref> is a cross-sectional view of an exemplary cable with parallel composite strands, or wires, or plastic fibers that would have the same tensile strength as the prior art cables shown in <figref idref="DRAWINGS">FIGS. 1 and 2A</figref>, and <b>2</b>.</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 5</figref> is a top, partially exposed view of a section of another exemplary cable with generally parallel composite rods, or wires, or plastic fibers.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 6</figref> is a cross-sectional view of the cable of <figref idref="DRAWINGS">FIG. 5</figref> along view lines <b>6</b>-<b>6</b>.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 7</figref> is a cross-sectional view of the cable of <figref idref="DRAWINGS">FIG. 5</figref> along view lines <b>7</b>-<b>7</b> where the cable has been twisted by 90&#xb0; counterclockwise relative to the position at view lines <b>6</b>-<b>6</b>.</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 8</figref> is a cross-sectional view of the cable of <figref idref="DRAWINGS">FIG. 5</figref> along view lines <b>7</b>-<b>7</b> where the cable has been twisted by 180&#xb0; counterclockwise relative to the position at view lines <b>6</b>-<b>6</b>.</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 9</figref> is a cross-sectional view of the cable of <figref idref="DRAWINGS">FIG. 5</figref> along view lines <b>9</b>-<b>9</b> where the cable has been twisted by 270&#xb0; counterclockwise relative to the position at view lines <b>6</b>-<b>6</b>.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 10</figref> is a diagrammatic view of a circular loop of a simplified representation of the exemplary untwisted cable of <figref idref="DRAWINGS">FIG. 5</figref> on an exemplary spool device.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 11</figref> is a cross-sectional view through the cable on the spool of <figref idref="DRAWINGS">FIG. 10</figref> through view lines <b>11</b>-<b>11</b>.</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 12</figref> is a cross-sectional view through the cable on the spool of <figref idref="DRAWINGS">FIG. 10</figref> through view lines <b>12</b>-<b>12</b>.</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 13</figref> is a cross-sectional view through the cable on the spool of <figref idref="DRAWINGS">FIG. 10</figref> through view lines <b>13</b>-<b>13</b>.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 14</figref> is a cross-sectional view through the cable on the spool of <figref idref="DRAWINGS">FIG. 10</figref> through view lines <b>14</b>-<b>14</b>.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 15</figref> is a diagrammatic view of a circular loop of a simplified representation of the cable of <figref idref="DRAWINGS">FIG. 5</figref> that has been twisted on a spool device.</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 16</figref> is a cross-sectional view through the cable on the spool of <figref idref="DRAWINGS">FIG. 15</figref> through view lines <b>16</b>-<b>16</b>.</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 17</figref> is a cross-sectional view through the cable on the spool of <figref idref="DRAWINGS">FIG. 15</figref> through view lines <b>17</b>-<b>17</b>.</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. 18</figref> is a cross-sectional view through the cable on the spool of <figref idref="DRAWINGS">FIG. 15</figref> through view lines <b>18</b>-<b>18</b>.</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. 19</figref> is a cross-sectional view through the cable on the spool of <figref idref="DRAWINGS">FIG. 15</figref> through view lines <b>19</b>-<b>19</b>.</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. 20</figref> is a diagrammatic view of an exemplary twisting and winding device for a cable with parallel composite rods, or metal wires, or plastic fibers on a spool.</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. 21</figref> is a diagrammatic view of another twisting device.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. 1</figref> is a top, partially exposed view of a section of a prior art stranded cable <b>10</b> showing two counter-helically wound layers <b>12</b> and <b>14</b> of composite rods <b>16</b><i>a</i>-<i>n</i>, wherein n=any number of rods used to make up the cable <b>10</b>. Also shown are binding threads <b>18</b> which are wrapped around the composite rods, or metal wires, or plastic fibers, etc. to hold them together Other than the binding thread, and a cover material, such as a plastic layer (not shown), the composite rods, or metal wires, or plastic fibers are otherwise not held together and the composite rods, or metal wires, or plastic fibers <b>16</b><i>a</i>-<i>n </i>are capable of moving laterally with respect to each other, such as when the cable <b>10</b> is bent or curved, or such as when it is coiled around a spool. One rod, or metal wire, or plastic fiber <b>16</b><i>x </i>is shown with contrasting shading to show how the composite rods, or metal wires, or plastic fibers are counter-helically spiraled to make up the stranded cable <b>10</b>.</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. 2</figref> is a cross-sectional view of a prior art six around one stranded cable <b>24</b>. It is made up of a central cable section <b>25</b>, which in turn is made up of composite rods, or metal wires, or plastic fibers <b>26</b>, which central cable section <b>25</b> is surrounded by a group of six outer cable sections <b>27</b>, which in turn are formed of composite rods, or wires, or fibers <b>28</b>. As in conventional flexible wire rope, the individual composite rods, or wires, or fibers <b>26</b> in the central cable section <b>25</b>, and the individual composite rods, or wires, or fibers <b>28</b> in the outer cable sections <b>26</b> are helically twisted, and the outer cable sections <b>26</b> are twisted around the central cable section <b>25</b>. By way of example and as a reference, for construction of a target mooring line cable with design load of 2 million pounds, the diameter of such a six around one stranded cable made up of appropriate sized carbon fiber composite rods in sufficient numbers would be approximately 3.53 inches in diameter, and have a relative length (equal volume) of 1.0.</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. 2A</figref> is a cross sectional view of the composite cable <b>10</b> along view lines <b>2</b>A-<b>2</b>A of <figref idref="DRAWINGS">FIG. 1</figref>. A plurality of composite rods <b>16</b><i>a</i>-<i>n</i>, in counter-helically wound layers, e.g., <b>12</b> and <b>14</b>, make up the cable. By way of comparison with the prior art six around one rope design of <figref idref="DRAWINGS">FIG. 2</figref> described above, for construction of a target mooring line cable with design load of 2 million pounds, the diameter of such a counter-helically wound cable made up of appropriate sized carbon fiber composite rods in sufficient numbers would be approximately 3.12 inches in diameter, and have a relative length (equal volume) of 1.28 compared to the conventional six around one stranded rope design shown in <figref idref="DRAWINGS">FIG. 2</figref>. Thus, a composite stranded cable manufactured from a plurality of counter-helically composite rods has a greater relative length than a six around one configuration having the same tensile strength.</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. 3</figref> is a diagrammatic view showing two composite rods, metal wires, or plastic fibers <b>16</b>A and <b>16</b>B of the prior art stranded cable <b>10</b> from two adjacent layers <b>12</b> and <b>14</b> that are crossed over at a crossover point <b>18</b>. There will be similar crossover points <b>18</b> throughout the prior art stranded cable <b>10</b> of <figref idref="DRAWINGS">FIGS. 1 and 2A</figref> and the six around one cable <b>24</b> of <figref idref="DRAWINGS">FIG. 2</figref>. At the crossover points <b>18</b>, any movement of the rods, wires or fibers with respect to each can cause the composite rods, wires or fibers to be moved relative to each other internally and can thereby cause wearing and abrasion in the composite rods, metal wires, or plastics fibers at the crossover points <b>18</b>, which could eventually lead to weakening of the cables <b>10</b> and <b>24</b>.</p>
+<p id="p-0039" num="0038"><figref idref="DRAWINGS">FIG. 4</figref> is a cross-sectional view of an exemplary composite cable <b>20</b> made up of a plurality of generally parallel carbon fiber composite rods <b>22</b> that are not twisted or spiraled relative to each other that is designed to have the same tensile strength as the prior art cables <b>10</b> and shown in <figref idref="DRAWINGS">FIGS. 2 and 2A</figref>. By way of comparison, such an exemplary composite cable <b>20</b> is designed for use as a mooring line cable with a design load of 2 million pounds, and the diameter of such a parallel carbon fiber composite rod cable would be approximately 2.88 inches in diameter, and have a relative length (equal volume) of 1.5 compared to the six around one design of <figref idref="DRAWINGS">FIG. 2</figref>. Accordingly, due to the smaller cable diameter as compared to a counter-helically stranded cable of <figref idref="DRAWINGS">FIGS. 1 and 2A</figref> or a six around one cable of <figref idref="DRAWINGS">FIG. 2</figref>, a greater cable length can be carried on a spool device of the same size. The same ratios hold when comparing cables made of same materials such as metal wire, plastic fibers and other materials. The individual rods <b>22</b> are longitudinally and rotatably moveable relative to each other in this cable.</p>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIG. 5</figref> is a top, partially exposed view of a composite cable <b>30</b> with generally parallel carbon fiber composite rods <b>32</b><i>a</i>-<i>n</i>, wherein n=any number of rods used to make up the composite cable <b>30</b>. In order to show a long length, the composite cable is shown with interruptions. The generally parallel composite rods <b>32</b><i>a</i>-<i>n </i>are preferably held together with a binding material <b>34</b>, such as threads of synthetic fibers, including Kevlar&#xae; brand para-aramid fiber threads. A further protective wrapping <b>36</b>, such as a plastic sleeve can preferably be used to further protect and enclose the composite rods <b>32</b><i>a</i>-<i>n</i>. The binding material <b>34</b> will prevent the rods from bowing out when the finished cable is being bent, such as when being looped or wound on a drum, but does not prevent the individual rods <b>32</b><i>a</i>-<i>n </i>from longitudinally and rotatably moving relative to each other in the completed cable. Two composite rods <b>32</b><i>x </i>and <b>32</b><i>y </i>are shown with highlighting and shading to show the relative position of these composite rods in the composite cable <b>30</b>. The dashed line L represents a longitudinal axis L of the composite cable <b>30</b> and the dashed line R corresponds to a reference plane R along the composite cable <b>30</b> which is perpendicular to the longitudinal axis L. Constructed as such, the binding material <b>34</b> and the protective wrapping <b>36</b> hold the individual composite rods <b>32</b><i>a</i>-<i>n </i>together in a bundle but allow the individual composite rods to be moved somewhat relative to each other, e.g., the composite cable <b>30</b> can be twisted so that the composite rods can go from a generally parallel configuration shown in <figref idref="DRAWINGS">FIG. 5</figref> throughout the length of the composite cable <b>30</b>, to a configuration wherein the composite rods can assume a spiraled path, as will be discussed below. The number, sizes and binding of the individual composite rods <b>32</b><i>a</i>-<i>n </i>can be varied as desired or required. Indeed, different sized composite rods can be used, and if for any reason rods made of different single materials or combination of materials and/or with different qualities are desired, this can be done. As noted above, while a composite cable is most preferable, the method of the invention can be used in the use of elongate strength members, e.g., a cable, made of metal wires, plastic fibers, plastic rods, or other known materials. Hereinafter, it shall be understood that while a composite cable is described, the method can also be used for handling cable formed of other materials with similar advantages being gained over cables that not formed from parallel wire or fibers.</p>
+<p id="p-0041" num="0040"><figref idref="DRAWINGS">FIG. 6</figref> is a cross-sectional view of the composite cable <b>30</b> of <figref idref="DRAWINGS">FIG. 5</figref> taken along view lines <b>6</b>-<b>6</b>, with the composite cable <b>30</b> being untwisted along the longitudinal axis L of the composite cable <b>30</b> from the reference plane R to the view lines <b>6</b>-<b>6</b>. In this view, composite rod <b>32</b><i>x </i>is at the top of the bundle of composite rods <b>32</b><i>a</i>-<i>n </i>and composite rod <b>32</b><i>y </i>is at the bottom of the bundle of composite rods <b>32</b><i>a</i>-<i>n. </i></p>
+<p id="p-0042" num="0041"><figref idref="DRAWINGS">FIG. 7</figref> is a cross-sectional view of the composite cable <b>30</b> of <figref idref="DRAWINGS">FIG. 5</figref> along view lines <b>7</b>-<b>7</b>, but with the composite cable <b>30</b> twisted by 90&#xb0; counterclockwise along the longitudinal axis L of the composite cable <b>30</b> from the reference plane R to the view lines <b>7</b>-<b>7</b>. In this view, the composite rod <b>32</b><i>x </i>is at the left side of the bundle of composite rods <b>32</b><i>a</i>-<i>n </i>and the composite rod <b>32</b><i>y </i>is at the right side of the bundle of composite rods <b>32</b><i>a</i>-<i>n. </i></p>
+<p id="p-0043" num="0042"><figref idref="DRAWINGS">FIG. 8</figref> is a cross-sectional view of the composite cable of <figref idref="DRAWINGS">FIG. 5</figref> along view lines <b>8</b>-<b>8</b>, but with the composite cable <b>30</b> twisted by 180&#xb0; counterclockwise along the longitudinal axis L of the composite cable <b>30</b> from the reference plane R to the view lines <b>8</b>-<b>8</b>. In this view, the composite rod <b>32</b><i>x </i>is at the bottom of the bundle of composite rods <b>32</b><i>a</i>-<i>n </i>and the composite rod <b>32</b><i>y </i>is at the top of the bundle of composite rods <b>32</b><i>a</i>-<i>n. </i></p>
+<p id="p-0044" num="0043"><figref idref="DRAWINGS">FIG. 9</figref> is a cross-sectional view of the composite cable of <figref idref="DRAWINGS">FIG. 5</figref> along view lines <b>9</b>-<b>9</b>, but with the composite cable twisted by 270&#xb0; counterclockwise along the longitudinal axis L of the composite cable <b>30</b> from the reference plane R to the view lines <b>9</b>-<b>9</b>. In this view, the composite rod <b>32</b><i>x </i>is at the right side of the bundle of composite rods <b>32</b><i>a</i>-<i>n </i>and composite rod <b>32</b><i>y </i>is at the left side of the bundle of composite rods <b>32</b><i>a</i>-<i>n</i>. Not shown is when the composite cable <b>30</b> is twisted by 360&#xb0;, the composite rod <b>32</b><i>x </i>is at the top of the bundle of composite rods <b>32</b><i>a</i>-<i>n </i>and the composite rod <b>32</b><i>y </i>is at the bottom of the bundle of composite rods <b>32</b><i>a</i>-<i>n. </i></p>
+<p id="p-0045" num="0044"><figref idref="DRAWINGS">FIG. 10</figref> is a diagrammatic view of a circular loop of a simplified representation of the untwisted composite cable <b>30</b> of <figref idref="DRAWINGS">FIG. 5</figref> (showing a limited number of rods) on an exemplary spool device <b>50</b>. Actually, since each coil of the untwisted composite cable <b>30</b> will be wound helically on the spool device, the coil will not have a completely circular path but a split ring path with the two ends shift from side to side by about the diameter of the cable. However, for purposes of presentation, this view is generally accurate. The spool device <b>50</b> can have an axis <b>52</b> through which the spool device <b>50</b> can be rotated, and a coil carrying portion <b>54</b> upon which the composite cable <b>30</b> is wrapped. The dashed line <b>56</b> corresponds to a path that a particular, outwardly located composite rod <b>60</b><i>a </i>of the untwisted composite cable <b>30</b> (see <figref idref="DRAWINGS">FIGS. 11-14</figref>) will take in a single coil on the spool device <b>50</b>, and dashed line <b>58</b> corresponds to a path that a particular, inwardly located composite rod <b>60</b><i>b </i>of the untwisted composite cable <b>30</b> will take. As can be appreciated, the circumferential length of line <b>56</b> will be longer than the circumferential length of line <b>58</b>, and thus if a composite cable <b>30</b> as shown in <figref idref="DRAWINGS">FIG. 5</figref> is wrapped around the spindle device <b>30</b>, the composite rods near the outer part of the composite cable <b>30</b>, e.g., <b>60</b><i>b</i>, and the outlying composite rods will be under tension and inwardly lying composite rods, <b>60</b><i>b</i>, will be under compression. Thus, this reality will make it difficult to coil an elongate cable with parallel composite rods around a spindle device.</p>
+<p id="p-0046" num="0045"><figref idref="DRAWINGS">FIG. 11</figref> is a cross-sectional view through the untwisted composite cable <b>30</b> on the spool device <b>50</b> through view lines <b>11</b>-<b>11</b> of <figref idref="DRAWINGS">FIG. 10</figref>, showing an outwardly located composite rod <b>60</b><i>a </i>and an inwardly located composite rod <b>60</b><i>b. </i></p>
+<p id="p-0047" num="0046"><figref idref="DRAWINGS">FIG. 12</figref> is a cross-sectional view through the untwisted composite cable <b>30</b> on the spool device <b>50</b> through view lines <b>12</b>-<b>12</b> of <figref idref="DRAWINGS">FIG. 10</figref>, showing an outwardly located composite rod <b>60</b><i>a </i>and an inwardly located composite rod <b>60</b><i>b. </i></p>
+<p id="p-0048" num="0047"><figref idref="DRAWINGS">FIG. 13</figref> is a cross-sectional view through the untwisted composite cable <b>30</b> on the spool device <b>50</b> through view lines <b>13</b>-<b>13</b> of <figref idref="DRAWINGS">FIG. 10</figref>, showing an outwardly located composite rod <b>60</b><i>a </i>and an inwardly located composite rod <b>60</b><i>b. </i></p>
+<p id="p-0049" num="0048"><figref idref="DRAWINGS">FIG. 14</figref> is a cross-sectional view through the untwisted composite cable <b>30</b> on the spool device <b>50</b> through view lines <b>14</b>-<b>14</b> of <figref idref="DRAWINGS">FIG. 10</figref>, showing an outwardly located composite rod <b>60</b><i>a </i>and an inwardly located composite rod <b>60</b><i>b</i>. As can be seen with reference to <figref idref="DRAWINGS">FIGS. 11-14</figref>, the outwardly located composite rod <b>60</b><i>a </i>follows path <b>56</b> and inwardly located composite rod <b>60</b><i>b </i>follows path <b>58</b>, with outer path <b>56</b> being longer than inner path <b>58</b>. Thus, with an untwisted composite cable <b>30</b> on a spool device <b>50</b>, there would be tension on the composite rods lying on the outer side of the composite cable <b>30</b> (including but not limited to composite cable <b>60</b><i>a</i>) and compression on the composite rods lying on the inner side of the composite cable <b>30</b> (including but not limited to composite cable <b>60</b><i>b</i>). With long lengths of cable, this would obviously create problems with the efficient winding and unwinding of cables on the spool device <b>50</b> and would prevent the selection of a spool device <b>50</b> having too small of a diameter.</p>
+<p id="p-0050" num="0049"><figref idref="DRAWINGS">FIG. 15</figref> is a diagrammatic view of a circular loop of a simplified representation of the composite cable <b>30</b> of <figref idref="DRAWINGS">FIG. 5</figref> (showing a limited number of rods) that has been twisted along its longitudinal axis onto the spool device <b>50</b> with an axis <b>52</b> and the coil carrying portion <b>54</b> upon which the composite cable <b>30</b> is wrapped. Dashed line <b>70</b> generally shows the path of a particular composite rod, such as rod <b>72</b><i>a</i>, will take as it is wrapped around the spool device <b>50</b>. Likewise, dashed line <b>74</b> generally shows the path of a particular composite rod, such as rod <b>72</b><i>b</i>, will take as it is wrapped around the spool device <b>50</b>. The path lengths of <b>70</b> and <b>74</b> will be the same, and unlike the case of an untwisting parallel composite rod cable as shown in <figref idref="DRAWINGS">FIGS. 11-14</figref>, any given composite rod, such as composite rods <b>72</b><i>a </i>and <b>72</b><i>b </i>located on opposite sides of the composite cable will have the same length, and thus, coiling of the composite cable on the spool device <b>50</b> will not create uneven tension and compression on the twisted composite cable <b>30</b> on the spool device <b>50</b>. <figref idref="DRAWINGS">FIGS. 16-19</figref> are cross-sectional views through the composite cable on the spool through view lines <b>16</b>-<b>16</b>, <b>17</b>-<b>17</b>, <b>18</b>-<b>18</b> and <b>19</b>-<b>19</b>, and shows the relative location of two selected composite rods <b>70</b><i>a </i>and <b>70</b><i>b</i>, which composite rods are located 180&#xb0; apart from each other in the composite cable <b>30</b>, has been twisted a total of 360&#xb0; along its longitudinal axis as it completes one entire loop around the spool device <b>50</b>.</p>
+<p id="p-0051" num="0050">Starting from the cross-sectional view of <figref idref="DRAWINGS">FIG. 16</figref>, composite rod <b>72</b><i>a </i>will be located along an outermost position on the composite cable furthest away from the coil carrying portion <b>54</b> of the spool device <b>50</b> and composite rod <b>72</b><i>b </i>will be located along an innermost position on the composite cable closest to the coil carrying portion <b>54</b> of the spool device <b>50</b>.</p>
+<p id="p-0052" num="0051">At the cross-sectional view of <figref idref="DRAWINGS">FIG. 17</figref>, both composite rods <b>72</b><i>a </i>and <b>72</b><i>b </i>will be located along an intermediate position on the composite cable. This change in relative positions of the composite rods in the composite cable is accomplished by twisting the entire composite cable <b>30</b> by about 90&#xb0; clockwise as the composite cable <b>30</b> is wound about a quarter turn (90&#xb0;) on the spool device <b>50</b> from its position shown in <figref idref="DRAWINGS">FIG. 16</figref> to its position shown in <figref idref="DRAWINGS">FIG. 17</figref>.</p>
+<p id="p-0053" num="0052">At the cross-sectional view of <figref idref="DRAWINGS">FIG. 18</figref>, composite rod <b>72</b><i>a </i>will be located along an innermost position on the composite cable closest to the coil carrying portion <b>54</b> of the spool device <b>50</b> and composite rod <b>72</b><i>b </i>will be located along an innermost position on the composite cable farthest away from the coil carrying portion <b>54</b> of the spool device <b>50</b>. The change in relative positions of the composite rods in the composite cable is accomplished by twisting the entire composite cable <b>30</b> by about 180 degrees clockwise as the composite cable <b>30</b> is wound about a half turn (180 degrees) on the spool device <b>50</b> from its position shown in <figref idref="DRAWINGS">FIG. 16</figref> to its position shown in <figref idref="DRAWINGS">FIG. 18</figref>.</p>
+<p id="p-0054" num="0053">At the cross-sectional view of <figref idref="DRAWINGS">FIG. 19</figref>, both composite rods <b>72</b><i>a </i>and <b>72</b><i>b </i>will be located along an intermediate position on the composite cable. This change in relative positions of the composite rods in the composite cable is accomplished by twisting the entire composite cable <b>30</b> by about 270 degrees clockwise as the composite cable <b>30</b> is wound about a three quarters of a turn (270 degrees) on the spool device <b>50</b> from its position shown in <figref idref="DRAWINGS">FIG. 16</figref> to its position shown in <figref idref="DRAWINGS">FIG. 19</figref>. At the point that the cable has been returned to its starting position at the top of the spool device <b>50</b>, the cable has twisted 360 degrees.</p>
+<p id="p-0055" num="0054"><figref idref="DRAWINGS">FIG. 20</figref> is a diagrammatic view of an exemplary winding and unwinding device <b>80</b> for twisting a composite cable <b>30</b> with parallel composite rod and laying the twisted composite cable <b>30</b> onto a spool device <b>82</b> with an axis <b>84</b> and a cable carrying surface <b>86</b>. The exemplary winding and unwinding device <b>80</b> comprises rollers <b>88</b> which ride on the outer surface of the composite cable <b>30</b> and apply sufficient pressure to allow the winding and unwinding device <b>80</b> to twist the composite cable to change the orientation of its individual composite rods from their parallel configuration to a configuration wherein the bundle of composite rods are twisted in order to reduce tension and compression on the individual composite rods when the composite cable is coiled on the spool device <b>82</b>. The rollers <b>88</b> can be driven and/or braked to control the tension on the composite cable <b>30</b> as it twists the composite cable and deposits it on the spool device <b>82</b>. The twisting of the composite cable <b>30</b> will take place along its longitudinal axis. For the purpose of understanding the function of the rollers <b>88</b>, it is useful to define a 3-D reference frame with orthogonal axes x, y, and z. Assuming that the spool device <b>82</b> has an axis <b>84</b> oriented along the x axis, the untwisted composite cable <b>30</b> is fed through the exemplary winding and unwinding device <b>80</b> at an angle (e.g. about 90&#xb0;, such as along an axis parallel to the z axis) relative to the x axis and passing through the longitudinal axis of the composite cable <b>30</b>. Other angles can be used instead. As the composite cable is taken up on the spool device <b>82</b>, the rollers <b>88</b> will translate as a unit generally along an x axis to deploy the now twisted composite cable <b>30</b> onto the cable carrying surface <b>86</b> of the spool device <b>82</b>. The mechanisms to provide for the translational motion and the twisting motion are not shown. Once one layer of the twisted composite cable <b>30</b> has been deposited, the rollers <b>88</b> will, on return in an opposite direction (e.g., left to right or right to left), deposit another layer of coiled composite cable <b>30</b> onto the previously coiled layer and start over. The exemplary winding and unwinding device <b>80</b> can likewise be used for twisting a cable <b>30</b> formed from parallel metal wires or plastic fibers or other known materials and combinations thereof.</p>
+<p id="p-0056" num="0055"><figref idref="DRAWINGS">FIG. 21</figref> is a diagrammatic view of another winding and unwinding device <b>100</b>. It has rollers <b>102</b> which will ride on a composite cable (not shown) passing between its two rolling surfaces <b>104</b>. The rollers <b>102</b> can include tension adjusting means <b>106</b> to control the tension applied to the composite cable. Turning and/or braking mechanisms <b>108</b> will apply a turning and/or braking force to the rollers <b>102</b>. The rollers <b>102</b>, tension adjusting means <b>106</b>, and turning and/or braking mechanism <b>108</b> can comprise a carriage <b>110</b> that is rotatable as a unit relative to a longitudinal axis of a composite cable passing through the rollers <b>102</b> to apply a twist to the cable. The carriage <b>110</b> will ride on and be rotated relative to a ring <b>112</b> by a rotation mechanism <b>113</b> to provide the desired twisting of the composite cable. A lateral slide mechanism <b>114</b> is also preferably provided for side-to-side movement of the ring <b>112</b> and its rotating carriage <b>110</b> to coil twisted composite cable onto a spool device (not shown). Various control mechanisms can be provided to control the movement and operation of the winding and unwinding device <b>100</b>. For example, a compression control mechanism <b>116</b> that controls the degrees of tension applied by the tension adjusting means <b>106</b> to the rollers <b>102</b> which ride on the composite rod is preferably provided. A rotation control <b>118</b> can be provided to control the rotation mechanism <b>113</b> and twisting of the composite cable. Turning/braking controls <b>120</b> can be provided to control the turning and/or braking mechanisms <b>108</b>, and a transverse control <b>122</b> can be provided to control the lateral slide mechanism <b>114</b>. For example, the rotation control <b>118</b> can control the rotation mechanism to twist the composite cable around its lateral axis about one degree for every degree that the composite cable is coiled around the spool device. The rotation mechanism <b>113</b> can also put a twist (e.g., a clockwise twist) on a composite cable for a certain arc distance as the composite cable is coiled around the spool device, and then place an opposite twist (e.g., a counter-clockwise twist) on the composite cable for another arc distance. As a non-limiting example, the composite cable can be alternately twisted clockwise by about 180 degrees for about half a turn and then counterclockwise by about 180 degrees for half a turn about as it is coiled around the spool device. The control mechanisms <b>116</b>, <b>118</b>, <b>120</b>, and <b>122</b> are diagrammatically shown as separate devices, but if desired they can be combined and/or placed distant from the mechanism(s) they will control.</p>
+<p id="p-0057" num="0056">In the use of the device and method, the composite cable will be twisted as it is coiled onto the spool device, and is untwisted the opposite direction as it is uncoiled from the spool device and is deployed for use, which restores the individual composite rods making up the composite cable to their state where the individual composite rods are generally parallel to each other. It is possible to forego with use of a winding and unwinding device when the composite cable is unwound from the spool device since the cable may naturally tend to revert to a state where the composite rods making up the composite cable return to their parallel, unspiraled and untwisted. In such case, it may or may not be helpful to control the rate at which the composite cable is deployed from the spool device, e.g., by using a drive/braking device on the spool device to control the tension on the composite cable. As noted above, the device and method can be used with elongate strength members that are formed from any material and not just composite rods.</p>
+<p id="p-0058" num="0057">Having thus described exemplary embodiments of the present invention, it should be understood by those skilled in the art that the above disclosures are exemplary only and that various other alternatives, adaptations and modifications may be made within the scope of the present invention. The presently disclosed embodiments are to be considered in all respects as illustrative and not restrictive.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A method for handling an elongate strength member comprising:
+<claim-text>taking an elongate strength member that comprises a plurality of elongate composite rods that are bundled together to prevent the rods from separating from each other and bowing out with the composite rods in a generally parallel and untwisted and un-spiraled arrangement when the elongate strength member is extended along a generally straight path, wherein the composite rods are longitudinally and rotatably moveable relative to each other;</claim-text>
+<claim-text>twisting the elongate strength member relative to a longitudinal dimension of the elongate strength member; and</claim-text>
+<claim-text>curving the path of the elongate composite strength member.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the path of the elongate composite strength member is curved into a series of curves.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the elongate composite strength member is coiled into a series of generally circular loops.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the elongate composite strength member is coiled into a series of generally circular coils around a spool device.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The method of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the elongate strength member is alternately twisted clockwise for a distance and then counterclockwise for a distance as the elongate strength member is coiled around the spool device.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The method of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein the elongate strength member is twisted about one degree along its longitudinal dimension for about every one degree that the path of the elongate strength member is coiled around the spool device.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The method of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the twisting is accomplished by using a payout device that applies a twisting force to the elongate strength member as the elongate strength member is coiled around the spool device.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The method of <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein tension is maintained in the elongate strength member as the elongate strength member is coiled around the spool device.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The method of <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the payout device applies a compression force to the elongate strength member as the twisting force is applied to cause the elongate strength member to twist and at least some of the elongate composite rods that are arranged in the elongate strength member to twist and spiral relative to a longitudinal direction of the elongate strength member.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The method of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein in coils of the elongate strength member on the spool device, the elongate composite rods in a given arc section of the coiled elongate strength member will have generally the same length.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The method of <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the individual elongate composite rods of the given arc section will have generally equal compression and/or tension force.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The method of <claim-ref idref="CLM-00004">claim 4</claim-ref>, further comprising withdrawing the elongate composite strength member from the spool device by unwinding the elongate composite strength member from the spool device to cause the twisted elongate strength member to return to a generally untwisted orientation wherein the composite rods will be in a generally parallel and untwisted and un-spiraled arrangement when the elongate strength member is extended along a generally straight path.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the elongate strength member is twisted about one degree along its longitudinal dimension for about every one degree that the path of the elongate strength member curves.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the elongate strength member is alternately twisted clockwise and then counterclockwise as its path curves.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. A method for coiling an elongate strength member that comprises a plurality of elongate composite rods that are bundled together with the composite rods in a generally parallel and untwisted and un-spiraled arrangement when the elongate strength member is extended along a generally straight path, the method comprising
+<claim-text>taking an elongate strength member that comprises a plurality of elongate composite rods that are bundled together with the composite rods in a generally parallel and untwisted and un-spiraled arrangement when the elongate strength member is extended along a generally straight path wherein the composite rods are longitudinally and rotatably moveable relative to each other;</claim-text>
+<claim-text>twisting the elongate strength member; and</claim-text>
+<claim-text>bending the elongate strength member into a coil.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The method of <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein the elongate composite strength member is coiled into a series of generally circular coils around a spool device.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The method of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the elongate strength member is twisted about one degree along a longitudinal dimension for about every one degree that the elongate strength member is coiled around the spool device.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The method of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the elongate strength member is alternately twisted clockwise for a distance and then counterclockwise for a distance as the elongate strength member is coiled around the spool device.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The method of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the elongate strength member is twisted about one degree along its longitudinal dimension for about every one degree that the path of the elongate strength member is coiled around the spool device.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The method of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the twisting is accomplished by using a payout device that applies a twisting force to the elongate strength member as the elongate strength member is coiled around the spool device.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text>21. The method of <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein tension is maintained in the elongate strength member as the elongate strength member is coiled around the spool device.</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text>22. The method of <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein the elongate strength member is alternately twisted clockwise and then counterclockwise as the elongate strength member is coiled.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text>23. The method of <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein the payout device applies a compression force to an outside surface of areas of the elongate strength member as the twisting force is applied to cause the elongate strength member to twist and at least some of the elongate composite rods that are arranged in the elongate strength member to twist and spiral relative to a longitudinal direction of the elongate strength member.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text>24. The method of <claim-ref idref="CLM-00016">claim 16</claim-ref>, further comprising withdrawing the elongate composite strength member from the spool device by unwinding the elongate composite strength member from the spool device to cause the twisted elongate strength member to return to a generally untwisted orientation wherein the composites rods will be in a generally parallel and untwisted and un-spiraled arrangement when the elongate strength member is extended along a generally straight path.</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text>25. The method of <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein the plurality of elongate composite rods are bundled together to prevent the rods from separating from each other and bowing out. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

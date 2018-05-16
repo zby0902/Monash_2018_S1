@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891026-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891026</doc-number>
+<kind>B1</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11620950</doc-number>
+<date>20070108</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>660</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>41</class>
+<subclass>D</subclass>
+<main-group>13</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>  2465</main-classification>
+</classification-national>
+<invention-title id="d2e53">Athletic garment with articulated body protective underlayer</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>1660342</doc-number>
+<kind>A</kind>
+<name>Levinson</name>
+<date>19280200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>1669085</doc-number>
+<kind>A</kind>
+<name>Guyon</name>
+<date>19280500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>1757640</doc-number>
+<kind>A</kind>
+<name>Levinson</name>
+<date>19300500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>1803335</doc-number>
+<kind>A</kind>
+<name>Levinson</name>
+<date>19310500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>1857850</doc-number>
+<kind>A</kind>
+<name>Jones</name>
+<date>19320500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>1944127</doc-number>
+<kind>A</kind>
+<name>Jones</name>
+<date>19340100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>2629094</doc-number>
+<kind>A</kind>
+<name>Goldsmith</name>
+<date>19530200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>3484868</doc-number>
+<kind>A</kind>
+<name>Davenport, Jr.</name>
+<date>19691200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>4807301</doc-number>
+<kind>A</kind>
+<name>Ferber</name>
+<date>19890200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2465</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>5161257</doc-number>
+<kind>A</kind>
+<name>Arensdorf et al.</name>
+<date>19921100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>5168576</doc-number>
+<kind>A</kind>
+<name>Krent et al.</name>
+<date>19921200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>5365610</doc-number>
+<kind>A</kind>
+<name>Lubahn et al.</name>
+<date>19941100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>5405312</doc-number>
+<kind>A</kind>
+<name>Jacobs</name>
+<date>19950400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>602  5</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>5423087</doc-number>
+<kind>A</kind>
+<name>Krent et al.</name>
+<date>19950600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>5497511</doc-number>
+<kind>A</kind>
+<name>Zade</name>
+<date>19960300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>5572737</doc-number>
+<kind>A</kind>
+<name>Valice</name>
+<date>19961100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2465</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>5689836</doc-number>
+<kind>A</kind>
+<name>Fee et al.</name>
+<date>19971100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2465</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>5717997</doc-number>
+<kind>A</kind>
+<name>Garcia</name>
+<date>19980200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2 23</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>6070273</doc-number>
+<kind>A</kind>
+<name>Sgro</name>
+<date>20000600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>6408446</doc-number>
+<kind>B1</kind>
+<name>Carrington</name>
+<date>20020600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2465</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>6532599</doc-number>
+<kind>B1</kind>
+<name>Dugan</name>
+<date>20030300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>6654960</doc-number>
+<kind>B2</kind>
+<name>Cho</name>
+<date>20031200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>6804832</doc-number>
+<kind>B2</kind>
+<name>Beland</name>
+<date>20041000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>7412731</doc-number>
+<kind>B1</kind>
+<name>Brassill</name>
+<date>20080800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2456</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>2002/0042944</doc-number>
+<kind>A1</kind>
+<name>Beland</name>
+<date>20020400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>2006/0059609</doc-number>
+<kind>A1</kind>
+<name>Moss</name>
+<date>20060300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>25</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>  2267</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2 22</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2 24</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2227</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2228</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2455</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2466</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2 69</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2465</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2 79</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2911</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>13</number-of-drawing-sheets>
+<number-of-figures>13</number-of-figures>
+</figures>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Smith</last-name>
+<first-name>Michael K.</first-name>
+<address>
+<city>Beaverton</city>
+<state>OR</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Plumsea Law Group, LLC.</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Nike, Inc.</orgname>
+<role>02</role>
+<address>
+<city>Beaverton</city>
+<state>OR</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Patel</last-name>
+<first-name>Tejash</first-name>
+<department>3765</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">Athletic apparel containing protective underlayer comprising molded foam padding that are shaped and curved to match the anatomical regions to reduce the bulk of the underlayers. The molded foam pads a perforated structure to allow for increased flexibility and ventilation. Protective underlayers that surround regions of motion, such as the hip joint, are notched to provide articulation of the protective underlayer that will improve mobility of the athletic apparel wearer.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="244.26mm" wi="148.08mm" file="US07891026-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="262.64mm" wi="150.79mm" file="US07891026-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="186.52mm" wi="170.94mm" file="US07891026-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="206.67mm" wi="182.88mm" file="US07891026-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="201.51mm" wi="177.21mm" file="US07891026-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="259.59mm" wi="149.69mm" file="US07891026-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="226.40mm" wi="174.07mm" file="US07891026-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="247.65mm" wi="170.01mm" file="US07891026-20110222-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="231.56mm" wi="183.13mm" file="US07891026-20110222-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="222.25mm" wi="200.74mm" file="US07891026-20110222-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="185.00mm" wi="268.05mm" file="US07891026-20110222-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="180.76mm" wi="176.70mm" file="US07891026-20110222-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="185.00mm" wi="162.81mm" file="US07891026-20110222-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="189.65mm" wi="165.27mm" file="US07891026-20110222-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0002" num="0001">1. Field of the Invention</p>
+<p id="p-0003" num="0002">This invention relates to the field of protective body padding and athletic apparel, and more particularly to athletic apparel containing an articulated body protective underlayer molded in a curved shape to anatomically fit on or about the body part to be protected.</p>
+<p id="p-0004" num="0003">2. Background of the Invention</p>
+<p id="p-0005" num="0004">Many athletic activities require protection and padding for various body parts. One of the challenges in protecting body parts is to provide for freedom of movement to the athlete while still providing sufficient protection from blows from other players or equipment. Athletic apparel for the lower body for contact sports such as football, basketball, and hockey is usually padded. The problem has been to achieve the balance between sufficient padding and enabling unencumbered movement of the legs at the hip joint. Another concern is providing sufficient ventilation through the padding to prevent overheating of the athlete.</p>
+<p id="p-0006" num="0005">Athletic apparel containing padding for various body parts has been described previously. Dugan, U.S. Pat. No. 6,532,599, describes athletic pants containing pockets for padding to cover the hips, thigh, and coccyx. The padding in these athletic pants do not provide the ability to articulate which may restrict the mobility of the athlete nor does the padding have any means for ventilation. There have been several attempts to provide athletic apparel with padding possessing the ability to articulate, such as those described by Krent et al., U.S. Pat. No. 5,423,087, and Zade et al., U.S. Pat. No. 5,497,511. Krent et al. and Zade et al. are incorporated by reference in their entirety. Krent et al. provides athletic apparel containing padding with the ability to articulate in a vertical axis or in a horizontal axis. These axes are not aligned with the anatomical axes of rotation for the hip during running and may in fact restrict the mobility of the athlete while running. Furthermore, Krent et al. does not provide ventilation in the padding. Zade et al. provides modules of padding connected by an elastic membrane that allow for mobility between the modules as well as channels for ventilation through the modules of padding and the connecting membranes around the modules. This approach, while providing many degrees of articulation, does not sufficiently cover all of the desired regions of protection. The anatomical axes of rotation commonly occur in the same regions that protection is desired, and the modular design would require that the elastic membrane be positioned where the axis of rotation crosses the padding. As a result, the region of desired protection would not have complete coverage by padding. The resultant exposure of regions of the body that are prone to injury will not ensure that the protection provided by the athletic apparel is effective in its protection of the athlete.</p>
+<p id="p-0007" num="0006">Ventilation is another important aspect of providing comfortable athletic apparel. The ventilation approach described by Zade et al. was appropriate for increasing comfort, but that solution had deficiencies with respect to protection coverage. Another manner for providing continuous coverage with ventilation is the solution described by Cho, U.S. Pat. No. 6,654,960. Cho describes a shin pad that has a network of pie-shaped perforations arranged hexagonally throughout the pad. This design provides complete coverage of the desired body part as well as complete ventilation. However, Cho's pad is for protecting the shin and does not articulate, and therefore does not solve the challenge of providing mobility via articulation for certain regions of the body.</p>
+<p id="p-0008" num="0007">There is a need in the field for athletic apparel containing padding that provides anatomical coverage of body parts requiring protection and which is configured to articulate about anatomically relevant axes to provide unencumbered mobility of the athlete; as well as provide adequate ventilation to the athlete.</p>
+<heading id="h-0002" level="1">SUMMARY</heading>
+<p id="p-0009" num="0008">A padded underlayer for athletic apparel is designed to protect the athlete while maximizing mobility and comfort. A plurality of discrete padded underlayer elements are integrated into a garment such as protective athletic pants. For activities such as football, basketball there may be several lower body areas that need to be protected from impact including, for example, the thighs, the hip joint and the coccyx. Each of these regions of the lower body is protected by a padded underlayer element that is anatomically shaped to most closely approximate the shape and curvature of the region requiring protection. In some cases the anatomic shape requires configuring the underlayer element to facilitate movement of a protected region. For example, the underlayer element can be shaped to facilitate articulation of the thigh with respect to the hip joint.</p>
+<p id="p-0010" num="0009">Another aspect of the protective underlayer element concerns the internal structure of the padding material which comprises at least one perforated region generally surrounded by a continuous region. The continuous region provides a ring of support around the perforated region, while the perforated region provides flexibility and ventilation to the wearer. A plurality of perforated regions may be set off from one another by continuous regions in a single underlayer element. The design and configuration of the continuous and perforated regions can be based on the anatomical needs of the portions of the wearer's body to be protected. For example, continuous regions tend to be stiffer and may offer more protection, and thus should generally be placed in areas that require the most protection. On the other hand, perforated regions are lighter and more flexible and may be placed in areas that must bend or articulate with the athlete's body.</p>
+<p id="p-0011" num="0010">In another aspect, the padding is anatomically shaped, contains perforated regions for flexibility and ventilation, and continuous regions for enhanced protection, and where applicable contains features that allow for articulation about anatomically relevant axes of rotation.</p>
+<p id="p-0012" num="0011">In another aspect of the invention, the athletic garment comprises a hip underlayer that is positioned to be disposed over a wearer's hip joint, specifically a wearer's iliac crest, femoral head, femoral neck and greater trochanter. The hip underlayer incorporates a contoured molded foam pad with a notch-cut to be disposed over a wearer's axis of rotation of the hip joint during running or walking, and also includes a continuous, non-perforated area to provide enhanced protection and a perforated area to provide flexibility, ventilation and reduce bulk. The continuous region may surround the perforated region of the foam pad to provide a ring of protection.</p>
+<p id="p-0013" num="0012">In another aspect of the invention, the athletic garment comprises a coccyx underlayer positioned to be disposed over a wearer's coccyx and sacrum, and incorporating a contoured molded foam pad having a continuous, non-perforated region and a perforated region.</p>
+<p id="p-0014" num="0013">In another aspect of the invention, the athletic garment comprises a thigh padded underlayer positioned to be disposed over a portion of a wearer's thigh, and incorporating a contoured molded foam pad having a perforation pattern. The thigh underlayer its foam pad can be shaped and contoured to provide coverage from the medial anterior aspect to the lateral anterior aspect of the thigh. Alternatively, the thigh underlayer and its foam pad can be shaped and contoured to form front, side and rear portions to provide coverage from the medial anterior aspect of the thigh around the lateral aspect of the thigh to the medial posterior aspect of the thigh. In each of these cases, the foam pad has a plurality of perforated regions each surrounded by continuous, non-perforated regions to provide enhanced protection and stiffness as desired.</p>
+<p id="p-0015" num="0014">In another aspect of the invention, the athletic garment may include one or any combination of the hip, thigh and coccyx underlayers.</p>
+<p id="p-0016" num="0015">In another aspect of the invention, each of the hip, coccyx and thigh underlayers incorporates a molded foam pad having a perforation structure comprising at least one perforated region formed of a repeating grid of perforations. The repeating grid comprises interlocking hexagonal units, each said unit formed by triangular perforations arranged around a center point to form ribs.</p>
+<p id="p-0017" num="0016">The above objects are achieved through anatomically matching the underlayer padding of an athletic garment to match the shape and the curvature of each region requiring protection. Additionally, the underlayer padding contains perforated regions to provide ventilation to the athlete. The perforations are preferably triangular in shape and arranged in interlocking hexagonal patterns. The underlayer padding contains continuous regions that have no perforations to provide additional rigid protective support to the regions requiring protection. The underlayer padding may also contain features that allow for articulation. For regions that articulate requiring protection, such as the hip, the underlayer padding is specifically designed with a notched feature to allow for articulation around the anatomical axis of rotation for the hip during activities such as running or walking.</p>
+<p id="p-0018" num="0017">Other configurations, features and advantages of the invention will be, or will become, apparent to one with skill in the art upon examination of the following figures and detailed description. It is intended that all such additional systems, methods, features and advantages be included within this description, be within the scope of the invention, and be protected by the following claims.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0019" num="0018">The invention can be better understood with reference to the following drawings and description. The components in the figures are not necessarily to scale, emphasis instead being placed upon illustrating the principles of the invention. Moreover, in the figures, like reference numerals designate corresponding parts throughout the different views. In the drawings:</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 1</figref> is a side view of a lower body garment incorporating the articulated protective hip underlayer, the protective coccyx underlayer, and the protective front thigh underlayer of the present invention.</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 2</figref> is a rear view of the garment of <figref idref="DRAWINGS">FIG. 1</figref> incorporating the protective coccyx underlayer.</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 3</figref> is a schematic view of an articulating protective hip underlayer showing the internal perforation structure.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 4</figref> is a schematic view of an articulating protective hip underlayer similar to <figref idref="DRAWINGS">FIG. 3</figref>, but showing an alternative internal perforation structure.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 5</figref> is a side view of a lower body garment incorporating the articulated protective hip underlayer, demonstrating the location of the articulating notch with respect to the hip joint and the region of protection spanning distally from the femoral greater trochanter proximally to the iliac crest.</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 6</figref> is a schematic front view of a protective front thigh underlayer for protection from impacts on the anterior aspect of the thigh, showing X-shaped continuous region within the internal perforation structure.</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 7</figref> is a side view of an athletic garment incorporating an alternative wrap thigh underlayer, an articulated protective hip underlayer and a protective coccyx underlayer.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 8</figref> is a rear view of the garment of <figref idref="DRAWINGS">FIG. 7</figref>.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 9</figref> is a front view of the garment of <figref idref="DRAWINGS">FIG. 7</figref>.</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 10</figref> is a schematic flattened view of the protective wrap thigh underlayer of <figref idref="DRAWINGS">FIG. 7</figref> showing the curved shape to match the anatomy of the thigh.</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 11</figref> is a schematic cross-section taken along line <b>11</b>-<b>11</b> of <figref idref="DRAWINGS">FIG. 7</figref> of the protective wrap thigh underlayer for protection from impacts on all sides of the thigh, showing the X-shaped continuous regions within the internal perforation structure.</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. 12</figref> is a schematic rear view of a lower body garment incorporating the protective coccyx underlayer, demonstrating the shape and location of the underlayer with respect to the coccyx.</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. 13</figref> is a schematic view of the protective coccyx underlayer showing the internal perforated structure.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0033" num="0032">An athletic garment containing protective underlayer elements is the lower body garment <b>100</b> shown in <figref idref="DRAWINGS">FIGS. 1 and 2</figref>. The lower body garment is made of a breathable material forming the outer fabric layer, and contains a protective hip underlayer element or pad <b>101</b>, a protective coccyx underlayer element or pad <b>102</b>, and a protective thigh underlayer or pad <b>103</b>. <figref idref="DRAWINGS">FIG. 1</figref> illustrates a side view of the lower body garment <b>100</b> showing the position of the protective hip underlayer <b>101</b> and protective thigh underlayer <b>103</b> with respect to the wearer. <figref idref="DRAWINGS">FIG. 2</figref> is a rear view of the lower body garment <b>100</b> best illustrating the position of the protective coccyx underlayer <b>102</b> with respect to the wearer. Each underlayer element comprises a foam core preferably sandwiched between fabric coverings. The underlayer elements shown in <figref idref="DRAWINGS">FIGS. 1 and 2</figref>, for example, have an underlayer fabric covering over the foam core.</p>
+<p id="p-0034" num="0033">It is possible that the foam core is attached to only one fabric covering which is then attached to the fabric of the garment itself such that the foam core is sandwiched between its fabric covering and the fabric of the garment. The attachment of the underlayer element to the garment may be accomplished in any manner including but not limited to stitching, adhesion, or fusing of the underlayer fabric to the garment fabric, or the foam pad directly to the garment fabric. The underlayer largely takes its shape from the foam core. The foam core is perforated in particular configurations to provide flexibility and ventilation to the underlayer. Each of these elements is described in detail herein. Generally hip pad <b>101</b> has a unique shape as described below to facilitate articulation of the leg about the hip joint while providing protection to the iliac crest and femoral head. Coccyx pad <b>102</b> is anatomically shaped to protect the coccyx or tailbone area while providing needed ventilation to the region. And thigh pad <b>103</b> is anatomically shaped to protect the quadriceps area.</p>
+<p id="p-0035" num="0034">It will be understood that this invention is not limited to a lower body garment containing protective underlayers for the hip, coccyx and thigh, but that garment <b>100</b> is an example of the application of the principles of the invention. It is entirely within the scope of the invention to use appropriately configured underlayers in articulating and non-articulating shapes for any region of the body and incorporated into other types of athletic apparel or accessories.</p>
+<p id="p-0036" num="0035">Hip underlayer <b>101</b> as shown in <figref idref="DRAWINGS">FIGS. 1 and 5</figref> protects the left hip of the wearer, and the element shown in <figref idref="DRAWINGS">FIGS. 3-4</figref> is for the right hip of the wearer. These are mirror images of each other and share identical features, and as such, only internal structure of the right element will be described in detail.</p>
+<p id="p-0037" num="0036">Referring to <figref idref="DRAWINGS">FIGS. 3-5</figref>, hip underlayer <b>101</b> is illustrated without its fabric covering so that the foam and its internal perforation structure is visible. The core of hip underlayer <b>101</b> is foam pad <b>150</b> which is sandwiched between fabric coverings, of which only bottom layer <b>140</b> is shown. Underlayer <b>101</b> takes its shape largely from the shape of foam pad <b>150</b>, which as shown in <figref idref="DRAWINGS">FIG. 3</figref> has an upper iliac protective region <b>151</b> and a lower femoral protective region <b>152</b>. On the anterior aspect of the protective hip underlayer is a notch-cut feature <b>153</b> that allows for articulation about the axis of rotation of the hip. The shape of the iliac protective region <b>151</b> is curved about the longitudinal axis of the human body to match the curve of the iliac crest and provides protection beyond the anterior aspect and the posterior aspects of the iliac crest. The curvature of the protective hip underlayer provides a compact fit to the body, thus reducing the bulk generated by the underlayer. The shape of the femoral protective region <b>152</b> is such that it covers the lateral aspect of the femoral head and neck as well as the greater trochanter. These specific regions of the pelvis and femur are the most superficial and therefore most susceptible for injury due to impact. The protective hip layer is specifically shaped to cover these regions for use in high impact sports.</p>
+<p id="p-0038" num="0037">The notch-cut feature <b>153</b> of foam pad <b>150</b> contains a radiused articulating focal point <b>154</b> that is located some distance in from the outer edge of the protective underlayer and in between the upper iliac protective region <b>151</b> and the lower femoral protective region <b>152</b>. Articulating focal point <b>154</b> may be located at any distance from the edge of the protective underlayer and be of varying radial dimensions, depending on the desired range of motion required for the wearer of the protective underlayer. The desired range of motion may vary depending on the sport or activity for which the garment is designed. The shape and contours of foam pad <b>150</b> provide an articulated underlayer to the garment that will not impede movement of the wearer and still provide protection.</p>
+<p id="p-0039" num="0038">Hip foam pad <b>150</b> is designed with a perforated region <b>160</b> and a continuous region <b>161</b>. In this particular embodiment, foam element <b>150</b> can be thought of as having a single perforated region. Perforated region <b>160</b> provides added flexibility in the underlayer by enabling it to more easily curve to conform to the wearer's body, reduced weight, a feeling of lightness, as well as ventilation for enhanced comfort. Continuous region <b>161</b> provides a ring of enhanced support and protection to underlayer <b>150</b>. In this embodiment continuous region <b>161</b> surrounds perforated region <b>160</b> and is thus located around the outer edge of the protective hip underlayer. It is possible to design the foam pad to have a plurality of perforated regions surrounded by a continuous region to provide rings of stiffer protection around the perforated regions. The perforated structure of the foam core can also be thought of as an aspect of articulation in that the perforations enhances the underlayer's ability to closely follow and lay against the curvature of the wearer's body.</p>
+<p id="p-0040" num="0039">With respect to the perforated region, the perforations are designed to provide a repeating lattice-like structure to the foam pad. In the embodiment shown in <figref idref="DRAWINGS">FIG. 3</figref>, the perforation pattern comprises an array of triangles arranged to form hexagonal clusters. In particular, perforations <b>170</b>, <b>171</b>, <b>172</b>, <b>173</b>, <b>174</b>, <b>175</b> are equilateral triangles arranged such that an angle points toward a center point of a hexagon, and the opposing side implies a side of the hexagon. These perforations form six ribs that come together at the center point of the hexagon similar to an asterisk in shape. This star-like shape provides a great deal of structural strength to the foam pad and acts like a skeleton while providing flexibility and protection. The hexagonal cluster of triangles interlocks with adjacent hexagonal clusters, and this is achieved by arranging the equilateral triangles in parallel lines with each adjacent triangle rotated 60&#xb0; with respect to its neighbor in the line. In <figref idref="DRAWINGS">FIG. 3</figref>, perforations <b>173</b>, <b>174</b> and <b>175</b> are in the same line which is parallel to the line comprising perforations <b>170</b>, <b>171</b> and <b>172</b>. The size of the perforations may range from 1 mm to 20 mm and in the embodiment of <figref idref="DRAWINGS">FIG. 3</figref>, are preferably 6 mm on a side. In this embodiment, the spacing between triangles in a line is preferably 5 mm, and the foam pad is preferably 7 mm thick.</p>
+<p id="p-0041" num="0040">Although the illustrated perforations are equilateral triangular, they may be of any suitable geometry, including but not limited to right triangular, isosceles triangular, circular, square, rectangular, pentagonal, hexagonal, octagonal. Furthermore, the perforations <b>170</b>, <b>171</b>, <b>172</b>, <b>173</b>, <b>174</b>, <b>175</b> may be spaced closer to each other or may be sized differently to provide particular, desired protective characteristics. The patterns may be, but are not limited to, circular, triangular, square, rectangular, pentagonal, hexagonal, octagonal, and are preferably hexagonal and spaced between 1 mm and 20 mm apart. The shape and spacing is selected depending on the desired degree of flexibility of the underlayer as well as the desired degree of protection of the underlayer. Additionally, the thickness of the foam pad will contribute to the degree of flexibility as well as the degree of protection. The larger the perforations, the closer the spacing, and the thinner the underlayer, the more flexibility and the less the degree of protection.</p>
+<p id="p-0042" num="0041"><figref idref="DRAWINGS">FIG. 4</figref> illustrates another embodiment of the protective hip underlayer shown without a fabric covering to expose foam pad <b>200</b> with a perforated region <b>201</b> and a continuous region <b>202</b>. This embodiment of the protective hip underlayer has a foam pad <b>200</b> that is 11 mm thick and has 6 mm equilateral triangular perforations <b>210</b>, <b>211</b>, <b>212</b>, <b>213</b>, <b>214</b>, <b>215</b> arranged hexagonally and spaced at 3 mm. Similar to foam pad <b>150</b>, the interlocking hexagonal pattern is repeated throughout the perforated region <b>201</b>. The closer spacing of the perforations means that in the perforated region the sum of the void areas there is more overall results in a more flexible pad than the one illustrated in <figref idref="DRAWINGS">FIG. 3</figref> in which there is more overall foam. The width of the continuous region surrounding the perforated region may also be altered to maximize the desired degree of protection and flexibility of the protective hip underlayer.</p>
+<p id="p-0043" num="0042">Proper function of the protective hip underlayer requires that the underlayer be positioned appropriately on the wearer so that the bulkiness is reduced, the coverage of the wearer's body is correct, and the axis of articulation of the protective underlayer is aligned with the axis of rotation of the hip joint during running. <figref idref="DRAWINGS">FIG. 5</figref> illustrates proper positioning for the left hip so that the protective hip underlayer <b>300</b> is curved around the pelvis and the hip joint, is aligned such that the upper iliac protective region <b>301</b> provides complete coverage over the iliac crest <b>310</b> and the lower femoral protective region <b>302</b> provides complete coverage of the femoral head <b>311</b>, femoral neck <b>312</b>, as well as the greater trochanter <b>313</b>. Furthermore, the notch-cut feature <b>303</b> of the pad in the protective hip underlayer is aligned with the axis of rotation of the hip. In this manner, the underlayer with its contoured pad anatomically fits the body part to be protected and also facilitates movement of the body.</p>
+<p id="p-0044" num="0043">A protective thigh underlayer in a lower body garment for protecting the front of the thigh is an additional embodiment of this invention. The protective thigh underlayer shape can vary depending on the degree of protection required and the particular areas of the thigh to be covered. Garment <b>100</b> provides padding on the quadriceps area of the thigh, <figref idref="DRAWINGS">FIG. 1</figref>, and this embodiment of the thigh underlayer is illustrated in more detail in <figref idref="DRAWINGS">FIG. 6</figref>. <figref idref="DRAWINGS">FIGS. 7-11</figref> illustrate an alternative thigh pad which wraps around the lateral side of the thigh.</p>
+<p id="p-0045" num="0044">Referring to <figref idref="DRAWINGS">FIG. 6</figref>, thigh underlayer <b>103</b> is shown without a fabric covering to reveal thigh pad <b>400</b> which is formed of a foam. Pad <b>400</b> is curved to match the natural curvature of the front of the thigh and comprises a continuous outer region <b>401</b> and a perforated region <b>402</b> reinforced by intersecting continuous regions <b>403</b>, <b>404</b>. Thigh pad <b>400</b> is sized so that it provides complete medial-lateral coverage of the thigh when observed from the front of the wearer and provides coverage over the middle third of the thigh in the coronal plane.</p>
+<p id="p-0046" num="0045">The intersecting continuous regions <b>403</b>, <b>404</b> may intersect at all angles and are preferably aligned at an angle such that they generate an X-shaped pattern through the perforated region. The intersecting continuous regions provide protective reinforcement and needed stiffness for the large region of perforations. In embodiments such as the one illustrated in <figref idref="DRAWINGS">FIG. 6</figref>, the perforations can be described as a single perforated region reinforced with the continuous regions, or can be described as a plurality of perforated regions surrounded by continuous regions. Both of these descriptions are accurate and encompass the invention as illustrated in <figref idref="DRAWINGS">FIGS. 6 and 10</figref>, for example.</p>
+<p id="p-0047" num="0046">As in the hip underlayer, the perforated region provides the necessary flexibility to enable the pad to curve over the body part, in this case the thigh, and provide ventilation for enhanced comfort to the wearer. The perforation pattern is similar to that described with respect to the hip underlayer with equilateral triangular perforations <b>410</b>, <b>411</b>, <b>412</b>, <b>413</b>, <b>414</b> and <b>415</b> arranged in a grid pattern to form what appear to be interlocking hexagons. If focused on the foam instead of the voids, the perforations form asterisk shaped rib elements arranged in an array. Perforations <b>410</b>, <b>411</b>, <b>412</b>, <b>413</b>, <b>414</b>, <b>415</b> may be of any geometry, including but not limited to circular, square, rectangular, equilateral triangular, right triangular, isosceles triangular, pentagonal, hexagonal, octagonal, and are preferably equilateral triangular in shape. The size of the perforations may range from 1 mm to 20 mm and are preferably 6 mm. The patterns may be, but are not limited to, circular, triangular, square, rectangular, pentagonal, hexagonal, octagonal, and are preferably hexagonal and spaced between 1 mm and 20 mm, and this embodiment of the protective thigh underlayer, foam pad <b>400</b> has a spacing of 3 mm. The protective thigh underlayer <b>400</b> illustrated in <figref idref="DRAWINGS">FIG. 6</figref> represents a protective thigh underlayer that provides protective coverage for the front of the thigh, which will typically be used in high impact sports where the impact to the thigh most commonly occurs from the front of the wearer, such as football.</p>
+<p id="p-0048" num="0047">Referring to <figref idref="DRAWINGS">FIGS. 7-11</figref>, an alternative embodiment of the protective thigh underlayer as part of the lower body garment is described for impact to a more extensive portion of the thigh, such as may occur during play in basketball. Lower body garment <b>100</b>&#x2032; shown in <figref idref="DRAWINGS">FIGS. 7-9</figref> and <b>11</b>, includes hip underlayer <b>101</b>, coccyx underlayer <b>102</b> and an alternative thigh underlayer <b>103</b>&#x2032;. As seen in <figref idref="DRAWINGS">FIGS. 7-9</figref> and <b>11</b>, thigh underlayer <b>103</b>&#x2032; extends around the lateral side of the thigh and covers the front of the thigh and the back of the thigh. Thus, it protects all of the exposed areas of the thigh from the quadriceps to the hamstrings. <figref idref="DRAWINGS">FIG. 10</figref> illustrates thigh underlayer <b>103</b>&#x2032; without a fabric covering to expose foam pad <b>500</b> which is larger than thigh pad <b>400</b> illustrated in <figref idref="DRAWINGS">FIG. 6</figref> to provide additional protection to the thigh. Line L in <figref idref="DRAWINGS">FIGS. 7 and 10</figref> represents a longitudinal line along the lateral side of the thigh, in this case the left thigh, about which the curvature of underlayer <b>103</b>&#x2032; is focused. This is also seen in <figref idref="DRAWINGS">FIG. 11</figref> which is a schematic cross-section of a protected thigh <b>550</b> showing the position of protective thigh pad <b>500</b> which is curved such that protective coverage begins on the anterior aspect <b>555</b> of thigh <b>550</b>, and wraps around the outer thigh to end on the posterior aspect <b>560</b> of the thigh. The protective underlayer covers at a minimum the middle third of the thigh in the coronal plane.</p>
+<p id="p-0049" num="0048">Referring to <figref idref="DRAWINGS">FIG. 10</figref>, in the protective thigh pad <b>500</b> as illustrated, the left hand edge corresponds to the edge covering the anterior aspect <b>555</b>, and the right hand edge corresponds to the edge covering the posterior aspect <b>560</b>. It can be seen that thigh pad <b>500</b> is contoured specifically to wrap around the wearer's thigh and provide anatomical protection therealong. Specifically, the lateral side of the thigh has the most protection provided by the curved crest peaking at line L, and the posterior aspect has the lowest profile to ensure that the pad does not interfere with the movement of the legs and the resulting curvature of the posterior. Protective thigh pad <b>500</b> has a continuous region <b>501</b> around the edge as well as a central region consisting of a plurality of perforated regions <b>502</b> surrounded by intersecting continuous regions <b>503</b>. The width of the continuous regions <b>503</b> can vary depending on the desired degree of protection and may be the same width throughout or may be of varying widths depending on the necessity for regions of concentrated enhanced protection. The perforated regions provide flexibility and ventilation for enhanced comfort to the wearer. The perforation pattern is the same as the other underlayers comprising perforations arranged in a grid pattern to form a repeating pattern of ribs and voids. Perforations <b>510</b>, <b>511</b>, <b>512</b>, <b>513</b>, <b>514</b>, <b>515</b> may be of any geometry, including but not limited to circular, square, rectangular, equilateral triangular, right triangular, isosceles triangular, pentagonal, hexagonal, octagonal, and are preferably equilateral triangular in shape. The size of the perforations may range from 1 mm to 20 mm and are preferably 6 mm. The patterns may be, but are not limited to, circular, triangular, square, rectangular, pentagonal, hexagonal, octagonal, and are preferably hexagonal and spaced between 1 mm and 20 mm and this preferred embodiment of the protective thigh underlayer <b>500</b> has spacing of 5 mm.</p>
+<p id="p-0050" num="0049">The lower body garment may also contain a protective coccyx underlayer. Referring to <figref idref="DRAWINGS">FIGS. 12-13</figref>, a lower body garment <b>600</b> is illustrated having a protective coccyx underlayer <b>601</b> that is shaped and contoured such that it provides minimized bulk and covers the coccyx <b>602</b> and sacrum <b>603</b>. The upper portion protecting the sacrum is wider than the lower portion protecting the coccyx, and as such the coccyx underlayer roughly has a T-shape. As depicted in <figref idref="DRAWINGS">FIG. 13</figref>, in which the fabric covering is not shown, protective coccyx underlayer <b>601</b> has a foam pad having a continuous region <b>605</b> around the outer edge of the protective pad surrounding a perforated region <b>606</b> in the center of the protective underlayer. The width of the continuous region <b>605</b> may vary depending on the desired degree of protection. The perforated region <b>606</b> provides flexibility and ventilation for enhanced comfort to the wearer. Again, the perforation pattern is similar to those described above with respect to the hip and thigh underlayers. Perforations <b>610</b>, <b>611</b>, <b>612</b>, <b>613</b>, <b>614</b>, <b>615</b> may be of any geometry, including but not limited to circular, square, rectangular, equilateral triangular, right triangular, isosceles triangular, pentagonal, hexagonal, octagonal, and are preferably equilateral triangular in shape. The size of the perforations may range from 1 mm to 20 mm and are preferably 6 mm. The patterns may be, but are not limited to, circular, triangular, square, rectangular, pentagonal, hexagonal, octagonal, and are preferably hexagonal and spaced between 1 mm and 20 mm and this preferred embodiment of the protective coccyx underlayer <b>500</b> has spacing of 6.5 mm.</p>
+<p id="p-0051" num="0050">The padded underlayers due to the combination of their contoured shapes and particular perforation patterns provide anatomically correct protection to the body parts of the wearer. With respect to the foam pad, the main parameters of design are the thickness of the pad, the perforation pattern, the size of the perforations and the spacing of the perforations. These parameters can be utilized to customize the degree of protection, stiffness, flexibility, ventilation and articulation of the foam pad, and thereby the padded underlayer.</p>
+<p id="p-0052" num="0051">While various embodiments of the invention have been described, it will be apparent to those of ordinary skill in the art that may more embodiments and implementations are possible that are within the scope of the invention.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A protective lower body garment comprising:
+<claim-text>a garment fabric for covering a portion of a wearer's body; and</claim-text>
+<claim-text>a hip padded underlayer attached to said fabric and positioned to be disposed over a wearer's hip joint, specifically a wearer's iliac crest, femoral head, femoral neck and greater trochanter, said underlayer incorporating a contoured molded foam pad with a triangular notch-cut to be disposed adjacent wearer's axis of rotation of the hip joint during running or walking, a point of said triangular notch-cut being located on the wearer's axis of rotation of the hip joint, wherein the notch-cut extends substantially from the wearer's axis of rotation of the hip joint to a perimeter edge of the padded underlayer.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The garment of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said foam pad has a non-perforated continuous region surrounding a perforated region.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The garment of <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein said perforated region comprises a repeating grid of perforations.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The garment of <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein said repeating grid comprises interlocking hexagonal units, each said unit formed by triangular perforations arranged around a center point to form ribs therebetween.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The garment of <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein said repeating grid comprises triangular perforations.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The garment of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein said perforations are in the shape of equilateral triangles.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. A protective lower body garment comprising:
+<claim-text>a garment fabric for covering a portion of a wearer's body;</claim-text>
+<claim-text>a hip padded underlayer attached to said fabric and positioned to be disposed over a wearer's hip joint, specifically a wearer's iliac crest, femoral head, femoral neck and greater trochanter, said underlayer including a notch-cut to be disposed adjacent a wearer's axis of rotation of the hip joint during running or walking;</claim-text>
+<claim-text>said notch-cut having a shape generally bounded by a first radius of a circle and a second radius of a circle, the circle having its center on the wearer's axis of rotation of the hip joint, wherein the notch-cut extends substantially from the wearer's axis of rotation of the hip joint to a perimeter edge of the padded underlayer;</claim-text>
+<claim-text>a coccyx padded underlayer attached to said fabric and positioned to be disposed over a wearer's coccyx and sacrum;</claim-text>
+<claim-text>wherein each said padded underlayer incorporates a contoured molded foam pad having a non-perforated area to provide enhanced protection and a perforated area to provide ventilation and reduce bulk.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The garment of <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein each of said hip and coccyx foam pads each have a non-perforated continuous region surrounding a perforated region.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The garment of <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein said perforated region comprises a repeating grid of perforations.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The garment of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein said repeating grid comprises interlocking hexagonal units, each said unit formed by triangular perforations arranged around a center point to form ribs therebetween.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The garment of <claim-ref idref="CLM-00007">claim 7</claim-ref>, further comprising a thigh underlayer attached to said fabric and positioned to be disposed over a portion of a wearer's thigh, said thigh underlayer also incorporating a contoured molded thigh foam pad having a continuous non-perforated area to provide enhanced protection and a perforated region.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The garment of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the thigh underlayer and said thigh foam pad are shaped and contoured to provide coverage from the medial anterior aspect to the lateral anterior aspect of the thigh.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The garment of <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein said thigh foam pad has a plurality of perforated regions each surrounded by continuous areas, each said perforated region comprising a repeating grid of perforations.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The garment of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the thigh underlayer and said thigh foam pad are shaped and contoured to form front, side and rear portions to provide coverage from the medial anterior aspect of the thigh around the lateral aspect of the thigh to the medial posterior aspect of the thigh.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The garment of <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein said thigh foam pad has a plurality of perforated regions each surrounded by continuous areas, each said perforated region comprising a repeating grid of perforations.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. A protective lower body garment comprising:
+<claim-text>a garment fabric for covering a portion of a wearer's body;</claim-text>
+<claim-text>a hip padded underlayer attached to said fabric and positioned to be disposed over a wearer's hip joint, specifically a wearer's iliac crest, femoral head, femoral neck and greater trochanter, said underlayer including a notch-cut to be disposed adjacent a wearer's axis of rotation of the hip joint during running or walking;</claim-text>
+<claim-text>said notch-cut having a generally triangular shape, where one point of the notch-cut is located at the wearer's axis of rotation of the hip, wherein the notch-cut extends substantially from the wearer's axis of rotation of the hip joint to a perimeter edge of the padded underlayer;</claim-text>
+<claim-text>a thigh underlayer attached to said fabric and positioned to be disposed over a portion of a wearer's thigh;</claim-text>
+<claim-text>wherein each said padded underlayer incorporates a contoured molded foam pad having a non-perforated area to provide enhanced protection and a perforated area to provide ventilation and reduce bulk.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The garment of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the thigh underlayer and said thigh foam pad are shaped and contoured to provide coverage from the medial anterior aspect to the lateral anterior aspect of the thigh.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The garment of <claim-ref idref="CLM-00017">claim 17</claim-ref>, wherein each of said foam pads has a plurality of perforated regions each surrounded by continuous areas, each said perforated region comprising a repeating grid of perforations.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The garment of <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein said repeating grid comprises interlocking hexagonal units, each said unit formed by triangular perforations arranged around a center point to form ribs therebetween.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The garment of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the thigh underlayer and said thigh foam pad are shaped and contoured to form front, side and rear portions to provide coverage from the medial anterior aspect of the thigh around the lateral aspect of the thigh to the medial posterior aspect of the thigh.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text>21. The garment of <claim-ref idref="CLM-00019">claim 19</claim-ref>, wherein said of said foam pads has a plurality of perforated regions each surrounded by continuous areas, each said perforated region comprising a repeating grid of perforations.</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text>22. The garment of <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein said repeating grid comprises interlocking hexagonal units, each said unit formed by triangular perforations arranged around a center point to form ribs therebetween.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text>23. The garment of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said triangular notch-cut is located towards the front of the wearer's body, so as to positively bias the flexure of the molded foam pad consistent with running or walking movement.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text>24. The garment of <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the first radius and the second radius are disposed in such a manner that an area between them changes as a result of flexing of the hip padded underlayer due to rotation of the wearer's hip joint during running or walking.</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text>25. The garment of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the notch-cut changes from a first configuration having a first triangular shape to a second configuration having a second triangular shape, the first triangular shape being different from the second triangular shape, due to rotation of the wearer's hip joint during running or walking.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

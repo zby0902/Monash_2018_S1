@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891133-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891133</doc-number>
+<kind>B1</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11253957</doc-number>
+<date>20051019</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>876</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>G</subclass>
+<main-group>7</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 47  9</main-classification>
+</classification-national>
+<invention-title id="d2e53">Hydro straw mulch</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>2128928</doc-number>
+<kind>A</kind>
+<name>Estes</name>
+<date>19380900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>162 75</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>3482353</doc-number>
+<kind>A</kind>
+<name>Fischer et al.</name>
+<date>19691200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 47  9</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>4297810</doc-number>
+<kind>A</kind>
+<name>Hansford</name>
+<date>19811100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 47  9</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>4369597</doc-number>
+<kind>A</kind>
+<name>Leep et al.</name>
+<date>19830100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>5443612</doc-number>
+<kind>A</kind>
+<name>Havens</name>
+<date>19950800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 71  5</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>5741832</doc-number>
+<kind>A</kind>
+<name>Spittle</name>
+<date>19980400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>523132</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>5879695</doc-number>
+<kind>A</kind>
+<name>Bastiaansen et al.</name>
+<date>19990300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>5942029</doc-number>
+<kind>A</kind>
+<name>Spittle</name>
+<date>19990800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>6076299</doc-number>
+<kind>A</kind>
+<name>Spittle et al.</name>
+<date>20000600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>6158167</doc-number>
+<kind>A</kind>
+<name>Spittle</name>
+<date>20001200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>6349499</doc-number>
+<kind>B1</kind>
+<name>Spittle</name>
+<date>20020200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>6360478</doc-number>
+<kind>B1</kind>
+<name>Spittle</name>
+<date>20020300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 47  9</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>6523299</doc-number>
+<kind>B2</kind>
+<name>Morris</name>
+<date>20030200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 47  9</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>6593277</doc-number>
+<kind>B2</kind>
+<name>Adamoli, Jr. et al.</name>
+<date>20030700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>6622424</doc-number>
+<kind>B1</kind>
+<name>Fouan</name>
+<date>20030900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>6672001</doc-number>
+<kind>B1</kind>
+<name>Ali et al.</name>
+<date>20040100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>6688038</doc-number>
+<kind>B1</kind>
+<name>Paternoster et al.</name>
+<date>20040200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>6835761</doc-number>
+<kind>B2</kind>
+<name>Harrison</name>
+<date>20041200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>523132</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>2001/0053545</doc-number>
+<kind>A1</kind>
+<name>Engwer</name>
+<date>20011200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>435262</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>2004/0043217</doc-number>
+<kind>A1</kind>
+<name>Dezutter et al.</name>
+<date>20040300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>428407</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>2004/0244928</doc-number>
+<kind>A1</kind>
+<name>Huang et al.</name>
+<date>20041200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>162135</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>2005/0176583</doc-number>
+<kind>A1</kind>
+<name>Stamets</name>
+<date>20050800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>504100</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>2006/0070294</doc-number>
+<kind>A1</kind>
+<name>Spittle</name>
+<date>20060400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 47  9</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>FR</country>
+<doc-number>2558035</doc-number>
+<kind>A1</kind>
+<date>19850700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</citation>
+</references-cited>
+<number-of-claims>16</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 47  9</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 47 576</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 47  101 F</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 47  101 T</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 47 581 SC</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 47DIG 10</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 47DIG 9</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>1</number-of-drawing-sheets>
+<number-of-figures>1</number-of-figures>
+</figures>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Lee</last-name>
+<first-name>Edward</first-name>
+<address>
+<city>Manteno</city>
+<state>IL</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Peters</last-name>
+<first-name>Terry</first-name>
+<address>
+<city>Worley</city>
+<state>ID</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Wyatt, Tarrant &#x26; Combs, LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Hydrostraw, LLC</orgname>
+<role>02</role>
+<address>
+<city>Manteno</city>
+<state>IL</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Valenti</last-name>
+<first-name>Andrea M</first-name>
+<department>3643</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A combination hydro straw mulch is used for hydroseeding and hydromulching for seed establishment and erosion control. The formulation of is preferably, but not limited to, approximately 85% hammermilled straw, approximately 10% hammermilled paper, and approximately 5% processed jute fibers. The hammermilled straw is preferably Kentucky Bluegrass straw. The hammermilled paper particles are used for its water holding capacity. The paper aids in pumpability and reduces the amount of water required for pumping a quantity of mulch. The processed jute fibers tangle the straw fibers on the ground to produce a secure ground covering. The hydro straw mulch of the present invention may include other additives as well. Tackifiers and flocculants aid pumpability and help tack the straw fibers to the ground and aid in water infiltration and water clarity. A surfactant ensures wetability. Other additives include green dye.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="210.90mm" wi="168.57mm" file="US07891133-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="213.70mm" wi="168.40mm" file="US07891133-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0002" num="0001">The present invention relates to the field of erosion control and seed establishment with hydroseeding and hydromulching.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">Existing systems for erosion control and seed establishment use paper or wood hydro mulch. These paper or wood hydro mulches are difficult to use and have low performance efficiencies. Additionally, application of paper and wood hydro mulches is limited by the amount of water that can be carried on a hydro mulch spreader. Generally, paper and wood hydro mulches require large quantities of water for efficient spreading. Use of straw mulches has not been successful in hydro seeding.</p>
+<p id="p-0004" num="0003">Clogging of the pumps and nozzles during hydroseeding and hydromulching is a problem that needs to be carefully avoided. Stopping operations to clean pumps and nozzles creates down time and can require disassembly and reassembly or replacement at great costs. When hydroseeding or hydromulching is done along highways and roads delays increase dangers associated with these operations.</p>
+<p id="p-0005" num="0004">Generally, paper or wood hydro mulches spread seed and mulch by using truck mounted pumps and water cannons for large area applications. Alternatively, the water, mulch and seed mix may be pumped and distributed through hoses and nozzles for residential type applications.</p>
+<p id="p-0006" num="0005">Straining and stratification of the components of the water, seed and mulch mixture by bunching and accumulating of some mulch components is a problem that may not be noticed for extended times, even several months. The first indication of a problem may be grass coverage inconsistencies in the hydroseeded and hydromulched areas. Problems are encountered that must be resolved. Reseeding with attendant time and materials may be necessary with high costs.</p>
+<p id="p-0007" num="0006">To prevent product or component jams high ratios of water to solids are used. High rations of water to solids require time interruptions for terminating hydroseeding or hydromulching while replenishing water tanks on trucks.</p>
+<p id="p-0008" num="0007">Needs exist for new products that require less water for application and that improve and increase erosion control and seed establishment.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0009" num="0008">The present invention provides a high lofted product that is a combination of fine hammermilled straw and hammermilled paper for partially releasing fibers. The fibers remain attached at ends to other fibers in the straw shafts and the paper particles. Jute fibers are processed, such as by hammermilling, to release short individual fibers that are used in small quantities to tangle the straw fibers. One product is a combination of straw, paper and jute fibers with tackifiers, flocculants and surfactants. The flocculants agglomerate neighboring, fluffed exposed fibers on the expanded straw particles. The tackifiers hold the straw fibers together and on the ground. The surfactants suspend the solids in the water and aid pumpability. The tackifiers also aid in holding the fibers attached to adjacent fibers. The tackifiers, flocculants, and surfactants are also agro chemicals that aid growth when the products are used in hydroseeding and hydromulching for seed establishment and erosion control.</p>
+<p id="p-0010" num="0009">The invention includes a combination straw mulch using as a primary fiber up to about 40 to 90 percent or more fine lawn grass straw, which is a byproduct of lawn seed production, or other types of straw. The straw is hammermilled for shortening, separating and abraiding. The straw may be blown against abraiding wheels or mixed with abraidant, and is then separated from the abraidant, such as by air stratification.</p>
+<p id="p-0011" num="0010">The preferred mixture also includes up to about 5 to 60 percent or more by weight hammermilled paper particles mixed with the fine grass straw for holding water and pumpability. Up to about 5 percent or more, by weight, of jute fibers are used to tangle with the straw fibers and the paper particles on the ground. The jute fibers are processed by hammermilling. Jute fibers are chopped and recycled from sources such as baled jute fibers or burlap bag scrap. About one to five percent by weight of tackifier and 0.25 percent or less by weight of flocculent are mixed with the fibers for wetting the fibers, reducing stratification and for lubrications of pumps in hoses to reduce clogging in the hydroseeder. The tackifier is preferably an organic tackifier such as guar, plantago or starch based tackifiers. The flocculent is preferably, but not limited to, PAM (polyacrylamide). Sufficient surfactant, such as ionic or non-ionic detergent, for example, less than about one half percent, is added to wet all of the water, paper and fibers, and to promote fast water absorption in the mixing tank prior to pumping and after spreading when lying on the ground and receiving water through rain or irrigation.</p>
+<p id="p-0012" num="0011">The hydro straw mulch of the present invention is composed of mainly straw, and enables pumps to pass the mulch easily through a hydroseeder and perform erosion control and seed establishment equal to or better than the industry standard wood and paper hydro mulches. The straw, paper and jute hydromulch is hydraulically spread in a slurry solution and normally contains seed and fertilizer with the mulch.</p>
+<p id="p-0013" num="0012">After the straw and jute are hammermilled the paper, tackifier, flocculent, surfactant and dye is added before they compressed into bales, usually of about 40-50 lbs each. The compressed bales reduce freight costs and provide easy onboard storage on hydroseeding units. This present invention is use the same way as conventional wood or paper hydromulch. The, dry materials in the bales are broken up and fed into hydroseeder tank as water is being added. The water and dry materials are fed into a mixing tank in a hydroseeder in predetermined proportions. Fertilizer and seed may be added to the dry mulch material as it is broken up or to the water mixing tank. Various ratios and mixtures are possible. The mixer apparatus combines and wets the materials before the slurry passes from the mixer apparatus directly into the pump intake. The hydro straw mulch of the present invention may be run at approximately 75 lbs mulch in approximately 100 gallons of water when doing hydroseeder tower work and 60 lbs mulch in approximately 100 gallons of water when Hydroseeding with a hose.</p>
+<p id="p-0014" num="0013">The formulation of the present invention is preferably, but not limited to, approximately 40-90%, and preferably about 85%, hammermilled straw, approximately 5-50%, and preferably about 10%, hammermilled paper, approximately 2-10%, and preferably about 5%, processed jute fibers by weight, and about 0.5% to 5% of the of tackifiers, flocculants and surfactants.</p>
+<p id="p-0015" num="0014">The hammermilled straw is preferably, but not limited to, Kentucky Bluegrass straw. The hammermilled straw may also be grass seed, cereal grains, rice, soybeans, kenaf, or combinations thereof. In one embodiment, the straw is a fine lawn grass straw separated from lawn seed and hammermilled to sizes of about 6 to 13 mm, and preferably abraided to partially release fibers for entanglement. The paper is hammermilled to industry standards or purchased pre-ground. The hammermilled paper is used for its water holding capacity. The paper aids in pumpability and reduces mulch clogging in the hydroseding machine hoses and pump. That increases the operational time of hydroseeders and hydromulch spreaders by reducing the down time required for refilling onboard water tanks. The processed jute fibers tangle the straw fibers on the ground to produce a secure ground covering. The jute fibers are hammermilled to a size of about 7-15 mm, and have fully or partially exposed naturally crimped fibers for entangling the straw fibers.</p>
+<p id="p-0016" num="0015">The hydro straw mulch of the present invention may include fertilizer and other additives as well. Organic tackifiers and PAM flocculants aid pumpability and help tack the straw fibers to the ground. A surfactant ensures wetability of the straw fibers, paper, and jute fibers during the mixing process and during rain or irrigation while the product is on the ground. Other additives may include green dye for providing optical feedback of coverage when hydroseeding.</p>
+<p id="p-0017" num="0016">The jute fibers aid entanglement without reducing pumpability.</p>
+<p id="p-0018" num="0017">In another embodiment of the product, hammermilled grass straw, which has been shortened and from which fiber ends extend, is mixed with hammermilled paper particles with or without a small amount of jute fibers to aid tangling.</p>
+<p id="p-0019" num="0018">These and further and other objects and features of the invention are apparent in the disclosure, which includes the above and ongoing written specification, with the drawings.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 1</figref> is a schematic diagram of the product process.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENTS</heading>
+<p id="p-0021" num="0020">The present invention provides a high lofted product that is a combination of fine hammermilled straw and hammermilled paper for partially releasing fibers. The fibers remain attached at ends to other fibers in the straw shafts and the paper particles. Jute fibers are processed, such as by hammermilling, to release short individual fibers that are used in small quantities to tangle the straw fibers. The product is a combination of straw, paper and jute fibers with tackifiers, flocculants, dye and surfactants. The flocculants aids in soil water infiltration rates and increase water clarity of runoff. The tackifiers hold the straw fibers together and on the ground. The surfactants suspend the solids in the water and aid pumpability. The tackifiers also aid in holding the fibers attached to adjacent fibers. The tackifiers, flocculants, and surfactants are also agro chemicals that aid growth when the products are used in hydroseeding and hydromulching for seed establishment and erosion control.</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 1</figref> shows a process <b>11</b> for creating the product. Jute <b>13</b> is fed into a jute grinder <b>15</b>. The ground jute is then fed into a jute baler <b>17</b> to create a jute bale. The jute bale is then shredded <b>19</b> before being fed into a straw grinder <b>21</b> with bales of grass straw <b>23</b>. The combined jute and grass straw are processed in the straw grinder <b>21</b>. The ground straw and jute exit the straw grinder <b>21</b> and are transported to a feeder <b>25</b>. The feeder <b>25</b> supplies the ground straw and jute to a feed auger <b>27</b>. Baled paper mulch <b>29</b> is fed into a paper breaker <b>31</b>. The paper breaker <b>31</b> breaks the bales of paper mulch into a smooth flowing material that is combined with the straw and jute mixture in the feed auger <b>27</b>.</p>
+<p id="p-0023" num="0022">While the feed auger <b>27</b> moves the mixed straw, jute and paper mulch, additives are added. Additives may include pure water <b>33</b>, surfactant <b>35</b>, dye water <b>37</b>, tackifier <b>39</b> and other additives. The processed mixture of straw, jute and paper then passes through a string picker <b>41</b>. The string picker <b>41</b> removes any bailing twine missed by the straw grinder <b>21</b>. The mixture of straw, jute and paper then passes through a magnetic device <b>43</b> that removes any metallic debris.</p>
+<p id="p-0024" num="0023">The processed combination of straw, jute and paper is then held in a live bottom hopper <b>45</b>. The live bottom hopper <b>45</b> holds the fully processed and treated mulch. The live bottom hopper <b>45</b> operates in conjunction with a timed auger <b>47</b> that feeds controlled amounts of mulch to a baler <b>49</b>. The baler <b>49</b> compresses the mulch from the timed auger <b>47</b> into bales of a desired size. Finished bales <b>51</b> exit the baler <b>49</b>.</p>
+<p id="p-0025" num="0024">The invention includes a combination straw mulch using as a primary straw fiber up to about 40 to 90 percent or more fine lawn grass straw, which is a byproduct of lawn seed production, or other types of straw. The straw is hammermilled for shortening, separating and abraiding. The straw may be blown against abraiding wheels or mixed with abraidant, and is then separated from the abraidant, such as by air stratification. Alternatively, the straw may be fiberized by steaming and disc milling in a fiberizing mill.</p>
+<p id="p-0026" num="0025">The preferred mixture also includes up to about 5 to 60 percent or more by weight hammermilled paper particles mixed with the fine grass straw for holding water and pumpability. Up to about 5 percent or more, by weight, of jute fibers are used to tangle with the straw fibers and the paper particles on the ground. The jute fibers are processed by hammermilling. Jute fibers are chopped and recycled from sources such as baled jute fibers or burlap bag scrap. About one to five percent by weight of tackifier and about 0.25 percent or less by weight of flocculent are mixed with the fibers for wetting the fibers and preventing stratification. The tackifier is preferably an organic tackifier such as guar, plantago or starch based tackifiers. The flocculent is preferably, but not limited to, PAM (polyacrylamide). Sufficient surfactant, such as ionic or non-ionic detergent, for example, less than about one half percent, is added to wet all of the water, paper and fibers, and to promote fast water absorption in the mixing tank prior to pumping and after spreading when lying on the ground and receiving water through rain or irrigation.</p>
+<p id="p-0027" num="0026">The hydro straw mulch of the present invention is composed of mainly straw, and enables pumps to pass the mulch easily through a hydroseeder and perform erosion control and seed establishment equal to or better than the industry standard wood and paper hydro mulches. The straw, paper and jute hydromulch is hydraulically spread in a slurry solution and normally contains seed and fertilizer with the mulch.</p>
+<p id="p-0028" num="0027">After the elements are hammermilled and the ingredients are added and then compressed into bales, usually of about 40-50 lbs each. The compressed bales reduce freight costs and provide easy onboard storage on hydroseeding units. In order to use the hydromulch of the present invention, dry materials in the bales are broken up and fed into a dry hopper, which further reduces and separates clumps. Water is held in a reservoir on the hydroseeder or hydromulch spreader. The water and dry materials are fed into a mixing tank in a hydroseeder in predetermined proportions. Fertilizer and seed may be added to the dry mulch material as it is broken up or to the water mixing tank. Various ratios and mixtures are possible. The mixer apparatus combines and wets the materials before the slurry passes from the mixer apparatus directly into the pump intake. The hydro straw mulch of the present invention may be run at approximately 75 lbs mulch in approximately 100 gallons of water when doing hydroseeder tower work and 60 lbs mulch in approximately 100 gallons of water when Hydroseeding with a hose.</p>
+<p id="p-0029" num="0028">The formulation of the present invention is preferably, but not limited to, approximately 40-90%, and preferably about 85%, hammermilled straw, approximately 5-50%, and preferably about 10%, hammermilled paper, approximately 2-10%, and preferably about 5%, processed jute fibers by weight, and about 1% to 5% additives of tackifiers, flocculants, dye and surfactants.</p>
+<p id="p-0030" num="0029">The hammermilled straw is preferably, but not limited to, Kentucky Bluegrass straw. In one embodiment, the straw is a fine lawn grass straw separated from lawn seed and hammermilled to sizes of about 6 to 13 mm, and preferably abraided to partially release fibers for entanglement. The paper is hammermilled to industry standards or purchased preground. The hammermilled paper is used for its water holding capacity. The paper aids in pumpability and reduces clogging in hoses and pump of the hydroseeder. That increases the operational time of hydroseeders and hydromulch spreaders by reducing the down time required for refilling onboard water tanks. The processed jute fibers tangle the straw fibers on the ground to produce a secure ground covering. The jute fibers are hammermilled to a size of about 7-15 mm, and have fully or partially exposed naturally crimped fibers for entangling the straw fibers.</p>
+<p id="p-0031" num="0030">The hydro straw mulch of the present invention may include fertilizer and other additives as well. Organic tackifiers and PAM flocculants aid pumpability and help tack the straw fibers to the ground and aid in water infiltration and water clarity. A surfactant ensures wetability of the straw fibers, paper, and jute fibers during the mixing process and during rain or irrigation while the product is on the ground. Other additives may include green dye for providing optical feedback of coverage when hydroseeding.</p>
+<p id="p-0032" num="0031">The jute fibers aid entanglement without reducing pumpability.</p>
+<p id="p-0033" num="0032">In another embodiment of the product, hammermilled grass straw, which has been shortened and from which fiber ends extend, is mixed with hammermilled paper particles with or without a small amount of jute fibers to aid tangling.</p>
+<p id="p-0034" num="0033">While the invention has been described with reference to specific embodiments, modifications and variations of the invention may be constructed without departing from the scope of the invention.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A fibrous hydro mulch product comprising:
+<claim-text>hammermilled straw having separated fibers partially released from the straw, finely divided paper particles mixed with the hammermilled straw, jute fibers mixed with the hammermilled straw and the finely divided paper particles.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The product of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising an adhesive tackifier, mixed with the hammermilled straw, the finely divided paper particles and the jute fibers.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The product of <claim-ref idref="CLM-00002">claim 2</claim-ref>, further comprising a surfactant mixed with the hammermilled straw, the finely divided paper particles and the jute fibers.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The product of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a surfactant mixed with the hammermilled straw, the finely divided paper particles and the jute fibers.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The product of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the mixed hammermilled straw, finely divided paper particles and jute fibers are mixed with a tackifier, a flocculent, dye and a surfactant for forming a hydro mulch product.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The hydro mulch product of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein the tackifier, flocculant, and surfactant are also agro chemicals that aid growth.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The product of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the hammermilled straw is selected from the group consisting of straw from grass seed, cereal grains, rice, soybeans, kenaf, and combinations thereof.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The product of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the hammermilled straw is present at about 60 to about 90 percent, the finely divided paper particles are present at about 5 to about 20 percent, and the jute fibers are present at about 2 to about 10 percent, all by weight.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The product of <claim-ref idref="CLM-00008">claim 8</claim-ref>, further comprising about 0.025 to 5 percent tackifier and flocculent sufficient for tacking fiber together and to soil surface and to increase water infiltration and aid in water clarity, and less than 1 percent surfactant for wetting the hammermilled straw, the finely divided paper particles and the jute fibers upon the addition of water.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The product of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the jute fibers are used to tangle the straw fibers and paper particles.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The hydro mulch product of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising water in a ratio of about 100 gallons per 75 pounds of straw, paper fibers, and jute fibers, wherein the product can be applied by hydroseeder tower without clogging.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The hydro mulch product of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the straw is 6-13 mm in length and the jute fibers are 7-15 mm in length.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. A fibrous hydro mulch product comprising:
+<claim-text>hammermilled fine grass straw having separated fibers partially released from the straw, finely divided paper particles mixed with the hammermilled straw, jute fibers mixed with the hammermilled straw and the finely divided paper particles.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The product of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the fine grass straw is blue grass straw.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. A fibrous hydro mulch product comprising:
+<claim-text>hammermilled straw having separated fibers partially released from the straw, finely divided paper particles mixed with the hammermilled straw, jute fibers from burlap scrap mixed with the hammermilled straw and the finely divided paper particles.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. A hydro mulch product made by the method of
+<claim-text>hammermilling straw to provide providing fibrous straw with short straw shafts having fibers partially exposed from and extending from the straw shafts,</claim-text>
+<claim-text>providing paper particles,</claim-text>
+<claim-text>providing jute fibers,</claim-text>
+<claim-text>mixing the fibrous straw, the paper particles and the jute fibers, and</claim-text>
+<claim-text>packaging the compressed mixed fibrous straw, paper particles and jute fibers for transportation to a point of use.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891165-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891165</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12139089</doc-number>
+<date>20080613</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>FR</country>
+<doc-number>07 55736</doc-number>
+<date>20070613</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>35</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>04</class>
+<subclass>D</subclass>
+<main-group>29</main-group>
+<subgroup>02</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 60 395</main-classification>
+<further-classification> 60796</further-classification>
+<further-classification> 60805</further-classification>
+</classification-national>
+<invention-title id="d2e71">Exhaust casing hub comprising stress-distributing ribs</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>5020318</doc-number>
+<kind>A</kind>
+<name>Vdoviak</name>
+<date>19910600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 602261</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>5634767</doc-number>
+<kind>A</kind>
+<name>Dawson</name>
+<date>19970600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>6164903</doc-number>
+<kind>A</kind>
+<name>Kouris</name>
+<date>20001200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>415135</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>6358001</doc-number>
+<kind>B1</kind>
+<name>Bosel et al.</name>
+<date>20020300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>415142</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>6511284</doc-number>
+<kind>B2</kind>
+<name>Darnell et al.</name>
+<date>20030100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>415115</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>6854960</doc-number>
+<kind>B2</kind>
+<name>Van Dine et al.</name>
+<date>20050200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>416191</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>EP</country>
+<doc-number>0 298 898</doc-number>
+<kind>B1</kind>
+<date>19890100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>EP</country>
+<doc-number>0 344 877</doc-number>
+<kind>B1</kind>
+<date>19891200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>GB</country>
+<doc-number>2 226 086</doc-number>
+<kind>A</kind>
+<date>19900600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>13</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 60 395</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 60796</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 60805</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>4151821</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>415220</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>4</number-of-drawing-sheets>
+<number-of-figures>4</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20080307795</doc-number>
+<kind>A1</kind>
+<date>20081218</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Bader</last-name>
+<first-name>Valentine</first-name>
+<address>
+<city>Vaux le Penil</city>
+<country>FR</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>FR</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Marnas</last-name>
+<first-name>Laurent Pierre Elysee Gaston</first-name>
+<address>
+<city>Vaux le Penil</city>
+<country>FR</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>FR</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Pommier</last-name>
+<first-name>Nicolas</first-name>
+<address>
+<city>Brunoy</city>
+<country>FR</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>FR</country>
+</residence>
+</applicant>
+<applicant sequence="004" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Schnell</last-name>
+<first-name>Christian Rene</first-name>
+<address>
+<city>Forges</city>
+<country>FR</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>FR</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Oblon, Spivak, McClelland, Maier &#x26; Neustadt, L.L.P.</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>SNECMA</orgname>
+<role>03</role>
+<address>
+<city>Paris</city>
+<country>FR</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Cuff</last-name>
+<first-name>Michael</first-name>
+<department>3741</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Dwivedi</last-name>
+<first-name>Vikansha S</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">An exhaust casing hub includes a hub center, and an upstream flange and a downstream flange arranged on either side of the hub center. Each flange is terminated by a rim. A plurality of cuffs are arranged on the hub center so as to form an angle from the tangent toward the radial direction of 10&#xb0; to 80&#xb0; , preferably 15&#xb0; to 75&#xb0;. At least one rib is formed at the base of each cuff below a critical stress region in the cuff. The rib is joined to the downstream flange by a downstream end and to the upstream flange by an upstream end.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="116.25mm" wi="153.75mm" file="US07891165-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="159.17mm" wi="142.07mm" file="US07891165-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="160.53mm" wi="119.80mm" orientation="landscape" file="US07891165-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="148.08mm" wi="126.83mm" orientation="landscape" file="US07891165-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="196.85mm" wi="142.41mm" orientation="landscape" file="US07891165-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION AND DESCRIPTION OF THE PRIOR ART</heading>
+<p id="p-0002" num="0001">The invention relates to an equipped hub of an exhaust casing comprising a hub, an upstream flange and a downstream flange arranged on either side of the hub, each flange being terminated by a rim, and a plurality of cuffs arranged on the hub and forming an angle between the tangent and the radial direction.</p>
+<p id="p-0003" num="0002">Aircraft jet engines comprise an exhaust casing situated downstream of the low-pressure turbine. This casing has the function of suspending the engine under the wing, of routing the service tubes and of absorbing the loads in the event of a blade loss.</p>
+<p id="p-0004" num="0003">The exhaust casing is frequently a mechanically welded part made up of a hub comprising substantially radially arranged cuffs and of arms welded to the cuffs. Parts are welded to the ends of the arms to form an outer shroud. Document US 2005/026847 describes an exhaust casing of this type.</p>
+<p id="p-0005" num="0004">However, the currently known casings have a limited life as a result of concentrations of stresses in the cuffs of the hub. These stresses reach 75 hbar such that the life of the exhaust casing is limited to 6000 to 10 000 cycles. To avoid having to change the casings on reaching these life cycles, an inspection plan is put into place. This measure is costly for air companies since it requires them to intervene beneath the wing of the aircraft and to immobilize this aircraft.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0006" num="0005">The subject of the present invention is an exhaust casing hub and an exhaust casing which overcome these disadvantages by making it possible, in particular, to increase the life of the exhaust casings.</p>
+<p id="p-0007" num="0006">These aims are achieved according to the invention by the addition of at least one rib formed at the base of each cuff below the region of critical stresses in the cuff, said rib being joined to the downstream flange at a downstream end and to the upstream flange at an upstream end.</p>
+<p id="p-0008" num="0007">In one variant embodiment, the casing hub comprises a single rib. In another variant embodiment, the hub comprises an upstream rib joined to the upstream flange and a downstream rib joined to the downstream flange.</p>
+<p id="p-0009" num="0008">According to another embodiment, the equipped hub of the invention is such that the length of the cuffs varies so as to be flush with the larger upstream or downstream flange over a length allowing the direct connection of the equipped hub with the shroud without an added arm.</p>
+<p id="p-0010" num="0009">The invention also relates to an exhaust casing comprising an equipped hub comprising a plurality of cuffs forming an angle from the tangent toward the radial direction of 10&#xb0; to 80&#xb0;, preferably 15&#xb0; to 75&#xb0;. The exhaust casing also comprises a shroud surrounding the hub, and arms welded between the shroud and each cuff. The hub is in accordance with the present invention.</p>
+<p id="p-0011" num="0010">Moreover, the invention relates to a turbine which comprises an exhaust casing in accordance with the present invention.</p>
+<p id="p-0012" num="0011">Finally, according to another aspect, the invention relates to a turbomachine which comprises an exhaust casing in accordance with the present invention.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0013" num="0012">Other features and advantages of the present invention will become apparent on reading the description which follows of exemplary embodiments given by way of illustration with reference to the appended figures, in which:</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 1</figref> is a perspective view of an exhaust casing in accordance with the present invention;</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIGS. 2 and 3</figref> are a top view and a side view, respectively, of an exhaust casing hub in accordance with the present invention;</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 4</figref> is a front view of a variant embodiment of the invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DESCRIPTION OF THE PREFERRED EMBODIMENTS</heading>
+<p id="p-0017" num="0016">In <figref idref="DRAWINGS">FIG. 1</figref>, the general reference <b>2</b> designates an exhaust casing in accordance with the present invention. This exhaust casing comprises a hub designated by the reference <b>4</b>. The hub <b>4</b> comprises a hub center <b>6</b> and, on either side of this hub center <b>6</b>, an upstream flange <b>8</b> and a downstream flange <b>10</b> which are terminated by a rim <b>12</b>. Cuffs <b>14</b> are formed on the hub center <b>6</b>. In the exemplary embodiment represented, the number of these cuffs is sixteen. The hub <b>4</b> is a casting. An arm <b>16</b> is welded to the end of each of the cuffs <b>14</b>. There are thus sixteen arms in the exemplary embodiment represented. The circular parts <b>18</b>, equal in number to the number of arms, are welded to the ends of the arms <b>16</b> so as to form a circular shroud which completes the exhaust casing.</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIGS. 2 and 3</figref> show a top view and a side view, respectively, of a rib <b>20</b> formed in the hub of the exhaust casing represented in <figref idref="DRAWINGS">FIG. 1</figref>. The rib <b>20</b> extends from the upstream flange <b>8</b> to the downstream flange <b>10</b>. It is joined to the upstream flange <b>8</b> and to the downstream flange <b>10</b> by fillets <b>22</b>. In the same way, it is joined to the cuffs <b>14</b> by a fillet <b>24</b> at the base of each of the cuffs. Across its height, this rib is placed substantially below the point of maximum stresses <b>26</b>. Calculations have made it possible to show that the stresses are very well distributed with this rib. The maximum stress drops to 26 hbar, which means that a life exceeding 50 000 cycles is conceivable, this being above the upper value currently adopted.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 4</figref> shows a front view of a double rib forming part of an exhaust casing in accordance with the present invention.</p>
+<p id="p-0020" num="0019">The reference <b>30</b> designates an upstream rib joined to the upstream flange <b>8</b> by a joining radius <b>32</b>. The reference <b>34</b> designates a downstream rib joined to the downstream flange <b>10</b> by a joining radius <b>36</b>. Likewise, the upstream rib <b>30</b> joins to the cuff <b>14</b> by a joining radius <b>38</b>, while the downstream rib <b>34</b> joins to the cuff <b>14</b> by a joining radius <b>40</b>. Across their height, the ribs <b>30</b> and <b>34</b> are situated below a region <b>26</b> of critical stresses in the cuff <b>14</b>.</p>
+<p id="p-0021" num="0020">Measurements have made it possible to show that the stresses are also very well distributed with these two ribs. The maximum stress drops to 31.5 hbar, which means that a life exceeding 36 000 cycles is conceivable, this being above the upper value currently adopted.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. An equipped hub of an exhaust casing comprising:
+<claim-text>a hub center;</claim-text>
+<claim-text>an upstream flange disposed on an upstream side of the hub center;</claim-text>
+<claim-text>a downstream flange disposed on a downstream side of the hub center; and</claim-text>
+<claim-text>a plurality of cuffs extending radially from the hub center and arranged circumferentially around the hub center,</claim-text>
+<claim-text>wherein at least one rib is provided at an exterior of a base of each cuff so as to surround the cuff below a maximum stress location in the cuff, said rib being joined to the downstream flange at a downstream end of the rib and to the upstream flange at an upstream end of the rib.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The equipped hub as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising an upstream rib joined to the upstream flange and a downstream rib joined to the downstream flange.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The equipped hub as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein a first end of the cuff directly connects with the upstream flange and the downstream flange, and a second end of the cuff directly connects with a circular part so as to form a circular shroud.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The equipped hub as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein each cuff arranged on the hub center is disposed at an angle of 10&#xb0; to 80&#xb0; between a tangent of the hub center and a radial direction of the hub center.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The equipped hub as claimed in <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the angle of each cuff is 15&#xb0; to 75&#xb0;.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. An exhaust casing comprising:
+<claim-text>an equipped hub comprising a plurality of cuffs and a shroud surrounding the hub;</claim-text>
+<claim-text>arms disposed at an angle of 10&#xb0; to 80&#xb0; between a tangent of the hub and a radial direction of the hub, said arms being welded between the shroud and each cuff,</claim-text>
+<claim-text>wherein the hub is in accordance with <claim-ref idref="CLM-00001">claim 1</claim-ref>.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. A turbine which comprises an exhaust casing as claimed in <claim-ref idref="CLM-00006">claim 6</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. A turbomachine which comprises an exhaust casing as claimed in <claim-ref idref="CLM-00006">claim 6</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The exhaust casing as claimed in <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the angle of the arms is 15&#xb0; to 75&#xb0;.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The equipped hub as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the equipped hub is disposed downstream of a low pressure turbine.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The exhaust casing as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the at least one rib provided at the exterior of the base of each cuff entirely surrounds the cuff.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. An equipped hub of an exhaust casing comprising:
+<claim-text>a hub center;</claim-text>
+<claim-text>an upstream flange disposed on an upstream side of the hub center;</claim-text>
+<claim-text>a downstream flange disposed on a downstream side of the hub center; and</claim-text>
+<claim-text>a plurality of cuffs arranged circumferentially around the hub center,</claim-text>
+<claim-text>wherein at least one rib is provided at an exterior of a base of each cuff below a maximum stress location in the cuff, said rib being joined to the downstream flange at a downstream end of the rib and to the upstream flange at an upstream end of the rib, and</claim-text>
+<claim-text>wherein the rib is joined to the flange via a fillet, and the fillet directly contacts an inner face of the upstream flange.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. An equipped hub of an exhaust casing comprising:
+<claim-text>a hub center;</claim-text>
+<claim-text>an upstream flange disposed on an upstream side of the hub center;</claim-text>
+<claim-text>a downstream flange disposed on a downstream side of the hub center; and</claim-text>
+<claim-text>a plurality of cuffs arranged circumferentially around the hub center,</claim-text>
+<claim-text>wherein at least one rib is provided at an exterior of a base of each cuff below a maximum stress location in the cuff, said rib being joined to the downstream flange at a downstream end of the rib and to the upstream flange at an upstream end of the rib, and</claim-text>
+<claim-text>wherein the rib is joined to the flange via a fillet, and the fillet directly contacts an inner face of the downstream flange. </claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

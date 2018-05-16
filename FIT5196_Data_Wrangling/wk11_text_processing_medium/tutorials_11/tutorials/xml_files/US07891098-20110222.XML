@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891098-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891098</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12101916</doc-number>
+<date>20080411</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>370</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>26</class>
+<subclass>B</subclass>
+<main-group>1</main-group>
+<subgroup>08</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 30162</main-classification>
+<further-classification> 30335</further-classification>
+</classification-national>
+<invention-title id="d2e53">Knife with repeating actuation</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>2552945</doc-number>
+<kind>A</kind>
+<name>Eaton et al.</name>
+<date>19510500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 30162</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>5292329</doc-number>
+<kind>A</kind>
+<name>Werner</name>
+<date>19940300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>606167</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>5426855</doc-number>
+<kind>A</kind>
+<name>Keklak et al.</name>
+<date>19950600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 30162</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>6813833</doc-number>
+<kind>B2</kind>
+<name>Saunders et al.</name>
+<date>20041100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 30162</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>7316070</doc-number>
+<kind>B2</kind>
+<name>Green</name>
+<date>20080100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 30162</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>7322110</doc-number>
+<kind>B2</kind>
+<name>Hernandez et al.</name>
+<date>20080100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 30162</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>2009/0255128</doc-number>
+<kind>A1</kind>
+<name>Parker et al.</name>
+<date>20091000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 30162</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>2009/0277016</doc-number>
+<kind>A1</kind>
+<name>Wu</name>
+<date>20091100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 30162</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>2010/0088900</doc-number>
+<kind>A1</kind>
+<name>Davis et al.</name>
+<date>20100400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 30162</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>13</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 30161</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 30335</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 30162</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>7</number-of-drawing-sheets>
+<number-of-figures>7</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090255128</doc-number>
+<kind>A1</kind>
+<date>20091015</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Parker</last-name>
+<first-name>Harold</first-name>
+<address>
+<city>Elma</city>
+<state>WA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Hernandez</last-name>
+<first-name>Hector</first-name>
+<address>
+<city>Fullerton</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Fulwider Patton LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Alltrade Tools LLC</orgname>
+<role>02</role>
+<address>
+<city>Long Beach</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Payer</last-name>
+<first-name>Hwei-Siu C</first-name>
+<department>3724</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A knife is described that is capable of extending a blade from a front end of the blade, and subsequently retracting the blade into the body of the knife. Actuation of the blade from extended to retracted conditions is accomplished by way of an actuation element located external to the knife. A user may strike the knife backwards onto a work surface to extend the blade and, subsequently, to retract the blade. The same action by the user may be used to achieve the extended and the retracted blade condition.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="107.27mm" wi="214.63mm" file="US07891098-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="214.63mm" wi="106.26mm" orientation="landscape" file="US07891098-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="201.59mm" wi="173.23mm" orientation="landscape" file="US07891098-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="225.55mm" wi="103.63mm" orientation="landscape" file="US07891098-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="182.37mm" wi="164.17mm" orientation="landscape" file="US07891098-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="197.78mm" wi="169.33mm" orientation="landscape" file="US07891098-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="214.29mm" wi="122.68mm" orientation="landscape" file="US07891098-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="216.41mm" wi="105.41mm" orientation="landscape" file="US07891098-20110222-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND</heading>
+<p id="p-0002" num="0001">The present application relates to knives, in particular to a knife that may extend a blade from, and subsequently retract the blade into, the body of the knife.</p>
+<p id="p-0003" num="0002">The use of knives by workmen is widespread, and many knives have been developed to improve upon the safe usage thereof. In particular, many solutions have been developed to the problem of safely storing the blade of a knife once it has been used.</p>
+<p id="p-0004" num="0003">Some knives allow the user to pivotably fold the blade into a compartment in the handle of the knife, so that the cutting edge of the blade is concealed and does not present a danger of accidental injury. A problem with such a folding knife is that it typically takes two hands to operate the blade opening and closing actions, particularly when it comes to opening the blade from a closed position.</p>
+<p id="p-0005" num="0004">Other knives have been developed that allow a blade to slide axially forward from a storage position within the knife to extend from the front end of the knife, and to subsequently axially retract back into the body of the knife when the blade has been used. These knives are typically operated by pressure sensitive elements on the handle of the knife manipulable by a thumb or forefinger. However, such knives typically may also require two different pressure sensitive elements, one for opening and one for closing the blade.</p>
+<p id="p-0006" num="0005">Some knives have been developed in which only one pressure sensitive element is provided for both opening and closing the blade. However, in such knives it is typical for example for a forward motion on the element to open the blade, and a backward motion on the element to close the blade. This has the disadvantage of introducing multiple hand actions for a user to apply. Moreover, such knives rely on complex internal mechanisms to achieve this effect.</p>
+<p id="p-0007" num="0006">Yet, circumstances frequently may require the maximum simplicity, namely a single consistent hand movement for both opening and closing operations because workmen are frequently obliged to work in confined circumstances where complex manual actions are difficult. Thus, there is a need in the art for a knife that is extremely simple to operate, simple and inexpensive to manufacture and assemble, that does not oblige the user to figure out what the appropriate hand movement is for the opening or closing action desired, and that can be operated with a great deal of simplicity. The present invention addresses these and other needs.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0008" num="0007">According to a preferred embodiment of the invention, there is described a knife that addresses some of the problems found in the prior art, providing ease of use by the user, and ease of manufacture leading to cost savings. In a preferred embodiment, the invention is a knife with a retractable blade comprising a housing defining an internal chamber, the housing having a front end from which the blade is extendable, and a rear end opposite the front end. A locking mechanism is provided within the housing chamber. The locking mechanism may include a blade holder for holding the blade, the blade holder being slidable within the housing from a forward position to a backward position, wherein the blade partially extends from the front end of the knife when the blade holder is in the forward position and the blade is withdrawn into the housing chamber when the blade holder is in the backward position. The locking mechanism further may include a biasing element configured to apply a constant bias on the blade holder toward the rear end of the housing. The locking mechanism also may include an actuation element for moving the blade holder backwards and forwards. The actuation element partially extends from the housing, the actuation element being linked to the blade holder. The locking element defines a regulation channel, the regulation channel having two opposing walls and a floor extending from one wall to the other wall, and the regulation channel defines a closed circuit. A snag element is attached to the housing, the snag element being configured to slide within the regulation channel with its movement confined by the two walls. The floor of the channel may include a plurality of steps that are configured to compel the snag element to move around the closed circuit in only one direction by allowing the snag element to move over each step in a downward direction, but not in an upward direction. The regulation channel also defines an open holding pocket and a closed holding pocket, the closed holding pocket being spaced forwardly from the open holding pocket, and each holding pocket being capable of capturing the snag element and preventing the snag element from immediately moving forward in relation to the blade holder (which has the result that the blade holder is prevented from moving immediately backward in relation to the housing) as the snag element slides within the channel, whereby the blade holder is held in equilibrium by the biasing means when the snag elements is located in either one of the open holding pocket or the closed holding pocket.</p>
+<p id="p-0009" num="0008">In a preferred embodiment, the regulation channel has four steps. Further preferred, the regulation channel is defined by the blade holder. Yet further preferred, the actuation element is configured in relation to the housing to slide linearly into the housing whereby forward movement of the actuation element is accompanied by forward movement of the blade holder, and rearward movement of the actuation element is accompanied by rearward movement of the blade holder. Preferably, the snag element is biased toward the floor of the channel.</p>
+<p id="p-0010" num="0009">In another aspect of the invention, a method of causing a knife blade to advance from a retracted position to extend the blade from a forward end of a knife, and subsequently to retract the blade into the knife is described. The method comprises the steps of providing a knife with a blade holder slidable within a housing of the knife, wherein movement of the blade holder to a forward position causes the blade to extend from the knife, and further wherein movement of the blade holder to a backward position causes the blade to withdraw into the housing. Further, providing an actuator element to partially extend from the knife, the actuator element being linked with the blade holder through a pinned linkage. When the user is ready to extend the blade, he depresses the actuator a first time into the housing, thereby advancing the blade from a retracted position to extend the blade from the forward end of the knife. When the user is ready to retract the blade into the knife, he depresses the actuator a second time into the housing, thereby retracting into the housing the extended blade.</p>
+<p id="p-0011" num="0010">Preferably, depressing the actuator may include striking the knife in a direction toward the back end of the knife to strike the actuator element on a working surface. Further preferably, advancing the blade from a retracted position to extend the blade from the forward end of the knife may include locking the blade holder in an equilibrium condition with the blade extending from the forward end of the knife. Locking the blade holder in an equilibrium condition with the blade extending from the forward end of the knife may include biasing the blade holder toward the rear end of the knife, and at the same time preventing the blade holder from moving toward the rear end of the knife with a snag element attached to the housing, which may include positioning the snag element in a channel defined by the blade holder.</p>
+<p id="p-0012" num="0011">Further preferably, retracting into the housing the extended blade may include locking the blade holder in an equilibrium condition with the blade retracted into the housing. In this case, locking the blade holder in an equilibrium condition with the blade retracted into the housing may include biasing the blade holder toward the rear end of the knife, and at the same time preventing the blade holder from moving toward the rear end of the knife with a snag element attached to the housing. Preventing the blade holder from moving toward the rear end of the knife with a snag element attached to the housing may include positioning the snag element in a channel defined by the blade holder.</p>
+<p id="p-0013" num="0012">These and other advantages of the invention will become more apparent from the following detailed description thereof and the accompanying exemplary drawings.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 1</figref> is a perspective view of a knife having features of the present invention.</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 2</figref> is a perspective partially exploded view of some components of the knife of <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 3</figref> is a perspective disassembled view of the knife of <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 4</figref> is a detailed perspective view of internal features of the knife of <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 5</figref> is a view of an aspect of <figref idref="DRAWINGS">FIG. 4</figref>, with additional components having features of the present invention.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 6</figref> is a perspective exploded view of locking components of the present invention.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 7</figref> is a perspective disassembled view of some components of the knife of <figref idref="DRAWINGS">FIG. 1</figref></p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENTS</heading>
+<p id="p-0021" num="0020">With reference to the figures, which are provided by way of exemplification and not limitation, there is disclosed a knife, generally identified by the numeral <b>20</b>, and having features of the present invention. In a preferred embodiment, the knife comprises a housing <b>22</b> which is made up of two opposing halves <b>24</b> and <b>26</b>. The housing defines a chamber <b>23</b> for enclosing the inner mechanisms of the knife. The knife has two ends, a front or forward end <b>28</b> from which a blade <b>25</b> may be extended, and a back end <b>30</b> opposite the forward end. The knife includes a locking mechanism <b>34</b> (<figref idref="DRAWINGS">FIGS. 2</figref>, <b>3</b>, <b>6</b>) configured to permit a user to extend the blade from the forward end <b>28</b>, and to withdraw the blade into the housing chamber <b>23</b> for safety.</p>
+<p id="p-0022" num="0021">The locking mechanism <b>34</b> includes a blade holder <b>36</b> configured to support the blade <b>25</b> in any of a number of known ways. In a preferred embodiment, the blade may be removable from the blade holder <b>36</b> to be replaceable by a new blade, and the blade may have the trapezoidal profile of a standard utility knife blade. The blade holder is configured to slide within the housing between two positions, a first forward (or open) position in which the blade protrudes from the front end <b>28</b> of the housing for using the blade (<figref idref="DRAWINGS">FIG. 1</figref>), and a second backward (or closed) position in which the blade is withdrawn into the housing for holding the blade in safety. (The terms, forward, forwardly, are used herein as in a direction toward the front end <b>28</b> of the knife. The terms backward, backwardly, rearward, are used herein as in a direction toward the rear end <b>30</b> of the knife, unless another frame of reference is provided.) With reference to <figref idref="DRAWINGS">FIG. 3</figref>, the blade holder <b>36</b> may be seen positioned part way between the forward and backward positions. To facilitate the described sliding action, the blade holder <b>36</b> may have an upper planar surface <b>40</b> and a lower planar surface <b>42</b>, both surfaces configured to match with upper and lower opposing surfaces <b>44</b>, <b>46</b> on the housing for supporting the blade holder during sliding.</p>
+<p id="p-0023" num="0022">The backward and forward sliding action of the blade holder is achieved by a user through displacing an external actuator <b>48</b> located, preferably but not necessarily, at the back end <b>30</b> of the knife. In a preferred embodiment, the external actuator extends from the back end <b>30</b> of the knife and may slide between a forward position that causes the blade holder <b>36</b> to advance to its forward position, and a backward position that causes the blade holder <b>36</b> to withdraw to its backward position. To assure directional conformity of movement between the actuator and the blade holder, a linking arm <b>50</b> (that is best seen in <figref idref="DRAWINGS">FIG. 6</figref>) may be provided that has a first end <b>52</b> and a second end <b>54</b>. The arm is slidingly pinned at the first end <b>52</b> to the blade holder <b>36</b>, and is pinned at the second end <b>54</b> to the housing <b>22</b>. A middle portion <b>56</b> of the arm is slidingly pinned to the actuator <b>48</b>, whereby any forward or backward movement of the actuator <b>48</b> must be followed in the same direction by the blade holder <b>36</b>, preferably with a mechanical disadvantage in the region of about 1.1 to 3.5&#x2014;so that any displacement of the actuator <b>48</b> is magnified in the movement of the blade holder <b>36</b> by the stated disadvantage range.</p>
+<p id="p-0024" num="0023">Thus, a full forward displacement of the actuator <b>48</b> by the user will cause the blade <b>25</b> to extend forwardly from the front end <b>28</b> of the knife, and a full backward displacement of the actuator by the user will cause the blade to withdraw into the safety of the knife's chamber <b>23</b>. In order to regulate the sequential back and forth movement of the blade holder <b>36</b>, a regulator channel <b>60</b> is provided in a lateral surface of the locking mechanism <b>34</b>, preferably, in a lateral surface of the blade holder <b>36</b>, although the channel could be provided in a surface of the actuation element <b>48</b>. As seen in <figref idref="DRAWINGS">FIG. 5</figref>, the channel comprises two walls <b>61</b><i>a</i>, <b>61</b><i>b </i>that oppose each other, and a floor <b>63</b> that extends from one wall to the other. Preferably, the channel may be machined into the locking element component, or it may be cast during the formation of the component. The regulator channel <b>60</b> is especially shaped to compel the blade holder to pause in a &#x2033;locked&#x2032; position after each complete backward or complete forward displacement of the actuator <b>48</b>, as explained in more detail below.</p>
+<p id="p-0025" num="0024">A further element for regulating the back and forth movement of the blade holder <b>36</b> is a return spring <b>62</b> (<figref idref="DRAWINGS">FIGS. 2 and 3</figref>) which may be attached at a forward end to a hook <b>64</b> on the blade holder <b>36</b> and at a rearward end to a cross bar <b>66</b> attached to the housing. The length of the return spring <b>62</b> is chosen so as to continuously bias the blade holder <b>36</b> toward the back end <b>30</b> of the knife, no matter where the blade holder is positioned within the housing.</p>
+<p id="p-0026" num="0025">Yet a further element for regulating the back and forth movement of the blade holder is a snag element <b>70</b> (best seen in <figref idref="DRAWINGS">FIGS. 5</figref>, <b>6</b> and <b>7</b>) which is preferably a cylindrically shaped element sized to slide within the regulation channel <b>60</b>. The snag element <b>70</b> is continuously biased toward the floor <b>63</b> of the channel via a spring loaded arm <b>72</b> that is attached to a wall of the housing <b>22</b> (as best seen in <figref idref="DRAWINGS">FIG. 7</figref>). The arm <b>72</b> may be positioned on a hub <b>74</b> that is rotatably connected to one opposing half <b>26</b> of the housing <b>22</b>, giving the arm <b>72</b> the capability of rotating sufficiently on the hub to allow the snag element <b>70</b> to move vertically up and down to some degree, in order to allow the snag element to remain confined between the walls <b>61</b><i>a</i>, <b>61</b><i>b </i>of the channel <b>60</b> as the blade holder <b>36</b>, and hence the channel <b>70</b>, is moved backwards and forwards past the snag element <b>70</b> during operation of the locking element <b>34</b>.</p>
+<p id="p-0027" num="0026">Turning to the preferred shape of the regulation channel, the regulation channel <b>60</b> preferably has the following characteristics to achieve its regulation function. These characteristics are best seen with reference to <figref idref="DRAWINGS">FIGS. 4 and 5</figref>. First, the channel <b>60</b> includes a continuous closed circuit, allowing the snag element <b>70</b> to travel continuously and repeatedly around the length of the circuit under displacement of the actuator <b>48</b> by the user. It will be appreciated that the walls <b>61</b><i>a</i>, <b>61</b><i>b </i>of the channel confine the snag element <b>70</b> between the walls, and compel the snag element to move only within the confines of the channel. This configuration has the result, as described in more detail below, that movement of the blade holder <b>36</b> in the housing <b>22</b> may be prevented due to the mechanical interaction between the snag element and the walls of the channel. Second, the floor <b>63</b> of the channel has a plurality of steps <b>80</b>, <b>82</b>, <b>84</b>, <b>86</b> that are always &#x201c;downward&#x201d; from the perspective of the snag element <b>70</b> moving along the channel <b>60</b>. Indeed, these steps compel the snag element to move only in one direction around the circuit, and prevent the snag element from reversing its direction of motion at critical points along the circuit of the channel. Third, the channel has two &#x201c;holding pockets&#x201d; along its length, namely an open holding pocket <b>88</b> and a closed holding pocket <b>90</b>. Each holding pocket is characterized by a section of the channel that has a wall characterized in that, once the snag element is caught in a holding pocket, the snag element cannot escape while the blade holder is under the force only of the return spring <b>62</b>. Only the intervention of the user can cause the snag element to escape from a holding pocket <b>88</b>, <b>90</b> and continue its motion around the circuit, thereby allowing the blade holder <b>36</b> to move relative to the housing <b>22</b>. Stated another way, once the snag element <b>70</b> is located within either of the holding pockets <b>88</b>, <b>90</b>, the snag element cannot immediately move (relative to the blade holder) toward the front end <b>102</b> of the blade holder <b>36</b>. Rather, it can only immediately move toward the back end <b>104</b>. This has the result that, under the bias of the spring <b>62</b>, and without the intervention of the user, the blade holder <b>36</b> is locked into an equilibrium position in either the forward or the backward position when the snag holder is captured in a holding pocket. Thus, the blade holder cannot immediately move toward the rear end <b>30</b> of the housing when the snag element <b>70</b> is in a holding pocket. In such an equilibrium position, the blade holder <b>36</b> is motionless, pulled backwards by the spring <b>62</b>, but prevented from moving backwards by a holding pocket <b>88</b> or <b>90</b> interacting with the snag element <b>70</b>. Only the intervention of a user can remove the blade holder from an equilibrium position. Thus the snag element <b>70</b> &#x201c;utilizes&#x201d; the holding pockets <b>88</b>, <b>90</b> to hold the blade holder <b>36</b> in equilibrium against the bias of the spring <b>62</b> without movement of the blade holder <b>36</b>, in either the forward or the backward direction, until the user depresses the actuator <b>48</b> to exchange one equilibrium position for another, i.e. the forward equilibrium for the backward equilibrium position, or the backward for the forward.</p>
+<p id="p-0028" num="0027">In use, a preferred operation of the knife <b>20</b> of the present invention is as follows. Assuming the blade holder <b>36</b> starts in the closed or backward position with the blade retracted, the snag element <b>70</b> will be positioned in the closed holding pocket <b>90</b> which is positioned toward the forward end of the channel <b>60</b>. When the blade holder <b>36</b> is in this position, the restoring spring <b>62</b> will be lengthened to some extent, and will thus exert a retraction force on the blade holder to prevent the blade holder <b>36</b> from moving forward under its own weight. Of course, the blade holder is prevented from moving immediately backward by the snag element <b>70</b> positioned in the closed holding pocket <b>90</b>. The user then applies a displacement to the external actuator <b>48</b> to force it toward the front end <b>28</b> of the knife, in which case the arm <b>50</b> will apply a slightly magnified displacement to the blade holder <b>36</b>, forcing the blade holder forward also so that the snag element <b>70</b> is compelled to slide backwardly (i.e., backwardly relative to the blade holder, because the snag element is essentially motionless in the backward and forward direction relative to the housing) down a top lane <b>92</b> of the channel <b>60</b>. When the snag element <b>70</b> reaches a back end <b>96</b> of the top lane, the channel curves downwardly to some extent, and passage of the snag element between the walls <b>61</b><i>a </i>and <b>61</b><i>b </i>of the channel <b>60</b> tips the snag element over the first downward step <b>80</b>. It will be appreciated that because the snag element is biased toward the floor <b>63</b> of the channel, the snag element cannot travel in the reverse direction (relative to the blade holder <b>36</b>) back over the first step <b>80</b>. Thus, the user, feeling that he can forwardly displace the actuator <b>48</b> no further, removes any manual load from the actuator. The retraction spring <b>62</b> then pulls the blade holder <b>36</b> backwards a small amount to force the snag element forwardly (relative to the blade holder <b>36</b>) in the channel <b>60</b>, until the snag element is caught in the open holding pocket <b>88</b> from where it cannot escape absent intervention by the user because of the curvature of the channel wall at the point of the holding pocket <b>88</b>. In moving forward around the channel circuit by the described small amount, the snag element will have also fallen over a second downward step <b>82</b> that prevents the snag element from reversing its travel along the direction it had come. When the snag element <b>70</b> is positioned within the open holding pocket <b>88</b>, the blade holder is in an open or forward equilibrium position, as has been described. Accordingly, when the user decides to restore the blade holder to its closed position, he applies a forward force once again upon the actuator <b>48</b> in the same way as before. This force will cause the snag element <b>70</b> to move backward (relative to the blade holder <b>36</b>) a short distance and fall over a third downward step <b>84</b>, until the snag element can move backward no more (relative to the blade holder) because it is prevented by a backstop corner <b>98</b>, whereupon the user, sensing resistance to further forward movement of the actuator <b>48</b>, removes manual force from the actuator. Upon such removal, the retraction spring <b>62</b> pulls the blade holder <b>36</b> backwards, causing the snag element <b>70</b> to travel forwards (relative to the blade holder) up a bottom lane <b>94</b> of the channel until the snag element reaches the fourth downward step <b>86</b>, at which point the snag element falls into the top lane <b>92</b> of the channel, and then moves (relative to the blade holder <b>36</b>) further forwardly along the top lane <b>92</b> to the end where it is arrested by the closed holding pocket <b>90</b>. It will be appreciated that at this point, the blade holder <b>36</b> is in equilibrium in its closed or backward equilibrium position once again; it cannot move forwardly in the housing because it is restrained by the retraction spring <b>62</b>, and it cannot move further backwards because it is prevented by the snag element <b>70</b>, which is operatively fixed to the housing and captured in the closed holding pocket <b>90</b>. Under these conditions, in addition to being restrained by the retraction spring against forward movement, the blade holder <b>36</b> can additionally, if desired, be mechanically blocked from further forward movement by an structural element that may be fixed to the housing.</p>
+<p id="p-0029" num="0028">Thus, the snag element <b>70</b> has, relatively speaking, made a full cycle around the channel <b>60</b>. At the same time, the blade holder <b>36</b> has started at the closed equilibrium position, passed to the open equilibrium position, and ended at the closed equilibrium position. When in this closed position, the user may decide to advance the blade to the open position, as before, by depressing the actuator <b>48</b> in a forwardly direction into the housing <b>22</b>. It will be appreciated that, when the user displaces the actuator <b>48</b> forwardly once more from this closed position (in which the snag element <b>70</b> is in the closed holding pocket <b>90</b>), the snag element travels backward (relative to the blade holder) down the upper lane <b>92</b> of the channel, and will not be able to enter the bottom lane <b>94</b> at the fourth step <b>86</b> because it is an upward step, and the snag element is biased toward the floor <b>63</b> of the channel. Thus, repeated displacement of the actuator forwardly will repeatedly exchange the equilibrium position of the blade holder <b>36</b> between the open and the closed equilibrium positions.</p>
+<p id="p-0030" num="0029">Thus, it has been described how the blade holder <b>36</b> moves from its closed equilibrium position, to its open equilibrium position, and back to its closed position again, during which movement the snag element <b>70</b> makes a complete circuit (relative to the blade holder) around the regulation channel <b>60</b> and is prevented by a plurality of downward steps <b>80</b>, <b>82</b>, <b>84</b>, <b>86</b> from reversing the direction of travel along the channel at the location of those steps. It will be appreciated that a similar result could be achieved with a different number of steps, but in the preferred embodiment, four steps advantageously suit the configuration of the channel described.</p>
+<p id="p-0031" num="0030">Accordingly, it is seen from the above description that the user action required to move the blade holder from its backward to its forward equilibrium position is the same as the user action required to move the blade holder from its forward to its backward equilibrium position. In a preferred method of use, in each case the user may move the knife rearwardly to strike a fixed work surface (not shown) with the external actuator <b>48</b>, thus forcing the external actuator forwardly into the housing <b>22</b> of the knife. The user then removes the knife from contact with the fixed surface to allow the retraction spring <b>62</b> to move the blade holder into a position where further movement of the blade holder is prevented by the snag element <b>70</b> engaged in either the open holding pocket <b>88</b> or the closed holding pocket <b>90</b> of the channel <b>60</b> on the blade holder <b>36</b>. In an alternative preferred method of use, the user may grasp the knife with the hand and place the thumb, or other finger, on the actuator <b>48</b>. By repeatedly depressing the finger to depress the actuator <b>48</b> into the housing, the user may exchange the open for the closed equilibrium position, and vice versa. This has the advantage of allowing the user to open and close the knife blade with a minimum of hand movement in which each hand movement is the same for both opening and closing. This is highly desirable when the user is working in a confined space and does not have both hands free.</p>
+<p id="p-0032" num="0031">Thus, it is seen that the knife of the present invention provides novel and useful features, and overcomes shortcomings in the prior art. The present invention may, of course, be carried out in other specific ways than those herein set forth without departing from the essential characteristics of the invention. The present embodiments are, therefore, to be considered in all respects as illustrative and not restrictive, and all changes coming within the meaning and equivalency range of the appended claims are intended to be embraced therein.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>We claim:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A knife with a retractable blade, the knife having a housing defining an internal chamber, and having a front end from which the blade is extendable and a rear end opposite the front end, and a locking mechanism movable within the chamber, the locking mechanism comprising:
+<claim-text>a blade holder for holding the blade, the blade holder being slidable within the housing from a forward position in which the blade partially extends from the front end of the knife, to a backward position in which the blade is withdrawn into the chamber;
+<claim-text>a biasing element configured to bias the blade holder toward the rear end of the knife;</claim-text>
+</claim-text>
+<claim-text>an actuation element for moving the blade holder backwards and forwards, the actuation element partially extending from the housing for manual control, the actuation element being operatively linked to the blade holder;</claim-text>
+<claim-text>a regulation channel having two opposing walls, and a floor extending from one wall to the other wall, the regulation channel defining a closed circuit;</claim-text>
+<claim-text>a snag element operatively attached to the housing, the snag element being configured to slide within the regulation channel as the locking mechanism moves within the housing;</claim-text>
+<claim-text>wherein, the floor of the channel includes a plurality of steps that are configured to compel the snag element to move around the closed circuit in only one direction by allowing the snag element to move over each step in a downward direction, but preventing it from moving in an upward direction;</claim-text>
+<claim-text>and further wherein, the regulation channel walls define an open holding pocket and a closed holding pocket, the closed holding pocket being spaced forwardly from the open holding pocket, and each holding pocket being configured such that, when the snag element is located in a holding pocket, the snag element cannot move immediately forward in relation to the locking mechanism as the snag element slides within the channel, whereby the locking mechanism is held in equilibrium by the biasing element.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The knife of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the regulation channel has four steps in number.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The knife of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the regulation channel is defined by the blade holder.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The knife of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the actuation element is configured in relation to the housing to slide linearly into the housing.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The knife of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the actuation element is configured in relation to the housing to slide into the rear end of the housing.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The knife of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the actuation element is linked to the blade holder so that forward movement of the actuation element causes forward movement of the blade holder, and rearward movement of the actuation element causes rearward movement of the blade holder.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The knife of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the snag element is biased toward the floor of the channel.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The knife of <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the snag element is positioned on an elongate arm and perpendicular to the arm, the arm being rotatably attached to the housing.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The knife of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the snag element includes a cylindrical portion.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The knife of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the actuation element is operatively linked to the blade holder through a linking element, the linking element being pinned to the housing.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The knife of <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the linking element is slidably pinned to the blade holder.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The knife of <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the linking element is slidably pinned to the actuation element.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The knife of <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein movement of the actuation element causes movement of the blade holder with a mechanical disadvantage, whereby movement of the blade holder is greater than movement of the actuation element. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

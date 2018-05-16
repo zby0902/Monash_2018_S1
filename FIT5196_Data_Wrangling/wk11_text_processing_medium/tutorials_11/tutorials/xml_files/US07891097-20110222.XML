@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891097-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891097</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11959271</doc-number>
+<date>20071218</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>486</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>26</class>
+<subclass>B</subclass>
+<main-group>27</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 30 903</main-classification>
+<further-classification> 30 904</further-classification>
+</classification-national>
+<invention-title id="d2e53">Armored cable cutter</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>2819520</doc-number>
+<kind>A</kind>
+<name>Eyles</name>
+<date>19580100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 30 908</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>3091031</doc-number>
+<kind>A</kind>
+<name>Grant</name>
+<date>19630500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3108373</doc-number>
+<kind>A</kind>
+<name>Ruskin</name>
+<date>19631000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 30 903</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>3114277</doc-number>
+<kind>A</kind>
+<name>Clendenin</name>
+<date>19631200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 30 901</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>3851387</doc-number>
+<kind>A</kind>
+<name>Ducret</name>
+<date>19741200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>4055097</doc-number>
+<kind>A</kind>
+<name>Ducret</name>
+<date>19771000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>4103578</doc-number>
+<kind>A</kind>
+<name>Ducret</name>
+<date>19780800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>4142290</doc-number>
+<kind>A</kind>
+<name>Ducret</name>
+<date>19790300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>4169400</doc-number>
+<kind>A</kind>
+<name>Ducret</name>
+<date>19791000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>4267636</doc-number>
+<kind>A</kind>
+<name>Ducret</name>
+<date>19810500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>4359819</doc-number>
+<kind>A</kind>
+<name>Ducret</name>
+<date>19821100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>4697343</doc-number>
+<kind>A</kind>
+<name>Collins</name>
+<date>19871000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>4769909</doc-number>
+<kind>A</kind>
+<name>Ducret</name>
+<date>19880900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>4884339</doc-number>
+<kind>A</kind>
+<name>Custin</name>
+<date>19891200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>4977671</doc-number>
+<kind>A</kind>
+<name>Ducret</name>
+<date>19901200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>5093992</doc-number>
+<kind>A</kind>
+<name>Temple, Jr. et al.</name>
+<date>19920300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>5337479</doc-number>
+<kind>A</kind>
+<name>Ducret</name>
+<date>19940800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>5809652</doc-number>
+<kind>A</kind>
+<name>Ducret</name>
+<date>19980900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>6581291</doc-number>
+<kind>B1</kind>
+<name>Tarpill et al.</name>
+<date>20030600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 30 904</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>2008/0301950</doc-number>
+<kind>A1</kind>
+<name>Harger</name>
+<date>20081200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>11</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 30 903</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 30 908</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 30 902</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 30 904- 911</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>5</number-of-drawing-sheets>
+<number-of-figures>16</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090151166</doc-number>
+<kind>A1</kind>
+<date>20090618</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Hartranft</last-name>
+<first-name>Bruce W.</first-name>
+<address>
+<city>St. Charles</city>
+<state>IL</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Cook Alex Ltd.</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>IDEAL Industries, Inc.</orgname>
+<role>02</role>
+<address>
+<city>Sycamore</city>
+<state>IL</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Peterson</last-name>
+<first-name>Kenneth E.</first-name>
+<department>3724</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Michalski</last-name>
+<first-name>Sean</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A cutting tool for cutting the armor includes a cutter body having first and bottom entry walls defining a channel for receiving an armored cable. There is a slot in the first wall that affords reciprocating entry into the channel of a movable cutting blade from the outside of the wall. The direction of translation into the channel defines a blade insertion direction. The slot defines a slot segment of the first wall which in turn defines a base line. A stopper is mounted on the cutter body opposite the slot on the inside of the first wall. The stopper moves toward and away from the first wall to engage an armored cable placed in the channel and releasably press the armored cable against the slot segment of the first wall. The distance in the blade insertion direction of the bottom entry wall from the base line increases as the longitudinal distance from the slot segment increases to impart a curved configuration to the channel.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="141.99mm" wi="208.87mm" file="US07891097-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="207.69mm" wi="149.01mm" orientation="landscape" file="US07891097-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="222.93mm" wi="165.86mm" orientation="landscape" file="US07891097-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="226.40mm" wi="147.49mm" orientation="landscape" file="US07891097-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="235.97mm" wi="166.79mm" orientation="landscape" file="US07891097-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="202.61mm" wi="141.73mm" orientation="landscape" file="US07891097-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0002" num="0001">The present invention relates to a hand tool for cutting armored cables such as BX, AC, or MC cables. In particular, the invention relates to an improvement in positioning the cable to have its metal casing cut longitudinally by a blade without damage to internal wires or conductors.</p>
+<p id="p-0003" num="0002">Armored cable has a flexible aluminum or steel casing or jacket which protects a plurality of wires or conductors. The steel casing enables the cable to be resistant to damage. Typically, a tubular casing or outer jacket is created by helically winding a strip of aluminum or steel in an interlocking fashion. This method of construction creates grooves in the cable's casing that permit the cable to flex.</p>
+<p id="p-0004" num="0003">Prior art armored cable cutters are shown, for example, in U.S. Pat. No. 3,851,387. The device of the '387 patent has been successful in replacing old cutting methods that rely on general purpose tools such as hacksaws or pliers for crimp cutting or twisting and breaking the armor casing of the cable. The armor on the cables is difficult to cut without slipping and injuring the user if ordinary tools are used. The specialized tool of the U.S. Pat. No. 3,851,387 largely protects the worker from injury. But the cutter blade regularly nicks the insulation of the wires or conductors within the metal casing because the cable is disposed in the tool in a straight or flat orientation.</p>
+<p id="p-0005" num="0004">Any nick or damage to the insulation or conductor can lead to open circuits or shorts. Not only can this damage prevent electrical circuits from operating but it can also be dangerous and lead to an electrical fire. It is therefore important to ensure that when cutting, only the casing is sliced and not the insulation of the internal wires.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0006" num="0005">The present invention provides an armored cable cutting tool with an improved curved cable guide channel that allows the cable's armored casing to be cut without touching the internal wires or conductors. The internal wires that run through armored cables typically do not fill the entire space inside the armor casing. Therefore, there is empty space between the armor casing and the internal wires. This extra space allows the wires to move about inside the armor casing. When a cable like the one described is curved, the internal wires migrate to the inside curve of the armored cable. The cutting blade of the tool of the present invention is arranged to penetrate the armor casing on the outside curve of the cable, at a point remote from the migrated internal wires.</p>
+<p id="p-0007" num="0006">The cutter includes a cutter body having a first wall, top and bottom entry walls and a side wall. The walls define a channel for receiving an armored cable therein. There is a slot in the first wall. The slot defines two segments of the first wall, a slot segment and an exit segment. The bottom entry wall is located longitudinally on one side of the slot segment. The exit segment is located longitudinally to the other side of the slot segment. The slot segment of the first wall defines a base line generally parallel or tangent to its center. The bottom entry wall is generally congruent with the top entry wall.</p>
+<p id="p-0008" num="0007">There is a blade handle pivotally connected to the cutter body. A cutting blade is mounted on the blade handle. A crank handle is rotatably mounted on the blade handle and the cutting blade is connected to the crank handle for rotation therewith. Pivoting of the blade handle causes the cutting blade to translate into and out of the channel, through the slot. The direction of translation into the channel defines a blade insertion direction. The distance in the blade insertion direction of the bottom entry wall from the base line increases as the longitudinal distance from the slot segment increases. In a preferred embodiment this results in the channel being curved. By curving an armored cable placed in the channel and making a cut on the armor casing at a point on the outside of the curve, the wires inside the cable casing are biased away from the blade which cuts the casing. This minimizes the likelihood of the blade contacting and nicking the insulation on the wires.</p>
+<p id="p-0009" num="0008">These and other desired benefits of the invention, including combinations of features thereof, will become apparent from the following description. It will be understood, however, that a device could still appropriate the claimed invention without accomplishing each and every one of these desired benefits, including those gleaned from the following description. The appended claims, not these desired benefits, define the subject matter of the invention.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIG. 1</figref> is a perspective view of an armored cable cutter according to the present invention.</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. 2</figref> is an exploded perspective view of the armored cable cutter of the present invention.</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. 3</figref> is a front elevation view of the cutter body.</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 4</figref> is a bottom plan view of the cutter body.</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 5</figref> is a rear elevation view of the cutter body</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 6</figref> is an end elevation view of the cutter body.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 7</figref> is a section taken along line <b>7</b>-<b>7</b> of <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 8</figref> is a section taken along line <b>8</b>-<b>8</b> of <figref idref="DRAWINGS">FIG. 4</figref>.</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 9</figref> is a front elevation view of the blade handle.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 10</figref> is a bottom plan view of the blade handle.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 11</figref> is a section taken along line <b>11</b>-<b>11</b> of <figref idref="DRAWINGS">FIG. 10</figref>.</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 12</figref> is a section taken along line <b>12</b>-<b>12</b> of <figref idref="DRAWINGS">FIG. 10</figref>.</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 13</figref> is an end elevation view of the blade handle.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 14</figref> is a sketch of the cutter body illustrating the geometry of the walls.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 15</figref> is a perspective view of an armored cable cutter according to an alternate embodiment.</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 16</figref> is a sketch of the cutter body of the alternate embodiment, illustrating the geometry of the walls.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIGS. 1 and 2</figref> generally illustrate a preferred embodiment of the armored cable cutter <b>10</b> of the present invention. The cable cutter includes three primary components, a cutter body <b>12</b>, a blade handle <b>14</b> and a crank handle <b>16</b>. The left hand ends of the cutter body and blade handle, as viewed in <figref idref="DRAWINGS">FIG. 1</figref>, are pivotally connected to one another by a pivot pin <b>18</b>. The pivot pin allows a user to grasp the cutter body and blade handle in one hand and either close these parts together by a squeezing action or open them by releasing the body and handle. A coil spring <b>20</b> is disposed between the cutter body <b>12</b> and blade handle <b>14</b> to bias them apart, i.e., to an open position. A spring pin <b>22</b> extends through the blade handle and engages a shackle <b>24</b> formed on the cutter body to limit the extent to which the coil spring <b>20</b> can separate the cutter body and blade handle. An adjuster <b>26</b> (<figref idref="DRAWINGS">FIG. 2</figref>) is threaded into an opening in the blade handle <b>14</b>. The adjuster extends into the blade handle where its end is engageable with the underside of the cutter body <b>12</b> to limit the extent to which the cutter body and blade handle can be closed on one another.</p>
+<p id="p-0027" num="0026">The right hand end of the cutter body includes an enlarged head portion <b>28</b>. The head defines a generally hollow cavity. Access to the cavity is provided by a cover plate <b>30</b>. The cover is held in place by screws <b>32</b>. The bottom side of the head <b>28</b> has a slot which receives an adjustment knob <b>34</b>. The knob has a shaft which includes a threaded upper portion and a ball <b>35</b> just above a knurled gripping surface. The ball is mounted for rotation in the head as will be described below. A stopper <b>36</b> is threaded to the shaft of the adjustment knob for vertical movement along the shaft. A leaf spring <b>38</b> biases the stopper to the rear of the head cavity. The stopper is movable to releasably restrain a cable during cutting, as will be explained in further detail below.</p>
+<p id="p-0028" num="0027">The right hand end of the blade handle <b>14</b> has a head portion <b>40</b> which defines a generally hollow cavity. Mounted for rotation in the cavity is a cutting blade. In this embodiment the cutting blade is in the form of a wheel saw <b>42</b>. The wheel saw is fastened to the end of a saw shaft <b>44</b> by a saw mounting screw <b>46</b> and washer <b>47</b>. The saw shaft <b>44</b> is mounted for rotation in a bearing sleeve <b>48</b> which is fixed to the head portion <b>40</b>. The outer end of the shaft <b>44</b> has a pair of flats <b>50</b> that are received within an oval opening <b>52</b> near the end of the crank handle <b>16</b>. Screw <b>54</b> fixes the crank handle <b>16</b> to the saw shaft <b>44</b>. The opposite end of the crank handle mounts a knob <b>56</b> for rotation on a knob shaft <b>58</b>. Screw <b>60</b> fixes the knob shaft to the handle <b>16</b> while screw <b>62</b> and the associated washer permit rotation of the knob <b>56</b> on the shaft <b>58</b>.</p>
+<p id="p-0029" num="0028">Details of the cutter body <b>12</b> are shown in <figref idref="DRAWINGS">FIGS. 3-8</figref>. The head <b>28</b> has a boss with a circular depression <b>59</b> formed in the end thereof. A complementary boss and depression (not shown) are formed on the interior of the cover plate <b>30</b>. Together these bosses loosely entrap the ball <b>35</b> of the adjustment knob <b>34</b>. Cooperating pegs (not shown) on the interior of the cover plate <b>30</b> and sockets <b>63</b> on the head <b>28</b> control the spacing so that the ball <b>35</b> is rotatably mounted.</p>
+<p id="p-0030" num="0029">Extending from the head <b>28</b> is an arcuate elongated member defined by a top entry wall <b>64</b>, a bottom entry wall <b>66</b>, a first wall <b>65</b> and a side wall <b>68</b>. The bottom wall <b>66</b> has a gap at <b>69</b> in the head portion <b>28</b>. Together the walls define a three-sided, curved channel <b>70</b>. The channel has a generally U-shaped cross section, as seen in <figref idref="DRAWINGS">FIGS. 6-8</figref>. The channel <b>70</b> receives an armored cable therein for cutting a portion of its outer casing. In this embodiment the top entry wall <b>64</b>, the first wall <b>65</b>, and the bottom entry wall <b>66</b> are curved or arcuate. It has been found that a radius for the entry walls of about 23 to 24 inches is sufficient to provide the benefits of the present tool. The radius could be otherwise. An acceptable range for the radius of curvature is about 2 to 40 inches. Both entry walls and the first wall are curved in the same direction. That is, the centers of the arcs defined by the walls are on the same side of the tool. This arrangement allows the channel <b>70</b> to secure a cable received therein in the required arcuate condition without the need for the user to hold the cable in a particular configuration.</p>
+<p id="p-0031" num="0030">The first wall <b>65</b> includes a slot <b>72</b> cut therethrough. It is located opposite the cutting blade <b>42</b>. Thus, when a user squeezes the cutter body <b>12</b> and blade handle <b>14</b> together, the edge of the saw wheel will extend through the slot <b>72</b> and penetrate in a blade insertion direction into the channel <b>70</b> where it can engage and cut an armored cable disposed in the channel. Looking at <figref idref="DRAWINGS">FIG. 14</figref>, it will be noted that the slot <b>72</b> defines two separate segments in the first wall <b>65</b>. There is a slot segment <b>74</b> and an exit segment <b>78</b> longitudinally to one (or right) side of the slot segment <b>74</b>. The top entry wall is also indicated at <b>76</b> to the other side (the left side as seen in <figref idref="DRAWINGS">FIG. 14</figref>) of the slot segment <b>74</b>. The slot segment <b>74</b> defines a base line <b>80</b>. In the illustrated embodiment, which has an arcuate slot segment <b>74</b>, the base line <b>80</b> is tangent to the center point of the slot segment. The blade insertion direction is generally perpendicular to the base line. The distance in the blade insertion direction of the bottom entry wall <b>66</b> from the base line increases as the longitudinal distance of the bottom entry wall from the slot segment <b>74</b> increases. In the illustrated arrangement, the top entry wall <b>64</b> is also spaced downwardly or below the base line <b>80</b>. This indicated in <figref idref="DRAWINGS">FIG. 14</figref> by spacing X. The exit segment <b>78</b> is similarly spaced below the base line <b>80</b>, although due to the short length of the exit segment, this spacing is less visible in the figure.</p>
+<p id="p-0032" num="0031">Returning to <figref idref="DRAWINGS">FIGS. 3-8</figref>, extending from the top entry wall <b>64</b> are the shackle <b>24</b> and a pivot ear <b>82</b>. The ear receives the pivot pin <b>18</b>. It will be noted in <figref idref="DRAWINGS">FIG. 3</figref> that the shackle <b>24</b> has an elongated oval slot therethrough. This slot receives the spring pin <b>22</b> and limits the amount of pivoting movement between the cutter body <b>12</b> and blade handle <b>14</b>.</p>
+<p id="p-0033" num="0032">Turning now to <figref idref="DRAWINGS">FIGS. 9-13</figref>, details of the blade handle <b>14</b> are shown. Like the cutter body <b>12</b>, the blade handle <b>14</b> has a head <b>40</b> connected to an elongated member. The elongated member is three-sided like that of the cutter body, but instead of having an open side, the blade handle is open toward the cutter body <b>12</b>. Thus, there are first and second side walls <b>84</b>, <b>86</b> and a bottom wall <b>88</b>. Together these walls define a generally U-shaped, hollow elongated member. The side walls have apertures <b>90</b> for receiving the pivot pin <b>18</b> and the spring pin <b>22</b>. The bottom wall <b>88</b> has a boss <b>92</b> formed on the interior thereof. The boss fixes the location of the coil spring <b>20</b>. The internal bore of the boss is threaded to receive the adjuster <b>26</b>. A gusset <b>94</b> and ribs <b>96</b> are provided to strengthen the blade handle. The head portion <b>40</b> has a full side wall <b>98</b> that merges with side wall <b>84</b> and supports the bearing sleeve <b>48</b>. The head portion also has a partial side wall <b>100</b> that merges with side wall <b>86</b> and has a U-shaped cutout <b>102</b>. Walls <b>98</b> and <b>100</b> are joined by a transverse web <b>104</b>. It will be understood that the locations of the full side wall and partial side wall could be reversed so that the bearing sleeve <b>48</b> could be located on the opposite side of the head portion <b>40</b> from that shown. Such an arrangement would reverse the location of the crank handle <b>16</b>.</p>
+<p id="p-0034" num="0033">The use, operation and function of the cable cutter <b>10</b> are as follows. With the cutter body <b>12</b> and blade handle in the open position, the cutting blade <b>42</b> is retracted from the slot <b>72</b> and from the channel <b>70</b>. The adjustment knob <b>34</b> is backed off to pull the stopper <b>36</b> largely out of the channel <b>70</b>. An armored cable to be cut is placed in the channel <b>70</b>, with the desired location of the cut opposite the center of the slot <b>72</b>. Then the user advances the adjustment knob <b>34</b> so the stopper <b>36</b> grips the cable and holds it in place against the slot segment <b>74</b> of the first wall <b>65</b>. It will be noted that the curved channel <b>70</b> will place the cutting blade <b>42</b> on the outer diameter of the curved cable. Curving the cable in this manner will cause the internal conductors or wires inside the cable's armored casing to migrate toward the inner diameter of the arc, i.e., toward the bottom entry wall <b>66</b> of the tool. This migration takes the internal wires out of the path of the wheel saw, which will penetrate the casing from the side of the first wall <b>65</b>.</p>
+<p id="p-0035" num="0034">With the armored cable secured in the desired arcuate configuration in the channel <b>70</b>, the user holds the tool in one hand and squeezes the cutter body <b>12</b> and blade handle <b>14</b> together. As this squeezing motion takes place, the user begins to rotate the crank handle <b>16</b> with the other hand. The combination of the squeezing and rotation of the crank handle feeds the cutting blade into the armored cable's outer casing. Rotation of the cutting blade causes it to cut through the casing. Due to the spiral nature of the armored cable's outer casing, once a band of the casing has been cut through, the casing is separated into two pieces, a slug and a main portion. When this happens the user stops rotating and squeezing. The coil spring <b>20</b> will open the tool which backs the saw wheel out of the slot <b>72</b>. The user may then back off the adjustment knob <b>34</b> to withdraw the stopper <b>36</b> and release the cable. The slug portion of the casing is pulled off and the armored cable is ready for preparation of the internal wires or conductors for the next step in the installation. Since curved channel <b>70</b> caused the internal wires or conductors to move out of the saw wheel's path during cutting of the casing, the internal wires will not be nicked or cut during removal of the casing slug.</p>
+<p id="p-0036" num="0035">It will be noted that both entry walls <b>64</b> and <b>66</b> of the channel are curved in the same direction in order to support that cable in a curved arrangement throughout the entire channel. In this embodiment the top and bottom entry walls are congruent. That is, they have the same radius but their centers are spaced apart. This arrangement ensures that the wires or conductors inside the cable remained biased away from the cutting blade <b>42</b>. If the cable were not supported by the channel in the curved arrangement, the cable could sag causing the internal wires to migrate closer to the blade saw <b>42</b> and ultimately be nicked or damaged.</p>
+<p id="p-0037" num="0036">An alternate embodiment of the cable cutter is shown at <b>10</b>A in <figref idref="DRAWINGS">FIGS. 15 and 16</figref>. The structure of cutter <b>10</b>A is the same as cutter <b>10</b>. Thus, the description of the parts will not be repeated and common parts are given common reference numerals. What is different in <figref idref="DRAWINGS">FIG. 15</figref> is the orientation of the tool. It is rotated 180&#xb0; about a transverse axis compared to <figref idref="DRAWINGS">FIG. 1</figref>. Accordingly, the top entry wall <b>64</b>A and the bottom entry wall <b>66</b>A are reversed from their positions in the <figref idref="DRAWINGS">FIG. 1</figref> orientation. Also, the first wall <b>65</b> is on the bottom of the channel rather than on the top. The first wall <b>65</b> still includes a slot segment <b>74</b> adjacent an exit segment <b>78</b>. The slot segment defines a base line <b>80</b> which is tangent to the slot segment. The bottom entry wall <b>66</b>A is spaced distance X above the base line. This distance increases as the bottom entry <b>66</b>A moves away from the slot segment <b>74</b>. In other words, the distance in the blade insertion direction of the bottom entry wall <b>66</b>A from the base line <b>80</b> increases as the longitudinal distance from the slot segment <b>74</b> increases.</p>
+<p id="p-0038" num="0037">It will be understood that the embodiments of the present invention which have been described are illustrative of some of the applications of the principles of the present invention. Numerous modifications may be made by those skilled in the art without departing from the true spirit and scope of the invention, including those combinations of features that are individually disclosed or claimed herein. For example, while the channel <b>70</b> is shown as a smooth, continuous curve, the channel could alternately be formed from a plurality of straight segments that are angled to one another. The desired result is that the armored cable in the channel obtains a curved configuration. Thus, it is the cable that must obtain a curved configuration in the area of the cutting blade, not necessarily the channel itself. As few as two such relatively angled channel segments could produce the necessary internal wire migration if the vertex of the angle is close to the slot segment of the first wall. In the case of a straight slot segment, the base line would be parallel to the slot segment, rather than tangent thereto as in the illustrated embodiment. If a straight entry segment were used, it would be arranged at an angle to the slot segment.</p>
+<p id="p-0039" num="0038">It will be evident to those skilled in the art that the separation of the top and bottom entry walls <b>64</b>, <b>66</b> and the first wall <b>65</b> in the cutter body, i.e., the width of the channel <b>70</b>, has to be large enough to accommodate a range of cable diameters. Thus, smaller diameter cables will not be held snugly in the channel; there will be some play or looseness of the cable in the channel prior to tightening of the stopper <b>36</b>. The bottom entry walls are configured to force the stopper-restrained armored casing into the desired curved configuration that causes migration of the internal wires. The top entry wall <b>64</b> or <b>64</b>A may or may not contact the stopper-restrained armored casing but the top entry wall is configured to permit the restrained armored casing to obtain the necessary curved configuration imposed by the bottom entry wall <b>66</b> or <b>66</b>A. Another alternate construction of the tool may delete the top entry wall altogether and just use the bottom entry wall and the first wall to constrain the cable to the desired configuration.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>I claim:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A cutter for cutting the armor casing of an armored cable, comprising:
+<claim-text>a cutter body having a first wall and top and bottom entry walls, the walls defining a channel for receiving an armored cable, the first wall having a longitudinal slot therein, the slot defining in the first wall a slot segment which defines a longitudinal base line;</claim-text>
+<claim-text>a blade handle connected to the cutter body;</claim-text>
+<claim-text>a cutting blade mounted on the blade handle on a side of the slot segment which faces away from the channel for translation into and out of the channel through the slot, the direction of translation into the channel defining a blade insertion direction; and</claim-text>
+<claim-text>wherein the entry walls are congruent such that the distance in the blade insertion direction between each entry wall and the base line increases as the longitudinal distance from the slot segment increases.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The cutter of <claim-ref idref="CLM-00001">claim 1</claim-ref> further comprising a stopper mounted on the cutter body for translation toward and away from the first wall such that the stopper is engageable with an armored cable placed in the channel to releasably press the armored cable against the slot segment of the first wall.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The cutter of <claim-ref idref="CLM-00002">claim 2</claim-ref> wherein one of the entry walls defines a gap through which the stopper extends.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The cutter of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the first wall further comprises an exit segment located longitudinally on one side of the slot segment and wherein the exit segment of the first wall is spaced from the base line in the blade insertion direction.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The cutter of <claim-ref idref="CLM-00004">claim 4</claim-ref> wherein the entry walls are longer than the exit segment.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The cutter of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the entry walls define a continuous arc.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The cutter of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the cutter body further comprises a side wall joining the first and entry walls, the first, entry and side walls defining the channel.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The cutter of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the blade handle is pivotally connected to the cutter body, the cutting blade being mounted on the blade handle.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The cutter of <claim-ref idref="CLM-00008">claim 8</claim-ref> further comprising a crank handle rotatably mounted on the blade handle, the cutting blade being connected to the crank handle for rotation therewith.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. A cutter for cutting the armor casing of an armored cable, comprising:
+<claim-text>a cutter body having a first wall and top and bottom entry walls, the walls defining a channel for receiving an armored cable, the first wall having a longitudinal slot therein, the slot defining in the first wall a slot segment which defines a longitudinal base line, and wherein the entry walls are generally arcuate and congruent, both centers of the entry walls being on one side of the base line and spaced from one another;</claim-text>
+<claim-text>a blade handle connected to the cutter body; and</claim-text>
+<claim-text>a cutting blade mounted on the blade handle for translation into and out of the channel through the slot, the cutting blade being mounted such that when it is out of the channel it is substantially on the other side of the base line from the centers of the entry walls.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The cutter of <claim-ref idref="CLM-00010">claim 10</claim-ref> wherein the entry walls each defines a continuous arc. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

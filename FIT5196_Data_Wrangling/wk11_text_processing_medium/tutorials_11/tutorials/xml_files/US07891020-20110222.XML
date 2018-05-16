@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891020-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891020</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11635093</doc-number>
+<date>20061207</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>DE</country>
+<doc-number>10 2005 059 013</doc-number>
+<date>20051208</date>
+</priority-claim>
+<priority-claim sequence="02" kind="national">
+<country>DE</country>
+<doc-number>10 2006 004 946</doc-number>
+<date>20060203</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>80</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>41</class>
+<subclass>D</subclass>
+<main-group>13</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>  2 69</main-classification>
+</classification-national>
+<invention-title id="d2e90">Functional apparel item, in particular NBC protective apparel with integrated measuring appliance</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>4599609</doc-number>
+<kind>A</kind>
+<name>Blanchard</name>
+<date>19860700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>340602</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>4734072</doc-number>
+<kind>A</kind>
+<name>Lastnik</name>
+<date>19880300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>4843014</doc-number>
+<kind>A</kind>
+<name>Cukier</name>
+<date>19890600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>5061636</doc-number>
+<kind>A</kind>
+<name>Thoraval et al.</name>
+<date>19911000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>436104</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>5493730</doc-number>
+<kind>A</kind>
+<name>Vo-Dinh</name>
+<date>19960200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2457</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>5635909</doc-number>
+<kind>A</kind>
+<name>Cole</name>
+<date>19970600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>6080690</doc-number>
+<kind>A</kind>
+<name>Lebby</name>
+<date>20000600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>6267232</doc-number>
+<kind>B1</kind>
+<name>LeJeune</name>
+<date>20010700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>206213</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>6388422</doc-number>
+<kind>B1</kind>
+<name>Lew</name>
+<date>20020500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>6767509</doc-number>
+<kind>B1</kind>
+<name>Griesbach et al.</name>
+<date>20040700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>422 29</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>2003/0214408</doc-number>
+<kind>A1</kind>
+<name>Grajales et al.</name>
+<date>20031100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>2004/0009729</doc-number>
+<kind>A1</kind>
+<name>Hill et al.</name>
+<date>20040100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>DE</country>
+<doc-number>197 49 862</doc-number>
+<kind>A1</kind>
+<date>19990500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>DE</country>
+<doc-number>101 55 935</doc-number>
+<kind>A1</kind>
+<date>20030500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>DE</country>
+<doc-number>203 08 642</doc-number>
+<kind>U1</kind>
+<date>20040700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>DE</country>
+<doc-number>103 11 185</doc-number>
+<kind>A1</kind>
+<date>20040900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>DE</country>
+<doc-number>103 50 869</doc-number>
+<kind>A1</kind>
+<date>20050600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>DE</country>
+<doc-number>103 57 193</doc-number>
+<kind>A1</kind>
+<date>20050700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>WO</country>
+<doc-number>WO 00/62633</doc-number>
+<kind>A</kind>
+<date>20001000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>WO</country>
+<doc-number>WO 2004/073798</doc-number>
+<kind>A</kind>
+<date>20040900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>9</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>340602</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>3405731</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2456</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2457</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2 69</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2 695</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2102</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2108</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>3</number-of-drawing-sheets>
+<number-of-figures>3</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20070130676</doc-number>
+<kind>A1</kind>
+<date>20070614</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Von Bl&#xfc;cher</last-name>
+<first-name>Hasso</first-name>
+<address>
+<city>Erkrath</city>
+<country>DE</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>DE</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Woodard, Emhardt, Moriarty, McNett &#x26; Henry LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Blucher GmbH</orgname>
+<role>03</role>
+<address>
+<city>Erkrath</city>
+<country>DE</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Patel</last-name>
+<first-name>Tejash</first-name>
+<department>3765</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The invention concerns a functional apparel item, in particular protective apparel having a protective function against biological and/or chemical toxicant or noxiant materials, the apparel item being equipped with a measuring appliance capturing at least one measurable quantity and adapted for determining the serviceability of the apparel item.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="107.19mm" wi="114.13mm" file="US07891020-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="197.78mm" wi="167.98mm" file="US07891020-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="194.14mm" wi="114.38mm" file="US07891020-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="170.69mm" wi="113.11mm" file="US07891020-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">CROSS REFERENCES TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application claims priority to German Patent Application No. DE 10 2005 059 013.6, filed Dec. 8, 2005, and also claims priority to German Patent Application No. DE 10 2006 004 946.2, filed Feb. 3, 2006, entitled &#x201c;FUNCTIONAL APPAREL ITEM, IN PARTICULAR NBC PROTECTIVE APPAREL WITH INTEGRATED MEASURING APPLIANCE&#x201d;. Both references are expressly incorporated by reference herein, in their entirety.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">The present invention relates to a functional apparel item incorporating the use of a measuring appliance (i.e. a method of using a measuring appliance) and to a process for determining the serviceability of a functional apparel item.</p>
+<p id="p-0004" num="0003">There are a host of materials which on contact with the human body are absorbed by the skin, potentially leading to serious physical harm (noxae). Examples are chemical toxicant and noxiant materials, in particular chemical warfare agents, for example the vesicatory mustard gas (Hd, Yellow Cross) and the nerve gas sarin. People liable to come into contact with such highly toxic materials have to wear suitable protective equipment or be protected against these toxic substances by suitable protective materials.</p>
+<p id="p-0005" num="0004">Appropriate protective suits are available to protect the body, in particular the extremities and the trunk. The head, in particular the face and also the respiratory tract pathways, are generally protected by wearing NBC protective masks with or without hoods.</p>
+<p id="p-0006" num="0005">To achieve effective protection against the aforementioned toxic substances, NBC protective apparel is traditionally made either from completely impermeable systems (examples being suits made of butyl rubber) or else permeable adsorptive filtering systems based on activated carbon (powder, fibers or spherocarbon). Protective suits against chemical poisons that are intended for prolonged use under a wide variety of conditions must not lead to any significant heat build-up for the wearer. Air-pervious materials are therefore used in the main. Air-pervious, permeable protective suits generally possess an adsorbing layer of activated carbon which binds the chemical poisons very durably, so that even badly contaminated suits do not represent any danger whatsoever to the wearer. The great advantage of this system is that the activated carbon is also available on the inside surface, so that poisons that have penetrated at damaged or otherwise leaky locations are very rapidly adsorbed.</p>
+<p id="p-0007" num="0006">In principle, however, it is disadvantageous that such protective apparels generally possess a time-limited serviceability or durability. The reason for this is that the protective apparel becomes contaminated or polluted with toxicant or noxiant materials in the course of a deployment for example, and this may also lead inter alia to any adsorbing materials present in the protective apparel becoming saturated. In the extreme case of severe contamination or pollution of the protective apparel, adequate protection of the wearer from the toxicant or noxiant materials in question is no longer completely ensured. In addition, ageing processes play a great part with regard to the utility of protective apparel. For instance washing operations, decontamination measures, but also wearing or deployment times for the protective apparel, the action of chemical substances and the like lead to a significant decrease in the quality of the material and thus to a limited wearing time.</p>
+<p id="p-0008" num="0007">To counteract ageing processes, prior art protective apparel is stored for example in sealed, i.e. airtight, in particular depressurized, secondary packaging.</p>
+<p id="p-0009" num="0008">Especially against the background that a wearer of the protective apparel may occasionally be exposed to materials, such as chemical toxicant and/or warfare agent materials, that are highly toxic and fatal in small doses, ensuring effective protection by the protective apparel is extremely important to avoid noxae to the wearer of the protective apparel. Against this background, it is very important to be able to make a statement about the fitness for purpose or serviceability of the protective apparel, in particular when the protective apparel has been stored for a prolonged period or has just been used.</p>
+<p id="p-0010" num="0009">However, such a determination of the fitness for purpose or serviceability of the protective apparel is often associated with immense difficulties, since time- and cost-intensive analyses of the protective material to be investigated have to be undertaken in this regard. This applies in particular in the field&#x2014;for example in the course of a military deployment&#x2014;since a large number of protective apparels have to be investigated or analyzed under highly adverse conditions. A quick and informative determination of parameters characterizing the serviceability of protective apparel is often not possible in this context.</p>
+<p id="p-0011" num="0010">In addition, there is also immense interest in obtaining information about the serviceability of protective apparel as a function of the time since removal of the protective apparel from the secondary packaging or of the number of washing or decontaminating operations, the wearing time and the degree of contamination. However, this cannot be done quickly and simply using prior art means. In addition, the serviceability of protective apparel shall also be assessable with reference to its storage. Serviceability can be appreciably worse when the protective apparel has been defectively stored for example too warm, too moist or in non-airtight secondary packaging.</p>
+<p id="p-0012" num="0011">Against this background, then, the present invention has for its object to provide a functional apparel item, such as a protective apparel, that at least partially obviates or at least ameliorates the above-described disadvantages of the prior art. More particularly, there is to be provided a functional apparel item whose serviceability can be quickly and simply determined or evaluated even under adverse conditions.</p>
+<p id="p-0013" num="0012">By way of achievement to the object stated above, the present invention proposes a functional apparel item, in particular a protective apparel having a protective function against biological or chemical toxicant or noxiant materials. Further, advantageous embodiments are the subject of additional embodiments of invention.</p>
+<p id="p-0014" num="0013">The present invention further provides for the use of a measuring appliance capturing at least one measurable quantity (i.e. to the method of using a measuring appliance capturing at least one measurable quantity).</p>
+<p id="p-0015" num="0014">The present invention finally provides a process for determining the serviceability of a functional apparel item.</p>
+<p id="p-0016" num="0015">A first aspect of the present invention is thus a specifically equipped, functional apparel item, in particular a protective apparel having a protective function against biological or chemical toxicant or noxiant materials.</p>
+<p id="p-0017" num="0016">One particular feature of the present invention's functional apparel item is that the apparel item is equipped with at least one measuring appliance. The measuring appliance is such that it is capable of capturing at least one measurable quantity, for example a defined environmental factor, and thus can be used for determining the serviceability of the apparel item. It is thus one central idea of the present invention that a functional apparel item is equipped with a measuring appliance which captures at least one measurable quantity and with reference to which the serviceability of the apparel item can be quickly and simply determined. Owing to the use of a specific measuring appliance, a rapid and reliable statement about the serviceability of the present invention's functional apparel item can thus be made directly on the spot, for example while still in the packed state or after removal of the apparel item from the secondary packaging or in the field.</p>
+<p id="p-0018" num="0017">It is particularly possible in the realm of the present invention to so to speak custom-tailor the measuring appliance in relation to the measurable quantity to be captured, so that for example specifically temperature, pressure, moisture, radiation, pH measurable quantities and/or a measurable quantity resulting from and or induced by the presence of a chemical substance, for example of a biological or chemical toxicant or noxiant material, are capturable. This must be viewed as a further key idea of the present invention.</p>
+<p id="p-0019" num="0018">The present invention thus represents the first successful making available of an apparel item comprising a measuring appliance configured for specific determination of the serviceability of the functional apparel item according to the invention. Such a principle has hitherto not been known in the art. True, there is prior art where garments in particular are equipped with electronic components, but these are not intended for specific determination of serviceability.</p>
+<p id="p-0020" num="0019">DE 103 50 869 A1 describes a garment with integrated electronic components selected from sensors, actuators, electronic switching units, memory components and antennas. However, the sensors used in this document merely serve to determine the posture or movements of a wearer of the garment and the garment is chiefly to be used in the sports sector to optimize movement sequences. Furthermore, DE 103 57 193 A1 concerns an electronic label for textiles whose transponder arrangement is completely embedded in adhesive, the label being exclusively designed for storing and transmitting data concerning the textile. Furthermore, DE 103 11 185 A1 concerns a label for identifying textiles which is contactlessly readable by means of radio waves. The label serves exclusively to store information items about the corresponding textile, such as laundering instructions. Finally, DE 101 55 935 A1 concerns a smart label for textiles to store data which comprises a textile backing and a flexible wire or a threadlike electric conductor comprising at least a connecting point for an electronic component.</p>
+<p id="p-0021" num="0020">Further advantages, features, properties and aspects of the present invention will become apparent from the following description of preferred embodiments based on the accompanying figures, where:</p>
+<heading id="h-0003" level="1">BRIEF SUMMARY</heading>
+<p id="p-0022" num="0021">A functional apparel item is disclosed, in particular protective apparel having a protective function against biological and chemical toxicant or noxiant materials, wherein the apparel item is equipped with a measuring appliance capturing at least one measurable quantity and adapted for determining the serviceability of the apparel item.</p>
+<p id="p-0023" num="0022">One object of the present disclosure is to provide an improved protective item of apparel which includes a measuring appliance.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE SEVERAL VIEWS OF THE DRAWINGS</heading>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 1A</figref> shows a view of a present invention's functional apparel item in the form of a jacket, the jacket being equipped with a measuring appliance.</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 1B</figref> shows a view of a further present invention's functional apparel item in the form of a pair of trousers, the trousers being equipped with a measuring appliance.</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 2</figref> shows a schematic representation of a measuring appliance consisting of a plurality of components.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0027" num="0026">For the purposes of promoting an understanding of the disclosure, reference will now be made to the embodiments illustrated in the drawings and specific language will be used to describe the same. It will nevertheless be understood that no limitation of the scope of the disclosure is thereby intended, such alterations and further modifications in the illustrated device and its use, and such further applications of the principles of the disclosure as illustrated therein being contemplated as would normally occur to one skilled in the art to which the disclosure relates.</p>
+<p id="p-0028" num="0027">In the figures, the same reference symbols are used for the same or similar parts, and corresponding properties and advantages are achieved even though repeated description is omitted for simplicity.</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIGS. 1A and 1B</figref> each show a present invention's functional apparel item <b>1</b>, in particular a protective apparel having a protective function against biological or chemical toxicant or noxiant materials, for example biological or chemical warfare agents. <figref idref="DRAWINGS">FIG. 1A</figref> shows by way of example a present invention's embodiment wherein the functional apparel item <b>1</b> is constructed in accordance with the present invention as a jacket which in the present case is additionally equipped with a hood to protect the head. <figref idref="DRAWINGS">FIG. 1B</figref> reveals a further present invention embodiment wherein the present invention's functional apparel item <b>1</b> is constructed as a pair of trousers. The present invention's functional apparel item <b>1</b>, however, is in no way restricted to the aforementioned embodiments. On the contrary, the functional apparel item <b>1</b> can be constructed as protective apparel of any kind, such as NBC protective apparel useful in the civilian as well as in the military sector. The present invention's apparel item <b>1</b> may be constructed as a suit or overall, as a hood, as a glove, as a shoe, as an item of underwear, such as a vest or undershirt, a pair of underpants or briefs, a sock and the like.</p>
+<p id="p-0030" num="0029">As <figref idref="DRAWINGS">FIGS. 1A and 1B</figref> further show, the present invention's apparel item <b>1</b> is in accordance with the present invention equipped with a measuring appliance <b>2</b> which captures at least one measurable quantity and is adapted to determine the serviceability of the present invention's apparel item <b>1</b>.</p>
+<p id="p-0031" num="0030">As regards the term &#x201c;serviceability&#x201d; which is used herein&#x2014;synonymously also referred to as fitness for purpose or durability in the realm of the present invention&#x2014;it is to be understood as referring to the fitness for purpose or use of the present invention's apparel item <b>1</b> with particular regard to the protective function against biological or chemical toxicant and/or noxiant materials. In other words, a protective apparel is herein to be regarded as &#x201c;serviceable&#x201d; if it offers at least essentially complete protection against biological or chemical toxicant or noxiant materials. As stated above, the serviceability or fitness for purpose of a protective apparel or of the present invention's functional apparel item <b>1</b> is influenced by numerous factors. These factors include for example the storage time of the present invention's apparel item <b>1</b>, the number of washing or decontaminating operations, the wear time, the deployment type and duration (for example military deployment in the field), the wear time and also the time of removal from the secondary packaging.</p>
+<p id="p-0032" num="0031">The measurable quantity captured by the measuring appliance <b>2</b> used according to the present invention is a measurable quantity that influences the serviceability of the present invention's apparel item <b>1</b>. The measurable quantity may be for example a physical or chemical measurable quantity, but also a biochemical or biological measurable quantity.</p>
+<p id="p-0033" num="0032">The measurable quantity may be a temperature, pressure, moisture, radiation or pH measurable quantity. In accordance with an embodiment which is preferred according to the present invention, the measurable quantity is a measurable quantity resulting from and/or induced by the presence of a chemical substance, as of a biological or chemical toxicant and/or noxiant material.</p>
+<p id="p-0034" num="0033">The measurable quantity captured by the measuring appliance <b>2</b> is thus so to speak an ambient or environmental factor which acts on the present invention's functional apparel item <b>1</b> and which influences in particular the serviceability of the present invention's functional apparel item <b>1</b>. By way of example and nonlimitingly, high ambient temperatures, moisture and also certain radiative exposures, for example UV radiation, induce certain ageing processes which can lead to a reduction in the protective function offered by the apparel item <b>1</b>. For instance, the apparel item <b>1</b> may become porous or brittle. Similarly, chemical factors, for example a high alkalinity during washing or acidity during decontamination, have an appreciable influence on serviceability.</p>
+<p id="p-0035" num="0034">Moreover, the serviceability of the present invention's functional apparel item <b>1</b> is significantly influenced to a particular degree by certain chemical substances, such as biological or chemical toxicant or noxiant materials. For instance, an excessively contaminated protective apparel may experience for example a certain saturation of any adsorptive or adsorbing layer present.</p>
+<p id="p-0036" num="0035">Similarly, the measurable quantity to be captured may also be radioactive radiation, electromagnetic radiation or particle radiation. This is because these ambient or environmental factors likewise influence the serviceability of apparel item <b>1</b>.</p>
+<p id="p-0037" num="0036">The measurable quantities described above are captured by qualitative and/or quantitative measuring technology. In the realm of the present invention, the measurable quantity or quantities is or are capturable with regard to their duration, i.e. the length of time the measurable quantity or quantities acts or act, their intensity, i.e. the degree or strength of the measurable quantity or quantities acting on the apparel item <b>1</b>, and/or their frequency, i.e. the interval between the occurrence of measurable quantities or the frequency of the measurable quantity or quantities which occur within a defined period of time.</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. 2</figref> shows that the measuring appliance <b>2</b> used for the present invention's functional apparel item <b>1</b> preferably comprises a sensor <b>3</b>.</p>
+<p id="p-0039" num="0038">According to the present invention, the term &#x201c;sensor&#x201d; is to be understood as meaning a structural element which captures physical, chemical or electrochemical measurable quantities and converts them into a measurement signal. Preferably, the sensor <b>3</b> used according to the present invention comprises an electrical or electronic structural element wherein the measurable quantity is converted with sufficient accuracy into an electrical measurement signal. Preferably, the sensor <b>3</b> is the first member of the measuring appliance <b>2</b> used according to the present invention.</p>
+<p id="p-0040" num="0039">In this regard, the sensor <b>3</b> may be a temperature sensor, a pressure sensor, a moisture sensor, a radiation or particle sensor or else a sensor for electromagnetic radiation, a pH sensor and/or a sensor having preferably specific sensitivity to a chemical substance, in particular a biological or chemical toxicant or warfare agent material.</p>
+<p id="p-0041" num="0040">Useful temperature sensors for the present invention include for example thermistor or posistor temperature sensors. Useful pressure sensors in the realm of the present invention include for example barometric pressure sensors, ceramic pressure sensors and also silicon-based pressure sensors. It is similarly within the realm of the present invention to use a moisture sensor comprising a moisture sensor having moisture content dependent sensitivity, in particular conductivity. In accordance with the present invention, a radioactivity sensor can be used as radiation or particle sensor. The aforementioned examples are in no way limiting and one skilled in the art will always be able to select appropriate sensors for capturing a measurable quantity influencing or characterizing the serviceability of the present invention's functional apparel item <b>1</b>.</p>
+<p id="p-0042" num="0041">The measuring appliance <b>2</b> used according to the present invention may further be equipped with a plurality of sensors <b>3</b>, for which sensors <b>3</b> of the aforementioned kind each having different specificities can be used. It is possible by way of example and without any limitation being applied to equip the measuring appliance <b>2</b> with two, three, four or more sensors <b>3</b>, for example with a temperature sensor, a pressure sensor and a moisture sensor.</p>
+<p id="p-0043" num="0042">In accordance with one embodiment of the present invention, the sensor <b>3</b> is a physical, chemical or biochemical sensor <b>3</b>, in which case the sensor <b>3</b> induces or exhibits as a consequence of the capture of the measurable quantity a measurement signal induced in particular by a physical, chemical or biochemical reaction, respectively. The measurement signal may be in particular and nonlimitingly a color change. In this case, the measurement signal may be evaluated for example directly through visual inspection, or else be digitized through an appropriate electronic circuit. The measurement signal thus digitized can subsequently be subjected to a qualitative or quantitative evaluation.</p>
+<p id="p-0044" num="0043">In accordance with a further embodiment preferred according to the present invention, the sensor <b>3</b> is an electrical sensor, preferably an electronic sensor. In this case, the sensor <b>3</b> transforms the captured measurable quantity&#x2014;as previously described&#x2014;into a preferably electrical measurement signal which correlates with the measurable quantity. The preferably electrical measurement signal correlating with the measurable quantity is preferably readable from the sensor <b>3</b>, so that the measurement signal is available for further processing or evaluation. In other words, the sensor <b>3</b> thus captures measurable quantities and transforms them into an appropriate, preferably electrical measurement signal. For instance, a measurable quantity registered by the sensor <b>3</b> as a defined temperature can be emitted as resulting measurement signal in the form of an electrical voltage which correlates with this temperature.</p>
+<p id="p-0045" num="0044">The measuring appliance <b>2</b> used for the present invention's functional apparel item <b>1</b> may comprise a storage unit <b>4</b>, as further discernible from <figref idref="DRAWINGS">FIG. 2</figref>. The storage unit <b>4</b> serves the preferably electronic storage of a measurement signal which correlates with the measurable quantity and which is preferably emitted by the above-described sensor <b>3</b>. To record or store the measurement signal, the storage unit <b>4</b> can be coupled with the sensor <b>3</b> directly or indirectly, the coupling preferably being an electrical coupling.</p>
+<p id="p-0046" num="0045">The storage unit <b>4</b> preferably comprises a semiconductor memory. The measurement signals are stored in the storage unit <b>4</b>, in particular for later evaluation or reading. More particularly, the storage unit <b>4</b> stores a multiplicity of measurement signals which can be coupled for example with other values, such as the time of detection and the like, so that pairs of values result from the measurement signal and a value assigned to this measurement signal. Preferably, the storage unit <b>4</b> stores a multiplicity of measurement signals which&#x2014;as will be described hereinbelow&#x2014;can be processed before or after being stored. According to the present invention, it is possible that the storage unit <b>4</b> is, for example in the form of IC building blocks, integrated in the sensor <b>3</b> or in a hereinbelow described electronic circuit <b>5</b> or a read-out unit <b>6</b>. The storage unit <b>4</b> may comprise its own supply of electric current or, for example, be supplied with energy via other components of the measuring appliance <b>2</b>.</p>
+<p id="p-0047" num="0046"><figref idref="DRAWINGS">FIG. 2</figref> shows that the measuring appliance <b>2</b> used for the present invention's functional apparel item <b>1</b> further comprises an electronic circuit <b>5</b>. The electronic circuit <b>5</b> serves in particular to process a measurement signal correlating with the captured measurable quantity. The electronic circuit <b>5</b> may in this regard be designed for example such that it transforms an analogue measurement signal emittable by the measuring sensor into a digital measurement signal. Furthermore, the electronic circuit <b>5</b> may transmit the processed or unprocessed measurement signal to the storage unit <b>4</b> for the purpose of data storage. It is similarly possible according to the present invention for the electronic circuit <b>5</b> to pass the measurement signal directly to a read-out unit <b>6</b>, in particular as hereinbelow described. It is similarly within the realm of the present invention for the electronic circuit <b>5</b> to be designed such that it exerts a control function with regard to the sensor <b>3</b>. It is possible for instance for the electronic circuit <b>5</b> to control or regulate for example the sensitivity of the sensor <b>3</b> in order that a certain adaptation to measurable quantities arising may be made possible. The electronic circuit <b>5</b> may similarly function as an amplifier with regard to the measurable quantity.</p>
+<p id="p-0048" num="0047">According to an embodiment preferred according to the present invention, the electronic circuit <b>5</b>&#x2014;as <figref idref="DRAWINGS">FIG. 2</figref> shows&#x2014;is coupled with the sensor <b>3</b>, in particular as defined above, and with the storage unit <b>4</b>, in particular as defined above, in particular electrically. In accordance with this embodiment, the electronic circuit <b>5</b> can emit to the storage unit <b>4</b> a measurement signal correlating with the measurable quantity captured by the sensor <b>3</b>.</p>
+<p id="p-0049" num="0048">But it is also possible for the electronic circuit <b>5</b> to read out a measurement signal stored in the storage unit <b>4</b>, correlating with a measurable quantity and processed or unprocessed, and for example forward it to the hereinbelow described read-out unit <b>6</b> for the purpose of further data processing or for the reading out of measurement signals.</p>
+<p id="p-0050" num="0049"><figref idref="DRAWINGS">FIG. 2</figref> further reveals that the measuring appliance <b>2</b> used for the present invention's apparel item <b>1</b> may further comprise a read-out unit <b>6</b>. The read-out unit <b>6</b> may be coupled, in particular electrically coupled, with the above-described sensor <b>3</b> and/or with the above-described storage unit <b>4</b> and/or with the above-described electronic circuit <b>5</b>. The read-out unit <b>6</b> serves as it were to read out measurement signals using a reading instrument for example, so that the measurement signals can be subjected to further data processing, for example by means of an external computer. In this way, the measurement signals which correlate with a measurable quantity which influences or characterizes the serviceability of the present invention's apparel item <b>1</b> can be used for a statement with regard to the serviceability of the present invention's apparel item <b>1</b>, and electronic evaluation being effectable in this context for example such that an indication is provided on the basis of the determined measurement signals as to whether the present invention's apparel item <b>1</b> is in a serviceable state. Similarly, the determined and read-out measurement signals may form the basis for a graduated assessment of serviceability, for example for a qualitative and/or quantitative statement with regard to the degree of contamination for example, so that it is possible to determine what residual adsorptive or adsorbing capacity there is with regard to the present invention's apparel item <b>1</b>.</p>
+<p id="p-0051" num="0050">The read-out unit <b>6</b> can function as a transmitter, in which case the measurement signals to be read out can be received by an external receiver and fed to the further external data processing system or display.</p>
+<p id="p-0052" num="0051">Thus, the read-out unit <b>6</b> provides in readable form a measurement signal correlating with a measurable quantity. The measurement signal can be transmitted from the storage unit <b>4</b> to the read-out unit <b>6</b> for example directly or else via the electronic circuit <b>5</b>, emanating for example from the sensor <b>3</b> or from the storage unit <b>4</b>.</p>
+<p id="p-0053" num="0052">In accordance with an embodiment preferred according to the present invention, the read-out unit <b>6</b> may comprise an antenna for preferably contactless read-out of measurement signals. This makes it possible to receive the measurement signals by means of a wireless receiver for example, which constitutes a simple and secure form of data transmission, which is simple to carry out in a military area of deployment for example. In this case the data are read out of the measuring appliance by means of a wireless transmission.</p>
+<p id="p-0054" num="0053">It may further be provided in accordance with the present invention for the measuring appliance <b>2</b> used for the present invention's apparel item <b>1</b> to equally comprise an energy source for one or more constituents of the measuring appliance <b>2</b>, as of the sensor <b>3</b>, of the storage unit <b>4</b>, of the electronic circuit <b>5</b> and also of the read-out unit <b>6</b>. The energy source preferably comprises a battery, such as a button cell, or correspondingly a rechargeable accumulator.</p>
+<p id="p-0055" num="0054">The measuring appliance <b>2</b> used according to the present invention or its above-described components may be accommodated in a housing, which may be a rigid housing or else a flexible housing. It is similarly possible for individual components to be located outside this housing. For example, the sensor <b>3</b> may be positioned outside the housing. If the sensor <b>3</b> is positioned in the housing, it should be ensured that the capturing or detecting unit of the sensor <b>3</b> has a connection to the medium comprising the measurable quantity to be captured, as can be realized for example through a perforation at the appropriate position of the housing. It is similarly possible for one or more constituents of the measuring appliance <b>2</b> to be embedded or potted in an adhesive or in a resin.</p>
+<p id="p-0056" num="0055">In accordance with the present invention, the measuring appliance <b>2</b> may comprise a well-known radio frequency identification (RF-ID) unit. The RF-ID unit may comprise a transponder, also known by the synonyms of RF-ID label, tag or radiolabel, and also a transmitting/receiving unit as reader. The principle of RF-ID units rests on the measurement signals being initially stored and made available by means of radio waves. The RF-ID unit may be coupled with the sensor <b>3</b>, in particular electrically.</p>
+<p id="p-0057" num="0056">In accordance with an embodiment preferred according to the present invention, the measuring appliance <b>2</b> used for the apparel item <b>1</b> is such that it captures the number of washing operations of the present invention's apparel item <b>1</b> via a measurable quantity characteristic for the washing operations. The measuring appliance <b>2</b> may in this regard be constructed for example such that the temperature and/or the moisture and/or the pH is or are captured as relevant measurable quantity or quantities descriptive of the number of washing operations of the present invention's apparel item <b>1</b>. In this regard, the number of washing operations of the present invention's apparel item <b>1</b> can be realized through appropriate processing of the measurement signals, for which even a previously discussed external processing or evaluation can be carried out on a computer or on a reading instrument for example. For the aforementioned case, the measuring appliance <b>2</b> preferably comprises a temperature-sensitive and/or a moisture-sensitive and/or a pH-sensitive sensor <b>3</b>.</p>
+<p id="p-0058" num="0057">In accordance with a further embodiment particularly preferred according to the present invention, the measuring appliance <b>2</b> used for the present invention's apparel item <b>1</b> captures the contamination and/or pollution level of the present invention's apparel item <b>1</b> via a measurable quantity characteristic for the contamination or pollution level. In accordance with this embodiment, the measuring appliance <b>2</b> is preferably such that the radiation and/or the pH and/or the presence of a chemical substance, as of a biological or chemical toxicant or noxiant material, is or are capturable as measurable quantity or quantities. Accordingly, the measuring appliance <b>2</b> according to this embodiment preferably comprises a radiation-sensitive and/or a pH-sensitive sensor <b>3</b> and/or a sensor <b>3</b> having specific sensitivity with regard to a chemical substance, such as a biological toxicant or noxiant material.</p>
+<p id="p-0059" num="0058">In accordance with a further embodiment preferred according to the present invention, the measuring appliance <b>2</b> used for the present invention's functional apparel item <b>1</b> captures the storage and/or wear time of the present invention's functional apparel item <b>1</b> via a measurable quantity characteristic for the storage and/or wear time. The measuring appliance <b>2</b> is preferably constructed such in this regard that the temperature and/or the pressure and/or the moisture, in particular the temperature and/or the pressure, is or are capturable as measurable quantity or quantities.</p>
+<p id="p-0060" num="0059">As previously written, the present invention's functional apparel item <b>1</b> is preferably accommodated in the storage state in airtight, preferably depressurized secondary packaging. This obviates the possibility that the present invention's functional apparel item <b>1</b> may lose its functionability prematurely, in that the present invention's functional apparel item <b>1</b> is protected in particular from harmful environmental influences inducing an ageing process, such as high temperatures, moisture, UV radiation, chemical substances and the like. This prevents a premature ageing process, so that the present invention's functional apparel item <b>1</b> is preserved so to speak during its storage.</p>
+<p id="p-0061" num="0060">In this context, the measuring appliance <b>2</b> used for the present invention's functional apparel item <b>1</b> can be constructed such that the time of opening the packaging or secondary packaging or its being damaged is determinable. In this context, the present invention's measuring appliance <b>2</b> should capture the temperature and/or the pressure and/or the moisture, in particular the temperature and/or the pressure, as measurable quantity or quantities. In this regard, the measuring appliance <b>2</b> should be equipped with a temperature-sensitive and/or a pressure-sensitive and/or a moisture-sensitive sensor <b>3</b>, in particular with a temperature-sensitive or pressure-sensitive sensor <b>3</b>.</p>
+<p id="p-0062" num="0061">With regard to the position or fixing of the measuring appliance <b>2</b> on the present invention's apparel item <b>1</b>, the measuring appliance <b>2</b> should preferably be disposed on the outside surface of the apparel item <b>1</b>, i.e. on the side which, in the worn state of the present invention's functional apparel item <b>1</b>, is remote from the wearer, or on that side of the present invention's functional apparel item <b>1</b> that faces the measurable quantity to be captured, so that impeccable capture of the measurable quantities by the measuring appliance <b>2</b> is ensured. The measuring appliance <b>2</b> may be by way of nonlimiting example sewn onto the present invention's functional apparel item <b>1</b>. It is similarly possible to secure the measuring appliance <b>2</b> to the present invention's functional apparel item <b>1</b> by means of a touch and close fastener or connector.</p>
+<p id="p-0063" num="0062">The present invention's functional apparel item <b>1</b> as such preferably comprises a sheetlike material, the sheetlike material comprising a layered construction. The layered construction of the sheetlike material may comprise at least one textile fabric and also an adsorptive or adsorbing layer and/or a blocking layer, in particular a membrane.</p>
+<p id="p-0064" num="0063">The textile fabric may be any desired textile material, preferably an air-pervious and/or breathable textile material. Nonlimiting examples are textile wovens, textile knits, textile laids, textile composites, textile nonwovens and the like. The areal weight of the textile fabric may be in the range from 25 to 300 g/m<sup>2</sup>, in particular in the range from 30 to 200 g/m<sup>2 </sup>and preferably in the range from 40 to 200 g/m<sup>2</sup>. The optional adsorptive or adsorbing layer may comprise a material capable of adsorbing a toxicant or noxiant material, such as NBC warfare agents. A useful material for adsorbing poisons or noxiant materials includes in particular activated carbon, preferably in the form of particles of activated carbon or fibers of activated carbon. The adsorbing materials may preferably be fixed on the textile fabric in a manner known per se to one skilled in the art, for example through a continuous or discontinuous application of an adhesive to the textile fabric. The material adsorbing toxicant or noxiant materials may consist for example of discrete particles of activated carbon, preferably in granule form (&#x201c;granulocarbon&#x201d;) or spherical form (&#x201c;spherocarbon&#x201d;). In this case, the average diameter of the particles of activated carbon is less than 1.0 mm, in particular less than 0.5 mm, preferably less than 0.4 mm and more preferably less than 0.3 mm, but generally is at least 0.1 mm. In accordance with this embodiment, the particles of activated carbon are present on the textile fabric in an amount of 5 to 500 g/m<sup>2 </sup>in particular 10 to 400 g/m<sup>2 </sup>preferably 20 to 300 g/m<sup>2</sup>, more preferably 25 to 250 g/m<sup>2</sup>, even more preferably 50 to 225 g/m<sup>2 </sup>and most preferably 50 to 200 g/m<sup>2</sup>. The material capable of adsorbing toxicant or noxiant material can also comprise fibers of activated carbon, in particular in the form of an activated carbon fabric. The areal weight of such activated carbon fabrics may be for example in the range from 20 to 200 g/m<sup>2</sup>, in particular in the range from 30 to 150 g/m<sup>2 </sup>and preferably in the range from 50 to 120 g/m<sup>2</sup>. The activated carbon fabric may comprise for example a woven, loop-formingly knitted, laid or composited fabric of activated carbon, in particular on the basis of carbonized and activated cellulose or of a carbonized and activated acrylonitrile.</p>
+<p id="p-0065" num="0064">The optional blocking layer, in particular membrane, has in particular blocking layer properties with regard to warfare agent or noxiant materials. Useful membrane materials include plastics or polymers, fluorinated polymers, in particular polytetrafluoroethylene, polyurethane, polyethers, polyesters, polyether esters, polyamides, polyimides, polyetheramides, polyetherimides, cellulose and cellulose derivatives.</p>
+<p id="p-0066" num="0065">In accordance with an embodiment particularly preferred according to the present invention, the present invention provides a functional apparel item <b>1</b>, in particular an NBC protective apparel, such as an NBC protective suit, having a protective function against biological and/or chemical toxicant or noxiant materials, in particular as described above, the present invention's functional apparel item <b>1</b> in accordance with this aspect of the present invention being characterized in that it is equipped with at least one sensor <b>3</b> for capturing the serviceability of the apparel item <b>1</b>, in particular by capturing the number of washing operations and/or the wear time and/or the storage time and/or the time after removal of the packaging of the apparel item <b>1</b> and/or the contamination or pollution level, in particular with at least one pressure- and/or temperature-sensitive sensor <b>3</b>, the sensor <b>3</b> being part of a measuring appliance <b>2</b> integrated in the apparel item <b>1</b>, measurement signals emittable by the sensor <b>3</b> and/or correlating with measurable quantities captured by the sensor <b>3</b> being processable, in particular detectable or storable or displayable or emittable, by the measuring appliance <b>2</b>.</p>
+<p id="p-0067" num="0066">The present invention further provides&#x2014;in accordance with a further aspect of the present invention&#x2014;for the use of a measuring appliance <b>2</b> (i.e. the method of using a measuring appliance <b>2</b>), which measuring appliance <b>2</b> captures at least one measurable quantity and is in particular conceived as described above, for determining the serviceability of a functional apparel item <b>1</b>, in particular protective apparel having a protective function against biological and/or chemical toxicant or noxiant materials, wherein the apparel item <b>1</b> is equipped with the measuring appliance <b>2</b> or the measuring appliance <b>2</b> is integrated in the apparel item <b>1</b>.</p>
+<p id="p-0068" num="0067">For further details regarding the use according to the present invention, reference may be made to the above observations concerning the apparel item of the present invention, which apply to the process of the present invention mutatis mutandis.</p>
+<p id="p-0069" num="0068">The present invention further concerns&#x2014;in accordance with a further aspect of the present invention&#x2014;a process for determining the serviceability of a functional apparel item <b>1</b> according to the invention, in particular a protective apparel having a protective function against biological or chemical toxicant or noxiant materials. The process of the present invention is characterized in that the apparel item <b>1</b> is equipped with at least one measuring appliance <b>2</b> capturing measurable quantity and adapted for determining the serviceability of the apparel item <b>1</b>, or a measuring appliance <b>2</b> capturing at least one measurable quantity and adapted for determining the serviceability of the apparel item <b>1</b> is integrated in the apparel item <b>1</b>, and in that a measurable quantity influencing and/or characterizing the serviceability of the apparel item <b>1</b>, in particular a physical and/or chemical measurable quantity, is captured and/or determined by means of the measuring appliance <b>2</b>.</p>
+<p id="p-0070" num="0069">For further details regarding the process according to the present invention, reference may be made to the above observations concerning the apparel item of the present invention, which apply to the process of the present invention mutatis mutandis.</p>
+<p id="p-0071" num="0070">The present invention's functional apparel item, the present invention's use of the measuring appliance and also the present invention's process have numerous advantages, of which the following are to be mentioned purely by way of example:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0071">The use of a specific measuring appliance provides a simple, convenient and inexpensive way of determining the serviceability of the apparel item via the determination of specific measurable quantities, making it possible to make an unambiguous statement with regard to the functionability of the apparel item.</li>
+        <li id="ul0002-0002" num="0072">The present invention's measuring appliance is easy to read out by means of preferably external apparatus, so that determination of the serviceability of the present invention's functional apparel item is possible even under adverse conditions, for example in the course of a military deployment in the field.</li>
+        <li id="ul0002-0003" num="0073">The specific determination of the serviceability of the present invention's functional apparel item makes it possible to ensure at all times a high protective potential for the wearer of the present invention's functional apparel item.</li>
+        <li id="ul0002-0004" num="0074">In addition, the optimized determination of the serviceability of the present invention's apparel item makes it possible to optimize the wear or use duration, so that the present invention's apparel item can be optimally utilized, which leads to a distinct reduction in costs.</li>
+        <li id="ul0002-0005" num="0075">The individually adaptable equipment of the measuring appliance with specific sensors makes it possible to adapt the measuring appliance to individual needs, so that specific measurable quantities can be captured in a specific manner. This makes it possible to capture a wide gamut of factors, including environmental factors, influencing the serviceability of the present invention's functional apparel item.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0072" num="0076">Further refinements, modifications and variations of the present invention will become apparent to and realizable by the ordinary skilled on reading the description without their having to depart from the realm of the present invention.</p>
+<p id="p-0073" num="0077">While the preferred embodiment of the invention has been illustrated and described in the drawings and foregoing description, the same is to be considered as illustrative and not restrictive in character, it being understood that all changes and modifications that come within the spirit of the invention are desired to be protected.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A functional NBC protective apparel item having a protective function against biological and chemical toxicant or noxiant materials, wherein the garment is accommodated in the storage state in air-tight, depressurized packaging, wherein the garment comprises a sheetlike material having a layered construction, the layered construction comprising at least one textile sheetlike construction and an adsorptive or adsorbing layer as well as, a barrier layer in the form of a membrane, and wherein the garment is equipped with a measuring appliance capturing the storage time of the apparel item via at least one measurable parameter being characterized for the storage time, and being at least one of temperature, pressure or moisture, wherein the measuring appliance is adapted for determining the serviceability of the garment and comprises an electrical or electronic sensor selected from the group consisting of a temperature-sensor, a pressure-sensor and a moisture sensor, the sensor transforming a measurable parameter into an electrical, readable correlated measurement signal wherein the measurable parameter is capturable in relation to at least one of their duration, intensity and frequency.</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The functional NBC protective garment according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the sensor is selected from the group consisting of a thermistor or posistor temperature-sensor; a barometric pressure-sensor, a ceramic pressure-sensor and a silicon-based pressure-sensor; and a moisture-sensor having moisture content dependent sensitivity or conductivity.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The functional NBC protective garment according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the sensor is a physical, chemical or biochemical sensor, the sensor responding to the capture of a measurable parameter by inducing or exhibiting a measurement signal induced by a physical, chemical or biochemical reaction.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The functional NBC protective garment according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the measuring appliance comprises a storage unit for electronic storage of a measurement signal correlating with a measurable parameter, the storage unit being coupled with the sensor electrically.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The functional NBC protective garment according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the measuring appliance comprises an electronic circuit for processing a measurement signal correlating with a captured measurable parameter or for coupling the sensor with a storage unit.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The functional NBC protective garment according to <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein the electronic circuit is coupled with at least one of a sensor, a storage unit and an electronic circuit.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The functional NBC protective garment according to <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein the electronic circuit reads out a processed or unprocessed measurement signal stored in a storage unit and correlating with a measurable parameter.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The functional NBC protective garment according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the measuring appliance comprises a read-out unit, the read-out unit being electrically coupled with at least on of a sensor, a storage unit and an electronic circuit, wherein the read-out unit provides in readable form the measurement signal correlating with a measurable parameter.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The functional NBC garment item according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the measuring appliance comprises an energy source. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

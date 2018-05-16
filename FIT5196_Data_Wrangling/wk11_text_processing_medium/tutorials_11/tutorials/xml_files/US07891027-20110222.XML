@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891027-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891027</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12144902</doc-number>
+<date>20080624</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>346</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>E</section>
+<class>03</class>
+<subclass>D</subclass>
+<main-group>9</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>  425507</main-classification>
+<further-classification>  425501</further-classification>
+</classification-national>
+<invention-title id="d2e53">Drain vent seal</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>872746</doc-number>
+<kind>A</kind>
+<name>Peterson</name>
+<date>19071200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>952240</doc-number>
+<kind>A</kind>
+<name>Deming</name>
+<date>19100300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  425507</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>1240132</doc-number>
+<kind>A</kind>
+<name>Gleason</name>
+<date>19170900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  425507</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>2036614</doc-number>
+<kind>A</kind>
+<name>Tharp</name>
+<date>19360400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  425507</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>3336604</doc-number>
+<kind>A</kind>
+<name>Lacey et al.</name>
+<date>19670800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>5497516</doc-number>
+<kind>A</kind>
+<name>Irwin</name>
+<date>19960300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  4694</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>7058993</doc-number>
+<kind>B2</kind>
+<name>Nasco</name>
+<date>20060600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>7062800</doc-number>
+<kind>B1</kind>
+<name>Alfred</name>
+<date>20060600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  425511</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>17</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>  425501-25512</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  4293</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D32 14</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D32 35</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>7</number-of-drawing-sheets>
+<number-of-figures>19</number-of-figures>
+</figures>
+<us-related-documents>
+<continuation-in-part>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>11882469</doc-number>
+<date>20071011</date>
+</document-id>
+<parent-status>ABANDONED</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>12144902</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation-in-part>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090094732</doc-number>
+<kind>A1</kind>
+<date>20090416</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Mooney</last-name>
+<first-name>Robert Blu</first-name>
+<address>
+<street>633 Atwood St. NE.</street>
+<city>Grand Rapids</city>
+<state>MI</state>
+<postcode>49503</postcode>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+</parties>
+<examiners>
+<primary-examiner>
+<last-name>Huson</last-name>
+<first-name>Gregory</first-name>
+<department>3751</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Christiansen</last-name>
+<first-name>Janie</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A seal assembly for a drain vent is provided to direct the pressure exerted by a plunger to the face of a drain clog rather than escaping through the drain vent. The seal assembly of the invention comprises a tubular body having a first closed end and a second open end to define a substantially rigid a cup-like structure or cavity. A sealing member concentric with a longitudinal axis of the tubular body is attached to the second open end of the tubular body to form a seal against a surface containing the drain vent. A handle is attached to the closed end of the cup-like structure and extends away from the closed first end of the tubular body to provide a mechanism for the user to hold the sealing member against the surface containing the drain vent during the plunging process.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="138.60mm" wi="151.13mm" file="US07891027-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="224.54mm" wi="159.77mm" file="US07891027-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="226.65mm" wi="155.02mm" file="US07891027-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="235.29mm" wi="168.91mm" file="US07891027-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="204.47mm" wi="148.93mm" file="US07891027-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="205.40mm" wi="161.12mm" file="US07891027-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="193.63mm" wi="150.62mm" file="US07891027-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="188.38mm" wi="161.88mm" file="US07891027-20110222-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">CROSS REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This is a continuation-in-part application filed pursuant to 37 C.F.R. 1.53(b) and claims priority under 35 U.S.C. &#xa7;120 to prior filed U.S. non-provisional patent application Ser. No. 11/882,469 filed Oct. 11, 2007 now abandoned.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">STATEMENT REGARDING FEDERALLY SPONSORED RESEARCH OR DEVELOPMENT</heading>
+<p id="p-0003" num="0002">Not Applicable</p>
+<heading id="h-0003" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0004" num="0003">1. Field of the Invention</p>
+<p id="p-0005" num="0004">This invention relates to drain and drain vents and more particularly to a device for seating drain vents. More specifically the invention is a tool used in conjunction with a conventional plunger for sealing drain vents to more efficiently force fluid in a direction to clear debris from a drain trap.</p>
+<p id="p-0006" num="0005">2. Description of the Related Art</p>
+<p id="p-0007" num="0006">Every year thousands of consumers are faced with clearing a clogged drain in a kitchen or bathroom sink, a bath tub or laundry tub. An unknown number of these consumers are turning to chemical solvents and corrosive agents for dissolving debris clogging the drain. When effective these solvents flow down the drain and into the waste water treatment system and eventually into the environment, contributing to the world's pollution. There are more &#x201c;green&#x201d; options available for cleaning debris from drain pipes.</p>
+<p id="p-0008" num="0007">Traditionally, before the advent of caustic chemical drain cleaners and solvents, consumers often used a plunger. The plunger is placed over the opening to the drain to form a seal. Depression of the plunger collapses a cavity above the drain, increasing the pressure on one side of the clog. With effort, the repeated pressure changes break-up the debris with the U-shaped drain trap, and permit the fluid in the drain to clear the debris and allow the drain to flow. However, with improvements to modern sinks and bathtubs and specifically the addition of drain vents in the hardware, plungers are less effective, shifting consumer dependence upon chemical removers. This shift occurred primarily because users could no longer obtain sufficient pressure on one side of the clog due to the leaking of the air out the drain vent. User's have had no sure way of sealing those vents when using a plunger.</p>
+<p id="p-0009" num="0008">There has been a long felt yet unresolved need to provide a tool that can be used in conjunction with a conventional plunger or other pressurized fluid device (i.e., cans of compressed air) to seal the drain vents of tubs and sinks to direct the full force and pressure of the plunger to one side of the debris clogging the drain.</p>
+<heading id="h-0004" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0010" num="0009">The invention described below generally overcomes all of the disadvantages of what was done prior to the invention. The invention reduces the need for chemical solvents and caustic based compounds to unclog drains. This reduces in less pollution and creates a more environmentally friendly solution.</p>
+<p id="p-0011" num="0010">A drain vent seal device is provided to form a generally air-tight seal over a drain vent. The seal device includes a cup having a seal on an open end of the cup. The invention is designed and intended to fit over and substantially seal a drain vent used in a bathtub, tub, sink, and the like. With the cup in place and held in position over the vent, a plunger or other device may be used to rapidly change the pressure within the drain to mechanically break up and loosen the clog.</p>
+<p id="p-0012" num="0011">According to another form of the invention, the seal for the drain vent is provided for creating a substantially fluid-tight seal around the drain vent while using a plunger or other device is used to changing the fluid pressure on one side of the clog blocking the drain trap. More specifically the invention comprises a rigid member or cup defining a cavity wherein an open end of the cavity includes a flexible lip. The cavity is placed over the drain vent such that the flexible lip seals against a surface surrounding the drain vent to prevent air or other fluids from escaping from the drain vent when pressure is applied to the drain trap.</p>
+<p id="p-0013" num="0012">In yet another form of the invention a seal for a drain vent, comprises a tubular body having a first end closed end and a second open end for forming a rigid cavity within the tubular body. A sealing member is provided that is concentric with a longitudinal axis of the tubular body and is attached to the second open end of the tubular body. The sealing member forms a seal against a surface containing the drain vent. The tubular body and sealing member may be held in position by a handle attached to and extending away from the closed first end of the tubular body.</p>
+<p id="p-0014" num="0013">In yet another form of the invention, the seal for a drain vent includes a recess extending into an exterior surface of the first closed end of the tubular body for receiving the handle. In one embodiment, it is envisioned that the tubular body has a Young's Modulus of Elasticity greater than that for the sealing member so that the tubular body places the sealing member into intimate contact with the surface containing the drain vent to form a substantially fluid-tight seal.</p>
+<p id="p-0015" num="0014">In yet another form of the invention, the tubular body may take on one or more different cross-sectional shapes to form the cavity. For example it is anticipated that the tubular body may have a right circular cylindrical shape, a multi-faceted polygonal shape such as an octagon or hexagon, a square, or a triangle.</p>
+<p id="p-0016" num="0015">According to another form of the invention, the handle may take on any one of a number of configurations so that it is convenient for the user to maintain the seal over the drain vent. The handles configurations include those parallel to a longitudinal axis of the tubular body including concentric and off-axis configurations. It is further envisioned that transverse handle orientations may be acceptable. In its broadest form, it is envisioned that no handles be provided: the user simply grasps the close end of the cup-like body to hold the seal in position.</p>
+<p id="p-0017" num="0016">One advantage provided by the invention, described in greater detail below, is that the pressurized air or other fluid applied to the drain trap to break the clog is prevented from escaping through the drain vent and ensures that most of the force is directed toward the clogged drain trap to remove the clog. Another advantage of the instant invention over the prior art is that it greatly improves the efficiency and effectiveness of the pressure generated by the plunger or other device than if the drain vent remained unsealed. Last, but not least, another advantage of the instant invention is that it has the potential for greatly reducing the volume of potentially damaging drain cleaning solvents and cleaners used by consumers to clear clogged drains. The reduction in such chemical drain cleaners and solvents will reduce the amount of chemical pollutants put into our water systems and treatment plants.</p>
+<p id="p-0018" num="0017">These and other advantages of the instant invention will become understood and readily apparent to a person of ordinary skill in the art after reading the following detailed description in combination with reference to the following drawing figures.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">DESCRIPTION OF THE DRAWING FIGURES</heading>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 1</figref> is an oblique view of one form of the seal for a drain vent comprising the invention;</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 2</figref> is an end view of the invention shown in <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 3</figref> is a cross-sectional view of the invention taken along line III-III shown in <figref idref="DRAWINGS">FIG. 2</figref>;</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 4</figref> is an oblique view of another form of the seal for a drain vent comprising the invention;</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 5</figref> is an end view of the invention shown in <figref idref="DRAWINGS">FIG. 4</figref>;</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 6</figref> is a cross-sectional view of the invention taken along line VI-VI shown in <figref idref="DRAWINGS">FIG. 5</figref>;</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 7</figref> is an oblique view of yet another form of the seal for a drain vent comprising the invention;</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 8</figref> is an end view of the invention shown in <figref idref="DRAWINGS">FIG. 7</figref>;</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 9</figref> is a cross-sectional view of the invention taken along line IX-IX shown in <figref idref="DRAWINGS">FIG. 8</figref>;</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 10</figref> is an oblique view of yet another form of the seal for a drain vent comprising the invention;</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 11</figref> is an end view of the invention shown in <figref idref="DRAWINGS">FIG. 10</figref>;</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 12</figref> is a cross-sectional view of the invention taken along line XII-XII shown in <figref idref="DRAWINGS">FIG. 11</figref>;</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. 13</figref> is an oblique view of vet another form of the seal for a drain vent comprising the invention;</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. 14</figref> is an end view of the invention shown in <figref idref="DRAWINGS">FIG. 13</figref>;</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. 15</figref> is a cross-sectional view of the invention taken along line XIV-XIV shown in <figref idref="DRAWINGS">FIG. 14</figref>;</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. 16</figref> is a oblique view of another form of the invention;</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. 17</figref> is an end view of the invention shown in <figref idref="DRAWINGS">FIG. 16</figref>;</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. 18</figref> is a cross-sectional view of the invention taken along line XVIII-XVIII shown in <figref idref="DRAWINGS">FIG. 17</figref>; and</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. 19</figref> is a schematic cross-sectional view of a vessel illustrating operation of the invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0038" num="0037">For purposes of the following description, the terms &#x201c;upper,&#x201d; &#x201c;lower,&#x201d; &#x201c;right,&#x201d; &#x201c;left,&#x201d; &#x201c;rear,&#x201d; &#x201c;front,&#x201d; &#x201c;vertical,&#x201d; &#x201c;horizontal,&#x201d; &#x201c;inclined,&#x201d; and derivatives thereof shall relate to the invention as oriented in <figref idref="DRAWINGS">FIG. 3</figref>. However, it is to be understood that the invention may assume various alternative orientations and component spacing, except where expressly specified to the contrary. It is also to be understood that the specific devices and processes illustrated in the attached drawings and described in the following specification are simply exemplary embodiments of the inventive concepts defined in the appended claims. Hence, specific dimensions and other physical characteristics relating to the embodiments disclosed herein are not to be considered as limiting, unless the claims expressly state otherwise. Moreover, in reference to the drawing figures, like numerals will be used in the different views to illustrate similar components</p>
+<p id="p-0039" num="0038">Referring to the drawing figures, the different embodiments shown therein generally illustrate a device for sealing a drain vent for and for use in conjunction with a plunger or other tool that changes the pressure on one side of a clog in a drain. The seal assembly may be used to seal drain vents commonly used in bathtubs, tubs, and sink drain overflow vents while a plunger or other device is being used. The seal assembly substantially increases the efficiency and effectiveness of breaking up the debris in the drain trap by preventing the escape of the fluid through the drain vent, overflow gate, or secondary drain. The invention also virtually eliminates the need for environmentally unfriendly chemical solvents and caustic compounds used to clean drains and ultimately introduced into the worlds waste water treatments facilities.</p>
+<p id="p-0040" num="0039">According to one form of the invention illustrated in <figref idref="DRAWINGS">FIGS. 1-3</figref>, a seal assembly <b>20</b> for a drain vent comprises a head <b>21</b> defined by a generally tubular body <b>22</b> having a first closed end <b>26</b> and a second open end <b>24</b>. The tubular body <b>22</b> is shown as being substantially cylindrical, although a polygonal-shape or faceted shape would also be acceptable. It is envisioned that the shapes may range from cylindrical to triangular in cross section. The tubular body <b>22</b> may be made from any one of a number of materials including metals, plastics including thermoplastics and thermosetting resins, and glass reinforced resins such as oriented and random oriented fiber materials such as fiberglass and the like. A preferred quality and characteristic of the material is that it be substantially impermeable to fluids. Any one of a number of materials may be used to form the tubular body <b>22</b> so long as the material can provide a rigid sidewall <b>28</b> to define a cavity <b>30</b> between the first <b>26</b> and second <b>24</b> ends of the body <b>22</b> to form a head. In the embodiment shown in <figref idref="DRAWINGS">FIGS. 1-3</figref> the head is generally in the form of a right-circular cylinder where the second closed end <b>26</b> is generally at a right-angle to the cylindrical sidewall <b>28</b>. A sealing member <b>32</b> concentric with a longitudinal axis <b>34</b> of the tubular body is attached to the second open end <b>24</b> of the head <b>21</b> to form a seal against a surface containing the drain vent. According to one form of the invention, the sealing member has a modulus of elasticity less than that of the tubular body <b>22</b> so that the sealing member is more flexible and can be deformed against the surface to be sealed. The sealing member <b>32</b> may be made from any one of a number of materials including rubber, cork, closed-cell foam, and a host of synthetic polymeric materials. Other materials may also be suitable so long as they are impermeable, flexible, and can be attached to the end of the tubular body <b>22</b> to create a seal with another surface.</p>
+<p id="p-0041" num="0040">The seal assembly <b>20</b> also includes a handle <b>34</b> attached to and extending away from the closed first end <b>26</b> of the head <b>21</b> to be grasped by a user for holding the sealing member <b>32</b> against the surface containing the drain vent during the operation and implementation of the invention. Any one of a number of handle arrangements may be designed for use in combination with the invention <b>20</b>. According to one form of the invention, the handle <b>36</b> may be a solid or tubular and may be in the form of a rod <b>38</b> such as shown in <figref idref="DRAWINGS">FIGS. 1-3</figref>. Other handle configurations are envisioned such as T-shaped or C-shaped members extending from the head <b>21</b>. Others may include bulbous knobs. In its simplest configuration, no handle is necessary and the user may simply grasp the closed second end of the head <b>21</b> if desired. Any handle <b>36</b> may be made from wood, metal, or a polymeric material such as polyvinylchloride or other material that offers a substantially rigid structure so that the user can manipulate the tubular body <b>22</b> into a desired orientation and for transferring pressure applied by the user for placing the sealing member <b>32</b> into sealing engagement with a specific surface.</p>
+<p id="p-0042" num="0041">In one particular form of the invention shown in the drawing figures, one end of the handle <b>36</b> may be received within a recess <b>40</b> formed in a nipple or extending into an exterior surface <b>42</b> of the first closed end <b>26</b> of the head <b>21</b> for receiving the handle. The recess <b>40</b> may have a tubular wall concentric with the longitudinal axis <b>34</b> of the tubular body <b>22</b>. It is anticipated that any one of a number of anchoring mechanisms may be employed to hold the handle <b>36</b> within the recess <b>40</b> including mechanical fasteners such as pins, bolt, or screws, or the end of the handle may be threaded and received by corresponding matching threads formed in the wall of the recess. Alternatively it is envisioned that the handle end may be retained by a pressure fit of the material about the end of the handle.</p>
+<p id="p-0043" num="0042">Another form of the invention <b>50</b> illustrated in <figref idref="DRAWINGS">FIGS. 4-6</figref> is based upon substantially the same geometry described above but for the shape of the head <b>52</b>. In the second embodiment of the invention <b>50</b>, the second or closed end <b>54</b> of the head <b>52</b> is generally frusta-conical in form. A generally frusta-conical end wall <b>56</b> tapers from the peripheral edge <b>58</b> of the second end of the sidewall <b>60</b> toward an apex located along the longitudinal axis <b>62</b>.</p>
+<p id="p-0044" num="0043">It is envisioned that other placements of the handle may be adopted particularly to avoid situations where the user encounters interference in using the invention with other tools such as plungers and the like. To accommodate for those instances it is envisioned that accommodation may be made to relocate the handle to a position parallel to the longitudinal axis of the invention, but off-axis. In particular the reader is directed to the forms of the invention shown in <figref idref="DRAWINGS">FIGS. 7-15</figref>. With specific reference to <figref idref="DRAWINGS">FIGS. 7-9</figref>, another form of the invention <b>70</b> is illustrated comprising a head assembly <b>72</b> and a handle assembly <b>74</b>. The head assembly includes a cup-like body <b>76</b> of generally cylindrical shape having a first open end <b>78</b> and a second closed end <b>80</b>. Attached to and concentric with the first open end <b>78</b> of the cup <b>76</b> is a sealing member <b>82</b> of the quality and character to that described above. The exterior surface <b>84</b> of the second and closed end <b>80</b> is also frusta-conical, but asymmetric such that the apex <b>88</b> is located offset from the longitudinal axis <b>86</b> of the invention. Disposed within the second end <b>80</b> of the cup <b>76</b> is a recess <b>90</b> located at the apex <b>88</b> and for receiving the handle assembly <b>74</b> such as described above.</p>
+<p id="p-0045" num="0044"><figref idref="DRAWINGS">FIGS. 10-12</figref> illustrate a more universal embodiment <b>100</b> of the invention wherein alternative handle positions are available. In the embodiment <b>100</b>, the second closed end <b>102</b> of the cup <b>104</b> tapers inwardly from the peripheral edge <b>106</b> of the second end <b>102</b> toward a table or plateau <b>108</b> forming the apex <b>110</b> of the second end <b>102</b>. The table or plateau <b>108</b> has defined therein at least two recesses <b>112</b> and <b>114</b> for selectively receiving the end of the handle <b>116</b>. One of the recesses such as <b>112</b> may be disposed proximate to or concentric with the longitudinal axis <b>118</b> of the invention. The second of the recesses such as <b>114</b> may be disposed off-axis or more aligned toward a peripheral edge <b>106</b> of the cup <b>104</b>.</p>
+<p id="p-0046" num="0045">Other embodiments of the invention are depicted in <figref idref="DRAWINGS">FIGS. 13-18</figref> to illustrate that the size of the cups, both in terms of diameter and in terms of depth, may vary, depending upon the desired application or requirement. For example it is envisioned that cups such as designated by numeral <b>120</b> in <figref idref="DRAWINGS">FIGS. 13-15</figref> may have a reduced longitudinal dimension in terms of the height of the sidewalls <b>122</b> so as to create a smaller cavity <b>124</b> within the sidewalls and between the first open end <b>126</b> and the interior of the second closed end <b>128</b>. <figref idref="DRAWINGS">FIGS. 16-18</figref> are provided to illustrate the alternative accommodations of the handle locations as well. The same type of asymmetrical frusta-conical second end <b>130</b> described above to can provide sufficient material to permit the formation of a plurality of handle recesses <b>132</b> and <b>134</b> to permit the user to place the handle in the most desirable location during use.</p>
+<p id="p-0047" num="0046">The best mode of using the alternative forms of the invention may best be understood by reference to <figref idref="DRAWINGS">FIG. 19</figref>. There a portion of a vessel <b>150</b> such as a sink or tub is depicted in a fragmentary cross-sectional view. The bottom <b>152</b> of the vessel <b>150</b> includes a drain <b>154</b> which is in fluid communication with a drain vent <b>156</b> that extends to an upper portion of the vessel <b>150</b>. Both the drain <b>154</b> and the drain vent <b>156</b> are in turn in fluid communication with the downstream drain trap (not shown) where most clogs occur. If the drain vent <b>156</b> is not plugged, any plunging of the drain <b>154</b> will force any air pressure up the drain vent <b>156</b> to ambient. The pressure generated by the plunger is directed against the drain clog when the invention is placed such that the cup-like body of the invention is placed over the drain vent opening and sealed by the sealing member pressed against the sides of the vessel <b>150</b>. As seen in the figure, it occasionally transpires that the handle of the plunger and the handle of the invention interfere with one another because it is not unusual for the drain and the drain vent to be vertically aligned. By initially placing the handle of the invention off-axis from the longitudinal axis described above, the handle of the invention can be rotated ninety-degrees to one side or other of the vertical plane and avoid any interference between the handles of the invention and the plunger.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A seal for a drain vent, comprising: a tubular body having a first closed end and a second open end for forming a rigid cavity within said tubular body; a sealing member concentric with a longitudinal axis of said tubular body and attached to said second open end of said tubular body for forming a seal against a surface containing the drain vent; a handle and a recess extending into an exterior surface of said first closed end of said tubular body for receiving said handle; said handle and said recess being located peripherally with respect to said tubular body and spaced from said longitudinal axis of said tubular body, and said handle attached to said tubular body via said recess and extending away from said closed first end of said tubular body for holding said sealing member against said surface containing the drain vent.</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The seal for a drain vent as defined in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said tubular body includes a modulus of elasticity greater than that for said sealing member.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The seal for a drain vent as defined in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said sealing member includes a modulus of elasticity lesser than that for said tubular body.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The seal for a drain vent as defined in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said tubular body includes a polygonal-shaped tubular body.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The seal for a drain vent as defined in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said tubular body includes a cylindrical-shaped tubular body.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The seal for a drain vent as defined in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said tubular body is comprised of thermoplastic material.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The seal for a drain vent as defined in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said tubular body is comprised of a thermosetting material.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The seal for a drain vent as defined in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said tubular body is comprised of a metallic material.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The seal for a drain vent as defined in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said tubular body is comprised of an oriented stand material.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The seal for a drain vent as defined in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said tubular body is comprised of a random oriented strand material.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The seal for a drain vent as defined in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said tubular body is substantially impermeable to fluids.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The seal for a drain vent as defined in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said sealing member is substantially impermeable to fluids.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The seal for a drain vent as defined in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said sealing member is substantially non-porous.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The seal for a drain vent as defined in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said handle and said recess are parallel to said longitudinal axis of said tubular body.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The seal for a drain vent as defined in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said recess includes a threaded interior wall.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The seal for a drain vent as defined in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said handle is retained within said recess by a mechanical fastener.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The seal for a drain vent as defined in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said handle is retained within said recess by compression of said recess about said handle. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

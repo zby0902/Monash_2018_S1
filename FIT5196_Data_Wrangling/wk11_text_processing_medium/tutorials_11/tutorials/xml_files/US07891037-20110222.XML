@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891037-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891037</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11941879</doc-number>
+<date>20071116</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>11</class>
+<subclass>B</subclass>
+<main-group>23</main-group>
+<subgroup>50</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 15 971</main-classification>
+<further-classification> 151048</further-classification>
+</classification-national>
+<invention-title id="d2e43">Motorized waterproof fluid dispenser</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>4189801</doc-number>
+<kind>A</kind>
+<name>Lanusse</name>
+<date>19800200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 15 221</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>5857233</doc-number>
+<kind>A</kind>
+<name>Wynn</name>
+<date>19990100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 15 971</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>7044938</doc-number>
+<kind>B2</kind>
+<name>La Bianco et al.</name>
+<date>20060500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>604290</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>2008/0146977</doc-number>
+<kind>A1</kind>
+<name>Hilditch</name>
+<date>20080600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>601 72</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>19</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 15 971</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 15 972</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 15 24</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 15 29- 34</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 151048</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>604289</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>604291</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>401118</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>401125</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>401136</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>401137</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>601 72</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>601159</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>222192</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>13</number-of-drawing-sheets>
+<number-of-figures>14</number-of-figures>
+</figures>
+<us-related-documents>
+<continuation-in-part>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>11562386</doc-number>
+<date>20061121</date>
+</document-id>
+<parent-status>ABANDONED</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>11941879</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation-in-part>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60900965</doc-number>
+<date>20071213</date>
+</document-id>
+</us-provisional-application>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20080125680</doc-number>
+<kind>A1</kind>
+<date>20080529</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Richmond</last-name>
+<first-name>David</first-name>
+<address>
+<city>Culver City</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Richmond</last-name>
+<first-name>Howard</first-name>
+<address>
+<city>Los Angeles</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Koptis</last-name>
+<first-name>Kurt</first-name>
+<address>
+<city>Yucca Valley</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Sheldon Mak &#x26; Anderson, PC</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<last-name>Swanson</last-name>
+<first-name>Elizabeth</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Tubetech, LLC</orgname>
+<role>02</role>
+<address>
+<city>Culver City</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Nguyen</last-name>
+<first-name>Dung Van</first-name>
+<department>3723</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A motorized waterproof fluid dispenser and applicator is disclosed. The device manually dispenses at least one liquid from a filled container through one or more openings in the device's moving applicator surface. The device itself is waterproof, and designed to be used in a shower or bathtub. Pressure applied by a user during fluid application does not appreciably dampen applicator movement. The motor moving the applicator is suspended within the device allowing motion to be transmitted directly to the applicator while motion is only weakly transmitted to the outside of the device held by a user. Removable or disposable pads may be affixed to the applicator surface to present a variety of applicator surfaces or heat. The batteries may be replaced, providing for a long overall lifetime of the device while also providing for its inexpensive manufacture.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="163.66mm" wi="229.53mm" file="US07891037-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="229.53mm" wi="162.98mm" orientation="landscape" file="US07891037-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="225.55mm" wi="143.26mm" orientation="landscape" file="US07891037-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="222.42mm" wi="171.20mm" orientation="landscape" file="US07891037-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="240.11mm" wi="162.98mm" file="US07891037-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="101.09mm" wi="119.46mm" file="US07891037-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="187.11mm" wi="129.03mm" file="US07891037-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="86.28mm" wi="116.67mm" file="US07891037-20110222-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="125.98mm" wi="84.67mm" file="US07891037-20110222-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="218.52mm" wi="164.25mm" file="US07891037-20110222-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="147.07mm" wi="231.90mm" file="US07891037-20110222-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="129.54mm" wi="122.00mm" file="US07891037-20110222-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="158.16mm" wi="123.11mm" file="US07891037-20110222-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="142.41mm" wi="121.84mm" file="US07891037-20110222-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">CONTINUATION IN PART</heading>
+<p id="p-0002" num="0001">This is a continuation in part application of MOTORIZED FLUID DISPENSER AND METHOD OF USE THEREFOR, U.S. Ser. No. 11/562,386 filed 21 Nov. 2006 now abandoned and of MOTORIZED WATERPROOF FLUID DISPENSER AND METHOD OF USE THEREFOR, PCT application number PCT/US07/76552 filed 22 Aug. 2007.</p>
+<heading id="h-0002" level="1">INCORPORATION BY REFERENCE</heading>
+<p id="p-0003" num="0002">The inventors incorporate herein by reference the currently pending patent applications identified as MOTORIZED FLUID DISPENSER AND METHOD OF USE THEREFOR, U.S. Ser. No. 11/562,386 filed 21 Nov. 2006; VIBRA BAR APPLICATOR CONTAINER MIX-USE SOAPS AND CREAMS, U.S. Ser. No. 60/900,965 filed 13 Feb. 2007; and MOTORIZED WATERPROOF FLUID DISPENSER AND METHOD OF USE THEREFOR, PCT application number PCT/US07/76552 filed 22 Aug. 2007.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0003" level="1">BACKGROUND OF DEVICE AND METHOD OF THIS DISCLOSURE</heading>
+<p id="p-0004" num="0003">Skin care, hair care and other body care liquids, soaps, creams or fluids sold for personal use at home are often sold in dispensers. These dispensers contain the fluid until it is dispensed and applied to a targeted area, usually skin or hair.</p>
+<p id="p-0005" num="0004">Both of a user's hands are typically used while applying the fluid to a targeted surface. A user will employ one hand to force or to pour fluid from the dispenser, while the user's other hand is frequently used to position a targeted surface adjacent the dispenser aperture to receive the dispensed fluid. This surface may comprise the user's other hand, an area of targeted skin or hair, or an applicator.</p>
+<p id="p-0006" num="0005">After dispensing fluid, the user then typically applies the dispensed fluid over a targeted area of skin or hair by using the palms or fingers of one or both hands, or by using an applicator onto which fluid was applied. This can be done manually or by using a motorized massager or applicator which imparts movement to spread the fluid or to massage an area onto which fluid was previously applied.</p>
+<p id="p-0007" num="0006">Simple, manual fluid applicators include a user's hand or hands, or a material, for example gauze or cotton balls, onto which liquid has been dispensed. Some prior art liquid make-up containers include an applicator brush or sponge through which liquid make-up is dispensed and manually applied to a user's skin. Finally, there are some electric skin massagers that can be used to apply previously dispensed fluids onto skin or hair. However, there are no devices that simultaneously dispenses fluid and massages or mechanically applies the dispensed fluid into skin or hair while requiring the use of only one hand of the user.</p>
+<p id="p-0008" num="0007">When fluid is being applied, varying degrees of pressure and varying amounts of motion may be applied by the user, depending on the treatment being provided. With hand operated motorized devices, increased pressure on the applicator surface may affect the degree of movement of the massaging surface. If the applicator surface being pressed onto skin or hair is directly linked to the motor, pressure on the surface may slow or burn out the motor. Traditionally, massage units, electric toothbrushes and the like have employed stronger motors or gears to overcome this pressure.</p>
+<p id="p-0009" num="0008">Motorized personal massagers and the like are also prone to causing a user's hand to tingle or feel numb from holding the device during use because the vibration imparted to the applicator surface is typically transmitted to the device's handle directly. No vibration absorbing mechanism is disclosed in the prior art that mechanically isolates vibration created by the vibrating motor of a hand held massager from a user's hand holding the vibrating device.</p>
+<p id="p-0010" num="0009">It is relatively complicated, and therefore relatively costly, to engineer a hand held motorized massaging or applicator device that relies upon a strong motor or a mechanical gear assembly to overcome resistance to pressure applied to the applicator surface. The costs are increased by both the number of parts and the mechanical tolerances of parts manufactured and assembled to create a functional massager. There is therefore a need for a less expensive device.</p>
+<p id="p-0011" num="0010">In addition to this need, no hand held motorized massager, liquid applicator or toothbrush exists that also dispenses contained fluid onto skin or hair under water, while its user is bathing or showering. Further, no such device is known that minimizes vibrational energy to the user's hand holding the device during use. Still further, no such hand-held household device that is cost effective to produce has been disclosed, nor has any method for its use or manufacture been revealed to date by any party.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">DRAWING DESCRIPTION</heading>
+<p id="p-0012" num="0011">Several embodiments, including the preferred embodiment, are disclosed in the accompanying drawing which includes the following figure (Figs.), with like numerals indicating like parts:</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 1</figref> is an exploded top and side perspective view of one embodiment of the a portion of the device of this disclosure;</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 2</figref> is an exploded bottom and side perspective view of one embodiment of the disclosed device;</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 3</figref> is an enlarged exploded top and side perspective view one embodiment of the disclosed device;</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 4</figref> is a partial exploded perspective view of one embodiment of the disclosed device as viewed from the bottom and side;</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 5</figref> is a partial exploded perspective view of one embodiment of the disclosed device as viewed from the top and side;</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 6A</figref> is a top view of the disclosed device illustrating a sectional plane B defined along the xz plane;</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 6B</figref> is a section view of one embodiment of the disclosed device taken along plane B defined in the xz plane;</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 6C</figref> is a section view of another embodiment of the disclosed device along plane B and the xz plane;</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 7A</figref> is a top view of one embodiment of the disclosed device illustrating a sectional plane B along the yz-axis;</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 7B</figref> is a sectional view of one embodiment of the disclosed device along plane B defined in the yz plane;</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 8</figref> is an enlarged side and bottom partly exploded view of one embodiment of the disclosed device;</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 9A</figref> is a sectional view of one embodiment of the disclosed device along plane B defined in the yz plane;</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 9B</figref> is a sectional view of another embodiment of the disclosed device along plane B defined in the yz plane; and</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 9C</figref> is a sectional view of yet another embodiment of the disclosed device along plane B defined in the yz plane.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<p id="p-0027" num="0026">While these Figures may illustrate elements or components of embodiments of the disclosed device, it will be appreciated that the present disclosure may extend to equivalents thereto without departing from the scope of the disclosure.</p>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0028" num="0027">Referring to one embodiment of the disclosure, which is a preferred embodiment and is illustrated in the <figref idref="DRAWINGS">FIGS. 1</figref>, <b>4</b> and <b>5</b>, this embodiment comprises a cap <b>20</b>, an applicator <b>10</b>, a housing <b>50</b>, a fluid container <b>90</b>, and additional components enclosed by the housing <b>50</b> which serve to power the motor <b>60</b> and to deliver fluid from the container <b>90</b> to the exterior surface of the applicator <b>140</b>.</p>
+<p id="p-0029" num="0028">The cap <b>20</b> preferably comprises a translucent plastic and defines a wall <b>220</b> and a top <b>210</b>. The wall <b>220</b> is configured to snap fit or otherwise enclose the applicator <b>10</b>.</p>
+<p id="p-0030" num="0029">Continuing to provide details of an embodiment, <figref idref="DRAWINGS">FIGS. 5</figref>, <b>6</b>B and <b>7</b>B illustrate that the device of the disclosure comprises an applicator <b>10</b> with an exterior applicator surface <b>140</b>, which surface defines an exterior <b>130</b> and an interior rim <b>150</b>. The surfaces <b>130</b>, <b>140</b> also defines at least one channel opening <b>110</b>, which opening <b>110</b> is adapted to permit fluid flow therethrough. In one embodiment, at least two openings <b>110</b> are so defined.</p>
+<p id="p-0031" num="0030">The side opposite the exterior applicator surface <b>140</b> defines at least an interior surface <b>160</b>, and as many channel sleeves <b>120</b> as there are channel openings <b>110</b>. Each sleeve <b>120</b> defines a hollow core aligned with the mouth of a corresponding channel opening <b>110</b>. While the applicator end of each of said channel sleeve <b>120</b> aligns with and co-defines its corresponding channel opening <b>110</b>, the other end of each said sleeve <b>120</b> defines a hollow tube adapted to sealingly and snugly mate with the upright end of a pipe-L fluid conduit <b>430</b>, as illustrated at <figref idref="DRAWINGS">FIGS. 2</figref>, <b>7</b>B and <b>8</b>. Such seal effectively allows fluid within these sealingly connected conduits to pass therethrough, but prevent any fluid from leaking out of joints between components, for example the sleeve <b>120</b> and the conduit <b>430</b>.</p>
+<p id="p-0032" num="0031">The interior surface <b>160</b> of the applicator <b>10</b> further comprises a suspension seal <b>180</b> configured to both mechanically and frictionally mate with a motion concentrator <b>70</b>, as illustrated at <figref idref="DRAWINGS">FIGS. 6B and 7B</figref>.</p>
+<p id="p-0033" num="0032">The applicator <b>10</b> comprises of a pliable, waterproof, washable material. The applicator <b>10</b> may preferably comprise silicone rubber, polyurethane, or any material having a Shore&#xae; A durometer hardness of about 30 to about 60.</p>
+<p id="p-0034" num="0033">The exterior <b>130</b> and interior rims <b>150</b> of the applicator <b>10</b> define a groove <b>170</b> therebetween. When the device of the embodiment is constructed, an upper aperture of a housing <b>580</b> of the device will be permanently attached to the applicator <b>10</b> by bonding the aperture <b>580</b> within the groove <b>170</b> defined by the inner <b>150</b> and outer <b>130</b> applicator rims. While the use of a groove <b>170</b> with the shape as disclosed by <figref idref="DRAWINGS">FIGS. 6B and 7B</figref> is a preferred embodiment, it is not the only shape of groove <b>170</b> that may effect a waterproof seal.</p>
+<p id="p-0035" num="0034">The components or elements of the device disclosed herein, such as for example the applicator <b>10</b> and housing <b>50</b>, may be permanently affixed to one another by any one of several methods known in the art that creates a watertight or waterproof bond therebetween. In one embodiment, an applicator ring (not shown) comprising a stiff commercial grade plastic, polypropylene, polyolefin, or acrylonitrile butadiene styrene comprises an applicator end and a housing end. The applicator end may be permanently affixed within the groove <b>170</b>. The housing end is configured to create a waterproof seal when it is snap fit with the housing upper aperture <b>580</b>. Such waterproof snap fit may comprise any configuration known in the art of components, including but not limited to a chamfered leading edge of the housing end of the applicator ring or of the housing upper aperture <b>580</b>; a pair or more of anchor tabs that fit into a groove; and a shouldered groove configured to accept and mate with a shouldered tab. In an embodiment comprising an applicator ring, the applicator <b>10</b> is permanently affixed to the applicator ring itself.</p>
+<p id="p-0036" num="0035">Such adhesion methods between components or materials of the disclosed device may include, but are not limited to, adhesive bonding, thermal bonding, ultra sonic bonding, and the like. However, the preferred embodiments afford inexpensive assembly and durability.</p>
+<p id="p-0037" num="0036">The exterior surface <b>140</b> of the applicator <b>10</b> may define several shapes suitable for applying fluid to human skin or hair. In one embodiment, the exterior surface <b>140</b> defines a number of small nubs or bumps, which when the motor <b>60</b> of the device is activated, transmit a massaging motion to the human skin or hair contacting the exterior of the applicator surface <b>140</b>. Other exterior surface <b>140</b> variations comprise but are not limited to a ribbed surface, a smooth surface, or an indented surface. Any surface that provides a pleasant sensation when the exterior applicator surface <b>140</b> is placed in contact with human skin or hair may be used.</p>
+<p id="p-0038" num="0037">Additionally, as illustrated in <figref idref="DRAWINGS">FIGS. 9A</figref>, <b>9</b>B and <b>9</b>C, the exterior surface of the applicator <b>140</b> may comprise a bonding surface adapted to removeably affix a pad <b>590</b> to the exterior surface of the applicator <b>140</b>. Such bonding layer may comprise an adhesive material, one surface of a loop and/or hook material, or the like. In the case of using a loop and hook adhesion system, there is no preference given to whether the loop or the hook surface is attached to the applicator exterior surface <b>140</b> or to the underside of applicator pad or sleeve <b>590</b> that will mate with the applicator's exterior surface <b>140</b>. This pad <b>590</b> may comprise a differently configured applicator surface.</p>
+<p id="p-0039" num="0038">The pad <b>590</b> may also comprise a sachet containing heat or cold producing compounds. One such product is an air activated, heat releasing mixture, sold under the trademark HEAT TREAT&#xae; (U.S. Pat. No. 2,854,530). This product comprises a water permeable membrane that encloses a mixture of carbon, cellulous, vermiculite, sodium acetate, activated carbon, and iron. The composition contained within the water permeable membrane of this product is heated when the product comes in contact with air. After use, the removable pad <b>590</b> is discarded. A multi-use heating or cooling pad is also within the scope of this disclosure.</p>
+<p id="p-0040" num="0039">The exterior surface <b>140</b> of the applicator <b>10</b> may also be adapted to mate with an inner surface of a removeably attachable, microwavable or coolable gel pack. This gel pack is commonly available and typically comprises a semi-solid gel enclosed in a synthetic, water impermeable membrane.</p>
+<p id="p-0041" num="0040">The exterior surface <b>140</b> of the applicator <b>10</b> also may be adapted to removeably adhere to the underside of a sleeve <b>590</b>, which sleeve is adapted to fit over the applicator <b>10</b> entirely and encompass it. In another embodiment, the sleeve <b>590</b> is configured to stretch fit or snap fit over the applicator <b>10</b>, and requires no adhesive.</p>
+<p id="p-0042" num="0041">In yet another embodiment, any pad <b>590</b> removeably affixable to the applicator <b>10</b> further comprises one or more hollow sleeves (not shown) depending from the apertures in the pad <b>590</b>. Such sleeves require the pad <b>590</b> to be properly aligned on the applicator <b>10</b> to permit fluid to be transmitted therethrough.</p>
+<p id="p-0043" num="0042">In yet a further embodiment, the motor will not turn on unless the one or more hollow sleeves depending from the pad <b>590</b> are correctly aligned and positioned within the one or more applicator apertures.</p>
+<p id="p-0044" num="0043">Regardless of its configuration or contents, the preferred embodiment of the pad or sleeve <b>590</b> also permits fluid application therethrough. One embodiment provides apertures in the pad <b>590</b> that line up with the applicator openings <b>110</b> when the pad is correctly positioned on the applicator <b>10</b>. Unless the pad <b>590</b> is correctly positioned, fluid will not flow out of the applicator openings <b>110</b>.</p>
+<p id="p-0045" num="0044">Turning now to other components of the disclosed device and <figref idref="DRAWINGS">FIGS. 2 and 8</figref>, a housing <b>50</b>, described in more detail below, supports the applicator <b>10</b>, and is sealingly attached thereto. The housing <b>50</b> comprises a material with a Shore&#xae; A durometer hardness from about 30 to about 60. Preferably, the housing <b>50</b> comprises any class of rigid polypropylene or polyolefin. It may also comprise acrylonitrile butadiene styrene. The housing <b>50</b> comprises at least one wall <b>520</b> of a preferable height of from about 1 inch to 2 inches. It will be appreciated that these examples of preferred embodiments do not limit the scope of this disclosure so as to exclude equivalents.</p>
+<p id="p-0046" num="0045">The at least one wall of the housing <b>570</b> defines a housing upper aperture <b>580</b> at one end of the at least one wall <b>520</b>, which housing <b>50</b> also comprises a housing floor <b>510</b> proximate the at least one wall's <b>570</b> other end. The housing upper aperture <b>580</b> sealingly mates with the groove <b>170</b> defined by the inner <b>150</b> and exterior rims <b>130</b> of the applicator <b>10</b>.</p>
+<p id="p-0047" num="0046">In a preferred embodiment, the wall <b>570</b> defines a generally cylindrical shape, and the housing upper aperture <b>580</b> itself, or the applicator ring (not shown), is permanently mated and sealed in its position between the inner <b>150</b> and outer applicator rims <b>130</b>. In a preferred embodiment, the applicator <b>10</b> is sealed to the housing <b>50</b> or is sealed to the applicator ring (not shown) by adhesion, which adhesion may be affected by any method commonly known in the art.</p>
+<p id="p-0048" num="0047">The housing <b>50</b> also comprises a motor <b>60</b> and an electrical circuit to power the motor <b>60</b> in FIGS. <b>1</b>,<b>2</b>,<b>3</b> and <b>7</b>B. The motor <b>60</b> comprises a motor body <b>640</b>, a motor axle <b>630</b>, electrical leads <b>620</b>, and a weight <b>610</b> eccentrically mounted on the motor's axle <b>630</b>. When direct, low voltage current is supplied to the motor <b>60</b> by a battery <b>310</b> connected to the motor's leads <b>620</b>, the motor <b>60</b> is turned ON and spins its axle <b>630</b>. The revolution of the eccentrically mounted weight <b>610</b> about the motor axle <b>630</b> imparts vibrational energy to the motor <b>60</b> and to all components directly and frictionally connected thereto.</p>
+<p id="p-0049" num="0048">It is not typically pleasant for a user to hold a vibrating device for extended periods of time. To minimize vibration to a user's hand while the user is practicing the method of, or is manipulating the device, of the disclosure, the motor <b>60</b> is mounted within the housing <b>50</b> on a motion concentrator <b>70</b>. The motion concentrator <b>70</b> comprises a motor cradle <b>760</b>, a weight chamber <b>780</b>, a motion contact surface <b>750</b>, an annular support ring <b>790</b>, and at least one support leg <b>770</b>. In a preferred embodiment, there are three support legs <b>770</b>, and the ratio of the length of each of the support legs to its thickness is preferably about 10:1.</p>
+<p id="p-0050" num="0049">The motor cradle <b>760</b> snugly and firmly holds the motor <b>60</b>. The weight chamber <b>780</b> extends from the cradle <b>760</b>, and is configured to permit the eccentric rotation of the weight <b>610</b> about the motor axle <b>630</b> without the weight <b>610</b> contacting the sides of the weight chamber <b>780</b>.</p>
+<p id="p-0051" num="0050">The weight chamber <b>780</b> is itself connected to at least one motion contact surface <b>750</b>. At least one motor concentrator leg <b>770</b> depends from this surface <b>750</b>. The motion contact surface <b>750</b> is fixedly connected to the motor cradle <b>760</b> and weight chamber <b>780</b>, and therefore is vibrated or oscillated by the rotation of the eccentrically mounted weight <b>610</b> when the motor <b>60</b> is ON. The one or more legs <b>770</b> are adapted to suspend the motor cradle <b>760</b>, and weight chamber <b>780</b> and contact surface <b>750</b> within the housing <b>50</b> while simultaneously preventing these components from bumping against the housing wall <b>50</b>.</p>
+<p id="p-0052" num="0051">The motion contact surface <b>750</b> is further adapted to mechanically or to frictionally mate with the interior surface of the applicator <b>160</b> and the suspension seal <b>180</b> of the applicator (<figref idref="DRAWINGS">FIG. 6B</figref>). Through this mechanical and frictional mating, the motion contact surface <b>750</b> imparts the massaging vibrations generated by the motor <b>60</b> directly to the interior surface of the applicator <b>160</b>. The applicator's exterior surface <b>140</b>, being the opposite side of the inner surface <b>160</b>, is also vibrated.</p>
+<p id="p-0053" num="0052">With reference to <figref idref="DRAWINGS">FIGS. 1</figref>, <b>3</b> and <b>7</b>B, at least one motor concentrator leg <b>770</b> depends from the motion contact surface <b>750</b>, and at least one leg is/are footed in an annular ring <b>790</b>. The at least one leg <b>770</b> is/are configured to permit eccentric movement of the motor <b>60</b> while absorbing or minimally transmitting eccentric movement between the contact surface <b>750</b> through the suspension legs <b>770</b> to the annular ring <b>790</b>. The annular ring <b>790</b> is permanently affixed to the housing <b>50</b>. In preferred embodiments, the annular ring <b>790</b> is affixed to the housing floor <b>510</b> or to the interior surface of the housing wall <b>570</b>. Further, to isolate motion between the motor <b>60</b> and the housing <b>50</b>, the contact surface <b>750</b> may define one or more grooves <b>740</b> flanking the area at which the top of each leg <b>770</b> becomes part of or joins the contact surface <b>750</b>.</p>
+<p id="p-0054" num="0053">The motor cradle <b>760</b> is also configured to permit electrical leads <b>620</b> located at one end of the motor <b>60</b> to connect with the battery <b>310</b> and a microswitch <b>370</b>. This microswitch <b>370</b> controls the ON/OFF state of the motor <b>60</b>.</p>
+<p id="p-0055" num="0054">In a preferred embodiment, <figref idref="DRAWINGS">FIG. 6B</figref>, the applicator <b>10</b> comprises a flexible material that is thicker at its rims <b>130</b>, <b>150</b> than it is at an annular area <b>170</b> directly adjacent and towards the center of the applicator <b>10</b>. Because of this thinner area <b>170</b>, vibration of the applicator's inner and outer surfaces <b>140</b>, <b>160</b> is absorbed and not fixedly translated to its rims <b>130</b>, <b>150</b> or the attached housing <b>50</b>. The thin layer <b>170</b> therefore decreases vibration to a user's hand holding the device of the disclosure.</p>
+<p id="p-0056" num="0055">During its intended use, a user presses the applicator surface <b>140</b> against skin or hair. This pressure is absorbed by deforming the motor concentrator legs <b>770</b>, <figref idref="DRAWINGS">FIGS. 2 and 7B</figref>. These legs <b>770</b> preferably comprise polypropylene or polyolefin, and the geometry of each leg <b>770</b> comprises a length about ten times its thickness. The contact surface <b>750</b>, weight chamber <b>780</b> and motor cradle <b>760</b> are not deformed, but are simply moved downwardly along the Axis A (<figref idref="DRAWINGS">FIG. 7B</figref>) as each leg <b>770</b> is deformed. Further, the components <b>750</b>, <b>780</b>, <b>760</b> preferably comprise a stiff polyethylene or polyolefin and may comprise a single molded piece. Regardless of manufacturing techniques used, the components <b>750</b>, <b>780</b>, <b>760</b> together comprise a protective chamber suspended by the legs <b>770</b> within the housing <b>50</b>.</p>
+<p id="p-0057" num="0056">Were pressure exerted through the applicator <b>10</b> to bear directly on the rotating weight <b>610</b>, it would be applied along its Axis A (<figref idref="DRAWINGS">FIG. 7B</figref>) of rotation and so minimally affect its rotation. In a preferred embodiment, the axle <b>630</b> therefore lies along Axis A, or along an axis normal to Plane P. The Axis A may be said to be equivalent to the z axis, and the Plane P may be said to lie upon the plane defined by the xy axes of a common three dimensional Cartesion xyz coordinate system, commonly known in the art.</p>
+<p id="p-0058" num="0057">Suspending the motor <b>60</b> within the housing provides unrelated benefits, namely to protect the massaging action of device from pressure, and to decrease unpleasant vibration felt in the hand holding the device during use. In a preferred embodiment, the applicator surface lies at an angle of 45 degrees or less when measured from Plane P (the xy plane).</p>
+<p id="p-0059" num="0058">As in <figref idref="DRAWINGS">FIGS. 2</figref>, <b>4</b>, <b>7</b>B and <b>8</b>, an electrical circuit, interrupted by manually controlled ON/OFF switch <b>80</b>, electrically connects the poles of the battery <b>310</b> to the electrical leads of the motor <b>620</b>. A flexible electrical switch cover <b>820</b> seals the housing aperture <b>575</b> while allowing operation of the ON/OFF switch <b>80</b>. Several electrical low voltage circuits known in the art could be used.</p>
+<p id="p-0060" num="0059">In the preferred embodiment of the disclosure, such an electrical circuit comprises: an electrically conductive battery door cover <b>320</b> contacting the positive battery pole of the battery <b>310</b>; an electrically conductive washer <b>330</b> encircling a central floor aperture of the housing <b>505</b> and in electrical contact with the battery door cover <b>320</b>; an electrical connector (not shown) between the washer <b>330</b> and a first electrical pole of a printed circuit board <b>380</b>; one pole of a microswitch <b>370</b> electrically attached to the first circuit board pole <b>380</b>; a second pole of a microswitch <b>370</b> electrically attached to the second printed circuit board <b>380</b> pole; and an electrical conductor (not shown) connecting the second microswitch pole <b>370</b> to an electrically conductive spring <b>390</b> positioned at, and in electrical connection with, the negative battery <b>310</b> pole.</p>
+<p id="p-0061" num="0060">Continuing to reference <figref idref="DRAWINGS">FIGS. 2</figref>, <b>4</b> and <b>8</b>, a battery opening <b>520</b> is defined by the floor of the housing <b>510</b>, and is configured to permit sliding a battery <b>310</b> therethrough (<figref idref="DRAWINGS">FIGS. 2 and 8</figref>). This battery opening <b>520</b> is adjacent the housing central aperture <b>505</b>. The electrically conductive battery door cover <b>320</b> is adapted to cover the battery opening <b>520</b> and to encircle the housing central aperture <b>505</b>. The cover <b>320</b> pivots about the aperture <b>505</b> because the cover <b>320</b> comprises a pivot ring <b>325</b> adapted to pivotally encircle the aperture <b>505</b>. This cover <b>320</b> creates part of the electrical circuit described above when the cover <b>320</b> is positioned to close over the battery opening <b>520</b>.</p>
+<p id="p-0062" num="0061">Additionally, a contact washer <b>330</b> encircling the same housing central aperture <b>505</b> lies between the cover's pivot ring <b>340</b> and the housing aperture <b>505</b>. A battery door handle <b>330</b> may extend at an angle away from the battery door cover <b>320</b> to permit user rotation of the battery door cover <b>320</b> over and away from the battery opening <b>520</b>. The lower surface of the housing floor <b>510</b> also defines a battery door seating <b>510</b>, which seating <b>510</b> both stops rotation of the battery door cover <b>520</b>, and creates a waterproof seal.</p>
+<p id="p-0063" num="0062">In another embodiment of disclosure, a switch <b>80</b> directly manipulated by a user may be replaced or supplemented. The microswitch <b>370</b> is positioned adjacent one of the supporting legs <b>770</b>. When a user applies pressure along the z-axis on the applicator <b>10</b>, the supporting leg <b>770</b> is deformed and contacts the microswitch <b>370</b>, thereby controlling the motor <b>60</b>. The motor <b>60</b> of the device is therefore controlled in various embodiments by a directly manipulated switch <b>370</b> by a leg <b>770</b>, or both.</p>
+<p id="p-0064" num="0063">As stated above, the battery door cover <b>320</b> and pivot ring <b>340</b> are positioned about central aperture in the housing floor <b>505</b>. This aperture <b>505</b> is sized to permit fluid from the container <b>90</b> to flow through the aperture <b>505</b>. The aperture is preferably lined by the stem of a connector-T <b>420</b> which is itself adapted to permit fluid to travel therethrough. In the preferred embodiment, the connector-T <b>420</b> comprises a flexible material, for example, silicone, which will affect a watertight seal between the aperture in the housing floor <b>505</b> and the container nipple <b>910</b> when the components of the device of the discloser are assembled.</p>
+<p id="p-0065" num="0064">The connector-T <b>420</b> comprises a stem and a pair of arms, and is hollow throughout, to permit fluid flow therethrough. In a preferred embodiment, parallel annular rings <b>420</b><i>a</i>, <b>420</b><i>b</i>, are located apart on the stem of the connector-T <b>420</b> (<figref idref="DRAWINGS">FIG. 2</figref>). This pair of rings <b>420</b><i>a</i>, <b>420</b><i>b </i>sandwiches a central housing aperture <b>505</b> defined by the housing floor. The aperture <b>505</b> may additionally define prongs or extensions <b>505</b><i>a </i>spaced apart from the housing floor <b>510</b>. The prongs <b>505</b><i>a </i>are snugly positioned between the connector-T flanges <b>420</b><i>a</i>, <b>420</b><i>b </i>and allow little movement of the T-connector <b>420</b>.</p>
+<p id="p-0066" num="0065">Each of the connector-T <b>420</b> two branches is connected to a pipe-L <b>430</b>. The lower branch of each pipe-L <b>430</b> extends outwardly from the connector-T <b>420</b>, and is each pipe-L <b>430</b> is fluidly connected to the connector-T <b>420</b> by a watertight seal. The top leg of each pipe-L <b>430</b> is inserted into the applicator channel sleeves <b>120</b> and each pipe-L <b>430</b> forms a waterproof fit with each channel sleeve <b>120</b>.</p>
+<p id="p-0067" num="0066">The lower surface of the housing also defines a floor sealing rim <b>550</b> (<figref idref="DRAWINGS">FIGS. 4</figref>, <b>7</b>B and <b>8</b>). Adjacent the floor sealing rim <b>550</b> is a sealing component <b>100</b>, for example, a sealing flared torus <b>100</b><i>a</i>, or an O-ring <b>100</b><i>b</i>. These sealing components preferably comprise silicone rubber or polyurethane having a Shore&#xae; A durometer rating of about 30 to about 60. In a preferred embodiment, this sealing component comprises a flexible flared torus <b>100</b><i>a </i>co-molded to the housing floor <b>510</b>. The geometry of this flared torus <b>100</b><i>a </i>comprises about a 5 degree conical angle, with the broader end of the cone attached to the floor sealing rim <b>550</b>. The conical torus <b>100</b><i>a </i>is positioned to splay outwardly to create a waterproof seal between the floor sealing rim <b>550</b> and a housing end <b>940</b> of the container <b>90</b> when the housing <b>50</b> and container <b>90</b> are attached. The housing end of the container <b>940</b> further defines a rim <b>960</b> adapted to mate with the rim of the housing floor <b>550</b>. As described in some detail above, a co-molded conical torus <b>110</b><i>a </i>may provide waterproof sealing between the housing end of the tube <b>940</b> and the rim of the housing floor <b>550</b>. In an alternative embodiment, an O-ring <b>110</b><i>b </i>may be used n addition to or in lieu of the co-molded conical torus <b>100</b><i>a </i>to ensure a water tight seal between the container <b>90</b> and the housing <b>50</b>.</p>
+<p id="p-0068" num="0067">Referencing <figref idref="DRAWINGS">FIGS. 5 and 7B</figref>, the housing end <b>940</b> of the container <b>90</b> that becomes removeably attached to the housing <b>50</b> is shaped to abut and fit within the floor sealing rim <b>550</b>. The housing floor <b>510</b> defines at least a pair of keyhole apertures <b>530</b> adapted to accept and lock with a pair of bayonet studs <b>920</b> extending upwardly from the container's closed end <b>930</b>.</p>
+<p id="p-0069" num="0068">When the bayonet studs <b>920</b> are mated and locked into the keyhole apertures <b>530</b>, the housing <b>50</b> and container <b>90</b> are removably attached. As the housing end <b>940</b> is urged to abut and fit within the floor sealing rim <b>550</b>, the conical torus <b>100</b><i>a </i>is deformed outwardly and comprise a waterproof seal.</p>
+<p id="p-0070" num="0069">At least one housing wall <b>520</b> ascends upwardly from the housing floor <b>510</b>, defining a battery holding silo <b>515</b> (<figref idref="DRAWINGS">FIGS. 7B and 8</figref>). The silo <b>515</b> is configured to snugly enclose a battery <b>310</b>. At an end of the silo <b>515</b> opposite the battery opening <b>520</b> is positioned a spring contact <b>390</b> which comprises part of the electrical circuit <b>30</b>.</p>
+<p id="p-0071" num="0070">To more fully explain the device of the disclosure, the fluid transfer system is now described. As detailed above at least a pair of bayonet keyholes <b>530</b> are adapted to mate with at least a pair of bayonet studs <b>920</b> extending from the container <b>90</b>. The housing end of the container <b>940</b> additionally defines an aperture <b>910</b> which may be in the shape of a nipple and that is adapted to permit fluid passage therethrough.</p>
+<p id="p-0072" num="0071">The container <b>90</b> preferably comprises a flexible tube, or a flexible bottle or tottle. Fluid is expressed out of the container <b>90</b> through its aperture <b>910</b> when a user squeezes or otherwise deforms the flexible container to reduce its effective volume. Fluid may also be expressed when the container <b>90</b> is repositioned to permit gravity to effect expression of fluid therefrom. The container <b>90</b> also defines at least one side <b>950</b> and a closed end <b>930</b>.</p>
+<p id="p-0073" num="0072">Fluid for skin, hair or body care is enclosed within the container <b>90</b>, and may exit only through the single aperture <b>910</b>. The aperture <b>910</b> is adapted to snugly and sealingly mate with the connector-T <b>420</b>. Fluid from the container <b>90</b> may then flow unimpeded from within the container <b>90</b>, out its aperture <b>910</b>, through the connector-T <b>420</b>, through the pipe-L <b>430</b> conduits and applicator sleeves <b>120</b>, and out to the surface of the applicator <b>10</b> by means of the aperture channels <b>110</b>.</p>
+<p id="p-0074" num="0073">Additionally, the lower end of the connector-T <b>420</b> may be configured to frictionally fit within the central housing aperture <b>505</b> and to be compressed. When the container <b>90</b> is rotated relative to the housing <b>50</b> and mated therewith.</p>
+<p id="p-0075" num="0074">In a preferred embodiment, (<figref idref="DRAWINGS">FIGS. 2 and 8</figref>) the lower end of the connector-T <b>420</b> further comprises at least a pair of spaced apart annular rings <b>420</b><i>a</i>, <b>420</b><i>b </i>that extend outwardly from the outer wall of the connector-T <b>420</b> stem. Further, the central aperture <b>505</b> comprises one or more projections <b>505</b><i>a </i>positioned adjacent the central aperture <b>505</b>. In a preferred embodiment, the projections <b>505</b><i>a </i>depend from the lower housing wall <b>540</b>. The projections <b>505</b><i>a </i>are adapted to fit between the annular rings of the connector-T <b>420</b><i>a</i>, <b>420</b><i>b </i>and to create a watertight seal between the aperture <b>505</b> and the ring <b>505</b><i>a. </i></p>
+<p id="p-0076" num="0075">An annular ring of the motion concentrator <b>790</b> may be connected to the interior floor of the housing <b>560</b>. In the preferred embodiment, sockets <b>795</b> defined by the annular ring <b>790</b> are permanently mated with projections <b>565</b> from the housing <b>50</b> extending through said sockets <b>795</b>. Screws may be used to more firmly affix together these sockets <b>795</b> and projections <b>565</b>.</p>
+<p id="p-0077" num="0076">To further accommodate the position of the motor, a switch bracket <b>810</b> may be positioned around, but apart from, the motion concentrator <b>70</b> within the housing <b>50</b>. Thus configured, the bracket <b>810</b> mechanically transmits mechanical depression of the switch <b>80</b> to the microswitch <b>370</b>, but isolates the electrically conductive microswitch <b>370</b> from the switch aperture <b>575</b> defined by the housing <b>50</b>, through which fluid might come into contact with the microswitch <b>370</b>. Additionally, the bracket <b>810</b> acts as a spring when a user manually depresses the switch <b>80</b>, pushing the switch <b>80</b> outwards, through the switch aperture <b>575</b>. The bracket is further configured to avoid contacting the pipe-L channels <b>430</b>.</p>
+<p id="p-0078" num="0077">While examples of element or component materials, or examples of elements of components, may be provided herein, it will be appreciated that the present disclosure may extend to equivalents thereto without departing from the scope of the disclosure.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A motorized waterproof fluid dispenser for use in a bath or shower comprising:
+<claim-text>a. a waterproof container comprising at least one fluid compartment and at least one fluid dispensing aperture;</claim-text>
+<claim-text>b. a waterproof applicator defining at least one fluid opening;</claim-text>
+<claim-text>c. a waterproof housing positioned between and sealingly connecting the container and the applicator, and defining a watertight cavity therebetween;</claim-text>
+<claim-text>d. at least one length of fluid conductive tubing positioned within the housing cavity, the conductive tubing connecting at least one dispensing aperture to at least one fluid opening;</claim-text>
+<claim-text>e. a low voltage, direct current battery powered motor positioned within the housing cavity, the motor comprising an axle rotatable about an axis, and a weight eccentrically mounted on the axle, the motor further comprising at least one motor controlling switch;</claim-text>
+<claim-text>f. a movement concentrator comprising at least one surface positioned within the housing cavity between the motor and the applicator, the movement concentrator additionally comprising at least one movement absorbing leg; and</claim-text>
+<claim-text>g. at least one watertight housing seal positioned between the housing and the container.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The dispenser according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the applicator comprises an elastic material.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The dispenser according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the applicator comprises a material having a durometer hardness of about 30 to about 60.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The dispenser according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the applicator comprises silicone.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The dispenser according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the waterproof fluid filled container comprises a flexible tube, bottle or tottle.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The dispenser according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the housing comprises at least one material selected from a group comprising rigid polyethylene, polypropylene, polyolefin, acrylonitrile butadiene styrene or commodity grade plastic.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The dispenser according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the applicator is permanently affixed to a stiff applicator ring, and the applicator ring is permanently snap fitted to the housing.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The dispenser according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the motor axis is aligned with a z axis and the eccentrically mounted weight rotates in an xy plane substantially normal to the z axis.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The dispenser according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the motor switch comprises a manually operated switch.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The dispenser according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the motor switch comprises a pressure activated switch positioned to control the motor when pressure is applied along an axis substantially parallel to the motor axis.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The dispenser according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the movement concentrator surface mechanically transmits movement generated by the eccentrically rotating weight to the applicator.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The dispenser according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the movement concentrator comprises stiff acrylonitrile butadiene styrene or commodity grade plastic.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The dispenser according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the movement concentrator comprises at least one leg having a length of about 10 times its thickness.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The dispenser according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the at least one movement concentrator leg absorbs vibrational energy generated by rotation of the eccentrically mounted weight.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The dispenser according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the at least one watertight housing seal positioned between the housing and the container comprises at least one flexible conical torus.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The dispenser according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the at least one watertight housing seal positioned between the housing and the container comprises at least one O-ring.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. A motorized waterproof fluid dispenser for use in a bath or shower comprising:
+<claim-text>a. an applicator comprising an exterior applicator surface, an interior applicator surface, and a thickness therebetween; at least one channel opening and at least one channel sleeve depending from the interior surface and aligned with said at least one channel opening; an exterior rim, an interior rim, a groove defined in the applicator by said interior and exterior rims; a suspension seal depending from the interior applicator surface; and an area of reduced thickness positioned between the suspension seal and the exterior rim;</claim-text>
+<claim-text>b. a covering top adapted to removably cover the applicator;</claim-text>
+<claim-text>c. an electrical circuit comprising a battery having a positive and a negative pole; an electrically conductive pivotable battery door cover positioned in electrical contact with the positive pole of the battery; a washer electrically connected to the door cover; a printed circuit board having two electrically connective poles, the first of which poles is electrically connected to the washer; a micro switch electrically connected to the printed circuit board and configured to alternately interrupt or to permit an electric current to flow through the circuit board by manually pressing the micro switch; an electrically conductive member connecting the second pole of the printed circuit board with a first electrical lead projecting from one end of the body of a direct current motor; an electrically conductive member connecting a second electrical lead of the direct current motor with the conductive spring, the spring positioned in electrical connection with the negative pole of the battery;</claim-text>
+<claim-text>d. a fluid channel comprising a connector-T comprising at least a stem and a pair of branching arms; a pair of spaced apart annular rings extending away from the exterior surface of the connector-T stem; at least a pair of pipe-Ls, each pipe-L comprising at least a shorter end and a longer end, the shorter end of each pipe-L sealingly attached to one of the arms of the connector-T; the longer end of the pipe-L sealingly connected to the channel sleeves;</claim-text>
+<claim-text>e. a housing comprising a stiff polypropylene having a durometer value of from about 30 to about 60; the housing further comprising at least one wall substantially aligned with a z-axis, the top of the at least one wall defining an aperture; the housing further comprising a floor adjacent an opposite end of the at least one wall, the floor lying substantially along an xy plane; the floor comprising at least an interior and an exterior surface and at least a central fluid input aperture; at least one projection depending from an exterior surface of the floor about the aperture; at least a pair of bayonet closure keyholes defined by the floor; a battery door and a battery door cover stop defined by the floor; a battery silo extending upwardly from the battery door the z axis, within which silo is positioned the electrically conductive spring; a floor sealing rim depending from the exterior surface of the floor and a co-molded conical torus positioned adjacent the sealing rim; and at least one switch aperture defined by the at least one housing wall;</claim-text>
+<claim-text>f. the motor further comprising a direct current motor and an axle, the axle oriented parallel to the z axis and which spins about said z axis when the micro switch allows current flow; an eccentrically mounted weight positioned to generate eccentric in the xy plane when the micro switch allows current flow;</claim-text>
+<claim-text>g. a motion concentrator comprising a motor cradle through which the motor's electrical leads extend, the cradle otherwise fixedly cupping the motor body; a weight chamber adjacent the eccentrically mounted weight, the chamber fixedly attached to the cradle and defining a both a greater circumference in the xy plane than the largest arc through which the eccentric rotation of the weight moves, and a greater height than that of the rotating weight; a motion concentrating surface extending first upwardly along the z axis and then axially outward therefrom substantially along the xy axis, the surface comprising an area that frictionally mates with the interior surface of the applicator and which is bounded by the suspension seal; at least one leg depending from the surface and connecting at its foot to an annular ring, the annular ring fixedly attached to an interior surface of the housing, each said leg comprising a length of about 10 times its thickness and comprising a stiff polyolefin; the length of each leg spaced apart from any other component of the device when the at least one leg is deformed;</claim-text>
+<claim-text>h. a switch, the switch comprising a manually operable switch extending outwardly through a switch opening defined by the wall of the housing, a pliable watertight switch seal covering the switch and switch opening, and a switch bracket mechanically connecting the switch to the micro switch;</claim-text>
+<claim-text>i. a container, the container comprising at least a closed end, a side, and a housing end; the housing end defining at least a pair of bayonet closure studs positioned to closingly extend through and mate with the housing bayonet keyholes; the housing end defining a rim sized to mate with the exterior floor of the housing when the bayonet closure studs are mated with the bayonet keyholes; the housing end still further defining at least one fluid aperture sized to fit within and sealingly mate within the stem of the connector-T; and</claim-text>
+<claim-text>j. at least one waterproof seal spaced centrally apart from the exterior rim, the seal sized to form a waterproof seal between the housing and the container when the housing and container are removably mated.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The dispenser according to <claim-ref idref="CLM-00017">claim 17</claim-ref> wherein the at least one waterproof seal comprises a flexible conical torus.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The dispenser according to <claim-ref idref="CLM-00017">claim 17</claim-ref> wherein the at least one waterproof seal comprises an O-ring. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

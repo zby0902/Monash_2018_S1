@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891252-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891252</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12362741</doc-number>
+<date>20090130</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>94</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>L</subclass>
+<main-group>7</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 73756</main-classification>
+<further-classification>310324</further-classification>
+</classification-national>
+<invention-title id="d2e53">Method for sensor fabrication and related sensor and system</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>4426768</doc-number>
+<kind>A</kind>
+<name>Black et al.</name>
+<date>19840100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>438 51</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>7148610</doc-number>
+<kind>B2</kind>
+<name>Jacot et al.</name>
+<date>20061200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>310364</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>2005/0231067</doc-number>
+<kind>A1</kind>
+<name>Cook et al.</name>
+<date>20051000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>2006/0075820</doc-number>
+<kind>A1</kind>
+<name>Cobianu et al.</name>
+<date>20060400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>2006/0086188</doc-number>
+<kind>A1</kind>
+<name>Avramescu et al.</name>
+<date>20060400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>2007/0114889</doc-number>
+<kind>A1</kind>
+<name>Cobianu et al.</name>
+<date>20070500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>2007/0126072</doc-number>
+<kind>A1</kind>
+<name>Cobianu et al.</name>
+<date>20070600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>2007/0164633</doc-number>
+<kind>A1</kind>
+<name>Cobianu et al.</name>
+<date>20070700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>2007/0164859</doc-number>
+<kind>A1</kind>
+<name>Cobianu et al.</name>
+<date>20070700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>2007/0194662</doc-number>
+<kind>A1</kind>
+<name>Sano et al.</name>
+<date>20070800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>310324</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>2008/0067892</doc-number>
+<kind>A1</kind>
+<name>Chiba et al.</name>
+<date>20080300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>310314</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>2008/0229831</doc-number>
+<kind>A1</kind>
+<name>Serban et al.</name>
+<date>20080900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>2008/0265711</doc-number>
+<kind>A1</kind>
+<name>Kumar et al.</name>
+<date>20081000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>WO</country>
+<doc-number>WO 2007/061831</doc-number>
+<kind>A1</kind>
+<date>20070500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>20</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>None</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>5</number-of-drawing-sheets>
+<number-of-figures>10</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090193903</doc-number>
+<kind>A1</kind>
+<date>20090806</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Cobianu</last-name>
+<first-name>Cornel</first-name>
+<address>
+<city>Bucharest</city>
+<country>RO</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>RO</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Avramescu</last-name>
+<first-name>Viorel</first-name>
+<address>
+<city>Bucharest</city>
+<country>RO</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>RO</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Georgescu</last-name>
+<first-name>Ion</first-name>
+<address>
+<city>Bucharest</city>
+<country>RO</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>RO</country>
+</residence>
+</applicant>
+<applicant sequence="004" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Costea</last-name>
+<first-name>Stefan-Dan</first-name>
+<address>
+<city>Bucharest</city>
+<country>RO</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>RO</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Munck Carter, LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Honeywell International Inc.</orgname>
+<role>02</role>
+<address>
+<city>Morristown</city>
+<state>NJ</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Allen</last-name>
+<first-name>Andre J</first-name>
+<department>2855</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A method includes forming multiple trenches in a first wafer, forming a sensor structure on a first surface of a second wafer, and bonding the first wafer and the second wafer. The method also includes etching a second surface of the second wafer to form a sensor diaphragm in the second wafer. The method further includes removing a portion of the first wafer by cutting the first wafer in multiple areas of the first wafer associated with the trenches. A sensor includes a substrate and a surface acoustic wave (SAW) resonator on a first surface of the substrate. The sensor also includes a bonding pad electrically coupled to the SAW resonator and a notch formed in a second surface of the substrate. The sensor further includes a cover separated from the first surface of the substrate by a spacer. The SAW resonator is located between the cover and the substrate.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="61.89mm" wi="125.73mm" file="US07891252-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="230.80mm" wi="128.44mm" file="US07891252-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="203.12mm" wi="140.63mm" file="US07891252-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="193.29mm" wi="117.09mm" file="US07891252-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="224.62mm" wi="126.15mm" file="US07891252-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="205.74mm" wi="156.55mm" file="US07891252-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application claims priority under 35 U.S.C. &#xa7;119 to Romanian Patent Application No. a/2008-00091 filed on Feb. 1, 2008.</p>
+<heading id="h-0002" level="1">TECHNICAL FIELD</heading>
+<p id="p-0003" num="0002">This disclosure relates generally to sensors and more specifically to a method for sensor fabrication and related sensor and system.</p>
+<heading id="h-0003" level="1">BACKGROUND</heading>
+<p id="p-0004" num="0003">Wireless and wired sensors are used in a wide variety of industries. For example, wireless pressure sensors are routinely used in automobiles and other vehicles, such as to monitor the pressure of tires on the vehicles. Also, the tires of a vehicle can often suffer from excessive temperatures, such as due to overloading of the vehicle or high temperatures in some regions of the world. Wireless temperature sensors can be used in a vehicle to monitor the temperatures of its tires.</p>
+<p id="p-0005" num="0004">Tire monitoring systems routinely need to be low in cost and use sensors that are wireless, small in size, and highly reliable with low drift. Existing tire pressure monitoring systems often use piezoresistive pressure sensors. These types of monitoring systems often require the use of radio frequency (&#x201c;RF&#x201d;) electronics as well as signal conditioning and processing circuitry. These types of monitoring systems also often require the use of batteries to power the sensors and related electronics and circuitry. However, these types of monitoring systems are often not attractive due to the weigh of the systems and due to the limited lifetime of their batteries, which can be discharged much faster in the harsh environment of vehicle tires.</p>
+<heading id="h-0004" level="1">SUMMARY</heading>
+<p id="p-0006" num="0005">This disclosure provides a method for sensor fabrication and related sensor and system.</p>
+<p id="p-0007" num="0006">In a first embodiment, a method includes forming multiple trenches in a first wafer, where the first wafer has multiple locally thinned areas associated with the trenches. The method also includes forming a sensor structure on a first surface of a second wafer, where the second wafer includes a piezoelectric material. The method further includes bonding the first wafer and the second wafer and etching a second surface of the second wafer to form a sensor diaphragm in the second wafer. In addition, the method includes removing a portion of the first wafer by cutting the locally thinned areas of the first wafer.</p>
+<p id="p-0008" num="0007">In particular embodiments, the first wafer is glass, and the second wafer is quartz.</p>
+<p id="p-0009" num="0008">In other particular embodiments, bonding the first wafer and the second wafer includes depositing a spacer material on at least one of the wafers, pressing the wafers so that the spacer material contacts both wafers, and curing the spacer material. The spacer material could include frit glass paste that is cured into frit glass. The frit glass could have a thermal coefficient of expansion at least approximately equal to average thermal coefficients of expansion for the first and second wafers. The spacer material could also be deposited using direct printing.</p>
+<p id="p-0010" num="0009">In yet other particular embodiments, etching the second surface of the second wafer includes forming a mask layer over the second surface of the second wafer, placing the first and second wafers in a protective fixture so that only the second surface of the second wafer remains exposed, and etching the exposed second surface of the second wafer. Forming the mask layer could include depositing a layer of silicon using plasma enhanced chemical vapor deposition and patterning the layer of silicon. Also, the protective fixture could include a Teflon fixture and an O-ring. In addition, etching the exposed second surface of the second wafer could include performing a deep wet etch using an etching solution comprising HF and HCl.</p>
+<p id="p-0011" num="0010">In still other particular embodiments, removing the portion of the first wafer includes removing a strip of the first wafer, where the strip is formed by cutting completely through two locally thinned areas of the first wafer. Multiple sensor structures could be formed on the second wafer, and the multiple sensor structures could include multiple bonding pads. Removing the strip of the first wafer could expose portions of at least some of the bonding pads, and the method could also include forming conductive bumps on the exposed bonding pads.</p>
+<p id="p-0012" num="0011">In additional particular embodiments, multiple sensor structures are formed on the second wafer. Also, the method further includes cutting through the first wafer and partially into the second wafer and separating the multiple sensor structures from one another.</p>
+<p id="p-0013" num="0012">In a second embodiment, a sensor includes a piezoelectric substrate, a surface acoustic wave (SAW) resonator on a first surface of the substrate, and a bonding pad electrically coupled to the SAW resonator. The sensor also includes a cover separated from the first surface of the substrate by a spacer, where the SAW resonator is located between the cover and the substrate. The sensor further includes a notch formed in a second surface of the substrate.</p>
+<p id="p-0014" num="0013">In a third embodiment, a system includes an antenna and a sensor. The sensor includes a piezoelectric substrate and a surface acoustic wave (SAW) resonator on a first surface of the substrate. The sensor also includes a cover separated from the first surface of the substrate by a spacer, where the SAW resonator is located between the cover and the substrate. The sensor further includes a notch formed in a second surface of the substrate. In addition, the sensor includes multiple bonding pads electrically coupled to the SAW resonator and a conductive bump on each of the bonding pads, where the conductive bumps are in electrical contact with the antenna.</p>
+<p id="p-0015" num="0014">In particular embodiments, the system also includes a monitor configured to receive wireless signals from the antenna and a controller configured to analyze data associated with the wireless signals received by the monitor. The sensor may be associated with a vehicle tire and include a temperature sensor and/or a pressure sensor.</p>
+<p id="p-0016" num="0015">Other technical features may be readily apparent to one skilled in the art from the following figures, descriptions, and claims.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0017" num="0016">For a more complete understanding of this disclosure, reference is now made to the following description, taken in conjunction with the accompanying drawings, in which:</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 1</figref> illustrates an example sensor according to this disclosure;</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIGS. 2A through 2F</figref> illustrate an example technique for forming sensors according to this disclosure;</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 3</figref> illustrates an example printing system for additively depositing material on a wafer during sensor formation according to this disclosure;</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 4</figref> illustrates an example system using one or more sensors according to this disclosure; and</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 5</figref> illustrates an example method for forming a sensor according to this disclosure.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIGS. 1 through 5</figref>, discussed below, and the various embodiments used to describe the principles of the present invention in this patent document are by way of illustration only and should not be construed in any way to limit the scope of the invention. Those skilled in the art will understand that the principles of the invention may be implemented in any type of suitably arranged device or system.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 1</figref> illustrates an example sensor <b>100</b> according to this disclosure. The embodiment of the sensor <b>100</b> shown in <figref idref="DRAWINGS">FIG. 1</figref> is for illustration only. Other embodiments of the sensor <b>100</b> could be used without departing from the scope of this disclosure.</p>
+<p id="p-0025" num="0024">In general, this embodiment of the sensor <b>100</b> is a surface acoustic wave (SAW) based sensor that can be used in various applications. For example, the sensor <b>100</b> could be used as a pressure and/or temperature sensor in a vehicle's tire monitoring system, such as when the sensor <b>100</b> is placed in the vehicle's tire or within a valve stem of the tire. The sensor <b>100</b> may be a low cost, wireless sensor and can eliminate the need for a battery and on-chip RF electronics.</p>
+<p id="p-0026" num="0025">In this example, the sensor <b>100</b> includes a piezoelectric substrate <b>102</b>. The piezoelectric substrate <b>102</b> generally represents any suitable structure on which other components of the sensor <b>100</b> are formed or carried. The substrate <b>102</b> could, for example, represent quartz or other piezoelectric material. In this example, the substrate <b>102</b> has a notch <b>104</b>, which forms a diaphragm <b>106</b> in the substrate <b>102</b>. Among other things, the diaphragm <b>106</b> allows the sensor <b>100</b> to detect changes in pressure, temperature, or other conditions.</p>
+<p id="p-0027" num="0026">The sensor <b>100</b> also includes one or more SAW devices <b>108</b> formed on the substrate <b>102</b>. The SAW device(s) <b>108</b> in this example could represent one or more SAW resonators, each of which includes two sets of conductive fingers (where one set of conductive fingers is interleaved with the other set of conductive fingers). Each SAW device <b>108</b> could be formed using any suitable material(s), such as highly-doped polysilicon or metal. Each SAW device <b>108</b> could also be formed in any suitable manner, such as by etching the highly-doped polysilicon or metal using a mask. In addition, each SAW device <b>108</b> implemented as a SAW resonator could include a number of conductive fingers.</p>
+<p id="p-0028" num="0027">Two bonding pads <b>110</b><i>a</i>-<b>110</b><i>b </i>are electrically coupled to the one or more SAW devices <b>108</b>. The bonding pads <b>110</b><i>a</i>-<b>110</b><i>b </i>represent areas where conductive bumps <b>112</b><i>a</i>-<b>112</b><i>b </i>can be formed in the sensor <b>100</b>. The conductive bumps <b>112</b><i>a</i>-<b>112</b><i>b </i>allow the sensor <b>100</b> to be electrically coupled to an external component, such as an antenna. The bonding pads <b>110</b><i>a</i>-<b>110</b><i>b </i>and the conductive bumps <b>112</b><i>a</i>-<b>112</b><i>b </i>could be formed using any suitable material(s), such as aluminum bonding pads and gold conductive bumps. The bonding pads <b>110</b><i>a</i>-<b>110</b><i>b </i>and the conductive bumps <b>112</b><i>a</i>-<b>112</b><i>b </i>could also be formed in any suitable manner, such as by etching aluminum using a mask to form the bonding pads and by depositing gold stud bumps starting from gold wires to form the conductive bumps.</p>
+<p id="p-0029" num="0028">A cover <b>114</b> is placed over the one or more SAW devices <b>108</b>. The cover <b>114</b> is spaced apart from the SAW devices <b>108</b> using one or more spacers <b>116</b>, which in this example are formed over the bonding pads <b>110</b><i>a</i>-<b>110</b><i>b </i>(although the spacers <b>116</b> could be formed in other areas, such as over the substrate <b>102</b> next to the bonding pads). The cover <b>114</b> and the one or more spacers <b>116</b> help to protect the SAW devices <b>108</b> from the external environment, such as the harsh environment of a vehicle tire. For example, the cover <b>114</b> and the one or more spacers <b>116</b> could hermetically seal the area around the one or more SAW devices <b>108</b> from the external environment, thereby forming a pressure chamber within the sensor <b>100</b>. The cover <b>114</b> and the one or more spacers <b>116</b> could be formed using any suitable material(s), such as a glass or quartz for cover fabrication and frit glass for spacer fabrication. The cover <b>114</b> and the one or more spacers <b>116</b> could also be formed in any suitable manner, such as by grinding glass or quartz to form the cover and screen printing or direct printing frit glass paste to form the spacers. In some embodiments, the spacers <b>116</b> have a thermal coefficient of expansion (TCE) that equals or approximates the TCE of a glass cover <b>112</b> or that approximates the average TCE of a piezoelectric cover <b>112</b> (in two perpendicular directions due to their anisotropic material properties) and that equals or approximates the average TCE of the piezoelectric substrate <b>102</b> (in two perpendicular directions). In particular embodiments, the spacers <b>116</b> are formed from frit glass, and the TCE of the frit glass can be established during frit glass paste formulation.</p>
+<p id="p-0030" num="0029">Although <figref idref="DRAWINGS">FIG. 1</figref> illustrates one example of a sensor, various changes may be made to <figref idref="DRAWINGS">FIG. 1</figref>. For example, the layout and arrangement of components in the sensor <b>100</b> could be altered according to particular needs. Also, the sizes, shapes, and relative positions of the components in the sensor <b>100</b> are for illustration only.</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIGS. 2A through 2F</figref> illustrate an example technique for forming sensors according to this disclosure. The technique shown in <figref idref="DRAWINGS">FIGS. 2A through 2F</figref> is for illustration only. Other techniques could be used to fabricate one or more sensors without departing from the scope of this disclosure. Also, for ease of illustration and explanation, the technique shown in <figref idref="DRAWINGS">FIGS. 2A through 2F</figref> is described with respect to the sensor <b>100</b> of <figref idref="DRAWINGS">FIG. 1</figref>. The technique shown in <figref idref="DRAWINGS">FIGS. 2A through 2F</figref> could be used to form any suitable sensor, and the sensor <b>100</b> of <figref idref="DRAWINGS">FIG. 1</figref> could be formed using any suitable technique.</p>
+<p id="p-0032" num="0031">The sensors fabricated using this technique (such as multiple sensors <b>100</b>) may operate based on the piezoelectric effect, so the sensors may be sensitive to strain. As a result, low stress precautions can be taken during fabrication and packaging of the sensors. For example, the use of metal covers can be eliminated (although metal covers could still be used depending on particular implementations). Also, mismatches between the TCE of different components can be reduced or eliminated. In addition, whenever possible, the packaging materials can be designed to avoid mechanical stresses of thermal origins.</p>
+<p id="p-0033" num="0032">As shown in <figref idref="DRAWINGS">FIG. 2A</figref>, a cover wafer <b>202</b> is etched to form multiple trenches <b>204</b>. The cover wafer <b>202</b> represents a wafer of material that is used to form the cover <b>114</b> for multiple sensors <b>100</b>. The cover wafer <b>202</b> could be formed from any suitable material(s), such as a circular quartz or glass wafer. In particular embodiments, the cover wafer <b>202</b> can be selected to have the same diameter and thickness as a sensor wafer (which is used to form the substrate <b>102</b> of multiple sensors <b>100</b>). The cover wafer <b>202</b> could also have the same or similar TCE as the material(s) used to form the spacers <b>116</b> in the sensors <b>100</b>. Further, the cover wafer <b>202</b> could be etched in any suitable manner, such as by sawing the trenches <b>204</b> across the entire cover wafer <b>202</b> using a disc. In addition, the trenches <b>204</b> could have any suitable width, depth, and spacing, such as a depth of 30-50 &#x3bc;m. The formation of the trenches <b>204</b> in the cover wafer <b>202</b> leads to the creation of locally thinned areas <b>205</b> of the cover wafer <b>202</b>. These locally thinned areas <b>205</b> are located above the trenches <b>204</b> in <figref idref="DRAWINGS">FIG. 2</figref>, and these areas <b>205</b> have a thickness less than the thickness non-etched areas of the cover wafer <b>204</b>.</p>
+<p id="p-0034" num="0033">As shown in <figref idref="DRAWINGS">FIG. 2B</figref>, spacer material <b>206</b> is deposited on the cover wafer <b>202</b>. The spacer material <b>206</b> is used to form the spacers <b>116</b> in the sensors <b>100</b>. The spacer material <b>206</b> could represent any suitable material(s), such as frit glass paste having a TCE that matches or approximates the average TCE of the cover wafer <b>202</b> and the average TCE of the sensor wafer. In some embodiments, the frit glass paste is formulated to have a firing temperature below the Curie temperature of quartz. The spacer material <b>206</b> can also be deposited on the cover wafer <b>202</b> in any suitable manner, such as by screen printing or direct printing. In addition, the spacer material <b>206</b> can be deposited to any suitable height, such as 15-50 &#x3bc;m.</p>
+<p id="p-0035" num="0034">As shown in <figref idref="DRAWINGS">FIG. 2C</figref>, a sensor wafer <b>208</b> is processed to form SAW resonators, bonding pads, and other sensor structures on one surface of the sensor wafer <b>208</b>. The opposing side of the sensor wafer <b>208</b> is masked using a masking layer <b>210</b>, which can be deposited and then patterned. The masking layer <b>210</b> is used to facilitate formation of notches <b>104</b> in the sensors <b>100</b>. The sensor wafer <b>208</b> could be formed using any suitable material(s), such as a circular quartz wafer. Also, the masking layer <b>210</b> could be formed using any suitable material(s), such as metal (like chromium, gold, or thick nickel) or silicon (like thick silicon layers formed using low temperature plasma enhanced chemical vapor deposition). The other surfaces of the sensor wafer <b>208</b> (including the one containing the SAW resonators and bonding pads) can be protected during formation and patterning of the masking layer <b>210</b>.</p>
+<p id="p-0036" num="0035">Also as shown in <figref idref="DRAWINGS">FIG. 2C</figref>, the cover wafer <b>202</b> is aligned with and bonded to the sensor wafer <b>208</b>. This may include ensuring that the spacer material <b>206</b> is properly aligned with the bonding pads on the surface of the sensor wafer <b>208</b> (although the spacer material <b>206</b> could also contact the sensor wafer <b>208</b>). Once aligned properly, the wafers <b>202</b> and <b>208</b> undergo a bonding treatment to bond the wafers together via the spacer material <b>206</b>. For example, when the spacer material <b>206</b> represents frit glass paste, the wafers can undergo firing (such as at temperatures below 400&#xb0; C.) to cure the frit glass paste into frit glass. The frit glass paste can be fired so that a solid frit glass frame surrounds at least a portion of each sensor <b>100</b> on the sensor wafer <b>208</b>. Also, the trenches <b>204</b> in the cover wafer <b>202</b> remain above portions of the bonding pads on the sensor wafer <b>208</b>. In this way, sealed pressure chambers are formed for all of the sensors <b>100</b> on the sensor wafer <b>208</b> simultaneously. In particular embodiments, firing of frit glass paste can occur with oxygen in the ambient environment, and pure and dry nitrogen or a high vacuum can be used as the ambient environment during alignment and thermal consolidation of the frit glass paste. The firing may take place during frit glass paste consolidation on the cover wafer <b>202</b> before final alignment and bonding in nitrogen or a vacuum.</p>
+<p id="p-0037" num="0036">As shown in <figref idref="DRAWINGS">FIG. 2D</figref>, after the wafers are bonded together, the bonded wafers are placed in a protective fixture <b>212</b>, and an O-ring <b>214</b> is used to seal the protective fixture <b>212</b> against the sensor wafer <b>208</b>. The sensor wafer <b>208</b> is then etched to form multiple notches <b>216</b>, which may represent the notches <b>104</b> in the sensors <b>100</b>. The protective fixture <b>212</b> and the O-ring <b>214</b> protect the other surfaces of the bonded wafers from the etching performed on the exposed surface of the sensor wafer <b>208</b>. For example, the protective fixture <b>212</b> could represent a Teflon fixture, and the O-ring <b>214</b> could represent a Viton O-ring. Also, any suitable etch(es) could be performed to etch the sensor wafer <b>208</b>, such as a deep wet etch using hydrogen fluoride-based solutions (like NH<sub>4</sub>F/HF or HF/HCl in a 10/1 ratio). It can be noted that HF/HCl solutions may further improve surface roughness of the etched side of the sensor wafer <b>208</b>. The temperature of the etching solution can be controlled depending on the desired etch rate and required diaphragm thickness uniformity. Once the etch is complete, the bonded wafers can be removed from the protective fixture <b>212</b>, and the masking layer <b>210</b> can be removed. Other etching techniques could also be used, such as dry plasma etching, laser drilling, ultrasonic etching, and pure mechanical drilling (where the protective fixture <b>212</b> may not be needed during fabrication of the notches <b>216</b>).</p>
+<p id="p-0038" num="0037">As shown in <figref idref="DRAWINGS">FIGS. 2E and 2F</figref>, a cutting sequence can be used to expose the sensors' bonding pads for application of conductive bumps and to &#x201c;dice&#x201d; or separate the sensors from one another. For example, the bonded wafers can be placed on a plastic foil support or other support, and one or both wafers can be sawed using a rotating disc. In this example, cuts <b>218</b>-<b>220</b> can be made in the cover wafer <b>202</b> to remove a single strip <b>222</b> of the cover wafer <b>202</b> between multiple sensors <b>100</b> being formed. These two cuts could be designed to saw completely through locally thinned areas <b>205</b> of the cover wafer <b>202</b>, which means the cuts can be designed to be less deep (since the locally thinned areas <b>205</b> are located over trenches <b>204</b> that have already been formed in the cover wafer <b>202</b>). In this way, the cuts <b>218</b>-<b>220</b> would not cut into the sensor wafer <b>208</b> or the bonding pads on the surface of the sensor wafer <b>208</b>. The same two cuts can be repeated to remove multiple strips <b>222</b> of the cover wafer <b>202</b>. At this point, a bumping process could occur to place gold or other conductive bumps on the exposed bonding pads.</p>
+<p id="p-0039" num="0038">After that, additional cuts to the wafers may occur in order to separate the sensors <b>100</b> being formed. For example, cuts <b>224</b>-<b>226</b> are used to saw through the cover wafer <b>202</b> and partially into the sensor wafer <b>208</b>, and cut <b>228</b> is used to saw partially into the sensor wafer <b>208</b> below a removed strip <b>222</b> of the cover wafer <b>202</b>. These cuts can be repeated as necessary to partially cut the sensor wafer <b>208</b> between each sensor <b>100</b> being formed. Once the cuts are completed, the sensors <b>100</b> can be completely separated from one another using a heavy rolling process, where a heavy mass is rolled over the bonded wafers to separate the sensors <b>100</b> along the partial cuts through the sensor wafer <b>208</b>. At this point, the sensors <b>100</b> can be mounted on printed circuit boards and attached to wired connections or wireless antennas or used in any other suitable manner. In particular embodiments, the sensors <b>100</b> formed in this manner may satisfy the automotive industry's restrictions for use in harsh chemical environments with high temperatures and vibrations.</p>
+<p id="p-0040" num="0039">Although <figref idref="DRAWINGS">FIGS. 2A through 2F</figref> illustrate one example of a technique for forming sensors, various changes may be made to <figref idref="DRAWINGS">FIGS. 2A through 2F</figref>. For example, any other suitable techniques could be used to form the various structures of the sensors <b>100</b>, and the operations shown in <figref idref="DRAWINGS">FIGS. 2A through 2F</figref> could occur in a different order.</p>
+<p id="p-0041" num="0040"><figref idref="DRAWINGS">FIG. 3</figref> illustrates an example printing system <b>300</b> for additively depositing material on a wafer during sensor formation according to this disclosure. The embodiment of the printing system <b>300</b> shown in <figref idref="DRAWINGS">FIG. 3</figref> is for illustration only. Other embodiments of the printing system <b>300</b> could be used without departing from the scope of this disclosure.</p>
+<p id="p-0042" num="0041">In this example, the printing system <b>300</b> represents a direct printing system that can be used to deposit frit glass paste or other deposition material onto a cover wafer or other structure without using a mask. As shown here, the printing system <b>300</b> includes an atomizer module <b>302</b> and a nozzle module <b>304</b>. The atomizer module <b>302</b> mixes at least one deposition material with a gas flow, producing atomized deposition material that is provided to the nozzle module <b>304</b>. The nozzle module <b>304</b> then removes the gas from the atomized deposition material and deposits the deposition material onto a cover wafer or other structure. In this example, the deposition material is deposited as a liquid line <b>306</b> on the cover wafer or other structure.</p>
+<p id="p-0043" num="0042">The use of a direct printing system to deposit frit glass paste or other spacer material onto a cover wafer <b>202</b> may be beneficial in several ways. For example, direct printing may require no masking steps to be performed. Also, direct printing may result in little or no paste material being lost during the printing process.</p>
+<p id="p-0044" num="0043">Although <figref idref="DRAWINGS">FIG. 3</figref> illustrates one example of a printing system <b>300</b> for additively depositing material on a wafer during sensor formation, various changes may be made to <figref idref="DRAWINGS">FIG. 3</figref>. For example, other techniques besides direct printing could be used to deposit frit glass paste or other material onto a cover wafer.</p>
+<p id="p-0045" num="0044"><figref idref="DRAWINGS">FIG. 4</figref> illustrates an example system <b>400</b> using one or more sensors according to this disclosure. The embodiment of the system <b>400</b> shown in <figref idref="DRAWINGS">FIG. 4</figref> is for illustration only. Other embodiments of the system <b>400</b> could be used without departing from the scope of this disclosure. Also, for ease of illustration and explanation, the system <b>400</b> of <figref idref="DRAWINGS">FIG. 4</figref> is described with respect to the sensor <b>100</b> of <figref idref="DRAWINGS">FIG. 1</figref>. The sensor <b>100</b> of <figref idref="DRAWINGS">FIG. 1</figref> could be used with any suitable system or device.</p>
+<p id="p-0046" num="0045">In this example, the system <b>400</b> includes at least one sensor <b>100</b> that has been mounted on a printed antenna substrate <b>402</b>. The printed antenna substrate <b>402</b> generally represents a structure on which an antenna has been formed, such as a small printed circuit board with a loop antenna. The antenna allows for wireless transmissions from the sensor <b>100</b>. The conductive bumps <b>112</b><i>a</i>-<b>112</b><i>b </i>of the sensor <b>100</b> may allow the sensor <b>100</b> to be &#x201c;flip chip&#x201d; mounted to pads of the printed antenna substrate <b>402</b>. The printed antenna substrate <b>402</b> includes any suitable antenna structure. Additional details regarding the attachment of a sensor to an antenna (as wells as details regarding sensors in general) can be found in U.S. patent application Ser. No. 11/286,064 and U.S. patent application Ser. No. 11/331,722, both of which are hereby incorporated by reference.</p>
+<p id="p-0047" num="0046">The sensor <b>100</b> is in wireless communication with a sensor monitor <b>404</b>. The sensor monitor <b>404</b> uses the sensor <b>100</b> to detect or measure one or more conditions, such as pressure and/or temperature. As a particular example, changes in pressure and/or temperature may alter the operation of the SAW devices <b>108</b> in the sensor <b>100</b>, which may change the wireless signals transmitted by the sensor <b>100</b>. As a result, the sensor monitor <b>404</b> can use the wireless signals from the sensor <b>100</b> to detect changes in pressure and/or temperature. The sensor monitor <b>404</b> could also process this information further (such as by determining if a low pressure threshold or a high temperature threshold has been reached and triggering an output if so), or the sensor monitor <b>404</b> could output the data to a controller <b>406</b> for further analysis. The sensor monitor <b>404</b> includes any suitable structure for using signals from one or more sensors, such as to extract information or to detect or identify one or more conditions.</p>
+<p id="p-0048" num="0047">The controller <b>406</b> controls one or more devices or processes based, at least in part, on outputs of the sensor monitor <b>404</b>. For example, the controller <b>406</b> could represent a vehicle controller, and the controller <b>406</b> could use temperature or pressure data to detect problems with a vehicle. If a problem is detected (such as low tire pressure and/or excessive tire temperature), the controller <b>406</b> could take any suitable action, such as triggering an audible or visual alarm. The controller <b>406</b> includes any hardware, software, firmware, or combination thereof for controlling at least one device, process, or portion thereof based on data from one or more sensors <b>100</b>.</p>
+<p id="p-0049" num="0048">Each of the connections between components in <figref idref="DRAWINGS">FIG. 4</figref> could represent any suitable wired or wireless connection. For example, the sensor monitor <b>404</b> could be wired to the controller <b>406</b>. However, any suitable type of connection could be used between components.</p>
+<p id="p-0050" num="0049">Although <figref idref="DRAWINGS">FIG. 4</figref> illustrates one example of a system <b>400</b> using one or more sensors, various changes may be made to <figref idref="DRAWINGS">FIG. 4</figref>. For example, a sensor may communicate with any number of monitors, and each monitor could communicate with any number of sensors. Also, any number of monitors could communicate with any number of controllers. In addition, the functional division shown in <figref idref="DRAWINGS">FIG. 4</figref> is for illustration only. Various components in <figref idref="DRAWINGS">FIG. 4</figref> could be combined, subdivided, or omitted and additional components could be added according to particular needs. As a specific example, some or all of the functionality of the sensor monitor could be incorporated into the controller or vice versa.</p>
+<p id="p-0051" num="0050"><figref idref="DRAWINGS">FIG. 5</figref> illustrates an example method <b>500</b> for forming multiple packaged sensors according to this disclosure. The embodiment of the method <b>500</b> shown in <figref idref="DRAWINGS">FIG. 5</figref> is for illustration only. Other embodiments of the method <b>500</b> could be used without departing from the scope of this disclosure.</p>
+<p id="p-0052" num="0051">One or more trenches are formed in a cover wafer at step <b>502</b>. This could include, for example, forming multiple trenches <b>204</b> in a glass or quartz cover wafer <b>202</b>. The trenches <b>204</b> could be 30-50 &#x3bc;m deep and be formed by sawing. Spacer material is deposited on the cover wafer at step <b>504</b>. This could include, for example, depositing frit glass paste on the cover wafer <b>202</b>. The frit glass paste could be deposited using direct or screen printing.</p>
+<p id="p-0053" num="0052">One or more sensor device structures are formed on a sensor wafer at step <b>506</b>. This could include, for example, forming one or more SAW devices <b>108</b> and bonding pads <b>110</b><i>a</i>-<b>110</b><i>b </i>on one side of the sensor wafer <b>208</b>. The SAW devices <b>108</b> and bonding pads <b>110</b><i>a</i>-<b>110</b><i>b </i>could be formed by depositing and etching conductive materials. A mask layer is formed on the sensor wafer at step <b>508</b>. This could include, for example, depositing silicon or other masking materials on the opposite side of the sensor wafer <b>208</b>. The silicon layer could be deposited using low temperature plasma enhanced chemical vapor deposition.</p>
+<p id="p-0054" num="0053">The cover wafer and the sensor wafer are bonded at step <b>510</b>. This could include, for example, aligning the trenches and the frit glass paste or other spacer material on the cover wafer <b>202</b> with the SAW devices and their bonding pads on the sensor wafer <b>208</b>. Any other suitable technique could be used to align the wafers. This may also include pressing the wafers together and curing the spacer material, such as by annealing the frit glass paste to harden the frit glass paste. This may create a hermetically sealed pressure chamber within each sensor device of the multitude of sensors being formed simultaneously on a wafer.</p>
+<p id="p-0055" num="0054">The bonded wafers are placed in a protective fixture at step <b>512</b>, and the sensor wafer is etched at step <b>514</b>. This may include, for example, placing the bonded wafers <b>202</b> and <b>208</b> into the protective fixture <b>212</b>, which protects all but the exposed side of the sensor wafer <b>208</b> from the etch. The etch could represent a wet etch that forms notches <b>214</b> in the sensor wafer <b>208</b>. These notches <b>214</b> could have any suitable depth depending, for example, on the thickness of the sensor diaphragms needed in the sensor devices being formed.</p>
+<p id="p-0056" num="0055">The cover wafer is cut to expose the bonding pads of the sensor devices at step <b>516</b>. This could include, for example, performing two cuts between columns of sensor devices using a sawing disc, where each cut travels completely through locally thinned areas <b>205</b> of the cover wafer <b>202</b>. In other words, these cuts may occur over areas where the trenches <b>204</b> were formed in the cover wafer <b>202</b>. As a result, these cuts may allow strips of the cover wafer <b>202</b> to be completely removed without the sawing disc approaching too close to the sensor devices. Conductive bumps are formed on the exposed bonding pads at step <b>518</b>. This may include, for example, gold wire bonding on the bonding pads <b>108</b><i>a</i>-<b>108</b><i>b </i>of the sensor <b>100</b> (such as by thermo-compression of the wire on the bonding pads), followed by wire cutting to produce the final gold stud bump on each bonding pad.</p>
+<p id="p-0057" num="0056">Additional cuts are formed in or through the bonded wafers at step <b>520</b>. This may include, for example, performing a cut between rows of sensor devices using a sawing disc. These cuts may travel completely through the cover wafer <b>202</b> and partially through the sensor wafer <b>208</b>. This may also include performing a cut between columns of sensor devices through the strips of the cover wafer <b>202</b> that have been removed. Again, these cuts may travel partially through the sensor wafer <b>208</b>. At this point, the sensor wafer <b>208</b> has been partially cut between each of the sensor devices, and the sensor devices are separated at step <b>522</b>. This may include, for example, rolling a heavy mass over the bonded wafers to cause the sensors <b>100</b> to separate from one another.</p>
+<p id="p-0058" num="0057">Although <figref idref="DRAWINGS">FIG. 5</figref> illustrates one example of a method <b>500</b> for forming multiple packaged sensors, various changes may be made to <figref idref="DRAWINGS">FIG. 5</figref>. For example, while shown as a series of steps, various steps in <figref idref="DRAWINGS">FIG. 5</figref> could overlap, occur in parallel, occur in a different order, or occur multiple times. As a particular example, forming of the sensor devices on the sensor wafer could occur before or during formation of the cover wafer.</p>
+<p id="p-0059" num="0058">It may be advantageous to set forth definitions of certain words and phrases used throughout this patent document. The term &#x201c;couple&#x201d; and its derivatives refer to any direct or indirect communication between two or more elements, whether or not those elements are in physical contact with one another. The terms &#x201c;over,&#x201d; &#x201c;above,&#x201d; and the like denote relative positions of two or more elements in a particular orientation and do not require direct contact between the elements. The terms &#x201c;include&#x201d; and &#x201c;comprise,&#x201d; as well as derivatives thereof, mean inclusion without limitation. The term &#x201c;or&#x201d; is inclusive, meaning and/or. The phrases &#x201c;associated with&#x201d; and &#x201c;associated therewith,&#x201d; as well as derivatives thereof, may mean to include, be included within, interconnect with, contain, be contained within, connect to or with, couple to or with, be communicable with, cooperate with, interleave, juxtapose, be proximate to, be bound to or with, have, have a property of, or the like. The term &#x201c;controller&#x201d; means any device, system, or part thereof that controls at least one operation. A controller may be implemented in hardware, firmware, software, or some combination of at least two of the same. The functionality associated with any particular controller may be centralized or distributed, whether locally or remotely.</p>
+<p id="p-0060" num="0059">While this disclosure has described certain embodiments and generally associated methods, alterations and permutations of these embodiments and methods will be apparent to those skilled in the art. Accordingly, the above description of example embodiments does not define or constrain this disclosure. Other changes, substitutions, and alterations are also possible without departing from the spirit and scope of this disclosure, as defined by the following claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A sensor comprising:
+<claim-text>a piezoelectric substrate;</claim-text>
+<claim-text>a surface acoustic wave (SAW) resonator on a first surface of the substrate;</claim-text>
+<claim-text>a bonding pad electrically coupled to the SAW resonator;</claim-text>
+<claim-text>a cover separated from the first surface of the substrate by a spacer, the SAW resonator located between the cover and the substrate; and</claim-text>
+<claim-text>a notch in a second surface of the substrate.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The sensor of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein:
+<claim-text>the cover comprises glass; and</claim-text>
+<claim-text>the substrate comprises quartz.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The sensor of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the spacer comprises frit glass having a thermal coefficient of expansion at least approximately equal to average thermal coefficients of expansion for the substrate and the cover.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The sensor of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the spacer and the cover form a pressure chamber within the sensor, the SAW resonator located within the pressure chamber.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The sensor of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+<claim-text>a conductive bump on the bonding pad.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. A system comprising:
+<claim-text>an antenna; and</claim-text>
+<claim-text>a sensor comprising:
+<claim-text>a piezoelectric substrate;</claim-text>
+<claim-text>a surface acoustic wave (SAW) resonator on a first surface of the substrate;</claim-text>
+<claim-text>a cover separated from the first surface of the substrate by a spacer, the SAW resonator located between the cover and the substrate;</claim-text>
+<claim-text>a notch in a second surface of the substrate;</claim-text>
+<claim-text>multiple bonding pads electrically coupled to the SAW resonator; and</claim-text>
+<claim-text>a conductive bump on each of the bonding pads, the conductive bumps in electrical contact with the antenna.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The system of <claim-ref idref="CLM-00006">claim 6</claim-ref>, further comprising:
+<claim-text>a monitor configured to receive wireless signals from the antenna.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The system of <claim-ref idref="CLM-00007">claim 7</claim-ref>, further comprising:
+<claim-text>a controller configured to analyze data associated with the wireless signals received by the monitor.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The system of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the sensor is associated with a vehicle tire and comprises at least one of: a temperature sensor and a pressure sensor.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The system of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the notch in the second surface of the substrate is located opposite the SAW resonator.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The system of <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein a thickness of the substrate where at least a portion of the SAW resonator is located is less than a thickness of the substrate away from at least the portion of the SAW resonator.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The sensor of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the notch in the second surface of the substrate is located opposite the SAW resonator.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The sensor of <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein a thickness of the substrate where at least a portion of the SAW resonator is located is less than a thickness of the substrate away from at least the portion of the SAW resonator.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The sensor of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the bonding pad comprises one of multiple bonding pads electrically coupled to the SAW resonator.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. A sensor comprising:
+<claim-text>a piezoelectric substrate;</claim-text>
+<claim-text>a surface acoustic wave (SAW) resonator on a first surface of the substrate;</claim-text>
+<claim-text>a bonding pad electrically coupled to the SAW resonator;</claim-text>
+<claim-text>a cover, the SAW resonator in a chamber located between the cover and the substrate; and</claim-text>
+<claim-text>a notch in a second surface of the substrate.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The sensor of <claim-ref idref="CLM-00015">claim 15</claim-ref>, further comprising:
+<claim-text>a spacer separating the cover from the first surface of the substrate.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The sensor of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein:
+<claim-text>the cover comprises glass;</claim-text>
+<claim-text>the substrate comprises quartz; and</claim-text>
+<claim-text>the spacer comprises frit glass having a thermal coefficient of expansion at least approximately equal to average thermal coefficients of expansion for the substrate and the cover.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The sensor of <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein the notch in the second surface of the substrate is located opposite the SAW resonator.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The sensor of <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein a thickness of the substrate where at least a portion of the SAW resonator is located is less than a thickness of the substrate away from at least the portion of the SAW resonator.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The sensor of <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein the bonding pad comprises one of multiple bonding pads electrically coupled to the SAW resonator. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

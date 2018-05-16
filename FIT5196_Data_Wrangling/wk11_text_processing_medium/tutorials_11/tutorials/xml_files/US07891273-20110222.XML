@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891273-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891273</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12316487</doc-number>
+<date>20081212</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>DE</country>
+<doc-number>20 2007 017 867 U</doc-number>
+<date>20071221</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>87</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>H</section>
+<class>02</class>
+<subclass>G</subclass>
+<main-group>1</main-group>
+<subgroup>12</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 81  941</main-classification>
+<further-classification> 30 901</further-classification>
+<further-classification> 81  943</further-classification>
+</classification-national>
+<invention-title id="d2e71">Insulation stripping tool</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>3596541</doc-number>
+<kind>A</kind>
+<name>Bieganski</name>
+<date>19710800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 81  943</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>3703840</doc-number>
+<kind>A</kind>
+<name>Kauf</name>
+<date>19721100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 30 901</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>4197768</doc-number>
+<kind>A</kind>
+<name>Undin</name>
+<date>19800400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 81  943</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>5572911</doc-number>
+<kind>A</kind>
+<name>Schmode</name>
+<date>19961100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>6089125</doc-number>
+<kind>A</kind>
+<name>Cheng</name>
+<date>20000700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 81  944</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>6895836</doc-number>
+<kind>B2</kind>
+<name>Hetlund</name>
+<date>20050500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>DE</country>
+<doc-number>44 20 050</doc-number>
+<kind>C1</kind>
+<date>19950800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>7</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 81  94</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 81  941-  944</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 30 901</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 30 911</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 30 912</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>3</number-of-drawing-sheets>
+<number-of-figures>9</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090158900</doc-number>
+<kind>A1</kind>
+<date>20090625</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Hanning</last-name>
+<first-name>Guenter</first-name>
+<address>
+<city>Detmold</city>
+<country>DE</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>DE</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Heggemann</last-name>
+<first-name>Christian</first-name>
+<address>
+<city>Detmold</city>
+<country>DE</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>DE</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Hetland</last-name>
+<first-name>Detlev</first-name>
+<address>
+<city>Detmold</city>
+<country>DE</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>DE</country>
+</residence>
+</applicant>
+<applicant sequence="004" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Koester</last-name>
+<first-name>Thomas</first-name>
+<address>
+<city>Schlangen</city>
+<country>DE</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>DE</country>
+</residence>
+</applicant>
+<applicant sequence="005" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Wedler</last-name>
+<first-name>Andreas</first-name>
+<address>
+<city>Detmold</city>
+<country>DE</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>DE</country>
+</residence>
+</applicant>
+<applicant sequence="006" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Storm</last-name>
+<first-name>Siegfried</first-name>
+<address>
+<city>Schlangen</city>
+<country>DE</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>DE</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Laubscher, Sr.</last-name>
+<first-name>Lawrence E.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<last-name>Laubscher, Jr.</last-name>
+<first-name>Lawrence E.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Weidmueller Interface GmbH &#x26; Co. KG</orgname>
+<role>03</role>
+<address>
+<city>Detmold</city>
+<country>DE</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Shakeri</last-name>
+<first-name>Hadi</first-name>
+<department>3727</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A pliers-type insulation stripping tool includes an adjusting device for adjusting the cutting profile provided by the knife edges of a stack of parallel lamellar cutting blades pivotally connected at one end with a knife holder for independent pivotal movement about a first pivot axis parallel with the tool handle pivot axis. The knife holder is connected for longitudinal displacement on one the clamping jaws of the tool handles, thereby to remove a severed length of the insulation layer from the insulated conductor.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="132.25mm" wi="151.38mm" file="US07891273-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="131.83mm" wi="151.81mm" file="US07891273-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="191.35mm" wi="147.57mm" file="US07891273-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="200.83mm" wi="127.85mm" file="US07891273-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0002" num="0001">1. Field of the Invention</p>
+<p id="p-0003" num="0002">A pliers-type insulation stripping tool includes an adjusting device for adjusting the cutting profile provided by the knife edges of a stack of parallel lamellar cutting blades pivotally connected at one end with a knife holder for independent pivotal movement about a common pivot axis.</p>
+<p id="p-0004" num="0003">2. Description of Related Art</p>
+<p id="p-0005" num="0004">Various types of insulation stripping tools are well known in the prior art, as shown, for example, by the U.S. patents to Schmode et al U.S. Pat. No. 5,572,911 and Hetland et al U.S. Pat. No. 6,895,836. The operability of the design, shown and described therein, has definitely been proven in practice. The insulating-stripping means is so shaped that tool-insulating members are arranged between a mouth formed by clamping jaws and that are arranged movably in the longitudinal mouth direction. The insulation members have a packet consisting of side-by-side lamellae with cutting edges, whereby on the reverse side of the lamellae packet, there adjoins a lamella guide device that is adapted to the profile of a conductor.</p>
+<p id="p-0006" num="0005">The disadvantage inherent in this insulating tool is represented by the fact that, for different cable or insulating layer thicknesses, one must build a lamella guide device that will be adapted to the particular profile of a conductor into the insulating tool in order to ensure optimum insulation or to prevent a separation of the cable or only partial insulation due to a lamella guide device that does not fit in with the particular cable cross-section.</p>
+<p id="p-0007" num="0006">The present invention was developed to provide an insulation stripping tool that will be suitable for the insulation of cables when working with the most widely differing cable cross-sections.</p>
+<p id="p-0008" num="0007">Using the invention-based insulating tool, one can easily adapt the insulating-stripping tool to a particular conductor cross-section with the help of the variable adjustable knife support cylinder.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0009" num="0008">Accordingly, a primary object of the present invention is to provide an insulation stripping tool including adjusting means for adjusting the cutting profile provided by the knife edges of a plurality of lamellar cutting blades supported by at least one of two knife holders that are respectively mounted for longitudinal displacement on the clamping jaws of a pair of pivotally-connected pliers-type handles.</p>
+<p id="p-0010" num="0009">According to a more specific object of the invention, the cutting blades are pivotally connected with the knife holder for displacement about a common pivot axis parallel with the handle pivot axis, and the adjusting device comprises a cylindrical support member that is mounted for rotation in the associated knife holder about an axis parallel with the common axis. The circumferential surface of the support cylinder includes a plurality of segments that are alternately engaged by flat portions of the cutting blades, thereby to define different cutting profiles, respectively. Thus, the segments on the circumferential surface of the cylindrical support member can selectively produce linear, concave and angular cutting profiles.</p>
+<p id="p-0011" num="0010">According to a further object, the knife support cylinder lies securely in the knife holder by virtue of the arrangement of the knife support cylinder and of the lamellar cutting blades in the knife holder as well as the shape of the knife support and of the cutting blade lamellae. Moreover, the knife support cylinder can easily be removed from the knife holder for replacement by virtue of this arrangement. In the case of tables with a particular conductor cross-section geometry, one can thus, working with the insulation stripping tool of the present invention in a very simple manner, exchange a knife support cylinder designed for the usual conductor cross-section geometries with a knife support cylinder that is adapted to this special geometry.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0012" num="0011">Other objects and advantages of the invention will become apparent from a study of the following specification, when viewed in the light of the accompanying drawing, in which:</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 1</figref> is a detailed perspective view of the clamping jaw forward end of a pliers-type insulation stripping tool, with certain parts removed for purpose of illustration;</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 2</figref> is a perspective view of one of the knife holders of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 3</figref> is a perspective view of the lamellar cutting blade means of <figref idref="DRAWINGS">FIG. 2</figref>;</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 4</figref> is a perspective view of the front portion of the knife holder of <figref idref="DRAWINGS">FIG. 2</figref> when in the disassembled condition;</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 5</figref> is a first side perspective view of the blade support cylinder of <figref idref="DRAWINGS">FIG. 2</figref>;</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 6</figref> is a detailed view of the forward end of the knife holder when in the assembled condition, and with the blade support cylinder positioned to cause the blade knife edges to define a linear first cutting profile;</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 7</figref> is a side perspective view of the blade support cylinder when in the position shown in <figref idref="DRAWINGS">FIG. 6</figref>;</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 8</figref> is a detailed view of the forward end of the knife holder with the blade support member rotated through 90&#xb0; to cause the blade knife edges to define a concave configuration; and</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 9</figref> is a side view of the knife support member when in the position shown in <figref idref="DRAWINGS">FIG. 8</figref>.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0022" num="0021">Referring first more particularly to <figref idref="DRAWINGS">FIG. 1</figref>, the pliers-type insulation stripping tool <b>1</b> is operable to cut a length of insulation from an insulated conductor C and to strip the severed length of insulation from the conductor. As is customary in the art, a pair of pivotally connected handles include a lower clamping jaw <b>10</b> that carries a longitudinally displaceable lower knife holder <b>3</b>, and an upper clamping jaw (not shown, for purposes of illustration) that carries an opposed longitudinally displaceable upper knife holder <b>2</b>. The handles are normally resiliently biased apart by spring means (not shown) toward an open condition in which the clamping jaws are separated, thereby to receive longitudinally the end of the conductor C that is to be stripped. The handles are initially manually pivoted together to displace the upper and lower knife means <b>4</b> and <b>5</b> carried by the knife holders toward an insulation-cutting position, thereby to sever a desired length of the insulation layer on the conductor. Upon further displacement together of the handles, the knife holders <b>2</b> and <b>3</b> are linearly displaced by the retraction rod <b>11</b> and the associated retraction linkage (not shown), whereby the severed insulation layer is separated longitudinally from the conductor by the edges of the knife means <b>4</b> and <b>5</b>.</p>
+<p id="p-0023" num="0022">Referring now to <figref idref="DRAWINGS">FIGS. 2-5</figref>, the lower knife holder <b>3</b> contains at its forward end a recess that defines between a pair of side walls <b>3</b><i>a </i>and <b>3</b><i>b </i>an opening that receives the lower knife blade means <b>5</b>. The knife blade means <b>5</b> comprises a stack of lamellar cutting blades <b>13</b> that are individually pivotally connected with the knife holder <b>3</b> by a pivot pin <b>9</b> that extends between opposed openings <b>25</b> contained in the knife holder side walls, and through aligned openings <b>14</b> contained in the lamellar cutting blades <b>13</b>. The cutting blades <b>13</b> have knife edges <b>13</b><i>a </i>that extend upwardly from the upper sides thereof, and corresponding flat surfaces <b>26</b> on their lower sides that engage and are independently supported by the circumferential surface of a cylindrical knife blade support member <b>7</b>. The knife blade support member includes at its opposite ends circular flange portions <b>18</b> and <b>19</b> that are rotatably and removably supported in opposed openings <b>20</b> and <b>21</b> that are contained in the knife holder side walls <b>3</b><i>a </i>and <b>3</b><i>b</i>, respectively.</p>
+<p id="p-0024" num="0023">As best shown in <figref idref="DRAWINGS">FIG. 5</figref>, the circumferential surface of the knife blade support member <b>7</b> includes a flat segment <b>16</b>, and a curved concave surface <b>17</b> displaced 90&#xb0; from the flat segment <b>16</b>. The end surface <b>29</b> of the circular flange portion <b>18</b> contains a diametrically extending slot <b>12</b> for receiving the tip of an adjusting tool, such as a screwdriver. Referring to <figref idref="DRAWINGS">FIGS. 6 and 7</figref>, it will be seen that when the knife support member is positioned with the slot <b>12</b> arranged horizontally so that the flat surface <b>16</b> is uppermost and horizontal, the flat surfaces <b>26</b> of the cutting blades are in engagement with the flat surface <b>16</b>, thereby to cause the knife edges <b>13</b><i>a </i>of the individual cutting blades <b>13</b> to define a linear cutting profile <b>22</b>. When the cylindrical knife support member is rotated by the tip of a screwdriver or the like through an angle of 90&#xb0; to the position shown in <figref idref="DRAWINGS">FIGS. 8 and 9</figref>, the individual knife blades are supported by the concave recess <b>17</b> contained in the circumference of the cylindrical support member, thereby causing the knife edges <b>13</b><i>a </i>of the cutting blades to define a concave cutting profile <b>23</b>. In this manner, the cutting profile of the knife edges of the cutting blades may be selected to correspond with the cross-sectional configuration and/or size of the insulated conductor C from which the insulation layer is to be stripped. Thus, a number of segments may be circumferentially arranged on the cylindrical knife support to produce selected linear, concave, convex or angular cutting profiles, and since the cylindrical knife support member is removably mounted in the knife holder openings <b>20</b> and <b>21</b>, various additional knife support members may be provided to produce numerous cutting profiles of various configurations and sizes, as desired. It is apparent that the cutting profile of the upper knife means <b>4</b> may be similarly adjusted by rotation of the upper knife blade cylinder <b>6</b>. If desired, resilient means may be provided for biasing the knife blades toward their respective knife holder members.</p>
+<p id="p-0025" num="0024">While in accordance with the provisions of the Patent Statutes the preferred forms and embodiments of the invention have been illustrated and described, it will be apparent to those skilled in the art that changes may be made without deviating from the invention described above.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A knife arrangement for a pliers-type insulation stripping tool operable to strip the outer insulation layer from an insulated conductor, said stripping tool including a pair of pivotally-connected handles having adjacent clamping jaw portions, comprising:
+<claim-text>(a) knife holder means including a pair of opposed generally parallel knife holders (<b>2</b>, <b>3</b>) respectively connected with said stripping tool jaw portions for initial displacement by said jaw portions between a separated disengaged position and an adjacent insulation-cutting position, and for subsequent longitudinal displacement relative to said jaw portions from said insulation-cutting position toward an insulation-stripping position;</claim-text>
+<claim-text>(b) a pair of opposed knives (<b>4</b>, <b>5</b>) respectively carried by said knife holders and extending toward each other from the adjacent surfaces of said knife holders, at least one of said knives comprising a stack of parallel lamellar cutting blades (<b>13</b>) each connected for independent pivotal displacement relative to the associated knife holder, said cutting blades having knife edges (<b>13</b><i>a</i>) arranged to define a first cutting profile, said lamellar cutting blades being connected with the associated knife holder for pivotal displacement about a first pivot axis (<b>9</b>) parallel with the tool handle pivot axis; and</claim-text>
+<claim-text>(c) blade adjustment mechanism (<b>6</b>, <b>7</b>) for adjusting the positions of said cutting blades relative to the associated knife holder to define a second cutting profile corresponding with the cross-sectional configuration of the insulated conductor, said blade adjustment mechanism including a generally cylindrical blade support member (<b>6</b>, <b>7</b>) mounted for rotation about an axis parallel with said first pivot axis, said support members having a circumferential surface arranged to support said cutting blades, said blade support member circumferential surface including a plurality of support segments (<b>16</b>, <b>17</b>) for defining different cutting profiles, respectively.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. A knife arrangement as defined in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein one of said support segments (<b>16</b>) is planar, thereby to produce a linear arrangement of the cutting edges of said cutting blades.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. A knife arrangement as defined in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein one of said support segments (<b>17</b>) is concave, thereby to produce a concave arrangement of the cutting edges of said cutting blades.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. A knife arrangement as defined in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein one of said support segments includes angular walls, thereby causing said cutting blade edges to define an angular profile.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. A knife arrangement as defined in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said cylindrical blade support member has an end surface that contains a slit (<b>12</b>) for receiving the tip of an adjusting screwdriver.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. A knife arrangement as defined in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said cutting blades include corresponding flat surfaces (<b>26</b>) arranged for engagement with the circumferential surface of said blade support member.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. A knife arrangement as defined in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said cylindrical blade support member includes circular end flange portions (<b>18</b>, <b>19</b>) rotatably and removably mounted in corresponding side wall bores contained in the knife holder, thereby to permit the substitution of different blade support members to produce different cutting profiles. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

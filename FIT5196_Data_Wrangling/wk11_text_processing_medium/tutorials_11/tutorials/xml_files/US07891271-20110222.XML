@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891271-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891271</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11657980</doc-number>
+<date>20070124</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>1030</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>62</class>
+<subclass>M</subclass>
+<main-group>3</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 745947</main-classification>
+<further-classification> 74547</further-classification>
+<further-classification>1231855</further-classification>
+</classification-national>
+<invention-title id="d2e53">Slide locking motorcycle kick arm</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>1059884</doc-number>
+<kind>A</kind>
+<name>Link</name>
+<date>19130400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 74550</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>1330260</doc-number>
+<kind>A</kind>
+<name>Graham et al.</name>
+<date>19200200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 74547</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>2470414</doc-number>
+<kind>A</kind>
+<name>Rippenbein</name>
+<date>19490500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 745944</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>2677975</doc-number>
+<kind>A</kind>
+<name>Russell</name>
+<date>19540500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 74547</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>2723329</doc-number>
+<kind>A</kind>
+<name>Baird</name>
+<date>19551100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>200330</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>3533389</doc-number>
+<kind>A</kind>
+<name>Harker</name>
+<date>19701000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>4030561</doc-number>
+<kind>A</kind>
+<name>Hashimoto et al.</name>
+<date>19770600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>180219</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>4531715</doc-number>
+<kind>A</kind>
+<name>Wiens</name>
+<date>19850700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>254266</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>4552034</doc-number>
+<kind>A</kind>
+<name>Bertani et al.</name>
+<date>19851100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 74547</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>5085433</doc-number>
+<kind>A</kind>
+<name>Parsons</name>
+<date>19920200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>463 476</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>5443570</doc-number>
+<kind>A</kind>
+<name>Hirano</name>
+<date>19950800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>242284</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>5513544</doc-number>
+<kind>A</kind>
+<name>Winkler et al.</name>
+<date>19960500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 74547</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>5647095</doc-number>
+<kind>A</kind>
+<name>Takimoto</name>
+<date>19970700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 16405</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>5676349</doc-number>
+<kind>A</kind>
+<name>Wilson</name>
+<date>19971000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>254266</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>7712393</doc-number>
+<kind>B2</kind>
+<name>Bertani</name>
+<date>20100500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 74547</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>6</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>1231855</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 74512</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 74572</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 745947</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 74547</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 74544</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 16429</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 16438</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>280293</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>280304</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>280298</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>9</number-of-drawing-sheets>
+<number-of-figures>17</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20070137401</doc-number>
+<kind>A1</kind>
+<date>20070621</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Grant</last-name>
+<first-name>John</first-name>
+<address>
+<street>1412 SE. 83rd St.</street>
+<city>Vancouver</city>
+<state>WA</state>
+<postcode>98664</postcode>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Rylander &#x26; Associates P.C.</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<last-name>Beatty</last-name>
+<first-name>Mark E.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="03" rep-type="attorney">
+<addressbook>
+<last-name>Rylander</last-name>
+<first-name>Kurt M.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<examiners>
+<primary-examiner>
+<last-name>Ridley</last-name>
+<first-name>Richard W</first-name>
+<department>3656</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Waits</last-name>
+<first-name>Alan B</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A slide locking motorcycle kick arm with a foot pedal and a kick arm shaft that is attachable to an engine kick starter, where the foot pedal can rotate to be in the kick start position and rotated out of the way when kick starting is completed. The foot pedal can be locked in either position, only when the foot pedal slides to the end of the kick arm shaft, and can be locked in the rotated position.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="169.76mm" wi="178.82mm" file="US07891271-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="196.77mm" wi="148.42mm" orientation="landscape" file="US07891271-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="174.58mm" wi="170.43mm" orientation="landscape" file="US07891271-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="192.45mm" wi="172.80mm" orientation="landscape" file="US07891271-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="207.01mm" wi="168.99mm" orientation="landscape" file="US07891271-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="193.63mm" wi="149.94mm" orientation="landscape" file="US07891271-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="223.44mm" wi="170.10mm" orientation="landscape" file="US07891271-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="213.11mm" wi="167.89mm" orientation="landscape" file="US07891271-20110222-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="182.03mm" wi="167.47mm" orientation="landscape" file="US07891271-20110222-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="211.84mm" wi="137.75mm" orientation="landscape" file="US07891271-20110222-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0002" num="0001">Applicant's slide locking motorcycle kick arm relates to apparatus for manually starting small internal combustion engines.</p>
+<heading id="h-0002" level="1">BACKGROUND</heading>
+<p id="p-0003" num="0002">Motorcycle kick arms are used to manually turn the crank of an internal combustion engine over such that the engine will start. Kick arms are also commonly used on other vehicles and apparatus with smaller engines where battery powered starters are undesirable due to weight, space or cost considerations, such as snowmobiles, all terrain vehicles, scooters, and other apparatus. Kick arms utilize a pedal connected to the kick arm, which the user actuates to force the kick arm to turn the engine over. Some motorcycles are equipped with electric starters which perform this function, and some motorcycles have both an electric starter and the option to start the engine manually by use of a kick arm. Kick arms are currently available but make use of a pedal pivotally connected to the kick arm, which when not in use is pivoted to a storage position. Current kick arm pedals are prone to drift from the storage position due to vibration or wind when the motorcycle is in use. This poses usability and safety problems for the operator of the motorcycle. Thus there is a need for kick arms that prevent the kick arm pedal from drifting from the storage position when the motorcycle is in use or when the kick arm is not in use.</p>
+<p id="p-0004" num="0003">A number of devices have provided motorcycle kick arms, but the art has not addressed these problems. The following represents a list of known related art:</p>
+<p id="p-0005" num="0004">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="91pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="left"/>
+<colspec colname="3" colwidth="63pt" align="left"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Reference:</entry>
+<entry>Issued to:</entry>
+<entry>Date of Issue:</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>U.S. Pat. No. 3,533,389</entry>
+<entry>Harker</entry>
+<entry>Oct. 13, 1970</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0006" num="0005">The teachings of each of the above-listed citations (which do not itself incorporate essential material by reference) are herein incorporated by reference. None of the above inventions and patents, taken either singularly or in combination, is seen to describe the slide locking kick arm as claimed. U.S. Pat. No. 3,533,389 to teaches a fairly conventional layout for a kick arm, where the foot pedal pivots out of the way, but is prone to drift due to vibration.</p>
+<p id="p-0007" num="0006">Thus, there is a need for a slide locking kick arm apparatus that stows completely out of the way, such that there is no danger of the pedal drifting out to interfere with the operator. There is also a need for a slide locking kick arm apparatus which can be operated with one hand and does not require tools to use. There is also a need for a slide locking kick arm apparatus which is designed to clear engine air filter and exhaust components. Still other features would be desirable in a motorcycle kick arm, such as the ability to lock or prevent the kick arm pedal from drifting from the storage position when not in use.</p>
+<p id="p-0008" num="0007">Thus, while the foregoing body of art indicates it to be well known to have a motorcycle kick arm, the art described above does not teach or suggest a motorcycle kick arm which has the desirable feature of preventing the kick arm pedal from drifting from the storage position when not in use.</p>
+<heading id="h-0003" level="1">SUMMARY AND ADVANTAGES</heading>
+<p id="p-0009" num="0008">A slide locking kick arm is presented which includes a first connecting means, a second connecting means, a locking means, a kick arm shaft, and a foot pedal, wherein the kick arm shaft includes a first part attachable to an engine kick starter using said first connecting means, and a second part extending from said first part slidably attachable within said foot pedal using said second connection means, and wherein the second connecting means further includes rotating means which allow said foot pedal to rotate outward approximately ninety (90) degrees only when said foot pedal is slid to the distal end of said second part of said kick arm shaft; and wherein the foot pedal can be locked in its rotated position using said locking means.</p>
+<p id="p-0010" num="0009">A slide locking kick arm may include a kick arm shaft attachable to an engine kick starter at a first end of the shaft, said shaft including a first angled part connected to the first end, and a second part for receiving a foot pedal extending from said first part, said second part comprising an enclosed slot extending substantially the entire length of said second part, a distal end wall, a distal end locking corner, a foot pedal slidingly attachable over the shaft second part, said foot pedal including a first cavity including an opening at one end for receiving said kick arm shaft second part, a second cavity extending from the opening of said first cavity, the second cavity including a posterior wall, a posterior lip, two opposing lateral walls extending from said posterior wall, said lateral walls including penetrations for receiving a pedal connector, and an anterior lip connecting the two lateral walls, said anterior lip located opposite from said posterior lip across the opening of said first cavity, and, a pedal connector axle connecting through said sidewall penetrations and interior slot, wherein when said foot pedal is extended said foot pedal can be rotated away from said engine starter, thereby resting said posterior wall against the distal end wall of said shaft second part, and resting said anterior lip against an exterior surface of said shaft second part, engaging said distal end locking corner against said posterior lip.</p>
+<p id="p-0011" num="0010">A slide locking kick arm can include a locking pin and locking pin handle, wherein said locking pin extends from the handle slidably through the closed end of said foot pedal, down the length of said first cavity, and partly into said second cavity, a fixed support plate fixedly connected to said locking pin, positioned within said first cavity of said foot pedal, a locking pin spring within said first cavity extending along said locking pin between said fixed support plate and the closed end of said first cavity, a sliding support plate slidably attachable to said locking pin between said fixed support plate and the distal end of said locking pin; and further wherein, said kick arm shaft second part further comprises a locking pin receiving hole through said distal endwall and a locking pin locking hole through a sidewall of enclosed slot.</p>
+<p id="p-0012" num="0011">Applicant's motorcycle kick arm for turning over internal combustion engines such that the engine starts, includes an arm attached perpendicular to the transmission kick shaft, a pedal rotatably connected to the kick arm, where said pedal contains a hollow portion such that when not in use the pedal can slide over the kick arm so as to be out of the way and prevent the pedal from drifting during operation of the motorcycle. In one embodiment, the kick arm contains a channel along the length of the kick arm allowing the pedal to slide into the storage position where said pedal slides over the kick arm longitudinally and allowing the pedal to slide out of the storage position and rotate perpendicular to the kick arm such that rotation of the kick arm about the kick shaft axis is achieved when the user applies force to the pedal. The pedal is secured to the kick arm by a bolt In another embodiment the pedal is secured to the kick arm by a spring and bolt housed internal to the pedal and longitudinal to the kick arm when the pedal is in the storage position. The spring applies force to the pedal to keep it in the storage position when not in use.</p>
+<p id="p-0013" num="0012">Applicant's slide locking motorcycle kick arm presents numerous advantages, including: (1) the ability to secure the pedal in the storage position and (2) the ability to prevent the pedal from drifting from the storage position when not in use. Additional advantages will be set forth in part in the description which follows, and in part will be obvious from the description, or may be learned by practice of the invention. The advantages of the invention may be realized and attained by means of the instrumentalities and combinations particularly pointed out in the appended claims. Further benefits and advantages of the embodiments of the invention will become apparent from consideration of the following detailed description given with reference to the accompanying drawings, which specify and show preferred embodiments of the present invention.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0014" num="0013">The accompanying drawings, which are incorporated into and constitute a part of this specification, illustrate one or more embodiments of Applicant's slide locking motorcycle kick arm and, together with the detailed description, serve to explain the principles and implementations of the invention.</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 1</figref> shows a side view of a kick arm shaft with an enclosed slot.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 1A</figref> shows a side view of a foot pedal connector.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 1B</figref> shows a side view of a foot pedal.</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 2</figref> shows a perspective view a foot pedal cavity.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 3</figref> shows a slide locking kick arm in the engaged position attached to a motorcycle.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 4</figref> shows a slide locking kick arm in the collapsed position attached to a motorcycle.</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 5</figref> shows a side view of a kick arm shaft with side channels.</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 5A</figref> shows cutaway end-view of a kick arm shaft with side channels.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 5B</figref> shows a side view of a foot pedal.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 6</figref> shows a perspective view a foot pedal cavity.</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 6A</figref> shows a cutaway side view of a pedal connector.</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 7</figref> shows a side view of a kick arm shaft.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 7A</figref> shows a foot pedal connecter.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 7B</figref> shows an interior side view of a foot pedal with a locking pin mechanism.</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 7C</figref> shows a side view a foot pedal locking pin mechanism.</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 7D</figref> shows a cutaway side view of a slide locking kick arm with a locking pin mechanism in the engaged position.</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. 7E</figref> shows a cutaway side view of a slide locking kick arm with a locking pin mechanism in the stowed position.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0032" num="0031">Before beginning a detailed description of the subject invention, mention of the following is in order. When appropriate, like reference materials and characters are used to designate identical, corresponding, or similar components in differing figure drawings. The figure drawings associated with this disclosure typically are not drawn with dimensional accuracy to scale, i.e., such drawings have been drafted with a focus on clarity of viewing and understanding rather than dimensional accuracy.</p>
+<p id="p-0033" num="0032">In the interest of clarity, not all of the routine features of the implementations described herein are shown and described. It will, of course, be appreciated that in the development of any such actual implementation, numerous implementation-specific decisions must be made in order to achieve the developer's specific goals, such as compliance with application- and business-related constraints, and that these specific goals will vary from one implementation to another and from one developer to another. Moreover, it will be appreciated that such a development effort might be complex and time-consuming, but would nevertheless be a routine undertaking of engineering for those of ordinary skill in the art having the benefit of this disclosure.</p>
+<p id="p-0034" num="0033">The slide locking kick arm is most useful for motorcycles with engine kick starters, but is applicable to similar motorized apparatus which use engine kick starters, such as scooters, snowmobiles, and three-wheel or four-wheel all-terrain-vehicles (ATV's). Therefore, where claims read &#x201c;motorcycle&#x201d; this term includes scooters, snowmobiles, and ATV's with kick starters.</p>
+<p id="p-0035" num="0034">As shown in <figref idref="DRAWINGS">FIGS. 1-4</figref>, a slide locking kick arm includes a kick arm shaft <b>10</b> attachable to an engine starter or transmission (T), and a foot pedal <b>26</b> slidably attached to kick arm shaft <b>10</b> using pedal engaging means <b>44</b>.</p>
+<p id="p-0036" num="0035">As seen in <figref idref="DRAWINGS">FIG. 1</figref>, a slide locking kick arm includes a first attachment portion <b>12</b> for attaching the shaft to an engine starter or transmission T through opening <b>46</b>, a second slotted portion <b>16</b> for receiving foot pedal <b>26</b>, a foot pedal <b>26</b> slidingly attachable to the kick arm shaft slotted portion <b>16</b> with second attachment means <b>44</b>. As seen in <figref idref="DRAWINGS">FIGS. 3 and 4</figref>, foot pedal <b>26</b> can be rotated to a position approximately normal to an engine starter T to accept the foot of an operator when foot pedal <b>26</b> is slid to the extended distal position along kick arm shaft <b>10</b>. Kick arm shaft <b>10</b> can include a first angled part <b>14</b> to offset pedal <b>26</b>, thereby providing clearance around air filter F and exhaust components (not shown).</p>
+<p id="p-0037" num="0036">In one embodiment, shown in <figref idref="DRAWINGS">FIGS. 1-4</figref>, a slide locking kick arm has a kick arm shaft <b>10</b> with a first angled part <b>14</b> connected to a second part <b>16</b> with enclosed slot <b>18</b>, distal endwall <b>20</b>, distal locking corner <b>22</b>, and distal rounded corner <b>24</b>. First angled part <b>14</b> provides an offset so that foot pedal <b>26</b> will clear air filter F and the motorcycle exhaust components. On motorcycle models not requiring this offset, first angled part <b>14</b> and second slotted part <b>16</b> can form a continuous straight shaft without offset, or a continuous straight shaft angled out from connecting end <b>12</b>.</p>
+<p id="p-0038" num="0037">Foot pedal <b>26</b> has a first cavity <b>30</b> which is open at one end and closed at the other end. The internal cross section of first cavity <b>30</b> approximates the cross section of the shaft second part <b>16</b>, which in this embodiment is rectangular, to prevent foot pedal <b>26</b> from spinning. Other cross section shapes could be used to achieve the same effect, including other polygonal shapes or eccentric cross sections. First cavity <b>30</b> opens to a second open cavity bounded by posterior wall <b>36</b>, lateral sidewalls <b>40</b>, posterior lip <b>34</b>, and anterior lip <b>32</b>. Foot pedal <b>26</b> preferably includes a retaining lip <b>28</b> at the closed end to prevent the operator's foot from sliding off. Foot pedal <b>26</b> can also flare out around the opening of the second cavity to prevent the operators foot from sliding in that direction. Foot pedal <b>26</b> can include tread hatchings embedded into the exterior surface, or alternatively a slip-resistant material, such as rubber or epoxy &#x201c;nonskid&#x201d;, can be applied. In another alternative, a removable rubber tread could be used. Foot pedal attachment means <b>44</b> includes axle <b>44</b><i>a</i>, which passes through lateral sidewall holes <b>38</b> and enclosed slot <b>18</b>. Axle <b>44</b><i>a </i>is a shoulder bolt held in place by retaining bolt <b>44</b><i>d</i>, with washers <b>44</b><i>b </i>and <b>44</b><i>c </i>providing smooth rotation. Retaining bolt <b>44</b><i>d </i>is preferably a locknut. Different styles of bolts, rivets, or shafts known to those of skill in the art could also be used to achieve the same results.</p>
+<p id="p-0039" num="0038">In operation, a first embodiment is shown in its collapsed position in <figref idref="DRAWINGS">FIG. 4</figref>, attached to a Harley Davidson&#x2122; motorcycle. The slide locking kick arm is attached to the kick starter T through attachment hold <b>46</b> using fastener <b>42</b>. Motorcycles typically use a square shaft to connect a kick arm to kick starter T, in order to prevent slip. Foot pedal <b>26</b> resides vertically, out of the way, enclosing kick arm shaft second part <b>16</b>. The operator pulls foot pedal <b>26</b> vertically to its extended position, causing axle <b>44</b><i>a </i>to slide within enclosed slot <b>18</b>. As shown in <figref idref="DRAWINGS">FIG. 2</figref>, foot pedal <b>26</b> is then rotated away from the motorcycle to its engaged position, approximately normal to the motorcycle itself. In this position, posterior wall <b>36</b> is contacting against distal endwall <b>20</b>, and posterior lip <b>34</b> is locked against distal locking corner <b>22</b>. Anterior lip <b>32</b> is resting against the exterior wall of enclosed channel <b>18</b>. Thus, foot pedal <b>26</b> is locked in place and can accept the force of an operator's foot pushing down to crank the motorcycle engine. Distal rounded corner <b>24</b> is radiused to allow smooth rotation of foot pedal <b>26</b>.</p>
+<p id="p-0040" num="0039">A second embodiment is shown in <figref idref="DRAWINGS">FIGS. 5-6</figref> is similar in many respects to the previously described embodiment, but incorporates side channels <b>118</b> rather than an enclosed slot <b>18</b>. A slide locking kick arm includes a kick arm shaft <b>110</b> which is attachable to a motorcycle kick starter T at first end <b>112</b>, through hole <b>146</b>. Shaft <b>110</b> includes a first angled part <b>114</b> and a second part <b>116</b> with one or more exterior lateral channels <b>118</b>. Preferably two opposing channels <b>118</b> are provided for more reliable operation, but a single channel could be used. Additionally, multiple channels could be provided on a single side or opposing sides of shaft <b>116</b>, depending on desired operating characteristics and manufacturing considerations known to those of ordinary skill in the art. Shaft second part <b>116</b> fits snugly within foot pedal first cavity <b>130</b> when collapsed.</p>
+<p id="p-0041" num="0040">Foot pedal <b>126</b> is slidingly attached to kick arm shaft <b>110</b> using two foot pedal connectors <b>148</b> on either side. Foot pedal connectors <b>148</b> are preferably round-headed hollow shaft studs with internal and external retaining lips <b>148</b><i>c</i>. The external lips lock the stud against lateral sidewalls <b>140</b>, while the internal lips retain ball bearing <b>148</b><i>b </i>against spring <b>148</b><i>a</i>. Ball bearings <b>148</b><i>b </i>ride within channels <b>118</b>, while the protrusion of lips <b>148</b><i>c </i>into channels <b>118</b> prevents foot pedal <b>126</b> from coming completely off shaft <b>116</b> during use. Lips <b>148</b><i>c </i>can be formed by pressing or by using a rivit gun, by threading connector <b>148</b> together from two parts, or other commonly known methods. Side channels <b>118</b> are preferably part-round cross sections to allow smooth operation of ball bearings <b>148</b><i>b</i>. Alternatively, pedal connectors <b>148</b> could simply consist of one or more studs or bolts extending into corresponding channels <b>118</b>, without ball bearings, to save costs.</p>
+<p id="p-0042" num="0041">In operation, the second embodiment operates similarly to the first embodiment. The slide locking kick arm is attached to the kick starter through attachment hold <b>146</b> using a fastener. Foot pedal <b>126</b> stows vertically, out of the way, enclosing kick arm shaft second part <b>116</b>. The operator pulls foot pedal <b>126</b> up vertically from its stowed position. The operator pulls foot pedal <b>126</b> vertically to its extended position, causing pedal connectors <b>148</b>, with ball bearings <b>148</b><i>b</i>, to slide within opposing side channels <b>118</b>. Foot pedal <b>126</b> is then rotated away from the motorcycle to its engaged position, approximately normal to the motorcycle itself. In this position, posterior wall <b>136</b> is contacting against distal endwall <b>120</b>, and posterior lip <b>134</b> is locked against distal locking corner <b>122</b>. Anterior lip <b>132</b> is resting against the a side of shaft <b>116</b>. Thus, foot pedal <b>126</b> is locked in place and can accept the force of an operator's foot pushing down to crank the motorcycle engine. Distal rounded corner <b>124</b> is radiused to allow smooth rotation of foot pedal <b>126</b>.</p>
+<p id="p-0043" num="0042">A third embodiment is shown in <figref idref="DRAWINGS">FIGS. 7-7E</figref>. In this embodiment foot pedal <b>226</b> is internally similar to the previous described embodiments. Locking pin <b>250</b> is provided to ensure the foot pedal remains locked in the engaged position during operation by acting through locking hole <b>262</b> through a sidewall of enclosed channel <b>218</b>. Locking pin <b>250</b> includes a handle <b>252</b>, which is preferably a closed loop. A closed loop is easier to grip with fingers than a post, or alternatively the operator could use a small hook, perhaps kept on a keyring, to grab the pin. Other convenient shapes could be used for handle <b>252</b> which are known to those of skill in the art. Locking pin <b>250</b> fits slidingly through the closed end of foot pedal <b>226</b>, extending through first cavity <b>230</b> and partly into the second cavity opening out from first cavity <b>230</b>. Fixed support plate <b>258</b> is rigidly attached to locking pin <b>250</b>. Locking pin spring <b>260</b> is positioned between fixed support plate <b>258</b> and the closed end of cavity <b>230</b>, while sliding support plate <b>254</b> is slidably attached to locking pin <b>250</b> on the other side of fixed support plate <b>258</b>, allowing it to travel freely up and down the length of locking pin <b>250</b>. A weak sliding support plate spring <b>256</b> can be included to ensure sliding plate <b>254</b> operates properly during use. Sliding support spring <b>256</b> should be selected so that the spring force when fully compressed does not exceed the weight of foot pedal <b>226</b> in order to prevent foot pedal <b>226</b> from inadvertently lifting. Alternatively, sliding support plate spring <b>256</b> could be eliminated for simplicity.</p>
+<p id="p-0044" num="0043">Referring to <figref idref="DRAWINGS">FIG. 7E</figref>, in the collapsed (i.e. vertical) condition, locking pin <b>250</b> extends through distal endwall <b>220</b> through distal end hole <b>268</b> and extends into enclosed slot <b>218</b>. Sliding support plate <b>254</b> rests against distal endwall <b>220</b>, and locking pin spring <b>260</b> is not fully compressed. To engage and lock foot pedal <b>226</b>, the operator pulls up on locking pin <b>250</b>, thereby causing fixed support plate <b>258</b> to act against locking pin spring <b>260</b> and lift foot pedal <b>226</b> up, with foot pedal connector axle <b>244</b><i>a </i>sliding within enclosed channel <b>218</b>. When connector axle <b>244</b><i>a </i>reaches the top of enclosed channel <b>218</b> (making contact with distal endwall <b>220</b>) continued force on locking pin <b>250</b> compresses locking pin spring <b>260</b>, so that locking pin <b>250</b> clears distal end hole <b>268</b> allowing foot pedal <b>226</b> to rotate away from the motorcycle.</p>
+<p id="p-0045" num="0044">When foot pedal <b>226</b> is in the engaged position, approximately normal to the motorcycle, the operator releases locking pin <b>250</b>, allowing locking pin spring <b>260</b> to force locking pin <b>250</b> through locking hole <b>262</b> by acting against fixed support plate <b>254</b>. As foot pedal <b>226</b> is lifted, sliding support plate <b>254</b> slides down locking pin <b>250</b> by force of gravity, assisted by sliding support plate spring <b>256</b> if it is present, to ensure locking pin <b>250</b> remains properly aligned to engage locking hole <b>262</b>. Locking pin <b>250</b> could also be made long enough to pass completely through both sidewalls of enclosed slot <b>218</b> for more support. Posterior wall <b>236</b> rests against distal endwall <b>220</b>, anterior lip <b>232</b> rests against the side of shaft <b>216</b>, and posterior lip <b>234</b> locks distal locking corner <b>222</b> in place. At this point the operator can put his boot on foot pedal <b>226</b>, crank the engine, stow foot pedal <b>226</b> by reversing the above steps, and ride off into the sunset, without the possibility that the kick arm pedal will drift out and catch their leg.</p>
+<p id="p-0046" num="0045">Locking pin <b>250</b> can easily be assembled using a shaft with a threaded end. Fixed support plate <b>258</b> can be tack welded at the desired position, determined by the desired amount of travel of locking pin <b>250</b> and compression characteristics of locking pin spring <b>260</b>. Alternatively support plate <b>258</b> could be glued or pressed in place, or fixed by other methods known in the art. Locking pin spring <b>260</b> can then be placed over the shaft, which is then inserted into the foot pedal cavity and through the closed endwall, at which point handle <b>252</b> can be threaded onto the protruding end of the locking pin shaft. Other methods could also be used.</p>
+<p id="p-0047" num="0046">A locking device can be included to prevent foot pedal <b>226</b> from inadvertently being lifted. A locking device would preferably be a simple spring-loaded lever at the open end of foot pedal <b>226</b>. The spring-loaded lever includes a hook which engages a raised lip on the side of shaft <b>216</b>, or a tooth engaging a detent on the side of shaft <b>216</b>. A transverse axle at approximately the midpoint of the lever allows the lever to rock, similar to a see-saw. A spring positioned under the upper half of the lever, where the operator's thumb would be positioned, biases the lever to the locked position&#x2014;i.e. causing the hook or tooth to engage the raised lip or detent respectively. By pressing the upper half of the lever in, against the spring bias, the hook or tooth is disengaged, allowing the foot pedal <b>226</b> to be extended and engaged. Equivalent devices are known in the art, such as sliding locks, interrupted thread twist locks, and friction locks. The use of a locking device also allows for using a stronger sliding support plate spring <b>256</b>, thereby assisting the operator in lifting foot pedal <b>226</b>.</p>
+<p id="p-0048" num="0047">A slide locking kick arm shaft is preferably fabricated with stainless steel or chrome plated conventional or tool steel for strength, durability, corrosion resistance, and visual appeal. However, a slide locking kick arm could be made from any material with suitable strength and toughness characteristics, including aluminum and composites. The dimensions of a slide locking kick arm can be varied to accommodated riders of different sizes and different models of motorcycle or other motorized apparatus using kick starters.</p>
+<p id="p-0049" num="0048">Those skilled in the art will recognize that numerous modifications and changes may be made to the preferred embodiment without departing from the scope of the claimed invention. It will, of course, be understood that modifications of the invention, in its various aspects, will be apparent to those skilled in the art, some being apparent only after study, others being matters of routine mechanical, chemical and electronic design. No single feature, function or property of the preferred embodiment is essential. Other embodiments are possible, their specific designs depending upon the particular application. As such, the scope of the invention should not be limited by the particular embodiments herein described but should be defined only by the appended claims and equivalents thereof.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>I claim:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A slide locking kick arm, comprising:
+<claim-text>a kick arm shaft attachable to an engine kick starter at a first end (<b>12</b>) of the shaft, said shaft comprising a first angled part (<b>14</b>) connected to said first end, and a second part (<b>16</b>) for receiving a foot pedal (<b>26</b>) extending from said first part, said second part comprising an enclosed slot (<b>18</b>) extending substantially the entire length of said second part, a distal end wall (<b>20</b>), a distal end locking corner (<b>22</b>);</claim-text>
+<claim-text>a foot pedal (<b>26</b>) slidingly attachable over the shaft second part, said foot pedal comprising:
+<claim-text>a first cavity (<b>30</b>) including an opening at one end for receiving said kick arm shaft second part;</claim-text>
+<claim-text>a second cavity extending from the opening of said first cavity, the second cavity comprising: a posterior wall (<b>36</b>); a posterior lip (<b>34</b>); two opposing lateral walls (<b>40</b>) extending from said posterior wall, said lateral walls including penetrations (<b>38</b>) for receiving a pedal connector; and an anterior lip (<b>32</b>) connecting the two lateral walls, said anterior lip located opposite from said posterior lip across the opening of said first cavity; and,</claim-text>
+<claim-text>a pedal connector axle (<b>44</b>) connecting through said sidewall penetrations (<b>38</b>) and interior slot (<b>18</b>);</claim-text>
+</claim-text>
+<claim-text>wherein, when said foot pedal (<b>26</b>) is extended, said foot pedal can be rotated away from said engine starter, and said foot pedal further comprises a locking pin and locking pin handle slidably through the closed end of said foot pedal, down the length of said first cavity, and partly into said second cavity</claim-text>
+<claim-text>A fixed support plate fixedly connected to said locking pin, positioned within said first cavity of said foot pedal</claim-text>
+<claim-text>A locking pin spring within said first cavity extending along said locking pin between said fixed support plate and the closed end of said first cavity</claim-text>
+<claim-text>A sliding support plate slidably attached to said locking pin between said fixed support plate and the distal end of said locking pin</claim-text>
+<claim-text>And further, wherein said kick arm shaft second part further comprises a locking pin receiving hole through said distal endwall and said locking pin locking hole through a sidewall of enclosed slot.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The collapsible motorcycle kick arm of <claim-ref idref="CLM-00001">claim 1</claim-ref> further comprising a sliding support plate spring extending along said locking pin (<b>250</b>) between said fixed support plate (<b>258</b>) and said sliding support plate (<b>254</b>).</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The collapsible motorcycle kick arm of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said foot pedal further comprises a raised retaining lip (<b>28</b>) extending radially outward from the closed end of said foot pedal.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The collapsible motorcycle kick arm of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said pedal connector (<b>44</b>) comprises a threaded bolt (<b>44</b><i>a</i>) extending through said sidewall penetrations (<b>38</b>) and said interior slot (<b>18</b>).</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The collapsible motorcycle kick arm of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said foot pedal (<b>26</b>) further includes a treaded outer surface.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The collapsible motorcycle kick arm of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said locking pin handle is a closed loop.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

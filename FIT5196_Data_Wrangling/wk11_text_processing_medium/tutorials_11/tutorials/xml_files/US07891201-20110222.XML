@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891201-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891201</doc-number>
+<kind>B1</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11886828</doc-number>
+<date>20060929</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>21</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>25</class>
+<subclass>B</subclass>
+<main-group>1</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 62115</main-classification>
+<further-classification> 62222</further-classification>
+</classification-national>
+<invention-title id="d2e53">Refrigerant vapor compression system with flash tank receiver</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>4475360</doc-number>
+<kind>A</kind>
+<name>Suefuji et al.</name>
+<date>19841000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 623241</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>4926653</doc-number>
+<kind>A</kind>
+<name>Masuda et al.</name>
+<date>19900500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 62204</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>4934390</doc-number>
+<kind>A</kind>
+<name>Sapp</name>
+<date>19900600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>5174123</doc-number>
+<kind>A</kind>
+<name>Erickson</name>
+<date>19921200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>5357766</doc-number>
+<kind>A</kind>
+<name>Shiraishi et al.</name>
+<date>19941000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 62197</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>5431026</doc-number>
+<kind>A</kind>
+<name>Jaster</name>
+<date>19950700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>5692389</doc-number>
+<kind>A</kind>
+<name>Lord et al.</name>
+<date>19971200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>5829265</doc-number>
+<kind>A</kind>
+<name>Lord et al.</name>
+<date>19981100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 62298</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>6250099</doc-number>
+<kind>B1</kind>
+<name>Furuya et al.</name>
+<date>20010600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>6385980</doc-number>
+<kind>B1</kind>
+<name>Sienel</name>
+<date>20020500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>7137270</doc-number>
+<kind>B2</kind>
+<name>Lifson et al.</name>
+<date>20061100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>7356998</doc-number>
+<kind>B2</kind>
+<name>Lee et al.</name>
+<date>20080400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 62160</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>2006/0021362</doc-number>
+<kind>A1</kind>
+<name>Sadegh et al.</name>
+<date>20060200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 62129</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>2006/0201930</doc-number>
+<kind>A1</kind>
+<name>Shindo</name>
+<date>20060900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>219497</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>JP</country>
+<doc-number>2005214444</doc-number>
+<kind>A</kind>
+<date>20050800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>23</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 62222</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 622283</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 62218</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 622285</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 62509</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 62510</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 62115</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>4</number-of-drawing-sheets>
+<number-of-figures>5</number-of-figures>
+</figures>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Bush</last-name>
+<first-name>James W.</first-name>
+<address>
+<city>Skaneateles</city>
+<state>NY</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Beagle</last-name>
+<first-name>Wayne P.</first-name>
+<address>
+<city>Chittenango</city>
+<state>NY</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Mitra</last-name>
+<first-name>Biswajit</first-name>
+<address>
+<city>Liverpool</city>
+<state>NY</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Marjama Muldoon Blasiak &#x26; Sullivan</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Carrier Corporation</orgname>
+<role>02</role>
+<address>
+<city>Farmington</city>
+<state>CT</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Ali</last-name>
+<first-name>Mohammad M</first-name>
+<department>3784</department>
+</primary-examiner>
+</examiners>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/US2006/038438</doc-number>
+<kind>00</kind>
+<date>20060929</date>
+</document-id>
+<us-371c124-date>
+<date>20070921</date>
+</us-371c124-date>
+</pct-or-regional-filing-data>
+<pct-or-regional-publishing-data>
+<document-id>
+<country>WO</country>
+<doc-number>WO2008/039204</doc-number>
+<kind>A </kind>
+<date>20080403</date>
+</document-id>
+</pct-or-regional-publishing-data>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A refrigerant vapor compression system includes a flash tank receiver disposed in the refrigerant circuit intermediate the refrigerant cooling heat exchanger and the refrigerant heating heat exchanger. The flash tank receiver, which receives a liquid/vapor refrigerant mix, also functions as a receiver. A refrigerant charge control apparatus includes a liquid level sensing device disposed in operative association with the flash tank receiver for sensing the level of liquid refrigerant within the flash tank receiver, at least one sensor for sensing a system operating parameter, and a controller operative to determine a desired liquid refrigerant level within the flash tank receiver and to selectively adjust a secondary expansion device to increase or decrease the flow of refrigerant passing into the flash tank receiver to provide a circulating refrigerant charge consistent with maintaining a desired system operating parameter.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="155.11mm" wi="160.10mm" file="US07891201-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="186.35mm" wi="163.41mm" file="US07891201-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="177.04mm" wi="159.09mm" file="US07891201-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="235.12mm" wi="152.40mm" file="US07891201-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="142.83mm" wi="121.58mm" file="US07891201-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0002" num="0001">This invention relates generally to refrigerant vapor compression systems and, more particularly, to simultaneous efficiency improvement and regulation of refrigerant charge in a refrigerant vapor compression system operating in either a subcritical cycle or in a transcritical cycle.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">Refrigerant vapor compression systems are well known in the art and, commonly used for conditioning air to be supplied to a climate controlled comfort zone within a residence, office building, hospital, school, restaurant or other facility. Refrigerant vapor compression systems are also commonly used in transport refrigeration systems for refrigerating air supplied to a temperature controlled cargo space of a truck, trailer, container or the like for transporting perishable items. Traditionally, most of these refrigerant vapor compression systems operate at subcritical refrigerant pressures and typically include a compressor, a condenser, and an evaporator, and expansion device, commonly an expansion valve, disposed upstream, with respect to refrigerant flow, of the evaporator and downstream of the condenser. These basic refrigerant system components are interconnected by refrigerant lines in a closed refrigerant circuit, arranged in accord with known refrigerant vapor compression cycles, and operated in the subcritical pressure range for the particular refrigerant in use. Refrigerant vapor compression systems operating in the subcritical range are commonly charged with fluorocarbon refrigerants such as, but not limited to, hydrochlorofluorocarbons (HCFCs), such as R22, and more commonly hydrofluorocarbons (HFCs), such as R134a, R410A and R407C.</p>
+<p id="p-0004" num="0003">In today's market, greater interest is being shown in &#x201c;natural&#x201d; refrigerants, such as carbon dioxide, for use in air conditioning and transport refrigeration systems instead of HFC refrigerants. However, because carbon dioxide has a low critical temperature, most refrigerant vapor compression systems charged with carbon dioxide as the refrigerant are designed for operation in the transcritical pressure regime. In refrigerant vapor compression systems operating in a subcritical cycle, both the condenser and the evaporator heat exchangers operate at refrigerant temperatures and pressures below the refrigerant's critical point. However, in refrigerant vapor compression systems operating in a transcritical cycle, the heat rejection heat exchanger, which is a gas cooler rather than a condenser, operates at a refrigerant temperature and pressure in excess of the refrigerant's critical point, while the evaporator operates at a refrigerant temperature and pressure in the subcritical range.</p>
+<p id="p-0005" num="0004">Control of refrigerant charge in a subcritical refrigerant vapor compression system is relatively simple. Conventional subcritical refrigerant vapor compression systems may also include a receiver disposed in the refrigerant circuit downstream of the condenser and upstream of the expansion device. Liquid refrigerant from the condenser enters the receiver tank and settles to the bottom of the tank. As this liquid will be at saturated temperature, refrigerant vapor will fill the space in the tank not filled by liquid refrigerant. Liquid refrigerant is metered out of the receiver tank by the expansion valve which controls refrigerant flow to the evaporator. As the operating conditions of the subcritical refrigerant vapor compression system change, the charge requirements for the system will change and the liquid level in the receiver tank will rise or fall, as appropriate, to establish a new equilibrium liquid level.</p>
+<p id="p-0006" num="0005">If at any point in operation there is too much refrigerant charge circulating in the system, the rate of liquid refrigerant entering the receiver tank will exceed the rate of refrigerant leaving the receiver tank and the liquid level within the receiver tank will rise until equilibrium is reached between the rate of liquid entering the receiver tank and the rate of liquid leaving the receiver tank with the excess liquid remaining stored in the receiver tank. If an any point in operation there is too little refrigerant charge circulating in the system, the rate of liquid refrigerant entering the receiver tank will be less than the rate of liquid leaving the receiver tank and the liquid level within the receiver tank will drop as liquid returns from the receiver tank to the refrigerant circuit to circulate therethrough. The liquid level within the receiver tank will continue to drop until a new equilibrium is established between the rate of liquid entering the receiver tank and the rate of liquid leaving the receiver tank.</p>
+<p id="p-0007" num="0006">In a transcritical refrigerant vapor compression system, however, controlling the system refrigerant charge is more complex because the compressor high side refrigerant leaving the gas cooler is above the refrigerant's critical point and there is no distinct liquid or vapor phase and thus the charge present in the receiver becomes a function of temperature and pressure which may not respond in a desirable manner to system charge requirements. One system commonly proposed for use in connection with charge regulation on transcritical refrigerant vapor compression systems includes a flash tank disposed downstream of the gas cooler and upstream of the expansion device with respect to refrigerant flow. A flow regulating throttling valve is disposed in the refrigerant line at the entry to the flash tank. Supercritical pressure refrigerant gas passing through the flow regulating throttling valve drops in pressure to a subcritical pressure forming a subcritical pressure liquid/vapor refrigerant mixture which collects in the flash tank with the liquid refrigerant settling to the lower portion of the tank and the vapor refrigerant collecting in the portion of the flash tank above the liquid refrigerant. A float valve is provided within the flash tank and operatively connected by a mechanical linkage mechanism to control operation of the flow regulating throttling valve to maintain a predetermined liquid level within the flash tank. If the liquid level in the flash tank should raise, the float raises therewith and causes the throttle valve to close further to restrict the flow of refrigerant into the flash tank. Conversely, if the liquid level in the flash tank should drop, the float drops therewith and causes the throttle valve, to open more to increase the flow of refrigerant into the flash tank. The liquid level with the flash tank is thus maintained at the predetermined liquid level which is selected to ensure that only liquid phase refrigerant returns to the refrigerant circuit from the lower region of the flash tank to pass through the expansion device upstream of the evaporator and that only vapor phase refrigerant returns to the refrigerant circuit from the upper region of the flash tank to be passed back to the compressor for recompression through an economizer line.</p>
+<p id="p-0008" num="0007">U.S. Pat. No. 5,174,123 discloses a subcritical refrigerant vapor compression system including a compressor, a condenser, and an evaporator, with a float-less flash tank disposed between the compressor and the evaporator. Refrigerant flows into the flash tank from the condenser at saturated conditions. The flow of refrigerant into the flash tank is controlled by selectively opening or closing a sub-cooling valve to maintain a desired degree of sub-cooling. The flow of liquid refrigerant out of the flash tank to the evaporator is controlled by a suction superheat thermostatic expansion valve. Refrigerant vapor collecting in the flash tank above the liquid refrigerant therein is returned to the compressor, being injected into an intermediate pressure stage of the compressor. Because of the float-less nature of the flash tank, the disclosed refrigerant vapor compression system is said to be particularly suited for transport refrigeration applications.</p>
+<p id="p-0009" num="0008">U.S. Pat. No. 6,385,980 discloses a transcritical refrigerant vapor compression system including a float-less flash tank disposed between a gas cooler and an evaporator and a controller regulating valves in response to the sensed refrigerant pressure in the gas cooler to control the amount of charge in the flash tank to regulate the refrigerant pressure in the gas cooler. The controller controls the flow of supercritical refrigerant from the gas cooler into the flash tank by regulating an in-line expansion valve on the entry side of the flash tank and the flow of liquid refrigerant from the flash tank to the evaporator by regulating an in-line expansion valve on the exit side of the flash tank. Refrigerant vapor collecting in the flash tank above the refrigerant liquid therein is returned to an intermediate pressure stage of the compression device. In an embodiment, the compression device is a pair of compressors disposed in series and the refrigerant vapor is used to cool the refrigerant vapor discharged from the first compressor before it passes into the second compressor.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0010" num="0009">In an aspect of the invention, it is an object of the invention to provide a refrigerant vapor compression system including a flash tank receiver and a controller for maintaining a circulating refrigerant charge consistent with a desired operating characteristic of the refrigerant.</p>
+<p id="p-0011" num="0010">In an aspect of the invention, it is an object of the invention to provide a refrigerant vapor compression system including a flash tank receiver and a controller for monitoring and controlling the level of liquid refrigerant in the flash tank</p>
+<p id="p-0012" num="0011">In an aspect of the invention, it is an object of the invention to provide a method for controlling refrigerant charge in a refrigerant vapor compression system including a flash tank receiver.</p>
+<p id="p-0013" num="0012">In an embodiment, a refrigerant vapor compression system includes a refrigerant compression device, a refrigerant cooling heat exchanger, a flash tank receiver and a refrigerant heating heat exchanger disposed in series flow arrangement in a refrigerant circuit. A main expansion device is disposed in the refrigerant circuit downstream of the flash tank receiver and upstream of the refrigerant heating heat exchanger and a secondary expansion device is disposed in the refrigerant circuit downstream of the refrigerant cooling heat exchanger and upstream with of the flash tank receiver. The refrigerant vapor compression system further includes a refrigerant charge control apparatus including at least one sensor operatively associated with the refrigerant circuit for sensing an operating characteristic of the refrigerant circulating through the refrigerant circuit, and a controller operatively associated with said secondary expansion device. The controller is operative in response to at least one system operating parameter sensed by the at least one sensor to selectively adjust the secondary expansion device to increase or decrease the flow of refrigerant passing therethrough to maintain a circulating refrigerant charge consistent with a desired operating characteristic of the refrigerant. The refrigerant vapor compression system may also include an economizer refrigerant line establishing a refrigerant flow path from an upper region of the flash tank receiver to an intermediate pressure region of the compression device for passing a flow of vapor refrigerant from the flash tank receiver into the compression device. The sensed operating characteristic of the refrigerant may be refrigerant temperature or refrigerant pressure. In an embodiment, the refrigerant vapor compression system is a transport refrigeration system for cooling air supplied to a temperature controlled cargo space.</p>
+<p id="p-0014" num="0013">A refrigerant vapor compression system includes a refrigerant compression device, a refrigerant cooling heat exchanger, a flash tank receiver and a refrigerant heating heat exchanger disposed in series flow arrangement in a refrigerant circuit. A main expansion device is disposed in the refrigerant circuit downstream of the flash tank receiver and upstream of the refrigerant heating heat exchanger and a secondary expansion device is disposed in the refrigerant circuit downstream of the refrigerant cooling heat exchanger and upstream with of the flash tank receiver. The refrigerant vapor compression system further includes a refrigerant charge control apparatus including a liquid level sensing device disposed in operative association with the flash tank receiver for sensing the level of liquid refrigerant within the flash tank receiver, at least one sensor operatively associated with the refrigerant circuit for sensing an operating characteristic of the refrigerant circulating through the refrigerant circuit, and a controller operatively associated with said secondary expansion device. The controller is operative in response to at least one system operating parameter sensed by the at least one sensor to determine a desired liquid refrigerant level within the flash tank receiver to provide a circulating refrigerant charge consistent with a desired operating characteristic and to selectively adjust the secondary expansion device to increase or decrease the flow of refrigerant passing therethrough in response to a signal from the liquid level sensing device indicative of the actual level of liquid refrigerant within the flash tank receiver to control the level of liquid refrigerant to the determined desired liquid refrigerant level. The refrigerant vapor compression system may also include an economizer refrigerant line establishing a refrigerant flow path from an upper region of the flash tank receiver to an intermediate pressure region of the compression device for passing a flow of vapor refrigerant from the flash tank receiver into the compression device.</p>
+<p id="p-0015" num="0014">The sensed operating characteristic of the refrigerant may be the temperature or pressure of the refrigerant at the discharge side of the compression device, the temperature or pressure of the refrigerant at the suction side of the compression device, or the temperature or pressure of the refrigerant passing through a refrigerant line from an upper region of the flash tank receiver to an intermediate pressure stage of the compression device. In an embodiment, the controller is operative to determine a desired liquid refrigerant level to be stored within the flash tank receiver in response to at least the sensed refrigerant operating characteristic and an ambient temperature measurement. In an embodiment, the controller is operative to determine a desired liquid refrigerant level to be stored within the flash tank receiver in response to at least the sensed refrigerant operating characteristic and an air temperature of a conditioned environment operatively associated with the refrigerant vapor compression system.</p>
+<p id="p-0016" num="0015">In another aspect of the invention, a method is provided for controlling refrigerant charge in a refrigerant vapor compression system including a refrigerant compression device, a refrigerant cooling heat exchanger, a secondary expansion device, a flash tank, a main expansion device, and a refrigerant heating heat exchanger disposed in series flow arrangement in the refrigerant circuit. The method includes the steps of: sensing at least one operating characteristic of the refrigerant at least one point in the refrigerant circuit, determining a desired liquid refrigerant level within the flash tank in response to the at least one sensed refrigerant operating characteristic to provide a circulating refrigerant charge consistent with a desired refrigerant operating characteristic, sensing the actual liquid refrigerant level within the flash tank, and adjusting the secondary expansion device in response to the sensed liquid refrigerant level to increase or decrease the flow of refrigerant passing therethrough to control the level of liquid refrigerant in the flash tank to the desired liquid refrigerant level.</p>
+<p id="p-0017" num="0016">The step of determining a desired liquid refrigerant level within the flash tank in response to the at least one sensed refrigerant operating characteristic to provide a circulating refrigerant charge consistent with a desired refrigerant operating characteristic may include determining a desired liquid refrigerant level within the flash tank in response to the at least one sensed refrigerant operating characteristic to provide a circulating refrigerant charge consistent with a desired compression device discharge pressure or temperature, or a desired compression device suction pressure or temperature, or a desired refrigerant temperature or pressure for refrigerant vapor passing through a refrigerant line from the flash tank to an intermediate compression pressure stage of the compression device. The step of determining a desired liquid refrigerant level within the flash tank in response to the at least one sensed refrigerant operating characteristic to provide a circulating refrigerant charge consistent with a desired refrigerant operating characteristic may include determining a desired liquid refrigerant level within the flash tank in response to the at least one sensed refrigerant operating characteristic and either an ambient temperature measurement or an air temperature of a conditioned environment operatively associated with said refrigerant vapor compression system.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0018" num="0017">For a further understanding of these and other objects of the invention, reference will be made to the following detailed description of the invention which is to be read in connection with the accompanying drawing, where:</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 1</figref> is a schematic diagram illustrating a first exemplary embodiment of a refrigerant vapor compression system in accord with the invention;</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 2</figref> is a schematic diagram illustrating a second exemplary embodiment of a refrigerant vapor compression system in accord with the invention</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 3</figref> is a schematic diagram illustrating an exemplary embodiment of the flash tank receiver of the refrigerant vapor compression system of the invention;</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 4</figref> is a schematic diagram illustrating another exemplary embodiment of the flash tank receiver of the refrigerant vapor compression system of the invention; and</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 5</figref> is a schematic diagram illustrating further exemplary embodiment of the flash tank receiver of the refrigerant vapor compression system of the invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0024" num="0023">Referring now to <figref idref="DRAWINGS">FIGS. 1 and 2</figref>, as in conventional systems, the refrigerant vapor compression system <b>10</b> includes a compression device <b>30</b>, a refrigerant heat rejecting heat exchanger <b>40</b>, a refrigerant heat absorbing heat exchanger <b>50</b>, also referred to herein as an evaporator, an evaporator expansion device <b>55</b>, illustrated as a valve, operatively associated with the evaporator <b>50</b>, and various refrigerant lines <b>60</b>A, <b>60</b>B, <b>60</b>C, <b>60</b>D and <b>60</b>E connecting the aforementioned components in a refrigerant circuit <b>60</b>. The compression device <b>30</b> functions to compress and circulate refrigerant through the refrigerant circuit as will be discussed in further detail hereinafter. The compression device <b>30</b> may be a scroll compressor, a screw compressor, a reciprocating compressor, a rotary compressor or any other type of compressor or a plurality of any such compressors. In the embodiment depicted in <figref idref="DRAWINGS">FIG. 1</figref>, the compression device <b>30</b> is a single refrigerant compressor, for example a scroll compressor or a screw compressor. In the embodiment depicted in <figref idref="DRAWINGS">FIG. 2</figref>, the compression device <b>30</b> is a pair of compressors, for example a pair of reciprocating compressors, connected in series, or a single reciprocating compressor having a first bank and a second bank of cylinders, having a refrigerant line connecting the discharge outlet port of the first compressor <b>30</b>A in refrigerant flow communication with the suction inlet port of the second compressor <b>30</b>B or between the first and second banks of cylinders.</p>
+<p id="p-0025" num="0024">Additionally, the refrigerant vapor compression system of the invention includes a flash tank receiver <b>20</b> disposed in the refrigerant circuit <b>60</b> between the refrigerant heat rejecting heat exchanger <b>40</b> and the refrigerant heat absorbing heat exchanger <b>50</b>. A first expansion device, i.e. the evaporator expansion device <b>55</b>, is disposed in refrigerant line <b>60</b>C downstream with respect to the liquid refrigerant flow of the flash tank receiver <b>20</b> and upstream with respect to refrigerant flow of the heat exchanger <b>50</b>. Additionally, a second expansion device <b>75</b>, illustrated as an expansion valve, is disposed in the refrigerant line <b>60</b>B downstream, with respect to refrigerant flow of the heat exchanger <b>40</b> and upstream with respect to refrigerant flow of the flash tank receiver <b>20</b>. Therefore, the flash tank receiver <b>20</b> is disposed in the refrigerant circuit <b>60</b> between the first expansion device <b>55</b> and the second expansion device <b>75</b>.</p>
+<p id="p-0026" num="0025">In a refrigerant vapor compression system operating in a subcritical cycle, the refrigerant heat rejecting heat exchanger <b>40</b> constitutes a refrigerant condensing heat exchanger through which hot, high pressure refrigerant passes in heat exchange relationship with a cooling medium, most commonly ambient air in air conditioning systems or transport refrigeration systems. In a refrigerant vapor compression system operating in a transcritical cycle, the refrigerant heat rejecting heat exchanger <b>40</b> constitutes a gas cooler heat exchanger through which supercritical refrigerant passes in heat exchange relationship with a cooling medium, again most commonly ambient air in air conditioning systems or transport refrigeration systems.</p>
+<p id="p-0027" num="0026">Whether the system <b>10</b> is operating in a subcritical or a transcritical cycle, the refrigerant leaving the refrigerant heating rejecting heat exchanger <b>40</b> passes through refrigerant line <b>60</b>B to the flash tank receiver <b>20</b>. As will be discussed further hereinafter, in doing so, the refrigerant traverses the second expansion device <b>75</b> and expands to a lower pressure whereby the refrigerant enters the flash tank receiver <b>20</b> as a mixture of liquid refrigerant and vapor refrigerant. The liquid refrigerant settles in the lower portion of the flask tank <b>20</b> and the refrigerant vapor collects in the upper portion of the flash tank receiver <b>20</b> above the liquid therein.</p>
+<p id="p-0028" num="0027">Liquid refrigerant passing from the flash tank receiver <b>20</b> through refrigerant line <b>60</b>C traverses the first expansion device <b>55</b> disposed in the refrigerant line <b>60</b>C upstream with respect to refrigerant flow of the evaporator <b>50</b>. As this liquid refrigerant traverses the first expansion device <b>55</b>, it expands to a lower pressure and temperature before the refrigerant enters the evaporator <b>50</b>. The evaporator <b>50</b> constitutes a refrigerant evaporating heat exchanger through which expanded refrigerant passes in heat exchange relationship with a heating fluid, whereby the refrigerant is vaporized and typically superheated. The heating fluid passed in heat exchange relationship with the refrigerant in the evaporator <b>50</b> may be air to be supplied to a climate controlled environment such as a comfort zone associated with an air conditioning system or a perishable cargo storage zone associated with a transport refrigeration unit. The low pressure refrigerant vapor leaving the evaporator <b>50</b> returns through refrigerant line <b>60</b>D to the suction port of the compression device <b>30</b> in <figref idref="DRAWINGS">FIG. 1</figref> or <b>30</b>A in <figref idref="DRAWINGS">FIG. 2</figref>. The first expansion device <b>55</b>, which may be a conventional thermostatic expansion valve or electronic expansion valve, receives a signal indicative of the refrigerant temperature or pressure sensed by the sensing device <b>52</b>, which may be a conventional temperature sensing element, such as a bulb or thermocouple for a TXV or a thermistor and/or pressure transducer for an EXV, meters the refrigerant flow through the refrigerant line <b>60</b>C to maintain a desired level of superheat or pressure in the refrigerant vapor leaving the evaporator <b>50</b>, also referred to as the suction temperature or the suction pressure. As in conventional refrigerant vapor compression systems, a suction accumulator (not shown) may be disposed in refrigerant line <b>60</b>D downstream with respect to refrigerant flow of the evaporator <b>50</b> and upstream with respect to refrigerant flow of the compression device <b>30</b> (<figref idref="DRAWINGS">FIG. 1</figref>) or <b>30</b>A (<figref idref="DRAWINGS">FIG. 2</figref>) to remove and store any liquid refrigerant passing through refrigerant line <b>60</b>D, thereby ensuring that liquid refrigerant does not pass to the suction port of the compression device <b>30</b> (<figref idref="DRAWINGS">FIG. 1</figref>) or <b>30</b>A (<figref idref="DRAWINGS">FIG. 2</figref>).</p>
+<p id="p-0029" num="0028">The refrigerant vapor compression system <b>10</b> of the invention further includes a liquid level sensor <b>25</b> operating associated with the flash tank receiver <b>20</b> and a controller <b>70</b>. The liquid level sensor <b>25</b> senses the level of liquid refrigerant resident within the flash tank receiver <b>20</b> and generates a signal indicative of the refrigerant liquid level within the flash tank receiver <b>20</b>. The controller <b>70</b> is adapted to receive the signal indicative of the refrigerant liquid level with the flash tank receiver <b>20</b>, compare the sensed liquid level to a desired liquid level set point, and selectively control the flow of refrigerant through the second expansion device <b>75</b> to adjust the refrigerant liquid level as necessary to maintain a desired liquid level within the flash tank receiver <b>20</b> consistent with a desired refrigerant charge circulating within the refrigerant circuit <b>60</b>. When the amount of liquid refrigerant admitted to the flash tank receiver <b>20</b> in the expanded liquid/vapor refrigerant mix flowing into the flash tank receiver <b>20</b> through refrigerant line <b>60</b>B is in equilibrium with the amount of liquid refrigerant passing from the flask tank <b>20</b> to the evaporator through refrigerant line <b>60</b>C, the liquid level within the flash tank receiver <b>20</b> will remain constant.</p>
+<p id="p-0030" num="0029">In the refrigerant vapor compression system of the invention, the flask tank receiver <b>20</b> serves not only as a charge control tank, but also as a flash tank economizer. Vapor refrigerant collecting in the portion of the flash tank receiver <b>20</b> above the liquid level therein passes from the flask tank receiver <b>20</b> through refrigerant line <b>60</b>E to return to the compression device <b>30</b>. If, as depicted in <figref idref="DRAWINGS">FIG. 1</figref>, the compression device <b>30</b> is a single refrigerant compressor, for example a scroll compressor or a screw compressor, the refrigerant from the economizer enters the compressor through an injection port opening at an intermediate pressure state into the compression chambers of the compressor. If, as depicted in <figref idref="DRAWINGS">FIG. 2</figref>, the compression device <b>30</b> is a pair of compressors, for example a pair of reciprocating compressors, connected in series, or a single reciprocating compressor having a first bank and a second bank of cylinders, the refrigerant from the economizer is injected into the refrigerant line connecting the discharge outlet port of the first compressor <b>30</b>A in refrigerant flow communication with the suction inlet port of the second compressor <b>30</b>B or between the first and second banks of cylinders.</p>
+<p id="p-0031" num="0030">In an embodiment, the controller <b>70</b> is provided with a preselected desired liquid level set point and programmed to maintain the liquid level in the flash tank receiver <b>20</b> within a specified tolerance of that preselected liquid level. In another embodiment, the controller <b>70</b> receives from a sensor <b>72</b> a signal <b>71</b> indicative of the pressure of the refrigerant discharged from the compression device <b>30</b>, hereinafter referred to as the discharge pressure. The sensor <b>72</b> may be mounted on the refrigerant line <b>60</b>A downstream of the discharge of the compression device <b>30</b> or in line <b>60</b> B downstream of the heat exchanger <b>40</b>. In the dual compressor embodiment depicted in <figref idref="DRAWINGS">FIG. 2</figref>, the sensor <b>72</b> is mounted to the refrigerant line <b>60</b>A at the discharge of the second compressor <b>30</b>B. In yet another embodiment the controller <b>70</b> receives signal <b>71</b> from sensor <b>72</b> which might be either sensing pressure or temperature in refrigerant line <b>60</b>E.</p>
+<p id="p-0032" num="0031">The sensor <b>72</b> may be a pressure sensing device, such as a pressure transducer, capable of directly sensing the refrigerant pressure. Alternatively, the sensor <b>72</b> may be a temperature sensing device, such as a thermocouple, a thermister or the like, mounted on the refrigerant line <b>60</b>A downstream of the discharge of the compression device <b>30</b>, on refrigerant line <b>60</b>B downstream of the heat exchanger <b>40</b>, or on line <b>60</b>E downstream of flash tank receiver <b>20</b>. If the sensor <b>72</b> is a temperature sensing device, the sensor <b>72</b> will transmit a signal <b>71</b> to controller <b>70</b> directly indicative of the refrigerant discharge temperature or economizer vapor line temperature if sensor <b>72</b> is put in line <b>60</b>E. In such cases, the controller <b>70</b> may convert the received temperature signal to a discharge pressure via reference to the characteristic pressure-temperature curve for the particular refrigerant with which the system is charged. In one embodiment where the control parameter is discharge pressure, the controller <b>70</b> will compare the sensed discharge pressure to a preprogrammed set point discharge pressure based on the operating condition and selectively control the flow of refrigerant through the second expansion device <b>75</b> to adjust the refrigerant liquid level as necessary to maintain a desired liquid level within the flash tank receiver <b>20</b> consistent with the refrigerant charge circulating within the refrigerant circuit <b>60</b> associated with the discharge pressure desired. In another embodiment where the control parameter is discharge temperature, the controller <b>70</b> will compare the sensed temperature to a preprogrammed set point temperature to prevent overheating of the system and selectively control the flow of refrigerant through the second expansion device <b>75</b> to adjust the refrigerant liquid level as necessary to maintain a desired liquid level within the flash tank receiver <b>20</b> consistent with the refrigerant charge circulating within the refrigerant circuit <b>60</b> associated with the temperatures desired. In yet another embodiment where the control parameter is economizer pressure, the controller <b>70</b> will try to maintain the flash tank receiver <b>20</b>, inlet pressure at slightly higher pressure and selectively control the flow of refrigerant through the second expansion device <b>75</b> to adjust the refrigerant liquid level as necessary to maintain a desired liquid level within the flash tank receiver <b>20</b> consistent with the refrigerant charge circulating within the refrigerant circuit <b>60</b> associated with the economizer pressure. In case the sensed parameter is economizer temperature then the controller will convert it to saturation pressure corresponding to the temperature sensed and apply the above mentioned controls. In any or all of these embodiments the controller <b>70</b> may receive signals from other sensors mounted within the system (not shown) including but not limited to the temperature of the refrigerated space or the temperature of the ambient environment or other parameters which are used by the controller <b>70</b> in addition to assist in defining the given operating condition and in determining the desired refrigerant charge circulating within the refrigerant circuit. A combination of any or all of these embodiments may be incorporated into a single system where the active embodiment, that is the embodiment which is operative at any given time to control operation of expansion valve <b>75</b>, is selected by controller <b>70</b> to provide optimum or otherwise desirable operating characteristics for the operating conditions existing in the system at that given time.</p>
+<p id="p-0033" num="0032">More specifically, in case the sensed parameter is discharge pressure then, if the discharge pressure is below the set point discharge pressure, the controller <b>70</b> will adjust the second expansion valve <b>75</b> to restrict refrigerant flow into the flash tank receiver <b>20</b> until the liquid within the flash tank receiver <b>20</b> has risen to a level at which the charge circulating within the refrigerant circuit <b>60</b> has decreased sufficiently to increase the sensed discharge pressure to the set point discharge pressure. Conversely, if the sensed discharge pressure is above the set point discharge pressure, the controller <b>70</b> will adjust the second expansion valve <b>75</b> to increase refrigerant flow into the flash tank receiver <b>20</b> until the liquid within the flash tank receiver <b>20</b> has dropped to a level at which the charge circulating within the refrigerant circuit <b>60</b> has increased sufficiently to decrease the sensed discharge pressure to the set point discharge pressure. Once the sensed discharge pressure has equalized to the set point discharge pressure, the controller <b>70</b> will continue to adjust the second expansion valve <b>75</b> to control refrigerant flow therethrough to maintain the liquid level within the flash tank receiver <b>20</b> at that liquid level.</p>
+<p id="p-0034" num="0033">Referring now to <figref idref="DRAWINGS">FIG. 3</figref>, there is depicted an exemplary embodiment of a flash tank receiver liquid level control method for use in connection with the refrigerant vapor compression system of the invention. The liquid level sensor <b>25</b> operatively associated with the flash tank receiver <b>20</b> is a conventional horizontal float type liquid level sensor having a float <b>125</b> disposed at the distal end of an arm <b>126</b> pivotally supported on a base <b>128</b>. A magnet (not shown) is disposed at the opposite end of the arm <b>126</b> which, as a result of the pivotal movement of the float <b>125</b> as it rises and falls in response to changes in the refrigerant liquid level within the flash tank receiver <b>20</b>, moves relative to a magnetic reed switch (not shown) to generate the signal <b>71</b> which is transmitted to the controller <b>70</b>. Refrigerant line <b>60</b>B through which refrigerant is delivered into the flash tank receiver <b>20</b> opens into an upper region of the flash tank receiver <b>20</b> above the normal liquid level therein and refrigerant line <b>60</b>C through which liquid refrigerant is removed from the flash tank receiver <b>20</b> opens into a lower region of the flash tank receiver <b>20</b> below the normal liquid level therein. Refrigerant line <b>60</b>E through which refrigerant vapor passes out of the flash tank receiver <b>20</b> also opens into the upper region of the flash tank receiver <b>20</b> well above the normal liquid level therein. Based on the sensed liquid level indicated by the signal <b>71</b> versus the desired liquid level consistent with the proper refrigerant charge for circulation in the refrigerant circuit <b>60</b> at system operating conditions, the controller <b>70</b> sends a control signal <b>77</b> to the second expansion valve <b>75</b> to adjust the positioning of the valve <b>75</b> to reduce or increase the flow of refrigerant into the flash, tank receiver <b>20</b> thereby regulating the liquid level within the flash tank receiver <b>20</b>.</p>
+<p id="p-0035" num="0034">Referring now to <figref idref="DRAWINGS">FIG. 4</figref>, there is depicted another exemplary embodiment of a flash tank receiver liquid level control method for use in connection with the refrigerant vapor compression system of the invention. The liquid level sensor <b>25</b> operatively associated with the flash tank receiver <b>20</b> is a conventional vertical float type liquid level sensor having a float <b>135</b> mounted on a vertical guide member <b>136</b> suspended from a base <b>138</b> mounted to the roof of the flash tank receiver <b>20</b>. In operation, the float <b>135</b> rises and falls in response to changes in the refrigerant liquid level within the flash tank receiver <b>20</b>. The float <b>135</b> contains a magnet (not shown) which translates relative to an associated magnet reed switch (not shown) carrier on or in the guide member <b>136</b> to generate the signal <b>71</b> which is transmitted to the controller <b>70</b>. Refrigerant line <b>60</b>B through which refrigerant is delivered into the flash tank receiver <b>20</b> opens into an upper region of the flash tank receiver <b>20</b> above the normal liquid level therein and refrigerant line <b>60</b>C through which liquid refrigerant is removed from the flash tank receiver <b>20</b> opens into a lower region of the flash tank receiver <b>20</b> below the normal liquid level therein. Refrigerant line <b>60</b>E through which refrigerant vapor passes out of the flash tank receiver <b>20</b> also opens into the upper region of the flash tank receiver <b>20</b> well above the normal liquid level therein. Again, based on the sensed liquid level indicated by the signal <b>71</b> versus the desired liquid level consistent with the proper refrigerant charge for circulation in the refrigerant circuit <b>60</b> at system operating conditions, the controller <b>70</b> sends a control signal <b>77</b> to the second expansion valve <b>75</b> to adjust the positioning of the valve <b>75</b> to reduce or increase the flow of refrigerant into the flash tank receiver <b>20</b> thereby regulating the liquid level within the flash tank receiver <b>20</b>.</p>
+<p id="p-0036" num="0035">Referring now to <figref idref="DRAWINGS">FIG. 5</figref>, there is depicted another exemplary embodiment of a flash tank receiver liquid level control method for use in connection with the refrigerant vapor compression system of the invention. In this embodiment, a float <b>145</b>, which is disposed within a vertically elongated channel <b>22</b> provided within the flash tank receiver <b>20</b>, rises and falls within the channel <b>22</b> in response to the liquid level within the flash tank receiver <b>20</b>. The channel <b>22</b> has an open bottom opening to the lower portion of the reservoir of the flash tank receiver <b>20</b> and an open top opening to the upper portion of the reservoir of the flash tank receiver <b>20</b> whereby the liquid level within the channel and the liquid level with the remainder of the flash tank receiver reservoir will always be the same. Additionally a plurality of expansion valves <b>91</b>, <b>92</b>, <b>93</b> and <b>94</b> are provided in respective branches <b>61</b>, <b>62</b>, <b>63</b> and <b>64</b> off the refrigerant line <b>60</b>B, each of which opens directly into the reservoir of the flash tank receiver <b>20</b>, but at different levels vertically. The controller <b>70</b> selectively opens one of the plurality of valves <b>91</b>, <b>92</b>, <b>93</b> and <b>94</b> to direct refrigerant flow from the gas cooler into the flash tank receiver <b>20</b> through only that one selected valve at any given time. The float <b>145</b> interacts with each of the branches <b>61</b>, <b>62</b>, <b>63</b>, or <b>64</b> at the location they enter the flash tank receiver <b>20</b> to regulate the liquid level in the flash tank receiver to a level commensurate with which of the branches <b>61</b>, <b>62</b>, <b>63</b>, or <b>64</b> are open at any given time. As refrigerant from the gas cooler <b>40</b> passes through the selected one of the plurality of expansion valves <b>91</b>, <b>92</b>, <b>93</b>, <b>94</b>, the refrigerant expands to a lower pressure and temperature to enter the flash tank receiver <b>20</b> as a refrigerant liquid/vapor mixture. As in the other embodiments, the refrigerant line <b>60</b>C through which liquid refrigerant is removed from the flash tank receiver <b>20</b> opens into a lower region of the flash tank receiver <b>20</b> below the normal liquid level therein and refrigerant line <b>60</b>E through which refrigerant vapor passes out of the flash tank receiver <b>20</b> opens into the upper region of the flash tank receiver <b>20</b> well above the normal liquid level therein.</p>
+<p id="p-0037" num="0036">The liquid refrigerant will collect in the lower portion of the reservoir defined by the flash tank receiver <b>20</b> and the vapor refrigerant will collect in the upper portion of the reservoir. As the liquid level within the reservoir changes, the float <b>145</b> will rise and fall accordingly within the channel <b>22</b>, thus moving relative to the inlets of the respective refrigerant branch lines <b>61</b>, <b>62</b>, <b>63</b> and <b>64</b>.</p>
+<p id="p-0038" num="0037">Those skilled in the art will recognize that many variations may be made to the exemplary embodiments described herein. For example, the liquid level sensor <b>25</b> is not limited to a float-type liquid level sensor. Rather, skilled practitioners will recognize that a float-less type liquid level sensor, such as a conventional pressure transmitter liquid level sensor or ultrasonic transmitter liquid level sensor may be employed in the system of the invention. Additionally, the refrigerant vapor compression system of the invention may be operated in either a subcritical cycle or a transcritical cycle.</p>
+<p id="p-0039" num="0038">While the present invention has been particularly shown and described with reference to the preferred mode as illustrated in the drawings, it will be understood by one skilled in the art that various changes in detail may be effected therein without departing from the spirit and scope of the invention as defined by the claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>We claim:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A refrigerant vapor compression system comprising:
+<claim-text>a refrigerant circuit including a refrigerant compression device, a refrigerant cooling heat exchanger for passing refrigerant received from said compression device at a high pressure in heat exchange relationship with a cooling medium, a refrigerant heating heat exchanger for passing a low pressure refrigerant in heat exchange relationship with a heating medium, and a main expansion device disposed in the refrigerant circuit downstream of said refrigerant cooling heat exchanger and upstream of said refrigerant heating heat exchanger;</claim-text>
+<claim-text>a flash tank receiver disposed in the refrigerant circuit downstream of said refrigerant cooling heat exchanger and upstream of said main expansion device;</claim-text>
+<claim-text>a secondary expansion device disposed in the refrigerant circuit downstream of said refrigerant cooling heat exchanger and upstream with of said flash tank receiver; said secondary expansion device operative to expand the high pressure refrigerant flowing therethrough to a liquid/vapor refrigerant mix at a lower pressure intermediate the high pressure and the low pressure and to control the flow of refrigerant into said flash tank receiver; and</claim-text>
+<claim-text>a refrigerant charge control apparatus including a liquid level sensing device disposed in operative association with said flash tank receiver for sensing the level of liquid refrigerant within said flash tank receiver, at least one sensor operatively associated with said refrigerant circuit for sensing an operating characteristic of the refrigerant circulating through said refrigerant compression device, and a controller operatively associated with said secondary expansion device and said at least one sensor, said controller operative in response to at least the operating characteristic sensed by said at least one sensor to determine a desired liquid refrigerant level within said flash tank receiver to provide a circulating refrigerant charge consistent with a desired operating characteristic of the refrigerant and to selectively adjust said secondary expansion device to increase or decrease the flow of refrigerant passing therethrough in response to a signal from said liquid level sensing device indicative of the sensed level of liquid refrigerant within said flash tank receiver to control the level of liquid refrigerant to said determined desired liquid refrigerant level, said operating characteristic of the refrigerant circulating through the refrigerant compression device being at least one of (a) the vapor refrigerant passing through a refrigerant line from said flash tank receiver to an intermediate pressure stage of said compression device, and (b) the refrigerant discharged from the compression device.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. A refrigerant vapor compression system as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said at least one sensor senses an operating characteristic of the vapor refrigerant passing through a refrigerant line from said flash tank receiver to an intermediate pressure stage of said compression device, and said controller determines the level of liquid refrigerant to be stored within said flash tank receiver to provide a circulating refrigerant charge consistent with a desired operating characteristic of the vapor refrigerant passing through a refrigerant line from said flash tank receiver to an intermediate pressure stage of said compression device, and said controller adjusts said secondary expansion device in response to a signal indicative of the sensed level of liquid refrigerant within said flash tank receiver to maintain the level of liquid refrigerant within said flash tank receiver at the determined level of liquid refrigerant.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. A refrigerant vapor compression system as recited in <claim-ref idref="CLM-00002">claim 2</claim-ref> wherein the sensed operating characteristic is refrigerant temperature.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. A refrigerant vapor compression system as recited in <claim-ref idref="CLM-00002">claim 2</claim-ref> wherein the sensed operating characteristic of the refrigerant is refrigerant pressure.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. A refrigerant vapor compression system as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said at least one sensor senses an operating characteristic indicative of the refrigerant discharged from the compression device, and said controller determines the level of liquid refrigerant to be stored within said flash tank receiver to provide a circulating refrigerant charge to keep the operating characteristic indicative of the refrigerant discharged from the compression device below a selected limit, and said controller adjusts said second expansion device in response to a signal indicative of the sensed level of liquid refrigerant within said flash tank receiver to maintain the level of liquid refrigerant within said flash tank receiver at the determined level of liquid refrigerant.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. A refrigerant vapor compression system as recited in <claim-ref idref="CLM-00005">claim 5</claim-ref> wherein the sensed operating characteristic is the compression device discharge refrigerant temperature.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. A refrigerant vapor compression system as recited in <claim-ref idref="CLM-00005">claim 5</claim-ref> wherein the sensed operating characteristic is the compression device discharge refrigerant pressure.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. A refrigerant vapor compression system as recited in <claim-ref idref="CLM-00002">claim 2</claim-ref> wherein said operating characteristic is temperature of the refrigerant, and said controller determines the level of liquid refrigerant to be stored within said flash tank receiver to provide a circulating refrigerant charge to keep a fixed saturation pressure corresponding to the sensed temperature, and said controller adjusts said second expansion device in response to a signal indicative of the sensed level of liquid refrigerant within said flash tank receiver to maintain the level of liquid refrigerant within said flash tank receiver at the determined level of liquid refrigerant.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. A refrigerant vapor compression system as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said controller is operative to determine a desired liquid refrigerant level to be stored within said flash tank receiver to provide a circulating refrigerant charge consistent with maintaining a desired compression device discharge pressure.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. A refrigerant vapor compression system as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said controller is operative to determine a desired liquid refrigerant level to be stored within said flash tank receiver to provide a circulating refrigerant charge consistent with maintaining a desired compression device discharge temperature.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. A refrigerant vapor compression system as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said controller is operative to determine a desired liquid refrigerant level to be stored within said flash tank receiver to provide a circulating refrigerant charge consistent with maintaining a desired compression device suction pressure.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. A refrigerant vapor compression system as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said controller is operative to determine a desired liquid refrigerant level to be stored within said flash tank receiver to provide a circulating refrigerant charge consistent with maintaining a desired compression device suction temperature.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. A refrigerant vapor compression system as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said controller is operative to determine a desired liquid refrigerant level to be stored within said flash tank receiver to provide a circulating refrigerant charge consistent with maintaining a desired refrigerant pressure for refrigerant vapor passing through a refrigerant line from said flash tank receiver to an intermediate compression pressure stage of said compression device.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. A refrigerant vapor compression system as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said controller is operative to determine a desired liquid refrigerant level to be stored within said flash tank receiver to provide a circulating refrigerant charge consistent with maintaining a desired refrigerant temperature for refrigerant vapor passing through a refrigerant line from said flash tank receiver to an intermediate compression pressure stage of said compression device.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. A method for controlling refrigerant charge in a refrigerant vapor compression system including a refrigerant compression device, a refrigerant cooling heat exchanger, a secondary expansion device, a flash tank receiver, a main expansion device, and a refrigerant heating heat exchanger disposed in series flow arrangement in the refrigerant circuit, said method comprising the steps of:
+<claim-text>sensing at least one operating characteristic of the refrigerant at least one point in the refrigerant compression device;</claim-text>
+<claim-text>determining a desired liquid refrigerant level within the flash tank in response to the at least one sensed refrigerant operating characteristic to provide a circulating refrigerant charge consistent with a desired refrigerant operating characteristic;</claim-text>
+<claim-text>sensing the actual liquid refrigerant level within the flash tank; and</claim-text>
+<claim-text>adjusting the secondary expansion device in response to the sensed liquid refrigerant level to increase or decrease the flow of refrigerant passing therethrough to control the level of liquid refrigerant in the flash tank to the desired liquid refrigerant level.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. A method as recited in <claim-ref idref="CLM-00015">claim 15</claim-ref> wherein the sensed operating characteristic is refrigerant temperature.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. A method as recited in <claim-ref idref="CLM-00015">claim 15</claim-ref> wherein the sensed operating characteristic is refrigerant pressure.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. A method as recited in <claim-ref idref="CLM-00015">claim 15</claim-ref> wherein the step of determining a desired liquid refrigerant level within the flash tank in response to the at least one sensed refrigerant operating characteristic to provide a circulating refrigerant charge consistent with a desired refrigerant operating characteristic comprises determining a desired liquid refrigerant level within the flash tank in response to the at least one sensed refrigerant operating characteristic to provide a circulating refrigerant charge consistent with a desired compression device discharge pressure.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. A method as recited in <claim-ref idref="CLM-00015">claim 15</claim-ref> wherein the step of determining a desired liquid refrigerant level within the flash tank in response to the at least one sensed refrigerant operating characteristic to provide a circulating refrigerant charge consistent with a desired refrigerant operating characteristic comprises determining a desired liquid refrigerant level within the flash tank in response to the at least one sensed refrigerant operating characteristic to provide a circulating refrigerant charge consistent with a desired compression device discharge temperature.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. A method as recited in <claim-ref idref="CLM-00015">claim 15</claim-ref> wherein the step of determining a desired liquid refrigerant level within the flash tank in response to the at least one sensed refrigerant operating characteristic to provide a circulating refrigerant charge consistent with a desired refrigerant operating characteristic comprises determining a desired liquid refrigerant level within the flash tank in response to the at least one sensed refrigerant operating characteristic to provide a circulating refrigerant charge consistent with a desired compression device suction pressure.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text>21. A method as recited in <claim-ref idref="CLM-00015">claim 15</claim-ref> wherein the step of determining a desired liquid refrigerant level within the flash tank in response to the at least one sensed refrigerant operating characteristic to provide a circulating refrigerant charge consistent with a desired refrigerant operating characteristic comprises determining a desired liquid refrigerant level within the flash tank in response to the at least one sensed refrigerant operating characteristic to provide a circulating refrigerant charge consistent with a desired compression device suction temperature.</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text>22. A method as recited in <claim-ref idref="CLM-00015">claim 15</claim-ref> wherein the step of determining a desired liquid refrigerant level within the flash tank in response to the at least one sensed refrigerant operating characteristic to provide a circulating refrigerant charge consistent with a desired refrigerant operating characteristic comprises determining a desired liquid refrigerant level within the flash tank in response to the at least one sensed refrigerant operating characteristic to provide a circulating refrigerant charge consistent with a desired refrigerant pressure for refrigerant vapor passing through a refrigerant line from the flash tank to an intermediate compression pressure stage of the compression device.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text>23. A method as recited in <claim-ref idref="CLM-00015">claim 15</claim-ref> wherein the step of determining a desired liquid refrigerant level within the flash tank in response to the at least one sensed refrigerant operating characteristic to provide a circulating refrigerant charge consistent with a desired refrigerant operating characteristic comprises determining a desired liquid refrigerant level within the flash tank in response to the at least one sensed refrigerant operating characteristic to provide a circulating refrigerant charge consistent with a desired refrigerant temperature for refrigerant vapor passing through a refrigerant line from the flash tank to an intermediate compression pressure stage of the compression device.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

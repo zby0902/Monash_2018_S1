@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891141-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891141</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11991204</doc-number>
+<date>20070306</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>AU</country>
+<doc-number>2006901121</doc-number>
+<date>20060306</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>24</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>E</section>
+<class>05</class>
+<subclass>D</subclass>
+<main-group>5</main-group>
+<subgroup>06</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 52 11</main-classification>
+<further-classification> 52 12</further-classification>
+<further-classification> 52 15</further-classification>
+<further-classification>248 482</further-classification>
+<further-classification>248 376</further-classification>
+</classification-national>
+<invention-title id="d2e71">Bracket assembly for supporting a rotatable gutter system</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>304425</doc-number>
+<kind>A</kind>
+<name>Gould</name>
+<date>18840900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>248 482</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>4309792</doc-number>
+<kind>A</kind>
+<name>Faye</name>
+<date>19820100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 16389</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>4561616</doc-number>
+<kind>A</kind>
+<name>Robinson</name>
+<date>19851200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>4745657</doc-number>
+<kind>A</kind>
+<name>Faye</name>
+<date>19880500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 16226</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>5127133</doc-number>
+<kind>A</kind>
+<name>Buckner</name>
+<date>19920700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>5274965</doc-number>
+<kind>A</kind>
+<name>Jackson</name>
+<date>19940100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52 11</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>5335460</doc-number>
+<kind>A</kind>
+<name>Smith, Jr.</name>
+<date>19940800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52 11</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>5649681</doc-number>
+<kind>A</kind>
+<name>Faye</name>
+<date>19970700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>248 481</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>5884876</doc-number>
+<kind>A</kind>
+<name>Axford</name>
+<date>19990300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>248 482</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>5893239</doc-number>
+<kind>A</kind>
+<name>Leahy</name>
+<date>19990400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52 11</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>6240679</doc-number>
+<kind>B1</kind>
+<name>Smalara</name>
+<date>20010600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52 16</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>6269592</doc-number>
+<kind>B1</kind>
+<name>Rutter</name>
+<date>20010800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52 12</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>6389755</doc-number>
+<kind>B1</kind>
+<name>Wenner</name>
+<date>20020500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52 16</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>6651937</doc-number>
+<kind>B1</kind>
+<name>Wilson</name>
+<date>20031100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>248 481</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>AU</country>
+<doc-number>A-27073/92</doc-number>
+<date>19930400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>GB</country>
+<doc-number>2260774</doc-number>
+<kind>A</kind>
+<date>19930400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>WO</country>
+<doc-number>WO 2005/106159</doc-number>
+<kind>A1</kind>
+<date>20051100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>15</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 52 11</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 52 12</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 52 14</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 52 15</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 16388</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 16389</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 16391</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 16392</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>248 481</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>248 482</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>248 373</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>248 376</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 24295</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>9</number-of-drawing-sheets>
+<number-of-figures>10</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090255190</doc-number>
+<kind>A1</kind>
+<date>20091015</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Kennedy</last-name>
+<first-name>Martin Anthony</first-name>
+<address>
+<street>54 Cambridge</street>
+<city>Port Noarlunga, South Australia</city>
+<postcode>5167</postcode>
+<country>AU</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>AU</country>
+</residence>
+</applicant>
+</applicants>
+</parties>
+<examiners>
+<primary-examiner>
+<last-name>Chilcot, Jr.</last-name>
+<first-name>Richard E</first-name>
+<department>3635</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Nguyen</last-name>
+<first-name>Chi</first-name>
+</assistant-examiner>
+</examiners>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/AU2007/000275</doc-number>
+<kind>00</kind>
+<date>20070306</date>
+</document-id>
+<us-371c124-date>
+<date>20080227</date>
+</us-371c124-date>
+</pct-or-regional-filing-data>
+<pct-or-regional-publishing-data>
+<document-id>
+<country>WO</country>
+<doc-number>WO2007/101299</doc-number>
+<kind>A </kind>
+<date>20070913</date>
+</document-id>
+</pct-or-regional-publishing-data>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The present invention relates to a rotatable gutter support assembly that can rotate the gutter from an operational position where the gutter is used to collect and divert water from a roof, to a cleaning or rotated position in which the gutter is sufficiently rotated downwardly so that its inside may be accessed from ground level. The cleaning position then enables one to clean the gutter by using a suitable brush or even simply by hosing with water. The present invention also relates to a gutter system using the above assembly.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="172.47mm" wi="181.36mm" file="US07891141-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="197.44mm" wi="180.42mm" file="US07891141-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="191.60mm" wi="178.05mm" file="US07891141-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="228.35mm" wi="174.67mm" orientation="landscape" file="US07891141-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="260.27mm" wi="189.65mm" orientation="landscape" file="US07891141-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="250.61mm" wi="177.12mm" file="US07891141-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="228.35mm" wi="175.68mm" file="US07891141-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="244.86mm" wi="168.83mm" orientation="landscape" file="US07891141-20110222-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="136.40mm" wi="152.32mm" file="US07891141-20110222-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="256.03mm" wi="140.46mm" file="US07891141-20110222-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<p id="p-0002" num="0001">The present invention relates to a bracket or support assembly for gutters that enables rotatable or pivotable movement of gutters to facilitate cleaning and maintenance of the gutter.</p>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">Homes and other buildings are typically constructed having some form of gutter system that serves to collect rainwater or other liquid from the roof and direct that water away from the house. A gutter generally comprises a longitudinal, rigid structure having a channel extending the length of the gutter. Typical styles of gutters that are available in Australia include D-gutters, fascia gutters, halfround gutters and O.G. gutters, which each serve the same purpose but are each contoured slightly differently. Generally, a first longitudinal side of the gutter is directly mounted to a fascia or other like structure immediately underneath the edge of a roof, and the opposed side generally terminates into a rounded edge. When water enters the channel, it is typically directed away from the gutter through one or more downpipes at its ends.</p>
+<p id="p-0004" num="0003">It is well known that gutter systems must be cleaned and maintained at constant intervals in order to avoid certain problems that may arise including gutter leakage, gutter damage and general clogging of the gutter channel and downpipe with foreign debris. For example, when build-up of foreign matter, such as leaves, occurs within a gutter channel or downpipe, the transport of water away from the gutter is restricted resulting in water build-up. Eventually, this build-up of water may lead to potentially larger problems such as water entering the attic, seepage of the water through the walls near the cornices, or damage to objects adjacent the gutter. Also, if the gutters are &#x2018;wet&#x2019; for a long time, this increases the susceptibility to corrosion of the gutter.</p>
+<p id="p-0005" num="0004">There have been a number of attempts to overcome these problems including using gutter guards and other protective screening devices. These types of devices may succeed to a certain extent in preventing large debris from entering a gutter channel, however, they fail to prevent particulate matter from entering the channel so even when using gutter guards and similar devices, one must still clean the gutter channel at regular intervals.</p>
+<p id="p-0006" num="0005">Homeowners often talk of the difficulty in accessing the channel of a gutter for cleaning or for general maintenance. In conventional gutter systems, one is forced to either climb a ladder or mount the roof itself in order to clean the gutter channel and downpipes. This is not only difficult, but may also be dangerous and often results in the homeowner having to pay a specialist to complete the task on their behalf. There exist some prior art gutter systems which include means to pivot the gutter for easier access thereto, however, there are a number of problems associated with these apparatus.</p>
+<p id="p-0007" num="0006">Most existing pivotable systems involve the use of quite complex mechanisms for actuating pivot of the gutter. Those skilled in the art would know that the more parts involved in a gutter system, the more expensive the system is to manufacture and the more difficult the system is to operate. This also ultimately results in greater cost to the consumer. Further, complex componentry of a gutter system is much more susceptible to damage due to rain and wind as opposed to systems having simple mechanical parts and a smaller number of parts.</p>
+<p id="p-0008" num="0007">A further problem with existing pivotable gutters is that being bulky they are not visually pleasing. In addition, with the cross-sectional shapes of gutters being quite varied there is to the best knowledge of the author no system that can accommodate most if not all gutter types.</p>
+<p id="p-0009" num="0008">It is therefore an object of the present invention to overcome at least some of the aforementioned problems or to provide the public with a useful alternative.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0010" num="0009">Therefore in one form of the invention there is proposed a gutter bracket including: an anchor means adapted to be affixed to a substantially vertical surface below a roof edge; a gutter support to which said gutter is fixed, said gutter support configured to allow movement of said gutter from a first operational position to a second position in which said gutter is more easily accessible; and</p>
+<p id="h-0003" num="0000">a locking means adapted to releasably maintain said gutter in said first operational position.</p>
+<p id="p-0011" num="0010">Preferably said locking means is rotatably connected to an upper portion of said anchor means and moveable between a first position in which said gutter support is engaged by the locking means and thereby maintained in said first operational position, and a second position in which the gutter support and locking means are disengaged.</p>
+<p id="p-0012" num="0011">Preferably said locking means is connected to the anchor by at lease one arm, said at least one arm including a projecting lip which extends outwardly with respect to said vertical surface when the locking means is in said first position.</p>
+<p id="p-0013" num="0012">In preference said gutter support includes an upright surface to which said gutter is attached and a perpendicular base surface upon which said gutter sits, said gutter support being rotatably connected at a junction between said upright and base surfaces to a lower portion of said anchor.</p>
+<p id="p-0014" num="0013">In preference said upright surface includes a projecting lip of corresponding shape to the projecting lip of said locking means.</p>
+<p id="p-0015" num="0014">Preferably said locking means maintains the gutter support in said first operational position by way of engagement of said correspondingly shaped projecting lips which prevents downward rotation of the gutter support.</p>
+<p id="p-0016" num="0015">Advantageously said locking means includes a plurality of adjoining arms extending outwardly from said vertical surface, said arms being adjustable relative to one another in order to accommodate different types of gutters.</p>
+<p id="p-0017" num="0016">Preferably said plurality of arms includes a first arm constituting said rear arm, a second arm which is outwardly moveable with respect to the first arm and lockable thereto, a third arm which is vertically moveable with respect to the second arm and lockable thereto, and a fourth arm which is outwardly moveable with respect to the third arm and lockable thereto.</p>
+<p id="p-0018" num="0017">In preference said rotatable connection between the gutter support and anchor is by way of a hinge connection.</p>
+<p id="p-0019" num="0018">In a further form of the invention there is proposed a gutter system of the type adapted to be mounted beneath a longitudinal roof edge, said gutter system including:</p>
+<p id="h-0004" num="0000">a longitudinal gutter portion;</p>
+<p id="p-0020" num="0019">a plurality of brackets mounted at spaced apart longitudinal intervals below said roof edge whereby each of said brackets includes an anchor means adapted to be affixed to a substantially vertical surface beneath the roof edge, a gutter support including an upright portion to which a rear surface of said gutter is attached and an outwardly extending transverse portion upon which said gutter sits, said gutter support configured to allow movement of said gutter from a first operational position to a second position in which said gutter is more easily accessible, said gutter bracket further including a locking means adapted to releasably maintain the gutter in said first operational position.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0021" num="0020">The accompanying drawings, which are incorporated in and constitute a part of this specification, illustrate several implementations of the invention and, together with the description, serve to explain the advantages and principles of the invention. In the drawings:</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 1</figref> illustrates in an exploded perspective view the individual components of the rotatable gutter support assembly;</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 2</figref> is the assembly when supporting the gutter in its operational position;</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 3</figref> is a cross-sectional view of the assembly of <figref idref="DRAWINGS">FIG. 2</figref>;</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 4</figref> is a cross-sectional view as in <figref idref="DRAWINGS">FIG. 3</figref> but when the locking mechanism is unlocking the assembly;</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 5</figref> is a perspective view of the assembly when the gutter is in the cleaning or rotated position;</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 6</figref> is a cross-sectional view illustrating how the assembly is moved to its operational position from the cleaning position;</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 7</figref> illustrated the use of the assembly on a different gutter type;</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 8</figref> illustrates a perspective view of a different embodiment of the support part of the assembly;</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 9</figref> illustrates a rear perspective view of a bracket assembly according to a preferred embodiment of the present invention; and</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. 10</figref> illustrates front perspective view of the bracket assembly of <figref idref="DRAWINGS">FIG. 9</figref>.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DESCRIPTION OF THE PREFERRED EMBODIMENTS</heading>
+<p id="p-0032" num="0031">The following detailed description of the invention refers to the accompanying drawings. Although the description includes exemplary embodiments, other embodiments are possible, and changes may be made to the embodiments described without departing from the spirit and scope of the invention. Wherever possible, the same reference numbers will be used throughout the drawings and the following description to refer to the same and like parts.</p>
+<p id="p-0033" num="0032">The present invention relates to a rotatable gutter support assembly that can rotate the gutter from an operational position where the gutter is used to collect and divert water from a roof, to a cleaning or rotated position in which the gutter is sufficiently rotated downwardly so that its inside may be accessed from ground level. The cleaning position then enables one to clean the gutter by using a suitable brush or even simply by hosing with water. However the present invention also relates to a gutter system using the above assembly.</p>
+<p id="p-0034" num="0033">As illustrated in the Figures the assembly <b>10</b>, according to a first embodiment, includes a gutter support <b>12</b> that rotatably engages anchor <b>14</b>, and a locking mechanism <b>16</b> that also rotatably engages anchor <b>14</b>. The gutter support, that we may call a bracket (not intended to be limited to a right angled one but to any useful shape) includes a base <b>18</b> extending outwardly from a rear upright wall <b>20</b> and flap <b>22</b> extending downwardly partially along the wall to enable the rear face <b>24</b> of gutter <b>26</b> to slide between the wall <b>20</b> and flap <b>24</b> and be fixed there by a suitable anchor such as rivet <b>28</b>.</p>
+<p id="p-0035" num="0034">The anchor <b>14</b> is adapted to be fixed typically to a fascia <b>30</b> of a roof <b>31</b> using standard screws <b>32</b> passing through apertures <b>34</b> in the anchor <b>14</b>. The anchor is typically of an inverted U-shape including two legs <b>36</b><i>a </i>and <b>36</b><i>b </i>joined across their top by cross-member <b>38</b>. The bottom of each leg <b>36</b><i>a </i>and <b>36</b><i>b </i>is rounded upwardly to define semi-circular channels <b>40</b><i>a </i>and <b>40</b><i>b</i>. These channels are used to rotatably support gutter support <b>12</b> as now described.</p>
+<p id="p-0036" num="0035">The gutter support rear wall <b>20</b> is of a width that is less than the separation of the legs <b>36</b><i>a </i>and <b>36</b><i>b</i>. This allows the rear wall <b>20</b> to nestle within the anchor <b>14</b> so that the rear wall <b>24</b> of the gutter <b>26</b> sits nicely across the anchor <b>14</b> and wall <b>20</b> of the support <b>12</b>. At or near the corner of the support <b>12</b> two arms <b>42</b><i>a </i>and <b>42</b><i>b </i>extend laterally outwards beyond the width of the base <b>18</b> or the wall <b>20</b> and are adapted to engage the respective channel <b>40</b><i>a </i>and <b>40</b><i>b</i>. The reader should now appreciate that this allows the support <b>12</b> to rotate downwardly with respect to the anchor <b>14</b>. Since the gutter <b>26</b> is affixed to the support <b>12</b> this also causes the gutter to rotate downwardly.</p>
+<p id="p-0037" num="0036">To ensure that there is sufficient clearance for the installation and operation of the support and gutter, the section of the base <b>44</b> adjacent arms <b>42</b><i>a </i>and <b>42</b><i>b </i>dips downwardly so that the arms <b>42</b><i>a </i>and <b>42</b><i>b </i>are no higher than the upper surface of the base <b>18</b>.</p>
+<p id="p-0038" num="0037">Locking mechanism <b>16</b> allows the gutter to be releasably retained in the operational position shown in <figref idref="DRAWINGS">FIG. 2</figref> and <figref idref="DRAWINGS">FIG. 3</figref>. The locking mechanism consists of a rear and a front arm <b>46</b> and <b>48</b> respectively, adjustable with respect to each other the purpose of which shall be explained later. Rear arm includes at is outer end two extending projections <b>50</b><i>a </i>and <b>50</b><i>b </i>that engage channels <b>52</b><i>a </i>and <b>52</b><i>b </i>defined by bends <b>54</b> in the legs of the anchor <b>14</b> at a location adjacent cross-member <b>38</b> and facia <b>30</b>. This allows the support <b>18</b> to rotate with respect to the anchor <b>14</b> whilst being held in place.</p>
+<p id="p-0039" num="0038">The rear arm <b>46</b> near its outer end includes a kink <b>56</b> that defined in part an inner abutment surface <b>58</b>. A similarly shaped lip <b>60</b> in support <b>18</b> engages this surface <b>58</b>. One would appreciate that in its operational position the surface <b>58</b> is abutted by lip <b>60</b> preventing it from disengaging and locking the gutter support and thus the gutter from rotating. To unlock the gutter, the locking mechanism is pushed upwards rotating around its projections <b>50</b><i>a </i>and <b>50</b><i>b </i>and releasing the lip <b>60</b> from abutting surface <b>58</b>.</p>
+<p id="p-0040" num="0039">To enable the locking mechanism to be activated the front arm <b>46</b> includes a handle <b>62</b> that projects beyond the gutter, as best seen in <figref idref="DRAWINGS">FIG. 3</figref>. Now one should appreciate the purpose of the adjustability between the rear and front arms. To be able to access the locking mechanism say from ground level one may use a pole to push up on the mechanism, as shown in <figref idref="DRAWINGS">FIG. 4</figref>. However, some gutters may be of different widths. Thus the adjustability of the length of the arm although not essential, is certainly a preferred feature to enable the present assembly to be used on gutters of various widths. Although many different types of adjustments may be possible, this embodiment illustrates an adjustment type where the rear arm includes a slit <b>64</b> engaged by screw <b>66</b> in the front arm <b>48</b>.</p>
+<p id="p-0041" num="0040">The handle <b>62</b> may also be a separate part of the locking mechanism enabling different profiles and lengths of handles to be attached to the front arm by use of a simple screw <b>68</b>.</p>
+<p id="p-0042" num="0041">It is important to note that the actual shape of the locking mechanism is not critical provided that the shape acts to lock the support into position and enables it to be unlocked. An important consideration is to ensure that when in the cleaning or unlocked position, the locking mechanism arms do not abut against the rear wall of the support in a manner that may also lock it into position. This is important for typically the gutter will be rotated back into its operational position by acting against the front wall <b>70</b> of the gutter in direction <b>72</b>, the support then acting on the locking arms, as best illustrated in <figref idref="DRAWINGS">FIG. 6</figref>.</p>
+<p id="p-0043" num="0042">The present invention provides for a very effective but simple solution that allows gutters to be rotated to a cleaning position from ground level without complicated arrangements. It further allows the assembly to be used on different shaped gutters, such as gutter <b>74</b> in <figref idref="DRAWINGS">FIG. 7</figref>, this feature not found in any other known gutter support assemblies.</p>
+<p id="p-0044" num="0043">It is important to note that the invention is not intended to be limited to the particular configuration described above. <figref idref="DRAWINGS">FIG. 8</figref> illustrates such an alternative assembly <b>76</b> whereby the shape of the support <b>12</b> is more simplified in that it does not include flap <b>22</b> to envelop around the rear wall <b>24</b> of the gutter <b>26</b>, but rather uses washers <b>78</b> to directly fix the gutter rear wall <b>24</b> to the rear wall <b>20</b> of the support <b>12</b>.</p>
+<p id="p-0045" num="0044"><figref idref="DRAWINGS">FIGS. 9-10</figref> illustrate a preferred embodiment of the present invention. This assembly <b>80</b> is similar to assembly <b>10</b> in many respects and so like numerals will be used to refer to like parts.</p>
+<p id="p-0046" num="0045">As with the assembly shown in <figref idref="DRAWINGS">FIG. 8</figref>, the support <b>12</b> of bracket assembly <b>80</b> does not include flap <b>22</b> but is intended to directly engage the gutter (not shown) using washers and rivets (which are not shown). The way in which the anchor <b>14</b> and support <b>12</b> engage is also slightly different. The bottom of each leg is rounded upwards and inwards to form circular apertures <b>82</b><i>a </i>and <b>82</b><i>b </i>adapted to rotatably engage a cylindrical rod <b>84</b> associated with support <b>12</b> and thereby form a hinge-like connection. The cylindrical rod <b>84</b> is fixedly enclosed within a correspondingly shaped housing <b>86</b> formed integrally with base <b>18</b> of support <b>12</b>. The housing <b>86</b> is of a width to fit between arms <b>36</b><i>a </i>and <b>36</b><i>b</i>, and a diameter approximately equal to the circular apertures <b>82</b><i>a </i>and <b>82</b><i>b</i>. The cylindrical rod <b>84</b> replaces arms <b>42</b><i>a </i>and <b>42</b><i>b </i>of support <b>12</b> in assembly <b>10</b> to form a hinge-like connection between anchor <b>14</b> and support <b>12</b> without the need for the base <b>18</b> to dip downwardly adjacent the connection.</p>
+<p id="p-0047" num="0046">A further difference is that the upright wall <b>20</b> of the support <b>12</b> is prevented from movement between the arms <b>36</b><i>a </i>and <b>36</b><i>b </i>of the anchor <b>14</b> by semicircular shoulders <b>88</b><i>a </i>and <b>88</b><i>b </i>extending inwardly from arms <b>36</b><i>a </i>and <b>36</b><i>b </i>respectively. This allows the anchor <b>14</b> to be mounted flush with the fascia <b>30</b> given that there is now space between the upright wall <b>20</b> and fascia <b>30</b> to allow for washers, rivets and the like which connect the gutter <b>26</b> to the upright wall <b>20</b>.</p>
+<p id="p-0048" num="0047">Finally, the locking mechanism <b>16</b> is also configured slightly differently. The rear arm <b>46</b> and front arm <b>48</b> serve the same purpose, however, in this preferred embodiment they include right-angled panels. They are still connected using a slit <b>64</b> engaged by a screw as described above. The handle <b>62</b> of assembly <b>10</b> is replaced with two further L-shaped arms <b>90</b> and <b>92</b> whereby arm <b>90</b> and arm <b>48</b> are engaged using screw <b>94</b>, and arm <b>92</b> and arm <b>90</b> are engaged using screw <b>96</b>. Each of the slits associated with these connections have been numbered using reference numeral <b>64</b> for the purpose of brevity. The skilled address would realise that each of the arms <b>46</b>, <b>48</b>, <b>90</b> and <b>92</b> are adjustable and fixable relative to adjacent arms to allow for any shape and size of gutter <b>26</b>. The outermost arm <b>92</b> is adapted to be pushed up against the front of the gutter <b>26</b> and subsequently locked in place using screw <b>96</b> to act as a further support for the gutter <b>26</b>. It is to be understood that each panel of the arms could be of different lengths to that which is shown in the Figures.</p>
+<p id="p-0049" num="0048">With the assemblies embodied herein being almost all located behind or within the gutter it is not seen from ground level thereby maintaining the aesthetic appeal of gutters as are now. The assembly could be finished in the same pattern or colour as the gutters. It is also to be noted that additional mechanisms that may mechanically lock and unlock the assembly may also be installed.</p>
+<p id="p-0050" num="0049">Further advantages and improvements may very well be made to the present invention without deviating from its scope. Although the invention has been shown and described in what is conceived to be the most practical and preferred embodiment, it is recognized that departures may be made therefrom within the scope and spirit of the invention, which is not to be limited to the details disclosed herein but is to be accorded the full scope of the claims so as to embrace any and all equivalent devices and apparatus.</p>
+<p id="p-0051" num="0050">In any claims that follow and in the summary of the invention, except where the context requires otherwise due to express language or necessary implication, the word &#x201c;comprising&#x201d; is used in the sense of &#x201c;including&#x201d;, i.e. the features specified may be associated with further features in various embodiments of the invention.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A gutter bracket for a gutter, comprising:
+<claim-text>an anchor affixable to a rear vertical structure surface, said anchor having associated therewith a rotatable locking arm;</claim-text>
+<claim-text>a gutter support rotatably associated with said anchor, said gutter support being adapted to allow movement of the gutter from a first operational position to a second gutter support position, said gutter support including a lip that projects in a forward direction relative to said rear vertical structure, said rotatable locking arm including a correspondingly shaped portion adapted to engage said forwardly projecting lip to thereby prevent downward rotation of said gutter support and maintain the gutter in said first operational position, whereby an interior region thereof faces upwardly, said locking arm being upwardly rotatable to a second locking arm position, whereby said lip becomes disengaged and allows said gutter support to rotate to a gutter support second position, whereby said interior region of said supported gutter is more easily accessible, said gutter support being configured to freely rotate to said second gutter support position unless maintained in said first operational position by way of engagement between said locking arm and said lip.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The gutter bracket of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said rotatable locking arm includes a plurality of adjoining arms that are adjustable relative to one another in order to accommodate gutters of different cross sectional dimension.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The gutter bracket of <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein said plurality of adjoining arms includes a first arm having associated therewith said lip engaging portion, a second arm that is moveable in a forward direction with respect to said first arm and lockable thereto, a third arm that is vertically moveable with respect to said second arm and lockable thereto, and a fourth arm that is moveable in a forward direction with respect to said third arm and lockable thereto.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The gutter bracket of <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein said fourth arm is shaped to extend over an upper forwardmost edge of the gutter.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The gutter bracket of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said lip is adapted to be disposed inside said correspondingly shaped portion of the locking arm when two components are engaged.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The gutter bracket of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said locking arm and said support member are arranged such that when said gutter support is moved from said gutter support second position back to said first operational position, said gutter support by way of contact with the locking arm rotates said locking arm upwardly to a third locking arm position, whereby said locking arm automatically engages said lip and thereby locks the gutter in said first operational position.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The gutter bracket of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said gutter support includes a vertical component having upper and lower portions, said lip being disposed at said upper portion, said lower portion being rotatably connected to said anchor.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The gutter bracket of <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein said gutter support further includes a horizontal component adapted to extend beneath the gutter, the gutter being fixed to said vertical component.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. A gutter bracket comprising:
+<claim-text>a vertical anchor component affixable to a rear vertical structure surface, said vertical anchor component including upper and lower portions;</claim-text>
+<claim-text>a gutter support including a vertical component having upper and lower portions, whereby said lower portion of said gutter support vertical component is rotatably associated with said lower portion of said anchor, said gutter support being moveable between a first operational position, whereby an interior region of a supported gutter faces upwardly and a second gutter support position, whereby the gutter is positioned to facilitate easy access to an interior region of the gutter, said gutter support being configured to rotate forwardly away from said vertical structure surface unless it is locked in said first operational position;</claim-text>
+<claim-text>a forwardly projecting lip associated with said upper portion of said gutter support vertical component; and</claim-text>
+<claim-text>a locking arm rotatably associated with said upper portion of said vertical anchor component, said locking arm including a portion that is correspondingly shaped with said forwardly projecting lip and adapted to engage said lip to thereby prevent downward rotation of said gutter support and thereby maintain the gutter in said first operational position, whereby said an interior thereof faces upwardly, said locking arm being upwardly rotatable to a locking arm position, whereby said lip becomes disengaged from said locking arm thereby allowing said gutter support to rotate to said second gutter support position, whereby said interior region of the supported gutter is more easily accessible.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The gutter bracket of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein
+<claim-text>said locking arm extends forwardly to a point beyond the gutter for easy access to said locking arm, whereby when said locking arm is rotated upwardly to a first a predetermined angle from an engaged position, said lip is no longer held inside said correspondingly shaped portion and said gutter support is released.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The gutter bracket of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein said rotatable locking arm includes a plurality of adjoining arms being adjustable relative to one another in order to accommodate gutters of different cross sectional dimension.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The gutter bracket of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein said plurality of arms includes a first arm having associated therewith said lip engaging portion, a second arm that is moveable in a forward direction with respect to said first arm and lockable thereto, a third arm that is vertically moveable with respect to said second arm and lockable thereto, and a fourth arm that is moveable in a forwards direction with respect to said third arm and lockable thereto.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The gutter bracket of <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein said fourth arm is shaped to extend over an upper forwardmost edge of the gutter.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The gutter bracket of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein said lip is adapted to fit snugly inside said correspondingly shaped portion of the locking arm when the two components are engaged.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The gutter bracket of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein said locking arm and said support member are arranged, whereby said gutter support is moved from said second gutter support position back to said first operational position, said gutter support by way of contact with said locking arm rotates said locking arm upwardly to a position, whereby said locking arm automatically engages said lip and thereby locks the gutter in said first operational position.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

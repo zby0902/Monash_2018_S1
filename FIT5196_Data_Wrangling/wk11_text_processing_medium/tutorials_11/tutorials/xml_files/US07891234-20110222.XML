@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891234-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891234</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12247301</doc-number>
+<date>20081008</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>229</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>15</main-group>
+<subgroup>08</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 73 38</main-classification>
+</classification-national>
+<invention-title id="d2e53">Multi-sensing device and method of operating</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>5702592</doc-number>
+<kind>A</kind>
+<name>Suri et al.</name>
+<date>19971200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>210 90</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>25</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 73 38</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 73708</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>210 90</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>210111</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>13</number-of-drawing-sheets>
+<number-of-figures>13</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20100083730</doc-number>
+<kind>A1</kind>
+<date>20100408</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Le</last-name>
+<first-name>Kevin D.</first-name>
+<address>
+<city>Richland Hills</city>
+<state>TX</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Tooley</last-name>
+<first-name>Jeffrey J.</first-name>
+<address>
+<city>North Richland Hills</city>
+<state>TX</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Rao</last-name>
+<first-name>Prabhakar B.</first-name>
+<address>
+<city>Huntsville</city>
+<state>AL</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Haynes and Boone, LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Luraco Technologies, Inc.</orgname>
+<role>02</role>
+<address>
+<city>Arlington</city>
+<state>TX</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Williams</last-name>
+<first-name>Hezron</first-name>
+<department>2856</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Bellamy</last-name>
+<first-name>Tamiko D</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A multi-sensing device is provided which includes a first sensor for sensing a temperature of the fluid flowing through the filter element, a second sensor for sensing a pressure generated by the fluid flowing through the filter element; and an indicator for indicating a condition of the filter system, and a microcontroller operatively coupled to the first and second sensors. The microcontroller executes instructions for receiving temperature data from the first sensor and pressure data from the second sensor; if the temperature data does not exceed a first temperature threshold, monitoring subsequent temperature data received from the first sensor until it exceeds the first temperature threshold; and if the temperature data exceeds the first temperature threshold: determining whether the temperature data exceeds a second temperature threshold and whether the pressure data exceeds a pressure threshold; if the temperature data exceeds the second temperature threshold, activating the indicator to indicate that the fluid is in an abnormal condition; and if the pressure data exceeds the pressure threshold, activating the indicator to indicate that the filter element is in a condemned condition.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="127.93mm" wi="158.75mm" file="US07891234-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="145.63mm" wi="152.74mm" file="US07891234-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="184.23mm" wi="120.82mm" file="US07891234-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="242.57mm" wi="113.45mm" file="US07891234-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="234.70mm" wi="187.71mm" orientation="landscape" file="US07891234-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="223.44mm" wi="176.02mm" orientation="landscape" file="US07891234-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="175.51mm" wi="158.75mm" orientation="landscape" file="US07891234-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="184.15mm" wi="168.49mm" orientation="landscape" file="US07891234-20110222-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="96.77mm" wi="182.03mm" orientation="landscape" file="US07891234-20110222-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="101.18mm" wi="176.61mm" orientation="landscape" file="US07891234-20110222-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="136.40mm" wi="176.02mm" orientation="landscape" file="US07891234-20110222-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="135.04mm" wi="172.47mm" orientation="landscape" file="US07891234-20110222-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="124.88mm" wi="176.02mm" orientation="landscape" file="US07891234-20110222-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="203.03mm" wi="178.73mm" orientation="landscape" file="US07891234-20110222-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?GOVINT description="Government Interest" end="lead"?>
+<heading id="h-0001" level="1">GOVERNMENT LICENSE RIGHTS</heading>
+<p id="p-0002" num="0001">The U.S. Government has a paid-up license in this invention and the right in limited circumstances to require the patent owner to license others on reasonable terms as provided for by the terms of contract no. W911W6-08-C-0017 awarded by U.S. Army Research, Development, and Engineering Command (contract issued by Aviation Applied Technology Directorate).</p>
+<?GOVINT description="Government Interest" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND</heading>
+<p id="p-0003" num="0002">Hydraulic systems are often used in various mechanical systems or electro-mechanical systems to actuate and/or control components of those systems. For example, in an aircraft system, a hydraulic system may use a fluid, such as oil, to actuate controllers, motors, gears, and other components of the aircraft system. As the fluid flows through the hydraulic system, the fluid may be contaminated with particles from various components of the aircraft system. The fluid needs to be filtered and cleaned so that the hydraulic system performs and operates properly. Accordingly, the hydraulic system typically employs a filter assembly that includes a filter element for filtering the fluid. Over time, the filter element may become condemned or contaminated. In some circumstances, the condemned filter element can adversely affect the flow of the fluid (e.g., pressure) in the hydraulic system thereby degrading the performance of the hydraulic system and causing components of the aircraft system to operate improperly. Thus, it is important to accurately monitor and detect when the filter element and/or the fluid in the hydraulic system requires changing.</p>
+<p id="p-0004" num="0003">Therefore, what is needed is a new and improved multi-sensing device for sensing characteristics of a fluid flowing through a filter element in a fluid system.</p>
+<heading id="h-0003" level="1">SUMMARY</heading>
+<p id="p-0005" num="0004">A multi-sensing device for sensing a plurality of characteristics of a fluid flowing through a filter element in a fluid system is provided. The multi-sensing device includes a first sensor for sensing a temperature of the fluid flowing through the filter element, a second sensor for sensing a pressure generated by the fluid flowing through the filter element, a third sensor for sensing a quality of the fluid flowing through the filter element, an indicator for indicating a condition of the fluid system, and a microcontroller operatively coupled to the first, second, and third sensors. The microcontroller executes instructions for receiving temperature data from the first sensor, pressure data from the second sensor, fluid quality data from the third sensor; if the temperature data does not exceed a first temperature threshold, monitoring subsequent temperature data received from the first sensor until it exceeds the first temperature threshold; if the temperature data exceeds the first temperature threshold: determining whether the temperature data exceeds a second temperature threshold, whether the pressure data exceeds a pressure threshold, or whether the quality data exceeds a fluid quality threshold; if the temperature data exceeds the second temperature threshold, activating the indicator to indicate that the fluid is in an abnormal condition; and if the pressure data exceeds the pressure threshold, activating the indicator to indicate that the filter element is in a condemned condition; and if the fluid quality data exceeds the fluid quality threshold, activating the indicator to indicate that the fluid is contaminated.</p>
+<p id="p-0006" num="0005">A method is provided for operating a multi-sensing device that senses a plurality of characteristics of a fluid flowing through a filter element in a fluid system. The method includes acquiring data from a first sensor and a second sensor of the multi-sensing device, the first sensor for sensing a temperature of the fluid flowing through the filter element and the second sensor for sensing a pressure generated by the fluid flowing through the filter element; if the temperature data does not exceed a first temperature threshold, monitoring subsequent temperature data acquired from the first sensor until it exceeds the first temperature threshold; and if the temperature data exceeds the first temperature threshold: determining whether the temperature data exceeds a second temperature threshold and whether the pressure data exceeds a pressure threshold; if the temperature data does not exceed the second temperature threshold, evaluating subsequent temperature data acquired from the first sensor to determine whether it exceeds the second temperature threshold; if the temperature data exceeds the second temperature threshold, activating an indicator to indicate that the fluid is in an abnormal condition; if pressure data does not exceed the pressure threshold, evaluating subsequent pressure data acquired from the second sensor to determine whether it exceeds the pressure threshold; and if the pressure data exceeds the pressure threshold, activating the indicator to indicate that the filter element is in a condemned condition.</p>
+<p id="p-0007" num="0006">A fluid system is provided which includes a filter assembly having an inlet port and an outlet port, the filter assembly including a filter element for filtering the fluid flowing in the inlet port and out the outlet port, a multi-sensing device operatively coupled to the filter assembly for sensing a plurality of characteristics of the fluid flowing through the filter element of the filter assembly. The multi-sensing device includes a first sensor for sensing a temperature of the fluid, a second sensor for sensing a pressure generated by the fluid flow, a third sensor for sensing a quality of the fluid, an indicator for indicating a condition of the fluid element and the fluid, memory for storing data, and a microcontroller having instructions for: acquiring temperature data from the first sensor, pressure data from the second sensor, and fluid quality data from the third sensor; and if the temperature data exceeds a first temperature threshold: determining whether the temperature data exceeds a second temperature threshold, whether the pressure data exceeds a pressure threshold, or whether the fluid quality data exceeds a fluid quality threshold; if the temperature data exceeds the second temperature threshold, activating the indicator to indicate that the fluid is in an abnormal condition and storing the temperature data in the memory; if the pressure data exceeds the pressure threshold, activating the indicator to indicate that the filter element is in a condemned condition and storing the pressure data in memory; and if the fluid quality data exceeds the fluid quality threshold, activating the indicator to indicate that the fluid is contaminated.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0008" num="0007">The present disclosure is best understood from the following detailed description when read with the accompanying figures. It is emphasized that, in accordance with the standard practice in the industry, various features are not drawn to scale. In fact, the dimensions of the various features may be arbitrarily increased or reduced for clarity of discussion. Furthermore, all features may not be shown in all drawings for simplicity.</p>
+<p id="p-0009" num="0008"><figref idref="DRAWINGS">FIG. 1</figref> is a diagrammatic representation depicting a portion of a hydraulic system in which embodiments disclosed herein may be implemented.</p>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIGS. 2A and 2B</figref> are diagrammatic representations depicting a multi-sensing assembly that may be implemented in the portion of the hydraulic system of <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. 3</figref> is a block diagram depicting a hardware configuration of a multi-sensing device that may be implemented in the multi-sensing assembly of <figref idref="DRAWINGS">FIGS. 2A and 2B</figref>.</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. 4</figref> is a flowchart depicting a method for calibrating the multi-sensing device of <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 5</figref> is a flowchart depicting a method for normal operation of the multi-sensing device of <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 6</figref> is a flowchart depicting a method for sleep mode operation of the multi-sensing device of <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 7</figref> is a flowchart depicting a method for connecting a computing device to the multi-sensing device of <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 8</figref> is a flowchart depicting a method for data extraction from the multi-sensing device of <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 9</figref> is a flowchart depicting a method for configuring threshold values for the multi-sensing device of <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 10</figref> is a flowchart depicting a method for programming firmware for the multi-sensing device of <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 11</figref> is a flowchart depicting a method for disconnecting a computing device from the multi-sensing device of <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 12</figref> is a flowchart depicting a method for operation of the multi-sensing device of <figref idref="DRAWINGS">FIG. 3</figref> during a filter element change.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0021" num="0020">The present invention relates generally to checking parameters associated with components in a hydraulic system. It is understood, however, that the following disclosure provides many different embodiments, or examples, for implementing different features of the invention. Specific examples of components and arrangements are described below to simplify the present disclosure. These are, of course, merely examples and are not intended to be limiting. In addition, the present disclosure may repeat reference numerals and/or letters in the various examples. This repetition is for the purpose of simplicity and clarity and does not in itself dictate a relationship between the various embodiments and/or configurations discussed.</p>
+<p id="p-0022" num="0021">Referring to <figref idref="DRAWINGS">FIG. 1</figref>, illustrated is a diagrammatic representation of a portion of a hydraulic system <b>100</b> in which embodiments disclosed herein may be implemented. The system <b>100</b> includes a hydraulic line <b>102</b> with an inlet port <b>104</b> and an outlet port <b>106</b>. A hydraulic fluid, for example oil, flows into the inlet port <b>104</b>, through a filter assembly <b>108</b>, and then out of the outlet port <b>106</b>. The filter assembly <b>108</b> is coupled to the hydraulic line <b>102</b> and includes a filter element that filters the hydraulic fluid as it flows through the hydraulic line <b>102</b>. Also, the filter assembly <b>108</b> includes an opening for receiving a multi-sensing assembly <b>110</b>. The multi-sensing assembly <b>110</b> includes an extended portion that fits into the filter assembly <b>108</b> in such a manner that a sensing portion of the multi-sensing assembly <b>110</b> contacts the hydraulic fluid as it flows through the filter assembly <b>108</b> as will be discussed in detail later. Accordingly, the multi-sensing assembly <b>110</b> is capable of sensing and monitoring various characteristics of the hydraulic fluid as it flows through the filter assembly <b>108</b>. The various characteristics of the hydraulic fluid can be used to provide a contamination/condemnation status of the filter element and hydraulic fluid in the filter assembly <b>108</b>. It is understood that the hydraulic system <b>100</b> may be utilized to actuate and/or control components of various machines, mechanical systems, electro-mechanical systems, or other suitable systems. Thus, it is important to monitor and detect the contamination/condemnation status of the filter element and fluid in the filter assembly <b>108</b> so that the hydraulic system <b>100</b> is properly operating for its intended purpose.</p>
+<p id="p-0023" num="0022">Referring to <figref idref="DRAWINGS">FIGS. 2A and 2B</figref>, illustrated are diagrammatic representations of the multi-sensing assembly <b>110</b> that may be implemented in the hydraulic system <b>100</b> of <figref idref="DRAWINGS">FIG. 1</figref>. <figref idref="DRAWINGS">FIG. 2B</figref> is an exploded view of the multi-sensing assembly <b>110</b>. The multi-sensing assembly <b>110</b> includes a top housing <b>112</b> that provides a casing for a multi-sensing device <b>114</b>. The multi-sensing device <b>114</b> senses and monitors various characteristics of the hydraulic fluid as it passes through the filter assembly and the filter element <b>108</b>. In the present embodiment, the multi-sensing device <b>114</b> includes a printed circuit board (PCB) <b>116</b>. The multi-sensing device <b>114</b> includes a rechargeable battery <b>118</b> that is coupled to the PCB <b>116</b>. The battery <b>118</b> provides power to the various components of the multi-sensing device <b>114</b>. The multi-sensing device <b>114</b> further includes an energy harvesting circuit <b>120</b>, for example a vibration energy harvesting circuit, that is coupled to the PCB <b>116</b>. The energy harvesting circuit <b>120</b> may harvest vibration energy and convert it into electrical energy for recharging the battery <b>118</b>.</p>
+<p id="p-0024" num="0023">The multi-sensing device <b>114</b> also includes a plurality of status light-emitting-diodes (LEDs) <b>122</b> on the PCB <b>116</b>. For example, the status LEDs <b>122</b> may include one of a pressure status LED, a temperature status LED, a fluid quality status LED, a battery status LED, and a data status LED. A blinking pressure status LED indicates that the multi-sensing device <b>114</b> is in a calibration mode of operation. A blinking pressure status LED, temperature status LED, or fluid quality LED indicates that a parameter of hydraulic system <b>100</b> is outside a preferred or a safe range of operation. Moreover, the data status LED is turned on to indicate that a data extraction application is in preparation to communicate with or is in communication with the multi-sensing device <b>114</b>. It is understood that the number of status LEDs and the functionality of the status LEDs may vary depending on the particular application that the multi-sensing device <b>114</b> is used for.</p>
+<p id="p-0025" num="0024">The multi-sensing device <b>114</b> further includes a data communication port <b>124</b>, for example a universal serial bus (USB) port, that allows the multi-sensing device <b>114</b> to connect to a computing device, such as a PC, laptop computer, personal digital assistant (PDA) or other suitable device, for calibration, diagnostic, maintenance, or other suitable purposes. Alternatively, the data communication port <b>124</b> may optionally be configured for other types of data communication interfaces as is known in the art. The computing device connects to the data communication port <b>124</b> through a data communication port opening <b>126</b> in the top housing <b>112</b>. Moreover, the top housing <b>112</b> includes a data communication port cover <b>128</b> that protects the data communication port <b>124</b> from undesirable elements.</p>
+<p id="p-0026" num="0025">Further, the multi-sensing device <b>114</b> includes a wake/calibrate button <b>127</b> that is coupled to the PCB <b>116</b>. The wake/calibrate button <b>127</b> is used to wake and calibrate the multi-sensing device <b>114</b>. The top housing <b>112</b> has an opening <b>129</b> for the wake/calibrate button <b>127</b>. The wake/calibrate button <b>127</b> protrudes through the opening <b>129</b> so that it can be depressed and activated by a user external to the multi-sensing device <b>114</b>.</p>
+<p id="p-0027" num="0026">In addition, the multi-sensing device <b>114</b> includes a temperature sensor circuit <b>130</b>, a pressure sensor circuit <b>132</b>, and a fluid contamination sensor circuit <b>134</b>. The sensor circuits <b>130</b>, <b>132</b>, and <b>134</b> are coupled to the PCB <b>116</b> and provide the multi-sensing device <b>114</b> with multi-sensing functionality. For example, the temperature sensor circuit <b>130</b> senses a temperature of the hydraulic fluid passing through the filter assembly <b>108</b>. The pressure sensor circuit <b>132</b>, for example, senses a differential pressure across the filter assembly <b>108</b>. Moreover, the fluid contamination sensor circuit <b>134</b>, for example, includes an optical absorption sensor circuit. The fluid contamination sensor circuit <b>134</b> senses an optical absorption of the hydraulic fluid that allows for a determination of various characteristics of the hydraulic fluid quality. For example, an optical absorption spectrum of the hydraulic fluid may be analyzed to determine the fluid quality. Hydraulic fluid that is clean exhibits an optical absorption structure that is different than hydraulic fluid that is contaminated. The optical absorption sensor may use a narrow wavelength bandwidth (e.g., infrared region) to detect when the fluid is contaminated. Further, the unique absorption signature of the hydraulic fluid may be analyzed to determine the fluid quality, such as, metallic particulate content, viscosity, water content, acidity, and oxidation. Alternatively, the fluid contamination sensor circuit <b>134</b> may optionally utilize other types of sensors such as a dielectric sensor or water-content sensor for sensing the fluid quality.</p>
+<p id="p-0028" num="0027">The multi-sensing assembly <b>110</b> further includes a gasket <b>136</b> and a filter assembly interface <b>138</b>. The gasket <b>136</b> provides a sealant between the filter assembly interface <b>138</b> and the multi-sensing device <b>114</b>. The multi-sensing assembly <b>110</b> also includes a tubular extension <b>140</b> that fits into the filter assembly <b>108</b>. The tubular extension <b>140</b> includes hydraulic fluid sealing rings <b>142</b>, <b>144</b>, and <b>146</b>. The hydraulic fluid sealing rings <b>142</b>, <b>144</b>, and <b>146</b> provide a sealant between the tubular extension <b>140</b> and the hydraulic fluid in the filter assembly <b>108</b>. The multi-sensing device <b>114</b> further includes ports <b>148</b> and <b>150</b> that protrude through the gasket <b>136</b>, the filter assembly interface <b>138</b>, and the tubular extension <b>140</b>. The ports <b>148</b> and <b>150</b> protrude into the hydraulic fluid in the filter assembly <b>108</b>. The hydraulic fluid is directed through the ports <b>148</b> and <b>150</b> to the sensing elements of the temperature sensor circuit <b>130</b>, the pressure sensor circuit <b>132</b>, and the fluid contamination sensor circuit <b>134</b>.</p>
+<p id="p-0029" num="0028">Referring to <figref idref="DRAWINGS">FIG. 3</figref>, illustrated is a block diagram <b>300</b> of a hardware configuration of the multi-sensing device <b>114</b> that may be implemented in multi-sensing assembly <b>108</b> of <figref idref="DRAWINGS">FIGS. 2A and 2B</figref>. Similar features in <figref idref="DRAWINGS">FIGS. 2 and 3</figref> are numbered the same for clarity. The block diagram <b>300</b> includes the temperature sensor circuit <b>130</b>, the pressure sensor circuit <b>132</b>, and the fluid contamination sensor circuit <b>134</b>. The sensor circuits <b>130</b>, <b>132</b>, and <b>134</b> are coupled to a processing device, such as microcontroller <b>318</b>. The microcontroller <b>318</b> is the central processing unit in the hardware configuration of the multi-sensing device <b>114</b>. The microcontroller <b>318</b> includes an internal analog-to-digital converter (ADC) <b>320</b>. In an alternative embodiment, the ADC <b>320</b> may optionally be external to the microcontroller <b>318</b>. In that case, the external ADC is coupled to the microcontroller <b>318</b>. The ADC <b>320</b> receives signals from the sensors circuits <b>130</b>, <b>132</b>, and <b>134</b> and converts these analog signals into digital signals that are processed and managed by the microcontroller <b>318</b>. The microcontroller <b>318</b> is further coupled to the status LEDs <b>122</b> for controlling and activating the status LEDs.</p>
+<p id="p-0030" num="0029">The block diagram <b>300</b> of the multi-sensing device <b>114</b> includes memory, for example a flash memory <b>324</b>. The flash memory <b>324</b> is coupled to the microcontroller device <b>318</b>. In an alternative embodiment, the flash memory <b>324</b> is integrated into the microcontroller device <b>318</b>. Furthermore, the flash memory <b>324</b> is coupled to a data communication controller <b>326</b>. The flash memory <b>324</b> stores various threshold values, for example a temperature threshold, a differential pressure threshold, a fluid quality threshold, and a threshold for elapsed time since a calibration of the multi-sensing device <b>114</b> was activated. The threshold values may be programmed initially and later re-programmed by a user using a data extraction application that engages with the multi-sensing device <b>114</b>. It is understood the other threshold values may be provided as default or pre-defined threshold values that are specified by the manufacturer for a particular hydraulic system or for a particular type of hydraulic fluid.</p>
+<p id="p-0031" num="0030">The data communication controller <b>326</b> is coupled to the microcontroller <b>318</b> and provides control and management of a data communication port <b>328</b>. The data communication port <b>328</b> and communication controller <b>326</b> is in conformance with, for example, the universal serial bus (USB) communication protocol. In alternative embodiments, the data communication port <b>328</b> and communication controller <b>326</b> enables other communication protocols as is known in the art. The data communication port <b>328</b> may connect to a diagnostic or computing device, such as a PC, so that data may be uploaded from the multi-sensing device <b>114</b> from the flash memory <b>324</b> to the PC for diagnostic and/or maintenance purposes. To that extent, the PC includes the data extraction application. Moreover, the data extraction application further allows a user to set threshold values and re-program firmware into the flash memory <b>324</b> via the data communication port <b>328</b>. Accordingly, this allows the multi-sensing device <b>114</b> to be customized by the user for their particular fluid system.</p>
+<p id="p-0032" num="0031">In addition, the block diagram <b>300</b> of the multi-sensing device <b>114</b> also includes a power supply <b>310</b> that provides power to the multi-sensing device <b>114</b>. For example, the power supply <b>310</b> includes a battery <b>330</b> (such as the rechargeable battery <b>118</b> of <figref idref="DRAWINGS">FIG. 2B</figref>) that provides power to the multi-sensing device <b>114</b>. The battery <b>330</b> is coupled to a boost converter circuit <b>332</b> that boosts the battery voltage to a desired level for use in powering the multi-sensing device <b>114</b>. The power supply <b>310</b> further includes a battery charging circuit <b>334</b> that charges the battery <b>330</b>. For example, the battery charging circuit <b>334</b> may use the power provided by the data communication port <b>328</b> to charge the battery <b>330</b>. In addition, the power provided by the data communication port <b>328</b> may also be directed to a voltage regulator, such as a low dropout regulator (LDO) <b>336</b>. The LDO <b>336</b> is coupled to an analog switch <b>338</b>. Also, the boost converter <b>332</b> is coupled to the analog switch <b>338</b>. The analog switch <b>338</b> may be selected to use power from the boost converter <b>332</b> or the LDO <b>336</b> to power the multi-sensing device <b>114</b>.</p>
+<p id="p-0033" num="0032">In one embodiment, the energy harvesting circuit <b>120</b> includes an energy harvesting device <b>340</b> and an energy harvesting control circuit <b>342</b> to provide power to the multi-sensing device <b>114</b>. Accordingly, the multi-sensing assembly <b>110</b> may generate its own power, independent from power provided by a machine, such as an aircraft, in which the multi-sensing assembly <b>110</b> resides. Moreover, the energy harvesting device <b>340</b> and the energy harvesting control circuit <b>342</b> provide power to the multi-sensing device <b>114</b> without dependence on the battery <b>330</b> and therefore, use of the energy harvesting device <b>340</b> and the energy harvesting control circuit <b>342</b> may prevent depletion of battery <b>330</b> while the multi-sensing device <b>114</b> is in use. In one embodiment, the energy harvesting device <b>340</b> includes a vibration energy harvesting device that translates energy from ambient vibrations into electrical energy. Alternatively, the energy harvesting device <b>340</b> may include a heat or light energy harvesting device that translates energy from ambient heat or light into electrical energy. The multi-sensing assembly <b>110</b> is used in a hydraulic system of an aircraft that exhibits vibration energy in the regime of 5 to 50 Hz and therefore, the energy harvesting device <b>340</b> is specified to work in this range. In an alternative embodiment, a machine, such as an aircraft, in which the multi-sensing assembly <b>110</b> resides, supplies power to the multi-sensing device <b>114</b>. Further, the multi-sensing device <b>114</b> may be powered by any suitable low voltage system.</p>
+<p id="p-0034" num="0033">Referring also to <figref idref="DRAWINGS">FIG. 4</figref>, illustrated is a flowchart of a method <b>400</b> for calibrating the multi-sensing device <b>114</b>. The calibration procedure <b>400</b> enables the multi-sensing device <b>114</b> to capture a differential pressure that is generated across a dummy filter element, thereby emulating a condemned filter element state in response to a known, easily repeatable hydraulic actuation action that a maintenance technician performs. The measured differential pressure correlates to a flow rate of the hydraulic fluid flowing through the condemned filter element state. Accordingly, the measured differential pressure provides a basis for automatically calculating a pressure alert threshold and a pressure warning threshold for the multi-sensing device <b>114</b>. For example, the alert threshold may be set to 60% of the measured differential pressure, while the warning threshold may be set to 80% of the measured differential pressure. The specific percentages may vary depending on design requirements of a particular hydraulic system. To enhance the reliability of the multi-sensing device <b>114</b> for determining when the hydraulic fluid and/or filter element is near (e.g., alert threshold) or at (e.g., warning threshold) a point of requiring changing, a maintenance routine should include performing the same hydraulic actuation that was performed during calibration as part of scheduled hydraulic fluid maintenance checks. Accordingly, a differential pressure measured across the filter element during the maintenance routine may be compared to the pressure alert threshold and pressure warning threshold to accurately and reliably determine the condition of the filter element.</p>
+<p id="p-0035" num="0034">The calibration procedure <b>400</b> should be performed immediately after the multi-sensing assembly <b>110</b> is installed in the hydraulic system <b>100</b>, and periodically thereafter, for example every one to two years or other suitable time period, to ensure that condemnation of the filter element continues to be accurately detected. If the calibration procedure <b>400</b> is not performed, or if the multi-sensing device <b>114</b> has been set to ignore the calibration derived thresholds, then the multi-sensing device <b>114</b> may use the threshold values that are programmed in the memory as the alert threshold level and warning threshold level. For example, the threshold values may include default threshold values provided by a maintenance technician or other user of the multi-sensing device, the default threshold values depending on requirements of a particular hydraulic system and/or hydraulic fluid.</p>
+<p id="p-0036" num="0035">The calibration procedure <b>400</b> begins in block <b>410</b> where a dummy filter is inserted into the filter assembly <b>108</b>. The dummy filter emulates a condemned hydraulic filter element in the filter assembly <b>108</b>. The calibration procedure <b>400</b> continues in block <b>420</b>, where the wake/calibrate button <b>127</b> is depressed and held for several seconds to activate the calibration routine. One of the status LEDs <b>122</b> is a pressure status LED. The pressure status LED begins to blink once the multi-sensing device <b>114</b> has entered the calibration mode of operation. For example, the blinking exhibits a period of about two seconds and a duty cycle of about 50%. The calibration procedure <b>400</b> proceeds to block <b>430</b>, where a maintenance technician performs an easily repeatable hydraulic actuation action. For example, the hydraulic actuation action should be performed during regularly scheduled hydraulic oil maintenance checks. Then, in block <b>440</b>, the wake/calibrate button is held for several seconds once again. This will stop the pressure status LED from blinking and will turn off the pressure status LED, indicating that the multi-sensing device <b>114</b> is ready to prepare for exiting the calibration mode of operation.</p>
+<p id="p-0037" num="0036">The calibration procedure <b>400</b> continues to block <b>450</b>, where the calibration routine determines how much time has elapsed since the calibration routine was activated. In other words, how much time has elapsed since the maintenance technician depressed and held the wake/calibrate button for several seconds (block <b>420</b>). If the elapsed time since calibration activation exceeds a predetermined threshold value, the multi-sensing device <b>114</b> prepares to exit the calibration routine and the pressure status LED stops blinking and turns off. In one example, the predetermined elapsed time threshold value is set to ten minutes. During the calibration procedure <b>400</b>, the calibration routine will check to determine if ten minutes or more has elapsed since the calibration mode of operation was activated. If ten minutes or more has elapsed since activation of the calibration routine, the multi-sensing device <b>114</b> automatically prepares to exit the calibration mode of operation, and the pressure status LED automatically turns off.</p>
+<p id="p-0038" num="0037">In preparation for exiting the calibration routine, in block <b>460</b>, the multi-sensing device <b>114</b> determines whether the differential pressure has risen above a predetermined value. For example, in one embodiment, the predetermined value is 10 psi. If the differential pressure does not rise above the predetermined value, the calibration procedure <b>400</b> proceeds to block <b>470</b> where for example, the status LEDs <b>122</b> start blinking to indicate that the calibration routine was not performed successfully. This informs the maintenance technician that the calibration routine must be performed again. If the differential does rise above the predetermined value, the calibration procedure <b>400</b> proceeds to block <b>480</b>, where the calibration routine is exited and the calibration procedure is complete.</p>
+<p id="p-0039" num="0038">Referring also to <figref idref="DRAWINGS">FIG. 5</figref>, illustrated is a flowchart of a method <b>500</b> for normal operation of the multi-sensing device <b>114</b> in accordance with an embodiment. The method <b>500</b> begins in block <b>510</b> where the multi-sensing device <b>114</b> is powered on. In one embodiment, the multi-sensing device <b>114</b> powers on when it is inserted into the filter assembly <b>108</b>, or when a data port cable supplies power to the multi-sensing device <b>114</b> after either the multi-sensing device has been removed from the filter assembly <b>108</b> or the battery <b>330</b> has been completely drained due to extended inactivity. Power for the multi-sensing device <b>114</b> may be provided by various types of power sources. For example, the multi-sensing device <b>114</b> may be powered by the battery <b>330</b>, the energy harvesting device <b>340</b> and the energy harvesting control circuit <b>342</b>, or power provided by the aircraft or machine in which the hydraulic system <b>100</b> resides.</p>
+<p id="p-0040" num="0039">The method <b>500</b> continues in block <b>512</b> where it is determined whether there are any alarms stored in the flash memory <b>324</b>. For example, if the multi-sensing device <b>114</b> has been inactive for an extended period of time, the current drawn by the multi-sensing device <b>114</b> may fully drain the battery <b>330</b>. If it is determined that alarms are set in the flash memory <b>324</b>, the method <b>500</b> continues to block <b>514</b> where the alarms are loaded into the microcontroller <b>318</b> for use in the main processing loop <b>550</b> and the status LEDs <b>122</b> (e.g., temperature status LED, pressure status LED, fluid quality status LED, battery status LED, and data status LED) changed in accordance with the stored alarm states. However, if there are no alarms set in the flash memory <b>324</b>, the method <b>500</b> continues to block <b>516</b> where the default alarm states are loaded into the microcontroller <b>318</b> for use in the main processing loop <b>550</b>. For example, the default alarm states include no alarms.</p>
+<p id="p-0041" num="0040">The method <b>500</b> continues to block <b>518</b> where the flash memory <b>324</b> is checked to determine if threshold levels have been stored in the memory. For example, the threshold levels may be stored in the flash memory <b>324</b> by a user programming these values. If it is determined that threshold levels are found in the flash memory <b>324</b>, the method <b>500</b> continues to block <b>520</b> where the threshold levels are loaded from the flash memory <b>324</b> into the microcontroller <b>318</b> for use in the main processing loop <b>550</b>. If it is determined that the threshold levels are not stored in the flash memory <b>324</b>, the method <b>500</b> continues to block <b>522</b> where default threshold levels are loaded into the microcontroller <b>318</b> for use in the main processing loop <b>550</b>. In the present embodiment, the threshold levels may include a temperature threshold levels, a differential pressure threshold level, a fluid quality threshold level, or other threshold levels.</p>
+<p id="p-0042" num="0041">The method <b>500</b> continues in block <b>524</b> where the multi-sensing device <b>114</b> enters a loop of continuously acquiring and storing sensor data and battery data. For example, the sensor data includes temperature data from the temperature sensor circuit <b>130</b>, pressure data from the pressure sensor circuit <b>132</b>, and fluid quality data from the fluid contamination sensor circuit <b>134</b> of <figref idref="DRAWINGS">FIG. 3</figref>. In one embodiment, the sensor data and battery data acquisition loop is operable when the temperature of the hydraulic fluid is above a predetermined value. This ensures that the hydraulic fluid has been flowing in the hydraulic system <b>100</b> for a sufficient amount of time such that the collected data is valid and proper. That is, the hydraulic fluid has been flowing in the hydraulic system <b>100</b> under operating conditions for a sufficient period of time. In one embodiment, a predetermined value of 99&#xb0; F. is loaded into the microcontroller <b>318</b> for use in the main processing loop <b>550</b>. The predetermined value is loaded from the user programmed threshold levels in the flash memory <b>324</b> (block <b>518</b>) or from the default threshold levels stored in the flash memory <b>324</b> (block <b>522</b>).</p>
+<p id="p-0043" num="0042">For example, when the hydraulic fluid temperature is above the predetermined threshold value, a sampling frequency is approximately 100 Hz. In this case, every 25 samples are averaged so that the multi-sensing device <b>114</b> determines the sensor status and battery status approximately every 0.25 seconds. In one embodiment, the hydraulic fluid temperature is assumed to meet the minimum temperature criteria the first time through the sensor data and battery data acquisition loop. The method <b>500</b> continues to block <b>526</b> where it is determined whether the hydraulic fluid temperature is above the predetermined value of 99&#xb0; F. If not, the method <b>500</b> proceeds to block <b>528</b> where temperature data is acquired, for example every 30 seconds, and continues to acquire temperature data until the fluid temperature is above 99&#xb0; F. The method <b>500</b> continues to block <b>530</b> where it is determined whether the hydraulic fluid temperature is above 99&#xb0; F. If the fluid temperature falls below the predetermined threshold value, then the method <b>500</b> loops back to block <b>528</b> and continues to acquire temperature data periodically, for example every 30 seconds, until the hydraulic fluid temperature is above the predetermined threshold value of 99&#xb0; F.</p>
+<p id="p-0044" num="0043">If the hydraulic fluid temperature is above the predetermined threshold value of 99&#xb0; F., the method <b>500</b> loops back to block <b>524</b> to perform status checking. For example, status checking includes acquiring and storing sensor data (e.g., temperature data, pressure data, and fluid quality data) and battery data to determine whether any warning or alert thresholds have been exceeded. It is understood that the warning and alert thresholds are automatically calculated for each of the temperature threshold, pressure threshold, and fluid quality threshold stored in memory. As discussed above, in block <b>526</b> it is determined whether the hydraulic fluid temperature is above the predetermined threshold value. If yes, the method <b>500</b> continues to block <b>532</b> where it is determined whether any of the sensor data and battery data exceed the predetermined warning thresholds. These warning threshold levels may be loaded from the flash memory <b>324</b> as discussed above with respect to block <b>520</b> or initialized to default values as discussed in block <b>522</b>.</p>
+<p id="p-0045" num="0044">The sensor data are provided by each of the sensing modalities (e.g., temperature sensor circuit <b>130</b>, pressure sensor circuit <b>132</b>, and fluid contamination sensor circuit <b>134</b>). The sensor data (e.g., temperature, pressure, and fluid quality data) includes an average of a group of 25 samples. If the averaged sensor data from any one of the sensing modalities exceeds its corresponding warning threshold, the method <b>500</b> continues to block <b>534</b>. It should be noted that the warning threshold for the pressure data corresponds to a potentially condemned condition of the filter element (e.g., blockage due to a condemned filter element), the warning threshold (different from the predetermined threshold discussed above) for the temperature data corresponds to a potential problem in the hydraulic system (e.g., overheating of the fluid), and the warning threshold for the fluid quality data corresponds to a potential problem with the hydraulic fluid (e.g., contamination of the oil). In block <b>534</b>, one of the status LEDs <b>122</b> is a warning LED that is activated to blink periodically. For example, the warning LED blinks within a period of not more than one second and a duty cycle of not more than 20%. It is understood that the blinking warning LED corresponds to one or more of the temperature status LED, pressure status LED, fluid quality status LED, and battery status LED and depends on which data exceeded its corresponding warning threshold. If the sensing modality is temperature or pressure, the method <b>500</b> continues to block <b>536</b> where its warning count/time is also updated. The warning count/time corresponds to the number of times and total time the collected temperature and pressure data have exceeded the corresponding warning and alert thresholds. This information may confirm the reliability and proper operation of the multi-sensing device to accurately detect potential problems of the hydraulic system.</p>
+<p id="p-0046" num="0045">The method <b>500</b> continues to block <b>538</b> in preparation to record the sensor data into the flash memory <b>324</b>. In block <b>538</b>, it is determined whether the flash memory <b>324</b> is full. If the flash memory <b>324</b> is full, the method <b>500</b> continues to block <b>540</b> where the warning LED continues to blink rapidly until the sensor data and status is reset. Accordingly, this will ensure that a maintenance technician or other user of the multi-sensing device takes appropriate action such as extracting the stored data and erasing the data to free-up memory for further operation. If the flash memory <b>324</b> is not full, the method <b>500</b> proceeds to block <b>542</b> where the sensor data are recorded into the flash memory <b>324</b>. After recording the data, the method <b>500</b> loops back to block <b>524</b> in the main processing loop <b>550</b>.</p>
+<p id="p-0047" num="0046">If the sensor data (from the sensing modalities) does not exceed its corresponding warning threshold as determined in block <b>532</b>, the method <b>500</b> continues to block <b>544</b> where it is determined whether the sensor data exceeds its corresponding predetermined alert threshold. If yes (which means that the sensor data is between the warning threshold and the alert threshold), the method <b>500</b> continues to block <b>546</b> where the warning LED is activated to blink periodically. For example, the warning LED blinks with a period of no more than ten seconds and a duty cycle of no more than 20%. It should be noted that the blinking of the warning LED in the warning condition (e.g., the sensor data exceeds the warning threshold) may be faster than the blinking of the warning LED in the alert condition so that a maintenance technician or other user of the multi-sensing device can differentiate between the two conditions and can take appropriate and/or remedial action. It should also be noted that the alert threshold corresponds to a less severe condition as compared to the warning threshold. That is, the alert threshold indicates that the sensor data is near a potential problem discussed above and that some component of the hydraulic system may require further evaluation. If the sensing modality is temperature or pressure, the method <b>500</b> continues to block <b>548</b> where its alert count/time is also updated. The alert count/time corresponds to the number of times and total time the collected temperature and pressure data has exceeded the corresponding warning and alert thresholds. This information may confirm the reliability and proper operation of the multi-sensing device to accurately detect potential problems of the hydraulic system.</p>
+<p id="p-0048" num="0047">The method <b>500</b> continues to block <b>538</b> in preparation to record the sensor data into the flash memory <b>324</b>. In block <b>538</b>, the method <b>500</b> determines whether the flash memory <b>324</b> is full. If full, the method <b>500</b> continues to block <b>540</b> where the warning LED continues to blink rapidly until the sensor data and status is reset. Accordingly, this will ensure that a maintenance technician or other user of the multi-sensing device take appropriate action. If not full, the method <b>500</b> proceeds to block <b>542</b> where the sensor data is recorded into the flash memory <b>324</b>. After recording the data, the method <b>500</b> loops back to block <b>524</b> in the main processing loop <b>550</b>.</p>
+<p id="p-0049" num="0048">If the sensor data (from the sensing modalities) does not exceed the predetermined alert threshold value as determined in block <b>544</b>, the method <b>500</b> continues to <b>538</b>. As discussed above, in block <b>538</b>, the method <b>500</b> determines whether the flash memory <b>324</b> is full. If full, the method continues to block <b>540</b> where the warning LED continues to blink rapidly until the sensor data and status is reset. If not full, the method <b>500</b> proceeds to block <b>542</b> where the sensor data is recorded to the flash memory <b>324</b>. After recording the data, the method <b>500</b> loops back to block <b>524</b> in the main processing loop <b>550</b>. It is understood that the sensor data that is stored in memory may be time stamped so that a history log of the sensor data may be provided to a maintenance technician during a regularly scheduled maintenance check of the hydraulic system. Further, although both a warning threshold and alert threshold have been disclosed above, it is understood that only a warning threshold, or only an alert threshold, or any number of warning and alert threshold values may be used as well.</p>
+<p id="p-0050" num="0049">Referring to <figref idref="DRAWINGS">FIG. 6</figref>, illustrated is a flowchart of a method <b>600</b> for a sleep mode operation of the multi-sensing device <b>114</b>. The sleep mode operation of the multi-sensing device <b>114</b> is implemented when the hydraulic system <b>100</b> is in non-use, for example, when the aircraft is not in operation. The method <b>600</b> begins in block <b>610</b> where it is determined whether the temperature of the hydraulic fluid, such as oil, is below a predetermined threshold value, for example, 100&#xb0; F. If the oil temperature is not below the predetermined threshold value, the hydraulic system <b>100</b> is likely either in operation or has recently shut down. In this case, the multi-sensing device <b>114</b> remains in operation and therefore, the method <b>600</b> remains at block <b>610</b>. If the oil temperature is below the predetermined threshold value, the hydraulic system <b>100</b> is likely either not in operation or is starting up. Therefore, the multi-sensing device <b>114</b> may enter the sleep mode, depending on various other measurements, for example, the filter differential pressure state. In this case, the method <b>600</b> proceeds to block <b>620</b> where it is determined whether the differential pressure is at or about a predetermined threshold value, for example, 0 psi. If yes, the method <b>600</b> proceeds to block <b>630</b> where the multi-sensing device <b>114</b> enters the sleep mode. In no, the method <b>600</b> proceeds to block <b>610</b> discussed above.</p>
+<p id="p-0051" num="0050">After entering the sleep mode, the method <b>600</b> proceeds to block <b>640</b> where it is determined whether the multi-sensing device <b>114</b> is connected to a diagnostic or computing device, for example, a PC. If connected, the method <b>600</b> proceeds to block <b>650</b> where the multi-sensing device <b>114</b> exits the sleep mode and returns to normal operation (method <b>500</b> of <figref idref="DRAWINGS">FIG. 5</figref>). If not connected, the method <b>600</b> proceeds to block <b>660</b> where it is determined if the wake/calibrate button <b>127</b> has been selected. If selected, the method <b>600</b> continues to block <b>650</b> where the multi-sensing device <b>114</b> exits the sleep mode and returns to normal operation. If not selected, the method <b>600</b> continues to block <b>670</b> where it is determined whether the multi-sensing device <b>114</b> is harvesting energy (e.g., the aircraft's engine is started). If harvesting energy, the method <b>600</b> proceeds to block <b>650</b> where the multi-sensing device <b>114</b> exits the sleep mode and returns to normal operation. If not harvesting energy, the method <b>600</b> proceeds to block <b>640</b> discussed above.</p>
+<p id="p-0052" num="0051">Referring to <figref idref="DRAWINGS">FIG. 7</figref>, illustrated is a flowchart of a method <b>700</b> for when the multi-sensing device <b>114</b> is connected to a diagnostic or computing device, such as a PC. The method <b>700</b> begins at block <b>710</b> where the main processing loop <b>550</b> of the normal operation method <b>500</b> is exited, thereby disabling acquisition of sensor and battery information <b>524</b>. The method <b>700</b> continues to block <b>720</b> where a battery voltage is captured, which is used to calculate the remaining life of battery <b>330</b>. During the time when the multi-sensing device <b>114</b> is connected to the PC, the PC begins to recharge the battery <b>330</b> via the data communication port <b>328</b>. For example, the data communication port <b>328</b> may be configured as a USB port which is capable of supplying power to recharge the battery.</p>
+<p id="p-0053" num="0052">Referring to <figref idref="DRAWINGS">FIG. 8</figref>, illustrated is a flowchart of a method <b>800</b> for data extraction from the multi-sensing device <b>114</b>. The method <b>800</b> begins executing when a data extraction application is opened while the multi-sensing device <b>114</b> is connected to the PC. The data extraction method <b>800</b> begins in block <b>810</b> where a data status LED (one of the status LEDs <b>122</b>) is turned on. The data status LED indicates that the communication connection between the multi-sensing device <b>114</b> and the data extraction application has been made, and the data extraction application is ready to upload sensor and battery data from multi-sensing device <b>114</b>. Also, the data status LED indicates to the user that the communication cable between the PC and the multi-sensing device <b>114</b> should not be removed while the data status LED is on. The data extraction method <b>800</b> continues in block <b>820</b> where the status and data of the multi-sensing device <b>114</b> is automatically uploaded to the data extraction application. In one embodiment, the data is stored as comma separated values and therefore, the data is exportable to a variety of different data storage and processing applications as is known in the art. After data and status information is transmitted from the multi-sensing device <b>114</b> to the data extraction application running on the PC, the method <b>800</b> proceeds to block <b>830</b>. In block <b>830</b>, the data status LED is turned off, indicating that it is safe to remove the communication cable between the PC and the multi-sensing device <b>114</b>.</p>
+<p id="p-0054" num="0053">Referring to <figref idref="DRAWINGS">FIG. 9</figref>, illustrated is a flowchart of a method <b>900</b> for configuring threshold values for the multi-sensing device <b>114</b>. A user may use a data extraction application to program threshold values for the multi-sensing device <b>114</b>. For example, the user is able to program new threshold values when either the oil and/or oil filter specifications or oil maintenance guidelines change. Initially, each multi-sensing device <b>114</b> may be pre-configured with default threshold values for a system that the multi-sensing device <b>114</b> is designed for. For example, if the multi-sensing device <b>114</b> is designed for a particular aircraft, the multi-sensing device <b>114</b> will include pre-configured threshold values set to default values associated with that particular aircraft. In an alternative embodiment, the multi-sensing device <b>114</b> may be initially configured by the user.</p>
+<p id="p-0055" num="0054">The threshold value programming method <b>900</b> begins in block <b>910</b> when the data status LED turns on to indicate that the data extraction application is prepared to communicate with the multi-sensing device <b>114</b>. As discussed above when referring to the data extraction routine <b>800</b>, the data status LED indicates to the user that the communication cable between the PC and the multi-sensing device <b>114</b> should not be removed while the data status LED is on. The method <b>900</b> proceeds to block <b>920</b> where the user enters threshold values into the data extraction application. Also in block <b>920</b>, the data extraction application transmits the user entered threshold values into the flash memory <b>324</b>. After threshold values are stored in the stored memory <b>324</b>, the method <b>900</b> proceeds to block <b>930</b> where the data status LED is turned off, indicating that it is safe to remove the communication cable between the PC and the multi-sensing device <b>114</b>.</p>
+<p id="p-0056" num="0055">Referring to <figref idref="DRAWINGS">FIG. 10</figref>, illustrated is a flowchart of a method <b>1000</b> for programming firmware for the multi-sensing device <b>114</b>. For example, programming firmware may be accomplished using a data extraction application running on a PC that is coupled to the multi-sensing device <b>114</b> via the data communication port <b>328</b>. The multi-sensing device <b>114</b> may initially include pre-programmed firmware. In one embodiment, firmware updates may be made available through files. For example, the files may be e-mailed, posted on servers and websites, or burned to CD-ROMs. In an alternative embodiment, firmware updates may be made available through automatic Internet updates. The firmware programming method <b>1000</b> begins in block <b>1010</b> where the data extraction application determines whether a new firmware version is available for download to the multi-sensing device <b>114</b>. For example, the application looks for the new firmware version in a predetermined file storage location on the PC. If the data extraction application determines that there is a new firmware version available for download, the user is prompted accordingly. Alternatively, the user has the option of specifying the location of the new firmware version on the PC.</p>
+<p id="p-0057" num="0056">The method <b>1000</b> proceeds to block <b>1020</b> if the user answers the prompt by indicating that it is ok to download the new firmware to the multi-sensing device <b>114</b>. The data status LED turns on, indicating that the data extraction application is prepared to communicate with the multi-sensing device <b>114</b>. As discussed above, the data status LED indicates to the user that the communication cable between the PC and the multi-sensing device <b>114</b> should not be removed while the LED is on. The firmware programming method <b>1000</b> proceeds to block <b>1030</b> where the data extraction application downloads the firmware to the multi-sensing device <b>114</b>. Once the firmware download is complete, the method <b>1000</b> proceeds to block <b>1040</b> where the data status LED is turned off, indicating that it is safe to remove the communication cable between the PC and the multi-sensing device <b>114</b>.</p>
+<p id="p-0058" num="0057">Referring to <figref idref="DRAWINGS">FIG. 11</figref>, illustrated is a flowchart of a method <b>1100</b> for disconnecting the diagnostic or computing device, for example a PC, from the multi-sensing device <b>114</b>. Once the disconnection is made, the PC ceases charging the battery <b>330</b>. The disconnecting method <b>1100</b> begins in block <b>1110</b> where it is determined whether the status and data were successfully uploaded to the data extraction application. For example, if the communication cable between the PC and the multi-sensing device <b>114</b> was removed prematurely during the status and data upload process, then the status and data upload was unsuccessful. If unsuccessful, the method <b>1100</b> proceeds to block <b>1120</b> where the multi-sensing device <b>114</b> enters the normal operation main processing loop <b>550</b>, thereby enabling the acquisition of, for example, sensor and battery information. If the upload was successful, the multi-sensing device <b>114</b> will reset its alarm LEDs (in block <b>1130</b>), erase the sensor and battery data that is stored in the flash memory <b>324</b> (in block <b>1140</b>), and reset the temperature and pressure alarm counters and timers (in block <b>1150</b>). The method <b>1100</b> then proceeds to block <b>1120</b> discussed above.</p>
+<p id="p-0059" num="0058">Referring to <figref idref="DRAWINGS">FIG. 12</figref>, illustrated is a flowchart of a method <b>1200</b> for operation of a multi-sensing device <b>114</b> during a filter element change. For example, the method <b>1200</b> assumes that during aircraft operation the hydraulic actuation actions occur unpredictably, and therefore a mechanism is required to determine whether a filter element has been removed from and reinstalled into the filter assembly. However, if it is observed that there are certain hydraulic actuation actions that are guaranteed to be performed while an aircraft is in operation (e.g., enabling the aircraft to either lift or land), and these hydraulic actuation actions cause the fluid flow rate to increase to at least 50% of its maximum, the need to sense filter element removal and reinstallation is obviated.</p>
+<p id="p-0060" num="0059">The method <b>1200</b> begins in block <b>1210</b> where it is determined whether a filter element has been removed from the filter assembly <b>108</b>. If no, the method <b>1200</b> remains in block <b>1210</b>. If yes, the method <b>1200</b> proceeds to block <b>1220</b> where the multi-sensing device <b>114</b> ceases its main processing loop <b>550</b> (of <figref idref="DRAWINGS">FIG. 5</figref>), if it is not in the sleep mode of operation, and monitors when the filter element is reinstalled into the filter assembly <b>108</b>. When the filter element has been reinstalled into the filter assembly <b>108</b>, the multi-sensing device <b>114</b> resumes the main processing loop <b>550</b>, if it is not in the sleep mode of operation. The method <b>1200</b> proceeds to block <b>1230</b> where it is determined whether the fluid temperature is above the predetermined threshold value of 99&#xb0; F. In not above, the method <b>1200</b> remains in block <b>1230</b>. If above, the method <b>1230</b> proceeds to block <b>1240</b> where a differential pressure across the hydraulic filter element is sampled while the fluid temperature remains above the predetermined threshold value of 99&#xb0; F. The method <b>1200</b> proceeds to block <b>1250</b> where it is determined whether the differential pressure sample exceeds all previous samples.</p>
+<p id="p-0061" num="0060">For example, in block <b>1250</b>, the method <b>1200</b> determines whether the differential pressure sample exceeds a maximum differential pressure sample that is stored by the multi-sensing device <b>114</b> in the flash memory <b>324</b>. If the sample exceeds the maximum value, the method <b>1200</b> continues to block <b>1260</b> where the value stored as the maximum differential pressure is replaced by the sample. To that extent, the sample becomes the new maximum differential pressure that is stored in the flash memory <b>324</b>. On the other hand, if the differential pressure sample does not exceed all previous samples, the method <b>1200</b> proceeds to block <b>1270</b> to determine whether the oil temperature falls below a predetermined threshold, for example 100&#xb0; F. If block <b>1270</b> determines that the oil temperature does not fall below the predetermined threshold, for example 100&#xb0; F., the method <b>1200</b> loops back to block <b>1240</b> where the differential pressure across the hydraulic filter element is sampled. If block <b>1270</b> determines that the oil temperature falls below the predetermined threshold, for example 100&#xb0; F., the method <b>1200</b> proceeds to block <b>1280</b>. In one embodiment, when the oil temperature falls below the predetermined threshold value, for example 100&#xb0; F., this means the aircraft has performed a single mission since the oil hydraulic filter element was removed and replaced. In block <b>1280</b>, the routine <b>1200</b> checks if the maximum filter differential pressure during the mission was below 25 psi. If block <b>1280</b> determines that the pressure was below 25 psi, then this indicates that the hydraulic filer element was successfully changed, and it is safe to reset the data and alarms of the multi-sensing device <b>114</b>.</p>
+<p id="p-0062" num="0061">Aspects of the present invention may be implemented in software, hardware, firmware, or a combination thereof. The various methods and/or routines disclosed herein, either individually or in combination, may be implemented as a computer program product tangibly embodied in a machine-readable storage device for execution by a processing unit or microcontroller. Various steps of embodiments of the invention may be performed by a computer processor executing a program tangibly embodied on a computer-readable medium to perform functions by operating on input and generating output. Additionally, various steps of embodiments of the invention may provide one or more data structures generated, produced, received, or otherwise implemented on a computer-readable medium, such as a memory.</p>
+<p id="p-0063" num="0062">Although embodiments of the present disclosure have been described in detail, those skilled in the art should understand that they may make various changes, substitutions and alterations herein without departing from the spirit and scope of the present disclosure. For example, although the particular embodiments illustrate specific process steps or procedures, many alternative implementations are possible and may be made by simple design choice. Some process steps may be executed in different order from the specific description herein based on, for example, considerations of function, purpose, conformance to standard, legacy structure, user interface design, and the like. Embodiments disclosed herein have been provided with reference to hydraulic systems using hydraulic oil. However, implementations of embodiments disclosed herein are not limited to any particular type of system or fluid. For example, alternative embodiments can include water filtration and motor oil filtration systems.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A multi-sensing device for sensing a plurality of characteristics of a fluid flowing through a filter element in a fluid system, the multi-sensing device comprising:
+<claim-text>a first sensor for sensing a temperature of the fluid flowing through the filter element;</claim-text>
+<claim-text>a second sensor for sensing a pressure generated by the fluid flowing through the filter element; and</claim-text>
+<claim-text>an indicator for indicating a condition of the fluid system; and</claim-text>
+<claim-text>a microcontroller operatively coupled to the first and second sensors, the microcontroller executing instructions for:
+<claim-text>receiving temperature data from the first sensor and pressure data from the second sensor;</claim-text>
+<claim-text>if the temperature data does not exceed a first temperature threshold, monitoring subsequent temperature data received from the first sensor until it exceeds the first temperature threshold; and</claim-text>
+<claim-text>if the temperature data exceeds the first temperature threshold:
+<claim-text>determining whether the temperature data exceeds a second temperature threshold and whether the pressure data exceeds a pressure threshold;</claim-text>
+<claim-text>if the temperature data does not exceed the second temperature threshold, evaluating subsequent temperature data received from the first sensor to determine whether it exceeds the second temperature threshold;</claim-text>
+<claim-text>if the temperature data exceeds the second temperature threshold, activating the indicator to indicate that the fluid is in an abnormal condition;</claim-text>
+<claim-text>if pressure data does not exceed the pressure threshold, evaluating subsequent pressure data received from the second sensor to determine whether it exceeds the pressure threshold; and</claim-text>
+<claim-text>if the pressure data exceeds the pressure threshold, activating the indicator to indicate that the filter element is in a condemned condition.</claim-text>
+</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The multi-sensing device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the pressure threshold corresponds to a pressure generated by the fluid flowing through a dummy filter element, the dummy filter element emulating a filter element that is at a condemned condition.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The multi-sensing device of <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the first temperature threshold corresponds to a temperature of the fluid flowing in the fluid system for a period of time, the period of time being sufficiently long to ensure that the fluid system is at an operating condition and wherein the second temperature threshold corresponds to a temperature of the fluid flowing in the fluid system that is overheated.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The multi-sensing device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the pressure threshold and the first and second temperature thresholds are default threshold values provided by a user of the multi-sensing device.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The multi-sensing device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the fluid flowing through the filter element in the fluid system includes oil flowing through a hydraulic filter element in a hydraulic system.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The multi-sensing device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+<claim-text>a battery for supplying power to the components of the multi-sensing device; and</claim-text>
+<claim-text>an energy harvesting module for recharging the battery, the energy harvesting module being configured to harvest vibration energy and translating the vibration energy into electrical energy;</claim-text>
+<claim-text>wherein the multi-sensing device is part of a hydraulic system of an aircraft.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The multi-sensing device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a third sensor for sensing a quality of the fluid flowing through the filter element.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The multi-sensing device of <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the microcontroller is operatively coupled to the third sensor, the microcontroller executing instructions for:
+<claim-text>receiving fluid quality data from the third sensor;</claim-text>
+<claim-text>determining whether the fluid quality data exceeds a fluid quality threshold;</claim-text>
+<claim-text>if the fluid quality data does not exceed the fluid quality threshold, evaluating subsequent fluid quality data received from the third sensor to determine whether it exceeds the fluid quality threshold; and</claim-text>
+<claim-text>if the fluid quality data exceeds the fluid quality threshold, activating the indicator to indicate that the fluid is contaminated.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The multi-sensing device of <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the third sensor includes an optical absorption sensor that senses an optical absorption of the fluid flowing through the filter element; and
+<claim-text>wherein the optical absorption of the fluid is used to determine the fluid quality, the fluid quality including a metallic particulate content, a viscosity, a water content, an acidity, or an oxidation.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The multi-sensing device of <claim-ref idref="CLM-00007">claim 7</claim-ref>, further comprising memory for storing the temperature data received from the first sensor, the pressure data received from the second sensor, and the fluid quality data received from the third sensor and for storing sensing thresholds.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The multi-sensing device of <claim-ref idref="CLM-00010">claim 10</claim-ref>, further comprising a data port for connecting to a computing device that is capable of executing a data extraction application, the data extraction application being programmed to extract the temperature data, the pressure data, and the fluid quality data stored in the memory, to reprogram instructions for executing by the microcontroller, to calibrate the multi-sensing device, to capture battery voltage from the multi-sensing device, to set the sensing thresholds for the multi-sensing device, to reset the indicators within the multi-sensing device, and to erase stored data in the memory.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. A method for operating a multi-sensing device that senses a plurality of characteristics of a fluid flowing through a filter element in a fluid system, the method comprising:
+<claim-text>acquiring data from a first sensor and a second sensor of the multi-sensing device, the first sensor for sensing a temperature of the fluid flowing through the filter element and the second sensor for sensing a pressure generated by the fluid flowing through the filter element;</claim-text>
+<claim-text>if the temperature data does not exceed a first temperature threshold, monitoring subsequent temperature data acquired from the first sensor until it exceeds the first temperature threshold; and</claim-text>
+<claim-text>if the temperature data exceeds the first temperature threshold:
+<claim-text>determining whether the temperature data exceeds a second temperature threshold and whether the pressure data exceeds a pressure threshold;</claim-text>
+<claim-text>if the temperature data does not exceed the second temperature threshold, evaluating subsequent temperature data acquired from the first sensor to determine whether it exceeds the second temperature threshold;</claim-text>
+<claim-text>if the temperature data exceeds the second temperature threshold, activating an indicator to indicate that the fluid is in an abnormal condition;</claim-text>
+<claim-text>if pressure data does not exceed the pressure threshold, evaluating subsequent pressure data acquired from the second sensor to determine whether it exceeds the pressure threshold; and</claim-text>
+<claim-text>if the pressure data exceeds the pressure threshold, activating the indicator to indicate that the filter element is in a condemned condition.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The method of <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein the pressure threshold corresponds to a pressure generated by the fluid flowing through a dummy filter element, the dummy filter element emulating a filter element that is at a condemned condition.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The method of <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein the first temperature threshold corresponds to a temperature of the fluid flowing in the fluid system for a period of time, the period of time being sufficiently long to ensure that the fluid system is at an operating condition and wherein the second temperature threshold corresponds to a temperature of the fluid flowing in the fluid system that is overheated.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The method of <claim-ref idref="CLM-00012">claim 12</claim-ref>,
+<claim-text>wherein the activating the indicator to indicate that the fluid is in an abnormal condition includes:
+<claim-text>setting a temperature status indicator to indicate that the fluid is overheating;</claim-text>
+<claim-text>storing the temperature data in a memory of the multi-sensing device; and</claim-text>
+<claim-text>updating a count that corresponds to a frequency or a time of the temperature data exceeding the second temperature threshold;</claim-text>
+</claim-text>
+<claim-text>wherein the activating the indicator to indicate that the filter element is in a condemned condition includes:
+<claim-text>setting a pressure status indicator to indicate that the fluid element requires changing;</claim-text>
+<claim-text>storing the pressure data in the memory of the multi-sensing device; and</claim-text>
+<claim-text>updating a count that corresponds to a frequency or a time of the pressure data exceeding the pressure threshold.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The method of <claim-ref idref="CLM-00012">claim 12</claim-ref>, further comprising:
+<claim-text>acquiring data from a third sensor of the multi-sensing device, the third sensor for sensing a quality of the fluid flowing through the filter element;</claim-text>
+<claim-text>determining whether the fluid quality data exceeds a fluid quality threshold;</claim-text>
+<claim-text>if the fluid quality data does not exceed the fluid quality threshold, evaluating subsequent fluid quality data acquired from the third sensor to determine whether it exceeds the fluid quality threshold; and</claim-text>
+<claim-text>if the fluid quality data exceeds the fluid quality threshold, activating the indicator to indicate that the fluid is contaminated.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The method of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the third sensor includes an optical absorption sensor that senses an optical absorption of the fluid flowing through the filter element; and
+<claim-text>wherein the optical absorption of the fluid is used to determine the fluid quality, the fluid quality including a metallic particulate content, a viscosity, a water content, an acidity, or an oxidation.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The method of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the acquiring the data from the first, second, and third sensors includes:
+<claim-text>receiving a number of sample readings from each of the first, second, and third sensors over a period of time; and</claim-text>
+<claim-text>averaging the number of sample readings from each of the first, second, and third sensors to generate the temperature data, pressure data, and fluid quality data.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The method of <claim-ref idref="CLM-00012">claim 12</claim-ref>, further comprising calibrating the multi-sensing device that includes:
+<claim-text>installing a dummy filter element in the fluid system, the dummy filter element emulating a filter element that is in the condemned condition;</claim-text>
+<claim-text>performing a repeatable action that causes a differential pressure to be generated across the dummy filter element by fluid flowing, the repeatable action corresponding to an actuation action in a hydraulic system; and</claim-text>
+<claim-text>measuring and storing the differential pressure as the pressure threshold in a memory of the multi-sensing device.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The method of <claim-ref idref="CLM-00019">claim 19</claim-ref>, further comprising performing a scheduled maintenance check of the hydraulic system that includes:
+<claim-text>performing the same repeatable action that was performed during the calibration to enhance a reliability of the multi-sensing device in determining when the filter element requires changing;</claim-text>
+<claim-text>measuring a differential pressure that is generated across the filter element in response to the performing the same repeatable action; and</claim-text>
+<claim-text>comparing the measured differential pressure to the pressure threshold to determine whether the filter element is in the condemned condition.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text>21. A fluid system comprising:
+<claim-text>a filter assembly having an inlet port and an outlet port, the filter assembly including a filter element for filtering a fluid flowing in the inlet port and out the outlet port; and</claim-text>
+<claim-text>a multi-sensing device operatively coupled to the filter assembly for sensing a plurality of characteristics of the fluid flowing through the filter element of the filter assembly, the multi-sensing device including:
+<claim-text>a first sensor for sensing a temperature of the fluid;</claim-text>
+<claim-text>a second sensor for sensing a pressure generated by the fluid flow;</claim-text>
+<claim-text>an indicator for indicating a condition of the fluid system;</claim-text>
+<claim-text>memory for storing data; and</claim-text>
+<claim-text>a microcontroller having instructions for:
+<claim-text>acquiring temperature data from the first sensor and pressure data from the second sensor; and</claim-text>
+<claim-text>if the temperature data exceeds a first temperature threshold:
+<claim-text>determining whether the temperature data exceeds a second temperature threshold and whether the pressure data exceeds a pressure threshold;</claim-text>
+<claim-text>if the temperature data exceeds the second temperature threshold, activating the indicator to indicate that the fluid is in an abnormal condition and storing the temperature data in the memory; and</claim-text>
+<claim-text>if the pressure data exceeds the pressure threshold, activating the indicator to indicate that the filter element is in a condemned condition and storing the pressure data in memory.</claim-text>
+</claim-text>
+</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text>22. The fluid system of <claim-ref idref="CLM-00021">claim 21</claim-ref>,
+<claim-text>wherein the multi-sensing device further includes a third sensor for sensing a quality of the fluid; and</claim-text>
+<claim-text>wherein the microcontroller further includes instructions for:
+<claim-text>acquiring fluid quality data from the third sensor;</claim-text>
+<claim-text>determining whether the fluid quality data exceeds a fluid quality threshold; and</claim-text>
+<claim-text>if the fluid quality data exceeds the fluid quality threshold, activating the indicator to indicate that the fluid is contaminated and storing the fluid quality data in the memory.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text>23. The fluid system of <claim-ref idref="CLM-00022">claim 22</claim-ref>, wherein the third sensor includes an optical absorption sensor that senses an optical absorption of the fluid flowing through the filter element; and
+<claim-text>wherein the optical absorption of the fluid is used to determine the fluid quality, the fluid quality including a metallic particulate content, a viscosity, a water content, an acidity, or an oxidation.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text>24. The fluid system of <claim-ref idref="CLM-00022">claim 22</claim-ref>, wherein the indicator includes:
+<claim-text>a temperature status indicator for indicating that the fluid is overheating;</claim-text>
+<claim-text>a pressure status indicator for indicating that the fluid element requires changing; and</claim-text>
+<claim-text>a fluid quality indicator for indicating that the fluid requires changing.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text>25. The fluid system of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the fluid system is a hydraulic system and the fluid is oil.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

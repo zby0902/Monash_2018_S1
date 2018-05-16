@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891063-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891063</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12284615</doc-number>
+<date>20080922</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>387</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>D</section>
+<class>04</class>
+<subclass>D</subclass>
+<main-group>5</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 28145</main-classification>
+<further-classification> 28147</further-classification>
+<further-classification>223 46</further-classification>
+</classification-national>
+<invention-title id="d2e53">Fringe maker</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>2335053</doc-number>
+<kind>A</kind>
+<name>Gluck</name>
+<date>19431100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>223 46</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>2373393</doc-number>
+<kind>A</kind>
+<name>Hall</name>
+<date>19450400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 28149</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>2542222</doc-number>
+<kind>A</kind>
+<name>Welch</name>
+<date>19510200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>223 46</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>3044670</doc-number>
+<kind>A</kind>
+<name>Barefoot</name>
+<date>19620700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>223 46</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>3291352</doc-number>
+<kind>A</kind>
+<name>Grikis</name>
+<date>19661200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>223 46</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>3591904</doc-number>
+<kind>A</kind>
+<name>Rosene</name>
+<date>19710700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 28147</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>3653230</doc-number>
+<kind>A</kind>
+<name>Tosco</name>
+<date>19720400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 66 85 R</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>D229988</doc-number>
+<kind>S</kind>
+<name>Sovia</name>
+<date>19740100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> D3 26</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>D231871</doc-number>
+<kind>S</kind>
+<name>Webb</name>
+<date>19740600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> D3 26</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>3816888</doc-number>
+<kind>A</kind>
+<name>Rather, Jr.</name>
+<date>19740600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 28147</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>4203561</doc-number>
+<kind>A</kind>
+<name>Stillings</name>
+<date>19800500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>2424869</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>4454968</doc-number>
+<kind>A</kind>
+<name>StLawrence</name>
+<date>19840600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>223 46</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>4616769</doc-number>
+<kind>A</kind>
+<name>Steigler et al.</name>
+<date>19861000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>223 46</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>5297705</doc-number>
+<kind>A</kind>
+<name>Schmidt</name>
+<date>19940300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>223 46</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>5356056</doc-number>
+<kind>A</kind>
+<name>Teuten</name>
+<date>19941000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>223 46</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>5411188</doc-number>
+<kind>A</kind>
+<name>Teuten</name>
+<date>19950500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>223 46</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>5829650</doc-number>
+<kind>A</kind>
+<name>MacTaggart</name>
+<date>19981100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>223 46</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>2008/0000934</doc-number>
+<kind>A1</kind>
+<name>Schorr</name>
+<date>20080100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>223 46</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>24</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 28145</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 28147</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 28149</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 28150</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 28143</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>223 44</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>223 46</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>223120</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>289 165</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>289 17</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>206574</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>206575</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>206225</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>206226</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>206227</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>3</number-of-drawing-sheets>
+<number-of-figures>3</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20100072233</doc-number>
+<kind>A1</kind>
+<date>20100325</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Herb-Weinert</last-name>
+<first-name>Deborah</first-name>
+<address>
+<city>Big Sandy</city>
+<state>TN</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Weinert</last-name>
+<first-name>Karl H.</first-name>
+<address>
+<city>Big Sandy</city>
+<state>TN</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+</parties>
+<assignees>
+<assignee>
+<last-name>Weinert</last-name>
+<first-name>Deborah</first-name>
+<role>04</role>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Vanatta</last-name>
+<first-name>Amy B</first-name>
+<department>3765</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A fringe maker for winding yarns to make a fringe. The fringe maker includes an elongated base having a pair of spaced crank and idler support member recesses interconnected by a longitudinal winding rod recess, a gripping slot, and a ruler recess. A pair of crank and idler support members are pivotally connected to the base within respective of the crank and idler support member recesses. Each has an upright operating position stopped against the base and a horizontal storage position disposed within the support member recesses that each define a storage area thereunder. A pair of crank and idler winding arms each have a central area rotatably connectable to respective of the support members while in the operating positions to rotate about a horizontal axis. A pair of elongated winding rods are disposable in a plurality of spaced relationships equidistant from and at opposite sides of the axis to interconnect the winding arms and form a removable winding unit. A hand crank is used for hand-driving the crank winding arm. A middle winding arm has a pair of end slots and two pluralities of side slots that closely receive the winding rods in the spaced relationships that snap-fits to the winding rods intermediate the winding arms. A bendable ruler closely fits within the ruler recess for storage.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="133.52mm" wi="225.89mm" file="US07891063-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="229.28mm" wi="184.49mm" orientation="landscape" file="US07891063-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="214.80mm" wi="183.22mm" orientation="landscape" file="US07891063-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="238.51mm" wi="183.81mm" orientation="landscape" file="US07891063-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0002" num="0001">1. Field</p>
+<p id="p-0003" num="0002">The present invention generally relates to devices used for making decorative yarn fringes used on draperies, pillows, clothing, and the like, and more particularly to such fringe making devices that are hand-powered for home use.</p>
+<p id="p-0004" num="0003">2. State of the Art</p>
+<p id="p-0005" num="0004">Decorative yarn fringe is used at the top of draperies, around the peripheral edge of pillows, on shirt pockets and other items of clothing, and the like to enhance their appeal and aesthetic qualities. Though hand-made fringes originated many years ago, most today are mass-produced using high-speed weaving or similar type equipment. Such hand-made fringes were made by hand-winding yarns around a template, such as two spaced-apart boards, hand-sewing a retaining seam along one board to secure the fringe, and snipping the &#x201c;loops&#x201d; at the opposite board to release the bottom thereof.</p>
+<p id="p-0006" num="0005">More recently, in accordance with the retro-trend to make clothing by hand, a hand-winding device, or fringe maker, has been marketed to facilitate hand-winding of fringes. The fringe maker is mostly made of wood with an elongated base of solid wood construction. Respective crank and idler support members removably connected to the base extending upwardly using respective dowels pins. A crank winding arm is rotatably secured to the crank support member using a retaining pin for hand-driving using a hand crank. An idler winding arm is rotatably connected to the idler support member. A pair of elongated winding rods interconnect the support members. A middle winding arm connects to and reinforces the winding rods intermediate the crank and idler winding arms. An elongated, U-shaped yarn guide rod is removably connected extending upwardly from the base.</p>
+<p id="p-0007" num="0006">The crank support member has a crank-receiving slot that closely rotatably receives the hand crank and a pin-receiving hole that intersects the crank-receiving slot to receive the retaining pin and retain the hand crank thereto. The idler support member has a rotation bore.</p>
+<p id="p-0008" num="0007">The crank and idler winding arms are each of truncated triangular shape. Two pluralities of rod-receiving holes extend through the winding arms that closely receive the winding rods in a plurality of the spaced relationships. A pivot bore is centrally disposed extending into the support section. A rotation pin extends from the pivot bore of the idler winding arm. The idler winding arm is rotatably connectable to the idler support member while in the operating position by inserting the rotation pin into the rotation bore thereof.</p>
+<p id="p-0009" num="0008">The hand crank includes a drive rod that comprises a crank leg connected to a parallel, oppositely disposed handle leg through a connecting leg. The crank leg is coaxially affixed within the pivot bore of the crank winding arm to facilitate driving thereof using the hand crank. The crank leg of the drive rod is closely rotatably received within the crank-receiving slot of the crank support member and secured therein by inserting the retaining pin into the pin-receiving hole.</p>
+<p id="p-0010" num="0009">The winding rods each include opposite ends that closely fit within the rod-receiving bores of the winding arms. The winding rods are disposable in a plurality of spaced relationships equidistant from and at opposite sides of a horizontal axis to interconnect the winding arms and form a removable winding unit.</p>
+<p id="p-0011" num="0010">The middle winding arm is of elongated generally rectangular shape that includes a pair of rod-receiving end holes, and two pluralities of rod-receiving side slots that closely receive the winding rods in the plurality of the spaced relationships. The holes and slots correspond to the rod-receiving bores of the crank and idler winding arms.</p>
+<p id="p-0012" num="0011">The fringe maker is used by placing it onto the support surface. During a winding process, a plurality of yarns are tied to one of the winding rods and the hand crank is rotated to pass the yarns under the yarn guide rod and wind around the winding rods. Once the yarns are wound onto the winding rods they are tied-off to secure. The retaining pin is removed from the crank support member. The crank and idler winding arms, the hand crank, and the winding rods with wound yarns are removed from the base with support members as a single unit for transport to a sewing machine to sew a longitudinal retaining seam closely adjacent one of the winding rods to complete the fringe. The winding rods are then removed from the crank and idler winding arms and the fringe is removed therefrom. The crank and idler winding arms, the hand crank, and the winding rods minus the fringe are then reassembled to the base with support members and a new winding process is started.</p>
+<p id="p-0013" num="0012">While the prior art fringe maker works reasonably well, it has numerous serious shortcomings. First, even though the base is made of solid wood, it is rather small and thin so as to be lightweight. This makes the fringe maker rather unstable during winding and prone to tipping. Second, the winding rods block the view of the yarn guide rod in certain rotational positions during winding. Third, the fringe maker is not of heavy duty construction and prone to breakage. Fourth, the support members and the yarn guide rod are removable and thus can be lost. Fifth, the maximum width of the fringe that can be produced is only eleven inches. Sixth, there is no place to store the component parts including the support members, the winding arms, the retaining pin, the hand crank, the winding rods, and the yarn guide rod. Seventh, there is no ruler or measuring device for measuring items to receive the fringe and lengths of the fringe during winding. There is a need for a fringe maker that solves these problems.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0014" num="0013">The present invention is a fringe maker for winding yarns to make a fringe. The fringe maker includes an elongated base having a pair of spaced crank and idler support member recesses interconnected by a longitudinal winding rod recess. A pair of crank and idler support members are pivotally connected to the base within respective of the crank and idler support member recesses. Each has an upright operating position stopped against the base and a horizontal storage position disposed within the support member recesses that each define a storage area thereunder. A pair of crank and idler winding arms each have a central area rotatably connectable to respective of the support members while in the operating positions to rotate about a horizontal axis. A pair of elongated winding rods are disposable in at least one spaced relationship equidistant from and at opposite sides of the axis to interconnect the winding arms and form a removable winding unit. A hand crank is adapted for coaxially hand-driving the crank winding arm. The fringe is made by: 1) rotating the hand crank to wind the yarns around the winding rods; 2) removing the winding unit with wound yarns from the base with support members for sewing a retaining seam to complete the fringe; and 3) removing the fringe by disassembling the winding rods from the winding arms, the winding arms, the winding rods, and the hand crank being storable within the storage areas.</p>
+<p id="p-0015" num="0014">In a preferred fringe maker, the base has a ruler recess and is of a construction of a single piece or respective upper and lower bases that are affixed together. A bendable ruler is provided that when in a straight configuration closely fits within the ruler recess for storage. The support members each comprise an upper section of generally rectangular shape and a thicker lower section that is longitudinally tapered with a rounded bottom pivotally connected to the base using a plurality of pivot pins. The crank support member has a crank-receiving slot and a retaining device receiving hole that intersects the slot. The idler support member has a pivot bore. The winding rods are each of a cross-section of circular, rectangular, polygonal, or oblong. The winding arms each include a support section of truncated triangular shape. The support sections have the central area with a pivot bore. A rod section of rectangular shape is dependent from the support section having two pluralities of rod-receiving bores that closely receive opposite ends of the winding rods that are disposable in a plurality of the spaced relationships. The central area of the idler winding arm is rotatably connectable to the idler support member using a rotation pin that extends into the pivot bores thereof. The hand crank includes a drive rod having a crank leg with splined distal end coaxially affixed within the pivot bore of the crank winding arm and a parallel, oppositely disposed handle leg interconnected through a connecting leg. A gripping handle is connected to the handle leg. The crank leg is closely rotatably receivable within the crank-receiving slot of the crank support member being retained thereto by a retaining device received in the retaining device receiving hole. A middle winding arm is provide having a pair of end slots, two pluralities of side slots that closely receive the winding rods in the spaced relationships, and a clearance bore centrally disposed thereon to receive the rotation pin of the idler winding arm during storage. The end slots are at such a spacing and the side slots are angled inwardly so as to snap-fit to and reinforce the winding rods intermediate the winding arms.</p>
+<p id="p-0016" num="0015">In a further preferred fringe maker, the base has one or more features of a gripping slot, a gripping recess, a hanging hole, and a handle recess connected to one of the support member recesses. The upper base comprises a pair of edge-joined halves having a plurality of slots which the lower base covers to form the recesses. The pivot pins are each spring-biased from a retracted position disposed within one pivot bore to an extended position also disposed within an adjacent pivot bore to facilitate initial assembly. The retaining device is chosen from the group consisting of a spring plunger and a retaining pin received within the retaining device receiving hole of the crank support member. The base, the support members, the winding arms, the winding rods, and the hand crank are made of materials such as wooden boards, plywood, wood and plastic veneer, particle board, molded plastic, sheet plastic, stainless steel rod, and plated carbon steel rod.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">THE DRAWINGS</heading>
+<p id="p-0017" num="0016">The best mode presently contemplated for carrying out the invention is illustrated in the accompanying drawings, in which:</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 1</figref> is a perspective view of a fringe maker of the present invention shown on a support surface in an unfolded operating position winding yarn to make a fringe;</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 2</figref>, an exploded perspective view of the fringe maker, to a slightly reduced scale, showing a base to which crank and idler support members are pivotally connected, a crank winding arm rotatably secured to the crank support member using a hand crank and a spring plunger disposed within the crank support member, an idler winding arm rotatably connected to the idler support member, a pair of winding rods that interconnect the support members, a middle winding arm that snap-fits to the winding rods, and a bendable ruler; and</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 3</figref>, a perspective view of a fringe maker, to the slightly reduced scale, shown on the support surface with the crank winding arm, the hand crank, the idler winding arm, the winding rods, the middle winding arm, and the ruler detached for storage within the base in a storage position of the fringe maker.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF THE ILLUSTRATED EMBODIMENTS</heading>
+<p id="p-0021" num="0020">Referring to <figref idref="DRAWINGS">FIG. 1</figref>, therein is shown a fringe maker of the present invention, designated generally at <b>20</b>, supported on a support surface <b>21</b> for winding a plurality of yarns <b>23</b> to make a fringe <b>26</b>.</p>
+<p id="p-0022" num="0021">The fringe maker <b>20</b> includes an elongated base <b>29</b> with a respective crank and idler support members <b>32</b> and <b>35</b> pivotally connected thereto. A crank winding arm <b>38</b> is rotatably secured to the crank support member <b>32</b> using a retaining device in the form of a conventional ball-nose spring plunger <b>41</b> for hand-driving using a hand crank <b>44</b>. An idler winding arm <b>47</b> is rotatably connected to the idler support member <b>35</b>. A pair of elongated winding rods <b>50</b> interconnect the support members <b>32</b> and <b>35</b>. A middle winding arm <b>53</b> connects to and reinforces the winding rods <b>50</b> intermediate the crank and idler winding arms <b>38</b> and <b>47</b>, and a conventional bendable ruler <b>56</b>.</p>
+<p id="p-0023" num="0022">The base <b>29</b> includes an upper base <b>59</b> and a lower base <b>62</b>. The upper base <b>59</b> has a pair of spaced crank and idler support member slots <b>65</b> and <b>68</b> each of generally rectangular shape interconnected by a longitudinal rod slot <b>71</b>, a handle slot <b>74</b> connected to the end slot <b>65</b>, an elongated ruler slot <b>77</b>, an elongated gripping slot <b>78</b>, and a hanging hole <b>79</b>. A plurality of pairs of coaxial pivot bores <b>80</b> and <b>83</b> extend into the upper base <b>59</b> respectively disposed at the support member slots <b>65</b> and <b>68</b>. A pair of gripping recesses <b>84</b> extend oppositely into the base <b>29</b>. The lower base <b>62</b> has an elongated gripping slot <b>87</b>, a hanging hole <b>88</b>, and a pair of gripping recesses <b>89</b> that extend oppositely thereinto. The gripping slots <b>78</b> and <b>87</b>, and the gripping recesses <b>84</b> and <b>89</b> help in gripping the base <b>29</b> in-hand for lifting.</p>
+<p id="p-0024" num="0023">The upper base <b>59</b> is affixed to the lower base <b>62</b> using adhesives, pegs, screws, or other suitable devices (none shown) covering the slots <b>65</b>, <b>68</b>, <b>71</b>, <b>74</b>, and <b>77</b> to form respective crank and idler support member recesses <b>92</b> and <b>95</b>, an elongated winding rod recess <b>98</b>, and a handle recess <b>101</b> that are all interconnected, an elongated handle slot <b>102</b>, an elongated ruler recess <b>104</b>, a hanging hole <b>105</b>, and a pair of gripping recesses <b>106</b>. Alternatively, the upper and lower bases <b>59</b> and <b>62</b> may be integral with the recesses <b>92</b>, <b>95</b>, <b>98</b>, <b>101</b>, <b>104</b> and <b>106</b>, the handle slot <b>102</b>, and the hanging hole <b>105</b> router-cut or molded thereinto.</p>
+<p id="p-0025" num="0024">The upper base <b>59</b> is preferably made in a single piece (e.g. a single wooden board) or from a pair of edge-joined halves <b>107</b> and <b>108</b> (e.g. a pair of wooden boards), though other suitable materials may be used such as wood or plastic veneer covered particle board, molded plastic, sheet plastic, and the like. The lower base <b>62</b> is preferably made from plywood, though other suitable materials such as those mentioned above may be used. Wood components may be left natural, stained, or otherwise finished as desired.</p>
+<p id="p-0026" num="0025">The crank and idler support members <b>32</b> and <b>35</b> are each made from a support blank <b>109</b> comprised of an upper section <b>110</b> of generally rectangular shape and a thicker, longitudinally tapered lower section <b>113</b> with a rounded bottom <b>114</b>. The upper section <b>110</b> is laterally inwardly tapered having a pair of oppositely disposed, concave surfaces <b>116</b> and <b>119</b>. The lower section <b>113</b> is rounded with a pair of pivot bores <b>122</b> and <b>125</b> that coaxially extend thereinto. The support blanks <b>107</b> are made of the materials described above. Note that the crank support <b>32</b> with spring plunger <b>41</b> can replace the idler support <b>35</b> if so desired for economy of parts.</p>
+<p id="p-0027" num="0026">The crank support member <b>32</b> has a crank-receiving slot <b>131</b> that closely rotatably receives the hand crank <b>44</b> and a retaining device receiving hole <b>134</b> that intersects the crank-receiving slot <b>131</b> to receive the spring plunger <b>41</b> and retain the hand crank <b>44</b> thereto. The idler support member <b>35</b> has a rotation bore <b>137</b>. The lower sections <b>113</b> of the support members <b>32</b> and <b>35</b> are pivotally connected to the base <b>29</b> within respective of the support member recesses <b>92</b> and <b>95</b> of the base <b>29</b>. This is done using a plurality of pivot pins <b>140</b> disposed within respective of the pivot bores <b>122</b> and <b>125</b> of the support members <b>32</b> and <b>35</b> and the pivot bores <b>80</b> and <b>83</b> of the upper base <b>59</b>.</p>
+<p id="p-0028" num="0027">If the upper base <b>59</b> is made of the single piece, the pivot pins <b>140</b> are preferably each spring-biased to facilitate initial assembly. The pivot pins <b>140</b> can be outwardly spring-biased from an initial retracted position disposed within the pivot bore <b>80</b> of base <b>29</b> to an extended position also disposed within the adjacent pivot bore <b>122</b> of the crank support member <b>32</b>. Alternatively, coaxial pairs of the pivot pins <b>140</b> they can be outwardly spring-biased by interconnecting the pivot bores <b>122</b> of the crank support member <b>32</b> and using a compression spring between the pivot pins <b>140</b>. If the upper base <b>59</b> is made of the halves <b>107</b> and <b>108</b>, then the pivot pins <b>140</b> can be of solid or tubular design. Further alternatively, the pivot pins <b>140</b> may be replaced by a single elongated pin (not shown) that is press-fit into the pivot bores <b>80</b> and <b>83</b> that are extended to pass completely through the upper base <b>59</b>.</p>
+<p id="p-0029" num="0028">The support members <b>32</b> and <b>35</b> have respective upright operating positions disposed perpendicularly stopped against the base <b>29</b> and horizontal storage positions disposed parallel to the base <b>29</b> within respective of the support member recesses <b>92</b> and <b>95</b>. The support members <b>32</b> and <b>35</b> are flush with the base <b>29</b> in the storage position forming respective storage areas <b>143</b> and <b>146</b> thereunder.</p>
+<p id="p-0030" num="0029">The crank and idler winding arms <b>38</b> and <b>47</b> are each made from an arm blank <b>149</b> comprised of a rod section <b>152</b> of rectangular shape and a dependent support section <b>155</b> of truncated triangular shape. Two pluralities of rod-receiving bores <b>158</b> extend into the rod section <b>152</b> that closely receive the winding rods <b>50</b> in a plurality of the spaced relationships. A pivot bore <b>161</b> is centrally disposed extending into the support section <b>155</b>. A rotation pin <b>162</b> is affixed such as by press-fitting extending from the pivot bore <b>161</b> of the idler winding arm <b>47</b>. The idler winding arm <b>47</b> is rotatably connectable to the idler support member <b>35</b> while in the operating position by inserting the rotation pin <b>167</b> into the rotation bore <b>137</b> thereof. The arm blanks <b>149</b> are made of the materials described above.</p>
+<p id="p-0031" num="0030">The spring plunger <b>41</b> includes an externally threaded housing <b>167</b> that is threadably received within the retaining device receiving <b>134</b> of the crank support member <b>32</b>. An outwardly spring-biased ball <b>170</b> depends from the housing <b>167</b> that engages the hand crank <b>44</b> that snap-fits past the ball <b>170</b> when the crank support member <b>32</b> is pressed into the crank-receiving slot <b>131</b> thereof. The spring plungers <b>41</b> can be similarly used to retain the support members <b>32</b> and <b>35</b> in the storage positions during storage of the fringe maker <b>20</b>. Alternatively, another retaining device such a retaining pin (not shown) may be used.</p>
+<p id="p-0032" num="0031">The hand crank <b>44</b> includes a drive rod <b>173</b> and an optional gripping handle <b>176</b> to facilitate gripping of the drive rod <b>173</b>. The drive rod <b>173</b> comprises a crank leg <b>179</b> connected to a parallel, oppositely disposed handle leg <b>182</b> through a connecting leg <b>185</b>. The crank leg <b>179</b> has a drive spline <b>188</b> that is coaxially affixed within the pivot bore <b>161</b> of the crank winding arm <b>38</b> such as by press-fitting to facilitate driving thereof using the hand crank <b>44</b>. The drive rod <b>173</b> is preferably formed from stainless steel or plated carbon steel rod, though other suitable materials such as those mentioned above may be used.</p>
+<p id="p-0033" num="0032">The gripping handle <b>176</b> includes a handle member <b>191</b> in which a sleeve <b>194</b> is rotatably secured. The sleeve <b>194</b> is affixed to the handle leg <b>182</b> of the drive rod <b>173</b> such as adhesively or by crimping. The crank leg <b>179</b> of the drive rod <b>173</b> is closely rotatably received within the crank-receiving slot <b>131</b> of the crank support member <b>32</b> and secured therein by inserting the locking leg <b>167</b> of the spring plunger <b>41</b> into the retaining device receiving hole <b>134</b>. The drive rod <b>173</b> is formed from the same material as the drive rod <b>173</b>. The handle member <b>191</b> is turned from wood, molded from a suitable plastic material, or otherwise suitably made. The sleeve <b>194</b> is cut from steel or plastic tubing or otherwise suitably made.</p>
+<p id="p-0034" num="0033">The winding rods <b>50</b> each include opposite ends <b>197</b> and <b>200</b> that closely fit within the rod-receiving bores <b>158</b> of the winding arms <b>38</b> and <b>47</b>. The winding rods <b>50</b> are disposable in a plurality of spaced relationships equidistant from and at opposite sides of a horizontal axis &#x201c;A&#x201d; to interconnect the winding arms <b>38</b> and <b>47</b> and form a removable winding unit <b>201</b>. Each winding rod <b>50</b> and mating rod-receiving bore <b>158</b> is preferably of circular cross-section, though other cross-sections are possible such as rectangular, polygonal, or oblong. The winding rods <b>50</b> are preferably made from three-sixteenths diameter stainless steel rod or plated carbon steel rod.</p>
+<p id="p-0035" num="0034">The middle winding arm <b>53</b> is of elongated generally rectangular shape that includes a pair of rod-receiving end slots <b>203</b> and <b>206</b>, and two pluralities of rod-receiving side slots <b>209</b> and <b>210</b> that closely receive the winding rods <b>50</b> in the plurality of the spaced relationships. The slots <b>203</b>, <b>206</b>, <b>209</b>, and <b>210</b> correspond to the rod-receiving bores <b>158</b> of the crank and idler winding arms <b>38</b> and <b>47</b>. The side slots <b>209</b> and <b>210</b> are angled inwardly so as to snap-fit to the winding rods <b>50</b> between the crank and idler winding arms <b>38</b> and <b>47</b>. A clearance bore <b>212</b> is centrally disposed on the middle winding arm <b>53</b>. The middle winding arm <b>53</b> is made of the materials described above.</p>
+<p id="p-0036" num="0035">The bendable ruler <b>56</b> is made up of a plurality of individual sections <b>215</b> that are pivotally interconnected. A measuring scale <b>218</b> is printed across the sections <b>215</b> in inches/feet or millimeters/centimeters. The ruler <b>56</b> closely fits within the ruler recess when in a straight configuration. The ruler <b>56</b> is provided for measuring items to receive the fringe <b>26</b> such as pillows, collars, cuffs, necklines, and pet collars to determine the length of fringe <b>26</b> to make. Disposed in the base <b>29</b>, ruler <b>56</b> serves as visual aid so a user knows the length of fringe <b>26</b> required to be made.</p>
+<p id="p-0037" num="0036">The fringe maker <b>20</b> is used by placing it onto the support surface <b>21</b> while in the storage position, as depicted in <figref idref="DRAWINGS">FIG. 3</figref>. The crank winding arm <b>38</b> with attached hand crank <b>44</b> are disposed within the support member and handle recesses <b>65</b>, <b>68</b>, and <b>101</b>. The idler support member <b>35</b> and the middle winding arm <b>53</b> with the rotation pin <b>162</b> disposed within the clearance bore <b>212</b> are disposed within the support member recess <b>95</b>. The winding rods <b>50</b> are disposed within the support member recesses <b>92</b> and <b>95</b> and the winding rod recess <b>98</b>. The ruler <b>56</b> is disposed within the ruler recess <b>104</b>. The crank and idler support members <b>32</b> and <b>35</b> are in the storage positions disposed parallel to the base <b>29</b> within respective of the support member recesses <b>92</b> and <b>95</b>. The crank winding arm <b>38</b> with hand crank <b>44</b> are disposed within the storage area <b>143</b> formed by the base <b>29</b> and the crank support member <b>32</b>. The idler support member <b>35</b> and the middle winding arm <b>53</b> are disposed within the storage area <b>146</b> formed by the base <b>29</b> and the idler support member <b>35</b>. The crank and idler support members <b>32</b> and <b>35</b> are retained in the storage positions and the ruler is retained within the ruler recess <b>104</b> using friction fits with the base <b>29</b>. Alternatively, retaining devices (not shown) such as rubber bands, flexible straps, latches, or the like may be used.</p>
+<p id="p-0038" num="0037">The fringe maker <b>20</b> is moved from the storage position to an operating position by unlocking any retaining device that might be present and pivoting the crank and idler support members <b>32</b> and <b>35</b> upwardly to their operating positions. The crank winding arm <b>38</b> with attached hand crank <b>44</b>, the idler support member <b>35</b>, the middle winding arm <b>53</b>, and the winding rods <b>50</b> are removed from the base <b>29</b> and assembled together as shown in <figref idref="DRAWINGS">FIGS. 1 and 2</figref>. The winding rods <b>50</b> are placed in the corresponding of the bores <b>158</b> of the crank and idler winding arms <b>38</b> and <b>47</b>, and the end slots <b>203</b> and <b>206</b> or the side slots <b>209</b> and <b>210</b> of the middle winding arm <b>53</b> to make the fringe <b>26</b> of a desired size. The middle winding arm <b>53</b> stabilizes and maintains a desired spacing of the winding rods <b>50</b> during winding of the yarns <b>23</b>. The ruler <b>56</b> may be removed from the ruler recess <b>104</b> to make measurements as required.</p>
+<p id="p-0039" num="0038">During a winding process, typically four yarns <b>23</b> are tied to one of the winding rods <b>50</b> and the hand crank <b>44</b> is rotated to wind the yarns <b>23</b> around the winding rods <b>50</b>. The yarns <b>23</b> are initially wound onto the winding rods <b>50</b> close to the middle winding arm <b>53</b> then slid laterally towards the crank winding arm <b>38</b> as shown in <figref idref="DRAWINGS">FIG. 1</figref>. As more of the yarns <b>23</b> are wound onto the winding rods <b>50</b>, the middle winding arm <b>53</b> is slid laterally towards the idler support member <b>35</b> to make room for them. Once the yarns <b>23</b> are wound onto the winding rods <b>50</b> they are tied-off to secure. The crank and idler winding arms <b>38</b> and <b>47</b>, the hand crank <b>44</b>, and the winding rods <b>50</b> with wound yarns <b>23</b> are removed from the base <b>29</b> with support members <b>32</b> and <b>35</b> as a single unit for transport to a sewing machine (not shown) to sew a longitudinal retaining seam (not shown) closely adjacent one of the winding rods <b>50</b> to complete the fringe <b>26</b>. The winding rods <b>50</b> are then removed from the crank and idler winding arms <b>38</b> and <b>47</b> and the fringe <b>26</b> removed therefrom. The crank and idler winding arms <b>38</b> and <b>47</b>, the hand crank <b>44</b>, and the winding rods <b>50</b> minus the fringe <b>26</b> are then reassembled to the base <b>29</b> with support members <b>32</b> and <b>35</b> and a new winding process is started.</p>
+<p id="p-0040" num="0039">The fringe maker <b>20</b> is moved from the operating position to the storage position by reversing the above process. The storage position makes transport of the fringe maker <b>20</b> easy with a user using the gripping recesses <b>106</b> to lift the base <b>29</b> off the support surface <b>21</b> and using the handle slot <b>102</b> to carry the fringe maker <b>20</b>.</p>
+<p id="p-0041" num="0040">Therefore, the fringe maker of the present invention solve the aforementioned shortcomings of the prior art devices by: 1) having a large, thick base that has the weight and footprint to be very stable; 2) eliminating the yarn guide rod which is unnecessary and prone to being in the way; 3) having a robust design that is very durable with support members that are thick and substantial to resist tension of the yarns during winding; 4) having support members that are permanently pivotally connected to the base and thus cannot be lost; 5) having a maximum width of the fringe that can be produced of twenty-four inches; 6) having integral storage for all of the component parts within the base to prevent loss, and to provide tidy, compact storage retained in place by the support members; and 7) providing a ruler that can be removed from the base to measure items to receive the fringe and replaced in the base to measure the fringe during winding.</p>
+<p id="p-0042" num="0041">Whereas this invention is here illustrated and described with reference to embodiments thereof presently contemplated as the best mode of carrying out such invention in actual practice, it is to be understood that various changes may be made in adapting the invention to different embodiments without departing from the broader inventive concepts disclosed herein and comprehended by the claims that follow.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>We claim:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A fringe maker for winding yarns to make a fringe, comprising:
+<claim-text>an elongated base having a pair of spaced crank and idler support member recesses interconnected by a longitudinal winding rod recess;</claim-text>
+<claim-text>a pair of crank and idler support members pivotally connected to said base within respective of said crank and idler support member recesses each having an upright operating position stopped against said base and a horizontal storage position disposed within said support member recesses that each define a storage area thereunder;</claim-text>
+<claim-text>a pair of crank and idler winding arms each having a central area rotatably connectable to respective of said support members while in said operating positions to rotate about a horizontal axis;</claim-text>
+<claim-text>a pair of elongated winding rods disposable in at least one spaced relationship equidistant from and at opposite sides of said axis to interconnect said winding arms and form a removable winding unit;</claim-text>
+<claim-text>a hand crank adapted for coaxially hand-driving said crank winding arm; and</claim-text>
+<claim-text>wherein the fringe is made by rotating said hand crank to wind the yarns around said winding rods, removing said winding unit with wound yarns from said base with support members for sewing a retaining seam to complete the fringe, and removing the fringe by disassembling said winding rods from said winding arms, said winding arms, said winding rods, and said hand crank being storable within said storage areas.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The fringe maker of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the base has at least one feature chosen from the group consisting of a gripping slot, a gripping recess, a hanging hole, and a handle recess connected to the crank member recess.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The fringe maker of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the base is of a construction chosen from the group consisting of a single piece and respective upper and lower bases that are affixed together.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The fringe maker of <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the upper base has a plurality of slots which the lower base covers to form the recesses.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The fringe maker of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the upper base comprises a pair of edge-joined halves.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The fringe maker of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the support members each comprise an upper section and a lower section pivotally connected to the base using a plurality of pivot pins.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The fringe maker of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the upper sections are of generally rectangular shape and the lower sections are thicker and longitudinally tapered with a rounded bottom.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The fringe maker of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the upper sections are laterally inwardly tapered.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The fringe maker of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the pivot pins are each spring-biased from a retracted position disposed within a pivot bore to an extended position also disposed within an adjacent coaxial pivot bore to facilitate initial assembly.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The fringe maker of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+<claim-text>a retaining device; and</claim-text>
+<claim-text>wherein the crank support member has a crank-receiving slot that closely rotatably receives the hand crank and a retaining device receiving hole that intersects said slot to receive said retaining device and retain said hand crank thereto.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The fringe maker of <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the retaining device is chosen from the group consisting of a spring plunger and a retaining pin received within the retaining device receiving hole of the crank support member.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The fringe maker of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the central area of the idler winding arm is rotatably connectable to the idler support member using a rotation pin that extends into respective pivot bores thereof.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The fringe maker of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the hand crank includes a drive rod having a crank leg coaxially affixed to the central area of the crank winding arm and to a parallel, oppositely disposed handle leg through a connecting leg, and a gripping handle connected to said handle leg.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The fringe maker of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the crank leg has a distal end with a drive spline coaxially affixed within a pivot bore in the central area of the crank winding arm.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The fringe maker of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the winding arms each have two pluralities of rod-receiving bores that closely receive opposite ends of the winding rods in a plurality of the spaced relationships.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The fringe maker of <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein the winding arms each comprise a support section of truncated triangular shape that includes the central areas and a dependent rod section of rectangular shape having the rod-receiving bores.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The fringe maker of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein each winding rod is of a cross-section chosen from the group consisting of circular, rectangular, polygonal, and oblong.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The fringe maker of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a middle winding arm that connects to and reinforces the winding rods intermediate the winding arms.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The fringe maker of <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein the middle winding arm has a pair of end slots and two pluralities of side slots that closely receive the winding rods in a plurality of the spaced relationships.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The fringe maker of <claim-ref idref="CLM-00019">claim 19</claim-ref>, wherein the end slots are at such a spacing and the side slots are angled inwardly so as to snap-fit to the winding rods.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text>21. The fringe maker of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+<claim-text>a bendable ruler; and</claim-text>
+<claim-text>wherein the base has a ruler recess that closely receives said ruler when in a straight configuration.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text>22. The fringe maker of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the base, the support members, the winding arms, the winding rods, and the hand crank are made of materials chosen from the group consisting of wooden boards, plywood, wood and plastic veneer, particle board, molded plastic, sheet plastic, stainless steel rod, and plated carbon steel rod.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text>23. A fringe maker for winding yarns to make a fringe, comprising:
+<claim-text>an elongated base having a pair of spaced crank and idler support member recesses interconnected by a longitudinal winding rod recess, and a ruler recess, said base being of a construction chosen from the group consisting of a single piece and respective upper and lower bases that are affixed together;</claim-text>
+<claim-text>a bendable ruler that when in a straight configuration closely fits within said ruler recess for storage;</claim-text>
+<claim-text>a pair of crank and idler support members each comprising an upper section of generally rectangular shape and a thicker lower section that is longitudinally tapered with a rounded bottom pivotally connected to said base within respective of said crank and idler support member recesses using a plurality of pivot pins, said crank support member having a crank-receiving slot and a retaining device receiving hole that intersects said slot, said idler support member having a pivot bore, with each support member having an upright operating position stopped against said base and a horizontal storage position disposed within said support member recesses that each define a storage area thereunder;</claim-text>
+<claim-text>a pair of elongated winding rods each of a cross-section chosen from the group consisting of circular, rectangular, polygonal, and oblong;</claim-text>
+<claim-text>a pair of crank and idler winding arms each comprising a support section of truncated triangular shape having a central area with a pivot bore rotatably connectable respectively to said crank and idler support members while in said operating positions to rotate about a horizontal axis and a dependent rod section of rectangular shape having two pluralities of rod-receiving bores that closely receive opposite ends of said winding rods disposed in a plurality of spaced relationships equidistant from and at opposite sides of said axis to interconnect said winding arms to form a removable winding unit, said central area of said idler winding arm being rotatably connectable to said idler support member using a rotation pin that extends into said pivot bores thereof;</claim-text>
+<claim-text>a retaining device;</claim-text>
+<claim-text>a hand crank that includes a drive rod having a crank leg with splined distal end coaxially affixed within said pivot bore for hand-driving said crank winding arm and a parallel, oppositely disposed handle leg interconnected through a connecting leg, and a gripping handle connected to said handle leg, said crank leg being closely rotatably receivable within said crank-receiving slot of said crank support member retained thereto by said retaining device received in said retaining device receiving hole;</claim-text>
+<claim-text>a middle winding arm having a pair of end slots, two pluralities of side slots that closely receive said winding rods in said spaced relationships, and a clearance bore centrally disposed thereon to receive said rotation pin of said idler winding arm during storage, said end slots being at such a spacing and said side slots being angled inwardly so as to snap-fit to and reinforce said winding rods intermediate said winding arms;</claim-text>
+<claim-text>wherein the fringe is made by rotating said hand crank to wind the yarns around said winding rods, removing said winding unit with wound yarns from said base with support members for sewing a retaining seam to complete the fringe, and removing the fringe by disassembling said winding rods from said winding arms, said winding arms, said winding rods, and said hand crank being storable within said storage areas.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text>24. The fringe maker of <claim-ref idref="CLM-00023">claim 23</claim-ref>, wherein the base has at least one feature chosen from the group consisting of a gripping slot, a gripping recess, a hanging hole, and a handle recess connected to one of the support member recesses, the upper base comprises a pair of edge-joined halves having a plurality of slots which the lower base covers to form said recesses, the pivot pins are each spring-biased from a retracted position disposed within one pivot bore to an extended position also disposed within an adjacent pivot bore to facilitate initial assembly, the retaining device is chosen from the group consisting of a spring plunger and a retaining pin received within the retaining device receiving hole of the crank support member, and said base, the support members, the winding arms, the winding rods, and the hand crank are made of materials chosen from the group consisting of wooden boards, plywood, wood and plastic veneer, particle board, molded plastic, sheet plastic, stainless steel rod, and plated carbon steel rod. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

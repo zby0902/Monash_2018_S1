@@ -1,0 +1,1091 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891159-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891159</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12156137</doc-number>
+<date>20080530</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>67</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>65</class>
+<subclass>B</subclass>
+<main-group>57</main-group>
+<subgroup>12</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 53504</main-classification>
+<further-classification> 53 52</further-classification>
+<further-classification> 53 66</further-classification>
+<further-classification> 53 55</further-classification>
+<further-classification> 53450</further-classification>
+<further-classification> 53493</further-classification>
+<further-classification> 53432</further-classification>
+</classification-national>
+<invention-title id="d2e53">Method for positioning a loaded bag in a vacuum chamber</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>3958391</doc-number>
+<kind>A</kind>
+<name>Kujubu</name>
+<date>19760500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53434</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>4147930</doc-number>
+<kind>A</kind>
+<name>Browne et al.</name>
+<date>19790400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>4159761</doc-number>
+<kind>A</kind>
+<name>Egee et al.</name>
+<date>19790700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>4147885</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>4446481</doc-number>
+<kind>A</kind>
+<name>Edamatsu et al.</name>
+<date>19840500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>4580393</doc-number>
+<kind>A</kind>
+<name>Furukawa</name>
+<date>19860400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>4640081</doc-number>
+<kind>A</kind>
+<name>Kawaguchi et al.</name>
+<date>19870200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>4882498</doc-number>
+<kind>A</kind>
+<name>Cochran et al.</name>
+<date>19891100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>25055904</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>4909356</doc-number>
+<kind>A</kind>
+<name>Rimondi et al.</name>
+<date>19900300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>186 61</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>5165218</doc-number>
+<kind>A</kind>
+<name>Callahan, Jr.</name>
+<date>19921100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53447</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>5313766</doc-number>
+<kind>A</kind>
+<name>Rimondi et al.</name>
+<date>19940500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53451</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>5365084</doc-number>
+<kind>A</kind>
+<name>Cochran et al.</name>
+<date>19941100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>5420439</doc-number>
+<kind>A</kind>
+<name>Landwehrkamp et al.</name>
+<date>19950500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>5524420</doc-number>
+<kind>A</kind>
+<name>Ikuta</name>
+<date>19960600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53450</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>5646724</doc-number>
+<kind>A</kind>
+<name>Hershline</name>
+<date>19970700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>5799465</doc-number>
+<kind>A</kind>
+<name>Townsend</name>
+<date>19980900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53258</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>5810795</doc-number>
+<kind>A</kind>
+<name>Westwood</name>
+<date>19980900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>604305</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>5941052</doc-number>
+<kind>A</kind>
+<name>Evangelisti</name>
+<date>19990800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53433</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>6119438</doc-number>
+<kind>A</kind>
+<name>Bacon et al.</name>
+<date>20000900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53451</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>6384421</doc-number>
+<kind>B1</kind>
+<name>Gochar, Jr.</name>
+<date>20020500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>6415582</doc-number>
+<kind>B2</kind>
+<name>Graushar et al.</name>
+<date>20020700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53411</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>6542235</doc-number>
+<kind>B1</kind>
+<name>Caskey et al.</name>
+<date>20030400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>6563576</doc-number>
+<kind>B2</kind>
+<name>Gschweitl</name>
+<date>20030500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>3562371</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>6725635</doc-number>
+<kind>B2</kind>
+<name>Koppe</name>
+<date>20040400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53570</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>6784447</doc-number>
+<kind>B2</kind>
+<name>Gochar, Jr.</name>
+<date>20040800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>6877543</doc-number>
+<kind>B2</kind>
+<name>Stevens</name>
+<date>20050400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>6907711</doc-number>
+<kind>B2</kind>
+<name>Ishii et al.</name>
+<date>20050600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53 54</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>7296390</doc-number>
+<kind>B2</kind>
+<name>Koke et al.</name>
+<date>20071100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53510</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>2005/0039417</doc-number>
+<kind>A1</kind>
+<name>Liedtke et al.</name>
+<date>20050200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53399</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>2005/0178090</doc-number>
+<kind>A1</kind>
+<name>Koke et al.</name>
+<date>20050800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>2005/0231713</doc-number>
+<kind>A1</kind>
+<name>Owen et al.</name>
+<date>20051000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>2006/0244954</doc-number>
+<kind>A1</kind>
+<name>Daley et al.</name>
+<date>20061100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>14</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 53498</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 53500</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 53450</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 53452</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 53459</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 53428</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 53432-434</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 53 52</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 53 55</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 53493</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 53504</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 53 64</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 53 66</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>9</number-of-drawing-sheets>
+<number-of-figures>9</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090293430</doc-number>
+<kind>A1</kind>
+<date>20091203</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Iocco</last-name>
+<first-name>Jeffrey R.</first-name>
+<address>
+<city>Greenville</city>
+<state>SC</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>McDonald</last-name>
+<first-name>Greg E.</first-name>
+<address>
+<city>Simpsonville</city>
+<state>SC</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Painter</last-name>
+<first-name>Max C.</first-name>
+<address>
+<city>Spartanburg</city>
+<state>SC</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="004" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Workman</last-name>
+<first-name>Wayne T.</first-name>
+<address>
+<city>Duncan</city>
+<state>SC</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Quatt</last-name>
+<first-name>Mark B.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Cryovac, Inc.</orgname>
+<role>02</role>
+<address>
+<city>Duncan</city>
+<state>SC</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Harmon</last-name>
+<first-name>Christopher</first-name>
+<department>3721</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A method of positioning a loaded bag in a vacuum chamber includes loading a bag by placing a product in the bag; placing the bag on an infeed conveyor that is transparent to IR; advancing the bag, on the conveyor, to a sensing apparatus including an infrared camera disposed above the conveyor, and a bank of LED's disposed below the conveyor; interrogating the loaded bag, using the sensing apparatus, with infrared radiation to detect the trailing edge of the product inside the bag; transmitting information acquired from the interrogating step to a PLC; advancing the interrogated loaded bag a distance, based in the information acquired from the interrogating step, to a vacuum chamber including a heat seal assembly; and heat sealing the loaded bag with the heat seal assembly to close the bag mouth.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="92.37mm" wi="206.50mm" file="US07891159-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="237.57mm" wi="152.06mm" file="US07891159-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="179.32mm" wi="172.80mm" file="US07891159-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="177.97mm" wi="164.08mm" file="US07891159-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="174.50mm" wi="154.60mm" file="US07891159-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="154.69mm" wi="156.04mm" file="US07891159-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="230.21mm" wi="176.70mm" file="US07891159-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="207.69mm" wi="153.16mm" orientation="landscape" file="US07891159-20110222-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="171.96mm" wi="177.55mm" file="US07891159-20110222-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="144.78mm" wi="116.25mm" file="US07891159-20110222-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0002" num="0001">The present invention relates to a method for positioning a loaded bag in a vacuum chamber.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">Vacuum packaging in heat sealable plastic bags is a conventional way of packaging food products such as meat, and cheese. Vacuum packaging typically involves placing the food item in a heat sealable plastic bag having a bag mouth, and then evacuating air from the bag through the bag mouth and collapsing the bag about the contained food item. The bag is then heat sealed in its evacuated condition so the food item becomes encased in a generally air-free environment. Often the bag is a heat shrinkable bag, and after the heat sealing step, is advanced to a hot water or hot air shrink tunnel to induce shrinkage of the bag around the food item.</p>
+<p id="p-0004" num="0003">Vacuum packaging machines of a known type include a vacuum chamber arranged to receive unsealed loaded bags and operable to perform a vacuum sealing operation on the loaded bags. Typically the loaded bags contain products such as meat cuts, arranged in bags formed by a heat-shrinkable film. After feeding a loaded bag to a vacuum chamber and closing the vacuum chamber, the vacuum sealing operation typically includes vacuumization, sealing the mouth of the vacuumized bags, and reintroducing air into the chamber. The chamber is then opened and the vacuum chamber is unloaded. In some applications, the packages may then be conveyed to a heat-shrinking unit to shrink the packaging around the product.</p>
+<p id="p-0005" num="0004">Rotary vacuum packaging machines are known, which include a series of vacuum chambers and chain driven product platens. In operation of the machine the platens move from a loading position, through a vacuum/sealing/venting stage, to an unloading position, and finally back to the loading position. Typical are the packaging machine and machine systems developed by Furukawa Manufacturing Co., Ltd., and disclosed in U.S. Pat. No. 3,958,391 (Kujubu), U.S. Pat. No. 4,580,393 (Furukawa), and U.S. Pat. No. 4,640,081 (Kawaguchi et al.), all incorporated herein by reference in their entirety.</p>
+<p id="p-0006" num="0005">U.S. Pat. No. 7,296,390 (Koke et al.), this patent incorporated herein by reference in its entirety, discloses a vacuum packaging machine including a plurality of vacuum chambers each arranged to receive at least one unsealed loaded bag, and operable to perform an independent vacuum sealing operation, each vacuum chamber having a longitudinal direction defined by a direction of travel of the respective loaded bag through the chamber, each chamber having a heat seal assembly therein which extends transversely to the longitudinal direction. An infeed conveyor is provided for feeding an unsealed loaded bag to a vacuum chamber, such that the trailing (upstream) end of the unsealed loaded bag extends over the heat seal assembly or a part thereof. Each vacuum chamber has a respective bed and independently moveable hood, and the beds can be synchronously vertically moveable. The vacuum packaging machine can be used in combination with a suitable product bagging or wrapping machine.</p>
+<p id="p-0007" num="0006">The system disclosed in U.S. Pat. No. 7,296,390 has been commercialized in New Zealand as the TASVAC&#x2122; vacuum packaging system for packaging bagged meat products. In this system, it is beneficial to arrange the trailing (i.e. upstream) edge of each bagged product such that, after heat sealing to close the bag mouth, a bag tail (the portion of the sealed bag located between the trailing edge of the bagged product, and the heat seal) of no more than about two inches (50.8 millimeters) is left on the bag. Bag tails longer than this, e.g. longer than 2 inches (50.8 millimeters), result in use of excessive amounts of thermoplastic materials making up the bag, and also are less aesthetic than bags with shorter bag tails. It is beneficial to have a bag tail less than about 1.5 inches (about 37.6 millimeters), such as one inch (25.4 millimeters) left on the bag. It is also important to have enough bag tail to accommodate irregularly shaped meat cuts, in particular those with a high vertical profile. Put differently, the margin of error for positioning the trailing edge of each product, with respect to the position of the heat assembly, is beneficially a maximum of plus or minus 1.5 inches (about 37.6 millimeters), such as one inch (25.4 millimeters).</p>
+<p id="p-0008" num="0007">Thus, for the TASVAC&#x2122; system, in packaging a series of bagged meat products queued on and being advanced by an in-feed conveyor e.g. in a meat processing plant, it is desirable to determine their position vis-&#xe0;-vis a downstream vacuum chamber, so that each bag can be properly aligned with the heat seal assembly as the loaded bag advances to and inside the vacuum chamber.</p>
+<p id="p-0009" num="0008">Capacitive sensors, positioned upstream of the vacuum chambers on the common in-feed conveyor, have been tested and proven to be unreliable in determining the position of the trailing edge of a product positioned in an unsealed bag, prior to advancing of the bagged product into a given vacuum chamber. This is in part because capacitive sensors rely on the detection of moisture in the meat product being packaged. In a typical meat processing plant, where various meat cuts are being packaged in thermoplastic bags, moisture is commonly present on meat conveyors in the form of water or blood. Use of capacitive sensors therefore sometimes gives a &#x201c;false positive&#x201d; indication of the presence of the meat product, such that proper advancement and positioning of each bagged product with respect to the heat seal assembly of a downstream vacuum chamber is difficult and unreliable. In addition, the capacitive sensor has a maximum sensor height range of typically about 40 millimeters.</p>
+<p id="p-0010" num="0009">A product sensor used in the above described apparatus and process should be able to identify product, that is, identify the trailing edge of the product as the product advances along an in-feed conveyor, or is positioned on an in-feed conveyor. The sensor should be able to make such identification for products ranging from thin cuts of veal to thick cuts of fresh red meat to cheese blocks, and should be able to make such identification through clear, printed, and colored bags. Many of these cuts will incorporate odd shapes and profiles. The sensor should also be able to withstand the harsh production environments in meat and cheese packaging plants. The overall cost of the product detection system must be considered as well.</p>
+<p id="p-0011" num="0010">The present invention provides a method for positioning an unsealed loaded bag in a vacuum chamber. The invention enables the sealing of the upstream end of a polymeric bag having therein a product, such as an irregularly shaped meat product, while the loaded bag is in a vacuum chamber, in a manner that provides a bag tail of consistently suitable length.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0012" num="0011">In a first aspect, a method of positioning a loaded bag in a vacuum chamber comprises</p>
+<p id="p-0013" num="0012">loading a flexible polymeric bag by placing a product in the flexible polymeric bag, the bag made from a material that is transparent to infra-red radiation, and wherein the polymeric bag has at an upstream end thereof a bag mouth;</p>
+<p id="p-0014" num="0013">placing the loaded bag on an infeed conveyor that is transparent to infrared radiation;</p>
+<p id="p-0015" num="0014">advancing the loaded bag, on the infeed conveyor, to a sensing apparatus comprising an infrared camera disposed above the conveyor, and a bank of light emitting diodes disposed below the conveyor;</p>
+<p id="p-0016" num="0015">interrogating the bank of light emitting diodes, through the loaded bag, using the sensing apparatus, with infrared radiation to detect the trailing edge of the product inside the loaded bag;</p>
+<p id="p-0017" num="0016">transmitting information acquired from the interrogating step to a programmable logic controller;</p>
+<p id="p-0018" num="0017">advancing the interrogated loaded bag a distance, based in the information acquired from the interrogating step, to a vacuum chamber comprising a heat seal assembly; and</p>
+<p id="p-0019" num="0018">heat sealing the loaded bag with the heat seal assembly to close the bag mouth.</p>
+<p id="p-0020" num="0019">In one embodiment, the method as described above comprises heat sealing the loaded bag such that the distance between the heat seal and the trailing edge of the product is less than 1.5 inches.</p>
+<p id="p-0021" num="0020">In another embodiment, the method as described above comprises heat sealing the loaded bag such that the distance between the heat seal and the trailing edge of the product is less than 1 inch.</p>
+<p id="p-0022" num="0021">In another embodiment, the method of positioning a loaded bag in a vacuum chamber as described above is performed in combination with a method of vacuum sealing a loaded bag, the method comprising providing a vacuum packaging machine having a plurality of vacuum chambers, each of the vacuum chambers being arranged to receive an unsealed loaded bag and operable to perform a vacuum sealing operation on the loaded bag, each vacuum chamber having a longitudinal direction defined by a path of travel of the respective loaded bag through the chamber, each vacuum chamber having a heat seal assembly for forming a heat seal across a bag mouth of a respective loaded bag, the heat seal disposed transversely to said longitudinal direction; feeding an unsealed loaded bag into one of the vacuum chambers, such that the bag mouth of the loaded bag is located over a portion of the heat seal assembly; and performing a vacuum sealing operation on a loaded bag in another one of the vacuum chambers.</p>
+<p id="p-0023" num="0022">In another embodiment, the method of positioning a loaded bag in a vacuum chamber as described above includes the step of placing a meat product in a flexible polymeric bag, wherein the meat product has an irregular shape.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0024" num="0023">Embodiments of the present invention will now be described with reference to the accompanying figures, in which:</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 1</figref> is a perspective view of a prior art vacuum packaging machine;</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 2</figref> shows a side elevational view of a prior art vacuum packaging machine;</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 3</figref> is a view of the interior of a prior art vacuum chamber, showing a sealing assembly;</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 4</figref> is a perspective view of the upper interior of a vacuum chamber, showing the details of the upper part of the sealing assembly of <figref idref="DRAWINGS">FIG. 3</figref>;</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 5</figref> is a view of the lower part of a vacuum chamber, showing details of a lower part of the sealing assembly of <figref idref="DRAWINGS">FIG. 3</figref>;</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 6</figref> is a perspective view of the lower part of the sealing assembly of <figref idref="DRAWINGS">FIG. 3</figref>;</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. 7</figref> shows schematic side elevational view of an apparatus for use in connection with the method of the invention;</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. 8</figref> shows a simplified end elevational view of an apparatus for use in connection with the method of the invention; and</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. 9</figref> shows a simplified overhead view of the apparatus of <figref idref="DRAWINGS">FIG. 8</figref>.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0034" num="0033">With reference to <figref idref="DRAWINGS">FIGS. 1 and 2</figref>, an embodiment of a vacuum packaging machine suitable for use in connection with the present invention is indicated generally by reference numeral <b>1</b>. The vacuum packaging machine includes upper and lower vertically stacked vacuum chambers <b>3</b><i>a</i>,<b>3</b><i>b</i>, which are vertically moveably mounted between columns <b>5</b>. Mounted adjacent the tops of the columns <b>5</b> is a drive mechanism <b>7</b> for the vacuum chambers <b>3</b><i>a</i>, <b>3</b><i>b. </i></p>
+<p id="p-0035" num="0034">An electronic control system <b>8</b> controls operation of the machine <b>1</b>, and a keypad/monitor <b>10</b> is provided to enable a user to program the control system.</p>
+<p id="p-0036" num="0035">Each vacuum chamber <b>3</b><i>a</i>, <b>3</b><i>b </i>includes a bed <b>9</b> and a chamber hood <b>11</b>. The beds <b>9</b> are synchronously vertically movably mounted between the columns <b>5</b>, and each chamber hood <b>11</b> is vertically moveable relative to the respective bed <b>9</b>. The chamber hoods <b>11</b> are moved via any suitable motive device, e.g. pneumatic rams, hydraulic rams or mechanical drive devices.</p>
+<p id="p-0037" num="0036">Each vacuum chamber has a sealing assembly <b>15</b> therein, described below with reference to <figref idref="DRAWINGS">FIGS. 3 to 6</figref>. The bed <b>9</b> of each vacuum chamber includes an internal conveyor <b>13</b> to convey packaged product out of the chamber after it has been vacuum sealed, the direction of travel of the conveyor <b>13</b> defining a longitudinal direction of the vacuum chamber.</p>
+<p id="p-0038" num="0037">A conveyor arrangement is provided to feed/unload loaded bags to/from the vacuum chambers. The conveyor arrangement includes an infeed conveyor <b>17</b> to feed loaded bags into the vacuum chambers. An optional outfeed conveyor (not shown) is also provided to remove a sealed loaded bag from the machine following sealing.</p>
+<p id="p-0039" num="0038">The vacuum chambers are moveable together between a lower position (shown in <figref idref="DRAWINGS">FIGS. 1 and 2</figref>) wherein the upper chamber <b>3</b><i>a </i>is adjacent the infeed conveyor <b>17</b> for feeding and unloading, and an upper position (not shown) wherein the bed of the lower chamber <b>3</b><i>b </i>is adjacent the infeed conveyor <b>17</b> for feeding and unloading. While one of the vacuum chambers is in the feeding/unloading position, the other chamber is in an operating position to perform a vacuum sealing operation on the loaded bag contained therein. Therefore, the operating position for the upper vacuum chamber <b>3</b><i>a </i>is above the level of the infeed conveyor, while the operating position for the lower vacuum chamber <b>3</b><i>b </i>is below the level of the infeed conveyor.</p>
+<p id="p-0040" num="0039">As can be seen from <figref idref="DRAWINGS">FIGS. 3 to 6</figref>, the sealing assembly <b>15</b> in each vacuum chamber includes an upper part <b>15</b><i>a </i>and a lower part <b>15</b><i>b</i>. The sealing assembly <b>15</b> extends transversely to the longitudinal direction of the vacuum chamber, and therefore to the direction of travel of loaded bags through the chamber. This enables the loaded bag to be delivered to the vacuum chamber with its unsealed portion trailing, which is the orientation in which the loaded bag would exit from prior bagging/wrapping stations.</p>
+<p id="p-0041" num="0040">The upper part <b>15</b><i>a </i>of the sealing assembly includes a pair of upper spreaders <b>19</b><i>a</i>, a heat seal anvil <b>21</b>, a puncturing device having a plurality of piercing knives (not shown), and a clamping device <b>23</b> having a series of clamping pins <b>25</b>. The lower part <b>15</b><i>b </i>of the seal assembly includes a pair of lower spreaders <b>19</b><i>b </i>which are complementary to the pair of upper spreaders <b>19</b><i>a</i>, a heat seal bar <b>27</b>, and a lower clamp bar <b>29</b>. It will be appreciated that the anvil could be provided in the lower part <b>15</b><i>b </i>of the seal assembly, with the heat seal bar provided in the upper part <b>15</b><i>a </i>of the seal assembly.</p>
+<p id="p-0042" num="0041">In this embodiment, the spreading operation is as follows. The spreaders <b>19</b><i>a</i>, <b>19</b><i>b </i>are operable to grip and spread the unsealed part of the loaded bag prior to heat sealing. As will be apparent from the Figures, as the upper <b>19</b><i>a </i>and lower <b>19</b><i>b </i>spreaders are brought together, they move outwardly by virtue of the angled slots <b>20</b><i>a </i>and pins <b>20</b><i>b </i>extending therethrough. The spreaders function in a similar way to those described in U.S. Pat. No. 6,877,543 (Stevens), incorporated herein by reference in its entirety.</p>
+<p id="p-0043" num="0042">The clamping pins <b>25</b> and lower clamp bar <b>29</b> (which would generally be made from a resilient material such as rubber) maintain the unsealed portion of the package in the spread configuration, and provide tension on the loaded bag such that it can be pierced. When the puncturing device is actuated, the knives (not shown) pierce the package. The puncturing device forms small apertures in the loaded bag. During feeding of the loaded bag into the vacuum chamber, it is feasible that the trailing unsealed portion of the loaded bag may be located such that it will be clamped under the end wall of the vacuum chamber hood <b>11</b> when it is closed. The apertures formed by the puncturing device ensure that any air in the loaded bag may still be evacuated if this should occur.</p>
+<p id="p-0044" num="0043">The heat seal anvil <b>21</b> is operable to push against the heat seal bar <b>27</b> with the unsealed portion of the loaded bag therebetween, applying a current to the heat seal bar and sealing the loaded bag.</p>
+<p id="p-0045" num="0044">Although not shown in the Figures, a suitable cutting device is provided to cut the loaded bag between the heat seal bar <b>27</b> and the puncturing device. An example of a cutting device is a serrated knife, which is arranged to move downwards from above to shear the loaded bag.</p>
+<p id="p-0046" num="0045">The belt of the conveyor <b>13</b> extends under the lower part of the seal assembly <b>15</b><i>b</i>, and around the outer ends of the bed <b>9</b> of the vacuum chamber. For this purpose, the undersurface of the conveyor belt comprises a smooth surface (relative to a conventional cloth surface), for example a smooth elasticized surface, such that the vacuum chamber can seal over the belt.</p>
+<p id="p-0047" num="0046">In order to deliver the loaded bag over the lower part <b>15</b><i>b </i>of the seal assembly, the infeed conveyor <b>17</b> has in one embodiment a telescoping portion <b>17</b><i>a</i>. During feeding the loaded bag into an open vacuum chamber, the telescoping portion <b>17</b><i>a </i>extends over the lower part <b>15</b><i>b </i>of the seal assembly, and is operated to drop the body of the loaded bag onto the conveyor <b>13</b> on the bed <b>9</b> of the vacuum chamber. The trailing unsealed portion of the loaded bag will remain located on the telescoping portion <b>17</b><i>a </i>of the infeed conveyor. As the telescoping portion <b>17</b><i>a </i>is retracted away from the vacuum chamber so that the vacuum chamber can be moved and closed, the trailing unsealed portion of the loaded bag will drop onto the lower part <b>15</b><i>b </i>of the seal assembly, so that the unsealed portion can be spread and sealed. The seal assembly <b>15</b> is relatively low profile to minimize the product drop distance as the telescoping portion <b>17</b><i>a </i>of the conveyor is extended into the vacuum chamber.</p>
+<p id="p-0048" num="0047"><figref idref="DRAWINGS">FIG. 7</figref> shows a schematic view of an apparatus <b>30</b> for use in carrying out the method of the invention. The apparatus <b>30</b> includes an infeed conveyor <b>17</b> having a conveyor belt <b>32</b>, a bank of light emitting diodes (LED's) <b>34</b> positioned beneath conveyor belt <b>32</b>, and infrared (IR) camera <b>36</b>, an infrared filter <b>38</b>, and a camera lens <b>40</b>. The camera, LED's, filter and lens together comprise a sensing apparatus <b>41</b>. The IR camera lens <b>40</b> is in one embodiment positioned vertically above the bank of light emitting diodes <b>34</b>. An unsealed bag <b>42</b> is shown, loaded with a meat product <b>46</b> to form an unsealed loaded bag <b>43</b>. The unsealed loaded bag <b>43</b> is in one embodiment advanced on infeed conveyor <b>17</b> described hereinabove.</p>
+<p id="p-0049" num="0048">A commercial example of a conveyor belt <b>32</b> useful in connection with the present invention is the VOLTA&#x2122; FELW-2.0 available from Ammerall Beltech, Inc. In one embodiment, the belt is a homogeneous urethane belt. The belt is routed around the conveyor platen <b>44</b> by end rollers <b>45</b>, at least one of which is motor driven. The conveyor platen <b>44</b> houses the bank of LED's <b>34</b>. The bank of LED's <b>34</b> includes four sets of infrared lights. A commercial example of LED's is the LEDIA80X80W&#x2122; available from Banner Engineering Corp. 9714 Tenth Avenue North, Minneapolis, Minn., USA 55441.</p>
+<p id="p-0050" num="0049">The IR camera is mounted at a sufficient height, in one embodiment 20 inches above the conveyor belt <b>32</b>, to view the necessary viewing area in conjunction with the appropriate light filter <b>38</b> and camera lens <b>40</b>. A commercial example of an IR camera is PRESENCEPLUS&#x2122; P4AR. A commercial example of an IR filter is FLT1&#x2122;. A commercial example of a lens is LCF04&#x2122; P4AR. All three are available from Banner Engineering Corp. The IR camera can be mounted at any suitable height above the conveyor belt <b>32</b>, e.g. from 5 inches to 30 inches, 10 to 25 inches, or 15 to 20 inches above conveyor belt <b>32</b>. The lower limit will be dictated at least in part by the height of the product being packaged, the upper limit by the capabilities of the camera, and the overall packaging environment in which the sensing apparatus is located.</p>
+<p id="p-0051" num="0050"><figref idref="DRAWINGS">FIG. 8</figref> shows the apparatus <b>30</b> when viewed from upstream of the infeed conveyor <b>17</b>, looking downstream toward a vacuum chamber.</p>
+<p id="p-0052" num="0051"><figref idref="DRAWINGS">FIG. 9</figref> is an essentially overhead view of conveyor belt <b>32</b>, and components of sensing apparatus <b>41</b>. In these Figures, the movement of conveyor belt <b>32</b> is in normal operation in the direction shown by the arrows. In <figref idref="DRAWINGS">FIG. 8</figref>, camera <b>36</b> is mounted on a vertical bracket <b>57</b>, which is mounted to horizontal member <b>55</b>, supported by vertical posts <b>56</b> attached to respective sides of the frame of conveyor <b>17</b>.</p>
+<p id="h-0006" num="0000">Method of Operation</p>
+<p id="p-0053" num="0052">In one embodiment, the vacuum packaging machine <b>1</b> would be located downstream from a manual, semi-automatic, or fully automatic bagging machine. A fixed input conveyor (not shown) would deliver unsealed loaded bags to the infeed conveyor <b>17</b>, the loaded bags being oriented such that the unsealed portion of each loaded bag is trailing. In one embodiment, the product is a meat cut.</p>
+<p id="p-0054" num="0053">For the purpose of explanation, presume that the lower vacuum chamber <b>3</b><i>b </i>is in the lower operative position and is presently vacuum sealing a loaded bag therein, and the upper vacuum chamber <b>3</b><i>a </i>is open and adjacent the infeed conveyor <b>17</b>, ready to receive a loaded bag.</p>
+<p id="p-0055" num="0054">The infeed conveyor <b>17</b> activated to place a loaded bag onto the conveyor <b>13</b> on the bed of the vacuum chamber <b>3</b><i>a</i>. The trailing unsealed portion of the loaded bag falls onto the lower part of the seal assembly.</p>
+<p id="p-0056" num="0055">Sensing apparatus <b>41</b> detects the trailing edge of the product <b>46</b> in the unsealed loaded bag <b>43</b> as it passes a point on the conveyor <b>17</b> where it is located between the overhead camera <b>36</b> and the LED's <b>34</b> positioned beneath conveyor <b>17</b>. As the trailing edge <b>49</b> of product <b>46</b> passes the interrogating view of the IR camera and LED's, the infrared light from the LED's comes into view of the interrogating IR camera. At this point, the IR camera effectively detects the trailing edge of the product, and this is communicated to the other parts of the system to trigger the controlled advance of the bagged product to the seal assembly in the vacuum chamber.</p>
+<p id="p-0057" num="0056">The trailing edge of the product is determined by an internal algorithm in the camera, which converts the IR image that the camera receives to a gray-scale value. The gray-scale value is based on a rectangular field of view as defined by the user for each unique application. The algorithm looks for the percentage of the gray-scale value to fall below a certain number, which indicates that the trailing edge has been captured within the field of view. Once the camera has detected the trailing edge, an output is turned on by the camera and communicated to a programmable logic controller (PLC). The PLC then continues to power the infeed conveyor, via a suitable motive device such as a drive motor on the infeed conveyor, until it is determined that the trailing edge of the product in the loaded bag is in the required position inside the vacuum chamber. The determination of the time required to properly position the loaded bag in the vacuum chamber can be done by any suitable means, such as with timers (knowing the speed of the conveyor and the distance of travel required), or by using encoder pulses on the drive motor to track the distance traveled after the trailing edge is captured, knowing the equivalent distance of linear travel per pulse from the encoder.</p>
+<p id="p-0058" num="0057">The unsealed loaded bag is thus advanced downstream along conveyor <b>17</b> and placed inside the open vacuum chamber to a position where the trailing edge <b>49</b> of the product inside the loaded bag <b>43</b> lies just beyond (i.e. downstream of) the seal assembly <b>15</b>.</p>
+<p id="p-0059" num="0058">The hood <b>11</b> of the upper vacuum chamber <b>3</b><i>a </i>can then be closed. The chambers will move to their upper positions, and the lower chamber <b>3</b><i>b </i>will be fully depressurized, the chamber then being opened and the packaged product unloaded while the new loaded bag is simultaneously loaded.</p>
+<p id="p-0060" num="0059">In the upper vacuum chamber <b>3</b><i>a</i>, the unsealed portion of the loaded bag is spread by the spreading system. The puncturing device is then actuated, such that knives pierce the unsealed portion of the loaded bag while the clamping pins <b>25</b> hold it in the spread configuration against the lower clamp bar <b>29</b>. The spreader bars <b>19</b> are then released, and the vacuum chamber <b>3</b><i>a </i>is evacuated.</p>
+<p id="p-0061" num="0060">The heat seal anvil <b>21</b> then pushes against the heat seal bar <b>27</b>, heat sealing the package therebetween. The cutting device then shears the scrap portion of the loaded bag between the heat seal bar <b>27</b> and the puncturing device. The anvil <b>21</b> is then moved away from the heat seal bar <b>27</b>. When the chamber moves to the unloading position and opens, the sealed loaded bag will be released. The air curtain and suction are then actuated to remove the scrap from the vacuum chamber.</p>
+<p id="p-0062" num="0061">In the meantime, the lower vacuum chamber <b>3</b><i>b </i>will have already been loaded with a further unsealed loaded bag. The cycle repeats, with the vacuum chambers moving to their lower positions such that the lower chamber is in the operative position and the upper chamber is in the unloading position.</p>
+<p id="p-0063" num="0062">A commercial example of a conveyor belt <b>32</b> is the VOLTA&#x2122; FELW-2.0 available from Ammerall Beltech, Inc. In one embodiment, the belt is a homogeneous urethane belt. The belt is routed around the conveyor platen <b>44</b>. The conveyor platen <b>44</b> houses the bank of LED's <b>34</b>. The bank of LED's <b>34</b> includes four sets of infrared lights. A commercial example of LED's is the LEDIA80X80Wm available from Banner Engineering Corp. 9714 Tenth Avenue North, Minneapolis, Minn., USA 55441.</p>
+<p id="p-0064" num="0063">The IR camera is mounted at a sufficient height, in one embodiment 20 inches above the conveyor belt <b>32</b>, to view the necessary viewing area in conjunction with the appropriate light filter <b>38</b> and camera lens <b>40</b>. A commercial example of an IR camera is PRESENCEPLUS&#x2122; P4AR. A commercial example of an IR filter is FLT1&#x2122;. A commercial example of a lens is LCF04&#x2122; P4AR. All three are available from Banner Engineering Corp.</p>
+<heading id="h-0007" level="1">Examples/Testing</heading>
+<heading id="h-0008" level="1">Test No. 1</heading>
+<p id="p-0065" num="0064">Testing was done on a product handling conveyor driven by a three phase AC motor (3450 rpm) coupled to a 10:1 gearbox controlled by a Yaskawa V7&#x2122; VFD in open loop vector mode. The components used were:</p>
+<p id="p-0066" num="0065">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="119pt" align="left"/>
+<colspec colname="2" colwidth="84pt" align="left"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Component</entry>
+<entry>Part No.</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Yaskawa V7&#x2009;&#x2122; drive</entry>
+<entry>CIMR-V7AM40P4&#x2009;&#x2122;</entry>
+</row>
+<row>
+<entry/>
+<entry>Banner VISION SENSOR&#x2009;&#x2122;</entry>
+<entry>P4AR&#x2009;&#x2122;</entry>
+</row>
+<row>
+<entry/>
+<entry>Banner IR light</entry>
+<entry>LEDIA80X80W&#x2009;&#x2122;</entry>
+</row>
+<row>
+<entry/>
+<entry>Banner IR filter</entry>
+<entry>FLT1&#x2009;&#x2122;</entry>
+</row>
+<row>
+<entry/>
+<entry>Banner 4 mm lens</entry>
+<entry>LCF04&#x2009;&#x2122;</entry>
+</row>
+<row>
+<entry/>
+<entry>Banner Register Mark Sensor</entry>
+<entry>R58E&#x2009;&#x2122;</entry>
+</row>
+<row>
+<entry/>
+<entry>Banner T18&#x2009;&#x2122; series emitter/receiver</entry>
+<entry>T18EQ/T18SP6RQ&#x2009;&#x2122;</entry>
+</row>
+<row>
+<entry/>
+<entry>MicroLogix 1500&#x2009;&#x2122;</entry>
+<entry>1764-LRP&#x2009;&#x2122;</entry>
+</row>
+<row>
+<entry/>
+<entry>High Speed Counter Module</entry>
+<entry>1769-HSC&#x2009;&#x2122;</entry>
+</row>
+<row>
+<entry/>
+<entry>Output Module</entry>
+<entry>1769-OB16&#x2009;&#x2122;</entry>
+</row>
+<row>
+<entry/>
+<entry>Volta urethane white belt</entry>
+<entry>FELW-2.0&#x2009;&#x2122;</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0067" num="0066">This test used the vision sensor to detect the trailing (upstream) edge of the meat product and stop the conveyor after a fixed time delay that the placed the product under a laser line for measurement. The conveyor speed was set to 1 meter/second with an S-curve accelerate/decelerate of 0.4 seconds. The stop command for the drive was controlled from the High Speed Counter Module. The belt was a food-grade white urethane belt from Volta. The infrared LED lighting was placed under the belt directly beneath the vision sensor to enable the vision sensor when product was present. (see <figref idref="DRAWINGS">FIGS. 8 and 9</figref>). The vision sensor was placed vertically looking down at the conveyor. The Volta belt was transparent to the IR light, allowing the vision sensor to detect the trailing edge of the meat product. The meat product, on the other hand, blocks the IR light, leaving a silhouette of the meat product visible to the sensor.</p>
+<p id="p-0068" num="0067">The system was tested using twelve bag/product combinations. B1 was a printed bag with dimensions of 12&#x2033;&#xd7;20&#x2033;. B2 was a clear bag with dimensions of 13.5&#x2033;&#xd7;21&#x2033;. B3 was a printed bag with dimensions of 12&#x2033;&#xd7;22&#x2033;. B4 was a bag with dimensions of 14&#x2033;&#xd7;24&#x2033;. P1 through P4 represent various meat products/meat cuts. P1 had the dimensions 17&#x2033; long&#xd7;9&#x2033; wide&#xd7;4.38&#x2033; high. P2 had the dimensions 12.5&#x2033; long&#xd7;8.38&#x2033; wide&#xd7;6.38&#x2033; high. P3 had the dimensions 9.5&#x2033; long&#xd7;7.5&#x2033; wide&#xd7;5.5&#x2033; high. P4 had the dimensions 9&#x2033; long&#xd7;4.88&#x2033; wide&#xd7;5.5&#x2033; high. Thirty samples of each bag/product combination were recorded. The standard deviation and error were calculated from this data. The result was that the error for the entire population was 0.655 inches, or 16.63 mm.</p>
+<heading id="h-0009" level="1">Test No. 2</heading>
+<p id="p-0069" num="0068">Incorporating an equipment arrangement like that for Test No. 1, an IR camera with a bank of small LED lights was arranged in a vertical fashion to sense the product profile. The LED's were placed below in the infeed conveyor frame underneath a conveyor belt that is transparent to the IR light spectrum.</p>
+<p id="p-0070" num="0069">The product detection test involved seven (7) different bag types, using two (2) different products. The product detection system was able to recognize product through all seven bag samples. However, the product detection system required two different system settings, one for standard bags and one for dark colored bags. The standard setting applied a typical gain and exposure time, while the dark bag setting involved a high gain and exposure time. The following table summarizes the results of the product detection test.</p>
+<p id="p-0071" num="0070">The test utilized the following components:</p>
+<p id="p-0072" num="0071">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="offset" colwidth="28pt" align="left"/>
+<colspec colname="1" colwidth="105pt" align="left"/>
+<colspec colname="2" colwidth="84pt" align="left"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Item</entry>
+<entry>Part Number</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Banner Vision Sensor</entry>
+<entry>P4AR</entry>
+</row>
+<row>
+<entry/>
+<entry>Banner IR Light (x4)</entry>
+<entry>LEDIA80X80W</entry>
+</row>
+<row>
+<entry/>
+<entry>Banner 4 mm Lens</entry>
+<entry>LCF04</entry>
+</row>
+<row>
+<entry/>
+<entry>Banner I/O Cable</entry>
+<entry>P4C23</entry>
+</row>
+<row>
+<entry/>
+<entry>Banner IP67 Enclosure</entry>
+<entry>P4RE67-P</entry>
+</row>
+<row>
+<entry/>
+<entry>Custom Encl. for IR Lights</entry>
+</row>
+<row>
+<entry/>
+<entry>Volta Conveyor Belt</entry>
+<entry>FELW-2.0</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="2" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0073" num="0072">The test involved running product underneath the product detection sensor and ascertaining if the sensor would correctly identify the end of the product through the bag and typical wrinkles.</p>
+<p id="p-0074" num="0073">As stated previously the two different IR camera system settings involved the gain and the exposure time. Both parameters had to be increased to identify product through the dark colored bag. With the increased values for gain and exposure time the camera's optics passed through the lighter colored bags as if they were completely transparent.</p>
+<p id="p-0075" num="0074">The test involved simply running the different bag/product combinations through the camera field and determining whether the camera's software could recognize the end of the product.</p>
+<p id="p-0076" num="0075">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="98pt" align="left"/>
+<colspec colname="2" colwidth="49pt" align="left"/>
+<colspec colname="3" colwidth="56pt" align="left"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry>Bag</entry>
+<entry>Setting 1</entry>
+<entry>Setting 2</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Clear Bag</entry>
+<entry>Yes</entry>
+<entry>no</entry>
+</row>
+<row>
+<entry/>
+<entry>Boneguard Bag</entry>
+<entry>Yes</entry>
+<entry>no</entry>
+</row>
+<row>
+<entry/>
+<entry>Small Printed Bag</entry>
+<entry>Yes</entry>
+<entry>no</entry>
+</row>
+<row>
+<entry/>
+<entry>Large Printed Bag</entry>
+<entry>Yes</entry>
+<entry>no</entry>
+</row>
+<row>
+<entry/>
+<entry>Red Colored Bag</entry>
+<entry>Yes</entry>
+<entry>no</entry>
+</row>
+<row>
+<entry/>
+<entry>Gold Metallic Colored Bag</entry>
+<entry>Yes</entry>
+<entry>no</entry>
+</row>
+<row>
+<entry/>
+<entry>Black Colored Bag</entry>
+<entry>No</entry>
+<entry>yes</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<heading id="h-0010" level="1">Test No. 3</heading>
+<p id="p-0077" num="0076">Incorporating an equipment arrangement like that for Test Nos. 1 and 2, product placement accuracy was tested for 20 to 30 pound chuck rolls. The results are shown in the following table. The left-hand column shows the speed of the conveyor; the middle column shows the number of samples, out of the total samples run, that placed within plus or minus 50 mm of the target position of the bagged meat product; and the right-hand column shows the number of samples, out of the total samples run, that placed within plus or minus 25 mm of the target position of the bagged meat product. For example, of 101 loaded bags run on the conveyor at 750 millimeters/second, 101 placed within 50 mm of the target position.</p>
+<p id="p-0078" num="0077">
+<tables id="TABLE-US-00004" num="00004">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="3">
+<colspec colname="1" colwidth="105pt" align="center"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="77pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Velocity of conveyor</entry>
+<entry>+/&#x2212;50 mm</entry>
+<entry>+/&#x2212;25 mm</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>500 mm/second</entry>
+<entry>100/100</entry>
+<entry>100/100</entry>
+</row>
+<row>
+<entry>750 mm/second</entry>
+<entry>101/101</entry>
+<entry>100/100</entry>
+</row>
+<row>
+<entry>1000 mm/second&#x2002;</entry>
+<entry>101/101</entry>
+<entry>&#x2002;98/100</entry>
+</row>
+<row>
+<entry namest="1" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0079" num="0078">Any suitable bag formulations, especially those made from thermoplastic films such as olefinic films with or without oxygen barrier functionality, can be used with benefit in this invention. These films are made by extrusion coating, coextrusion, lamination, or other suitable processes. Especially preferred for many applications are films comprising an outer layer, an intermediate layer, and an inner layer. The materials of the outer layer are often chosen for abuse resistance and/or sealability, and can be chosen from any suitable polymeric materials such as polyolefins, especially ethylenic polymers and copolymers, polypropylene, polyesters, polyamides, and the like. The inner layer materials, often chosen for sealability, can be any of the materials described for the outer layer. The intermediate layer materials are often chosen for their barrier qualities (i.e. barriers to oxygen, moisture, carbon dioxide, etc.). Preferred materials include polyvinylidene chloride polymers and copolymers, ethylene vinyl alcohol copolymer, polyvinyl alcohol, polyamide, polyester, acrylonitrile, and the like. Bags are in one embodiment heat shrinkable, and in one embodiment at least partially crosslinked.</p>
+<p id="p-0080" num="0079">&#x201c;Loaded&#x201d; herein refers to a bag in which a product, such as a meat product, has been placed manually, mechanically, or otherwise. &#x201c;Loaded&#x201d; does not necessarily mean &#x201c;filled&#x201d;, as conventional bagged meat packages can have some empty voids or spaces within the bag interior even after loading the bag.</p>
+<p id="p-0081" num="0080">Although the invention has been described primarily with respect to meat products, those skilled in the art will understand, after a review of this disclosure, that the invention can be used with benefit for packaging other products as well, both food products such as cheese, and non-food products.</p>
+<heading id="h-0011" level="1">TASVAC Embodiments</heading>
+<p id="p-0082" num="0081">With respect to embodiments where the present invention is used in conjunction with packaging systems similar to the TASVAC system described above, having a transverse heat seal assembly in each vacuum chamber enables the loaded bags to be loaded into each chamber with their openings transverse to the longitudinal direction. This orientation corresponds to the orientation of the packages as they exit most manual bagging stations or automatic packaging systems, which would generally be upstream of the vacuum packaging machine.</p>
+<p id="p-0083" num="0082">The heat seal assembly in each vacuum chamber can include a heat seal bar. Additionally, each heat seal assembly may include a heat seal anvil.</p>
+<p id="p-0084" num="0083">The machine may include vacuum chambers which are arranged generally vertically one above each other The machine can be configured to operate one of the vacuum chambers to perform the vacuum sealing operation while another of the vacuum chambers is open for feeding and unloading of loaded bag(s).</p>
+<p id="p-0085" num="0084">The vacuum packaging machine may include or be in combination with a conveyor arrangement configured to feed and/or unload loaded bags to and/or from the vacuum chambers.</p>
+<p id="p-0086" num="0085">The conveyor arrangement suitably includes at least one infeed conveyor operable to feed to a selected vacuum chamber at least one loaded bag. The heat seal assembly in each vacuum chamber can be located at or adjacent the end of the chamber adjacent the infeed conveyor(s), and the infeed conveyor(s) is/are configured to feed the loaded bag(s) into the chamber with the unsealed portion(s) of the package(s) trailing. The infeed conveyor(s) may have a telescoping portion which is operable to telescope over the heat seal assembly or a part of the heat seal assembly in a vacuum chamber to feed the loaded bag(s) into the vacuum chamber such that an unsealed portion of the loaded bag(s) is located over the heat seal assembly or part thereof, and to then retract from the chamber to allow the chamber to close to perform the vacuum sealing operation.</p>
+<p id="p-0087" num="0086">The infeed conveyor(s) can be moveable relative to the vacuum chambers to enable selective feeding of loaded bags into more than one chamber. Alternatively, the vacuum chambers may be moveable relative to the infeed conveyor(s) to enable selective feeding of more than one chamber.</p>
+<p id="p-0088" num="0087">Each vacuum chamber can include an internal conveyor, which is moveable in the longitudinal direction of the vacuum chamber to expel the product package(s) from the vacuum chamber following a vacuum sealing operation. A portion of the internal conveyor may extend under the heat seal assembly or a part of the heat seal assembly in each vacuum chamber. The vacuum chambers can each include a vacuum chamber hood and wherein a portion of the internal conveyor in each vacuum chamber extends under the vacuum chamber hood thereof.</p>
+<p id="p-0089" num="0088">The heat seal assembly or a part thereof may be retractable to enable loaded bags to be moved past the heat seal assembly on the internal conveyor, and the telescoping conveyor may be substantially vertically aligned with the internal chamber conveyor in a loaded bag feeding configuration.</p>
+<p id="p-0090" num="0089">The conveyor arrangement can include at least one outfeed conveyor operable to unload the loaded bag(s) from a selected vacuum chamber. The vacuum chambers may be moveable relative to the outfeed conveyor(s) to enable selective unloading of more than one chamber.</p>
+<p id="p-0091" num="0090">The conveyor arrangement can be operable to substantially simultaneously load an unsealed loaded bag into a selected vacuum chamber and unload another recently-sealed loaded bag from the selected vacuum chamber.</p>
+<p id="p-0092" num="0091">The machine can include two vertically-stacked vacuum chambers, an infeed conveyor and an outfeed conveyor, the vacuum chambers being synchronously vertically moveable between a feeding/unloading position adjacent and between the infeed and outfeed conveyor and an operating position spaced from the infeed and outfeed conveyor, the machine being operable such that as one vacuum chamber is performing the vacuum sealing operation, the other vacuum chamber is open for feeding/unloading.</p>
+<p id="p-0093" num="0092">The machine can further include a puncturing device which is operable to puncture at least one aperture in the loaded bag(s) adjacent the heat seal assembly, so that as each vacuum sealing operation occurs, air is forced out of the package through the punctured aperture(s) prior to heat sealing. The puncturing device may comprise a plurality of piercing knives.</p>
+<p id="p-0094" num="0093">The sealing mechanism may be part of a wrapping or bagging machine.</p>
+<p id="p-0095" num="0094">In one embodiment, the heat seal assembly can include a clamping device and the vacuum sealing operation includes clamping the unsealed part(s) of the loaded bag(s) prior to evacuation and heat sealing.</p>
+<p id="p-0096" num="0095">In one embodiment, the machine can include a cutting device arranged to cut the loaded bag(s) between the heat seal assembly and the puncturing device, and the vacuum sealing operation can include cutting the package(s) following evacuation and heat sealing.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A method of positioning a loaded bag in a vacuum chamber comprising
+<claim-text>a) loading a flexible polymeric bag by placing a meat or cheese product in the flexible polymeric bag, the bag made from a material that is transparent to infrared radiation, and wherein the polymeric bag has at an upstream end thereof a bag mouth;</claim-text>
+<claim-text>b) placing the loaded bag on an infeed conveyor that is transparent to infrared radiation;</claim-text>
+<claim-text>c) advancing the loaded bag, on the infeed conveyor, to a sensing apparatus comprising an infrared camera disposed above the conveyor, and a bank of light emitting diodes disposed below the conveyor;</claim-text>
+<claim-text>d) interrogating the bank of light emitting diodes, through the loaded bag, using the sensing apparatus, with infrared radiation to detect the trailing edge of the meat or cheese product inside the loaded bag;</claim-text>
+<claim-text>e) transmitting information acquired from the interrogating step to a programmable logic controller;</claim-text>
+<claim-text>f) advancing the interrogated loaded bag a distance, based in the information acquired from the interrogating step, to a vacuum chamber comprising a heat seal assembly; and</claim-text>
+<claim-text>g) heat sealing the loaded bag with the heat seal assembly to close the bag mouth.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the method comprises heat sealing the loaded bag such that the distance between the heat seal and the trailing edge of the meat or cheese product is less than 1.5 inches.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the method comprises heat sealing the loaded bag such that the distance between the heat seal and the trailing edge of the meat or cheese product is less than 1 inch.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the method is performed in combination with a method of vacuum sealing a loaded bag, the method comprising providing a vacuum packaging machine having a plurality of vacuum chambers, each of the vacuum chambers being arranged to receive an unsealed loaded bag and operable to perform a vacuum sealing operation on the loaded bag, each vacuum chamber having a longitudinal direction defined by a path of travel of the respective loaded bag through the chamber, each vacuum chamber having a heat seal assembly for forming a heat seal across a bag mouth of a respective loaded bag, the heat seal disposed transversely to said longitudinal direction; feeding an unsealed loaded bag into one of the vacuum chambers, such that the bag mouth of the loaded bag is located over a portion of the heat seal assembly; and performing a vacuum sealing operation on a loaded bag in another one of the vacuum chambers.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the meat or cheese product comprises a meat product with an irregular shape.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the heat seal assembly in the vacuum chamber is located at or adjacent the end of the chamber adjacent the infeed conveyor, and the infeed conveyor is configured to load the respective loaded bag into the chamber with the unsealed portion of the package trailing.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The vacuum packaging machine of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the infeed conveyor has a telescoping portion operable to telescope over a portion of the heat seal assembly in the vacuum chamber to load the loaded bag into the vacuum chamber such that an unsealed portion of the loaded bag is located over a portion of the heat seal assembly, and to then retract from the chamber to allow the chamber to close to perform the vacuum sealing operation.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The method of <claim-ref idref="CLM-00004">claim 4</claim-ref> wherein the plurality of vacuum chambers are moveable relative to the infeed conveyor to enable selective feeding of loaded bags into more than one chamber.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the vacuum chamber comprises an internal conveyor moveable in the longitudinal direction of the vacuum chamber to expel the respective loaded bag from the vacuum chamber following the vacuum sealing operation.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The method of <claim-ref idref="CLM-00009">claim 9</claim-ref> wherein a portion of the internal conveyor extends under a portion of the heat seal assembly in each vacuum chamber.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The method of <claim-ref idref="CLM-00009">claim 9</claim-ref> wherein at least a portion of the heat seal assembly is retractable to enable a loaded bag to be moved past the heat seal assembly on the internal conveyor, and the telescoping conveyor is substantially vertically aligned with the internal chamber conveyor in a loaded bag feeding configuration.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the infrared camera is disposed above the conveyor, and is disposed vertically above the bank of light emitting diodes.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein, during the interrogating step, the loaded bag is advanced along the in-feed conveyor.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The method of <claim-ref idref="CLM-00004">claim 4</claim-ref> wherein, simultaneously with feeding an unsealed loaded bag into one of the vacuum chambers, such that the bag mouth of the loaded bag is located over a portion of the heat seal assembly, a vacuum sealing operation is performed on a loaded bag in another one of the vacuum chambers. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

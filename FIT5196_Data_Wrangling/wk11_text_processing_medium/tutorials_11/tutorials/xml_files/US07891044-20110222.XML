@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891044-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891044</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>10536054</doc-number>
+<date>20031121</date>
+</document-id>
+</application-reference>
+<us-application-series-code>10</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>DE</country>
+<doc-number>102 54 978</doc-number>
+<date>20021126</date>
+</priority-claim>
+<priority-claim sequence="02" kind="national">
+<country>DE</country>
+<doc-number>103 23 997</doc-number>
+<date>20030527</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>1429</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>60</class>
+<subclass>S</subclass>
+<main-group>1</main-group>
+<subgroup>40</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 1525032</main-classification>
+<further-classification> 15250513</further-classification>
+</classification-national>
+<invention-title id="d2e90">Device for detachably linking a wiper blade with a driven wiper arm</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>2618806</doc-number>
+<kind>A</kind>
+<name>MacPherson</name>
+<date>19521100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>2632907</doc-number>
+<kind>A</kind>
+<name>Anderson</name>
+<date>19530300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>2632908</doc-number>
+<kind>A</kind>
+<name>Krohm</name>
+<date>19530300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 1525033</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>2632909</doc-number>
+<kind>A</kind>
+<name>Krohm</name>
+<date>19530300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 1525033</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>3147508</doc-number>
+<kind>A</kind>
+<name>Glynn</name>
+<date>19640900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>3254358</doc-number>
+<kind>A</kind>
+<name>Wise</name>
+<date>19660600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>3576044</doc-number>
+<kind>A</kind>
+<name>Besnard</name>
+<date>19710400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 1525032</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>6530111</doc-number>
+<kind>B1</kind>
+<name>Kotlarski</name>
+<date>20030300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>6594854</doc-number>
+<kind>B1</kind>
+<name>Matsumoto et al.</name>
+<date>20030700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 1525032</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>6634056</doc-number>
+<kind>B1</kind>
+<name>De Block</name>
+<date>20031000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>7293321</doc-number>
+<kind>B2</kind>
+<name>Breesch</name>
+<date>20071100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>7523520</doc-number>
+<kind>B2</kind>
+<name>Breesch</name>
+<date>20090400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>2004/0010882</doc-number>
+<kind>A1</kind>
+<name>Breesch</name>
+<date>20040100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>2004/0211021</doc-number>
+<kind>A1</kind>
+<name>Weber et al.</name>
+<date>20041000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>2005/0177970</doc-number>
+<kind>A1</kind>
+<name>Scholl et al.</name>
+<date>20050800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 1525032</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>2008/0034530</doc-number>
+<kind>A1</kind>
+<name>Breesch</name>
+<date>20080200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>2009/0172909</doc-number>
+<kind>A1</kind>
+<name>Breesch</name>
+<date>20090700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>DD</country>
+<doc-number>77904</doc-number>
+<date>19701100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>DE</country>
+<doc-number>1089649</doc-number>
+<date>19600900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>DE</country>
+<doc-number>3709915</doc-number>
+<kind>A1</kind>
+<date>19981000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>DE</country>
+<doc-number>10130903</doc-number>
+<kind>A1</kind>
+<date>20020500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>FR</country>
+<doc-number>1238655</doc-number>
+<date>19600800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>FR</country>
+<doc-number>2310243</doc-number>
+<kind>A1</kind>
+<date>19761200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>GB</country>
+<doc-number>615500</doc-number>
+<date>19490100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>GB</country>
+<doc-number>616577</doc-number>
+<date>19490100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>GB</country>
+<doc-number>626016</doc-number>
+<kind>A</kind>
+<date>19490700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>GB</country>
+<doc-number>641730</doc-number>
+<date>19500800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>GB</country>
+<doc-number>645983</doc-number>
+<date>19501100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>GB</country>
+<doc-number>653420</doc-number>
+<date>19510500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>GB</country>
+<doc-number>675757</doc-number>
+<date>19520700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>GB</country>
+<doc-number>683854</doc-number>
+<date>19521200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00032">
+<document-id>
+<country>GB</country>
+<doc-number>685307</doc-number>
+<date>19521200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00033">
+<document-id>
+<country>GB</country>
+<doc-number>1546116</doc-number>
+<kind>A</kind>
+<date>19790500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00034">
+<document-id>
+<country>WO</country>
+<doc-number>WO 99/33687</doc-number>
+<date>19990700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00035">
+<document-id>
+<country>WO</country>
+<doc-number>WO 00/50276</doc-number>
+<date>20000800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00036">
+<document-id>
+<country>WO</country>
+<doc-number>0240329</doc-number>
+<kind>A1</kind>
+<date>20020500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00037">
+<document-id>
+<country>WO</country>
+<doc-number>WO 02/34595</doc-number>
+<date>20020500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00038">
+<document-id>
+<country>WO</country>
+<doc-number>WO 02/40328</doc-number>
+<date>20020500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00039">
+<document-id>
+<country>WO</country>
+<doc-number>WO 03/080409</doc-number>
+<date>20031000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00040">
+<document-id>
+<country>WO</country>
+<doc-number>WO 03/084789</doc-number>
+<date>20031000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>33</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 1525031</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 1525032</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 15250201</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 15250351</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 1525033</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>6</number-of-drawing-sheets>
+<number-of-figures>11</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20060117515</doc-number>
+<kind>A1</kind>
+<date>20060608</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Fink</last-name>
+<first-name>Andreas</first-name>
+<address>
+<city>Grossbottwar</city>
+<country>DE</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>DE</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Scholl</last-name>
+<first-name>Wolfgang</first-name>
+<address>
+<city>Gemmrigheim</city>
+<country>DE</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>DE</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Schremmer</last-name>
+<first-name>Gerhard</first-name>
+<address>
+<city>Bietigheim-Bissingen</city>
+<country>DE</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>DE</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Oblon, Spivak, McClelland, Maier &#x26; Neustadt, L.L.P.</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Valeo Wischersysteme GmbH</orgname>
+<role>03</role>
+<address>
+<city>Bietigheim-Bissingen</city>
+<country>DE</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Nguyen</last-name>
+<first-name>Dung Van</first-name>
+<department>3723</department>
+</primary-examiner>
+</examiners>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/EP03/13062</doc-number>
+<kind>00</kind>
+<date>20031121</date>
+</document-id>
+<us-371c124-date>
+<date>20060119</date>
+</us-371c124-date>
+</pct-or-regional-filing-data>
+<pct-or-regional-publishing-data>
+<document-id>
+<country>WO</country>
+<doc-number>WO2004/048163</doc-number>
+<kind>A </kind>
+<date>20040610</date>
+</document-id>
+</pct-or-regional-publishing-data>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The invention relates to a device and a method for releasably connecting a wiper blade to a drivable wiper arm. In one embodiment, the invention is characterized in that the coupling section has a tongue-like insertion section, in that the connecting element has a seat for the insertion section, and in that the coupling section and the connecting element have securing sections for providing a mutual permanent connection.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="122.68mm" wi="164.00mm" file="US07891044-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="230.97mm" wi="181.27mm" file="US07891044-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="211.50mm" wi="165.02mm" file="US07891044-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="225.55mm" wi="165.27mm" file="US07891044-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="245.79mm" wi="179.32mm" file="US07891044-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="236.05mm" wi="160.27mm" file="US07891044-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="132.25mm" wi="148.17mm" file="US07891044-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0002" num="0001">The invention relates to a device and a method for releasably connecting a wiper blade to a drivable wiper arm, wherein the wiper blade comprises a wiper strip which faces the windscreen to be wiped, at least one strip-like elongate support element, a slide element which is connected to the support element, and a connecting element for connection to a coupling section of the wiper arm, which connecting element is mounted on the slide element in a manner such that it can pivot.</p>
+<p id="p-0003" num="0002">Such a device is known for example from WO 02/40328 A1. The device described therein, by means of which a flat wiper blade can be connected to the coupling section, has a large number of complex components which are difficult to manufacture. Moreover, the operation of connecting the coupling section of the wiper arm to the connecting element of the wiper blade is relatively complex and requires a certain amount of skill.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0004" num="0003">So what is needed, therefore, is an improved system and method that improves and simplifies the connection of the wiper arm to the wiper blade.</p>
+<p id="p-0005" num="0004">It is therefore an object of the present invention to propose a device for releasably connecting a wiper blade to a drivable wiper arm, in which the operation of connecting the connecting element to the coupling section can be carried out in a simple manner. Moreover, it is to be ensured that the coupling section is joined in a permanently secure manner to the connecting section, wherein the wiper blade can nevertheless be released from the wiper arm in a simple manner.</p>
+<p id="p-0006" num="0005">According to the invention, this object is achieved by a device of the type described above in that the coupling section has a tongue-like insertion section, in that the connecting element has a seat for the insertion section, and in that the coupling section and the connecting element have securing sections for providing a mutual permanent connection, wherein, in order to reach a preassembly position in which the longitudinal axis of the wiper arm and the longitudinal axis of the connecting element enclose an angle &#x3b1; in the range from approximately 10&#xb0; to 100&#xb0;, the insertion section can be inserted in a substantially rectilinear manner into the seat, and wherein, in order to reach a final assembly position, the wiper arm and the connecting section can be pivoted onto one another about the insertion section/seat contact area until the securing sections allow a permanent mutual connection.</p>
+<p id="p-0007" num="0006">The invention has the advantage that only two steps which are simple to carry out are required in order to connect the wiper blade to the wiper arm, namely firstly rectilinear insertion of the insertion section into the seat provided on the connecting element, and pivoting of the coupling section or of the wiper arm and of the connecting element onto one another.</p>
+<p id="p-0008" num="0007">Moreover, such a device has the advantage that it is of a very flat and very narrow design. On the one hand, wind noise is minimized as a result. On the other hand, the view of the vehicle driver is only slightly impaired by the wiper blade and the wiper arm. Furthermore, force introduction preferably takes place over the longitudinal axis of the wiper blade, substantially perpendicular to the windscreen to be wiped, and as a result the occurrence of tilting moments is suppressed.</p>
+<p id="p-0009" num="0008">Preferably, the insertion direction for reaching the preassembly position lies in the plane of pivoting for reaching the final assembly position. This has the advantage that the two movements lie in one plane, and as a result the assembly operation is simplified.</p>
+<p id="p-0010" num="0009">One embodiment of the invention is characterized in that the coupling section is designed to be U-shaped in cross section and comprises a back and two legs, wherein the insertion section is designed in a hook-like manner and is arranged in a stand-alone manner on the back of the coupling section.</p>
+<p id="p-0011" num="0010">The coupling section, which is designed to be U-shaped in cross section, advantageously engages over the connecting element at least in part in the final assembly position. As a result, transverse forces acting on the connecting element can be absorbed by the legs of the coupling section.</p>
+<p id="p-0012" num="0011">The insertion section is preferably designed such that it is arc-shaped at the free end, in the direction of the extension of the wiper arm and in side view in the direction of the windscreen to be wiped, in such a manner that it does not protrude beyond the back. This has the advantage that the insertion section, in the final assembly position, does not protrude in a disruptive manner beyond the back of the coupling section. Given a suitably designed connecting element, the insertion section is not visible in the final assembly position.</p>
+<p id="p-0013" num="0012">It is advantageous if the region of the connecting element which cooperates with the insertion section and adjoins the insertion opening is designed to be complementary to the insertion section. In this way it can be ensured, in the final assembly position, that the insertion section bears reliably against the complementarily designed region of the connecting element.</p>
+<p id="p-0014" num="0013">A further embodiment of the invention is obtained when the region of the connecting element and of the insertion section which cooperates with the insertion section is designed to be arc-shaped, and in particular shaped like a segment of a circle, in longitudinal section. When the coupling section and the connecting element are pivoted onto one another in the final assembly position, this ensures that during the pivoting movement the insertion section bears with a substantial part of its surface against the region of the connecting element which cooperates with the insertion section. This ensures reliable guidance when assembling the device from the preassembly position to the final assembly position. Stress peaks are avoided on account of the large-surface bearing.</p>
+<p id="p-0015" num="0014">One further embodiment is obtained when the connecting element is designed to be U-shaped in cross section and comprises a back and two legs. On account of the U-shaped design of the connecting element, a spoiler section of the wiper strip which faces away from the windscreen to be wiped can extend between the two legs of the connecting element in the longitudinal direction of the wiper blade. Furthermore, the connecting element can advantageously be coupled at the legs to the slide.</p>
+<p id="p-0016" num="0015">Advantageously, the insertion opening is designed as a cut-out on the back. This has the advantage that the insertion opening can be clearly seen on the wiper blade in plan view, as a result of which insertion of the insertion section into the insertion opening is simplified.</p>
+<p id="p-0017" num="0016">According to the invention, it is furthermore conceivable that, in the final assembly position, the coupling section covers the connecting element at least in part. In the state mounted on the wiper arm, the inner sides of the legs of the U-shaped coupling section then preferably bear against the outer sides of the legs of the U-shaped connecting element. The outer side of the back of the connecting element preferably bears against the inner side of the back of the coupling section.</p>
+<p id="p-0018" num="0017">A further advantageous embodiment of the invention is obtained when the securing sections are designed as locking sections. When the coupling section and the connecting element are pivoted onto one another, the locking sections advantageously lock with one another in the final assembly position.</p>
+<p id="p-0019" num="0018">It may be provided that the connecting element has, on its side facing away from the insertion opening in the longitudinal direction, on the legs, in each case a locking tongue which extends in the longitudinal direction and is elastically flexible in the transverse direction, which locking tongues cooperate with locking edges provided on the legs of the coupling section.</p>
+<p id="p-0020" num="0019">In order to ensure secure locking, it may advantageously be provided that the locking edges of the locking tongues and the locking edges of the legs enclose an acute angle, in particular an angle in the range from approximately 30&#xb0; to 80&#xb0;, with the longitudinal axis of the wiper blade in the final assembly position.</p>
+<p id="p-0021" num="0020">In order to release the locking connection, and thus to release the wiper blade from the wiper arm, in a further embodiment of the invention it may be provided that actuating sections are provided on the free ends of the locking tongues. The actuating sections are designed in such a way that the locking tongues can be pressed towards one another, as a result of which the locking edges of the locking tongues can come out of engagement with the locking edges on the legs of the coupling section.</p>
+<p id="p-0022" num="0021">In order to allow easier locking, it is advantageously provided that the sides of the locking tongues which face the back of the coupling section and meet the legs of the coupling section when pivoted into the final assembly position are bevelled.</p>
+<p id="p-0023" num="0022">Easier locking is also assisted if the sides of the legs of the coupling section which face the windscreen and which are met by the facing sides of the locking sections when pivoted into the final assembly position are bevelled. Shortly prior to reaching the final assembly position, the bevelled sides of the locking tongues consequently cooperate with the bevelled sides of the legs of the coupling section in such a way that the locking tongues are pivoted out in directions towards one another. In the final assembly position, the locking tongues snap behind the locking edges of the coupling section in directions facing away from one another.</p>
+<p id="p-0024" num="0023">In order to prevent a wiper blade from being arranged the wrong way round on a wiper arm, the coupling section may have a suitable coding. Incorrect assembly of the wiper blade, for example on the incorrect wiper arm, is thus prevented. A coding may be produced for example by a suitable bezel on the coupling section and by a suitable web on the connecting element which cooperates with the bezel.</p>
+<p id="p-0025" num="0024">A further advantageous embodiment of the invention is obtained when the legs of the connecting element are designed as double-walled legs which are slightly elastically flexible in the transverse direction. Such double-walled legs have a better friction behaviour with respect to the slide element against which they are pivotably arranged. Advantageously, the connecting element has, between the legs, a hinge pin which is mounted in a hole on the slide element for the pivotable arrangement of the connecting element.</p>
+<p id="p-0026" num="0025">Another embodiment of the invention provides that the slide element has a bearing bolt or alternatively two hinge pins which project with their ends from the slide element and on which the connecting element is pivotably mounted by bearing holes in its legs, which bearing holes are designed in a corresponding manner and are arranged so as to be aligned. In this case, the bearing bolt is or the bearing pins are connected fixedly against rotation to the slide element, and the connecting element is mounted on the slide element in a manner such that it can rotate or pivot. When a wiper blade is replaced, therefore, the entire bearing device is exchanged.</p>
+<p id="p-0027" num="0026">According to a further embodiment of the invention, the bearing holes provided in the legs of the connecting element are opened above in each case a slot towards the edge, which slot runs radially with respect to the bearing hole. This may advantageously be used to simplify the assembly of the individual parts.</p>
+<p id="p-0028" num="0027">According to another embodiment, if the slot in each case runs from the bearing hole to the edge of the leg which lies opposite the back of the connecting element, the risk of the bearing bolt or bearing pin undesirably sliding out of the bearing hole is small.</p>
+<p id="p-0029" num="0028">One further advantageous embodiment provides that in each case the slot expands from the bearing hole towards the edge of the leg, wherein the narrowest point of the slot is smaller than the diameter of the bearing bolt or the alternative bearing pins. This embodiment allows simplification of assembly and disassembly. The bearing bolt or bearing pins can be pressed in radially through the slot in the manner of a locking connection, negotiating the narrow point. Likewise, the bearing bolt or bearing pins can also be removed in the opposite direction, again negotiating the narrow point. To this end, it may be necessary for the connecting element to be made of a suitable plastics material which allows the narrow point of the slot to be negotiated by the bearing bolt or bearing pins. The slide element and/or the bearing bolt or the bearing pins may be made of metal or likewise made of a suitable plastics material.</p>
+<p id="p-0030" num="0029">A further, advantageous embodiment of the invention provides that the legs of the connecting element have stud-like raised areas on the side facing the windscreen. These raised areas serve for support on either the wiper rubber or the support element, as a result of which easier assembly and disassembly of the wiper blade is made possible.</p>
+<p id="p-0031" num="0030">The coupling section and the connecting element are preferably designed in such a way that, in the final assembly position, they have a substantially closed and substantially smooth surface. To this end, the sections of the connecting element which are covered by the coupling section may lie deeper than the sections of the connecting element which are visible in the final assembly position, the difference in depth being the wall thickness of the coupling section.</p>
+<p id="p-0032" num="0031">Further advantageous refinements are provided in order to improve the aerodynamic behaviour of the wiper arm/wiper blade combination, particularly at high travelling speeds or airflow velocities, and thus to counteract in particular the known effect of lifting of the wiper blade connected to the wiper arm off the windscreen to be wiped.</p>
+<p id="p-0033" num="0032">By virtue of the measure that the coupling section of the wiper arm has at least one opening suitable for air to flow through, a dynamic pressure which arises below the U-shape of the coupling section is substantially broken down. As a result, the lifting force on the wiper arm is reduced.</p>
+<p id="p-0034" num="0033">It is particularly advantageous to provide the at least one opening in the back of the coupling section. However, an improvement is also possible if one or more airflow openings are placed in the legs of the coupling section, in particular in the lee-side leg. The maximum effect can probably be achieved by a combination of the individual possibilities.</p>
+<p id="p-0035" num="0034">Another embodiment provides that at least one spoiler-like air guide means is provided on the coupling section of the wiper arm. In this way, the incoming air can be guided in such a way that the effect of the wiper blade or wiper arm being lifted off the windscreen is counteracted. It is advantageous in this connection for the at least one air guide means to be arranged on the back of the coupling section. A spoiler acts particularly effectively at this location.</p>
+<p id="p-0036" num="0035">The advantages of an embodiment, according to which the air guide means is formed by a section cut free from the back of the coupling section and bent upwards in a spoiler-like manner, are to be seen in the combination of the effects of the spoiler and of the airflow opening formed in this way. The pressing force is thus directly increased and at the same time the dynamic pressure inside the coupling section is reduced. Moreover, an air guide means produced in this way is particularly cost-effective.</p>
+<p id="p-0037" num="0036">A further advantageous embodiment provides that at least one spoiler-like air guide means which is preferably made in one piece with the connecting element is arranged on the back of the connecting element, and that this at least one air guide means protrudes through a, preferably corresponding, opening in the back of the coupling section. Since the connecting element is advantageously made of plastics material, a very large number of design possibilities are provided for the shape of the spoiler-like air guide means with regard to particularly favourable fluidic properties.</p>
+<p id="p-0038" num="0037">The object mentioned in the introduction is also achieved by a method of assembling a device according to the invention, which method is characterized in that, in order to reach a preassembly position in which the longitudinal axis of the wiper arm and the longitudinal axis of the connecting element enclose an angle &#x3b1; in the range from approximately 10&#xb0; to 100&#xb0;, the insertion section is inserted in a substantially rectilinear manner into the seat, and in that, in order to reach a final assembly position, the wiper arm and the connecting section can be pivoted onto one another about the insertion section/seat contact area until the securing sections enter into a permanent mutual connection.</p>
+<p id="p-0039" num="0038">Further details and advantages of the invention can be found in the following description in which the invention is described and explained in more detail with reference to examples of embodiments shown in the drawings.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0040" num="0039">In the drawings:</p>
+<p id="p-0041" num="0040"><figref idref="DRAWINGS">FIG. 1</figref> shows a device according to the invention in a perspective view;</p>
+<p id="p-0042" num="0041"><figref idref="DRAWINGS">FIG. 2</figref> shows the device of <figref idref="DRAWINGS">FIG. 1</figref> without the wiper arm;</p>
+<p id="p-0043" num="0042"><figref idref="DRAWINGS">FIG. 3</figref> shows a partial section through <figref idref="DRAWINGS">FIG. 2</figref>;</p>
+<p id="p-0044" num="0043"><figref idref="DRAWINGS">FIG. 4</figref> shows a view from below of the coupling section shown in <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0045" num="0044"><figref idref="DRAWINGS">FIG. 5</figref> shows a partial section through the device of <figref idref="DRAWINGS">FIG. 1</figref> in a preassembly position;</p>
+<p id="p-0046" num="0045"><figref idref="DRAWINGS">FIG. 6</figref> shows a partial section through the device of <figref idref="DRAWINGS">FIG. 5</figref> in the final assembly position;</p>
+<p id="p-0047" num="0046"><figref idref="DRAWINGS">FIG. 7</figref> shows another embodiment of a device according to the invention in a perspective view;</p>
+<p id="p-0048" num="0047"><figref idref="DRAWINGS">FIG. 8</figref> shows a further embodiment of a device according to the invention in a perspective view;</p>
+<p id="p-0049" num="0048"><figref idref="DRAWINGS">FIG. 9</figref> shows a final embodiment of a device according to the invention in a perspective view;</p>
+<p id="p-0050" num="0049"><figref idref="DRAWINGS">FIG. 10</figref> shows the device of <figref idref="DRAWINGS">FIG. 9</figref> without the wiper arm; and</p>
+<p id="p-0051" num="0050"><figref idref="DRAWINGS">FIG. 11</figref> shows another embodiment of a device according to the invention without the wiper arm.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0052" num="0051"><figref idref="DRAWINGS">FIG. 1</figref> shows a device <b>10</b> according to the invention for releasably connecting a wiper blade <b>12</b>, shown in part, to a drivable wiper arm <b>14</b> which is likewise shown in part. The wiper blade <b>12</b> has a wiper strip <b>16</b> which faces the windscreen to be wiped (not shown) and comprises two strip-like elongate support elements <b>18</b>, <b>20</b>, a slide element <b>22</b> which is connected to the support elements <b>18</b>, <b>20</b>, and a connecting element <b>24</b> which is arranged on the slide element <b>22</b> in a manner such that it can pivot. The connecting element <b>24</b> serves for connection to a coupling section <b>26</b> on the wiper arm <b>14</b>.</p>
+<p id="p-0053" num="0052">The coupling section <b>26</b> has, as can be seen in particular in <figref idref="DRAWINGS">FIG. 4</figref>, a tongue-like insertion section <b>28</b> which, in the final assembly position shown in <figref idref="DRAWINGS">FIGS. 1 and 6</figref>, engages in a seat <b>30</b> which can be clearly seen in <figref idref="DRAWINGS">FIG. 2</figref>. The connecting element <b>24</b>, which like the coupling section <b>26</b> is U-shaped in cross section, has a back <b>32</b> and two legs <b>34</b>. The seat <b>30</b> is provided in the back <b>32</b> of the connecting element <b>24</b>. A bearing hole <b>36</b> for a bearing bolt <b>38</b>, which bearing hole extends in the transverse direction, is provided on the legs <b>34</b> of the connecting element <b>24</b>. On account of the bearing hole <b>36</b>, and the bearing bolt <b>38</b>, a pivoting arrangement of the connecting element <b>24</b> with respect to the slide element <b>22</b> is obtained. In order to achieve a certain flexibility of the legs <b>34</b> while having sufficient stiffness, the legs <b>34</b> are designed to be double-walled.</p>
+<p id="p-0054" num="0053">As can likewise be seen from <figref idref="DRAWINGS">FIG. 2</figref>, the connecting element <b>24</b> has, on its side facing away from the insertion opening <b>30</b> in the longitudinal direction, on the legs <b>34</b>, in each case a locking tongue <b>40</b> which extends in the longitudinal direction and is elastically flexible in the transverse direction. The locking tongues <b>40</b> each comprise a locking edge <b>42</b> and an actuating section <b>44</b>. The region of the connecting element <b>24</b> which is covered by the coupling section <b>26</b> in the final assembly position is set back from the other regions of the connecting element <b>24</b> which are formed essentially by the two actuating sections <b>44</b> and a head section <b>46</b> which lies in the axial extension of the coupling section. As a result, in the final assembly position, the coupling section <b>26</b> and the connecting element <b>24</b> form a substantially closed and substantially smooth surface.</p>
+<p id="p-0055" num="0054">As can be seen from <figref idref="DRAWINGS">FIG. 3</figref>, the region <b>48</b> which cooperates with the insertion section <b>28</b> and adjoins the insertion opening <b>30</b> is designed to be complementary to the insertion section <b>28</b>. As can be seen from <figref idref="DRAWINGS">FIGS. 4 and 5</figref>, the insertion section <b>28</b> is designed in an arc-shaped manner in the direction of the extension of the wiper arm <b>14</b> and in side view in the direction of the windscreen to be wiped. Correspondingly, as can be seen from <figref idref="DRAWINGS">FIGS. 3 and 5</figref>, the region <b>48</b> is likewise designed to be arc-shaped, in particular in the shape of a segment of a circle.</p>
+<p id="p-0056" num="0055">It can be seen from <figref idref="DRAWINGS">FIG. 4</figref> that the coupling section is designed in a U-shaped manner in cross section and has a back <b>50</b> and legs <b>52</b>, <b>54</b> which adjoin the back. The insertion section <b>28</b> is in this case arranged in a stand-alone manner in the extension of the back <b>50</b>. Provided on the legs <b>52</b>, <b>54</b> are locking edges <b>56</b> which enclose an angle &#x3b2; of approximately 70&#xb0; with the longitudinal axis <b>58</b> of the wiper arm <b>14</b> (<figref idref="DRAWINGS">FIGS. 5 and 6</figref>). The locking edges <b>42</b> of the locking tongues <b>40</b> enclose a corresponding angle &#x3b2;. In the final assembly position shown in <figref idref="DRAWINGS">FIG. 6</figref>, the locking edges <b>42</b> of the locking tongues <b>40</b> bear against the locking edges <b>56</b> of the legs <b>52</b>, <b>54</b> of the coupling section <b>26</b>.</p>
+<p id="p-0057" num="0056">It can be seen from <figref idref="DRAWINGS">FIGS. 2 and 5</figref> that the sides <b>60</b> of the locking tongues <b>40</b> which face the back <b>50</b> of the coupling section <b>26</b> are slightly bevelled. In a corresponding manner, the sides <b>62</b> of the legs of the coupling section <b>26</b> which face the windscreen and cooperate with the sides <b>60</b> of the coupling section <b>26</b> when pivoted into the final assembly position are also slightly bevelled.</p>
+<p id="p-0058" num="0057">For assembly of the coupling section <b>26</b> to the connecting element <b>24</b>, in order to reach a preassembly position which is shown in <figref idref="DRAWINGS">FIG. 5</figref>, the insertion section <b>28</b> is inserted into the seat <b>30</b> in a substantially rectilinear manner in the direction of the arrow <b>64</b>. In this preassembly position, the longitudinal axis of the wiper arm <b>14</b> and the longitudinal axis of the connecting element <b>24</b> or of the wiper blade <b>12</b> enclose an angle &#x3b1; which may lie in the range from approximately 10 to 100&#xb0;. In the example of embodiment shown in <figref idref="DRAWINGS">FIG. 5</figref>, the angle &#x3b1; has a value of approximately 40&#xb0;. In order to reach the final assembly position, which is shown in <figref idref="DRAWINGS">FIG. 1</figref> and <figref idref="DRAWINGS">FIG. 6</figref>, the wiper arm <b>14</b> and the connecting section <b>24</b> are pivoted onto one another about the contact area <b>66</b> in which the insertion section <b>28</b> bears against the region <b>48</b> of the seat <b>30</b>. On account of the complementary design of the insertion section <b>28</b> and the region <b>48</b>, the pivoting operation is carried out to a limited extent. Shortly prior to reaching the final assembly position, the bevelled sides <b>62</b> of the coupling section <b>26</b> and the correspondingly bevelled sides <b>60</b> of the locking tongues <b>40</b> meet one another in such a way that the locking tongues <b>40</b> are pivoted elastically in a direction facing one another. Upon reaching the final assembly position, the locking tongues <b>40</b> snap behind the locking edges <b>56</b> of the legs <b>52</b>, <b>54</b> of the coupling section <b>26</b> in a direction facing away from one another. As a result, the coupling section <b>26</b> is permanently held on the connecting element <b>24</b> in the final assembly position. In the final assembly position, the coupling section <b>28</b> bears against the region <b>48</b> of the connecting element <b>24</b> over a large part of its surface. Furthermore, the end side <b>68</b> of the coupling section <b>26</b> which faces the head area <b>46</b> of the connecting element <b>26</b> bears against a bearing edge <b>70</b> of the connecting element which corresponds thereto.</p>
+<p id="p-0059" num="0058">On account of the locking edges <b>42</b>, <b>56</b> which are not perpendicular to the longitudinal axis of the wiper blade but rather enclose an acute angle &#x3b2; with the longitudinal axis, in the assembled state the coupling section <b>26</b> is acted upon in the direction of the head section <b>46</b>. As a result, a play-free connection is obtained in the axial direction. Moreover, by virtue of the obliquely arranged locking edges <b>42</b>, <b>56</b>, the coupling section <b>26</b> is acted upon in the direction of the wiper blade <b>12</b>, as a result of which a play-free connection is produced in the direction perpendicular to the wiper blade. The insertion section <b>28</b> in this case bears against the contact region <b>48</b> of the connecting element <b>24</b> with slight prestress.</p>
+<p id="p-0060" num="0059">In order to release the connection, the actuating sections <b>44</b> are pressed towards one another. As a result, the locking edges <b>42</b> of the locking tongues <b>40</b> come out of the engagement region of the locking edges <b>56</b> of the coupling section <b>26</b>. Since the actuating sections are arranged opposite one another, the actuating sections <b>44</b> can be pressed together by a simple hand grip, using one hand. The coupling section <b>26</b> is then pivoted away from the connecting element <b>24</b> until the preassembly position reached in <figref idref="DRAWINGS">FIG. 5</figref> is almost reached. The insertion section <b>28</b> is then moved out of the seat <b>30</b> in the direction counter to the arrow <b>64</b>.</p>
+<p id="p-0061" num="0060">As can be clearly seen in <figref idref="DRAWINGS">FIG. 5</figref>, it may be provided that the legs <b>34</b> of the connecting element have stub-like raised areas <b>72</b> on the side facing the windscreen. These raised areas serve for support on the slide element <b>22</b>. The raised areas <b>72</b> restrict the pivoting range of the connecting element <b>24</b> with respect to the slide element <b>22</b>. As a result, easier assembly and disassembly of the wiper blade <b>12</b> from the wiper arm <b>14</b> is possible.</p>
+<p id="p-0062" num="0061">In the bent region of the insertion section <b>28</b>, a material cut-out in the form of a cylindrical hole <b>74</b> is provided.</p>
+<p id="p-0063" num="0062">In order to prevent it from being possible for the wiper blade, which has a spoiler-like projection <b>76</b> on its side facing away from the wiper strip <b>16</b>, to be mounted on the incorrect wiper arm, a coding may be provided on the connecting element <b>24</b> and on the coupling section <b>26</b>. Such a coding may be formed for example by a bevelled corner <b>78</b> on the leg <b>54</b> of the coupling section <b>26</b>, as shown in a corresponding manner in <figref idref="DRAWINGS">FIG. 4</figref>. The bevelled corner <b>78</b> may in this case correspond to a material deposit at the corresponding location on the connecting element <b>24</b>, which material deposit is designed in a complementary manner and is not shown in the figures. Since only one of two wiper blades, the respective right-hand or left-hand wiper blade, has a corresponding material deposit on the connecting element, a clear assignment of the right-hand or left-hand wiper blade to the right-hand or left-hand wiper arm is ensured.</p>
+<p id="p-0064" num="0063">For the example of embodiment shown in <figref idref="DRAWINGS">FIG. 7</figref>, in general the same description as above in respect of the first example of embodiment shown in <figref idref="DRAWINGS">FIGS. 1 to 6</figref> applies. The same references have thus been used in <figref idref="DRAWINGS">FIG. 7</figref> as in <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0065" num="0064">The essential difference of the example of embodiment shown in <figref idref="DRAWINGS">FIG. 7</figref> is that an opening <b>80</b> is additionally provided in the back <b>50</b> of the coupling section <b>26</b> belonging to the wiper arm <b>14</b>. This opening <b>80</b> makes it possible for air flowing below the U-shape of the coupling section to leave the space formed below the U-shape on a relatively short path by flowing through the opening <b>80</b>. In this way, the dynamic pressure below the coupling section <b>26</b> is reduced compared to an embodiment without the opening <b>80</b>, and this leads to a comparative reduction in the lifting force of the wiper arm <b>14</b> as air flows through.</p>
+<p id="p-0066" num="0065">Instead of the one opening <b>80</b>, it would also be possible for a number of openings <b>80</b> to be provided in the coupling section <b>26</b>, wherein one or more openings <b>80</b> may also be made in one of the two legs <b>52</b>, <b>54</b> or in both legs <b>52</b>, <b>54</b>. The size, shape and position of the one or more openings <b>80</b> should be optimized with regard to as considerable an effect as possible in a manner depending on the geometric conditions of the individual components of the device <b>10</b> and of the device <b>10</b> as a whole. Likewise, the shape and size of the one or more openings <b>80</b> may be adapted to the design of the coupling section <b>26</b>.</p>
+<p id="p-0067" num="0066">Also for the further example of embodiment shown in <figref idref="DRAWINGS">FIG. 8</figref>, the same description as that given above in respect of the first example of embodiment shown in <figref idref="DRAWINGS">FIGS. 1 to 6</figref> applies.</p>
+<p id="p-0068" num="0067">The essential difference of the example of embodiment shown in <figref idref="DRAWINGS">FIG. 8</figref> is that a spoiler-like air guide means <b>82</b> is formed on the back <b>50</b> of the coupling section <b>26</b>. In order to produce the air guide means <b>82</b>, a more or less rectangular section which is oriented in the longitudinal direction of the coupling section <b>26</b> has been cut free from or punched out of the back <b>50</b> of the coupling section <b>26</b>, at its two narrow sides and on one longitudinal side, and bent upwards out of the plane of the back <b>50</b>. In this case, the air guide means <b>82</b> may be given a rounded, wing-like shape. The air guide means <b>82</b> is connected on its longitudinal side facing the incoming air to the back <b>50</b>. By virtue of the bending-out operation, the opening <b>80</b> in the back <b>50</b> is made at the same time behind the air guide means <b>82</b>, which opening can be flowed through by a stream of air. In <figref idref="DRAWINGS">FIG. 8</figref>, the reference line belonging to reference <b>80</b> is shown in dashed line because the view of the opening <b>80</b> is hidden by the air guide means <b>82</b> in this perspective view. The air guide means <b>82</b> and the opening <b>80</b> may be produced from steel sheet as a punched and bent part in a cost-effective manner by punching and bending during the process of manufacturing the coupling section.</p>
+<p id="p-0069" num="0068">The aerodynamic advantages of such a design are on the one hand the pressing force produced by the air guide means, which pressing force acts on the wiper arm <b>14</b>, and on the other hand the reduction in the dynamic pressure below the U-shape of the coupling section <b>26</b>.</p>
+<p id="p-0070" num="0069">The special feature of the example of embodiment shown in <figref idref="DRAWINGS">FIGS. 9 and 10</figref> is that an opening is provided in the back <b>50</b> of the coupling section <b>26</b> and that a spoiler-like air guide means <b>84</b> arranged on the back <b>32</b> of the connecting element <b>24</b> passes through this opening to the top side of the coupling section <b>26</b>. When air flows across the air guide means <b>84</b>, the pressing force of the wiper arm <b>14</b> is increased and the lifting force is reduced.</p>
+<p id="p-0071" num="0070">In <figref idref="DRAWINGS">FIG. 9</figref>, it can be seen that the shape and the size of the opening in the coupling section <b>26</b> and the base area of the air guide means <b>84</b> are adapted to one another. Moreover, the air guide means <b>84</b> is connected to the back <b>32</b> of the connecting element <b>24</b> via a pedestal <b>86</b>. The height of the pedestal <b>86</b> corresponds to the wall thickness of the back <b>50</b> of the coupling section <b>26</b>, so that the top side of the back <b>50</b> adjoins the air guide means <b>84</b> at least virtually free of any clearance or shoulder. As a result, the aerodynamics are improved and airflow noises are reduced.</p>
+<p id="p-0072" num="0071">Unlike the diagram in <figref idref="DRAWINGS">FIGS. 9 and 10</figref>, the opening in the back <b>50</b> of the coupling section <b>26</b> may advantageously also be greater than the base area of the air guide means <b>84</b> or the pedestal <b>86</b> thereof. In this case, only part of the opening would be filled by the air guide means <b>84</b>. The part of the opening which is not filled thus acts as an airflow opening, and as a result the dynamic pressure below the U-shape of the coupling section <b>26</b> is in turn reduced. This embodiment is not shown in the drawing.</p>
+<p id="p-0073" num="0072">Another embodiment which is not shown in the drawing consists in that, in a device as shown in <figref idref="DRAWINGS">FIGS. 9 and 10</figref>, additionally at least one opening is provided in the back and/or in at least one of the legs <b>52</b>, <b>54</b> for reducing the dynamic pressure below the U-shape of the coupling section <b>26</b>.</p>
+<p id="p-0074" num="0073">A final example of embodiment is shown in <figref idref="DRAWINGS">FIG. 11</figref>. This example of embodiment corresponds in a very large number of features to the embodiment shown in <figref idref="DRAWINGS">FIG. 2</figref>, which is why the fundamental design will not be repeated here and the same reference numerals are used for identical parts and elements.</p>
+<p id="p-0075" num="0074">In the example of embodiment shown in <figref idref="DRAWINGS">FIG. 11</figref>, the slide element <b>22</b> has two bearing pins <b>88</b> which are arranged so as to be aligned with one another and which project from the slide element <b>22</b> transversely with respect to the longitudinal direction of the wiper blade <b>12</b>. The bearing pins <b>88</b>, only one of which can be seen in <figref idref="DRAWINGS">FIG. 11</figref> on account of the perspective view, are made in one piece with the slide element <b>22</b>. The slide element <b>22</b> will advantageously be manufactured as a whole as a diecast metal part or as an injection-moulded plastic part.</p>
+<p id="p-0076" num="0075">Bearing holes <b>90</b> which are aligned with one another are formed in the two legs <b>34</b> of the connecting element <b>24</b>, said connecting element having essentially the shape of a U in cross section, once again only one of the bearing holes <b>90</b> being visible in <figref idref="DRAWINGS">FIG. 11</figref> on account of the perspective view. The bearing holes <b>90</b> are adapted to the bearing pins <b>88</b> in such a way that pivoting of the slide element <b>22</b> relative to the connecting element <b>24</b> can take place in as play-free a manner as possible. One essential difference compared to the embodiment shown in <figref idref="DRAWINGS">FIG. 2</figref> is that the bearing holes <b>90</b> are each opened radially above a slot <b>92</b> which runs from the bearing hole <b>90</b> towards the lower edge of the leg <b>34</b>, that is to say the edge opposite the back <b>32</b> of the connecting element <b>24</b>. The slot <b>92</b> expands from the edge of the bearing hole <b>90</b> towards the edge of the leg <b>34</b>. The narrow point of the slot <b>92</b> is in this case narrower than the diameter of the respective bearing pin <b>88</b>. Upon assembly or disassembly of the slide element <b>22</b> and the connecting element <b>24</b>, the bearing pins <b>88</b> are pressed radially into the bearing holes <b>90</b> or out of the latter through the slots <b>92</b> in the manner of a locking connection, negotiating the narrow point. As a result, these processes are considerably simplified, and moreover a sufficiently reliable seating or holding of the bearing pins <b>88</b> in the bearing holes <b>90</b> is ensured.</p>
+<p id="p-0077" num="0076">Usually, the connection of a wiper blade <b>12</b> provided with such a slide element <b>22</b> and such a connecting element <b>24</b> to a wiper arm <b>14</b> or to the coupling section <b>26</b> of a wiper arm <b>14</b>, and removal thereof in the opposite direction, take place in the same general manner, as has been described in connection with <figref idref="DRAWINGS">FIGS. 1 to 6</figref>. However, in the embodiment shown in <figref idref="DRAWINGS">FIG. 11</figref>, there is also the possibility firstly of attaching the connecting element <b>24</b>, separated from the wiper blade <b>12</b>, in this general way to the coupling section <b>26</b> of the wiper arm <b>14</b> and then mounting the slide element <b>22</b> connected to the wiper blade <b>12</b> on the connecting element <b>24</b> by pushing the bearing pins <b>88</b> radially through the slots <b>92</b> into the bearing holes <b>90</b>. It is also conceivable to carry out a disassembly operation by reversing the sequence of these last-mentioned steps.</p>
+<p id="p-0078" num="0077">Devices for releasably connecting a wiper blade to a wiper arm which correspond to the examples of embodiments shown in <figref idref="DRAWINGS">FIGS. 1 to 10</figref> are suitable in particular for use in wiper systems for front windscreens of vehicles, whereas the device corresponding to the example of embodiment shown in <figref idref="DRAWINGS">FIG. 11</figref> is suitable in particular for use in wiper systems for rear windows of vehicles.</p>
+<p id="p-0079" num="0078">All of the features found in the description, the drawings and the claims may be essential to the invention both individually and in any desired combination with one another.</p>
+<p id="p-0080" num="0079">While the method herein described, and the form of apparatus for carrying this method into effect, constitute preferred embodiments of this invention, it is to be understood that the invention is not limited to this precise method and form of apparatus, and that changes may be made in either without departing from the scope of the invention, which is defined in the appended claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. Device for releasably connecting a wiper blade to a drivable wiper arm, wherein the wiper blade comprises a wiper strip which faces the windscreen to be wiped, at least one strip-shaped elongate support element, a slide element which is connected to the support element, and a connecting element for connection to a coupling section of the wiper arm, wherein the connecting element is mounted on the slide element in a manner such that it can pivot, wherein the coupling section has a tongue-shaped insertion section, wherein the connecting element has a seat for the insertion section, and wherein the coupling section and the connecting element have securing sections for providing a mutual permanent connection, wherein, in order to reach a preassembly position in which the longitudinal axis of the wiper arm and the longitudinal axis of the connecting element enclose an angle a in the range from approximately 10&#xb0; to 100&#xb0;, the insertion section can be inserted in a substantially rectilinear manner into the seat, and wherein, in order to reach a final assembly position, the wiper arm and the connecting section can be pivoted onto one another about the insertion section/seat contact area until the securing sections allow a permanent mutual connection.</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. Device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein an insertion direction for reaching a preassembly position lies in a plane of pivoting for reaching the final assembly position.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. Device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said coupling section is designed to be U-shaped in cross section and comprises a back and two legs, wherein the insertion section is generally hook-shaped and is arranged on the back of the coupling section.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. Device according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein said insertion section comprises an arc-shaped end, in the direction of the extension of the wiper arm and in side view in the direction of the windscreen to be wiped, in such a manner that it does not protrude beyond the back.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. Device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein a region of the connecting element which cooperates with the insertion section and adjoins the insertion opening is designed to be complementary to the insertion section.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. Device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said region of the connecting element and of the insertion section which cooperates with the insertion section is designed to be arc-shaped.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. Device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said connecting element is designed to be U-shaped in cross section and comprises a back and two legs.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. Device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said seat comprises an insertion opening designed as a cut-out on the back.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. Device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein, in the final assembly position, the coupling section covers the connecting element at least in part.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. Device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said securing sections are designed as locking sections.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. Device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said connecting element has, on its side facing away from the insertion opening in the longitudinal direction, legs, in each case a locking tongue which extends in the longitudinal direction and is elastically flexible in the transverse direction, which locking tongues cooperate with locking edges provided on the legs of the coupling section.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. Device according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein said locking edges of the locking tongues and the locking edges of the legs enclose an acute angle (&#x3b2;), in particular an angle in the range from approximately 30&#xb0; to 80&#xb0;, with the longitudinal axis.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. Device according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein actuating sections for releasing the locking connection are provided on the free ends of the locking tongues.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. Device according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein said sides of the locking tongues which face the back of the coupling section are suitably bevelled for easier locking.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. Device according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein said sides of the legs of the coupling section which face the windscreen are suitably bevelled for easier locking.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. Device according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein said connecting element and the coupling section have a coding.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. Device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said legs of the connecting element comprises legs that are double-walled legs.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. Device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said connecting element has, legs, and a hinge pin between the legs which is mounted in a hole on the slide element for the pivotable arrangement of the connecting element.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. Device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said slide element has a bearing bolt or alternatively two hinge pins which project with their ends from the slide element and on which the connecting element is pivotably mounted by bearing holes in its legs, which bearing holes are designed in a corresponding manner and are arranged so as to be aligned.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. Device according to <claim-ref idref="CLM-00019">claim 19</claim-ref>, wherein said bearing holes provided in the legs of the connecting element are opened above in each case a slot which runs radially with respect to the bearing hole.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text>21. Device according to <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein said slots run from the bearing hole to an edge of the leg which lies opposite the back of the connecting element.</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text>22. Device according to <claim-ref idref="CLM-00020">claim 20</claim-ref>, wherein in each case the slot expands from the bearing hole towards an edge of the leg, wherein the narrowest point of the slot is smaller than the diameter of the bearing bolt or the alternative two hinge pins.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text>23. Device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein connecting element comprises legs having stud-shaped raised areas on the side facing the windscreen.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text>24. Device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein, in a final assembly position, the coupling section and the connecting element have a substantially closed, substantially continuous and substantially smooth surface.</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text>25. Device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said coupling section of the wiper arm has at least one opening suitable for air to flow through.</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text>26. Device according to <claim-ref idref="CLM-00025">claim 25</claim-ref>, wherein said at least one opening is provided in the back of the coupling section.</claim-text>
+</claim>
+<claim id="CLM-00027" num="00027">
+<claim-text>27. Device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein at least one spoiler-shaped air guide means is provided on the coupling section of the wiper arm.</claim-text>
+</claim>
+<claim id="CLM-00028" num="00028">
+<claim-text>28. Device according to <claim-ref idref="CLM-00027">claim 27</claim-ref>, wherein said at least one spoiler-shaped air guide means is arranged on the back of the coupling section.</claim-text>
+</claim>
+<claim id="CLM-00029" num="00029">
+<claim-text>29. Device according to <claim-ref idref="CLM-00028">claim 28</claim-ref>, wherein said air guide means is formed by a section cut free from the back of the coupling section and bent upwards in a spoiler-shaped manner.</claim-text>
+</claim>
+<claim id="CLM-00030" num="00030">
+<claim-text>30. Device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein at least one spoiler-shaped air guide means is preferably made in one piece with the connecting element is arranged on a back of the connecting element, and in that this at least one air guide means protrudes through a, preferably corresponding, an opening in the back of the coupling section.</claim-text>
+</claim>
+<claim id="CLM-00031" num="00031">
+<claim-text>31. A device for releaseably connecting a wiper blade to a drivable wiper arm having a coupling section, said device comprising:
+<claim-text>a connecting element coupled to said wiper blade;</claim-text>
+<claim-text>said connecting element being pivotally coupled to one end of the coupling section;</claim-text>
+<claim-text>at least one securing section for securing said connecting element to said coupling section when said connecting element is pivoted to a closed position whereupon said wiper blade becomes detachably secured to said wiper arm;</claim-text>
+<claim-text>wherein said securing section comprises a plurality of resilient securing sections for detachably coupling said connecting element to said wiper arm when said connecting element is pivoted to said closed position; and</claim-text>
+<claim-text>wherein said plurality of resilient securing sections define a plurality of resilient locking sections.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00032" num="00032">
+<claim-text>32. A device for releaseably connecting a wiper blade to a drivable wiper arm having a coupling section, said device comprising:
+<claim-text>a connecting element coupled to said wiper blade;</claim-text>
+<claim-text>said connecting element being pivotally coupled to one end of the coupling section; and</claim-text>
+<claim-text>at least one securing section for securing said connecting element to said coupling section when said connecting element is pivoted to a closed position whereupon said wiper blade becomes detachably secured to said wiper arm; and</claim-text>
+<claim-text>wherein said at least one securing section comprises a plurality of elastically flexible locking tongues for engaging legs of said coupling section in order to lock said connecting element to said coupling section.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00033" num="00033">
+<claim-text>33. The device as recited in <claim-ref idref="CLM-00032">claim 32</claim-ref> wherein said locking tongues enclose an acute angle with a longitudinal axis of said coupling section. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

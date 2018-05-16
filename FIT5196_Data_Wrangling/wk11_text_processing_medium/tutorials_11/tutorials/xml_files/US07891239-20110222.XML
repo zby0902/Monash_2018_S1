@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891239-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891239</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12499163</doc-number>
+<date>20090708</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2008-234119</doc-number>
+<date>20080912</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>F</subclass>
+<main-group>5</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 73202</main-classification>
+</classification-national>
+<invention-title id="d2e61">Flow meter and flow volume controlling device</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>4270577</doc-number>
+<kind>A</kind>
+<name>Brown et al.</name>
+<date>19810600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>138 39</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>5918279</doc-number>
+<kind>A</kind>
+<name>Hecht et al.</name>
+<date>19990600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 7320421</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>6199434</doc-number>
+<kind>B1</kind>
+<name>Cornil et al.</name>
+<date>20010300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 7386183</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>6647775</doc-number>
+<kind>B1</kind>
+<name>Hecht et al.</name>
+<date>20031100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 732025</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>EP</country>
+<doc-number>0834723</doc-number>
+<kind>A1</kind>
+<date>19980400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>EP</country>
+<doc-number>1065474</doc-number>
+<kind>A2</kind>
+<date>20010100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>EP</country>
+<doc-number>1182431</doc-number>
+<kind>A1</kind>
+<date>20020200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>JP</country>
+<doc-number>2005-024080</doc-number>
+<kind>A</kind>
+<date>20050100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>JP</country>
+<doc-number>2007-121036</doc-number>
+<kind>A</kind>
+<date>20070500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>WO</country>
+<doc-number>WO-2005/121718</doc-number>
+<kind>A1</kind>
+<date>20051200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>13</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 73202</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 732025</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 7320421</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 7320411</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>19</number-of-drawing-sheets>
+<number-of-figures>20</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20100070095</doc-number>
+<kind>A1</kind>
+<date>20100318</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Inagaki</last-name>
+<first-name>Hiroyuki</first-name>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Aoshima</last-name>
+<first-name>Shigeru</first-name>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Watanabe</last-name>
+<first-name>Takeshi</first-name>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>McDermott Will &#x26; Emery LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Yamatake Corporation</orgname>
+<role>03</role>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Thompson</last-name>
+<first-name>Jewel</first-name>
+<department>2855</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">To provide a flow meter, and a flow volume controlling device equipped therewith, capable of reducing pressure loss while obtaining a flow rectifying effect in a measurement fluid. A flow meter for measuring the flow volume of a measurement fluid, equipped with a flow path wherein the measuring fluid flows, and a flow rectifier that is disposed within the flow path, where the flow rectifier has holes for rectifying the flow of a measurement fluid, and has an area that is wider than the flow path cross-sectional area in a direction that is perpendicular to the direction in which the flow path extends. The flow volume controlling device is provided with the flow meter, a controlling valve, and controlling means for adjusting the flow volume of a fluid that flows through the flow path of the flow meter through controlling the controlling valves based on information regarding the flow volume detected by the flow meter.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="167.56mm" wi="231.39mm" file="US07891239-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="238.34mm" wi="166.62mm" orientation="landscape" file="US07891239-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="194.99mm" wi="171.11mm" file="US07891239-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="215.14mm" wi="128.78mm" orientation="landscape" file="US07891239-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="199.47mm" wi="122.26mm" orientation="landscape" file="US07891239-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="213.53mm" wi="124.63mm" orientation="landscape" file="US07891239-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="200.24mm" wi="127.76mm" orientation="landscape" file="US07891239-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="225.21mm" wi="159.34mm" file="US07891239-20110222-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="108.29mm" wi="164.25mm" file="US07891239-20110222-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="106.93mm" wi="154.26mm" file="US07891239-20110222-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="115.74mm" wi="163.41mm" file="US07891239-20110222-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="109.64mm" wi="156.55mm" file="US07891239-20110222-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="196.09mm" wi="170.77mm" file="US07891239-20110222-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="213.02mm" wi="119.21mm" orientation="landscape" file="US07891239-20110222-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="250.36mm" wi="167.89mm" orientation="landscape" file="US07891239-20110222-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="237.57mm" wi="154.09mm" orientation="landscape" file="US07891239-20110222-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="233.93mm" wi="154.01mm" orientation="landscape" file="US07891239-20110222-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="232.83mm" wi="150.62mm" orientation="landscape" file="US07891239-20110222-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00018" num="00018">
+<img id="EMI-D00018" he="234.27mm" wi="159.51mm" orientation="landscape" file="US07891239-20110222-D00018.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00019" num="00019">
+<img id="EMI-D00019" he="227.33mm" wi="160.44mm" orientation="landscape" file="US07891239-20110222-D00019.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">CROSS REFERENCE TO PRIOR APPLICATIONS</heading>
+<p id="p-0002" num="0001">The present invention claims priority under 35 U.S.C. &#xa7;119 to Japanese Patent Application No. 2008-23419 filed Sep. 12, 2008. The content of that application is incorporated herein by reference in its entirety.</p>
+<heading id="h-0002" level="1">FIELD OF TECHNOLOGY</heading>
+<p id="p-0003" num="0002">The present invention relates to a flow meter and to a flow meter controlling device.</p>
+<heading id="h-0003" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0004" num="0003">Conventionally flow meters for detecting the flow volume of a measurement fluid have been commercialized. In order to obtain accurate measurements of the flow volume using this type of flow meter, it has been necessary to stabilize the distribution of the speed by controlling turbulence in the measurement fluid flowing through the flow path.</p>
+<p id="p-0005" num="0004">Because of this, at present there are proposals for technologies for controlling the turbulence in the measurement fluid that flows to the flow path through the provision of a plurality of flow rectifying plates in the flow path of the flow meter. (See, for example, Japanese Unexamined Patent Application Publication 2005-24080 (&#x201c;JP '080&#x201d;).) Additionally, in recent years there have been proposals for technologies for stabilizing the speed distribution of the fluid through causing the fluid to impinge upon an inner wall of the flow path, through the provision of a plurality of curved portions in the flow path. (See, for example, Patent References 2 and 3 International Patent Application Publication 2005/121718 (&#x201c;JP '718&#x201d;) and Japanese Unexamined Patent Application Publication 2007-121036 (&#x201c;JP '036&#x201d;).)</p>
+<p id="p-0006" num="0005">However, when the technology as described in JP '080 is used, conventional flow rectifying plates are disposed so as to be perpendicular to the direction in which the flow path extends, and thus there is a problem in that this increases the loss of pressure in the measurement fluid. Additionally, even when the technologies described in JP '718 and JP '036 are used, there is still the danger of an increase in the pressure loss in the measurement fluid due to the many curved portions that are provided in order to obtain a repeatable and uniform flow speed distribution.</p>
+<p id="p-0007" num="0006">The present invention is the result of contemplation on this situation, and the object thereof is to provide a flow meter and a flow volume controlling device equipped therewith, capable of obtaining a flow rectifying effect in the measurement fluid while preventing an increase in pressure loss.</p>
+<heading id="h-0004" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0008" num="0007">In order to achieve the object set forth above, the flow meter according to the present invention includes a flow path wherein the measurement fluid flows, and a flow rectifier disposed within the flow path, wherein the flow rectifier has a hole for rectifying the flow of the measurement fluid, and a cross-sectional area that is wider than the cross-sectional area of the flow path in a direction that is perpendicular to the direction in which the flow path extends.</p>
+<p id="p-0009" num="0008">When this structure is used, the flow rectifier has an area that is larger than the cross-sectional area of the flow path in the direction that is perpendicular to the direction in which the flow path extends, making it possible to increase the number of holes for flow rectification formed in the flow rectifier, and possible to increase the total area thereof, and thus possible to suppress the increase in pressure loss in the measurement fluid due to the flow rectifier, while still possible to obtain the flow rectifying effect. Consequently, it is possible to increase the measurement accuracy of the flow volume of the measurement fluid.</p>
+<p id="p-0010" num="0009">In flow meter described above it is possible to use a flow rectifier having at least one flow rectifying plate, disposed at an incline relative to the direction in which the flow path extends.</p>
+<p id="p-0011" num="0010">When this structure is used, the flow rectifying plate that structures the flow rectifier is disposed at an &#x201c;incline&#x201d; relative to the direction in which the flow path extends (or in other words, in a state that is not perpendicular to the direction in which the flow path extends), and thus it is possible to increase the area of the flow rectifying plate relative to a flow rectifying plate that is disposed in a state that is perpendicular to the direction in which the flow path extends, as has been done conventionally. Consequently, it is possible to increase the number of holes for a flow rectification that are formed in the flow rectifier, and to increase in the total area thereof, making it possible to suppress the increase in pressure loss in the measurement fluid caused by the flow rectifier, and still possible to obtain the flow rectifying effect. Consequently, it is possible to increase the measurement accuracy of the flow volume of the measurement fluid.</p>
+<p id="p-0012" num="0011">In the flow meter described above the outer peripheral surface of the flow rectifying plate can be disposed in contact with the inner wall of the flow path around the entire periphery thereof.</p>
+<p id="p-0013" num="0012">The use of this structure makes it possible to reliably secure the flow rectifying plate to the flow path through the force of friction that acts between the outer peripheral surface of the flow rectifying plate and the inner wall of the flow path. Additionally, because the outer peripheral surface of the flow rectifying plate is in contact with the inner wall of the flow path around the entire periphery, it is possible to prevent the formation of a gap between the flow rectifying plate and the flow path.</p>
+<p id="p-0014" num="0013">Additionally, in the flow meter described above it is possible to form a straight pipe-shaped flow path through the cover member covering the opening portion of the flow path block, through providing a flow path block that is not only provided, on the interior thereof, with a flow path forming a portion that extends in the form of a straight line in order to form the flow path, but that also has an opening portion for connecting from above the flow path forming portion to the outside. Additionally, when the cover member covers the opening portion of the flow path block, while the outer peripheral surface of the flow rectifying plate is caused to contact the cover member, the outer peripheral portion of the flow path plate is also caused to contact the inner wall of the flow path block, thus making it possible for the flow rectifying plate to be secured by being held between the cover member and the inner wall of the flow path block. At this time, the location of contact of the flow rectifying plate in the cover member and the location of contact of the flow rectifying plate in the flow path block can be set so as to be different locations in the direction in which the straight pipe-shaped flow path extends.</p>
+<p id="p-0015" num="0014">In the flow meter, a straight pipe-shaped flow path having a sensor flow path portion wherein is disposed a flow sensor for detecting the flow speed or flow volume of the measurement fluid, a wide diameter flow path portion having a larger flow path cross-sectional area than that of the sensor flow path portion, formed on the upstream side and/or the downstream side of the sensor flow path portion, may be used. Additionally, the end surface of the sensor flow path portion side of the wide diameter flow path portion is provided in a state that is at an incline relative to a plane that is perpendicular to the direction in which the straight pipe-shaped flow path extends, enabling the flow rectifying plate to be secured through being disposed so as to contact the end surface of the wide diameter flow path portion of the straight pipe-shaped flow path.</p>
+<p id="p-0016" num="0015">The use of this structure enables the flow rectifying plate to be secured through being disposed at an angle relative to the direction in which the straight pipe-shaped flow path extends. Consequently, in a flow meter having a straight pipe-shaped flow path, the increase in pressure loss in the measurement fluid can be suppressed, and the flow rectifying effect can be produced, making it possible to increase the measurement accuracy of the flow volume of the measurement fluid.</p>
+<p id="p-0017" num="0016">Furthermore in the flow meter described above, not only can there be a sensor flow path portion that extends in the form of a straight line, wherein the flow sensor that detects the flow speed or flow volume of the measurement fluid is disposed, but also the upstream side and/or the downstream side of the sensor flow path portion may use a curved flow path that is structured from a curved portion so as to be curved, and in this case, a flow rectifier that is structured from a flat plate that is disposed on the inner wall of the sensor flow path portion and from a flow rectifying plate that is in contact, at an angle, with the upstream side end portion and/or the downstream side end portion of the flat plate, may be used, where the outer peripheral surface of the flow rectifying plate may be disposed so as to contact the inner wall of the curved portion of the curved flow path, to thereby secure the flow rectifier in the curved flow path.</p>
+<p id="p-0018" num="0017">The use of the structure enables the flow rectifying plate to be secured through being disposed at an angle relative to the direction in which the sensor flow path portion of the curved flow path extends. Consequently, in a flow meter having a curved flow path, the increase in pressure loss in the measurement fluid can be suppressed, and the flow rectifying effect can be obtained, enabling an increase in the measurement accuracy of the flow volume of the measurement fluid.</p>
+<p id="p-0019" num="0018">Additionally, in the flow meter set forth above, a flow path block that is provided, on the inside thereof, with a sensor flow path forming portion that extends in the form of a straight line, for forming a sensor flow path portion for the curved flow path, and which has an opening portion for connecting from above the sensor flow path forming portion to the outside, and a circuit board having a flow sensor on one surface thereof and having electric circuit electrodes for connecting to an electric circuit for performing the measurement principle using the flow sensor, on the other surface thereof, may be used. In this case, the circuit board may be disposed, relative to the flow path block, so that the circuit board blocks the opening portion of the flow path block, and so that the flow sensor of the circuit board faces the sensor flow path forming portion of the flow path block, to enable the formation of the sensor flow path portion of the curved flow path.</p>
+<p id="p-0020" num="0019">The use of this structure enables the flow rectifier to be disposed easily within the curved flow path through entering through the opening portion of the flow path block that structures and the curved flow path.</p>
+<p id="p-0021" num="0020">Additionally, in the flow meter described above, the flow rectifying plate may be structured through forming holes through punching a rigid plate-shaped member.</p>
+<p id="p-0022" num="0021">The use of this structure enables a rigid flow rectifying plate to be obtained, enabling the application of this flow rectifying plate to a flow meter for a medium volume flow through a large volume flow.</p>
+<p id="p-0023" num="0022">Additionally, in the flow meter described above, the flow rectifying plate may be structured through forming holes through etching a thin plate.</p>
+<p id="p-0024" num="0023">The use of this structure enables a thin flow rectifying plate to be obtained, enabling this flow rectifying plate to be applied to a flow meter for measuring extremely small flow volumes.</p>
+<p id="p-0025" num="0024">Additionally, in the flow meter described above, a colander-shaped flow rectifier that is formed so as to bulge out in one direction in the direction in which the flow path extends may be used.</p>
+<p id="p-0026" num="0025">Additionally, the flow volume controlling device as set forth in the present invention may be provided with the flow meter described above, a controlling valve, and controlling means for adjusting the flow volume of a fluid that flows through the flow path of the flow meter through controlling the controlling valve based on information pertaining to the flow volume, detected by the flow meter.</p>
+<p id="p-0027" num="0026">The use of this structure provides a flow meter with high measurement accuracy for the flow volume, through making it possible to obtain a flow rectifying effect in the measurement fluid while suppressing the increase in the pressure drop, thereby enabling an increase in the accuracy of the adjustment of the flow volume of the fluid.</p>
+<p id="p-0028" num="0027">The present invention enables the provision of a flow meter, and a flow volume controlling device equipped therewith, capable of producing a flow rectifying effect in the measurement fluid while suppressing an increase in the pressure loss.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 1</figref> is a schematic structural diagram for explaining the structure of a flow volume controlling device according to a first form of embodiment according to the present invention.</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 2</figref> is a cross-sectional diagram of a flow meter (having a straight pipe-shaped flow path) according to the first form of embodiment according to the present invention.</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. 3</figref> is a top view diagram of a flow path block for the flow meter of <figref idref="DRAWINGS">FIG. 2</figref>.</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. 4</figref> is a cross-sectional diagram of the case when the flow path block of <figref idref="DRAWINGS">FIG. 3</figref> is viewed along the direction IV-IV.</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. 5</figref> is a top view diagram of a flow path block wherein the flow rectifier (flow rectifying plates) of the flow meter in <figref idref="DRAWINGS">FIG. 2</figref> are disposed.</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. 6</figref> is a cross-sectional diagram of the case wherein the flow path block wherein the flow rectifying plates of <figref idref="DRAWINGS">FIG. 5</figref> are disposed is viewed along VI-VI.</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. 7</figref> is an oblique view of a flow sensor in the flow meter in <figref idref="DRAWINGS">FIG. 2</figref>.</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. 8</figref> is an end surface diagram of a case wherein the flow sensor in <figref idref="DRAWINGS">FIG. 7</figref> is viewed along VIII-VIII.</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIGS. 9A and 9B</figref> illustrate an examples of a flow rectifying plate (rectangular shape) in a flow meter according to the first form of embodiment of the present invention, where (A) is a diagram when viewed from the flow path upstream side, and (B) is a cross-sectional diagram when viewed from the side of the flow path.</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIGS. 10A and 10B</figref> illustrate square flow rectifying plates of a conventional flow meter, where (A) is a diagram when viewed from the upstream side of the flow path, and (B) is a cross-sectional diagram when viewed from the side of the flow path.</p>
+<p id="p-0039" num="0038"><figref idref="DRAWINGS">FIGS. 11A</figref> and B illustrate another example of a flow rectifying plate (rectangular) of a flow meter according to the first form of embodiment according to the present invention, where (A) is a diagram when viewed from the upstream side of the flow path, and (B) is a cross-sectional diagram when viewed from the side of the flow path.</p>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIGS. 12A and 12B</figref> illustrate another example of a flow rectifying plate (circular) of a flow meter according to the first form of embodiment according to the present invention, where (A) is a diagram when viewed from the upstream side of the flow path, and (B) is a cross-sectional diagram when viewed from the side of the flow path.</p>
+<p id="p-0041" num="0040"><figref idref="DRAWINGS">FIG. 13</figref> is a cross-sectional diagram illustrating a modified example of the state of disposition of a flow rectifying plate in the flow meter according to the first form of embodiment according to the present invention.</p>
+<p id="p-0042" num="0041"><figref idref="DRAWINGS">FIGS. 14A and 14B</figref> illustrate modified examples of a flow rectifier (colander shaped) of a flow meter according to the first form of embodiment according to the present invention.</p>
+<p id="p-0043" num="0042"><figref idref="DRAWINGS">FIG. 15</figref> is a schematic structural diagram for explaining the structure of a flow volume controlling device according to a second form of embodiment according to the present invention.</p>
+<p id="p-0044" num="0043"><figref idref="DRAWINGS">FIG. 16</figref> is an end surface diagram of a flow meter (having a curved flow path) according to the second form of embodiment according to the present invention.</p>
+<p id="p-0045" num="0044"><figref idref="DRAWINGS">FIG. 17</figref> is a top view diagram of the flow path block of the flow meter of <figref idref="DRAWINGS">FIG. 16</figref>.</p>
+<p id="p-0046" num="0045"><figref idref="DRAWINGS">FIG. 18</figref> is an end surface diagram of the case when the flow path block in <figref idref="DRAWINGS">FIG. 17</figref> is viewed from XVIII-XVIII.</p>
+<p id="p-0047" num="0046"><figref idref="DRAWINGS">FIG. 19</figref> is a top view diagram of a flow path block wherein a flow rectifying plate is disposed in the flow meter in <figref idref="DRAWINGS">FIG. 16</figref>.</p>
+<p id="p-0048" num="0047"><figref idref="DRAWINGS">FIG. 20</figref> is an end surface diagram of the case wherein the flow path block wherein the flow rectifying plate of <figref idref="DRAWINGS">FIG. 19</figref> is disposed is viewed from XX-XX.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0049" num="0048">A flow meter, and a flow volume controlling device, according to an example of embodiment according to the present invention will be described below in reference to the figures.</p>
+<p id="p-0050" num="0049">A summary of the structure of a flow volume controlling device <b>1</b> as set forth in an embodiment according to the present invention will be explained below. The flow volume controlling device <b>1</b> as set forth in the present form of embodiment is provided with: a flow meter <b>2</b> for measuring the flow volume of a fluid; a controlling valve <b>3</b> for adjusting the flow volume of a fluid, provided on the downstream side of the flow meter <b>2</b>; and controlling means <b>4</b> for controlling the controlling valve <b>3</b>, as illustrated in <figref idref="DRAWINGS">FIG. 1</figref>. The flow meter <b>2</b> is a flow meter according to an embodiment according to the present invention, and has a straight-formed flow path (a straight pipe-shaped flow path). The structure of the flow meter <b>2</b> will be described in detail below.</p>
+<p id="p-0051" num="0050">The controlling valve <b>3</b> is a solenoid valve having: a valve seat <b>33</b> wherein is formed a primary-side flow path <b>31</b> and a secondary-side flow path <b>32</b>, wherein a fluid flows; a valve chamber <b>34</b> wherein the primary-side flow path <b>31</b> and the secondary-side flow path <b>32</b> are connected; a valve unit <b>35</b> that opens and closes the secondary-side flow path <b>32</b>, housed in the valve chamber <b>34</b>; a magnetic plunger <b>36</b> that is connected to the valve unit <b>35</b>; a solenoid coil <b>37</b> to which is attached electric power, wherein the plunger <b>36</b> moves upward or downward; and the like.</p>
+<p id="p-0052" num="0051">The controlling means <b>4</b> are that which adjusts the flow volume of the fluid through controlling the controlling valve <b>3</b> based on information relating to the flow volume that is detected by the flow meter <b>2</b>. The controlling means <b>4</b> have: a signal processing circuit <b>41</b> for processing detection signals from the flow meter <b>2</b>; a driving circuit <b>42</b> for driving the controlling valve <b>3</b>; a CPU <b>43</b> for controlling the driving circuit <b>42</b> based on the detected value for the flow volume, processed by the signal processing circuit <b>41</b>; and so forth. The CPU <b>43</b> drives and controls the controlling valve <b>3</b> through the driving circuit <b>42</b> to reduce the flow volume if the detected value for the flow volume is greater than a set value, while, on the other hand, if the detected value for the flow volume is less than the set value, the CPU <b>43</b> increases the flow volume through driving and controlling the controlling valve <b>3</b> through the driving circuit <b>42</b>.</p>
+<p id="p-0053" num="0052">Next the structure of the flow meter <b>2</b> in relation to the present form of embodiment will be described using <figref idref="DRAWINGS">FIG. 2</figref> through <figref idref="DRAWINGS">FIG. 9</figref>.</p>
+<p id="p-0054" num="0053">The flow meter <b>2</b>, as illustrated in <figref idref="DRAWINGS">FIG. 2</figref>, is provided with: a straight pipe-shaped flow path <b>5</b> in which the measurement fluid flows; a flow sensor <b>10</b> for detecting the flow speed or flow volume of the measurement fluid, disposed in essentially the center position, in the lengthwise direction, of the straight pipe-shaped flow path <b>5</b>; a flow rectifier <b>20</b> (flow rectifying plates <b>20</b><i>a </i>and <b>20</b><i>b</i>), disposed within the straight pipe-shaped flow path <b>5</b>, wherein holes <b>21</b>, for flow rectification of the measurement fluid, are formed; and the like.</p>
+<p id="p-0055" num="0054">The straight pipe-shaped flow path <b>5</b> in the present embodiment, as illustrated in <figref idref="DRAWINGS">FIG. 2</figref>, has: a sensor flow path portion <b>5</b><i>a </i>in which the flow sensor <b>10</b> is disposed; and a wide diameter flow path portion <b>5</b><i>b </i>having a flow path cross-sectional area that is greater than that of the sensor flow path portion <b>5</b><i>a</i>, and which is formed on the upstream side and/or the downstream side of the sensor flow path portion <b>5</b><i>a</i>. The cross-sectional shapes of the sensor flow path portion <b>5</b><i>a </i>and of the wide diameter flow path portion <b>5</b><i>b </i>are both rectangular shapes. The straight pipe-shaped flow path <b>5</b> (that is, the sensor flow path portion <b>5</b><i>a </i>and the wide diameter flow path portion <b>5</b><i>b</i>) are formed through a cover member <b>7</b> blocking an opening portion <b>6</b><i>b </i>that is provided on the top surface of a flow path block <b>6</b>.</p>
+<p id="p-0056" num="0055">The flow path block <b>6</b> is a frame that is essentially a rectangular solid, as illustrated in <figref idref="DRAWINGS">FIG. 3</figref> and <figref idref="DRAWINGS">FIG. 4</figref>, formed from metal, plastic, or the like. A flow path forming portion <b>6</b><i>a</i>, with a rectangular cross-sectional shape, is provided within the flow path block <b>6</b> extending in the form of a straight line from one end portion thereof to the other end portion thereof in the lengthwise direction. A rectangular opening portion <b>6</b><i>b </i>is provided on the top surface of the flow path block <b>6</b>, where the flow path forming portion <b>6</b><i>a </i>is connected to the outside through this opening portion <b>6</b><i>b. </i></p>
+<p id="p-0057" num="0056">As illustrated in <figref idref="DRAWINGS">FIG. 4</figref>, female screw portions <b>6</b><i>c </i>are formed on both ends, in the lengthwise direction, of the flow path forming portion <b>6</b><i>a </i>of the flow path block <b>6</b>, at where male screw portions of external pipes (for example, the pipe P in <figref idref="DRAWINGS">FIG. 1</figref>) are screwed into these female screw portions <b>6</b><i>c </i>to connect the flow meter <b>2</b> to pipes. A lengthwise-direction center bottom portion <b>6</b><i>d </i>(the portion that is on the downward side opposite from the opening portion <b>6</b><i>b</i>) of the flow path forming portion <b>6</b><i>a </i>is structured so as to protrude slightly in the upward direction from the lengthwise-direction end bottom portions <b>6</b><i>e. </i></p>
+<p id="p-0058" num="0057">Additionally, end surfaces <b>6</b><i>f</i>, wherein the lengthwise-direction center bottom portion <b>6</b><i>d </i>and the lengthwise-direction end bottom portions <b>6</b><i>e </i>of the flow path forming portion <b>6</b><i>a </i>are joined together (the portions that form the end surfaces of the sensor flow path portion <b>5</b><i>a </i>side of the wide diameter flow path portions <b>5</b><i>b</i>), as illustrated in <figref idref="DRAWINGS">FIG. 4</figref>, are formed so as to be in a slightly inclined state relative to the plane that is perpendicular to the direction in which the flow path forming portion <b>6</b><i>a </i>extends. These end surfaces <b>6</b><i>f </i>are disposed towards the inside (towards the center) from the position of the lengthwise -direction end edges <b>6</b><i>g </i>of the opening portion <b>6</b><i>b </i>of the flow path block <b>6</b>. These end surfaces <b>6</b><i>f </i>contact lower portions of the flow rectifying plates <b>20</b><i>a </i>and <b>20</b><i>b</i>. Furthermore, in the neighborhood of the lengthwise-direction end edges <b>6</b><i>g </i>of the opening portion <b>6</b><i>b </i>of the flow path block <b>6</b>, notched portions <b>6</b><i>h </i>are formed for engaging the upper portions of the flow rectifying plates <b>20</b><i>a </i>and <b>20</b><i>b</i>. The notched portions <b>6</b><i>h </i>have inclined surfaces that are parallel to the end surfaces <b>6</b><i>f</i>, and the top portions of the flow rectifying plates <b>20</b><i>a </i>and <b>20</b><i>b </i>contact these inclined surfaces.</p>
+<p id="p-0059" num="0058">The cover member <b>7</b> is a frame that is essentially a rectangular solid, as illustrated in <figref idref="DRAWINGS">FIG. 2</figref>, where a protruding portion <b>7</b><i>a</i>, shaped so as to block the opening portion <b>6</b><i>b </i>of the flow path block <b>6</b>, is provided on the bottom surface thereof. The protruding portion <b>7</b><i>a</i>, as illustrated in <figref idref="DRAWINGS">FIG. 2</figref>, is formed with a lengthwise-direction center portion <b>7</b><i>b </i>protruding slightly below the lengthwise-direction end portions <b>7</b><i>c</i>. Inclined planes, formed so as to be parallel with the inclined planes of the notched portions <b>6</b><i>h </i>of the flow path block <b>6</b>, are formed on angled portions <b>7</b><i>d </i>of the lengthwise-direction end portions <b>7</b><i>c </i>of the protruding portion <b>7</b><i>a</i>, where the upper portions of the flow rectifying plates <b>20</b><i>a </i>and <b>20</b><i>b </i>make contact with these inclined planes. The flow sensor <b>10</b> for detecting the flow speed or flow volume of the fluid that is flowing through the straight pipe-shaped flow path <b>5</b> is provided on the front side (the flow path block <b>6</b> side) of the lengthwise-direction center portion <b>7</b><i>b </i>of the protruding portion <b>7</b><i>a</i>. The structure and function of the flow sensor <b>10</b> will be described below.</p>
+<p id="p-0060" num="0059">A circuit board <b>8</b>, on which various types of electric circuits are provided, is disposed within the cover member <b>7</b>, where the circuit board <b>8</b> and the flow sensor <b>10</b> are connected electrically through electrodes that are provided on the back side (the interior side of the cover member <b>7</b>) of the lengthwise-direction center portion <b>7</b><i>b </i>of the protruding portion <b>7</b><i>a</i>. Furthermore, a signal cable <b>9</b> is connected to the circuit board <b>8</b>, where this signal cable <b>9</b> leads to the outside from an opening portion <b>7</b><i>e </i>that is formed in the cover member <b>7</b>, to connect to the signal processing circuit <b>41</b> of the controlling means <b>4</b>.</p>
+<p id="p-0061" num="0060">The cover member <b>7</b> is placed onto the top of the flow path block <b>6</b>, to block the opening portion <b>6</b><i>b </i>of the flow path block <b>6</b> with the protruding portion <b>7</b><i>a </i>of the cover member <b>7</b>, as illustrated in <figref idref="DRAWINGS">FIG. 2</figref>, to thereby form the straight pipe-shaped flow path <b>5</b>. At this time, the sensor flow path portion <b>5</b><i>a </i>of the straight pipe-shaped flow path <b>5</b> is formed from the lengthwise-direction center portion <b>7</b><i>b </i>of the protruding portion <b>7</b><i>a </i>of the cover member <b>7</b> and the lengthwise-direction center bottom portion <b>6</b><i>d </i>of the flow path forming portion <b>6</b><i>a </i>of the flow path block <b>6</b>. Additionally, the wide diameter flow path portion <b>5</b><i>b </i>of the straight pipe-shaped flow path <b>5</b> is formed from the lengthwise -direction end portions <b>7</b><i>c </i>of the protruding portion <b>7</b><i>a </i>of the cover member <b>7</b> and the end surfaces <b>6</b><i>f </i>and lengthwise-direction end bottom portions <b>6</b><i>e </i>of the flow path forming portion <b>6</b><i>a </i>of the flow path block <b>6</b>.</p>
+<p id="p-0062" num="0061">The flow sensor <b>10</b>, as illustrated in <figref idref="DRAWINGS">FIG. 7</figref> and <figref idref="DRAWINGS">FIG. 8</figref>, has a substrate <b>12</b> provided with: a cavity <b>11</b>; an insulating layer <b>13</b> that is disposed on the substrate <b>12</b> so as to cover the cavity <b>11</b>; a heater <b>14</b>, disposed on the insulating layer <b>13</b>; an upstream-side temperature measuring resistance element <b>15</b>, provided on the upstream side of the heater <b>14</b>; a downstream-side temperature measuring resistance element <b>16</b>, provided on the downstream side of the heater <b>14</b>; and an ambient temperature sensor <b>17</b>, provided on the upstream side of the upstream-side temperature measuring resistance element <b>15</b>.</p>
+<p id="p-0063" num="0062">The portion of the insulating layer <b>13</b> that covers the cavity <b>11</b> is structured as a thermally insulating diaphragm. The ambient temperature sensor <b>17</b> measures the temperature of the fluid that flows in the straight pipe-shaped flow path <b>5</b>, illustrated in <figref idref="DRAWINGS">FIG. 2</figref>. The heater <b>14</b> is disposed in the center of the insulating layer <b>13</b> that covers the cavity <b>11</b>, and heats the fluid that flows in the straight pipe-shaped flow path <b>5</b> so as to reach a predetermined temperature (for example, 10&#xb0; C.) that is higher than the temperature measured by the ambient temperature sensor <b>17</b>. The upstream-side temperature measuring resistance element <b>15</b> is used in order to detect the temperature that is on the upstream side of the heater <b>14</b>, and the downstream-side temperature measuring resistance element <b>16</b> is used to detect the temperature on the downstream side of the heater <b>14</b>.</p>
+<p id="p-0064" num="0063">Here, if the fluid within the straight pipe-shaped flow path <b>5</b>, illustrated in <figref idref="DRAWINGS">FIG. 2</figref>, is stationary, the heat that is applied by the heater <b>14</b>, illustrated in <figref idref="DRAWINGS">FIG. 7</figref> and <figref idref="DRAWINGS">FIG. 8</figref>, will diffuse symmetrically in the upstream direction and the downstream direction. Consequently, the temperatures of the upstream-side temperature measuring resistance element <b>15</b> and the downstream-side temperature measuring resistance element <b>16</b> will be equal, so the electrical resistances of the upstream-side temperature measuring resistance element <b>15</b> and the downstream-side temperature measuring resistance element <b>16</b> will be equal. In contrast, when the fluid in the straight pipe-shaped flow path <b>5</b> is flowing from upstream to downstream, the heat that is added by the heater <b>14</b> will be carried to the downstream side. Consequently, the temperature at the downstream-side temperature measuring resistance element <b>16</b> will be higher than the temperature at the upstream-side temperature measuring resistance element <b>15</b>. Because of this, there will be a difference between the electrical resistance of the upstream-side temperature measuring resistance element <b>15</b> and the electrical resistance of the downstream-side temperature measuring resistance element <b>16</b>. This difference between the electrical resistance of the downstream-side temperature measuring resistance element <b>16</b> and the electrical resistance of the upstream-side temperature measuring resistance element <b>15</b> will have a correlation relationship with the speed and flow volume of the fluid in the straight pipe-shaped flow path <b>5</b>. Because of this, it is possible to calculate the flow speed and the flow volume of the fluid that is flowing in the straight pipe-shaped flow path <b>5</b> from the electrical resistance of the downstream-side temperature measuring resistance element <b>16</b> and the electrical resistance of the upstream-side temperature measuring resistance element <b>15</b>.</p>
+<p id="p-0065" num="0064">Silicon (Si) or the like may be used as the material for the substrate <b>12</b> illustrated in <figref idref="DRAWINGS">FIG. 7</figref> and <figref idref="DRAWINGS">FIG. 8</figref>. Silicon oxide (SiO<sub>2</sub>) or the like may be used as the material for the insulating layer <b>13</b>. The cavity <b>11</b> may be formed through anisotropic etching, or the like. Furthermore, platinum (Pt) may be used as the material for the heater <b>14</b>, for the upstream-side temperature measuring resistance element <b>15</b>, for the downstream-side temperature measuring resistance element <b>16</b>, and for the ambient temperature sensor <b>17</b>, and these may be formed through a lithographic method, or the like.</p>
+<p id="p-0066" num="0065">The flow rectifier <b>20</b>, as illustrated in <figref idref="DRAWINGS">FIG. 2</figref>, is disposed in the wide diameter flow path portion <b>5</b><i>b </i>of the straight pipe-shaped flow path <b>5</b>, and fulfills the function of rectifying the measurement fluid (that is, the function of suppressing the turbulence within the measurement fluid). The flow rectifier <b>20</b> in the present form of embodiment is two flow rectifying plates <b>20</b><i>a </i>and <b>20</b><i>b </i>that are disposed on the upstream side and the downstream side of the sensor flow path portion <b>5</b><i>a </i>of the straight pipe-shaped flow path <b>5</b>. The flow rectifier <b>20</b> (the flow rectifying plates <b>20</b><i>a </i>and <b>20</b><i>b</i>), as illustrated in <figref idref="DRAWINGS">FIG. 9</figref> (a), has a flat rectangular shape so as to correspond with the cross-sectional shape of the straight pipe-shaped flow path <b>5</b>, and a plurality of flow rectifying holes <b>21</b> are formed therein from the front side thereof penetrating to the back side thereof.</p>
+<p id="p-0067" num="0066">The flow rectifier <b>20</b> (the flow rectifying plates <b>20</b><i>a </i>and <b>20</b><i>b</i>), as illustrated in <figref idref="DRAWINGS">FIG. 2</figref> and <figref idref="DRAWINGS">FIG. 9(B)</figref>, are disposed at an angle relative to the direction in which the straight pipe-shaped flow path <b>5</b> extends (that is, in a state that is not perpendicular to the direction in which the straight pipe-shaped flow path <b>5</b> extends). The state of disposition of the flow rectifying plates <b>20</b><i>a </i>and <b>20</b><i>b </i>will be described in specifics. The upper portions, which include portions of the peripheral surfaces, of the flow rectifying plates <b>20</b><i>a </i>and <b>20</b><i>b</i>, as illustrated in <figref idref="DRAWINGS">FIG. 2</figref>, <figref idref="DRAWINGS">FIG. 5</figref>, and <figref idref="DRAWINGS">FIG. 6</figref>, are disposed so as to contact (be held between) the inclined planes of the notched portion <b>6</b><i>h</i>, formed in the vicinity of the opening portion <b>6</b><i>b </i>of the flow path block <b>6</b>, and the inclined plane of the angled portion <b>7</b><i>d </i>of the lengthwise-direction end portions <b>7</b><i>c </i>of the protruding portion <b>7</b><i>a </i>of the cover member <b>7</b> when the straight pipe-shaped flow path <b>5</b> is formed by blocking the opening portion <b>6</b><i>b </i>of the flow path block <b>6</b> with the protruding portions <b>7</b><i>a </i>of the cover member <b>7</b>. On the other hand, the lower portions, including portions of the outer peripheral surfaces, of the flow rectifying plates <b>20</b><i>a </i>and <b>20</b><i>b </i>are disposed so as to make contact with the end surfaces wherein there is contact between the lengthwise-direction center bottom portion <b>6</b><i>b </i>of the flow path block <b>6</b> and the lengthwise-direction end bottom portions <b>6</b><i>e </i>(that is, the end surfaces on the sensor flow path portion <b>5</b><i>a </i>side of the wide diameter flow path portion <b>5</b><i>b</i>. These end surfaces <b>6</b><i>f </i>are disposed further towards the center than the notched portions <b>6</b><i>h</i>, and thus the flow rectifying plates <b>20</b><i>a </i>and <b>20</b><i>b </i>are disposed so as to be inclined towards the center further towards the bottom (that is, inclined so as to be further towards the outside the further up).</p>
+<p id="p-0068" num="0067">Note that the inclination angles for the flow rectifying boards <b>20</b><i>a </i>and <b>20</b><i>b</i>, the inclination angles for the inclined surfaces of the notched portions <b>6</b><i>h </i>formed in the vicinity of the opening portion <b>66</b><i>b </i>of the flow path block <b>6</b>, the inclination angles of the inclined surfaces of the angled portions <b>7</b><i>d </i>of the lengthwise-direction end portions <b>7</b><i>c </i>of the protruding portion <b>7</b><i>a </i>of the cover member <b>7</b>, and the inclination angles of the end surfaces <b>6</b><i>f </i>where the lengthwise-direction center bottom portion <b>6</b><i>d </i>and the lengthwise-direction end bottom portions <b>6</b><i>e </i>of the flow path block <b>6</b> make contact are all set to the exact same value. Additionally, the other portions on the outer peripheral surface of the flow rectifying plates <b>20</b><i>a </i>and <b>20</b><i>b </i>contact the inner wall that forms the flow path forming portion <b>6</b><i>a </i>of the flow path block <b>6</b>. The result is that the flow rectifying plates <b>20</b><i>a </i>and <b>20</b><i>b</i>, on the outer peripheral surface thereof, contact the inner wall of the straight pipe-shaped flow path <b>5</b> around the entire periphery thereof, and the flow rectifying plates <b>20</b><i>a </i>and <b>20</b><i>b </i>are secured through being held between the inner wall of the flow path block <b>6</b> and the cover member <b>7</b>.</p>
+<p id="p-0069" num="0068">The length and width dimensions (the plane surface shape) and thickness of the flow rectifying plates <b>20</b><i>a </i>and <b>20</b><i>b</i>, and the number, sizes, and shapes of the holes <b>21</b> that are formed in the flow rectifying plates <b>20</b><i>a </i>and <b>20</b><i>b </i>can be set as appropriate in accordance with the specifications, scope, type of measurement fluid, and so forth, of the flow meter <b>2</b>. As illustrated in <figref idref="DRAWINGS">FIG. 9(A)</figref>, flow rectifying plates of a rectangular shape that are 2.93 cm long&#xd7;2.54 cm wide are used in the present form of embodiment. Additionally, 99 circular holes <b>21</b> (11 in the height direction&#xd7;9 in the width direction), each with a diameter of 0.16 cm are used in the present form of embodiment, where the total opening surface area of all 21 holes together is 1.98 cm<sup>2</sup>. Note that in the present form of embodiment, the flow rectifying plates having the rigidity of being relatively thick are formed through cutting, at an angle, a square prism member wherein a plurality of holes have been formed in advance through punching to extend in the lengthwise direction, wherein the upper portion and lower portion of the outer peripheral surface are cut at a slight incline (that is, are not exactly square to the main surface) as illustrated in <figref idref="DRAWINGS">FIG. 9(B)</figref>. A stainless steel plate, or the like, may be used as the material for the flow rectifying plates <b>20</b><i>a </i>and <b>20</b><i>b. </i></p>
+<p id="p-0070" num="0069">In the flow meter <b>2</b> according to the form of embodiment described above, the flow rectifier <b>20</b> (the flow rectifying plates <b>20</b><i>a </i>and <b>20</b><i>b</i>) may be secured disposed at &#x201c;an angle&#x201d; relative to the direction in which the straight pipe-shaped flow path <b>5</b> extends (that is, in a state that is not perpendicular to the direction in which the straight pipe-shaped flow path <b>5</b> extends). Consequently, the surface area of the flow rectifying plates <b>20</b><i>a </i>and <b>20</b><i>b </i>can be increased to more than when the flow rectifying plates are disposed in a state that is perpendicular to the direction in which the flow path extends, as has been done conventionally, enabling the number of holes formed in the flow rectifying plates <b>20</b><i>a </i>and <b>20</b><i>b</i>, and the total area thereof, to be increased.</p>
+<p id="p-0071" num="0070">Explaining in concrete terms, the flow rectifier <b>20</b> (the flow rectifying plates <b>20</b><i>a </i>and <b>20</b><i>b</i>) in the present form of embodiment enables the formation of two more ranks of holes in the lengthwise direction (18 holes) because of the increase in the dimension in the vertical direction, when compared to the square flow rectifying plate <b>100</b> with a vertical and horizontal dimension of 2.54 cm (with 81 holes, and an opening area of 1.63 cm<sup>2</sup>) as illustrated in <figref idref="DRAWINGS">FIG. 10</figref>, wherein the flow rectifying plate <b>100</b> is disposed in a state that is perpendicular to the direction in which the flow path extends, with the effect that it is possible to increase the area of the opening by 0.35 cm<sup>2</sup>. Consequently, it is possible to suppress the increase in pressure loss in the measurement fluid arising due to the flow rectifier, and also possible to obtain the flow rectifying effect. The result is that it is possible to increase the measurement accuracy of the flow volume of the measurement fluid.</p>
+<p id="p-0072" num="0071">Also, in the flow meter <b>2</b> according to the form of embodiment set forth above, the flow rectifying plates <b>20</b><i>a </i>and <b>20</b><i>b </i>are disposed so that the outer peripheral surfaces thereof contact the inner wall of the straight pipe-shaped flow path <b>5</b> around the entire periphery thereof, and thus the flow rectifying plates <b>20</b><i>a </i>and <b>20</b><i>b </i>can be secured reliably relative to the straight pipe-shaped flow path <b>5</b> through the force of friction that acts between the outer peripheral surfaces of the flow rectifying plates <b>20</b><i>a </i>and <b>20</b><i>b </i>and the inner wall of the straight pipe-shaped flow path <b>5</b>. Additionally, because the outer peripheral surfaces of the flow rectifying plates <b>20</b><i>a </i>and <b>20</b><i>b </i>contact the inner wall of the straight pipe-shaped flow path <b>5</b> around the entire periphery thereof, it is possible to prevent the formation of gaps between the flow rectifying plates <b>20</b><i>a </i>and <b>20</b><i>b </i>and the straight pipe-shaped flow path <b>5</b>.</p>
+<p id="p-0073" num="0072">Additionally, in the flow volume controlling device <b>1</b> according to the form of embodiment set forth above, the flow rectifying effect in the measuring fluid can be obtained while suppressing the increase in the pressure loss, and it is possible to increase the accuracy of the flow volume adjustment for the fluid due to the provision of the flow meter <b>2</b> that has high flow volume measurement accuracy.</p>
+<p id="p-0074" num="0073">Note that in the present embodiment, an example was illustrated wherein a flow rectifier <b>20</b> (flow rectifying plates <b>20</b><i>a </i>and <b>20</b><i>b</i>) wherein the top and bottom side surfaces were at a slight inclination angle, as illustrated in <figref idref="DRAWINGS">FIG. 9(B)</figref> through cutting, at an angle, of a rectangular prism member wherein holes have been formed in advance; however, instead a flow rectifying plate <b>20</b>A as illustrated in <figref idref="DRAWINGS">FIGS. 11(A)</figref> and (B) may be manufactured through forming a plate-shaped member having holes <b>21</b>A wherein the top and bottom portions of the outer peripheral surfaces have right angles relative to the primary plane, through performing a press process on the plate member.</p>
+<p id="p-0075" num="0074">Furthermore, while in the present form of embodiment an example was illustrated wherein a straight pipe-shaped flow path <b>5</b> with a cross-sectional rectangular shape was used, a straight pipe-shaped flow path with a cross-sectional circular shape may be used instead. In this case, it is possible to use a flow rectifying plate <b>20</b>B wherein the plane shape is circular, as illustrated in <figref idref="DRAWINGS">FIGS. 12(A)</figref> and (B). Note that while the flow rectifying plate <b>20</b>B with the circular shape, illustrated in <figref idref="DRAWINGS">FIGS. 12(A)</figref> and (B) can be manufactured through cutting, at an angle, a cylindrical member in which holes have been formed in advance, instead the flow rectifying plate with the circular shape can be manufactured through performing a press process on a plate member. Additionally, the cross-sectional shape of the flow path of the flow meter (and the plane shape of the flow rectifying plate corresponding thereto) may be a shape wherein straight lines and curved lines are combined.</p>
+<p id="p-0076" num="0075">Additionally, while in the form of embodiment set forth above an example was illustrated wherein the upper portions, including portions of the outer peripheral surfaces, of the flow rectifying plates <b>20</b><i>a </i>and <b>20</b><i>b </i>were disposed so as to be held between the notched portions <b>6</b><i>h </i>in the vicinity of the opening portion <b>6</b><i>b </i>of the flow path block <b>6</b> and the angled portions <b>7</b><i>d </i>of the lengthwise-direction ends of the protruding portion <b>7</b><i>a </i>of the cover member <b>7</b>, so that the flow rectifying plates <b>20</b><i>a </i>and <b>20</b><i>b </i>are disposed so as to be inclined further towards the center the further in the downward direction, the state of disposition of the flow rectifying plates is not limited thereto.</p>
+<p id="p-0077" num="0076">For example, as illustrated in <figref idref="DRAWINGS">FIG. 13</figref>, it is possible to form end surfaces wherein the lengthwise-direction center portion <b>7</b><i>b </i>of the protruding portion <b>7</b><i>a </i>of the cover member <b>7</b> contacts the lengthwise-direction end portions <b>7</b><i>c </i>(the end surfaces of the wide diameter flow path portions <b>5</b><i>b </i>on the sensor flow path portions <b>5</b><i>a </i>side) to be angled slightly, relative to a vertical plane, in the direction in which the flow path forming portion <b>6</b><i>a </i>extends, and possible to cause the upper portions, including portions of the outer peripheral surfaces, of the flow rectifying plates <b>20</b><i>c </i>and <b>20</b><i>d </i>to contact the end surfaces <b>7</b><i>f</i>. In the modified example illustrated in <figref idref="DRAWINGS">FIG. 13</figref>, the end surfaces <b>7</b><i>f </i>of the protruding portion <b>7</b><i>a </i>of the cover member <b>7</b> are disposed further towards the center than the end surfaces <b>6</b><i>f </i>of the bottom portion of the flow path block <b>6</b>, and the flow rectifying plates <b>20</b><i>c </i>and <b>20</b><i>d </i>are disposed so as to be inclined further towards the center the higher up (inclined so as to be further towards the outside the further down). Even in this case, the angles of inclination of the flow rectifying plates <b>20</b><i>c </i>and <b>20</b><i>d</i>, the angles of inclination of the end surfaces <b>7</b><i>f </i>of the protruding portion <b>7</b><i>a </i>of the cover member <b>7</b>, and the angles of inclination of the end surfaces <b>6</b><i>f </i>of the bottom portion of the flow path block <b>6</b> can all be set to identical values.</p>
+<p id="p-0078" num="0077">Furthermore, while in the present embodiment, an example is illustrated wherein the positions of the upper portions of the flow rectifying plates <b>20</b><i>a </i>and <b>20</b><i>b </i>and the positions of the lower portions thereof being different in the direction in which the straight pipe-shaped flow path extends, to thereby dispose the flow rectifying plates <b>20</b><i>a </i>and <b>20</b><i>b </i>at angles relative to the direction in which the straight pipe-shaped flow path <b>5</b> extends, the state of disposition of the flow rectifying plates is not limited thereto. For example, by having the position of the front portion of the flow rectifying plate (for example, the portion that is on the front side of the surface of the paper in <figref idref="DRAWINGS">FIG. 2</figref>) and at the position of the back portion (the portion to the rear of the surface of the paper in <figref idref="DRAWINGS">FIG. 2</figref>) be different in the direction in which the straight pipe-shaped flow path extends, the flow rectifying plates can be disposed at angles relative to the direction in which the straight pipe-shaped flow path extends.</p>
+<p id="p-0079" num="0078">Additionally, while in the present form of embodiment an example is illustrated wherein flow rectifying plates <b>20</b><i>a </i>and <b>20</b><i>b </i>(for measuring medium flow volumes and large flow volumes) having the rigidity of relative thickness and wherein holes <b>21</b> were formed through punching a plate-shaped member were used, thin flow rectifying plates (for measuring extremely small flow volumes), wherein holes are formed through etching a thin plate, may be used instead. While, in the present embodiment, an example is illustrated wherein flow rectifying plates <b>20</b><i>a </i>and <b>20</b><i>b </i>wherein a plurality of holes are formed in plate-shaped members are used, flow rectifying plates that use a mesh-shaped metal net or flow rectifying plates wherein a plurality of slits are formed may be used instead.</p>
+<p id="p-0080" num="0079">Additionally, while in the present form of embodiment an example is illustrated wherein the flow rectifying plates are disposed on both the upstream side and the downstream side of the flow sensor <b>10</b>, instead a flow rectifying plate may be disposed on the upstream side of the flow sensor <b>10</b> alone. Additionally, if necessary, three or more flow rectifying plates may be provided. Additionally, while in the present embodiment an example is illustrated wherein a flat flow rectifying plate (having a cross-sectional shape resembling the letter &#x201c;I&#x201d;) is used, instead a flow rectifying plate having a cross-sectional shape resembling a &#x201c;&#x3e;&#x201d; (or a shape wherein a plurality of &#x201c;&#x3e;&#x201d; symbols are connected together) may be used.</p>
+<p id="p-0081" num="0080">Furthermore, while in the present embodiment an example is illustrated wherein two flow rectifying plates were used as the flow rectifier, the structure of the flow rectifier is not limited thereto, but rather all that is needed is to have a larger surface area than the cross-sectional area of the flow path in the direction that is perpendicular to the direction in which the flow path extends. For example, the colander-shaped flow rectifier <b>20</b>C, as illustrated in <figref idref="DRAWINGS">FIGS. 14(A)</figref> and (B), may be used. The colander-shaped flow rectifier <b>20</b>C has a flow rectifying portion <b>22</b> that is formed so as to bulge out in one direction in the direction in which the flow path <b>5</b> extends (for example, the downstream direction), and wherein a large number of holes <b>21</b>C for a flow rectification are formed, and also has a flat flange portion <b>23</b> that is connected to the peripheral edge of the flow rectifying portion <b>22</b>. This flow rectifying portion <b>22</b> has a curved surface shape (such as a portion of a spherical surface), as in a tea filter or a colander, and has a larger area than the flow path cross-sectional area in a direction that is perpendicular to the direction in which the flow path <b>5</b> extends. The flange portion <b>23</b> is disposed so as to contact the end surface of the wide diameter flow path portion <b>5</b><i>b </i>on the sensor flow path portion <b>5</b><i>a </i>side (the end surfaces <b>6</b><i>f </i>wherein the lengthwise-direction center bottom portion <b>6</b><i>d </i>and the lengthwise-direction end bottom portions <b>6</b><i>e </i>of the flow path block <b>6</b> connect, and the end surfaces <b>7</b><i>f </i>wherein the lengthwise-direction center portion <b>7</b><i>b </i>and the lengthwise-direction end portions <b>7</b><i>c </i>of the protruding portion <b>7</b><i>a </i>of the cover member <b>7</b> connect).</p>
+<p id="p-0082" num="0081">When this type of colander-shaped flow rectifier <b>20</b>C is used, then, as illustrated in <figref idref="DRAWINGS">FIG. 14(A)</figref>, not only is a fastening member <b>24</b> disposed adjacent to the flange portion <b>23</b> of the flow rectifier <b>20</b>C, but also female screw portions S<sub>F </sub>are formed in the inner walls of the lengthwise-direction end portions of the wide diameter flow path portions <b>5</b><i>b </i>of the flow path <b>5</b>. The male screw portions S<sub>M </sub>of external pipes P are screwed into the female screw portions S<sub>F </sub>of the flow path <b>5</b>, so that the fastening member <b>24</b> will be pushed against the flange portion <b>23</b> of the flow rectifier <b>20</b>C by the end portion of the male screw portion S<sub>M</sub>, thereby enabling the flange portion <b>23</b> of the flow rectifier <b>20</b><sub>C </sub>to be secured by being held between the fastening member <b>24</b> and the end surface of the sensor flow path portion <b>5</b><i>a </i>of the wide diameter flow path portion <b>5</b><i>b. </i></p>
+<p id="p-0083" num="0082"><figref idref="DRAWINGS">FIG. 15</figref> through <figref idref="DRAWINGS">FIG. 20</figref> will be used next to explain a flow volume controlling device <b>1</b>A according to another embodiment according to the present invention. The flow volume controlling device <b>1</b>A as set forth in the embodiment has a modification to the structure of the flow meter <b>2</b> in the flow volume controlling device <b>1</b> according to the previous embodiment, where the other structures are essentially identical to those in the first form of embodiment. Because of this, the explanation will center on the structures that are different, and the same codes are applied to those reputed structures as in the previous embodiment, and detailed explanations thereof are omitted.</p>
+<p id="p-0084" num="0083">The flow volume controlling device <b>1</b>A according to the present embodiment, as illustrated in <figref idref="DRAWINGS">FIG. 15</figref>, includes: a flow meter <b>2</b>A for measuring the flow volume of a fluid; a controlling valve <b>3</b> for adjusting the flow volume of the fluid; and controlling means <b>4</b> for controlling the controlling valve <b>3</b>. The flow meter <b>2</b>A is a flow meter according to an embodiment according to the present invention, and has flow paths that are shaped as curves (curved flow paths). The structures of the controlling valve <b>3</b> and the controlling means <b>4</b> are essentially identical to those in the above embodiment, and hence explanations thereof will be omitted. Note that <figref idref="DRAWINGS">FIG. 15</figref> is a schematic structural diagram illustrating the connection of the flow meter <b>2</b>A to the controlling valve <b>3</b> through a flow path. Because of this, the structure of the flow path for connecting the flow meter <b>2</b>A and the controlling valve <b>3</b>, and the positional relationship between the flow meter <b>2</b>A and the controlling valve <b>3</b>, are not limited to that which is shown in <figref idref="DRAWINGS">FIG. 15</figref>, but rather may be modified as appropriate.</p>
+<p id="p-0085" num="0084">The flow meter <b>2</b>A, as illustrated in <figref idref="DRAWINGS">FIG. 16</figref>, is equipped with a flow path block <b>60</b>, a flow rectifier <b>70</b>, and a flow sensor <b>10</b>. The flow path block <b>60</b> has a curved flow path <b>50</b>, where this curved flow path <b>50</b> is curved at a first curved portion <b>51</b> and a second curved portion <b>52</b>, where there is a straight line shape in a constant direction extending between the first and the second curved portions <b>51</b> and <b>52</b>. The flow rectifier <b>70</b> has a first flow rectifying plate <b>71</b> and a second flow rectifying plate <b>72</b>. These first flow rectifying plate <b>71</b> and second flow rectifying plate <b>72</b> are positioned within the curved flow path <b>50</b>, at an angle relative to the constant direction, in the respective first curved portion <b>51</b> and second curved portion <b>52</b>. The flow sensor <b>10</b> is disposed on the inner wall of a flow path portion (the sensor flow path portion <b>53</b>) between the first and second curved portions <b>51</b> and <b>52</b>, and detects the flow speed or flow volume of a fluid that flows in the curved flow path <b>50</b>.</p>
+<p id="p-0086" num="0085">As illustrated in <figref idref="DRAWINGS">FIG. 17</figref> and <figref idref="DRAWINGS">FIG. 18</figref>, an indented portion <b>62</b> corresponding to the sensor flow path forming portion in the present invention is provided on a top surface <b>61</b> of the flow path block <b>60</b>. Moreover, through holes <b>64</b> and through holes <b>65</b> are formed from the bottom surface of the lengthwise-direction ends of the indented portion <b>62</b>, towards the bottom surface <b>63</b> of the flow path block <b>60</b>. The cross-sectional shapes of the through holes <b>64</b> and through holes <b>65</b> are, for example, rectangular. However, they are not limited to being rectangular, but instead may be shapes that combine straight lines and curved lines. A frame <b>66</b> is provided so as to encompass the indented portion <b>62</b> at the outer periphery of the top surface <b>61</b> of the flow path block <b>60</b>. A metal, a plastic, or the like, may be used as the material for the flow path block <b>60</b>.</p>
+<p id="p-0087" num="0086">As illustrated in <figref idref="DRAWINGS">FIG. 16</figref>, a circuit board <b>80</b> is disposed on the top surface <b>61</b> of the flow path block <b>60</b> so as to block an opening portion <b>67</b> of the indented portion <b>62</b>. As illustrated in <figref idref="DRAWINGS">FIG. 17</figref> and <figref idref="DRAWINGS">FIG. 18</figref>, the curved flow path <b>50</b> is structured from the through holes <b>64</b> and <b>65</b> provided in the flow path block <b>60</b> and the indented portion <b>62</b> that is covered by the circuit board <b>80</b>. The area above the through holes <b>64</b>, provided in the indented portion <b>62</b> that is covered by the circuit board <b>80</b>, forms the first curved portion <b>51</b>, illustrated in <figref idref="DRAWINGS">FIG. 16</figref>, where the curved flow path <b>50</b> is curved to a right angle at the first curved portion <b>51</b>. Additionally, the area above the through holes <b>65</b> that are provided in the indented portion <b>62</b> that is covered by the circuit board <b>80</b> forms the second curved portion <b>52</b> illustrated in <figref idref="DRAWINGS">FIG. 16</figref>, where the curved flow path <b>50</b> is curved again to a right angle by the second curved portion <b>52</b>. In the present embodiment, the first curved portion <b>51</b> side of the curved flow path <b>50</b> is defined as upstream from the curved flow path <b>50</b>, and the second curved portion <b>52</b> side of the curved flow path <b>50</b> is defined as downstream from the curved flow path <b>50</b>.</p>
+<p id="p-0088" num="0087">The flow sensor <b>10</b> is disposed on the bottom surface of the circuit board <b>80</b> that functions as the inner wall of the curved flow path <b>50</b> between the first curved portion <b>51</b> and the second curved portion <b>52</b>. The structure of the flow sensor <b>10</b> is essentially identical to that in the above embodiment, so the explanation thereof is omitted. Electrodes for an electric circuit (not shown), for connecting to an electric circuit that performs the measurement principle using the flow sensor <b>10</b>, are provided on the top surface of the circuit board <b>80</b>. Additionally, the circuit board <b>80</b> is disposed so that the circuit board <b>80</b> blocks the opening portion <b>67</b> of the flow path block <b>60</b>, and so that the flow sensor <b>10</b> of the circuit board <b>80</b> will face the sensor flow path portion <b>53</b> of the curved flow path <b>50</b>.</p>
+<p id="p-0089" num="0088">The flow rectifier <b>70</b> has first and second flow rectifying plates <b>71</b> and <b>72</b> and a flat plate <b>73</b> that is connected to the first and second flow rectifying plates <b>71</b> and <b>72</b>, disposed therebetween. The flat plate <b>73</b> of the flow rectifier <b>70</b> has a rectangular shape for the plane shape thereof, as illustrated in <figref idref="DRAWINGS">FIG. 19</figref>, and, as illustrated in <figref idref="DRAWINGS">FIG. 20</figref>, is disposed so as to not block the through holes <b>64</b> and <b>65</b> at the flat bottom surface of the indented portion <b>62</b> of the flow path block <b>60</b>. The width of the indented portion <b>62</b> of the flow path block <b>60</b> and the width of the flat plate of the flow rectifier <b>70</b> are essentially identical dimensions, where the side surface of the flat plate <b>73</b> is in contact with the inner wall of the indented portion <b>62</b>. Because of this, the flat plate <b>73</b> is secured at the bottom surface of the indented portion <b>62</b> by the force of friction that operates between the inner wall of the indented portion <b>62</b> of the flow path block <b>60</b> and the side surface of the flat plate <b>73</b> of the flow rectifier <b>70</b>.</p>
+<p id="p-0090" num="0089">The first and second flow rectifying plates <b>71</b> and <b>72</b> of the flow rectifier <b>70</b> have plane shapes that are rectangular shapes, and, as illustrated in <figref idref="DRAWINGS">FIG. 20</figref>, are connected at an angle relative to the flat plate <b>73</b> (that is, in a state that is not perpendicular). The first and second flow rectifying plates <b>71</b> and <b>72</b> are connected on one edge to one edge of the flat plate <b>73</b>, and are connected on the other three edges to the inner wall of the indented portion <b>62</b> of the flow path block <b>60</b>. Additionally, the upper portions of the outer peripheral surfaces of the first and second flow rectifying plates <b>71</b> and <b>72</b> are connected to the bottom surface of the circuit board <b>80</b>. Because of this, the first and second flow rectifying plates <b>71</b> and <b>72</b> are secured so as to cover, at an angle, the through holes <b>64</b> and <b>65</b> (openings) that are provided in the bottom surface of the indented portion <b>62</b> by the force of friction that acts between the flow path block <b>60</b>, the circuit board <b>80</b>, and the outer peripheral surfaces of the first and second flow rectifying plates <b>71</b> and <b>72</b>.</p>
+<p id="p-0091" num="0090">A large number of holes is provided in the first and second flow rectifying plates <b>71</b> and <b>72</b> of the flow rectifier <b>70</b>. The height and width dimensions (the plane surface shapes) and the thicknesses of the first and second flow rectifying plates <b>71</b> and <b>72</b>, and the number of holes, and the sizes and shapes thereof, formed in the first and second flow rectifying plates <b>71</b> and <b>72</b>, can be set as appropriate depending on the specifications, scope, type of measurement fluid, and the like, of the flow meter <b>2</b>A. In the present form of embodiment, mesh-shaped flow rectifying plates are used as the first and second flow rectifying plates <b>71</b> and <b>72</b>. The flat plate <b>73</b>, and the first and second flow rectifying plates <b>71</b> and <b>72</b> may be integrated together. The flat plate <b>73</b> and the first and second flow rectifying plates <b>71</b> and <b>72</b> may be provided with a large number of holes by etching the end portion of, for example, a stainless steel web, and can be obtained through bending the end portion. When forming the bend, the bending may be performed so that a large number of holes remain in a portion of the flat plate <b>73</b>.</p>
+<p id="p-0092" num="0091">In the flow meter <b>2</b>A according to the form of embodiment set forth above, the first and second flow rectifying plates <b>71</b> and <b>72</b> that structure the flow rectifier <b>70</b> can be disposed and secured at an &#x201c;angle&#x201d; relative to the direction in which the sensor flow path portion <b>53</b> of the curved flow path <b>50</b> extends (or in other words, in a state that is not perpendicular to the direction in which the sensor flow path portion <b>53</b> extends). Because of this, it is possible to cause the area of the flow rectifying plates <b>71</b> and <b>72</b> to be greater than when the rectifying plates are disposed in a state that is perpendicular to the direction in which the flow path extends, as has been done conventionally, and possible to increase the number of holes for flow rectification, and the total area thereof, formed in the flow rectifying plates <b>71</b> and <b>72</b>. Consequently, it is possible to suppress any increase in the pressure loss of the measurement fluid caused by the flow rectifier <b>70</b>, while still possible to obtain the flow rectifying effect. The result is that it is possible to increase the measurement accuracy of the flow volume of the measurement fluid.</p>
+<p id="p-0093" num="0092">Furthermore, in the flow meter <b>2</b>A of the form of embodiment set forth above, the flow rectifier <b>70</b> is disposed so as to contact the inner wall of the curved flow path <b>50</b> on three edges of the flow rectifying plates <b>71</b> and <b>72</b> that structure the flow rectifier <b>70</b>, and on the side surface of the flat plate <b>73</b> that structures the rectifier <b>70</b>, thus making it possible to secure the flow rectifier <b>70</b> relative to the curved flow path <b>50</b> reliably through the force of friction that acts between the flow rectifying plates <b>71</b> and <b>72</b> and the flat plate <b>73</b>, and the inner wall of the curved flow path <b>50</b>.</p>
+<p id="p-0094" num="0093">Additionally, in the flow meter <b>2</b>A according to the form of embodiment set forth above, in the state wherein the flow rectifier <b>70</b> is disposed at the bottom surface of the indented portion <b>62</b> of the flow path block <b>60</b> wherein the curved flow path <b>50</b> is formed, the opening portion <b>67</b> of the flow path block <b>60</b> is blocked by the circuit board <b>80</b>, to form the sensor flow path portion <b>53</b>, and thus the flow rectifier <b>70</b> can be disposed extremely easily in the sensor flow path portion <b>53</b>.</p>
+<p id="p-0095" num="0094">Additionally, in the flow volume controlling device <b>1</b>A according to the form of embodiment set forth above, the flow rectifying effect of the measurement fluid can be obtained while suppressing any increase in pressure loss, and thus it is possible to increase the accuracy of the flow volume adjustment of the fluid because of the provision of the flow meter <b>2</b>A with the high flow volume measurement accuracy.</p>
+<p id="p-0096" num="0095">Note that while in the present embodiment an example is illustrated wherein a curved flow path <b>50</b> with a square cross-sectional shape was used, a flow path with a circular cross-sectional shape, or a flow path with a shape that is a combination of straight lines and curved lines may be used. In such a case, a flow rectifying plate having a plane shape corresponding to the cross-sectional shape of the flow path is used.</p>
+<p id="p-0097" num="0096">While in the present form of embodiment, an example is illustrated wherein thin flow rectifying plates <b>71</b> and <b>72</b> (for measuring extremely small flow volumes), wherein the holes are formed through etching, are used, a flow rectifying plate having the rigidity of being relatively thick (for measuring medium flow volumes and high flow volumes), wherein holes are formed through punching a plate-shaped member, may be used instead.</p>
+<p id="p-0098" num="0097">While in the various forms of embodiment set forth above, examples are illustrated wherein a thermal flow volume sensor is used as the flow volume detecting means, instead of the thermal flow volume sensor, flow volume sensors of other types (ultrasonic or electromagnetic) can be used as the flow volume detecting means. Additionally, in the present form of embodiment an example is illustrated wherein the present invention is applied to a gas flow meter; however, the present invention can also be applied to a flow meter that detects the flow volume of a liquid. The present invention can be embodied in a variety of ways in a scope that does not deviate from the spirit or intent thereof. Note that the terms &#x201c;up&#x201d; and &#x201c;down&#x201d; and the like used in the explanations thereof are expressions of convenience, and do not express limitations of directions relative to the direction of the force of gravity.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A flow meter for measuring the flow of a measurement fluid, comprising:
+<claim-text>a flow path wherein the measurement fluid flows;</claim-text>
+<claim-text>a flow rectifier disposed within the flow path;</claim-text>
+<claim-text>a flow path block having a flow path forming portion that extends in the form of a straight line so as to form a flow path, provided therein, and an opening portion connecting between above the flow path forming portion and the outside; and</claim-text>
+<claim-text>a cover member disposed so as to cover the opening portion of the flow path block, wherein:</claim-text>
+<claim-text>the flow rectifier has a hole rectifying the flow of the measurement fluid, and a cross-sectional area that is wider than the cross-sectional area of the flow path in a direction that is perpendicular to the direction in which the flow path extends,</claim-text>
+<claim-text>the flow rectifier has at least one flow rectifying plate that is disposed at an incline relative to the direction it which the flow path extends,</claim-text>
+<claim-text>the flow rectifying plate is disposed with the outer peripheral surface thereof in contact around the entire periphery of the inner wall of the flow path,</claim-text>
+<claim-text>the flow path is a straight pipe-shaped flow path that is formed by the opening member covering the opening portion of the flow path block; and</claim-text>
+<claim-text>when the cover member covers the opening portion of the flow path block, the outer peripheral surface of the flow rectifying plate contacts the cover member, and the outer peripheral surface of the flow rectifying plate contacts the inner wall of the flow path block, so that the flow rectifying plate is secured and held between the cover member and the inner wall of the flow path block.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. A flow meter as set forth in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein:
+<claim-text>the position of contact of the flow rectifying plate in the cover member and the position of contact of the flow rectifying plate in the flow path block are disposed so as to be different in the direction in which the straight pipe-shaped flow path extends.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. A flow meter as set forth in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein:
+<claim-text>the straight pipe-shaped flow path has a sensor flow path portion wherein is disposed a flow sensor for detecting the flow speed or flow volume of the measurement fluid, and a wide diameter flow path portion with a flow path cross-sectional area that is larger than that of the sensor flow path portion, are formed on the upstream side and/or the downstream side of the sensor flow path portion;</claim-text>
+<claim-text>the end surface of the sensor flow path portion side of the wide diameter flow path portion is provided in a form that is inclined relative to a plane that is perpendicular to the direction in which the straight pipe-shaped flow path extends; and</claim-text>
+<claim-text>the flow rectifying plate is disposed and secured in contact with the end surface of the wide diameter flow path portion of the straight pipe-shaped flow path.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. A flow meter for measuring the flow of a measurement fluid, comprising:
+<claim-text>a flow path wherein the measurement fluid flows, and</claim-text>
+<claim-text>a flow rectifier disposed within the flow path, wherein:</claim-text>
+<claim-text>the flow rectifier has a hole rectifying the flow of the measurement fluid, and a cross-sectional area that is wider than the cross-sectional area of the flow path in a direction that is perpendicular to the direction in which the flow path extends,</claim-text>
+<claim-text>the flow rectifier has at least one flow rectifying plate that is disposed at an incline relative to the direction it which the flow path extends.,</claim-text>
+<claim-text>the flow rectifying plate is disposed with the outer peripheral surface thereof in contact around the entire periphery of the inner wall of the flow path,</claim-text>
+<claim-text>the flow path is a curved path that has a sensor flow path portion that extends in the form of a straight line, wherein is disposed a flow sensor for detecting a flow speed or a flow volume of a measurement fluid, and is structured so that an upstream side or downstream side of the sensor flow path portion is curved at a curved portion;</claim-text>
+<claim-text>the flow rectifier is structured from a flat plate that is disposed on the inside wall of the sensor flow path portion and a flow rectifying plate that is connected at an incline to the upstream side end portion or the downstream side end portion of the flat plate; and</claim-text>
+<claim-text>the flow rectifier is secured in the curved flow path by the outer peripheral surface of the flow rectifying plate being disposed so as to contact the inside wall of the curved portion of the curved flow path.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. A flow meter as set forth in <claim-ref idref="CLM-00004">claim 4</claim-ref>, comprising:
+<claim-text>a flow path block wherein a sensor flow path forming portion that extends in the form of a straight line in order to form a sensor flow path portion of the curved flow path is provided on the inside thereof, having an opening portion connecting between above the sensor flow path forming portion and the outside; and</claim-text>
+<claim-text>a circuit board, having the flow sensor on one side thereof and having an electric circuit electrode connecting to an electric circuit, performing the measurement principles using the flow sensor, on the other side thereof; wherein</claim-text>
+<claim-text>the circuit board is disposed, relative to the flow path block, so that the circuit board covers the opening portion of the flow path block and so that the flow sensor of the circuit board faces the sensor flow path forming portion of the flow path block, to form the sensor flow path portion of the curved flow path.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. A flow meter as set forth in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein:
+<claim-text>the flow rectifying plate is structured through forming the hole in a rigid plate-shaped member through punching.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. A flow meter as set forth in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein:
+<claim-text>the flow rectifying plate is structured through forming a hole in a thin plate through etching.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. A flow meter as set forth in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein:
+<claim-text>the flow rectifier is a colander shape that is formed so as to bulge out in the direction in which the flow path extends.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. A flow volume controlling device comprising:
+<claim-text>a flow meter as set forth in <claim-ref idref="CLM-00001">claim 1</claim-ref>;</claim-text>
+<claim-text>a controlling valve; and</claim-text>
+<claim-text>a controller adjusting the flow volume of a fluid flowing in the flow path of the flow meter, through controlling the controlling valve based on information pertaining to the flow volume detected by the flow meter.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. A flow meter as set forth in <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein:
+<claim-text>the flow rectifying plate is structured through forming the hole in a rigid plate-shaped member through punching.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. A flow meter as set forth in <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein:
+<claim-text>the flow rectifying plate is structured through forming a hole in a thin plate through etching.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. A flow meter as set forth in <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein:
+<claim-text>the flow rectifier is a colander shape that is formed so as to bulge out in the direction in which the flow path extends.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. A flow volume controlling device comprising:
+<claim-text>a flow meter as set forth in <claim-ref idref="CLM-00004">claim 4</claim-ref>;</claim-text>
+<claim-text>a controlling valve; and</claim-text>
+<claim-text>a controller adjusting the flow volume of a fluid flowing in the flow path of the flow meter, through controlling the controlling valve based on information pertaining to the flow volume detected by the flow meter.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

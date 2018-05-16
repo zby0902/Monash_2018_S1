@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891260-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891260</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12366146</doc-number>
+<date>20090205</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>198</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>L</subclass>
+<main-group>1</main-group>
+<subgroup>26</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 73862391</main-classification>
+<further-classification> 73760</further-classification>
+</classification-national>
+<invention-title id="d2e53">Seat sensor apparatus for occupant presence detection</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>6359245</doc-number>
+<kind>B1</kind>
+<name>Wahls</name>
+<date>20020300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>6499359</doc-number>
+<kind>B1</kind>
+<name>Washeleski et al.</name>
+<date>20021200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73862473</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>6886417</doc-number>
+<kind>B2</kind>
+<name>Murphy et al.</name>
+<date>20050500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73862581</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>7106206</doc-number>
+<kind>B2</kind>
+<name>Sprecher et al.</name>
+<date>20060900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>340667</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>7472602</doc-number>
+<kind>B1</kind>
+<name>Feng et al.</name>
+<date>20090100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73789</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>7523679</doc-number>
+<kind>B2</kind>
+<name>Hawes et al.</name>
+<date>20090400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73862381</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>7703333</doc-number>
+<kind>B2</kind>
+<name>Hayakawa et al.</name>
+<date>20100400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73849</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>2004/0256842</doc-number>
+<kind>A1</kind>
+<name>Breed</name>
+<date>20041200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>2807301</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>2006/0196281</doc-number>
+<kind>A1</kind>
+<name>Koors</name>
+<date>20060900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>2008/0203712</doc-number>
+<kind>A1</kind>
+<name>Hawes et al.</name>
+<date>20080800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>7</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 73760</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 73862381-862391</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>2</number-of-drawing-sheets>
+<number-of-figures>6</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20100192698</doc-number>
+<kind>A1</kind>
+<date>20100805</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Hansen</last-name>
+<first-name>Mark C.</first-name>
+<address>
+<city>Kokomo</city>
+<state>IN</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Murphy</last-name>
+<first-name>Morgan D.</first-name>
+<address>
+<city>Kokomo</city>
+<state>IN</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Fischer</last-name>
+<first-name>Thomas</first-name>
+<address>
+<city>Wenden</city>
+<country>DE</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>DE</country>
+</residence>
+</applicant>
+<applicant sequence="004" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Lu</last-name>
+<first-name>Bo</first-name>
+<address>
+<city>Westfield</city>
+<state>IN</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="005" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Fortune</last-name>
+<first-name>Duane D.</first-name>
+<address>
+<city>Lebanon</city>
+<state>IN</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="006" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Punater</last-name>
+<first-name>Sandeep D.</first-name>
+<address>
+<city>Dayton</city>
+<state>OH</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="007" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Gerhardt</last-name>
+<first-name>Kendall B.</first-name>
+<address>
+<city>Noblesville</city>
+<state>IN</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="008" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Hawes</last-name>
+<first-name>Kevin J.</first-name>
+<address>
+<city>Greentown</city>
+<state>IN</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Twomey</last-name>
+<first-name>Thomas N.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Delphi Technologies, Inc.</orgname>
+<role>02</role>
+<address>
+<city>Troy</city>
+<state>MI</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Noori</last-name>
+<first-name>Max</first-name>
+<department>2855</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">An occupant presence sensor apparatus disposed in a seat includes first and second substantially non-compliant force translation plates generally parallel to the seating surface of the seat, an elastomeric mat disposed between the first and second force translation plates, and a switch mechanism disposed between the first and second force translation plates within an opening formed in the elastomeric mat. The elastomeric mat includes a distributed array of hollow protuberances that extend toward and contact the force translation plates, and the mat has a stiffness that normally provides a clearance between the switch mechanism and one of the force translation plates. When an occupant of specified or higher weight sits on the seating surface, the protuberances collapse and the force translation plates activate the switch mechanism.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="155.62mm" wi="169.25mm" file="US07891260-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="177.63mm" wi="170.26mm" file="US07891260-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="257.73mm" wi="188.30mm" file="US07891260-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0002" num="0001">The present invention is directed to a sensor apparatus disposed in a vehicle seat for detecting the presence of a seat occupant.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">Motor vehicles are customarily equipped with seat occupant detection sensors for use in connection with occupant safety systems including seat belts and pyrotechnically deployed restraints such as air bags. For example, an occupant detection sensor can be used in connection with a seat belt switch to detect an unrestrained seat occupant and trigger an appropriate reminder. Additionally, occupant detection sensors can be used to enable or disable air bag deployment for a particular seating location in the vehicle, and potentially to classify the occupant by seated weight.</p>
+<p id="p-0004" num="0003">A common approach to seat occupant detection involves installing one or more pressure-responsive sensors on, in, or under the bottom foam cushion of the seat. In some cases, the pressure is measured and compared to one or more calibrated thresholds, as shown for example, in the published patent application US 2006/0196281 A1. In other cases, a calibrated occupant seat pressure is detected by closure of one or more switches, as shown for example, in the published patent application US 2008/0203712 A1.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0005" num="0004">The present invention is directed to an improved occupant presence sensor apparatus that can be manufactured at low cost, and that can be cost-effectively adapted for use with seats of diverse geometry, materials and degree of firmness. The sensor apparatus includes first and second substantially non-compliant force translation plates disposed in a seat in an orientation that is generally parallel to the seating surface of the seat, an elastomeric mat disposed between the first and second force translation plates, and a switch mechanism disposed in an opening in the elastomeric mat. The elastomeric mat includes at least one distributed array of hollow protuberances that extend toward and contact one of the first and second force translation plates, and the mat has a stiffness that allows the hollow protuberances to collapse and activate the switch mechanism when an occupant having a specified or higher weight sits on the seating surface. In a preferred embodiment, the switch mechanism is affixed to the first force translation plate, and has a depressible element that extends toward the second force translation plate. The hollow protuberances of the elastomeric mat produce a clearance between the depressible element and the second force translation plate when not collapsed, but collapse to allow the second force translation plate to contact and displace the depressible element when an occupant of the specified or higher weight sits on the seating surface. The sensor is adapted for use with seats having diverse geometry, materials and firmness simply by using an elastomeric mat exhibiting a suitable degree of stiffness.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0006" num="0005"><figref idref="DRAWINGS">FIG. 1</figref> is an exploded cross-sectional view of a seat equipped with a seat sensor according to the present invention;</p>
+<p id="p-0007" num="0006"><figref idref="DRAWINGS">FIG. 2</figref> depicts the outboard face of a first (upper) force translation plate of the seat sensor of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0008" num="0007"><figref idref="DRAWINGS">FIG. 3</figref> depicts an inboard face of a second (lower) force translation plate of the seat sensor of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0009" num="0008"><figref idref="DRAWINGS">FIG. 4</figref> depicts an inboard face of a felt pad of the seat sensor of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIG. 5</figref> depicts an elastomeric mat of the seat sensor of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. 6</figref> is an isometric view of the elastomeric mat of <figref idref="DRAWINGS">FIG. 5</figref>.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DESCRIPTION OF THE PREFERRED EMBODIMENT</heading>
+<p id="p-0012" num="0011">The sensor apparatus of the present invention is disclosed herein in the context of a seat sensor for sensing the presence of a seat occupant when sufficient force due to the occupant's seated weight is transmitted to the sensor apparatus. However, it should be understood that the disclosed sensor apparatus may be used in other applications, both vehicular and non-vehicular.</p>
+<p id="p-0013" num="0012">Referring to <figref idref="DRAWINGS">FIG. 1</figref>, the reference numeral <b>10</b> generally designates a vehicle seat equipped with a seat sensor <b>12</b> according to the present invention. In the illustrated embodiment, the seat sensor <b>12</b> is disposed between the seat suspension <b>16</b> and a foam seat cushion <b>18</b>, though it should be understood that the seat sensor <b>12</b> may be installed in a different location such as in the seat cushion <b>18</b>. In any event, the seat sensor <b>12</b> is coupled to an electronic control unit (ECU) <b>14</b> by one or more wires <b>20</b>. The ECU <b>14</b> analyzes the state of sensor <b>12</b> to determine whether the seat <b>10</b> is occupied, and activates a seat belt reminder indicator (not shown) if a seat belt for seat <b>10</b> is not fastened. Of course, the ECU <b>14</b> may also perform other safety-related functions such as enabling or disabling airbag deployment.</p>
+<p id="p-0014" num="0013">As illustrated in <figref idref="DRAWINGS">FIG. 1</figref>, the seat sensor <b>12</b> includes the following components: upper and lower substantially non-compliant force translation plates <b>22</b> and <b>24</b>, an elastomeric mat <b>26</b> and a switch mechanism <b>28</b> disposed between the force translation plates <b>22</b> and <b>24</b>, and a felt pad <b>30</b> disposed beneath the lower force translation plate <b>24</b>. Occupant sensing is accomplished by the components <b>22</b>-<b>28</b>, while the felt pad <b>30</b> provides an interface between the lower force translation plate and the seat suspension <b>16</b>. The aforementioned components of sensor <b>12</b> are joined as shown with two or more push-pins <b>32</b> that extend through aligned openings <b>34</b> formed in the force translation plates <b>22</b> and <b>24</b>, the elastomeric mat <b>26</b>, and the felt pad <b>30</b>. The push-pins <b>32</b> are received in plastic washers <b>36</b> positioned on the opposite side of the sensor <b>12</b>. By way of example, the components joined by push-pins <b>32</b> may be square in shape, with lateral dimensions of approximately 75 mm (3 in). Also, another set of push-pins (not shown) may be used to affix the seat sensor <b>12</b> to the seat suspension <b>16</b>, if desired.</p>
+<p id="p-0015" num="0014">The upper and lower force translation plates <b>22</b> and <b>24</b> are preferably made of substantially non-compliant plastic material so that compressive forces applied to the sensor <b>12</b> due to seat occupant weight are nearly uniformly applied to the elastomeric mat <b>26</b>. As illustrated in <figref idref="DRAWINGS">FIG. 2</figref>, the outboard face <b>22</b><i>a </i>of upper force translation plate <b>22</b> may be provided with strips of double-backed tape <b>38</b> to secure the sensor <b>12</b> to the lower surface of the seat cushion <b>18</b>. As also illustrated in <figref idref="DRAWINGS">FIG. 2</figref>, the upper force translation plate <b>22</b> may be provided with an opening <b>40</b> to permit visual inspection of the underlying elastomeric mat <b>26</b>; visual inspection of the mat <b>26</b> is important when mats of diverse stiffness for different seat applications are color-coded by stiffness.</p>
+<p id="p-0016" num="0015">The switch mechanism <b>28</b> is glued, mechanically fastened, or otherwise affixed to a central location on the inboard face <b>24</b><i>a </i>of lower force translation plate <b>24</b>, as indicated by the reference numeral <b>42</b> in <figref idref="DRAWINGS">FIG. 3</figref>. The wires <b>20</b> from switch mechanism <b>28</b> pass through aligned openings <b>44</b> and <b>46</b> formed in the lower force translation plate <b>24</b> and felt pad <b>30</b>, as illustrated in <figref idref="DRAWINGS">FIGS. 1</figref>, <b>3</b> and <b>4</b>.</p>
+<p id="p-0017" num="0016">The elastomeric mat <b>26</b> is preferably made of a material such as silicone, and as illustrated in <figref idref="DRAWINGS">FIGS. 1 and 5</figref>, is formed with a distributed array of hollow cone-shaped protruberances <b>50</b> that alternately extend toward the upper and lower force translation plates <b>22</b> and <b>24</b>. The protruberances that extend upward toward the upper force translation plate <b>22</b> are identified in <figref idref="DRAWINGS">FIG. 1</figref> by the reference numeral <b>50</b><i>a</i>, while the protruberances that extend downward toward the lower force translation plate <b>24</b> are identified by the reference numeral <b>50</b><i>b</i>. And as illustrated in <figref idref="DRAWINGS">FIGS. 1 and 5</figref>, a central opening <b>52</b> is formed in mat <b>26</b> to accommodate the switch mechanism <b>28</b>.</p>
+<p id="p-0018" num="0017">When the sensor <b>10</b> is assembled as described above, the tips of the silicone mat protruberances <b>50</b><i>a </i>and <b>50</b><i>b </i>respectively contact the upper and lower force translation plates <b>22</b> and <b>24</b> to separate the upper and lower force translation plates <b>22</b>, <b>24</b> by a distance (8 mm, for example) sufficient to accommodate the height of switch mechanism <b>28</b>. In other words, with switch mechanism <b>28</b> affixed to the inboard face of the lower force translation plate <b>24</b>, and disposed within the opening <b>52</b> of mat <b>26</b>, there is a slight clearance between the switch mechanism <b>28</b> and the upper force translation plate <b>22</b>. This is the condition that occurs when the seat <b>10</b> is unoccupied. However, when the sufficient occupant weight is applied to the seating surface of cushion <b>18</b>, the hollow protuberances <b>50</b><i>a</i>, <b>50</b><i>b </i>collapse, allowing the upper force translation plate <b>22</b> to contact and actuate the switch mechanism <b>28</b>. The same effect can be achieved with an elastomeric mat formed with an array of hollow protuberances that only extend toward one of the force translation plates <b>22</b>, <b>24</b>, but the illustrated configuration is generally preferable because its orientation can be reversed without affecting the operation of the sensor <b>12</b>, and because the likelihood of air-lock suction between the mat <b>26</b> and the inboard face of a force translation plate <b>22</b> or <b>24</b> is virtually eliminated.</p>
+<p id="p-0019" num="0018">In a preferred implementation, the switch mechanism <b>28</b> is provided with a depressible element <b>28</b><i>a </i>that extends upward toward the upper force translation plate <b>22</b>. For example, the depressible element <b>28</b><i>a </i>may be the plunger (armature) of a sealed switch element; in this case, the upper force translation plate <b>22</b> contacts and linearly displaces the plunger as the hollow protuberances <b>50</b><i>a</i>, <b>50</b><i>b </i>of elastomeric mat <b>26</b> collapse when an occupant sits on the cushion <b>18</b>. Alternately, the switch mechanism <b>28</b> may be configured as an elastomeric or metal dome switch, where the depressible element <b>28</b><i>a </i>is the dome; in this case, the dome switch may be mounted on a small circuit board that is affixed to the inboard face of the lower force translation plate <b>24</b>, and optionally, the inboard face of the upper force translation plate <b>22</b> may be provided with a downwardly extending dimple that contacts and deflects the dome to actuate the switch mechanism <b>28</b> when the hollow protuberances <b>50</b><i>a</i>, <b>50</b><i>b </i>of elastomeric mat <b>26</b> collapse. As a further alternative, the switch mechanism <b>28</b> may be configured as a magnetically-activated switch such as a sealed reed switch or a Hall-Effect switch; in this case, a magnet is affixed to the upper force translation plate <b>22</b> so that the switching mechanism <b>28</b> is activated (indicating occupant presence) when the hollow protuberances <b>50</b><i>a</i>, <b>50</b><i>b </i>of elastomeric mat <b>26</b> collapse to bring the magnet sufficiently close to the switching mechanism <b>28</b>.</p>
+<p id="p-0020" num="0019">It will be appreciated that the subject seat sensor <b>12</b> can be manufactured at a relatively low cost because the components themselves are simple and inexpensive. And this cost effectiveness is enhanced due to the fact that the sensor <b>12</b> can be configured to provide a reliable occupant presence indication for seats having different constructions and/or materials, and seats having different firmness due to differences in the stiffness of foam cushion <b>18</b> or the springiness of seat suspension <b>16</b>, simply through proper selection of the elastomeric mat <b>26</b>. For example, a seat that is very firm will generally require a sensor having an elastomeric mat <b>26</b> exhibiting a high degree of stiffness, and a seat that is less firm will require a sensor having an elastomeric mat <b>26</b> exhibiting a lower degree of stiffness. But in any event, the other components of the seat sensor <b>12</b> remain the same. And the various elastomeric mats are preferably color-coded by stiffness to ensure that the sensors are correctly assembled, and to enable correct identification of an assembled sensor <b>12</b> by visual inspection (for example, by viewing the mat <b>26</b> through the opening <b>40</b> provided in upper force translation plate <b>22</b>).</p>
+<p id="p-0021" num="0020">In summary, the present invention provides a practical and cost-effective sensor apparatus for passenger presence detection. While the apparatus has been described in reference to the illustrated embodiment, it should be understood that various modifications in addition to those mentioned above will occur to persons skilled in the art. Accordingly, it is intended that the invention not be limited to the disclosed embodiment, but that it have the full scope permitted by the language of the following claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. Sensor apparatus for detecting presence or absence of an occupant on a seating surface of a seat, comprising:
+<claim-text>first and second substantially non-compliant force translation plates disposed in said seat in an orientation that is generally parallel to said seating surface;</claim-text>
+<claim-text>an elastomeric mat disposed between said first and second force translation plates, said elastomeric mat including at least one distributed array of protuberances that extend toward and contact one of said first and second force translation plates, where said protuberances collapse due to occupant weight when the occupant sits on the seating surface;</claim-text>
+<claim-text>an opening in a central portion of said elastomeric mat; and</claim-text>
+<claim-text>a switch mechanism disposed in the opening of said elastomeric mat, and affixed to one of said first and second force translation plates, said switch mechanism having a first state indicating absence of the occupant when the protuberances of said elastomeric mat are not collapsed, and a second state indicating presence of the occupant when the protuberances of said elastomeric mat are collapsed.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The sensor apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref>, where:
+<claim-text>said elastomeric mat includes a first distributed array of protuberances that extend toward and contact said first force translation plate, and a second distributed array of hollow protuberances that extend toward and contact said second force translation plate.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The sensor apparatus of <claim-ref idref="CLM-00002">claim 2</claim-ref>, where:
+<claim-text>the protuberances of said first and second distributed arrays of protuberances are hollow.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The sensor apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref>, where:
+<claim-text>said switch mechanism is affixed to the second force translation plate, and includes a depressible element extending toward said first force translation plate; and</claim-text>
+<claim-text>the protuberances of said elastomeric mat produce a clearance between the depressible element and the first force translation plate when said protuberances are not collapsed.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The sensor apparatus of <claim-ref idref="CLM-00004">claim 4</claim-ref>, where:
+<claim-text>said elastomeric mat is formed of a material that is manufactured to exhibit a desired stiffness so that for any given seat, the protuberances of said elastomeric mat produce a clearance between the first force translation plate and the depressible element of the switch mechanism when said protuberances are not collapsed, and an occupant weight of a specified or higher amount on the seating area causes the protuberances to collapse so that the first force translation plate displaces said depressible element to activate the second state of said switch mechanism.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The sensor apparatus of <claim-ref idref="CLM-00005">claim 5</claim-ref>, where:
+<claim-text>elastomeric mats of exhibiting different stiffnesses are color-coded based on stiffness to allow visual confirmation that a mat of the correct stiffness is installed in a given sensor.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The sensor apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref>, where said switch mechanism comprises:
+<claim-text>a magnetically activated sensor element affixed to the second force translation plate; and</claim-text>
+<claim-text>a magnet affixed to the first force translation plate. </claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

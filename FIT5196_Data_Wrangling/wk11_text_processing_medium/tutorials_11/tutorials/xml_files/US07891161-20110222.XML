@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891161-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891161</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11834938</doc-number>
+<date>20070807</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>D</subclass>
+<main-group>69</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 56 108</main-classification>
+<further-classification> 56 113</further-classification>
+<further-classification> 56 118</further-classification>
+</classification-national>
+<invention-title id="d2e43">Two-step bail apparatuses and methods</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>2813433</doc-number>
+<kind>A</kind>
+<name>Adams, Jr. et al.</name>
+<date>19571100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>476 17</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>4270402</doc-number>
+<kind>A</kind>
+<name>Nagano</name>
+<date>19810600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 7447314</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>4281732</doc-number>
+<kind>A</kind>
+<name>Hoch</name>
+<date>19810800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>4327539</doc-number>
+<kind>A</kind>
+<name>Bricko et al.</name>
+<date>19820500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>4413466</doc-number>
+<kind>A</kind>
+<name>Beugelsdyk et al.</name>
+<date>19831100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>4430848</doc-number>
+<kind>A</kind>
+<name>Wistrom</name>
+<date>19840200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 56 113</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>4573307</doc-number>
+<kind>A</kind>
+<name>Wick</name>
+<date>19860300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>4614130</doc-number>
+<kind>A</kind>
+<name>Heismann et al.</name>
+<date>19860900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 745015 R</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>4667459</doc-number>
+<kind>A</kind>
+<name>Scanland et al.</name>
+<date>19870500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>5195307</doc-number>
+<kind>A</kind>
+<name>Thorud et al.</name>
+<date>19930300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 56 113</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>5784868</doc-number>
+<kind>A</kind>
+<name>Wadzinski et al.</name>
+<date>19980700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 56 108</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>6751936</doc-number>
+<kind>B2</kind>
+<name>Kucera et al.</name>
+<date>20040600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 56 108</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>6796392</doc-number>
+<kind>B2</kind>
+<name>Kobayashi et al.</name>
+<date>20040900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>180 193</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>7178322</doc-number>
+<kind>B2</kind>
+<name>Osborne</name>
+<date>20070200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 56 108</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>2003/0056481</doc-number>
+<kind>A1</kind>
+<name>Trefz</name>
+<date>20030300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 56 111</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>2005/0279066</doc-number>
+<kind>A1</kind>
+<name>Osborne</name>
+<date>20051200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 56 108</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>2006/0053763</doc-number>
+<kind>A1</kind>
+<name>Stover et al.</name>
+<date>20060300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 56 167</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>2006/0218887</doc-number>
+<kind>A1</kind>
+<name>Osborne</name>
+<date>20061000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 56 108</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>2007/0101690</doc-number>
+<kind>A1</kind>
+<name>Stover et al.</name>
+<date>20070500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 56 113</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>2007/0114076</doc-number>
+<kind>A1</kind>
+<name>Osborne</name>
+<date>20070500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>180 193</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>2007/0130899</doc-number>
+<kind>A1</kind>
+<name>Osborne</name>
+<date>20070600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 56 108</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>23</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 56 108</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 56 102 R</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 56 105</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 56 112</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 56 113</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 56 118</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 56 147</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 56 167</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 56DIG 6</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 56DIG 18</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>180 191- 193</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>180277-279</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>180281</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 745513</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 745515-5517</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 745016</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 74502</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>172 42</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>172364</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 37234</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 37244</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 37245</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 37257</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 37263</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>5</number-of-drawing-sheets>
+<number-of-figures>5</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090038281</doc-number>
+<kind>A1</kind>
+<date>20090212</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Kaskawitz</last-name>
+<first-name>Scott</first-name>
+<address>
+<city>Burlington</city>
+<state>NC</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Prinzo</last-name>
+<first-name>Vincent</first-name>
+<address>
+<city>Hillsborough</city>
+<state>NC</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Jenkins, Wilson, Taylor &#x26; Hunt, P.A.</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Honda Motor Co., Ltd.</orgname>
+<role>03</role>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Will</last-name>
+<first-name>Thomas B</first-name>
+<department>3671</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Misa</last-name>
+<first-name>Joan D</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">Apparatuses and methods are provided for actuating a control component of a power machine. A two-step bail can be attached to a handle for controlling the power machine. The two-step bail can include a base member and a control member, wherein the control member can be slidably attached to the base member which can be pivotably mounted to the handle of the power machine. The control member can be depressed, by an operator first action, into the base member, which can be followed by an operator second action wherein the base member and control member can be pulled reward toward the operator to actuate a control component of the power machine.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="160.95mm" wi="371.26mm" file="US07891161-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="205.91mm" wi="153.42mm" orientation="landscape" file="US07891161-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="219.29mm" wi="153.67mm" orientation="landscape" file="US07891161-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="199.47mm" wi="158.07mm" orientation="landscape" file="US07891161-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="201.76mm" wi="161.12mm" orientation="landscape" file="US07891161-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="181.02mm" wi="159.94mm" orientation="landscape" file="US07891161-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0002" num="0001">The subject matter disclosed herein relates generally to bail apparatuses and methods for using a bail to control a power machine. More specifically, the subject matter disclosed herein relates to two-step bail apparatuses and methods of controlling control components of power machines, such as a blade brake clutch on a mowing machine, using a two-step bail.</p>
+<heading id="h-0002" level="1">BACKGROUND</heading>
+<p id="p-0003" num="0002">Power machines, particularly walk-behind power machines, often employ an operator control handle or bail to actively control a component of the power machine. In addition to providing a means of controlling the power machine, the bail is often employed to enforce operator presence for safety reasons. For example, it is a requirement for walk-behind power mowing machines to have a &#x201c;dead man&#x201d; control, which generally includes a spring-biased bail which can be grasped by the operator during normal operation of the machine to enable the motor of the machine. If the bail is thereafter released, the machine action is rapidly terminated for reasons of safety. In the case of a &#x201c;dead man&#x201d; control on a lawn mower, the engine and the rotating blade are both rapidly stopped when the operator releases the bail.</p>
+<p id="p-0004" num="0003">More recently, blade brake clutch (BBC) control apparatuses have been employed to enforce operator presence while using lawn mowers. A BBC control allows the rotating cutting blade to be stopped and engine to remain enabled when the operator releases the bail controlling the BBC. When the bail is moved to the engaged position, the BBC control activates the clutch whereby the cutting blade is engaged. When the bail is released by the operator, the BBC control disengages the clutch and the brake mechanism is applied to stop rotation of the blade. This action prevents the blade from free spinning to a stop, in which an injury could occur to the user while the blade slows from an extremely high velocity of rotation.</p>
+<p id="p-0005" num="0004">It is now a requirement that bails on walk-behind lawn mowers designed to enforcing operator presence comprise a two-step apparatus such that a user must perform a two-step process before the blade can be engaged for rotation. Thus, a two-step bail apparatus for a lawn mower would provide for operator control of the mowing machine as well as conform to safety regulations.</p>
+<heading id="h-0003" level="1">SUMMARY</heading>
+<p id="p-0006" num="0005">According to the present disclosure, novel two-step bail apparatuses and methods are provided for controlling a power machine, such as a mowing machine.</p>
+<p id="p-0007" num="0006">It is therefore an object of the present disclosure to provide novel apparatuses and methods for controlling a control component of a mowing machine or other power machine via a two-step bail apparatus. An object having been stated hereinabove, and which is achieved in whole or in part by the subject matter disclosed herein, other objects will become evident as the description proceeds when taken in connection with the accompanying drawings as best described hereinbelow.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0008" num="0007">A full and enabling disclosure of the present subject matter including the best mode thereof to one of ordinary skill in the art is set forth more particularly in the remainder of the specification, including reference to the accompanying figures in which:</p>
+<p id="p-0009" num="0008"><figref idref="DRAWINGS">FIG. 1</figref> illustrates a perspective view of a lawn mower having a two-step bail apparatus provided in accordance with the subject matter disclosed herein;</p>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIG. 2</figref> illustrates a partial perspective view of a lawn mower having a two-step bail apparatus in accordance with the subject matter disclosed herein;</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. 3A</figref> illustrates a cross-sectional side view of the two-step bail apparatus according to <figref idref="DRAWINGS">FIG. 2</figref> in a disengaged position;</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. 3B</figref> illustrates a cross-sectional side view of the two-step bail apparatus according to <figref idref="DRAWINGS">FIG. 2</figref> in an intermediate position; and</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 3C</figref> illustrates a cross-sectional side view of the two-step bail apparatus according to <figref idref="DRAWINGS">FIG. 2</figref> in an engaged position.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0014" num="0013">Reference will now be made in detail to presently preferred embodiments of the present subject matter, one or more examples of which are shown in the figures. Each example is provided to explain the subject matter and not as a limitation. In fact, features illustrated or described as part of one embodiment can be used in another embodiment to yield still a further embodiment. It is intended that the present subject matter cover such modifications and variations.</p>
+<p id="p-0015" num="0014">Referring now to <figref idref="DRAWINGS">FIG. 1</figref>, a lawn mowing machine generally designated LM is illustrated by way of example. Lawnmower LM can comprise any suitable configuration generally known to persons skilled in the art or later developed. In one aspect, lawnmower LM can comprise a housing such as a mower deck MD, which can include a front portion, a rear portion, an upper exterior portion, and a lower, interior portion. A handle generally designated H can be coupled to the rear portion of mower deck MD by any suitable means, and can extend upwardly therefrom at an angle appropriate for comfortable grasping and manipulation by an operator. Handle H provides an area to be gripped by an operator and can include a proximal end section, generally designated <b>12</b>, which can be the section farthest away from the main operational components of lawnmower LM, such as prime mover or motor M. In one aspect, handle H can be generally U-shaped comprising first and second spaced-apart legs <b>16</b>A and <b>16</b>B, respectively, attached to the proximal end section <b>12</b>. The different types, structures, and functions of components of lawnmower LM in addition to those described above are known to persons skilled in the art, and therefore are not further described.</p>
+<p id="p-0016" num="0015">As illustrated in <figref idref="DRAWINGS">FIG. 1</figref>, lawnmower LM can include a bail generally designated B, or operator presence control, which can be pivotably coupled or attached to handle H at a suitable pivot axis PA that can comprise an axle, pin, bolt, dowel, or the like. Bail B can be disposed at or near proximal end section <b>12</b> of handle H (i.e., the portion of handle H proximate to an operator in the course of typical use of lawnmower LM) to facilitate manipulation by an operator Bail B can communicate with a machine control component, wherein the machine control component can comprise an engine, transmission, blade brake clutch control or the like as appreciated by those skilled in the art. Bail B can communicate with a machine control component through a linking member or control cable CC. Control cable CC can be any suitable elongate component, of cable or non-cable material, that can be either flexible or ridged and capable of transferring a force or actuation by translation and/or a change in tension. A non-limiting example of control cable CC is a cable, at least a portion of which is typically encased and extends through a coaxial sheath.</p>
+<p id="p-0017" num="0016">As appreciated by persons skilled in the art, bail B in general is a safety feature that is typically movable between two positions, ON and OFF, and typically is biased towards the OFF position. When an operator is operating or manipulating lawnmower LM in an intended matter, such as by properly gripping the proximal end section <b>12</b> of handle H and pulling bail B toward the proximal end section <b>12</b> of handle H, bail B is in the ON position (<figref idref="DRAWINGS">FIG. 3C</figref>), and this action translates through the length of control cable CC to a machine control component (not shown). The ON position permits activation of a machine control component, for example, a cutting element (blade) and/or transmission.</p>
+<p id="p-0018" num="0017">When, on the other hand, an operator is not operating or manipulating lawnmower LM in an intended matter, such as by releasing or failing to properly grip bail B, bail B can be in the OFF position (<figref idref="DRAWINGS">FIGS. 1</figref>, <b>2</b>, <b>3</b>A and <b>3</b>B). This OFF position disables a machine control component. In some aspects and as known to those of skill in the art, a biasing mechanism (not shown) can be employed to bias bail B to the OFF position. For example, control cable CC could be biased at some point along its length to maintain a force that tends to pull bail B away from the proximal end section of handle H to the angled OFF position (as illustrated in <figref idref="DRAWINGS">FIG. 1</figref>). As another example, a biasing force could be applied to a machine control component (not shown) and transferred through control cable CC to yield the same result.</p>
+<p id="p-0019" num="0018">In accordance with the present subject matter, bail B, as illustrated in <figref idref="DRAWINGS">FIG. 2</figref>, can comprise a first base member <b>50</b>, a second base member <b>52</b> and a control member <b>54</b>, wherein first base member <b>50</b>, second base member <b>52</b> and control member <b>54</b> form a two-step bail. Accordingly, first base member <b>50</b> can be pivotably attached to leg <b>16</b>A of handle H at pivot axis PA and second base member <b>52</b> can be pivotably attached to leg <b>16</b>B of handle H at pivot axis PA, while control member <b>54</b>, coupled thereto, can be a substantially elongated rod shaped or tubular structure substantially spanning the distance between spaced-apart legs <b>16</b>A and <b>16</b>B of handle H. Bail B can also comprise a first biasing member <b>60</b> and second biasing member <b>62</b> positioned within first base member <b>50</b> and second base member <b>52</b>, respectively.</p>
+<p id="p-0020" num="0019">In another aspect, bail B can comprise first base member <b>50</b> and control member <b>54</b> wherein the operator can operate bail B with only one hand. In such an aspect, control member <b>54</b> would not fully extend between legs <b>16</b>A and <b>16</b>B of handle H.</p>
+<p id="p-0021" num="0020">With continuing reference to <figref idref="DRAWINGS">FIG. 2</figref>, control member <b>54</b> can comprise a plurality of tabs <b>32</b> and a plurality of projections <b>34</b>. Tabs <b>32</b> and projections <b>34</b> can be configured to be in communication with first and second base members <b>50</b>, <b>52</b>. Tabs <b>32</b> can extend from control member <b>54</b> in an orthogonal direction or any other suitable direction. Projections <b>34</b> can form the terminating ends of control member <b>54</b> and can be generally L-shaped. Tabs <b>32</b> and projections <b>34</b> can extend in substantially the same direction.</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIGS. 3A-3C</figref> illustrate cross-sectional views of the present disclosure and as such only show the workings of first base member <b>50</b> in relation to leg <b>16</b>A. To that end, second base member <b>52</b> and leg <b>16</b>B are not shown but can be configured to operate in the same manner as described with reference to first base member <b>52</b>. As illustrated in <figref idref="DRAWINGS">FIGS. 3A-3C</figref>, first base member <b>50</b> can be pivotably attached to handle H at a pivot axis PA which can comprise an axle, pin, bolt, dowel, or the like, as would be appreciated by one of ordinary skill in the art. First base member <b>50</b> can comprise an elongated body having an interior space acting as a sleeve generally designated <b>74</b> for receiving control member <b>54</b>. First biasing mechanism <b>60</b> can be positioned within sleeve <b>74</b>.</p>
+<p id="p-0023" num="0022">Further, first base member <b>50</b> can define an upper channel generally designated <b>70</b> and a lower channel generally designated <b>72</b>. Upper channel <b>70</b> can slidingly receive tab <b>32</b>, while lower channel <b>72</b> can slidingly receive projection <b>34</b>. Lower channel <b>72</b> can include a notch generally designated <b>36</b> for lockably receiving projection <b>34</b> in a lateral direction. A plate <b>80</b> can be positioned above and supported by first biasing member <b>60</b> within sleeve <b>74</b> of first base member <b>50</b>. As an example, first and second biasing members <b>60</b>, <b>62</b> can comprise a spring or any other suitable biasing mechanism. Control cable CC can attach to first base member <b>50</b> at a coupling <b>38</b>, whereby first base member <b>50</b> can be operatively linked to actuate a control component of a power machine such as, for example, actuating a cutting blade CB (<figref idref="DRAWINGS">FIG. 1</figref>) attached to lawnmower LM.</p>
+<p id="p-0024" num="0023">As further illustrated in <figref idref="DRAWINGS">FIGS. 3A-3C</figref>, control member <b>54</b> can be substantially L-shaped from a side profile or any other suitable configuration. Projections <b>34</b> can form the terminating ends of control member <b>54</b>. Continuing with reference to <figref idref="DRAWINGS">FIGS. 3A-3C</figref>, projection <b>34</b> can be disposed in sleeve <b>74</b> of first base member <b>50</b>, thereby slidably coupling control member <b>54</b> to first base members <b>50</b>. Projection <b>34</b> can fit into lower channel <b>72</b> of first base member <b>50</b>, wherein projection <b>34</b> can permit control member <b>54</b> to be slidably coupled to first base member <b>50</b>. Projection <b>34</b> of control member <b>54</b> can rest on plate <b>80</b>, which can be supported by first biasing member <b>60</b>. Control member <b>54</b> can further comprise tab <b>32</b>, which can extend perpendicular from control member <b>54</b> and parallel to projection <b>34</b> of control member <b>54</b>. Tab <b>32</b> can be configured to slidably fit into upper channel <b>70</b> of first base member <b>50</b>.</p>
+<p id="p-0025" num="0024">Bail B is movable between OFF and ON positions. The OFF or disengaged position is illustrated in <figref idref="DRAWINGS">FIG. 3A</figref>, wherein first base member <b>50</b> can be substantially vertical and perpendicular to leg <b>16</b>A of handle H. Although only first base member <b>50</b> attached to leg <b>16</b>A is illustrated in <figref idref="DRAWINGS">FIGS. 3A</figref>, <b>3</b>B and <b>3</b>C, it will be understood that both first and second base members <b>50</b>, <b>52</b> can be attached to legs <b>16</b>A and <b>16</b>B of handle H to operate in unison as first and second base members <b>50</b>, <b>52</b> can be linked by control member <b>54</b>.</p>
+<p id="p-0026" num="0025">Referring to <figref idref="DRAWINGS">FIG. 3A</figref>, in the OFF position, control member <b>54</b> can be biased by first biasing member <b>60</b> to a substantially elevated position and fully extended within sleeve <b>74</b> of first base member <b>50</b> in a first extended position. While allowing the terminal end and projection <b>34</b> of control member <b>54</b> to slide within lower channel <b>72</b> of first base member <b>50</b>, projection <b>34</b> can also maintain the terminal end of control member <b>54</b> within sleeve <b>74</b> of first base member <b>50</b> by engaging the upper most portion of lower channel <b>72</b> to effectively limit the extension of control member <b>54</b>. Also, tab <b>32</b> can be positioned out of upper channel <b>70</b> when bail B is in the OFF position.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 3B</figref> illustrates the first step of the two-step process of engaging bail B to the ON position in one aspect of the present disclosure. Control member <b>54</b> can be substantially depressed to a second retracted position within sleeve <b>74</b> of first base member <b>50</b> such that first biasing member <b>60</b> can be substantially compressed. Accordingly, projection <b>34</b> of control member <b>54</b> can be aligned in notch <b>36</b> of lower channel <b>72</b> for locking therein. Tab <b>32</b> can be slidingly received within upper channel <b>70</b>. The completed first step of the two-step process as illustrated in <figref idref="DRAWINGS">FIG. 3B</figref> can effectively couple control member <b>54</b> and first base member <b>50</b>.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 3C</figref> illustrates the completed second step of the two-step process of engaging bail B, wherein bail B is in the ON or engaged position. Upon completion of the second step, first base member <b>50</b> and a portion of control member <b>54</b> can be substantially proximal and parallel to leg <b>16</b>A in a disengaged position. Control member <b>54</b> can be L-shaped to be matingly received with proximal end section <b>12</b> of handle H. More particularly, first base member <b>50</b> and control member <b>54</b>, now coupled thereto, can be pivoted at pivot axis PA such that first base member <b>50</b> can be substantially horizontal and parallel to leg <b>16</b>A of handle H in an engaged position and L-shaped control member <b>54</b> can be proximal to proximal end section <b>12</b> of handle H. Upon completion of the second step of engaging the two-step bail, control cable CC can be substantially extended to operatively engage its coupled components to achieve a desired function such as, for example, actuating cutting blade CB or a blade brake clutch.</p>
+<p id="p-0029" num="0028">In accordance with the present subject matter, moving bail B from the OFF position to the ON position can require an operator to perform two distinct and sequential steps.</p>
+<p id="p-0030" num="0029">First, control member <b>54</b> can be pushed downward or depressed within sleeve <b>74</b> of first and second base members <b>50</b>, <b>52</b> from a first extended position to a second retracted position. In pressing down control member <b>54</b>, first biasing member <b>60</b> can be compressed, which can cause projection <b>34</b> of control member <b>64</b> to slide downward within lower channel <b>72</b> and into notch <b>36</b> while tab <b>32</b> can slide downward into upper channel <b>70</b>, as illustrated in <figref idref="DRAWINGS">FIG. 3B</figref>. As a result, control member <b>54</b> can be coupled to first base member <b>50</b> such that the two components can be pivoted as one unit. The coupling of control member <b>54</b> and first base member <b>50</b> can be effectively achieved by permitting tab <b>32</b> of control member <b>54</b> to engage upper channel <b>70</b> of first base member <b>50</b>, which can essentially lock first base member <b>50</b> and control member <b>54</b> so that the two can be leveraged as one unit.</p>
+<p id="p-0031" num="0030">The second step can comprise pulling or rotating control member <b>54</b> and first and second base members <b>50</b>, <b>52</b> rearward towards the operator and proximal end section <b>12</b> of handle H, as shown in <figref idref="DRAWINGS">FIG. 3C</figref>, from a disengaged position to an engaged position. Proximal end section <b>12</b> of handle H can have substantially the same shape as control member <b>54</b> such that the two are matingly configured to provide ease of use for the operator. In pulling bail B rearward, the base member can be pivoted at pivot axis PA such that control cable CC can be extended such that control cable CC can perform its desired function. Upon completion of the second step, bail B can be in the ON position such that for example motor M can be engaged as well as the blade of lawnmower LM. Upon the operator releasing bail B, control member <b>54</b> and first base member <b>50</b> can rotate away at pivot axis PA from proximal end section <b>12</b> of handle H to the disengaged position. Projection <b>34</b> can release from within notch <b>36</b>, which can thereby cause projection <b>34</b> and tab <b>32</b> to extend upwardly as first biasing mechanism <b>60</b> exerts an upward force as first biasing mechanism <b>60</b> decompresses into an uncompressed state. Thus, bail B can be in the OFF position, as shown in <figref idref="DRAWINGS">FIG. 3A</figref>.</p>
+<p id="p-0032" num="0031">Bail B can be configured such that both steps must be performed to successfully move bail B to the ON position and engage or actuate the control component. The act of pressing control member <b>54</b> downward causes the movement of tab <b>32</b> into upper channel <b>70</b>, whereby control member <b>54</b> and first base member <b>50</b> can be coupled together. Alternatively, prior to the act of pressing down control member <b>54</b>, pulling control member <b>54</b> rearward does not provide for the pivoting of first and second base members <b>50</b>, <b>62</b> and thus does not cause control cable CC to be extended to actuate the control component.</p>
+<p id="p-0033" num="0032">When an operator is operating or manipulating lawn mower LM in an intended matter, such as by properly gripping handle H and pulling bail B toward handle H, bail B can be in the ON position, and this action can translate through the length of control cable CC to a machine control component. The ON position permits a machine control component to activate, for example, a cutting element or BBC control.</p>
+<p id="p-0034" num="0033">It will be understood that various details of the disclosed subject matter may be changed without departing from the scope of the disclosed subject matter. Furthermore, the foregoing description is for the purpose of illustration only, and not for the purpose of limitation.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. An apparatus for controlling a walk-behind mowing machine, the apparatus comprising:
+<claim-text>a handle including a first leg and a second leg attached to the walk-behind mowing machine; and</claim-text>
+<claim-text>a two-step bail attached to the handle of the walk-behind mowing machine, the bail comprising:
+<claim-text>a base member having an elongated interior space, the base member pivotably attached to the first leg of the handle of the walk-behind mowing machine and being movable between a disengaged position and an engaged position to actuate a cutting blade;</claim-text>
+<claim-text>a control member comprising a substantially elongated rod shaped structure extending toward the second leg of the handle of the walk-behind mowing machine, a portion of the control member being located within the interior space, the entire control member being moveable in a linear direction with respect to the interior space between a first extended position and a second retracted position from the interior space, where in the second retracted position the control member is coupled with the base member such that the portion of the control member slides within the interior space to move the base member in a substantially arcuate direction to the engaged position.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the base member of the two-step bail is operatively connected to the cutting blade through a linking member.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, comprising a biasing member positioned within the interior space of the base member for biasing the control member toward the first extended position.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The apparatus according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the biasing member comprises a spring.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the control member is in a substantially perpendicular position relative to the handle when the base member is in the disengaged position.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the control member is in a substantially parallel position relative to the handle when the base member is in the engaged position.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the base member is in a substantially perpendicular position relative to the handle when in the disengaged position.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the base member is in a substantially parallel position relative to the handle when in the engaged position.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the control member is in the second retracted position when the base member is in the engaged position.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, comprising a biasing member engaging the base member for biasing the base member toward the disengaged position.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the portion of the control member comprises a tab.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The apparatus according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the base member further comprises a plurality of channels wherein at least a portion of the control member is positioned within at least one of the plurality of channels and the interior space.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. A two-step bail to control a blade brake clutch on a walk-behind mowing machine, the two-step bail comprising:
+<claim-text>the two-step bail attached to a handle of the walk-behind mowing machine and operatively linked to a blade brake clutch, the two-step bail comprising:
+<claim-text>a base member having an elongated interior space, the base member pivotably attached to a first leg of the handle of the walk-behind mowing machine and being moveable between a disengaged position and an engaged position to actuate the blade brake clutch; and</claim-text>
+<claim-text>a control member comprising a substantially elongated rod shaped structure extending toward a second leg of the handle of the walk-behind mowing machine, a portion of the control member is received within the interior space, is the entire control member being moveable in a linear direction with respect to the interior space between a first extended position and a second retracted position from the interior space, where in the second retracted position the control member is coupled with the base member such that the control member is slidable within the interior space to move the base member to the engaged position;</claim-text>
+</claim-text>
+<claim-text>wherein the portion of the control member received within the interior space is movable downwardly within the interior space and the base member is moved from the disengaged position to the engaged position in a substantially arcuate direction to engage the blade brake clutch such that the blade brake clutch activates a cutting blade of the mowing machine and further wherein releasing the two-step bail disengages the blade brake clutch.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The apparatus according to <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the portion of the control member received within the interior space comprises a tab.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The apparatus according to <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the base member further comprises a plurality of channels wherein at least a portion of the control member is positioned within at least one of the plurality of channels and the interior space.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. A method to control a power machine, comprising;
+<claim-text>providing a power machine with a two-step bail and a control component, the two-step bail comprising:
+<claim-text>a base member having an elongated interior space the base member pivotably attached to a first leg of a handle of the power machine and being movable between a disengaged position and an engaged position to actuate a cutting blade;</claim-text>
+<claim-text>a control member attached to and slidably movable on the base member, a portion of the control member being located within the interior space, the control member comprising a substantially elongated rod shaped structure extending toward a second leg of the handle of the power machine, the entire control member being moveable with respect to the interior space between a first extended position and a second retracted position from the interior space, where in the second retracted position the control member is coupled with the base member such that the control member is then movable to move the base member to its engaged position;</claim-text>
+</claim-text>
+<claim-text>moving the entire control member in a linear direction such that the portion of the control member is slidably moved within the interior space whereby the control member moves from the first extended position to the second retracted position; and</claim-text>
+<claim-text>moving the base member in a substantially arcuate direction from the disengaged position to the engaged position, whereby the cutting blade of the power machine is actuated.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The method of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the base member is substantially vertical and substantially perpendicular to the handle of the power machine in the disengaged position.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The method of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the base member is substantially horizontal and parallel to the handle of the power machine in the engaged position.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The method of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the power machine is a walk-behind mowing machine.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The method of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the base member is operatively connected to the cutting blade of the power machine through a linking member.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text>21. The method of <claim-ref idref="CLM-00016">claim 16</claim-ref>, further comprising biasing the two-step bail by engaging the base member with a biasing member whereby release of the control member by an operator results in the base member returning to the disengaged position.</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text>22. The method of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the step of biasing further comprises biasing the base member toward the disengaged position with the biasing member.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text>23. The method according to <claim-ref idref="CLM-00016">claim 16</claim-ref>, further comprising biasing the control member toward the first extended position with a biasing member engaging the control member. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

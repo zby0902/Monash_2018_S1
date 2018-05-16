@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891183-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891183</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12068720</doc-number>
+<date>20080211</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>591</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>03</class>
+<subclass>C</subclass>
+<main-group>1</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 60498</main-classification>
+<further-classification> 60497</further-classification>
+<further-classification> 60504</further-classification>
+</classification-national>
+<invention-title id="d2e53">Wave-based power generation system</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>3965365</doc-number>
+<kind>A</kind>
+<name>Parr</name>
+<date>19760600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>4108578</doc-number>
+<kind>A</kind>
+<name>Corey</name>
+<date>19780800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>4408455</doc-number>
+<kind>A</kind>
+<name>Montgomery</name>
+<date>19831000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>4418286</doc-number>
+<kind>A</kind>
+<name>Scott</name>
+<date>19831100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>4438343</doc-number>
+<kind>A</kind>
+<name>Marken</name>
+<date>19840300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>290 53</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>4598547</doc-number>
+<kind>A</kind>
+<name>Danihel</name>
+<date>19860700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60507</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>4627240</doc-number>
+<kind>A</kind>
+<name>Holmes</name>
+<date>19861200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>4672222</doc-number>
+<kind>A</kind>
+<name>Ames</name>
+<date>19870600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>4803839</doc-number>
+<kind>A</kind>
+<name>Russo, III</name>
+<date>19890200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>4872309</doc-number>
+<kind>A</kind>
+<name>Jaenichen, Sr.</name>
+<date>19891000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60497</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>5424582</doc-number>
+<kind>A</kind>
+<name>Trepl, II et al.</name>
+<date>19950600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>6561856</doc-number>
+<kind>B1</kind>
+<name>Gorshkov</name>
+<date>20030500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>6711897</doc-number>
+<kind>B2</kind>
+<name>Lee</name>
+<date>20040300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>6781253</doc-number>
+<kind>B2</kind>
+<name>Newman</name>
+<date>20040800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>7043904</doc-number>
+<kind>B2</kind>
+<name>Newman</name>
+<date>20060500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>2005/0285402</doc-number>
+<kind>A1</kind>
+<name>Ames</name>
+<date>20051200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>2006/0273594</doc-number>
+<kind>A1</kind>
+<name>Gehring</name>
+<date>20061200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>CN</country>
+<doc-number>1090910</doc-number>
+<date>19940800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>DE</country>
+<doc-number>4143011</doc-number>
+<kind>C1</kind>
+<date>19930400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>20</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 60495-507</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>4</number-of-drawing-sheets>
+<number-of-figures>4</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090200806</doc-number>
+<kind>A1</kind>
+<date>20090813</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Al-Huwaider</last-name>
+<first-name>Mustafa Ali</first-name>
+<address>
+<city>Dhahran</city>
+<country>SA</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>SA</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Litman</last-name>
+<first-name>Richard C.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>King Fahd University of Petroleum and Minerals</orgname>
+<role>03</role>
+<address>
+<city>Dhahran</city>
+<country>SA</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Nguyen</last-name>
+<first-name>Hoang M</first-name>
+<department>3748</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The wave-based power generation system has a buoy or float retained by a cable that enters an underwater power generating station. The cable enters the station housing through an inverted U-tube having upturned inlet and outlet ports, which prevent water from entering the housing. The buoy cable passes over an inlet pulley assembly disposed within the U-tube and has its free end secured to a take-up reel or sheave. A driver pulley is mounted on a shaft coaxial with the take-up reel shaft, and is constrained to unidirectional rotation. Rotation of the driver pulley is coupled to a mainspring pulley and a timing pulley through an idler pulley. A mainspring is compressed by rotation of the mainspring pulley until a cam wheel coaxial with the timing wheel releases a brake, causing the mainspring to expand and rotate a generator shaft to produce electricity.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="206.16mm" wi="247.90mm" file="US07891183-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="247.14mm" wi="205.15mm" orientation="landscape" file="US07891183-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="226.31mm" wi="179.66mm" orientation="landscape" file="US07891183-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="192.36mm" wi="181.61mm" orientation="landscape" file="US07891183-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="193.97mm" wi="185.25mm" orientation="landscape" file="US07891183-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0002" num="0001">1. Field of the Invention</p>
+<p id="p-0003" num="0002">The present invention relates to power generating systems, and particularly to a wave-based power generation system for generating electrical power from the motion of waves in a body of water.</p>
+<p id="p-0004" num="0003">2. Description of the Related Art</p>
+<p id="p-0005" num="0004">Due to the limitations of non-renewable energy sources, such as oil and coal, as well as the negative environmental effects of such energy sources, it is desirable to provide alternative energy conversion and transfer systems that are based on renewable sources of power with minimal effects on the environment. In recent years, systems for the conversion of the energy of ocean-based waves into electrical power have been of interest. However, such systems typically require the construction of large and complex structures near the ocean or on ocean-mounted platforms. Not only are such structures difficult and costly to build, but their large-scale frameworks, built or deployed on the ocean, are vulnerable to storm damage and are costly to maintain.</p>
+<p id="p-0006" num="0005">It would be desirable to provide a system that allows for the transfer and conversion of usable energy from ocean waves, that does not require large scale construction, and that includes mechanical elements that are not vulnerable to high winds, storm currents and similar extreme environmental conditions, with the delicate mechanical parts being shielded from surface conditions.</p>
+<p id="p-0007" num="0006">Thus, a wave-based power generation system solving the aforementioned problems is desired.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0008" num="0007">The wave-based power generation system has a buoy or float retained by a cable that enters an underwater power generating station. The cable enters the station housing through an inverted U-tube having upturned inlet and outlet ports, which prevent water from entering the housing. The buoy cable passes over an inlet pulley assembly disposed within the U-tube and has its free end secured to a take-up reel or sheave. A driver pulley is mounted on a shaft coaxial with the take-up reel shaft, and is constrained to unidirectional rotation. Rotation of the driver pulley is coupled to a mainspring pulley and a timing pulley through an idler pulley. A mainspring is compressed by rotation of the mainspring pulley until a cam wheel coaxial with the timing wheel releases a brake, causing the mainspring to expand and rotate a generator shaft to produce electricity.</p>
+<p id="p-0009" num="0008">Unidirectional rotation of the driver pulley is provided so that only upward motion of the buoy produces electricity. A counterpoise formed by a reel or drum having an internal spiral spring biases the take-up reel to return to an equilibrium position during downward motion of the buoy. The timing pulley has a large diameter relative to the mainspring pulley in order to allow the mainspring (also a spiral spring) to store enough potential energy to generate sufficient current to charge a storage battery or do other useful work. The brake assembly includes a spring-biased piston journaled through roller bearings and having a first roller at one end that bears against the perimeter of the cam wheel, and a second roller at the opposite end that bears against vanes extending from the mainspring pulley shaft when the first roller is riding high on the cam, but is withdrawn from contact with the vanes when the first roller slides down the shoulder of the cam. The wave-base power generation system can be used to generate electricity from the motion of waves in the ocean, in seas, in lakes, in gulfs, or in other bodies of water where winds, gravitational attraction of the moon, currents, and thermal gradients may generate waves.</p>
+<p id="p-0010" num="0009">These and other features of the present invention will become readily apparent upon further review of the following specification and drawings.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. 1</figref> is an environmental side view in partial section of a wave-based power generation system according to the present invention.</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. 2</figref> is a partial front view of the wave-based power generation system according to the present invention, showing connection of the mainspring to the electrical generator.</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 3A</figref> is a diagrammatic partial side view of the wave-based power generation system according to the present invention, shown with the brake applied to the mainspring.</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 3B</figref> is a diagrammatic partial side view of the wave-based power generation system according to the present invention, shown with the brake released.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<p id="p-0015" num="0014">Similar reference characters denote corresponding features consistently throughout the attached drawings.</p>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENTS</heading>
+<p id="p-0016" num="0015">The present invention relates to a wave-based power generation system, designated generally as <b>10</b> in the drawings. Referring to <figref idref="DRAWINGS">FIG. 1</figref>, the system <b>10</b> includes a buoy or float <b>12</b> tethered by a cable <b>14</b> or other elongated flexible member resistant to corrosion, such as a string, a rope, a polyethylene cable, one or more strands of monofilament fishing line, a stainless steel, aluminum, or galvanized cable, etc. The cable <b>14</b> enters the housing <b>26</b> of an underwater power generation system through an inlet defined by an inverted U-tube <b>22</b> having upturned inlet and outlet ports, the housing defining a power generation chamber. The U-tube <b>22</b> provides for equilibration between the water pressure exerted by water W and air pressure exerted by air A within the housing in order to keep the machinery disposed within housing <b>26</b> dry.</p>
+<p id="p-0017" num="0016">Cable <b>14</b> is routed through an inlet pulley assembly <b>15</b>, which includes pulleys <b>16</b>, <b>18</b>, and <b>20</b>, disposed within the U-tube, and pulley <b>24</b>, mounted on a bearing or other support. The free end of cable <b>14</b> is attached to take-up reel <b>28</b>, which is rotatably mounted on a shaft supported by a stanchion. Take-up reel <b>28</b> is a double groove sheave, having cable <b>14</b> wound clockwise in one of the grooves, and cable <b>30</b> wound counterclockwise in the adjacent groove. Cable <b>30</b> is also fixed to reel <b>28</b> at one end, and has its opposite end fixed to counterpoise reel or drum <b>32</b>. Counterpoise reel <b>32</b> has an internal spiral spring <b>34</b> mounted therein.</p>
+<p id="p-0018" num="0017">When a wave raises buoy <b>12</b>, cable <b>14</b> causes counterclockwise rotation of take-up reel <b>28</b> and corresponding winding of spring <b>34</b>. When the wave falls, tension is released from spring <b>34</b>, causing spring <b>34</b> to unwind, with resulting clockwise rotation of take-up reel <b>28</b>. The spiral spring <b>34</b> is a weak spring having a relatively low spring constant so that take-up reel <b>28</b> is responsive to even small motions of the waves. The counterpoise reel <b>32</b> biases take-up reel <b>28</b> to an equilibrium position in the absence of waves, and maintains proper tension on cables <b>14</b> and <b>30</b> when the waves are falling.</p>
+<p id="p-0019" num="0018">A driver pulley <b>36</b> is mounted on a shaft coaxial with the take-up reel <b>28</b>, but is constrained to unidirectional rotation, i.e., driver pulley <b>36</b> rotates only when take-up reel <b>28</b> rotates counterclockwise. This constraint to unidirectional rotation may be accomplished in any conventional manner. For example, driver pulley <b>36</b> may be mounted for rotation on a shaft that is coupled to the take-up reel shaft by a magnetic clutch controlled by optical sensors to ensure rotation only when take-up reel <b>28</b> rotates counterclockwise. Alternatively, driver pulley <b>36</b> may be mounted on a shaft coupled to the take-up reel <b>28</b> by a clutch, with the driver pulley <b>36</b> having a ratchet wheel mounted on its shaft that engages a pawl to constrain rotation to counterclockwise rotation with take-up reel <b>28</b>. Constraining rotation of driver pulley <b>36</b> to counterclockwise rotation means that the system <b>10</b> derives power only when the buoy <b>12</b> rises with the rising action of the waves.</p>
+<p id="p-0020" num="0019">Driver pulley <b>36</b> is coupled to an idler pulley <b>38</b> by belt <b>40</b>, the idler pulley also being supported on a stanchion. The idler pulley <b>38</b> is a triple groove sheave. A second belt <b>42</b>, riding in the second groove, couples idler pulley <b>38</b> to a large diameter timing pulley <b>46</b>. A third belt <b>44</b>, riding in the third groove, couples idler pulley <b>38</b> to a mainspring pulley <b>48</b>.</p>
+<p id="p-0021" num="0020">As shown in <figref idref="DRAWINGS">FIG. 2</figref>, mainspring pulley <b>48</b> is rotatably mounted on a stanchion. A shaft <b>60</b> that rotates an armature in generator <b>62</b> to produce electricity is aligned coaxially with the mainspring pulley shaft. Shaft <b>60</b> is supported by stanchions <b>52</b>, <b>54</b>, and <b>56</b> and journaled through bearings <b>64</b>, <b>66</b>. A spiral mainspring <b>50</b> has one end fixed to shaft <b>60</b> and a second end coupled to mainspring pulley <b>48</b> by rod <b>58</b>. Shaft <b>60</b> has a pair of vanes or plates <b>70</b> extending radially therefrom that cooperate with a brake assembly <b>71</b>, shown in more detail in <figref idref="DRAWINGS">FIGS. 3A and 3B</figref></p>
+<p id="p-0022" num="0021">The brake assembly <b>71</b> includes a cam wheel <b>74</b> mounted coaxially on the same shaft as timing pulley <b>46</b>. Cam wheel <b>74</b> has a generally circular shape, but with a sharp shoulder that defines an arc <b>76</b> of progressively increasing diameter to the high side of the cam wheel <b>74</b>. The arc <b>76</b> may extend between about 90&#xb0; and 120&#xb0;. The brake assembly also includes a cam follower, which is a spring-biased piston <b>68</b> mounted on posts <b>78</b> and journaled through roller bearings <b>80</b> attached to the posts <b>78</b>. Piston <b>68</b> has a first roller <b>82</b> at its upper end that bears against cam wheel <b>74</b> and a second roller <b>72</b> at its opposite lower end that bears against vanes <b>70</b>. A compression spring <b>84</b> is mounted between two discs <b>86</b> and <b>88</b>. Disc <b>86</b> is fixed to one of the posts <b>78</b>, and disc <b>88</b> is fixed to the piston <b>68</b>.</p>
+<p id="p-0023" num="0022">As shown in <figref idref="DRAWINGS">FIG. 3A</figref>, when roller <b>82</b> bears against the high side (larger radius) of cam wheel <b>74</b>, piston <b>68</b> slides downward, compressing spring <b>84</b> and causing roller <b>72</b> to bear against the side of one of the vanes <b>70</b>, precluding rotation of shaft <b>60</b>. During this period, shaft <b>60</b> is fixed so that rotation of mainspring pulley <b>48</b> causes winding of the mainspring <b>50</b> due to coupling rod <b>58</b>, storing potential energy in the mainspring <b>50</b>.</p>
+<p id="p-0024" num="0023">As shown in <figref idref="DRAWINGS">FIG. 3B</figref>, when cam wheel <b>74</b> rotates counterclockwise until the shoulder of the cam wheel <b>74</b> is opposite piston <b>68</b>, compression spring <b>84</b> expands, driving roller <b>82</b> down the sharp edge of the shoulder to bear against the low side of the cam wheel <b>74</b> and sliding piston <b>68</b> upward so that roller <b>72</b> retracts and no longer bears against the side of the vane <b>70</b>. Shaft <b>60</b> is then free to rotate, and mainspring <b>50</b> unwinds, converting the potential energy stored in the mainspring <b>50</b> to electricity produced by generator <b>62</b>, which may be used to charge a storage battery or to perform other useful work. Continued rotation of cam wheel <b>74</b> causes roller <b>82</b> to ride up the arc <b>76</b> to gradually compress spring <b>84</b> and interpose roller <b>72</b> into the path of the vanes <b>70</b>, applying a brake to preclude rotation of shaft <b>60</b> and rewind mainspring <b>5</b><i>b. </i></p>
+<p id="p-0025" num="0024">The duty cycle of the generator <b>62</b> is regulated by the timing pulley <b>46</b>. Timing pulley <b>46</b> has a large diameter relative to the mainspring pulley <b>50</b> in order to allow the mainspring <b>50</b> to store enough potential energy to generate sufficient current to charge a storage battery or do other useful work. The mainspring pulley <b>50</b> may, for example, cycle through two complete revolutions for each complete revolution of the timing pulley <b>46</b>.</p>
+<p id="p-0026" num="0025">The housing <b>16</b> for the underwater power generation system may be fixed to floor of the body of water, and several units may be connected in parallel using a rectifier, which may result in maximum power generation. Alternatively, the entire housing <b>16</b> may be floating if lightweight components are used, which may provide for easier maintenance than the fixed facility, but may be heavier on the waves. If desired, the buoy or float <b>12</b> may be tethered to shore by a rubber cable, or other flexible, resilient line, so that the buoy <b>12</b> does not drift or get carried too far away from the area above the housing inlet.</p>
+<p id="p-0027" num="0026">The wave-based power generation system can be used to generate electricity from the motion of waves in the ocean, in seas, in lakes, in gulfs, or in other bodies of water where winds, gravitational attraction of the moon, currents, and thermal gradients may generate waves, providing an economical alternative source of power that takes advantage of renewable natural phenomena.</p>
+<p id="p-0028" num="0027">It is to be understood that the present invention is not limited to the embodiments described above, but encompasses any and all embodiments within the scope of the following claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>I claim:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A wave-based power generation system, comprising:
+<claim-text>a float adapted for floating on a body of water;</claim-text>
+<claim-text>a housing adapted for being fixed to a floor of the body of water, the housing defining an underwater power generation chamber having an inlet passage;</claim-text>
+<claim-text>an inlet pulley assembly disposed in the inlet passage;</claim-text>
+<claim-text>a take-up reel disposed in the power generation chamber;</claim-text>
+<claim-text>a cable having a first end attached to the float and a second end attached to the take-up reel, the cable passing over the inlet pulley assembly and through the inlet passage;</claim-text>
+<claim-text>a driver pulley coupled for rotation with the take-up reel, the driver pulley being constrained to unidirectional rotation;</claim-text>
+<claim-text>a timing pulley driven by the driver pulley, the timing pulley being disposed within the power generation chamber;</claim-text>
+<claim-text>a mainspring pulley driven by the driver pulley, the mainspring pulley being disposed within the power generation chamber;</claim-text>
+<claim-text>an electrical generator having a rotor shaft extending therefrom, the electrical generator and rotor shaft being disposed within the power generation chamber;</claim-text>
+<claim-text>a spiral mainspring mounted on the rotor shaft and coupled to the mainspring pulley; and</claim-text>
+<claim-text>a brake assembly extending between the timing pulley and the generator shaft, the timing pulley moving the brake assembly between a braking position precluding rotation of the rotor shaft while the mainspring pulley winds the mainspring to store potential energy when waves raise the float, and a release position permitting rapid unwinding of the mainspring and rotation of the rotor shaft to generate electricity.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The wave-based power generation system according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said inlet passage comprises an inverted U-shaped tube having and upwardly turned inlet and an upwardly turned outlet, the U-shaped tube equalizing water pressure from the body of water with air pressure inside the power generation chamber to keep the power generation chamber dry.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The wave-based power generation system according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a counterpoise connected to the take-up reel, the take-up reel comprising a double groove sheave, the counterpoise having a counterpoise reel, a spiral counterpoise spring disposed within the counterpoise reel, and a cable extending between the counterpoise reel and one of the grooves of the take-up reel, the counterpoise applying a spring bias to the float cable and to the counterpoise cable when the float falls to properly position the take-up reel.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The wave-based power generation system according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the counterpoise spiral spring has a low spring constant, the counterpoise spiral spring being weak in order to permit rotation of the take-up reel in response to low level movement of the waves.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The wave-based power generation system according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising an idler pulley, the idler pulley being a triple groove sheave, and belts connecting the driver pulley with the idler pulley, the timing pulley with the idler pulley, and the mainspring pulley with the idler pulley in the three grooves of the idler pulley, respectively.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The wave-based power generation system according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said brake assembly comprises:
+<claim-text>a cam wheel coaxially mounted for rotation with the timing pulley;</claim-text>
+<claim-text>a pair of vanes extending from the rotor shaft; and</claim-text>
+<claim-text>a cam follower extending between the cam wheel and the rotor shaft, the cam follower bearing against one of the vanes in the braking position and being withdrawn from contact with the vanes in the release position.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The wave-based power generation system according to <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein said cam wheel is generally circular, having a periphery forming a sharp shoulder defining an arc of progressively increasing radius extending between about 90&#xb0; and 120&#xb0;, and a high side extending about the remaining periphery.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The wave-based power generation system according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein said cam follower comprises:
+<claim-text>a piston extending between the cam wheel and the rotor shaft, the piston having an upper end, a lower end, and upper and lower rollers extending from the upper and lower ends, respectively;</claim-text>
+<claim-text>a stanchion extending from the housing into the power generation chamber; and</claim-text>
+<claim-text>a first disc, a second disc and a compression spring extending between the first and second discs, the first disc being fixed to the piston and the second disc being fixed to the stanchion, the upper piston roller bearing against the periphery of the cam wheel;</claim-text>
+<claim-text>wherein the lower piston roller bears against one of the vanes, the compression spring is compressed and the upper piston roller bears against the high side of the cam wheel in the braking position; and</claim-text>
+<claim-text>the compression spring expands and the lower roller is withdrawn from contact with the vanes when the upper roller rides down the shoulder and bears against the arc of progressively increasing radius.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The wave-based power generation system according to <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein said timing pulley has a greater diameter than said mainspring pulley in order to compress said mainspring during multiple waves.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The wave-based power generation system according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said driver pulley is constrained to counterclockwise rotation, whereby said mainspring is wound only when said float rises.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. A wave-based power generation system, comprising:
+<claim-text>a float adapted for floating on a body of water;</claim-text>
+<claim-text>a housing adapted for being fixed to a floor of the body of water, the housing defining an underwater power generation chamber having an inlet passage;</claim-text>
+<claim-text>an inlet pulley assembly disposed in the inlet passage;</claim-text>
+<claim-text>a take-up reel disposed in the power generation chamber;</claim-text>
+<claim-text>a cable having a first end attached to the float and a second end attached to the take-up reel, the cable passing over the inlet pulley assembly and through the inlet passage;</claim-text>
+<claim-text>a driver pulley coupled for rotation with the take-up reel, the driver pulley being constrained to unidirectional rotation;</claim-text>
+<claim-text>a timing pulley driven by the driver pulley, the timing pulley being disposed within the power generation chamber;</claim-text>
+<claim-text>a mainspring pulley driven by the driver pulley, the mainspring pulley being disposed within the power generation chamber;</claim-text>
+<claim-text>an electrical generator having a rotor shaft extending therefrom, the electrical generator and rotor shaft being disposed within the power generation chamber;</claim-text>
+<claim-text>a spiral mainspring mounted on the rotor shaft and coupled to the mainspring pulley; and</claim-text>
+<claim-text>means for precluding rotation of the rotor shaft as the mainspring is being wound and for suddenly releasing the mainspring for rapid unwinding and rotation of the rotor shaft to generate electricity.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The wave-based power generation system according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein said inlet passage comprises an inverted U-shaped tube having and upwardly turned inlet and an upwardly turned outlet, the U-shaped tube equalizing water pressure from the body of water with air pressure inside the power generation chamber to keep the power generation chamber dry.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The wave-based power generation system according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, further comprising a counterpoise connected to the take-up reel, the take-up reel comprising a double groove sheave, the counterpoise having a counterpoise reel, a spiral counterpoise spring disposed within the counterpoise reel, and a cable extending between the counterpoise reel and one of the grooves of the take-up reel, the counterpoise applying a spring bias to the float cable and to the counterpoise cable when the float falls to properly position the take-up reel.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The wave-based power generation system according to <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the counterpoise spiral spring has a low spring constant, the counterpoise spiral spring being weak in order to permit rotation of the take-up reel in response to low level movement of the waves.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The wave-based power generation system according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, further comprising an idler pulley, the idler pulley being a triple groove sheave, and belts connecting the driver pulley with the idler pulley, the timing pulley with the idler pulley, and the mainspring pulley with the idler pulley in the three grooves of the idler pulley, respectively.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The wave-based power generation system according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein said means for precluding rotation comprises a brake assembly having:
+<claim-text>a cam wheel coaxially mounted for rotation with the timing pulley;</claim-text>
+<claim-text>a pair of vanes extending from the rotor shaft; and</claim-text>
+<claim-text>a cam follower extending between the cam wheel and the rotor shaft, the cam follower bearing against one of the vanes in the braking position and being withdrawn from contact with the vanes in the release position.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The wave-based power generation system according to <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein said cam wheel is generally circular, having a periphery forming a sharp shoulder defining an arc of progressively increasing radius extending between about 90&#xb0; and 120&#xb0;, and a high side extending about the remaining periphery.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The wave-based power generation system according to <claim-ref idref="CLM-00017">claim 17</claim-ref>, wherein said cam follower comprises:
+<claim-text>a piston extending between the cam wheel and the rotor shaft, the piston having an upper end, a lower end, and upper and lower rollers extending from the upper and lower ends, respectively;</claim-text>
+<claim-text>a stanchion extending from the housing into the power generation chamber; and</claim-text>
+<claim-text>a first disc, a second disc and a compression spring extending between the first and second discs, the first disc being fixed to the piston and the second disc being fixed to the stanchion, the upper piston roller bearing against the periphery of the cam wheel;</claim-text>
+<claim-text>wherein the lower piston roller bears against one of the vanes, the compression spring is compressed and the upper piston roller bears against the high side of the cam wheel in the braking position; and</claim-text>
+<claim-text>the compression spring expands and the lower roller is withdrawn from contact with the vanes when the upper roller rides down the shoulder and bears against the arc of progressively increasing radius.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The wave-based power generation system according to <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein said timing pulley has a greater diameter than said mainspring pulley in order to compress said mainspring during multiple waves.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The wave-based power generation system according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein said driver pulley is constrained to counterclockwise rotation, whereby said mainspring is wound only when said float rises. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

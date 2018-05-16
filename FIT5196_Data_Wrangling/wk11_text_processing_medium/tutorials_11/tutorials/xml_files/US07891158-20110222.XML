@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891158-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891158</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12462435</doc-number>
+<date>20090804</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>65</class>
+<subclass>B</subclass>
+<main-group>35</main-group>
+<subgroup>54</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 53446</main-classification>
+<further-classification> 53154</further-classification>
+<further-classification> 53168</further-classification>
+<further-classification> 53202</further-classification>
+</classification-national>
+<invention-title id="d2e43">Robotic multi-product case-packing system</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>3137981</doc-number>
+<kind>A</kind>
+<name>Johnson et al.</name>
+<date>19640600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 53168</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>4369612</doc-number>
+<kind>A</kind>
+<name>Wight</name>
+<date>19830100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>4413724</doc-number>
+<kind>A</kind>
+<name>Fellner</name>
+<date>19831100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>198594</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>4499987</doc-number>
+<kind>A</kind>
+<name>Long</name>
+<date>19850200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>198347</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>4870807</doc-number>
+<kind>A</kind>
+<name>Palamides et al.</name>
+<date>19891000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53528</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>4930291</doc-number>
+<kind>A</kind>
+<name>Boisseau</name>
+<date>19900600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 53458</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>4972936</doc-number>
+<kind>A</kind>
+<name>Kura</name>
+<date>19901100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>5018336</doc-number>
+<kind>A</kind>
+<name>Mengotti et al.</name>
+<date>19910500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53435</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>5125782</doc-number>
+<kind>A</kind>
+<name>Goldschmidt et al.</name>
+<date>19920600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>5170877</doc-number>
+<kind>A</kind>
+<name>Francioni</name>
+<date>19921200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>198358</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>5341626</doc-number>
+<kind>A</kind>
+<name>Beckmann</name>
+<date>19940800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53566</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>5617701</doc-number>
+<kind>A</kind>
+<name>Brizzi et al.</name>
+<date>19970400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 53168</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>5628162</doc-number>
+<kind>A</kind>
+<name>Kreusch et al.</name>
+<date>19970500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 53168</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>5794417</doc-number>
+<kind>A</kind>
+<name>Mohrman</name>
+<date>19980800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 53541</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>5996316</doc-number>
+<kind>A</kind>
+<name>Kirschner</name>
+<date>19991200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 53443</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>6050062</doc-number>
+<kind>A</kind>
+<name>Petersson et al.</name>
+<date>20000400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 53458</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>6106450</doc-number>
+<kind>A</kind>
+<name>Brittain</name>
+<date>20000800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>493171</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>6145281</doc-number>
+<kind>A</kind>
+<name>Hansen et al.</name>
+<date>20001100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53447</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>6516811</doc-number>
+<kind>B1</kind>
+<name>Focke et al.</name>
+<date>20030200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>131283</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>6591587</doc-number>
+<kind>B2</kind>
+<name>Salm et al.</name>
+<date>20030700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53461</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>6656006</doc-number>
+<kind>B2</kind>
+<name>Yamamuro et al.</name>
+<date>20031200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>445  9</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>6715265</doc-number>
+<kind>B2</kind>
+<name>Franzaroli</name>
+<date>20040400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53435</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>6751934</doc-number>
+<kind>B2</kind>
+<name>Focke et al.</name>
+<date>20040600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification> 53444</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>6830145</doc-number>
+<kind>B2</kind>
+<name>Flom</name>
+<date>20041200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>198617</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>6928789</doc-number>
+<kind>B2</kind>
+<name>Prakken</name>
+<date>20050800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53154</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>6941723</doc-number>
+<kind>B2</kind>
+<name>Di Stasio</name>
+<date>20050900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53247</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>7143567</doc-number>
+<kind>B2</kind>
+<name>Omo et al.</name>
+<date>20061200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53443</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>7219485</doc-number>
+<kind>B2</kind>
+<name>Battisti</name>
+<date>20070500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53542</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>7389622</doc-number>
+<kind>B2</kind>
+<name>Douglas</name>
+<date>20080600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53251</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>7587879</doc-number>
+<kind>B2</kind>
+<name>Guttinger et al.</name>
+<date>20090900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53251</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>2002/0073651</doc-number>
+<kind>A1</kind>
+<name>Muller</name>
+<date>20020600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53399</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>2005/0198920</doc-number>
+<kind>A1</kind>
+<name>Nakagawa et al.</name>
+<date>20050900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>2006/0053754</doc-number>
+<kind>A1</kind>
+<name>Carrigan et al.</name>
+<date>20060300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53589</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>2006/0070353</doc-number>
+<kind>A1</kind>
+<name>Van Dam</name>
+<date>20060400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53447</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>2006/0070847</doc-number>
+<kind>A1</kind>
+<name>Besch et al.</name>
+<date>20060400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00036">
+<document-id>
+<country>US</country>
+<doc-number>2006/0162284</doc-number>
+<kind>A1</kind>
+<name>Nakagawa et al.</name>
+<date>20060700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53168</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00037">
+<document-id>
+<country>US</country>
+<doc-number>2007/0028561</doc-number>
+<kind>A1</kind>
+<name>Douglas</name>
+<date>20070200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53251</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00038">
+<document-id>
+<country>US</country>
+<doc-number>2007/0215435</doc-number>
+<kind>A1</kind>
+<name>Tachibana et al.</name>
+<date>20070900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00039">
+<document-id>
+<country>US</country>
+<doc-number>2008/0142398</doc-number>
+<kind>A1</kind>
+<name>Carrigan et al.</name>
+<date>20080600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>206499</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00040">
+<document-id>
+<country>US</country>
+<doc-number>2009/0241472</doc-number>
+<kind>A1</kind>
+<name>Lindee et al.</name>
+<date>20091000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 53443</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>16</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 53446</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 53443</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 53447</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 53448</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 53474</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 53492</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 53154</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 53168</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 53202</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 53237</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>2</number-of-drawing-sheets>
+<number-of-figures>2</number-of-figures>
+</figures>
+<us-related-documents>
+<division>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>12043613</doc-number>
+<date>20080306</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>7584589</doc-number>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>12462435</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</division>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60905960</doc-number>
+<date>20070309</date>
+</document-id>
+</us-provisional-application>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090293433</doc-number>
+<kind>A1</kind>
+<date>20091203</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Stafford, III</last-name>
+<first-name>Thomas I.</first-name>
+<address>
+<city>Roswell</city>
+<state>GA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Fordham</last-name>
+<first-name>Benjamin C.</first-name>
+<address>
+<city>Savannah</city>
+<state>GA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Schneider</last-name>
+<first-name>Richard S.</first-name>
+<address>
+<city>Brewerton</city>
+<state>NY</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Bozek</last-name>
+<first-name>Laura L.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Georgia-Pacific Consumer Products LP</orgname>
+<role>02</role>
+<address>
+<city>Atlanta</city>
+<state>GA</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Durand</last-name>
+<first-name>Paul R</first-name>
+<department>3721</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A case packing system concurrently accumulates a plurality of different product ensembles and sequentially packs cases thereof, generally by way of (a) concurrently accumulating a plurality of different product ensembles utilizing a plurality of product conveyer lines, each of which is adapted to separately convey distinct products to one or more transfer points; (b) sequentially transferring different accumulated product ensembles from the conveyer lines to a case-packer, the case-packer including a packing section as well as multiple magazines for receiving different case-blanks; (c) controlling transfer of the product ensembles to the case-packer and selection of the appropriate case-blank. Preferably, substantially continuous operation of the case-packer at a production rate higher than an accumulation rate of any individual product conveyer is maintained. A preferred construction employs a 4-axis robotic arm to select KDF cases and shuttle conveyers to transfer product from the conveyers to the case-packer.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="136.65mm" wi="173.14mm" file="US07891158-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="176.95mm" wi="152.06mm" orientation="landscape" file="US07891158-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="226.06mm" wi="153.16mm" orientation="landscape" file="US07891158-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">CLAIM FOR PRIORITY</heading>
+<p id="p-0002" num="0001">This application is a divisional of U.S. patent application Ser. No. 12/043,613, entitled &#x201c;Robotic Multi-Product Case-Packing System&#x201d;, filed on Mar. 6, 2008, now U.S. Pat. No. 7,584,589. U.S. patent application Ser. No. 12/043,613 was based upon U.S. Provisional Patent Application Ser. No. 60/905,960, also entitled &#x201c;Robotic Multi-Product Case-Packing System&#x201d;, filed Mar. 9, 2007. The priorities of U.S. patent application Ser. No. 12/043,613 and U.S. Provisional Patent Application Ser. No. 60/905,960 are hereby claimed and the disclosures thereof are incorporated into this application by reference.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">TECHNICAL FIELD</heading>
+<p id="p-0003" num="0002">The present invention relates to a robotic case packing system adapted to pack multiple products. In one preferred embodiment, the case-packing system includes a plurality of production lines which accumulate product and a plurality of movable shuttle conveyers which selectively provide a predetermined number of units to a case-packer with multiple case-blank magazines such that substantially continuous operation of the case-packer can be maintained, even with low-volume production of individual products. A pivoting robotic arm selects the appropriate case from a magazine so that the system readily switches from packing one product to packing another.</p>
+<heading id="h-0003" level="1">BACKGROUND</heading>
+<p id="p-0004" num="0003">Automated cartoning equipment is well known in the art. There is shown, for example, in U.S. Pat. No. 6,050,062 to Petersson et al. a packaging system having multiple magazines for providing different carton blanks to a single form, fill and seal packaging machine. The packaging system has multiple magazines, a packaging machine, a carton opener, and optionally an automatic carton loader. See also, U.S. Pat. No. 5,341,626 to Beckmann. In the '626 patent there is disclosed an apparatus which provides a plurality of different carton blanks to a packing apparatus. The filling of the cartons and the closing of the cartons takes place on a turret having cells which are adjustable in size to match the incoming erected carton. So also, there is disclosed in U.S. Pat. No. 4,930,291 to Boisseau an apparatus having multiple magazines. See <figref idref="DRAWINGS">FIG. 2</figref>. There is disclosed in U.S. Pat. No. 3,137,981 to Johnson et al. a multiple magazine cartoning machine.</p>
+<p id="p-0005" num="0004">The various components of cartoning systems are further described in the following patents.</p>
+<p id="p-0006" num="0005">U.S. Pat. No. 6,830,145 to Flom describes a transfer system including an air conveyer, a servo conveyer and a fan feeder. The air conveyer is located at a first location where it receives package articles from a bagger system or a conveyer system. The servo conveyer abuts the air conveyer and extends to a second location adjacent to a destination point. The fan feeder is located adjacent to the servo conveyer at an end opposite the air conveyer such that the fan feeder lies over a bucket conveyer to a cartoner system.</p>
+<p id="p-0007" num="0006">U.S. Pat. No. 6,751,934 to Focke et al. describes a process for packaging cigarettes packs. The procedure for carrying out a product changeover is such that the entire production and packaging installation is largely emptied. In the region of a film packer and of a following multi-packer, subassemblies for producing web connections are controlled such that the last cigarette pack of an old configuration is assigned to a last cigarette multipack and the product is separated out. See also, U.S. Pat. No. 6,516,811 to Focke et al.</p>
+<p id="p-0008" num="0007">U.S. Pat. No. 5,996,316 to Kirschner describes a packaging system with a subsystem for packaging individual articles into different sized containers, the different sized containers having a different number of individual articles therein. This system also includes a palletizer for palletizing the different sized containers and a conveyer system for transporting the articles from the supply to the packaging subsystem and for transporting the containers from the packaging subsystem to the palletizer.</p>
+<p id="p-0009" num="0008">U.S. Pat. No. 5,794,417 to Mohrman discloses an adjustable case-packer. The device includes a telescoping stacking chamber with a telescoping base plate having sensors for detecting a full layer and means for raising the telescoping base plate in order to pack a carton.</p>
+<p id="p-0010" num="0009">U.S. Pat. No. 5,628,162 to Kreusch et al. discloses a packaging system for packaging a plurality of different cigarette types including multiple packaging units arranged in a side by side relationship. See also, U.S. Pat. No. 5,617,701 to Brizzi et al.</p>
+<p id="p-0011" num="0010">U.S. Pat. No. 4,499,987 to Long discloses an accumulator system for cartons moving to a case-packer including a conveyer section interposed in a conveying line. When a jam is detected on the delivery conveyer, a stop member is activated to prevent movement of cartons. When a slug of cartons is accumulated, an array of fingers lifts the slug an increment to clear the accumulator for more cartons from the receiving conveyer. Another accumulator is seen in U.S. Pat. No. 4,413,724 to Fellner which discloses an accumulator including a plurality of side by side conveying lines.</p>
+<p id="p-0012" num="0011">Due to prohibitive capital costs, conventional case-packing systems are unsuitable for low volume product lines because such systems remain idle for much of the time. Such products are thus conventionally hand-packed into cases for delivery to customers. The present invention provides a case packing system and method wherein multiple products are concurrently accumulated and sequentially packed in cases through robotic selection of the production line and appropriate case for the particular product.</p>
+<heading id="h-0004" level="1">SUMMARY OF INVENTION</heading>
+<p id="p-0013" num="0012">There is provided in accordance with the present invention an apparatus and method of concurrently accumulating a plurality of different product ensembles and sequentially packing cases thereof. Generally, the process and system involves: (a) concurrently accumulating a plurality of different product ensembles utilizing a plurality of product conveyer lines, each of which is adapted to separately convey distinct products to one or more transfer points; (b) sequentially transferring different accumulated product ensembles from the conveyer lines to a case-packer, the case-packer including a packing section as well as multiple magazines for receiving different case-blanks; (c) robotically controlling transfer of the product ensembles to the case-packer and selection of the appropriate case-blank; and (d) maintaining operation of the case-packer at a production rate higher than an accumulation rate of any individual product conveyer of the system. The system thus makes it practical to automate case packing even for low-volume product lines since machine time is efficiently utilized. Preferably, the case-packer is supplied with enough products such that it operates substantially continuously.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF DRAWINGS</heading>
+<p id="p-0014" num="0013">The invention is described in detail below with reference to the drawings, wherein like numbers designate similar parts and wherein:</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 1</figref> is a schematic diagram of an embodiment of a robotic case-packing system of the present invention; and</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 2</figref> is a schematic diagram of another embodiment of a robotic case-packing system of the present invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0017" num="0016">The invention is described in detail below with reference to several embodiments and numerous examples. Such discussion is for purposes of illustration only. Modifications to particular examples within the spirit and scope of the present invention, set forth in the appended claims, will be readily apparent to one of ordinary skill in the art. As is noted above, case-packers and associated equipment are well-known. See U.S. Pat. No. 5,341,626 to Beckmann, the disclosure of which is incorporated herein by reference, where there is disclosed a case-packer with a carton erector. Various carton erectors are also seen in U.S. Pat. No. 6,106,450 to Britain and U.S. Pat. No. 6,656,006 to East, the disclosures of which are also incorporated herein by reference. U.S. Pat. No. 5,794,417 to Mohrman (likewise incorporated herein by reference) discloses an adjustable case-packer. The device includes a telescoping stacking chamber with a telescoping base plate having sensors for detecting a full layer and means for raising the telescoping base plate in order to pack a carton. Such components can be incorporated into the inventive system, if so desired.</p>
+<p id="p-0018" num="0017">Preferably, products are supplied to the case-packer such that operation of the case-packer is &#x201c;substantially continuous&#x201d; in the sense that the packing section of the case-packer is idle no more than 25% of the time during a production campaign.</p>
+<p id="p-0019" num="0018">The present invention is adapted, in a preferred embodiment, to pack paper products, such as napkins, towels and so forth into cases formed from knock-down-flat (KDF) blanks having, for example, different indicia for different products or for different customers. KDF cases are loaded into each of a plurality of magazines of a case-packer. The magazines for this system are static using a robotic arm to reach each case. When the proper count of product is sufficient on a particular in-feed, the system will request that the appropriate case be picked from its magazine. This is advantageously accomplished utilizing a 4-axis robot. The robot will go to the requested magazine and select a case, with vacuum, reaching in until it contacts the KDF case blank. It will deliver the case to the KDF staging/squaring station. When that operation is complete the robot will go to a perch position until a request for another case is received. The KDF case blank is optionally scanned for proper bar code (if the bar code is incorrect that case is rejected automatically and the robot is requested to get a new case) and is transferred to the erecting and positioning station, where it is formed into the box shape. Rear minor and major flaps are folded and the case is positioned for automatic loading. Simultaneously, product enters the case-packer's in-feed system as shown in drawing and transported to the collation station where the pack pattern is developed. The product is then loaded into the case. After loading, the case indexes through the machine where the load side minor flaps are folded, hot melt glue is applied, major flaps are pre-folded and then final folded and sealed. The finished sealed case discharges onto a conveyor for distribution. Details are further appreciated by reference to the various Figures.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 1</figref> is a schematic diagram of a robotic case-packing system <b>10</b> of the invention. System <b>10</b> includes a plurality of product conveyer lines <b>12</b>, <b>14</b>, <b>16</b>, <b>18</b>, <b>20</b> and <b>22</b>, each of which is adapted to separately convey distinct products to a plurality of segregated transfer points <b>24</b>, <b>26</b>, <b>28</b>, <b>30</b>, <b>32</b> and <b>34</b>. Each product conveyer accumulates a collection or ensemble of products at its transfer point.</p>
+<p id="p-0021" num="0020">A case-packer <b>36</b> includes a packing section <b>38</b>, as well as multiple magazines <b>40</b>, <b>42</b>, <b>44</b>, <b>46</b> and <b>48</b> and a robotic arm <b>50</b>. The magazines are arranged over an arc <b>52</b> which is suitably less than 300&#xb0; and preferably less than 270&#xb0;. Robotic arm <b>50</b> is pivotally mounted at <b>54</b>, initially with respect to magazines, such that it rotates between magazines in order to select the appropriate case for the appropriate product ensemble. Case-packer <b>36</b> also includes 2 in-feed conveyers <b>56</b>, <b>58</b> with distinct feed points <b>60</b>, <b>62</b> as well as a right accumulator <b>64</b> and a left accumulator <b>66</b>. Further provided is a rotate bucket <b>68</b> which takes collated product from a laying flat state and rotates it to stand on end so the product is in a correct orientation for loading into the case.</p>
+<p id="p-0022" num="0021">A pair of shuttle conveyers <b>70</b>, <b>72</b> is movable to a plurality of locations so as to transfer a selected product ensemble from a transfer point of a conveyer to an in-feed conveyer of the case-packer. To this end, shuttle conveyer <b>70</b> is movable to locations <b>74</b>, <b>76</b> and <b>78</b> while shuttle <b>72</b> is movable to positions <b>80</b>, <b>82</b> and <b>84</b>.</p>
+<p id="p-0023" num="0022">Operation of the system is coordinated by a controller <b>86</b> which is coupled to the various components by way of a control bus indicated at <b>88</b>. Controller <b>86</b> controls the various components such that the case-packing system is operable to accumulate different products concurrently and sequentially supply a predetermined number of like product units to the case-packer. System <b>10</b> is thus capable of maintaining substantially continuous operation of the case-packer at a production rate higher than the accumulation rate of any individual product conveyer of the system.</p>
+<p id="p-0024" num="0023">Thus, conveyer lines <b>12</b>, <b>14</b>, <b>16</b>, <b>18</b>, <b>20</b>, <b>22</b> operate concurrently to accumulate different products (which may be similar but labeled differently) at their transfer points. The shuttle conveyers are operated to convey a product ensemble from a selected product conveyer line to an in-feed conveyer. For example, product conveyer line <b>16</b> accumulates product at or near its transfer point <b>28</b>. When a sufficient number of units are available at <b>28</b>, shuttle conveyer <b>70</b> is cylinder activated to move to location <b>78</b> and receive the product ensemble. Thereafter, shuttle conveyor <b>70</b> is moved to location <b>76</b> and provides the selected product ensemble to feed point <b>60</b> of in-feed conveyer <b>56</b> which, in turn, provides the ensemble to right accumulator <b>64</b>. When an ensemble is ready to be cased, controller <b>86</b> activates robotic arm <b>50</b> which selects the appropriate case and provides the appropriate case blank to packing section <b>38</b> of case-packer <b>36</b>, where the case is erected and packed with product. Thereafter, the packed case is sealed and conveyed in direction <b>90</b> for distribution.</p>
+<p id="p-0025" num="0024">An alternate layout for the inventive system is shown in <figref idref="DRAWINGS">FIG. 2</figref>, which shows a system <b>110</b> similar in many respects to system <b>10</b> of <figref idref="DRAWINGS">FIG. 1</figref>. System <b>110</b> includes a plurality of product conveyer lines <b>112</b>, <b>114</b>, <b>116</b>, <b>118</b>, <b>120</b> and <b>122</b> having transfer points <b>124</b>, <b>126</b>, <b>128</b>, <b>130</b>, <b>132</b> and <b>134</b> as well as a case-packer <b>136</b>.</p>
+<p id="p-0026" num="0025">Case-packer <b>136</b> includes a packing section <b>138</b> as well as multiple KDF magazines <b>140</b>, <b>142</b>, <b>144</b>, <b>146</b>, <b>148</b> and <b>149</b>. Further provided is a robotic arm <b>150</b>. The magazines are arranged over an arc <b>152</b> with suitably less than 300&#xb0; having at its center robotic arm <b>150</b>. Arm <b>150</b> is pivotally mounted at pivot <b>154</b> for rotation so as to be able to select the appropriate case for a product ensemble.</p>
+<p id="p-0027" num="0026">Case-packer <b>136</b> also includes an in-feed conveyer <b>156</b> with a feed point <b>160</b> as well as an accumulator at <b>164</b>.</p>
+<p id="p-0028" num="0027">A shuttle conveyer <b>70</b> is movable to and from a plurality of locations <b>174</b>, <b>176</b>, <b>178</b>, <b>180</b>, <b>182</b> and <b>184</b> so as to shuttle a product ensemble to the case-packer when ready.</p>
+<p id="p-0029" num="0028">Operation of system <b>110</b> is controlled by a controller <b>186</b> connected to the various system components by a control bus <b>188</b>.</p>
+<p id="p-0030" num="0029">System <b>110</b> operates similarly to system <b>10</b> of <figref idref="DRAWINGS">FIG. 1</figref>; however, the system operates at a lower maximum speed, somewhat limited by the shuttle conveyer capacity.</p>
+<p id="p-0031" num="0030">The system of the invention is constructed with components which are generally available. For example, robotic arm <b>50</b> is suitably a model no. Fanuc M410 robotic arm available from Schneider Packaging Equipment Co. Inc, case-packer <b>36</b> is suitably a model HCP-10 case-packer from Schneider Packaging Equipment Co. Inc., while controller <b>86</b> is an Allen Bradley Logix's controller. The shuttle conveyers are preferably custom made for a particular installation. The shuttle and staging conveyors are sized to fit the incoming product from the various upstream conveyor lines so there is enough length to them to be able to accept a full case load of product. A product hold located at the in-feed end at each of the staging conveyors stops incoming product from advancing while that staging conveyor releases its product to the shuttle. That is, for example, a product hold (not shown) stops any more products from entering staging conveyor line <b>16</b>. Shuttle conveyor <b>70</b> travels over to position <b>78</b> and lines up with conveyor line <b>16</b>. A blade stop lowers allowing product from conveyor line <b>16</b> to enter onto shuttle conveyor <b>70</b>. When the product has completely exited conveyor line <b>16</b> the blade stop raises. The product hold at the in-feed end of conveyor line <b>16</b> releases allowing product to enter conveyor line <b>16</b>. This process is the same for each of the conveyor lines. The conveyor system operates on a first in first out sequence. The controller <b>86</b> monitors each conveyor. When a conveyor reaches the proper level indicating it has a full case load of product available it is put into a queue and is serviced by the shuttle.</p>
+<p id="p-0032" num="0031">The inventive system is thus capable of packing different products in different cases with different packing formats and so forth. For example, 5 different products could be packed in 5 different-sized layouts by a single system with one automated case-packer. The system readily switches between different products without the system being idled. One preferred way of operating the system is determining when a caseload of a particular product is available from a product conveyer and placing that case in a queue for transport to the case-packer as will be appreciated from the foregoing.</p>
+<heading id="h-0007" level="1">Example</heading>
+<p id="p-0033" num="0032">The system of <figref idref="DRAWINGS">FIG. 1</figref> is operated with five (5) napkin folding lines running to the multiple-product case packing machine. The lines are commonly referred to as &#x201c;300 count&#x201d; lines, but they package printed and non-printed quarter-folded lunch napkins in packages of 250, 330, and 400. Each folding machine converts napkins at a rate of 4800 napkins per minute. At these rates, cases of 12 packages can be produced at rates of 1 to 1.6 cases per minute. Typically, four (4) of the five (5) napkin lines are producing a 250 count package (the most popular configuration). For example conveyor lines <b>12</b>, <b>14</b>, <b>16</b>, <b>18</b> might be producing 250 count packages of products A, B, C, D each for different customers with different prints and designations while line <b>20</b> is producing a 400 count product E. In this scenario, the case-packer would have to maintain a packing rate of 7.4 cases per minute. In speed tests, the case-packer has exceeded 9 cases per minute, as required for surge rate. A &#x201c;surge&#x201d; situation occurs when the case-packer has been powered down or serviced for a short interval, usually less than 15 minutes, and packages accumulate on conveyors feeding the case-packer. In this situation, simply packing at the rate of the folder production capability will not reduce the amount of accumulated product on the conveying lines. If the accumulation is not reduced, the next down-time interval at the case-packer will produce down-time at the folding equipment almost immediately. Thus, with surge capability, the case-packer is capable of eliminating accumulated product.</p>
+<p id="p-0034" num="0033">In exemplary operation, the case-packer is running the following configurations from each line at their designated nominal rate:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0034">A&#x2014;400 count packages at 12 per minute</li>
+        <li id="ul0002-0002" num="0035">B&#x2014;250 count packages at 18 per minute</li>
+        <li id="ul0002-0003" num="0036">C&#x2014;250 count packages at 18 per minute</li>
+        <li id="ul0002-0004" num="0037">D&#x2014;250 count packages at 18 per minute</li>
+        <li id="ul0002-0005" num="0038">E&#x2014;250 count packages at 18 per minute</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0035" num="0039">Each of these configurations is similar in their number of packages and pattern within the case. Where these differ, is in their poly print, case print, and package rate. The case-packer has the capability to change sizes and counts for each line within the constraints of the package pattern in the case.</p>
+<p id="p-0036" num="0040">While the invention has been described in detail in connection with two (2) constructions of the system and exemplary operation thereof, modifications within the spirit and scope of the invention will be readily apparent to those of ordinary skill in the art. In view of the foregoing discussion, relevant knowledge in the art and references discussed above in connection with the Background and Detailed Description, the disclosures of which are all incorporated herein by reference, further description is deemed unnecessary.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A method of concurrently accumulating a plurality of different product ensembles and sequentially packing cases thereof, comprising:
+<claim-text>(a) concurrently accumulating a plurality of different product ensembles utilizing a plurality of product conveyer lines, each of which is adapted to separately convey distinct products to one or more transfer points;</claim-text>
+<claim-text>(b) sequentially transferring different accumulated product ensembles from the conveyer lines to a case-packer, the case-packer including a packing section as well as multiple magazines for receiving different case-blanks;</claim-text>
+<claim-text>(c) controlling transfer of the product ensembles to the case-packer and selection of the appropriate case-blank; and</claim-text>
+<claim-text>(d) maintaining substantially continuous operation of the case-packer at a production rate higher than an accumulation rate of any individual product conveyer of the system.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the case-packer is operated at a production rate of at least 3 times that of any individual conveyor line.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the case-packer is operated at a production rate of at least 5 times that of any individual conveyor line.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the case-packer is operated at a production rate of at least 7 times that of any individual conveyor line.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the case-packer is operated at a production rate higher than the collective production rate of the plurality of conveyer lines.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, utilizing at least 3 product conveyor lines and wherein the case-packer includes at least 3 case-blank magazines.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, utilizing at least 5 product conveyor lines and wherein the case-packer includes at least 5 case-blank magazines.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the case-blank magazines are arranged over an arc of less than 300&#xb0;.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the case-blank magazines are arranged over an arc of 270&#xb0; or less.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the case-packer includes a robotic arm pivotally mounted in a central location with respect to the case-blank magazines.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. A method of concurrently collecting a plurality of different product ensembles and sequentially packing cases thereof, comprising:
+<claim-text>(a) concurrently collecting a plurality of different product ensembles utilizing a plurality of product conveyer lines, each of which is adapted to separately convey distinct products to one or more transfer points on individual production rates;</claim-text>
+<claim-text>(b) sequentially transferring different product ensembles from the conveyer lines to a case-packer, the case-packer including a packing section as well as multiple magazines for receiving different case-blanks;</claim-text>
+<claim-text>(d) controlling transfer of the product ensembles to the case-packer and selection of the appropriate case-blank; and</claim-text>
+<claim-text>(d) operating the case-packer at a production rate higher than the collective individual production rates of the product conveyers of the system such that accumulated product in the system is depleted while the product conveyor lines are operating.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The method according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, utilizing at least 3 product conveyor lines and wherein the case-packer includes at least 3 case-blank magazines.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The method according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, utilizing at least 5 product conveyor lines and wherein the case-packer includes at least 5 case-blank magazines.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The method according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the case-blank magazines are arranged over an arc of less than 300&#xb0;.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The method according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the case-blank magazines are arranged over an arc of 270&#xb0; or less.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The method according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the case-packer includes a robotic arm pivotally mounted in a central location with respect to the case-blank magazines. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

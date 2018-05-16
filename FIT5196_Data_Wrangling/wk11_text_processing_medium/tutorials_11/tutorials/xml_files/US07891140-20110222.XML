@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891140-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891140</doc-number>
+<kind>B1</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12902970</doc-number>
+<date>20101012</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>RU</country>
+<doc-number>2006143779</doc-number>
+<date>20061211</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>E</section>
+<class>04</class>
+<subclass>G</subclass>
+<main-group>11</main-group>
+<subgroup>04</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 52  225</main-classification>
+<further-classification> 52 83</further-classification>
+<further-classification> 52  211</further-classification>
+<further-classification> 52  3</further-classification>
+<further-classification> 52  219</further-classification>
+<further-classification> 52  224</further-classification>
+<further-classification>135119</further-classification>
+<further-classification>135908</further-classification>
+</classification-national>
+<invention-title id="d2e61">Perimeter wall panels for an air supported structure</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>2024056</doc-number>
+<kind>A</kind>
+<name>Morison</name>
+<date>19351200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52 922</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>2751635</doc-number>
+<kind>A</kind>
+<name>Donnahue</name>
+<date>19560600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52 69</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3189949</doc-number>
+<kind>A</kind>
+<name>Hurkamp</name>
+<date>19650600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52  211</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>3389510</doc-number>
+<kind>A</kind>
+<name>Stock</name>
+<date>19680600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52  217</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>3999333</doc-number>
+<kind>A</kind>
+<name>Amarantos</name>
+<date>19761200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52  219</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>4021972</doc-number>
+<kind>A</kind>
+<name>Choate et al.</name>
+<date>19770500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52  215</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>4305235</doc-number>
+<kind>A</kind>
+<name>Roston</name>
+<date>19811200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52  217</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>4478012</doc-number>
+<kind>A</kind>
+<name>Fraioli</name>
+<date>19841000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52  225</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>4559746</doc-number>
+<kind>A</kind>
+<name>Ishler</name>
+<date>19851200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52  217</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>4633626</doc-number>
+<kind>A</kind>
+<name>Freeman et al.</name>
+<date>19870100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52 71</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>6282842</doc-number>
+<kind>B1</kind>
+<name>Simens</name>
+<date>20010900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52  211</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>7832149</doc-number>
+<kind>B2</kind>
+<name>Ligas et al.</name>
+<date>20101100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52  225</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>2008/0072501</doc-number>
+<kind>A1</kind>
+<name>Ligas et al.</name>
+<date>20080300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 52  225</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>20</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 52  225</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 52 83</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 52  211</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 52  219</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 52  224</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 52  3</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 52  5</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 52 23</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 52 63</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 525061</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>135119</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>135908</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>18</number-of-drawing-sheets>
+<number-of-figures>22</number-of-figures>
+</figures>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Ligas, Jr.</last-name>
+<first-name>Jan</first-name>
+<address>
+<city>Montvale</city>
+<state>NJ</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Gomozov</last-name>
+<first-name>Nicholai</first-name>
+<address>
+<city>Moscow</city>
+<country>RU</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>RU</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Lewis, Rice &#x26; Fingersh, L.C.</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Johnson Heater Corp.</orgname>
+<role>02</role>
+<address>
+<city>St. Louis</city>
+<state>MO</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Chilcot, Jr.</last-name>
+<first-name>Richard E</first-name>
+<department>3635</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Wendell</last-name>
+<first-name>Mark R</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A wall panel which can be used to provide a lower, more rigid, perimeter wall to an air supported structure. The wall panels may be attached to the earth via a hinged connection to provide for improved ease of raising the air supported structure and to allow for flexing, or may be rigidly attached. The wall panels will generally be modular and interchangeable.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="201.00mm" wi="336.89mm" file="US07891140-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="188.04mm" wi="162.14mm" file="US07891140-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="183.64mm" wi="170.94mm" file="US07891140-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="220.81mm" wi="135.30mm" file="US07891140-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="222.25mm" wi="128.95mm" file="US07891140-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="213.95mm" wi="154.35mm" orientation="landscape" file="US07891140-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="237.91mm" wi="98.21mm" file="US07891140-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="136.74mm" wi="162.14mm" file="US07891140-20110222-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="180.26mm" wi="143.09mm" file="US07891140-20110222-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="208.11mm" wi="149.44mm" file="US07891140-20110222-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="165.61mm" wi="88.39mm" file="US07891140-20110222-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="159.77mm" wi="160.19mm" file="US07891140-20110222-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="163.66mm" wi="148.00mm" file="US07891140-20110222-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="166.54mm" wi="182.20mm" file="US07891140-20110222-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="188.04mm" wi="179.24mm" orientation="landscape" file="US07891140-20110222-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="152.91mm" wi="154.86mm" file="US07891140-20110222-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="222.25mm" wi="147.07mm" orientation="landscape" file="US07891140-20110222-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="248.67mm" wi="163.66mm" file="US07891140-20110222-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00018" num="00018">
+<img id="EMI-D00018" he="217.85mm" wi="157.73mm" orientation="landscape" file="US07891140-20110222-D00018.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">CROSS REFERENCE TO RELATED APPLICATION(S)</heading>
+<p id="p-0002" num="0001">This application is a Continuation of U.S. patent application Ser. No. 11/860,796, filed Sep. 25, 2007 now U.S. Pat. No. 7,832,149, which, in turn, claims the benefit of U.S. provisional Application Ser. No. 60/826,760, filed Sep. 25, 2006 and currently pending and priority to Russian Application 2006143779 filed Dec. 11, 2006 and currently pending. The entire disclosure of all the above documents is herein incorporated by reference.</p>
+<heading id="h-0002" level="1">BACKGROUND</heading>
+<p id="p-0003" num="0002">1. Field of the Invention</p>
+<p id="p-0004" num="0003">The invention relates to panels which can be used as a lower section of an air supported structure, structures constructed with such panels, and methods for constructing such structures.</p>
+<p id="p-0005" num="0004">2. Description of the Related Art</p>
+<p id="p-0006" num="0005">Air supported structures are becoming increasingly common as they can allow for construction of buildings, particularly those requiring a large, clear span of space, at a significantly reduced cost and in a fraction of the installation time. Such buildings need not be temporary and recent improvements in their design and construction have made them capable of operating year round, in a multitude of environments and over extended periods of time which are comparable to conventional construction techniques for brick and mortar or glass and steel buildings.</p>
+<p id="p-0007" num="0006">Previously, an air supported structure has been a structure that essentially only uses a large sheet or membrane as its building material. This material is anchored to the ground and, in its simplest form, is filled with air. The air which is provided to the structure provides it with a positive pressure which is sufficient to result in the structure essentially inflating relative to the ground and therefore providing an enclosed area inside the bubble or dome that is enclosed by the membrane. So long as the air pressure is maintained, the structure will remain upright and can be used in the same way as any other structure. Air supported structures, because they can provide for vast expanses of enclosed space without need for roof support columns or pillars, can provide for particularly useful enclosed areas for buildings which require a large, open expanse such as warehouses, covers for athletic fields, classrooms, auditoriums, schools, gymnasiums and similar structures. Further, by its very nature, the structure of an air structure is often more sturdy than a conventional building of similar size.</p>
+<p id="p-0008" num="0007">Air supported structures, however, can also have downsides. While the structure can include a number of more rigidly designed components to provide for doors, garages, air locks and other components which more conventional structures include, the structure is still necessarily that of a large, inflated membrane. This results in a particular appearance and vulnerability from the exterior which is often undesirable. Further, the structure can be vulnerable to vandalism, breach of the interior through the exterior, breach of the exterior from the interior, or other breach from the exterior or interior from those who may penetrate, cut or otherwise breach the structure seeking to gain access, deface, penetrate or simply cause damage, either accidentally or intentionally. This will generally not result in major damage or collapse of the structure, but can lead to an undesirable appearance, a breach of safety of the structure, or another breach of the space exterior or interior to the structure. Further, many potential consumers, users or others with an interest in the appearance, safety, installation or use of an air supported structure see the potential for vandalism, fire, accident or other destructive occurrences as a likely cause of the building's damage, destruction or collapse. While this is usually only a remote possibility, it can lead to selection of more conventional metal, brick and mortar, glass and steel or other structures instead of air structures due to considerations of safety, protection, appearance, aesthetics, function or in general the impression.</p>
+<heading id="h-0003" level="1">SUMMARY</heading>
+<p id="p-0009" num="0008">The following is a summary of the invention in order to provide a basic understanding of some aspects of the invention. This summary is not intended to identify key or critical elements of the invention or to delineate the scope of the invention. The sole purpose of this section is to present some concepts of the invention in a simplified form as a prelude to the more detailed description that is presented later.</p>
+<p id="p-0010" num="0009">Described herein, among other things, are wall panels which can be used with an air supported structure to give the structure an improved or architecturally pleasing appearance, and to make it harder for any person, casualty or other event caused by a vandal, an accident (whether by nature or otherwise) itself to be able to deface, breach, damage enter, exit or access the fabric structure of an air supported building. These panels are not intended to completely prevent vandalism, accidents or casualty, or to provided improved appearance, but are intended to provide for a structure which has as its lower section an architecturally improved appearance and/or a safer, secure or more rigid design which raises the fabric membrane higher into the air and ideally more out of breach or reach of accident, a casualty, a human being or any other thing on the ground. Further, the wall panels may be modular and potentially reusable. In this way when the air supported structure is removed, the panels can be removed and reused on alternative structures. Further, if one was to be breached or damaged in any way, the panel can simply be repaired or replaced by another modular panel.</p>
+<p id="p-0011" num="0010">There is described herein, amongst other things, a wall panel for use with an inflatable structure, the wall panel comprising; a frame; two exterior panels attached to the frame and spaced from each other; an insulative inner section located between two of the exterior panels; a first connector, the first connector allowing the wall panel to be connected to the earth; a second connector, the second connector allowing the wall panel to be connected to a membrane; wherein, a plurality of the wall panels are used to form a perimeter wall on the lower portion of an air supported structure, the membrane forming a roof of the air supported structure.</p>
+<p id="p-0012" num="0011">In an embodiment of the panel the first connector is designed to attach to the earth via a foundation either in a hinged fashion which may use a common rod or individual bolts for each panel or in a rigid fashion.</p>
+<p id="p-0013" num="0012">In an embodiment, each of the exterior panels comprises a component panel, the structure may further include exterior cable nets encapsulating the structure.</p>
+<p id="p-0014" num="0013">There is further discussed here an inflatable structure which utilizes wall panels of any of the above discussed types to form a lower perimeter wall of the structure, and methods for constructing an inflatable structure which includes such a perimeter wall. In such a structure, the panels may be used as a fire break.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIGS. 1A and 1B</figref> provides for perspective views of two embodiments of an air supported structure including perimeter wall panels which utilize different anchorages.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 2A</figref> shows a cross sectional view of the embodiment of <figref idref="DRAWINGS">FIG. 1A</figref> and <figref idref="DRAWINGS">FIG. 2B</figref> shows a cross sectional view of <figref idref="DRAWINGS">FIG. 1B</figref>. Both FIGS show the hinged anchor connecting the panel to the ground and the connection of the panel to the fabric of the structure.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 3</figref> shows a perspective view of another embodiment including of a cable net support structure in use with an air supported structure having hinged perimeter wall panels.</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 4</figref> provides for images of a wall panel of an embodiment.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 5</figref> shows a perspective view of the connection between the panel of <figref idref="DRAWINGS">FIG. 4</figref> and the fabric of the air supported structure and the connections between adjacent panels.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 6</figref> shows a plan view of the internal frame structure of an embodiment of a wall panel with some cutaway sections.</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 7</figref> shows a detail view of an embodiment of a connection for connecting outer sandwich panels to the frame of <figref idref="DRAWINGS">FIG. 6</figref> when forming a wall panel.</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 8</figref> shows a detail view of an embodiment of a connection between wall panels of <figref idref="DRAWINGS">FIG. 7</figref>.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 9</figref> shows a perspective view of a second embodiment of an air supported structure including perimeter wall panels utilizing a different foundational connection.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 10</figref> shows a cross-sectional view of the embodiment of <figref idref="DRAWINGS">FIG. 9</figref>.</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 11</figref> shows a perspective view of a structure with hinged panels, indicating how corner panels can be positioned.</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 12</figref> shows a perspective view of another embodiment of an air supported structure utilizing wall panels maintained in a rigid upright position.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 13</figref> shows a cross-sectional view of the embodiment of <figref idref="DRAWINGS">FIG. 12</figref>.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 14</figref> shows a perspective view of another embodiment of an air supported structure utilizing wall panels maintained in a rigid upright position.</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 15</figref> shows a cross-sectional and detail view of the embodiment of <figref idref="DRAWINGS">FIG. 14</figref>.</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 16</figref> shows a perspective view of another embodiment of an air supported structure utilizing wall panels which utilizes the cable net for support.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DESCRIPTION OF THE PREFERRED EMBODIMENT(S)</heading>
+<p id="p-0031" num="0030">The following detailed description illustrates by way of example and not by way of limitation. The figures provided herewith show a number of wall panels and methods for allowing wall panels to be utilized as the lower portion of an air supported structure. While these embodiments all demonstrate systems and methods for constructing a lower perimeter wall for an air supported structure from a series of panels, they are intended to only provide exemplary embodiments, and are not the only methods and systems which can be used. This disclosure, therefore, should not be taken as being limited to them.</p>
+<p id="p-0032" num="0031">Generally, the embodiments of wall panels shown in the FIGS. are used to form a lower perimeter wall which usually has the appearance of a unitary structure of conventional construction formed from a number of the wall panels which are connected together. The lower perimeter wall serves to form the portion of the air supported structure closest to the ground and provides for a more rigid lower structure and structure of more conventional construction to an otherwise air supported building. The upper portion of the structure comprises a membrane of traditional form of an air supported structure as understood by those of ordinary skill in the art.</p>
+<p id="p-0033" num="0032">Generally, the wall panels forming the lower perimeter wall will be used to provide for a more rigid lower perimeter to the air supported building. This can improve aesthetics of the building by making it appear to be of a more traditional construction when viewed from the ground. Further, in many instances, the lower portion of buildings are often used as a place to post posters or placards, or to otherwise provide a pleasing architectural appearance, and the more rigid structure of the lower perimeter wall can make it more aesthetic for such purpose or posting, and make it easier to change or modify from time to time, or to remove such posters to further improve appearance.</p>
+<p id="p-0034" num="0033">The lower perimeter wall can also provide for safety and piece of mind for those concerned about breach, fire or potential damage to air supported structures resulting in total or partial destruction of the structure or creation of holes in the air supported structure. In particular, a more rigid lower perimeter wall can provide for a structure which is more resilient and resistive to fire or breach, or to being cut or otherwise being damaged by a vandal, any other third party, a force of nature, accident or by a casualty. Further, to meet certain fire codes, or simply for safety or piece of mind, the panels constituting the lower structure may be made of fire proofed, resistive or retardant materials or otherwise be fire proofed to delay or prevent flames from touching the membrane portions in most circumstances. While most air supported structures are manufactured with membranes which do not burn or are otherwise non-combustible, or will only char, this can enhance safety and eliminate concerns of fire spreading into or out of the structure at ground level by acting as a firewall or otherwise serving as a fire break. The lower section may also provide for more traditional insulation in the structure.</p>
+<p id="p-0035" num="0034">There are generally described herein two different types of perimeter walls. In the first type as shown in <figref idref="DRAWINGS">FIGS. 1-11</figref>, the perimeter wall is hinged to the ground. This can provide for an assembly where the wall can be put into place simply by inflation of the membrane in normal fashion and provide for a more flexible, modular construction. In the second type of construction as indicated by <figref idref="DRAWINGS">FIGS. 12-15</figref>, the perimeter wall is rigidly mounted to the ground, which can be more sturdy, but more complex to construct and may be harder to repair if sections are damaged. In either type of construction, the perimeter wall is generally comprised of a series of wall panels which are attached together to form the perimeter wall.</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIGS. 1-5</figref> provide for a first embodiment of a hinged type of construction. In this embodiment the membrane (<b>101</b>) is attached to the top of the perimeter wall (<b>103</b>) which is then attached to the foundation (<b>105</b>) at its bottom. The perimeter wall (<b>103</b>) will effectively form an enclosing ring forming the base of the structure (<b>100</b>) although only a portion of the structure (<b>100</b>) is shown here.</p>
+<p id="p-0037" num="0036">In this embodiment, the perimeter wall (<b>103</b>) is formed of a series of wall panels (<b>300</b>) which are modular and interchangeable. Details of these wall panels (<b>300</b>) are shown in <figref idref="DRAWINGS">FIGS. 2 and 4</figref>. Each of the wall panels (<b>300</b>) is generally formed of an enclosing frame (<b>301</b>) as shown in <figref idref="DRAWINGS">FIG. 4A</figref>. The center of the frame is filled with an insulative material (<b>303</b>) such as, but not limited to, fibrous compounds, foams, or air. There is then placed on either side of the frame a cover layer (<b>305</b>). The cover layer (<b>305</b>) may be steel, plastic, wood, aluminum, or other relatively rigid materials, particularly those that are fairly common in conventional structures. This results in a type of sandwiched panel providing both insulation and fairly rigid construction on accessible surfaces. While a sandwiched insulative structure in the wall panel (<b>300</b>) as shown in <figref idref="DRAWINGS">FIGS. 4A and 4B</figref> is generally preferred, it is by no means required and in alternative embodiments, the wall panel (<b>300</b>) may be solid or hollow.</p>
+<p id="p-0038" num="0037">Each wall panel (<b>300</b>) is generally anchored to the ground via an anchorage (<b>201</b>) which is used to connect the panel to the foundation (<b>105</b>). The foundation (<b>105</b>), in its simplest embodiment, is simply packed earth. However, in other embodiments the foundation (<b>105</b>) may be designed to improve the attachment of the structure to the ground and may include cast concrete or similar materials. In the embodiments of <figref idref="DRAWINGS">FIGS. 1 through 11</figref>, the anchorage (<b>201</b>) is generally arranged as a hinged connection to the wall panels (<b>300</b>). Such a hinged connection is generally preferred as it allows the wall panels (<b>300</b>) to have some ability to move relative to the ground. This can be particularly beneficial as air supported structures (<b>100</b>) are often designed to flex in the wind. Further, it can provide for easier assembly where inflation of the structure (<b>100</b>) serves to perform on its own the lifting and support of the perimeter wall (<b>103</b>). It is, however, not required that the anchorage (<b>201</b>) be hinged to the wall panels (<b>300</b>) and the embodiments of <figref idref="DRAWINGS">FIGS. 12-15</figref> provide for alternative designs which are rigidly connected to the foundation (<b>105</b>) or other material underlying the structure (<b>100</b>).</p>
+<p id="p-0039" num="0038">In such a hinged embodiment, if the air structure (<b>100</b>) were to flex toward one side or the other, the wall panels (<b>300</b>) would be able to adjust by rotating about their hinges. Further, the hinged connection allows for the wall panels (<b>300</b>) to be used with a variety of differently sized, dimensioned, or inflated pressure structures as they can adjust their final position depending on the resultant structure (<b>100</b>) shape. Further, hinged wall panels (<b>300</b>) can be raised with the inflation of the fabric portion of the structure (<b>100</b>) as they may be positioned at a variety of different angles during construction and inflation of the air supported structure.</p>
+<p id="p-0040" num="0039">In the embodiment of <figref idref="DRAWINGS">FIGS. 1 through 11</figref> the hinging is generally accomplished by having a series of anchorages (<b>201</b>) in the foundation (<b>105</b>) which are capable of having a rod (<b>203</b>) or bolt (<b>205</b>) placed therethrough. A single rod (<b>203</b>) is used in the embodiment of <figref idref="DRAWINGS">FIGS. 1 through 5</figref> for all wall panels (<b>300</b>) on a single linear side of the structure (<b>100</b>) to connect the wall panels (<b>300</b>) to the anchorage (<b>201</b>). This allows all the wall panels (<b>300</b>) to essentially be affixed together adjacent to each other. This rod (<b>203</b>) is threaded through holes (<b>213</b>) in the lower portion of each frame (<b>301</b>), placing the rod (<b>203</b>) internal to the wall panels (<b>300</b>), and through the anchor points (<b>201</b>) which are generally located between successive wall panels (<b>300</b>).</p>
+<p id="p-0041" num="0040">In the depicted embodiment of <figref idref="DRAWINGS">FIGS. 1 through 5</figref>, the rod (<b>203</b>) is a single piece which extends the entire length of a linear side of the structure (<b>100</b>), however, this is not necessary and multiple separate rods or bolts (<b>205</b>) may be used in an alternative embodiment. Such an embodiment is shown in <figref idref="DRAWINGS">FIGS. 6 through 8</figref> where each frame (<b>311</b>) is comprised of a series of C-beams (<b>321</b>) and/or box beams (<b>323</b>). Adjacent wall panels (<b>3000</b>) are then bolted to the anchorage (<b>201</b>) using bolts (<b>205</b>) as shown in <figref idref="DRAWINGS">FIG. 8B</figref>. Other points of connection between adjacent wall panels (<b>3000</b>) may also be connected with bolts (<b>205</b>) and spacers (<b>207</b>) as shown in <figref idref="DRAWINGS">FIG. 8A</figref>.</p>
+<p id="p-0042" num="0041">In the embodiment of <figref idref="DRAWINGS">FIGS. 6-8</figref>, adjacent wall panels (<b>300</b>) are connected together via a tongue (<b>701</b>) and groove (<b>703</b>) arrangement. Further, in the embodiment of <figref idref="DRAWINGS">FIGS. 6-8</figref> each wall panel (<b>300</b>) actually comprises four component panels (<b>705</b>) arranged on the frame (<b>311</b>), two on each side. Each component panel (<b>705</b>) comprises insulation (<b>761</b>) sandwiched between two cover sheets (<b>763</b>) forming yet another sandwich construction. The individual component panels (<b>705</b>) are then attached together using a similar tongue (<b>701</b>) and groove (<b>703</b>) arrangement and bolted with bolts (<b>707</b>) or similar structures to a central support (<b>313</b>) of the frame. This attachment is shown in <figref idref="DRAWINGS">FIG. 7B</figref>.</p>
+<p id="p-0043" num="0042">In the embodiment of <figref idref="DRAWINGS">FIGS. 1-5</figref>, an alternative arrangement is used to attach individual wall panels (<b>300</b>) together. In this embodiment, the wall panels (<b>300</b>) are fitted with containment strips, filler sections, clamps, or other structures (<b>715</b>) which allow each of the wall panels (<b>300</b>) to be joined together with neighboring wall panels (<b>300</b>) using a section filler strip (<b>717</b>) or other sealing mechanism. Regardless of which method is used, it results in what is effectively a single perimeter wall formed of the wall panels (<b>300</b>) or (<b>3000</b>) when the wall panels (<b>300</b>) or (<b>3000</b>) are connected together.</p>
+<p id="p-0044" num="0043">The embodiments of <figref idref="DRAWINGS">FIGS. 1-8</figref> also show different methodologies for attaching the membrane (<b>101</b>) to the wall panels (<b>300</b>). In the embodiment of FIGS. <b>1</b> and <b>3</b>-<b>5</b>, the top of each of the wall panels (<b>300</b>) is designed to allow another common rod (<b>401</b>) to be used for joining the wall panels (<b>300</b>) to the air supported structure's upper membrane walls and roof by having a fold (<b>403</b>) in the bottom end of the membrane (<b>101</b>) which is fed into a narrow groove (<b>407</b>) having a bulbous lower portion. The rod (<b>401</b>) is then threaded into the fold (<b>403</b>) passing through the bulbous section (<b>409</b>) and once in place the rod (<b>401</b>) and fold (<b>403</b>) combination cannot pass back through the groove (<b>407</b>). This is shown in <figref idref="DRAWINGS">FIG. 5</figref> with the box beam (<b>323</b>) removed for clarity. This design also provides for two points of support between the wall panels (<b>300</b>) on each linear side of the structure (<b>100</b>) to prevent rotation of the wall panels (<b>300</b>) relative to each other.</p>
+<p id="p-0045" num="0044">In the embodiment of <figref idref="DRAWINGS">FIG. 2</figref>, a flap of fabric from the membrane (<b>101</b>) is simply captured by a trap bolt (<b>411</b>) and pinched between the trap bolt (<b>411</b>) and the upper box beam (<b>323</b>) of the wall panels (<b>3000</b>). Once the wall panels (<b>300</b>) or (<b>3000</b>) are attached to the anchorages (<b>201</b>) and the upper membrane (<b>101</b>) of the air supported structure (<b>100</b>), each of the wall panels (<b>300</b>) is in place.</p>
+<p id="p-0046" num="0045">In an embodiment there may also be attached toward the upper end of each wall panel (<b>300</b>) or (<b>3000</b>) a containment strip (<b>438</b>) which serves to provide a quick connection to a fabric wall rain flap (<b>207</b>) included with the inflatable membrane (<b>101</b>) of the air supported structure (<b>100</b>) and which is connected to the wall panel's (<b>300</b>) or (<b>3000</b>) upper end. This rain flap (<b>207</b>) can help weatherproof the connection between the wall panel (<b>300</b>) or (<b>3000</b>) and the membrane (<b>101</b>).</p>
+<p id="p-0047" num="0046">An air seal flap (<b>501</b>) may also be attached toward the base and generally on the interior of each wall panel (<b>300</b>) or (<b>3000</b>), as shown in <figref idref="DRAWINGS">FIG. 2</figref> which is then also sealed to the foundation (<b>105</b>) to serve to seal the hinge area to the ground and prevent unintended air loss through the hinged connection.</p>
+<p id="p-0048" num="0047">As shown in <figref idref="DRAWINGS">FIGS. 2 and 3</figref> as well as <b>12</b> through <b>15</b>, the structure (<b>100</b>) may include further reinforcement by the inclusion of cable nets (<b>601</b>) which are anchored at cable anchorage (<b>603</b>) to the foundation (<b>105</b>) and extend generally up and over the entire structure (<b>100</b>). These can provide for additional rigidity, as well as making the structure (<b>100</b>) able to hold a greater air pressure.</p>
+<p id="p-0049" num="0048">The exterior cable nets (<b>601</b>) may encapsulate the entire upper membranous envelope roof and walls (<b>101</b>) and the lower perimeter wall (<b>103</b>) allowing the stresses in the total structure to transfer their loads to the cable anchorage (<b>603</b>). Each of the panels (<b>300</b>) and (<b>3000</b>) can allow the lift load caused by inflation and wind loading on the resultant structure (<b>100</b>) to carry directly down to the anchorage (<b>201</b>) in the foundation (<b>105</b>) as well.</p>
+<p id="p-0050" num="0049"><figref idref="DRAWINGS">FIGS. 1B and 2B</figref> as well as <b>8</b> and <b>9</b> provide for alternative designs for anchorage (<b>201</b>). In <figref idref="DRAWINGS">FIGS. 1B and 2B</figref>, the anchorage (<b>201</b>) is attached using a bent rod (<b>657</b>). In the case of <figref idref="DRAWINGS">FIGS. 8 and 9</figref> the anchorage (<b>2001</b>) comprises not a single anchor extension (<b>651</b>) with pegs (<b>653</b>) as shown in the anchorage (<b>201</b>) of <figref idref="DRAWINGS">FIGS. 1A and 2A</figref>, but comprises two legs (<b>655</b>) and (<b>657</b>) of a triangular beam which connect to a buried holding block (<b>659</b>). The holding block (<b>659</b>) is buried in the earth (<b>661</b>). This design is preferred if the resultant structure should have no visible foundation or if the earth (<b>661</b>) is unsuitable for a more permanent foundation (<b>105</b>).</p>
+<p id="p-0051" num="0050">To assemble an air supported structure (<b>100</b>) that uses hinged wall panels (<b>300</b>) or (<b>3000</b>), the panels (<b>300</b>) or (<b>3000</b>) will generally be laid out and assembled in a flat position on the foundation (<b>105</b>) for the air supported structure (<b>100</b>). Attaching the wall panels (<b>300</b>) both to the membrane (<b>101</b>) and the foundation (<b>105</b>) will occur with the structure (<b>100</b>) deflated. The structure (<b>100</b>) may then be inflated which will naturally lift the wall panels (<b>300</b>) to their raised position as shown in <figref idref="DRAWINGS">FIG. 11</figref> as the pressure inside the structure (<b>100</b>) pushes them upright.</p>
+<p id="p-0052" num="0051">The wall panels (<b>300</b>) forming the corner (<b>300</b>A) of the perimeter walls may be difficult to have lifted during inflation of the structure as their shape does not allow them to rise from a flat position to their final assembled position without interaction with other wall panels (<b>300</b>B). In an embodiment, the corners (<b>300</b>A) may therefore be placed flat and not connected to the remaining perimeter wall (<b>103</b>) until the other perimeter wall panels (<b>300</b>B) have been raised to their final position by a crane or other lift device. The remaining panels (<b>300</b>B) then may be held in position while the corner panels (<b>300</b>A) are connected. Then the membrane (<b>101</b>) can be inflated. This, however, can be difficult, particularly on large structures, due to the weight of the combined wall panel structures (<b>300</b>B).</p>
+<p id="p-0053" num="0052">Instead, as shown in <figref idref="DRAWINGS">FIG. 11</figref>, the corners of the structure (<b>100</b>) may be initially formed of a fabric barrier (<b>551</b>), and the structure (<b>100</b>) may then be inflated without the corner wall panels (<b>300</b>A) attached and with them laying flat exterior to the structure (<b>100</b>). The structure's (<b>100</b>) resultant air pressure serves to lift the other panels (<b>300</b>B) from their flat (dashed line) position and raise them to their erect position with the barrier (<b>551</b>) sealing the corners. Once all the side perimeter panels (<b>300</b>B) have been lifted from the flat ground assembly position to their fully erected position, corner panels (<b>300</b>A) are lifted in place and connected to those air supported wall panels (<b>300</b>B) already in place, as shown in <figref idref="DRAWINGS">FIG. 11</figref>. The fabric corners (<b>551</b>) may then be removed, if necessary or desired. Once the corner panels (<b>300</b>A) are attached, the perimeter wall (<b>103</b>) is complete and also relatively self supporting.</p>
+<p id="p-0054" num="0053">Once the structure is inflated and erect, any of the wall panels (<b>300</b>) or (<b>3000</b>) can be removed and the space between the wall panels (<b>300</b>) or (<b>3000</b>) can be spaced to meet the door entrances as required for the resultant structure. Alternatively, special panels may have been originally included which include doors or similar structures. The fabric connecting the doors to the wall panels (<b>300</b>) or (<b>3000</b>) may be similar to that of the wall panel (<b>300</b>) containment strips (<b>717</b>).</p>
+<p id="p-0055" num="0054">The resultant air supported structure (<b>100</b>) therefore provides an upper flexible membrane (<b>101</b>) roof and walls to be assembled to a lower rigid perimeter wall (<b>103</b>). Once the inflation air system pumps air into the structure, the total fabric envelope and lower wall panels (<b>300</b>) or (<b>3000</b>) will automatically lift in place under the cable nets (<b>601</b>) and once fully inflated, the lift loads will be transferred from both the air supported membranous envelope (<b>100</b>) and wall panels (<b>300</b>) or (<b>3000</b>) into the safety cable nets (<b>601</b>). The wall panels (<b>300</b>) or (<b>3000</b>) provide the security and resistance to vandalism and damage caused by intentional vandalism by providing for a more rigid and stronger design to the lower portion of the structure (<b>100</b>).</p>
+<p id="p-0056" num="0055"><figref idref="DRAWINGS">FIGS. 12-15</figref> provide for two alternative embodiments of providing for wall panels at the lower portion of an inflatable structure (<b>100</b>). In both embodiments, the wall panels (<b>800</b>) and (<b>900</b>) are not hinged to the foundation (<b>105</b>), but are instead rigidly connected to the foundation (<b>105</b>), or to the earth (<b>661</b>) under the air-supported structure (<b>100</b>) if a foundation (<b>105</b>) is not used. In the embodiments of <figref idref="DRAWINGS">FIGS. 12 through 15</figref> the panels (<b>800</b>) and (<b>900</b>) are not hinged to the ground, but are instead placed by being buried or cast into the foundation (<b>105</b>) or earth (<b>661</b>) or otherwise rigidly attached to the building's foundation (<b>105</b>) such as by angle connectors (<b>901</b>). This design can provide for a stronger more rigid connection to the foundation (<b>105</b>) and elimination of the hinge structure. However, at the same time this embodiment will generally need to be erected at the time the foundation (<b>105</b>) is constructed, and wall panels (<b>800</b>) and (<b>900</b>) are generally not as easily removed and replaced as wall panels (<b>300</b>) or (<b>3000</b>). However, connection of the wall panels (<b>800</b>) or (<b>900</b>) to the membrane (<b>101</b>) is often simpler. In the embodiment of <figref idref="DRAWINGS">FIG. 8</figref>, the membrane (<b>101</b>) of the air supported structure (<b>100</b>) is connected outside the perimeter wall (<b>103</b>) via a strap (<b>803</b>) or other structure which provides for transfer of wind load without placing undue torque on the wall panel (<b>800</b>), which as opposed to the hinged embodiments, lacks the ability to rotate relative to the ground. A sealing flap (<b>805</b>) is then included for integrity of the structure (<b>100</b>) between the membrane (<b>101</b>) and the wall panel (<b>800</b>).</p>
+<p id="p-0057" num="0056">The embodiment of <figref idref="DRAWINGS">FIGS. 14 and 15</figref> is generally similar to the embodiment of <figref idref="DRAWINGS">FIGS. 12 and 13</figref> but is designed to allow the wall panels (<b>900</b>) to absorb still more load. In particular, in this embodiment the wall panels (<b>900</b>) may again be cast into the foundation (<b>105</b>) (or as shown here may be attached to it via rigid connection plates (<b>901</b>)). However, in this embodiment, the wall panels (<b>900</b>) are provided with rigid structure support members (<b>905</b>) and the membrane (<b>101</b>) of the air structure are only shown connected to the wall panels (<b>900</b>) directly. This structure (<b>100</b>) allows for load to be transferred to the wall panels (<b>900</b>), which, while unable to rotate as was the case in the embodiments of <figref idref="DRAWINGS">FIGS. 1-11</figref>, are rigidly supported in place by the structural support members (<b>905</b>) to inhibit damage to the wall panels (<b>900</b>) from applied torque. <figref idref="DRAWINGS">FIG. 16</figref> provides for yet another embodiment. In this embodiment, however, the structural support members are replaced by tensioned cables (<b>616</b>) which are connected to the foundation (<b>105</b>) to provide for support.</p>
+<p id="p-0058" num="0057">In all embodiments, but specifically those embodiments of <figref idref="DRAWINGS">FIGS. 12-15</figref>, the perimeter wall panels can serve a further purpose. In particular, they can serve to provide an emergency safety space around the perimeter of the structure (<b>100</b>). In the event the structure (<b>100</b>) was to suffer a deflation resulting in the membrane (<b>101</b>) sinking into what is normally the interior of the structure (<b>100</b>), the perimeter wall panel will generally serve to create a space between itself and the deflated membrane due to its upright structure and the fact that it will generally not collapse even upon deflation of the structure (<b>100</b>). In effect, there will be an open space adjacent and interior the perimeter wall panels allowing for emergency organizing space and inhibiting panic by allowing people to have space to orderly reach emergency exits.</p>
+<p id="p-0059" num="0058">In another embodiment, the perimeter wall panels may be combined with a series of structural constructs such as, but not limited to, I-beam or tubing poles with cables, rope, or fabric straps spanning between the poles and around the perimeter. These constructs can be attached to the perimeter wall panels to provide for a larger emergency safety space than would be permitted by the perimeter wall panels themselves. Such constructs may be on top of the perimeter wall panels, or may be inside the perimeter wall panels allowing for the creation of a &#x201c;walkway&#x201d; around the interior perimeter in the event of deflation.</p>
+<p id="p-0060" num="0059">While the invention has been disclosed in connection with certain preferred embodiments, this should not be taken as a limitation to all of the provided details. Modifications and variations of the described embodiments may be made without departing from the spirit and scope of the invention, and other embodiments should be understood to be encompassed in the present disclosure as would be understood by those of ordinary skill in the art.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. An air supported structure comprising:
+<claim-text>a roof comprising a membrane;</claim-text>
+<claim-text>a flexible exterior cable net encapsulating said structure; and</claim-text>
+<claim-text>a perimeter wall comprised of a plurality of perimeter wall panels, each of said panels comprising:
+<claim-text>a first connector, said first connector connecting said wall panel to the earth; and</claim-text>
+<claim-text>a second connector, said second connector connecting said wall panel to a cable in said flexible exterior cable net;</claim-text>
+</claim-text>
+<claim-text>wherein, said roof is maintained in position solely by increased air pressure within said structure.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The structure of <claim-ref idref="CLM-00001">claim 1</claim-ref> further comprising a foundation, wherein said first connector is designed to attach to said foundation.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The structure of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said first connector attaches to the earth in a hinged fashion.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The structure of <claim-ref idref="CLM-00003">claim 3</claim-ref> wherein the portion of said plurality of perimeter wall panels which form a side of said structure utilize a common rod for said hinged connection.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The structure of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said first connector attaches to the earth in a rigid fashion.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The structure of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said perimeter wall has greater resistance to fire than said membrane.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The structure of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said perimeter wall has greater resistance to cuts than said membrane.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The structure of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said membrane is also attached to said perimeter wall.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The structure of <claim-ref idref="CLM-00008">claim 8</claim-ref> wherein said membrane is attached via a sealing flap.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The structure of <claim-ref idref="CLM-00001">claim 1</claim-ref> further comprising a plurality of rigid support members attached between the earth and said perimeter wall.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The structure of <claim-ref idref="CLM-00001">claim 1</claim-ref> further comprising a plurality of tensioned cables attached between the earth and said perimeter wall.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The structure of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein when said increased air pressure is removed, said roof collapses into said structure, but is retained a predetermined distance from said perimeter wall through the entire internal perimeter of said perimeter wall.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. An air supported structure comprising:
+<claim-text>a roof comprising a membrane; and</claim-text>
+<claim-text>a perimeter wall comprised of a plurality of perimeter wall panels, each of said panels comprising:
+<claim-text>a first connector, said first connector connecting said wall panel to the earth in a hinged fashion; and</claim-text>
+<claim-text>a second connector, said second connector connecting said wall panel to said membrane;</claim-text>
+</claim-text>
+<claim-text>wherein, said roof is maintained in position solely by increased air pressure within said structure.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The structure of <claim-ref idref="CLM-00013">claim 13</claim-ref> further comprising a foundation, wherein said first connector is designed to attach to said foundation.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The structure of <claim-ref idref="CLM-00013">claim 13</claim-ref> wherein said first connector attaches to the earth in a hinged fashion.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The structure of <claim-ref idref="CLM-00015">claim 15</claim-ref> wherein the portion of said plurality of perimeter wall panels which form a side of said structure utilize a common rod for said hinged connection.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The structure of <claim-ref idref="CLM-00013">claim 13</claim-ref> wherein said first connector attaches to the earth in a rigid fashion.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The structure of <claim-ref idref="CLM-00013">claim 13</claim-ref> wherein said membrane is attached to said wall panel via a sealing flap.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The structure of <claim-ref idref="CLM-00018">claim 18</claim-ref> wherein membrane is also connected to the earth via a plurality of straps.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The structure of <claim-ref idref="CLM-00013">claim 13</claim-ref> wherein when said increased air pressure is removed, said roof collapses into said structure, but is retained a predetermined distance from said perimeter wall through the entire internal perimeter of said perimeter wall.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

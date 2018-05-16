@@ -1,0 +1,1300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891259-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891259</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12331987</doc-number>
+<date>20081210</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>KR</country>
+<doc-number>10-2007-0131013</doc-number>
+<date>20071214</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>15</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>M</subclass>
+<main-group>17</main-group>
+<subgroup>007</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 73862391</main-classification>
+<further-classification> 73172</further-classification>
+<further-classification> 738664</further-classification>
+</classification-national>
+<invention-title id="d2e71">Human dummy system for evaluating comfort of seat</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>4669302</doc-number>
+<kind>A</kind>
+<name>Wagner et al.</name>
+<date>19870600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73172</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>5628230</doc-number>
+<kind>A</kind>
+<name>Flam</name>
+<date>19970500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73172</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>6191798</doc-number>
+<kind>B1</kind>
+<name>Handelman et al.</name>
+<date>20010200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>345473</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>6206703</doc-number>
+<kind>B1</kind>
+<name>O'Bannon</name>
+<date>20010300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>434274</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>6682351</doc-number>
+<kind>B1</kind>
+<name>Abraham-Fuchs et al.</name>
+<date>20040100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>434247</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>6982409</doc-number>
+<kind>B2</kind>
+<name>Huang et al.</name>
+<date>20060100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>250221</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>7086273</doc-number>
+<kind>B2</kind>
+<name>Lipmyer</name>
+<date>20060800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 73 1209</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>7347114</doc-number>
+<kind>B2</kind>
+<name>Reynolds et al.</name>
+<date>20080300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 738664</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>2008/0188986</doc-number>
+<kind>A1</kind>
+<name>Hoppe</name>
+<date>20080800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>700263</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>2009/0025492</doc-number>
+<kind>A1</kind>
+<name>Hwang et al.</name>
+<date>20090100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 738664</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>2009/0056481</doc-number>
+<kind>A1</kind>
+<name>Hwang et al.</name>
+<date>20090300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 738664</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>WO</country>
+<doc-number>WO 2006086021</doc-number>
+<kind>A2</kind>
+<date>20060800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</citation>
+</references-cited>
+<number-of-claims>12</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 73172</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 7386291</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 738664</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>4</number-of-drawing-sheets>
+<number-of-figures>6</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090151444</doc-number>
+<kind>A1</kind>
+<date>20090618</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Kim</last-name>
+<first-name>Seok Hwan</first-name>
+<address>
+<city>Gunpo-si</city>
+<country>KR</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>KR</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Hwang</last-name>
+<first-name>Su Hwan</first-name>
+<address>
+<city>Hwaseong-si</city>
+<country>KR</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>KR</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Lee</last-name>
+<first-name>Kwang Noh</first-name>
+<address>
+<city>Ansan-si</city>
+<country>KR</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>KR</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Morgan, Lewis &#x26; Bockius LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Hyundai Motor Company</orgname>
+<role>03</role>
+<address>
+<city>Seoul</city>
+<country>KR</country>
+</address>
+</addressbook>
+</assignee>
+<assignee>
+<addressbook>
+<orgname>Kia Motors Corp.</orgname>
+<role>03</role>
+<address>
+<city>Seoul</city>
+<country>KR</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Kirkland, III</last-name>
+<first-name>Freddie</first-name>
+<department>2855</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A human dummy system for evaluating the comfort of a seat comfort includes sensor units and a data processing unit. The sensor units are attached to the relevant joints of a human dummy, and detect the angles of the relevant joints. The data processing unit calculates information about relative locations of adjacent joints on the basis of the information about the angles of the relevant joints, and calculates the absolute location of a specific joint through coordinate system transformation between the information about relative locations and the joints of the human dummy.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="118.11mm" wi="136.31mm" file="US07891259-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="231.65mm" wi="142.41mm" file="US07891259-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="87.38mm" wi="166.54mm" file="US07891259-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="234.44mm" wi="157.40mm" file="US07891259-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="215.14mm" wi="125.90mm" file="US07891259-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATION</heading>
+<p id="p-0002" num="0001">The present application claims priority to Korean Patent Application Number 10-2007-0131013 filed Dec. 14, 2007, the entire contents of which application is incorporated herein for all purposes by this reference.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">1. Field of the Invention</p>
+<p id="p-0004" num="0003">The present invention relates generally to a human dummy system for evaluating the comfort of a seat. More particularly, the present invention relates to a human dummy system for evaluating the comfort of a seat that is used to discover a seat structure capable of maximizing the comfort of a human body seated on a seat.</p>
+<p id="p-0005" num="0004">2. Description of Related Art</p>
+<p id="p-0006" num="0005">With the development of vehicle technology, demands for technology capable of improving the comfort of the driver and passengers of a vehicle are increasing. In particular, in the case of long riding, whether the seat structure of a vehicle matches a driver or passenger's body structure is an important factor to determine riding comfort. Accordingly, in the manufacture of the seats of a vehicle, the prediction of the characteristics of the body structure of a passenger as well as the characteristics of a vehicle is one of the important processes.</p>
+<p id="p-0007" num="0006">A prior art apparatus for determining an optimal seat structure has used a method of putting a human dummy at a seat and separately measuring the variations of the human dummy.</p>
+<p id="p-0008" num="0007"><figref idref="DRAWINGS">FIG. 1</figref> is a diagram showing a prior art human dummy for evaluating the comfort of a seat. Referring to <figref idref="DRAWINGS">FIG. 1</figref>, the prior art human dummy has the joint structure of a human body, and the parts thereof are connected by ball/socket joints.</p>
+<p id="p-0009" num="0008">Although the prior art human dummy is focused on the implementation of a configuration similar to that of an actual human body so as to evaluate the comfort of a seat, it has a problem in that it does not realize the variations of the human body and the dynamic mechanisms of joints, in practice.</p>
+<p id="p-0010" num="0009">Moreover, there is a problem in that it is difficult to accurately measure the locations or angles of respective joints attributable to the variations of a human body because there are no correlations between the mechanisms of the respective joints.</p>
+<p id="p-0011" num="0010">The information disclosed in this Background of the Invention section is only for enhancement of understanding of the general background of the invention and should not be taken as an acknowledgement or any form of suggestion that this information forms the prior art already known to a person skilled in the art.</p>
+<heading id="h-0003" level="1">BRIEF SUMMARY OF THE INVENTION</heading>
+<p id="p-0012" num="0011">Various aspects of the present invention are directed to provide a human dummy system for evaluating the comfort of a seat, in which the joints of a human dummy requiring measurement are provided with sensor units and the mechanism of the respective joints is utilized, so that the variation of the human dummy is measured in real time and then the comfort of the seat is evaluated.</p>
+<p id="p-0013" num="0012">In an aspect of the present invention, a human dummy system for evaluating comfort of a seat, may include sensor units attached to respective joints of a human dummy and configured to detect angles of the respective joints, and/or a data processing unit configured to determine relative locations of respective joints on a basis of angles of adjacent joints and distances therebetween, and determine an absolute location of a specific joint from a reference location by using the relative locations of the respective joints and coordinate system transformation between the respective joints of the human dummy.</p>
+<p id="p-0014" num="0013">The distances between the adjacent joints may be stored in the date processing unit in advance.</p>
+<p id="p-0015" num="0014">The coordinate system transformation may be performed through homogeneous transformation matrix operations using one or more of a translation matrix and a rotation matrix.</p>
+<p id="p-0016" num="0015">The reference location may be an ankle joint.</p>
+<p id="p-0017" num="0016">The reference location may be a pelvis, wherein the reference location is a center between two hip joints.</p>
+<p id="p-0018" num="0017">The relative locations of the respective joints may be compensated by uniformly allocating error among coordinate points of respective joints.</p>
+<p id="p-0019" num="0018">The error may be determined by comparing coordinate values of the absolute locations of the target joint based on the reference location, the absolute locations acquired along at least two different routes connecting the reference location and the target joint in common, wherein the allocated error is determined by dividing difference in the coordinate values of absolute locations of the target joint in each route by number of coordinate points in one route.</p>
+<p id="p-0020" num="0019">One of the routes may directly connect the reference location and the target joint.</p>
+<p id="p-0021" num="0020">The one route for dividing the difference in the coordinate values of the absolute locations of the target joint in each route may not be the one route directly connecting the reference location and the target joint.</p>
+<p id="p-0022" num="0021">The human dummy system may further include one or more of a display unit for displaying the relative locations of the respective joints transmitted to the data processing unit, a data communication unit for converting the relative locations of the respective joints transmitted by the data processing unit into information in a communication data format, and sending the resulting information, and/or a data storage unit for recording the information transmitted by the data communication unit on a predetermined storage medium.</p>
+<p id="p-0023" num="0022">The data communication unit and the data storage unit may communicate with each other via a Bluetooth or RC-232C method.</p>
+<p id="p-0024" num="0023">The data communication unit may receive data stored in the data storage unit, converts the data into data in a predetermined form, and transmits the resulting data to the data processing unit.</p>
+<p id="p-0025" num="0024">The sensor units may be potentiometers for converting the angles into electric resistance.</p>
+<p id="p-0026" num="0025">The methods and apparatuses of the present invention have other features and advantages which will be apparent from or are set forth in more detail in the accompanying drawings, which are incorporated herein, and the following Detailed Description of the Invention, which together serve to explain certain principles of the present invention.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 1</figref> is a diagram showing a prior art human dummy for evaluating the comfort of a seat.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 2</figref> is a diagram showing an exemplary human dummy for evaluating the comfort of a seat according to the present invention.</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 3</figref> is a diagram showing an exemplary human dummy system for evaluating the comfort of a seat according to the present invention.</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 4</figref> is a diagram showing an example of calculating the absolute location information of each joint of a human dummy, for example, absolute coordinate values, according to the present invention.</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. 5</figref> is a diagram showing another example of calculating the absolute location information of each joint of a human dummy, for example, absolute coordinate values, according to the present invention.</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. 6</figref> is a diagram illustrating an exemplary method of compensating for error in the transformation of relative coordinate values into absolute coordinate values according to another embodiment of the present invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0033" num="0032">Reference will now be made in detail to various embodiments of the present invention(s), examples of which are illustrated in the accompanying drawings and described below. While the invention(s) will be described in conjunction with exemplary embodiments, it will be understood that present description is not intended to limit the invention(s) to those exemplary embodiments. On the contrary, the invention(s) is/are intended to cover not only the exemplary embodiments, but also various alternatives, modifications, equivalents and other embodiments, which may be included within the spirit and scope of the invention as defined by the appended claims.</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. 2</figref> is a diagram showing a human dummy for evaluating the comfort of a seat according to various embodiments of the present invention.</p>
+<p id="p-0035" num="0034">Referring to <figref idref="DRAWINGS">FIG. 2</figref>, the respective joints of a human dummy are provided with sensors. The joints of the human dummy correspond to the principal joints of an actual human body, and the human dummy is integrated through the joints. Here, the number of joints of the human dummy according to various embodiments of the present invention is, for example, a total of 23.</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. 3</figref> is a diagram showing a human dummy system for evaluating the comfort of a seat according to various embodiments of the present invention.</p>
+<p id="p-0037" num="0036">Referring to <figref idref="DRAWINGS">FIG. 3</figref>, the human dummy system for evaluating the comfort of a seat according to various embodiments of the present invention may include sensor units <b>10</b>, a data processing unit <b>20</b>, a display unit <b>30</b>, a data communication unit <b>40</b>, and a data storage unit <b>50</b>.</p>
+<p id="p-0038" num="0037">The sensor units <b>10</b> are attached to the respective joints of the human dummy and measure the angles of the joints, as shown in <figref idref="DRAWINGS">FIG. 2</figref>. For example, the sensor units <b>10</b> may be potentiometers that convert angle values into electric resistance.</p>
+<p id="p-0039" num="0038">The data processing unit <b>20</b> calculates the relative locations of adjacent joints using the angle values of the respective joints measured by the sensor units <b>10</b> and information about distances between the respective joints previously stored, and calculates the absolute location of a specific joint using the relative locations and the coordinate system transformation between the joints of the human dummy.</p>
+<p id="p-0040" num="0039">Here, the relative location information may be coordinate values in a coordinate system that is formed around the adjacent joints of each joint, while the absolute location information may be coordinate values in a coordinate system that is formed around a specific joint. Furthermore, the specific joint, which is the reference of the absolute location information, may be the ankle joint or the hip joint. In particular, when the specific joint is the ankle joint, there is an advantage in that an absolute location can be calculated on the basis of the location at which the foot of the human dummy comes in contact with the pedal of a vehicle.</p>
+<p id="p-0041" num="0040">It is preferred that the absolute location of the specific joint, the distances of the respective joints or the distance between coordinate systems, which is used to create such absolute location information, be stored in the system in advance in the form of preset values.</p>
+<p id="p-0042" num="0041"><figref idref="DRAWINGS">FIG. 4</figref> is a diagram showing an example of calculating the absolute location information of each joint of a human dummy, for example, absolute coordinate values, according to various embodiments of the present invention.</p>
+<p id="p-0043" num="0042">Referring to <figref idref="DRAWINGS">FIG. 4</figref>, the data processing unit <b>20</b> may calculate the absolute coordinate values of the ankle joint using information about the angle of the respective joints sent by the sensor units <b>10</b> and information about the distances between the respective joints. Here, absolute coordinate values refer to the coordinate values of a relevant joint on the assumption that the reference location of the hip joint is origin reference (0,0,0) in the rectangular coordinate system.</p>
+<p id="p-0044" num="0043">In detail, the absolute coordinate values of the ankle joint may be calculated using the angles of the hip joint (that is, a hip joint horizontal angle (A<b>1</b>) and a hip joint vertical angle (A<b>2</b>)), the angle of the knee joint (A<b>3</b>), and the angle of the ankle joint (A<b>4</b>). In greater detail, the absolute coordinate values of the ankle joint are calculated as the product of the matrices of the angle and distance information of respective joints based on the origin, i.e., hip joint. However, of the elements of each matrix, constant values are represented in the form of vectors to which values and directionality for the distances between the respective joints are assigned.</p>
+<p id="p-0045" num="0044">First to third determinants on the bottom side of <figref idref="DRAWINGS">FIG. 4</figref> represent three coordinate system transformation processes. Furthermore, a fourth determinant represents a method of calculating final absolute coordinate values by multiplying respective coordinate system transformation equations together.</p>
+<p id="p-0046" num="0045"><figref idref="DRAWINGS">FIG. 5</figref> is a diagram showing another example of calculating the absolute location information of each joint of a human dummy, for example, absolute coordinate values, according to various embodiments of the present invention.</p>
+<p id="p-0047" num="0046">In order to transform relative coordinate values (x<b>2</b>, y<b>2</b>, z<b>2</b>) in a coordinate system T<b>2</b> into absolute coordinate values in a reference coordinate system T<b>0</b> when coordinates are set as shown in <figref idref="DRAWINGS">FIG. 5</figref>, the following homogeneous transformation matrix operation may be used.</p>
+<p id="p-0048" num="0047">In order to perform a homogeneous transformation matrix operation, the following Equation 1 may be used as a translation matrix between the reference coordinate system T<b>0</b> to a coordinate system T<b>1</b>:</p>
+<p id="p-0049" num="0048">
+<maths id="MATH-US-00001" num="00001">
+<math overflow="scroll">
+<mtable>
+  <mtr>
+    <mtd>
+      <mrow>
+        <mmultiscripts>
+          <mi>T</mi>
+          <mn>1</mn>
+          <none/>
+          <mprescripts/>
+            <none/>
+            <mn>0</mn>
+        </mmultiscripts>
+        <mo>=</mo>
+        <mrow>
+          <mo>[</mo>
+          <mtable>
+            <mtr>
+              <mtd>
+                <mn>1</mn>
+              </mtd>
+              <mtd>
+                <mn>0</mn>
+              </mtd>
+              <mtd>
+                <mn>0</mn>
+              </mtd>
+              <mtd>
+                <msub>
+                  <mi>x</mi>
+                  <mn>0</mn>
+                </msub>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mn>0</mn>
+              </mtd>
+              <mtd>
+                <mn>1</mn>
+              </mtd>
+              <mtd>
+                <mn>0</mn>
+              </mtd>
+              <mtd>
+                <msub>
+                  <mi>y</mi>
+                  <mn>0</mn>
+                </msub>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mn>0</mn>
+              </mtd>
+              <mtd>
+                <mn>0</mn>
+              </mtd>
+              <mtd>
+                <mi>I</mi>
+              </mtd>
+              <mtd>
+                <msub>
+                  <mi>z</mi>
+                  <mn>0</mn>
+                </msub>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mn>0</mn>
+              </mtd>
+              <mtd>
+                <mn>0</mn>
+              </mtd>
+              <mtd>
+                <mn>0</mn>
+              </mtd>
+              <mtd>
+                <mn>1</mn>
+              </mtd>
+            </mtr>
+          </mtable>
+          <mo>]</mo>
+        </mrow>
+      </mrow>
+    </mtd>
+    <mtd>
+      <mrow>
+        <mo>(</mo>
+        <mn>1</mn>
+        <mo>)</mo>
+      </mrow>
+    </mtd>
+  </mtr>
+</mtable>
+</math>
+</maths>
+</p>
+<p id="p-0050" num="0049">Furthermore, the rotation of a coordinate system by &#x3b8; together with translation is generated between the coordinate system T<sub>1 </sub>and the coordinate system T<sub>2</sub>. Accordingly, in order to perform coordinate system transformation from the coordinate system T<sub>1 </sub>to the coordinate system T<sub>2</sub>, a translation matrix and a rotation matrix must be multiplied together, as represented in the following Equation 2:</p>
+<p id="p-0051" num="0050">
+<maths id="MATH-US-00002" num="00002">
+<math overflow="scroll">
+<mtable>
+  <mtr>
+    <mtd>
+      <mrow>
+        <mmultiscripts>
+          <mi>T</mi>
+          <mn>2</mn>
+          <none/>
+          <mprescripts/>
+            <none/>
+            <mn>1</mn>
+        </mmultiscripts>
+        <mo>=</mo>
+        <mrow>
+          <munder>
+            <mrow>
+              <mo>[</mo>
+              <mtable>
+                <mtr>
+                  <mtd>
+                    <mrow>
+                      <mi>cos</mi>
+                      <mo>&#x2062;</mo>
+                      <mstyle>
+                        <mspace width="0.3em" height="0.3ex"/>
+                      </mstyle>
+                      <mo>&#x2062;</mo>
+                      <mi>&#x3b8;</mi>
+                    </mrow>
+                  </mtd>
+                  <mtd>
+                    <mn>0</mn>
+                  </mtd>
+                  <mtd>
+                    <mrow>
+                      <mi>sin</mi>
+                      <mo>&#x2062;</mo>
+                      <mstyle>
+                        <mspace width="0.3em" height="0.3ex"/>
+                      </mstyle>
+                      <mo>&#x2062;</mo>
+                      <mi>&#x3b8;</mi>
+                    </mrow>
+                  </mtd>
+                  <mtd>
+                    <mn>0</mn>
+                  </mtd>
+                </mtr>
+                <mtr>
+                  <mtd>
+                    <mn>0</mn>
+                  </mtd>
+                  <mtd>
+                    <mn>1</mn>
+                  </mtd>
+                  <mtd>
+                    <mn>0</mn>
+                  </mtd>
+                  <mtd>
+                    <mn>0</mn>
+                  </mtd>
+                </mtr>
+                <mtr>
+                  <mtd>
+                    <mrow>
+                      <mrow>
+                        <mo>-</mo>
+                        <mi>sin</mi>
+                      </mrow>
+                      <mo>&#x2062;</mo>
+                      <mstyle>
+                        <mspace width="0.3em" height="0.3ex"/>
+                      </mstyle>
+                      <mo>&#x2062;</mo>
+                      <mi>&#x3b8;</mi>
+                    </mrow>
+                  </mtd>
+                  <mtd>
+                    <mn>0</mn>
+                  </mtd>
+                  <mtd>
+                    <mrow>
+                      <mi>cos</mi>
+                      <mo>&#x2062;</mo>
+                      <mstyle>
+                        <mspace width="0.3em" height="0.3ex"/>
+                      </mstyle>
+                      <mo>&#x2062;</mo>
+                      <mi>&#x3b8;</mi>
+                    </mrow>
+                  </mtd>
+                  <mtd>
+                    <mn>0</mn>
+                  </mtd>
+                </mtr>
+                <mtr>
+                  <mtd>
+                    <mn>0</mn>
+                  </mtd>
+                  <mtd>
+                    <mn>0</mn>
+                  </mtd>
+                  <mtd>
+                    <mn>0</mn>
+                  </mtd>
+                  <mtd>
+                    <mn>1</mn>
+                  </mtd>
+                </mtr>
+              </mtable>
+              <mo>]</mo>
+            </mrow>
+            <mrow>
+              <mo>(</mo>
+              <mrow>
+                <mi>rotation</mi>
+                <mo>&#x2062;</mo>
+                <mstyle>
+                  <mspace width="0.8em" height="0.8ex"/>
+                </mstyle>
+                <mo>&#x2062;</mo>
+                <mi>matrix</mi>
+              </mrow>
+              <mo>)</mo>
+            </mrow>
+          </munder>
+          <mo>&#x2062;</mo>
+          <munder>
+            <mrow>
+              <mo>[</mo>
+              <mtable>
+                <mtr>
+                  <mtd>
+                    <mn>1</mn>
+                  </mtd>
+                  <mtd>
+                    <mn>0</mn>
+                  </mtd>
+                  <mtd>
+                    <mn>0</mn>
+                  </mtd>
+                  <mtd>
+                    <msub>
+                      <mi>x</mi>
+                      <mn>1</mn>
+                    </msub>
+                  </mtd>
+                </mtr>
+                <mtr>
+                  <mtd>
+                    <mn>0</mn>
+                  </mtd>
+                  <mtd>
+                    <mn>1</mn>
+                  </mtd>
+                  <mtd>
+                    <mn>0</mn>
+                  </mtd>
+                  <mtd>
+                    <msub>
+                      <mi>y</mi>
+                      <mn>1</mn>
+                    </msub>
+                  </mtd>
+                </mtr>
+                <mtr>
+                  <mtd>
+                    <mn>0</mn>
+                  </mtd>
+                  <mtd>
+                    <mn>0</mn>
+                  </mtd>
+                  <mtd>
+                    <mn>1</mn>
+                  </mtd>
+                  <mtd>
+                    <msub>
+                      <mi>z</mi>
+                      <mn>1</mn>
+                    </msub>
+                  </mtd>
+                </mtr>
+                <mtr>
+                  <mtd>
+                    <mn>0</mn>
+                  </mtd>
+                  <mtd>
+                    <mn>0</mn>
+                  </mtd>
+                  <mtd>
+                    <mn>0</mn>
+                  </mtd>
+                  <mtd>
+                    <mn>1</mn>
+                  </mtd>
+                </mtr>
+              </mtable>
+              <mo>]</mo>
+            </mrow>
+            <mrow>
+              <mo>(</mo>
+              <mrow>
+                <mi>translation</mi>
+                <mo>&#x2062;</mo>
+                <mstyle>
+                  <mspace width="0.8em" height="0.8ex"/>
+                </mstyle>
+                <mo>&#x2062;</mo>
+                <mi>matrix</mi>
+              </mrow>
+              <mo>)</mo>
+            </mrow>
+          </munder>
+        </mrow>
+      </mrow>
+    </mtd>
+    <mtd>
+      <mrow>
+        <mo>(</mo>
+        <mn>2</mn>
+        <mo>)</mo>
+      </mrow>
+    </mtd>
+  </mtr>
+</mtable>
+</math>
+</maths>
+</p>
+<p id="p-0052" num="0051">Accordingly, in order to transform relative coordinate values (x<b>2</b>, y<b>2</b>, z<b>2</b>) in the coordinate system T2 into absolute coordinate values in the coordinate system T0, calculation is performed using the results of Equations 1 and 2, as shown in the following Equation 3:</p>
+<p id="p-0053" num="0052">
+<maths id="MATH-US-00003" num="00003">
+<math overflow="scroll">
+<mtable>
+  <mtr>
+    <mtd>
+      <mrow>
+        <mmultiscripts>
+          <mi>T</mi>
+          <mn>2</mn>
+          <none/>
+          <mprescripts/>
+            <none/>
+            <mn>0</mn>
+        </mmultiscripts>
+        <mo>=</mo>
+        <mrow>
+          <mmultiscripts>
+            <mi>T</mi>
+            <mn>1</mn>
+            <none/>
+            <mprescripts/>
+              <none/>
+              <mn>0</mn>
+          </mmultiscripts>
+          <mo>&#xd7;</mo>
+          <mmultiscripts>
+            <mi>T</mi>
+            <mn>2</mn>
+            <none/>
+            <mprescripts/>
+              <none/>
+              <mn>1</mn>
+          </mmultiscripts>
+          <mo>&#xd7;</mo>
+          <mrow>
+            <mo>[</mo>
+            <mtable>
+              <mtr>
+                <mtd>
+                  <msub>
+                    <mi>x</mi>
+                    <mn>2</mn>
+                  </msub>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <msub>
+                    <mi>y</mi>
+                    <mn>2</mn>
+                  </msub>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <msub>
+                    <mi>z</mi>
+                    <mn>2</mn>
+                  </msub>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <mn>1</mn>
+                </mtd>
+              </mtr>
+            </mtable>
+            <mo>]</mo>
+          </mrow>
+        </mrow>
+      </mrow>
+    </mtd>
+    <mtd>
+      <mrow>
+        <mo>(</mo>
+        <mn>3</mn>
+        <mo>)</mo>
+      </mrow>
+    </mtd>
+  </mtr>
+</mtable>
+</math>
+</maths>
+</p>
+<p id="p-0054" num="0053">Through such homogeneous transformation matrix operations, the absolute locations of all joints of the human dummy, including the spine, are calculated on the basis of an origin set at the center between two hip joints. It will be apparent that absolute coordinate values may be calculated in the same manner using the ankle joint as an origin, that is, reference coordinates.</p>
+<p id="p-0055" num="0054"><figref idref="DRAWINGS">FIG. 6</figref> is a diagram illustrating a method of compensating for error in the transformation of relative coordinate values into absolute coordinate values according to another embodiments of the present invention.</p>
+<p id="p-0056" num="0055">Referring to the side view of a human dummy shown in <figref idref="DRAWINGS">FIG. 6</figref>, it can be seen that in the measurement of a posture angle, a route <b>1</b> extending from a plate-type pelvis through a connection rod to the sternum and a route <b>2</b> extending through the stacked lumbar vertebrae to the sternum meet each other. When the error of the location of the sternum calculated using two routes is uniformly allocated among all the joints and compensation is performed, the accumulation of location measurement errors in each of the sensors can be prevented.</p>
+<p id="p-0057" num="0056">In order to obtain error values allocated among the measuring sensors of the respective joints, the human dummy is rested on a fastening device for setting a standard location and the zero points of all the sensors must be calibrated. For this purpose, the shoulder and plate-type pelvis of the human dummy are fastened to a dedicated rest and then angle data is measured along the route <b>1</b> and the route <b>2</b>.</p>
+<p id="p-0058" num="0057">Error values can be determined by comparing absolute coordinate values calculated along the route <b>1</b> with coordinate values calculated along the route <b>2</b>. The calculated error values are divided by the number of joints included in the route <b>2</b>, and are uniformly allocated among the joints. The allocations resulting from the allocation of error among respective coordinate axes and an example of the results of error compensation are listed in the following Table 1: In this case, the hip joint is an origin reference and the sternum is a target joint to find absolute location.</p>
+<p id="p-0059" num="0058">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0" pgwide="1">
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="56pt" align="center"/>
+<colspec colname="2" colwidth="84pt" align="center"/>
+<colspec colname="3" colwidth="77pt" align="center"/>
+<colspec colname="4" colwidth="84pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="4" rowsep="1">TABLE 1</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+<row>
+<entry>Position</entry>
+<entry>Measured coordinates</entry>
+<entry>Error allocation</entry>
+<entry>Compensated coordinates</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="11">
+<colspec colname="1" colwidth="28pt" align="left"/>
+<colspec colname="2" colwidth="28pt" align="left"/>
+<colspec colname="3" colwidth="35pt" align="char" char="."/>
+<colspec colname="4" colwidth="21pt" align="center"/>
+<colspec colname="5" colwidth="28pt" align="char" char="."/>
+<colspec colname="6" colwidth="28pt" align="char" char="."/>
+<colspec colname="7" colwidth="21pt" align="center"/>
+<colspec colname="8" colwidth="28pt" align="char" char="."/>
+<colspec colname="9" colwidth="35pt" align="char" char="."/>
+<colspec colname="10" colwidth="21pt" align="center"/>
+<colspec colname="11" colwidth="28pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Route 1</entry>
+<entry>TOR</entry>
+<entry>0.000</entry>
+<entry>0.000</entry>
+<entry>20.000</entry>
+<entry>0.000</entry>
+<entry>0.000</entry>
+<entry>0.000</entry>
+<entry>0.000</entry>
+<entry>0.000</entry>
+<entry>20.000</entry>
+</row>
+<row>
+<entry/>
+<entry>STNM</entry>
+<entry>&#x2212;63.079</entry>
+<entry>0.000</entry>
+<entry>528.922</entry>
+<entry>0.000</entry>
+<entry>0.000</entry>
+<entry>0.000</entry>
+<entry>&#x2212;63.079</entry>
+<entry>0.000</entry>
+<entry>528.922</entry>
+</row>
+<row>
+<entry>Route 2</entry>
+<entry>L5S</entry>
+<entry>&#x2212;129.000</entry>
+<entry>0.000</entry>
+<entry>98.500</entry>
+<entry>0.230</entry>
+<entry>0.000</entry>
+<entry>1.470</entry>
+<entry>&#x2212;128.770</entry>
+<entry>0.000</entry>
+<entry>97.030</entry>
+</row>
+<row>
+<entry/>
+<entry>L45</entry>
+<entry>&#x2212;134.900</entry>
+<entry>0.000</entry>
+<entry>131.510</entry>
+<entry>0.470</entry>
+<entry>0.000</entry>
+<entry>2.950</entry>
+<entry>&#x2212;134.470</entry>
+<entry>0.000</entry>
+<entry>128.560</entry>
+</row>
+<row>
+<entry/>
+<entry>L34</entry>
+<entry>&#x2212;149.700</entry>
+<entry>0.000</entry>
+<entry>168.890</entry>
+<entry>0.710</entry>
+<entry>0.000</entry>
+<entry>4.430</entry>
+<entry>&#x2212;149.030</entry>
+<entry>0.000</entry>
+<entry>164.463</entry>
+</row>
+<row>
+<entry/>
+<entry>L23</entry>
+<entry>&#x2212;165.500</entry>
+<entry>0.000</entry>
+<entry>206.750</entry>
+<entry>0.950</entry>
+<entry>0.000</entry>
+<entry>5.910</entry>
+<entry>&#x2212;164.628</entry>
+<entry>0.000</entry>
+<entry>200.843</entry>
+</row>
+<row>
+<entry/>
+<entry>L12</entry>
+<entry>&#x2212;176.400</entry>
+<entry>0.000</entry>
+<entry>242.630</entry>
+<entry>1.190</entry>
+<entry>0.000</entry>
+<entry>7.390</entry>
+<entry>&#x2212;175.289</entry>
+<entry>0.000</entry>
+<entry>235.244</entry>
+</row>
+<row>
+<entry/>
+<entry>T1L</entry>
+<entry>&#x2212;184.900</entry>
+<entry>0.000</entry>
+<entry>278.420</entry>
+<entry>1.430</entry>
+<entry>0.000</entry>
+<entry>8.870</entry>
+<entry>&#x2212;183.939</entry>
+<entry>0.000</entry>
+<entry>269.551</entry>
+</row>
+<row>
+<entry/>
+<entry>STNM</entry>
+<entry>&#x2212;64.750</entry>
+<entry>0.000</entry>
+<entry>539.280</entry>
+<entry>&#x2212;1.670</entry>
+<entry>0.000</entry>
+<entry>10.350</entry>
+<entry>&#x2212;63.087</entry>
+<entry>0.000</entry>
+<entry>528.932</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="8">
+<colspec colname="1" colwidth="56pt" align="center"/>
+<colspec colname="2" colwidth="35pt" align="char" char="."/>
+<colspec colname="3" colwidth="21pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="char" char="."/>
+<colspec colname="5" colwidth="77pt" align="center"/>
+<colspec colname="6" colwidth="35pt" align="char" char="."/>
+<colspec colname="7" colwidth="21pt" align="center"/>
+<colspec colname="8" colwidth="28pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry>Error</entry>
+<entry>&#x2212;1.670</entry>
+<entry>0.000</entry>
+<entry>10.350</entry>
+<entry/>
+<entry>&#x2212;0.007</entry>
+<entry>0.000</entry>
+<entry>0.009</entry>
+</row>
+<row>
+<entry namest="1" nameend="8" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0060" num="0059">Referring to Table 1, the final error of STNM is (&#x2212;1.670, 0.000, 10.350). As the result of a process of uniformly allocating the error among seven coordinate points and performing location operations, it was found that the locations of the STNM calculated along the route <b>1</b> and the route <b>2</b> were consistent with each other within 10 and this location accuracy was maintained at the same level even though the posture of the human dummy was changed.</p>
+<p id="p-0061" num="0060">As a result, it was verified that the accuracy of the monitoring of the posture of the human dummy could be improved using a two route-based location coordinate error allocation method using the hip joint as an origin reference.</p>
+<p id="p-0062" num="0061">A method for compensating for error values based on coordinate values is a method of applying uniformly allocated angular error compensation values to the above-described Equation 3 along with compensation values. In a homogeneous transformation matrix operation process, error values may be allocated among respective joint location coordinates.</p>
+<p id="p-0063" num="0062">
+<maths id="MATH-US-00004" num="00004">
+<math overflow="scroll">
+<mtable>
+  <mtr>
+    <mtd>
+      <mrow>
+        <mmultiscripts>
+          <mi>T</mi>
+          <mn>1</mn>
+          <none/>
+          <mprescripts/>
+            <none/>
+            <mi>e</mi>
+        </mmultiscripts>
+        <mo>=</mo>
+        <mrow>
+          <mo>[</mo>
+          <mtable>
+            <mtr>
+              <mtd>
+                <mn>1</mn>
+              </mtd>
+              <mtd>
+                <mn>0</mn>
+              </mtd>
+              <mtd>
+                <mn>0</mn>
+              </mtd>
+              <mtd>
+                <msub>
+                  <mi>e</mi>
+                  <mi>x</mi>
+                </msub>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mn>0</mn>
+              </mtd>
+              <mtd>
+                <mn>1</mn>
+              </mtd>
+              <mtd>
+                <mn>0</mn>
+              </mtd>
+              <mtd>
+                <msub>
+                  <mi>e</mi>
+                  <mi>y</mi>
+                </msub>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mn>0</mn>
+              </mtd>
+              <mtd>
+                <mn>0</mn>
+              </mtd>
+              <mtd>
+                <mn>1</mn>
+              </mtd>
+              <mtd>
+                <msub>
+                  <mi>e</mi>
+                  <mi>z</mi>
+                </msub>
+              </mtd>
+            </mtr>
+            <mtr>
+              <mtd>
+                <mn>0</mn>
+              </mtd>
+              <mtd>
+                <mn>0</mn>
+              </mtd>
+              <mtd>
+                <mn>0</mn>
+              </mtd>
+              <mtd>
+                <mn>1</mn>
+              </mtd>
+            </mtr>
+          </mtable>
+          <mo>]</mo>
+        </mrow>
+      </mrow>
+    </mtd>
+    <mtd>
+      <mrow>
+        <mo>(</mo>
+        <mn>4</mn>
+        <mo>)</mo>
+      </mrow>
+    </mtd>
+  </mtr>
+</mtable>
+</math>
+</maths>
+</p>
+<p id="p-0064" num="0063">In Equation 4, a result obtained by comparing coordinate values calculated along different routes for the same location with each other and dividing the difference by the number of joints included in one route may be used as values (e<sub>x</sub>, e<sub>y</sub>, e<sub>z</sub>), as described above. For example, values (&#x2212;0.007, 0.000, 0.009), which are indicated as compensated error values in Table 1, may be substituted. Furthermore, according to the following Equation 5, in a homogeneous transformation matrix operation process, error values may be allocated by performing an operation including the result of Equation 4.</p>
+<p id="p-0065" num="0064">
+<maths id="MATH-US-00005" num="00005">
+<math overflow="scroll">
+<mtable>
+  <mtr>
+    <mtd>
+      <mrow>
+        <mmultiscripts>
+          <mi>T</mi>
+          <mn>2</mn>
+          <none/>
+          <mprescripts/>
+            <none/>
+            <mn>0</mn>
+        </mmultiscripts>
+        <mo>=</mo>
+        <mrow>
+          <mmultiscripts>
+            <mi>T</mi>
+            <mn>0</mn>
+            <none/>
+            <mprescripts/>
+              <none/>
+              <mi>e</mi>
+          </mmultiscripts>
+          <mo>&#xd7;</mo>
+          <mmultiscripts>
+            <mi>T</mi>
+            <mn>1</mn>
+            <none/>
+            <mprescripts/>
+              <none/>
+              <mn>0</mn>
+          </mmultiscripts>
+          <mo>&#xd7;</mo>
+          <mmultiscripts>
+            <mi>T</mi>
+            <mn>2</mn>
+            <none/>
+            <mprescripts/>
+              <none/>
+              <mn>1</mn>
+          </mmultiscripts>
+          <mo>&#xd7;</mo>
+          <mrow>
+            <mo>[</mo>
+            <mtable>
+              <mtr>
+                <mtd>
+                  <msub>
+                    <mi>x</mi>
+                    <mn>2</mn>
+                  </msub>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <msub>
+                    <mi>y</mi>
+                    <mn>2</mn>
+                  </msub>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <msub>
+                    <mi>z</mi>
+                    <mn>2</mn>
+                  </msub>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <mn>1</mn>
+                </mtd>
+              </mtr>
+            </mtable>
+            <mo>]</mo>
+          </mrow>
+        </mrow>
+      </mrow>
+    </mtd>
+    <mtd>
+      <mrow>
+        <mo>(</mo>
+        <mn>5</mn>
+        <mo>)</mo>
+      </mrow>
+    </mtd>
+  </mtr>
+</mtable>
+</math>
+</maths>
+</p>
+<p id="p-0066" num="0065">That is, according to various embodiments, the relative location information can be compensated for by uniformly allocating error, which is calculated by comparing values of absolute location information acquired along at least two different routes from the origin reference, among joints included in each of the routes.</p>
+<p id="p-0067" num="0066">As described above, the data processing unit <b>20</b> may calculate the absolute coordinate values of a target joint by multiplying matrices including information about the angles of the respective joints and information about distances between the respective joints.</p>
+<p id="p-0068" num="0067">The display unit <b>30</b> displays the information about the locations of the respective joints transmitted to the data processing unit <b>20</b>.</p>
+<p id="p-0069" num="0068">The data communication unit <b>40</b> transforms the information about the locations of the respective joints transmitted by the data processing unit <b>20</b> into information in a specific communication data format, and sends the information to an external storage device. Furthermore, the data storage unit <b>50</b> records the information transmitted by the data communication unit <b>40</b> on a certain storage medium. Alternatively, the data communication unit <b>40</b> may receive data recorded on the data storage unit <b>50</b>, transform the data into data in a specific form, and sends the resulting data to the control unit <b>20</b>.</p>
+<p id="p-0070" num="0069">The communication between the data communication unit <b>40</b> and the data storage unit <b>50</b> may be performed in either a wired or wireless manner, preferably using a Bluetooth, RC-232 or RC-232C method.</p>
+<p id="p-0071" num="0070">According to the above-described present invention, the locations of the joints of a human dummy and the variations in the locations of the joints can be measured in real time, and the comfort of a seat can be evaluated, so that there are advantages in which the manufacturing costs of a seat can be reduced and a complicated evaluation procedure for a seat can be simplified.</p>
+<p id="p-0072" num="0071">The foregoing descriptions of specific exemplary embodiments of the present invention have been presented for purposes of illustration and description. They are not intended to be exhaustive or to limit the invention to the precise forms disclosed, and obviously many modifications and variations are possible in light of the above teachings. The exemplary embodiments were chosen and described in order to explain certain principles of the invention and their practical application, to thereby enable others skilled in the art to make and utilize various exemplary embodiments of the present invention, as well as various alternatives and modifications thereof. It is intended that the scope of the invention be defined by the Claims appended hereto and their equivalents.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-math idrefs="MATH-US-00001" nb-file="US07891259-20110222-M00001.NB">
+<img id="EMI-M00001" he="15.16mm" wi="76.20mm" file="US07891259-20110222-M00001.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00002" nb-file="US07891259-20110222-M00002.NB">
+<img id="EMI-M00002" he="17.61mm" wi="76.20mm" file="US07891259-20110222-M00002.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00003" nb-file="US07891259-20110222-M00003.NB">
+<img id="EMI-M00003" he="15.16mm" wi="76.20mm" file="US07891259-20110222-M00003.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00004" nb-file="US07891259-20110222-M00004.NB">
+<img id="EMI-M00004" he="15.49mm" wi="76.20mm" file="US07891259-20110222-M00004.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-math idrefs="MATH-US-00005" nb-file="US07891259-20110222-M00005.NB">
+<img id="EMI-M00005" he="15.16mm" wi="76.20mm" file="US07891259-20110222-M00005.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+</us-math>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A human dummy system for evaluating comfort of a seat, comprising:
+<claim-text>sensor units attached to respective joints of a human dummy and configured to detect angles of the respective joints; and</claim-text>
+<claim-text>a data processing unit configured to determine relative locations of respective joints on a basis of angles of adjacent joints and distances therebetween, and determine an absolute location of a specific joint from a reference location by using the relative locations of the respective joints and coordinate system transformation between the respective joints of the human dummy;</claim-text>
+<claim-text>wherein the coordinate system transformation is performed through homogeneous transformation matrix operations using one or more of a translation matrix and a rotation matrix;</claim-text>
+<claim-text>wherein the relative locations of the respective joints are compensated by uniformly allocating error among coordinate points of respective joints; and</claim-text>
+<claim-text>wherein the error is determined by comparing coordinate values of the absolute locations of the target joint based on the reference location, the absolute locations acquired along at least two different routes connecting the reference location and the target joint in common.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The human dummy system as set forth in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the distances between the adjacent joints are stored in the date processing unit in advance.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The human dummy system as set forth in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the reference location is an ankle joint.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The human dummy system as set forth in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the reference location is a pelvis.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The human dummy system as set forth in <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the reference location is a center between two hip joints.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The human dummy system as set forth in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the allocated error is determined by dividing difference in the coordinate values of absolute locations of the target joint in each route by number of coordinate points in one route.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The human dummy system as set forth in <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein one of the routes directly connects the reference location and the target joint.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The human dummy system as set forth in <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the one route for dividing the difference in the coordinate values of the absolute locations of the target joint in each route is not the one route directly connecting the reference location and the target joint.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The human dummy system as set forth in <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising one or more of:
+<claim-text>a display unit for displaying the relative locations of the respective joints transmitted to the data processing unit;</claim-text>
+<claim-text>a data communication unit for converting the relative locations of the respective joints transmitted by the data processing unit into information in a communication data format, and sending the resulting information; and</claim-text>
+<claim-text>a data storage unit for recording the information transmitted by the data communication unit on a predetermined storage medium.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The human dummy system as set forth in <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the data communication unit and the data storage unit communicate with each other via wireless or wire communication.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The human dummy system as set forth in <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the data communication unit receives data stored in the data storage unit, converts the data into data in a predetermined form, and transmits the resulting data to the data processing unit.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The human dummy system as set forth in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the sensor units are potentiometers for converting the angles into electric resistance. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

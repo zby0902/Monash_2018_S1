@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891136-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891136</doc-number>
+<kind>B1</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12854663</doc-number>
+<date>20100811</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<us-term-of-grant>
+<disclaimer>
+<text>This patent is subject to a terminal disclaimer.</text>
+</disclaimer>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>E</section>
+<class>06</class>
+<subclass>B</subclass>
+<main-group>1</main-group>
+<subgroup>70</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 49470</main-classification>
+<further-classification>292343</further-classification>
+<further-classification> 49 70</further-classification>
+<further-classification> 49469</further-classification>
+</classification-national>
+<invention-title id="d2e51">Removable draft blocker having an end retaining element</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>712240</doc-number>
+<kind>A</kind>
+<name>Barnes et al.</name>
+<date>19021000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 494991</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>1336527</doc-number>
+<kind>A</kind>
+<name>Lewis</name>
+<date>19200400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>1625764</doc-number>
+<kind>A</kind>
+<name>Bosley</name>
+<date>19270400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>112417</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>1883609</doc-number>
+<kind>A</kind>
+<name>Dennis</name>
+<date>19321000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 494951</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>2347158</doc-number>
+<kind>A</kind>
+<name>Spraragen</name>
+<date>19440400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 494791</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>2560308</doc-number>
+<kind>A</kind>
+<name>Spraragen</name>
+<date>19510700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 494951</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>4034511</doc-number>
+<kind>A</kind>
+<name>Bursk</name>
+<date>19770700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 494891</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>4483101</doc-number>
+<kind>A</kind>
+<name>Berzina</name>
+<date>19841100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>4639027</doc-number>
+<kind>A</kind>
+<name>Boyd</name>
+<date>19870100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>4691478</doc-number>
+<kind>A</kind>
+<name>Lorg</name>
+<date>19870900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>4765094</doc-number>
+<kind>A</kind>
+<name>Gemmell</name>
+<date>19880800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 494751</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>5475946</doc-number>
+<kind>A</kind>
+<name>Howe</name>
+<date>19951200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 49470</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>5475948</doc-number>
+<kind>A</kind>
+<name>Parke</name>
+<date>19951200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>D371600</doc-number>
+<kind>S</kind>
+<name>Henry</name>
+<date>19960700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D23386</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>5794871</doc-number>
+<kind>A</kind>
+<name>Willetts</name>
+<date>19980800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>6374545</doc-number>
+<kind>B1</kind>
+<name>Baczuk</name>
+<date>20020400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 49470</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>6560932</doc-number>
+<kind>B2</kind>
+<name>Heroux</name>
+<date>20030500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>7401439</doc-number>
+<kind>B2</kind>
+<name>Heroux</name>
+<date>20080700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>FR</country>
+<doc-number>2675532</doc-number>
+<kind>A1</kind>
+<date>19921000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>FR</country>
+<doc-number>2 787 825</doc-number>
+<kind>A3</kind>
+<date>20000600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>GB</country>
+<doc-number>875480</doc-number>
+<date>19610800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>GB</country>
+<doc-number>1 079 667</doc-number>
+<date>19670800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>GB</country>
+<doc-number>2 109 447</doc-number>
+<kind>A</kind>
+<date>19830600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>GB</country>
+<doc-number>2170541</doc-number>
+<kind>A</kind>
+<date>19860800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>GB</country>
+<doc-number>2238069</doc-number>
+<kind>A</kind>
+<date>19910500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>GB</country>
+<doc-number>2 255 121</doc-number>
+<kind>A</kind>
+<date>19921000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>GB</country>
+<doc-number>2 294 282</doc-number>
+<kind>A</kind>
+<date>19960400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>5</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 49 70</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 49469</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 49467</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 49470</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 494751</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 494821</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>292342</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>292343</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 16 82</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>160 40</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>8</number-of-drawing-sheets>
+<number-of-figures>15</number-of-figures>
+</figures>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>12623056</doc-number>
+<date>20091120</date>
+</document-id>
+<parent-status>PENDING</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>12854663</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Heroux</last-name>
+<first-name>Steve G.</first-name>
+<address>
+<city>South Burlington</city>
+<state>VT</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Bacon &#x26; Thomas, PLLC</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Hip Innovations, LLC</orgname>
+<role>02</role>
+<address>
+<state>VT</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Redman</last-name>
+<first-name>Jerry</first-name>
+<department>3634</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A removable draft blocker, for blocking drafts by sealing a gap between a bottom surface of a door and an underlying floor surface, includes first and second elongated draft blocking bodies, a base member extending between a bottom of the first draft blocking body and a bottom of the second draft blocking body to join the first and second draft blocking bodies in a spaced apart parallel relationship, and a retaining member disposed between ends of the first and second draft blocking bodies. The draft blocker is adapted to be positioned at the bottom of a door, with the draft blocking bodies on opposite sides of the door, and with the retaining member engaged behind or against a side edge of the door, such that the draft blocker is prevented from moving out of position as the door is opened and closed.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="110.74mm" wi="241.22mm" file="US07891136-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="220.81mm" wi="137.24mm" file="US07891136-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="206.50mm" wi="138.51mm" file="US07891136-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="82.80mm" wi="128.86mm" file="US07891136-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="202.86mm" wi="130.64mm" file="US07891136-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="188.89mm" wi="148.84mm" file="US07891136-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="196.77mm" wi="134.45mm" file="US07891136-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="205.32mm" wi="131.49mm" file="US07891136-20110222-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="99.57mm" wi="128.10mm" file="US07891136-20110222-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0002" num="0001">The present invention relates to a seal device and, more particularly, to a removable draft exclude device for protecting against cold drafts or the like by creating a seal to close the gap between a door and its underlying floor, and including an end retaining element to hold the removable draft exclude in place.</p>
+<heading id="h-0002" level="1">BACKGROUND</heading>
+<p id="p-0003" num="0002">Numerous devices have been devised to seal gaps in an architectural structure, such as threshold seals or draft blockers that block a gap between a movable architectural member such as a door, window, or the like, and an underlying or adjacent architectural structure such as a floor, window sill, or the like.</p>
+<p id="p-0004" num="0003">Various embodiments of draft blockers may be permanently installed, or temporarily positioned, to stop drafts from flowing through the gaps. In a permanent installation, a rubber or cloth weather stripping seal may be secured, using nails, screws, or other fastening methods that render the installation permanent, to the bottom edge of a door, and positioned so that an edge of the seal contacts the underlying floor to seal the gap between the bottom of the door and the floor.</p>
+<p id="p-0005" num="0004">Other devices are adapted for temporary placement. Exemplary are draft blockers generally in the form of an elongated bean-bag or the like that may be placed on a floor alongside and contacting the bottom edge of a door, thereby blocking a gap between the bottom of the door and the floor.</p>
+<p id="p-0006" num="0005">These temporarily placed draft blockers are advantageous in that they are relatively easy to retrofit in an architectural structure, and may be readily removed from one placement and relocated to other positions throughout the architectural structure. However, these devices, particularly when used to block a gap between the bottom of a door and the floor, are prone to sliding out of place during use, such as when the door is repeatedly opened and closed, resulting in the need to repeatedly replace the device in its proper position.</p>
+<p id="p-0007" num="0006">Accordingly, a draft blocker that is simple to position and effective in its use, including a means to retain the draft blocker in position, is desirable.</p>
+<heading id="h-0003" level="1">SUMMARY</heading>
+<p id="p-0008" num="0007">According to one aspect of the present invention, there is provided a removable draft blocker for blocking a draft by sealing a gap between a bottom surface or edge of a door and an underlying floor surface. The draft blocker comprises first and second draft blocking bodies, each having a generally elongated configuration. A base member extends between a bottom of the first draft blocking body and a bottom of the second draft blocking body, such that the base member joins the first and second draft blocking bodies together in a parallel, spaced apart parallel relationship.</p>
+<p id="p-0009" num="0008">A retaining member is disposed at least one end of the draft blocker, and is configured to be engaged behind or against a side edge of the door to prevent movement of the removable draft blocker away from an installed position. The retaining member is, in certain embodiments, configured to extend between ends of the first and second draft blocking bodies, in the form of a strap or an end wall arranged to be positioned around or against a side edge of the door when the removable draft blocker is installed at the bottom of the door. In other embodiments, the retaining member is configured as a strap, a tab, or the like extending from the base member of the draft blocker.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIG. 1</figref> is a perspective view of one embodiment draft blocker according to the present invention.</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. 2</figref> is an end view of the draft blocker shown in <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. 3</figref> is an end view of the draft blocker as shown in <figref idref="DRAWINGS">FIG. 2</figref> positioned at the bottom of a door.</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 4</figref><i>a </i>illustrates a first step of installing a draft blocker with an end retaining member.</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 4</figref><i>b </i>illustrates a second step of installing a draft blocker with an end retaining member.</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 5</figref> is an end view of another embodiment of a retaining member for a draft blocker according to the present invention.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 6</figref> is a perspective view of another embodiment of a draft blocker according to the present invention.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 7</figref> is an end view of the draft blocker as shown in <figref idref="DRAWINGS">FIG. 6</figref> positioned at the bottom of a door.</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 8</figref> is a perspective view of a draft blocker of <figref idref="DRAWINGS">FIG. 6</figref> including an end closure flap and an end wall retaining member formed integrally with a cover element.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 9</figref> is a perspective view of an alternative arrangement of a draft blocking member.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 10</figref> is a partial perspective view of a draft blocker showing an alternative embodiment of a retaining member.</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 11</figref> is a partial perspective view of a draft blocker showing an alternative embodiment of a retaining member.</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 12</figref> is a partial perspective view of a draft blocker showing a further embodiment of a retaining member.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 13</figref> is a partial perspective view of a draft blocker showing a still further embodiment of a retaining member.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 14</figref> is a partial perspective view of a draft blocker showing yet another embodiment of a retaining member.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<p id="p-0025" num="0024">Similar reference characters denote corresponding features consistently throughout the attached drawings.</p>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF VARIOUS EMBODIMENTS</heading>
+<p id="p-0026" num="0025">Referring to <figref idref="DRAWINGS">FIGS. 1-3</figref>, one embodiment of a removable draft blocker <b>100</b> for blocking drafts by sealing a gap between a bottom edge surface of a door and an underlying floor surface is shown. The draft blocker <b>100</b> comprises first and second draft blocking bodies <b>102</b> joined together by a base member <b>104</b>. More particularly, the base member <b>104</b> extends between a bottom of the first draft blocking body <b>102</b> and a bottom of the second draft blocking body <b>102</b> to join the draft blocking bodies <b>102</b> together in a parallel, spaced apart relationship.</p>
+<p id="p-0027" num="0026">The draft blocking bodies <b>102</b> each comprise an elongated, and preferably flexible, body spanning substantially the length of a bottom edge of the door, with the base member <b>104</b> extending between the draft blocking bodies <b>102</b> and underneath the door.</p>
+<p id="p-0028" num="0027">A retaining member <b>110</b> is disposed at an end of the draft blocker <b>100</b>, between ends of the draft blocking bodies <b>102</b>, and is positioned to be engaged behind or against a side edge (preferably the hinge-side edge) of the door, such that the draft blocker <b>100</b> is prevented from moving out of position as the door is opened and closed. That is, the retaining member <b>110</b> prevents movement of the removable draft blocker <b>100</b> away from an installed position wherein the draft blocking bodies <b>102</b> lie on opposing sides of the bottom edge of the door with the base member <b>104</b> extending underneath the door.</p>
+<p id="p-0029" num="0028">The retaining member <b>110</b> may be formed as a strap extended between the draft blocking bodies <b>102</b>, preferably extending between upper parts of the draft blocking bodies <b>102</b>, or an end wall as shown. In the illustrated embodiment, the end wall extends from the base member <b>104</b> upward to an upper part of the draft blocking bodies <b>102</b>, and may extend upward to the top of the draft blocking bodies. It can be recognized that a height of the retaining member (such as the vertical extent of the end wall) should be sufficient for the retaining member <b>110</b> to be engaged behind or against the side edge of the door.</p>
+<p id="p-0030" num="0029">Preferably, the retaining member <b>110</b> is formed of a material with a flexible or elastic property such that the retaining member <b>110</b> may be pressed or displaced downward for clearance beneath the door's bottom edge for installation of the draft blocker <b>100</b>. For example, referring to <figref idref="DRAWINGS">FIGS. 4</figref><i>a </i>and <b>4</b><i>b</i>, the draft blocker <b>100</b> may be installed at the bottom of a door by sliding the draft blocker <b>100</b> lengthwise into position with one of the draft blocking bodies <b>102</b> on each side of the door, and the base member <b>104</b> underneath the door. It can be recognized that an elastic or deformable retaining member <b>110</b> can be passed underneath the door edge for installation, and then restored to a position engaged behind or against the door's side edge once the draft blocker <b>100</b> is fully positioned, to retain the draft blocker <b>100</b> in place.</p>
+<p id="p-0031" num="0030">Alternatively, the retaining member <b>110</b> may be formed of a rigid material, and attached to a flexible or elastic portion of the draft blocker <b>100</b>, or may be removable and replaceable to accommodate installation.</p>
+<p id="p-0032" num="0031">Referring to <figref idref="DRAWINGS">FIG. 5</figref>, the retaining member <b>110</b> may be provided as a strap <b>112</b> extending between the draft blocking bodies <b>102</b>. A single piece strap <b>112</b> may be fixed at each end to the draft blocking bodies <b>102</b>, or removably attached with a fastener such as a hook-and-loop type fastener (Velcro&#x2122;, for example). Similarly, a two-piece strap may comprising two strap members each having a first end attached to one of the draft blocking bodies <b>102</b>, and a second end having a fastener (such as a hook-and-loop type fastener) such that the two strap members can be can be separated for installation, and then joined together behind or against the door's edge once the draft blocker <b>100</b> is in place.</p>
+<p id="p-0033" num="0032">Turning to <figref idref="DRAWINGS">FIGS. 6 and 7</figref>, one embodiment of a removable draft blocker <b>100</b> comprises an elongated flexible body <b>120</b>, configured for substantially wrapping around the bottom edge of the door. The body <b>120</b> has a base member <b>122</b> that longitudinally extends through the gap G and joins two generally elongated sleeves <b>124</b> integrally and laterally extending along the base member <b>104</b> in a generally parallel and spaced apart relationship relative to each other. An insulating material is provided in each of the elongated sleeves <b>124</b>.</p>
+<p id="p-0034" num="0033">In the illustrated embodiment, the insulating material comprises two blocking members <b>126</b> which are disposed within respective sleeves <b>124</b>. The sleeves <b>124</b> and blocking members <b>126</b> define draft blocking bodies <b>102</b> having a length and a cross-section perimeter to generally continuously close off the gap G along respective edges of the door bottom surface E all along its length.</p>
+<p id="p-0035" num="0034">In one configuration, the sleeves <b>124</b> have one end which is open, and closable by a closure flap <b>132</b> of the elongated flexible body <b>120</b>, such that the draft blocking members <b>126</b> may be removably inserted into the sleeves <b>124</b>. An embodiment of an elongated flexible body <b>120</b> wherein the sleeves <b>124</b> have openable and closable ends for insertion of the blocking members <b>126</b> is described in U.S. Pat. No. 6,560,932, which is hereby incorporated by reference in its entirety.</p>
+<p id="p-0036" num="0035">A retaining member <b>110</b> extends across an end of the flexible body <b>120</b>, between the sleeves <b>124</b>, at an upper part of the sleeves <b>124</b>, to form an end wall configured to wrap around a side edge of the door. The retaining member <b>110</b> may be formed at a closed end of the flexible body <b>120</b> opposite the openable end. The retaining member <b>110</b> may be formed integrally with the flexible body <b>120</b>. For example, referring to <figref idref="DRAWINGS">FIG. 8</figref>, in an embodiment wherein the flexible body <b>120</b> is formed from a fabric sheet <b>121</b>, the retaining member <b>110</b> may be formed by providing an end flap <b>134</b> in the fabric sheet <b>121</b>, and folding the end flap <b>134</b> upward against ends of the sleeves <b>124</b>, and fastening the flap <b>134</b> in place by stitching or an adhesive to form a retaining member <b>110</b> fixed in place.</p>
+<p id="p-0037" num="0036">Alternatively, referring to <figref idref="DRAWINGS">FIGS. 10 and 11</figref>, the retaining member <b>110</b> may be formed separately from the flexible body <b>120</b>, and permanently or removably attached. For example, a retaining member <b>110</b> may be provided in the form of an elastic material strip or band extending between the sleeves <b>124</b>, wherein the elastic material strip is permanently fixed to ends of the sleeves by stitching, an adhesive, or the like, or removably attached to the ends of the sleeves by a hook-and-loop type fastener (Velcro&#x2122;, for example), buttons or snaps, or the like. In the example shown in <figref idref="DRAWINGS">FIG. 11</figref>, fastening pins or tacks are fixed to the retaining member <b>110</b> and may include barb elements, such that the retaining member <b>110</b> is fixed to the draft blocking bodies <b>102</b> by inserting the fastening pins or tacks into the draft blocking body ends.</p>
+<p id="p-0038" num="0037">A further configuration of a retaining member <b>110</b> is shown in <figref idref="DRAWINGS">FIG. 12</figref>, wherein a retaining member <b>110</b> is formed in a rigid plate, and comprises end parts configured for attachment abutted against ends of the draft blocking members <b>126</b>, and an upwardly extending tab disposed between the end parts. In still a further configuration, shown in <figref idref="DRAWINGS">FIG. 13</figref>, a retaining member <b>110</b> is provided in the form of a tab extending upwardly from the base member <b>104</b>. In such an embodiment, the retaining member <b>110</b> may be in the form of a right-angle bracket having a bottom part fastened to the base member <b>104</b>, from which the tab extends vertically upward.</p>
+<p id="p-0039" num="0038">In yet another configuration, a retaining member <b>110</b> is provided as a strap extending from the base member <b>104</b> or another part of the draft blocker, having a hook-and-loop type fastener, snap, or other removably engageable fastening element disposed on a free end of the strap and configured to be engaged with a cooperating fastening element disposed on the door. Preferably, the cooperating fastening element is disposed on a side edge of the door near the bottom of the door.</p>
+<p id="p-0040" num="0039">The draft blocking members <b>126</b> may be provided in several forms, such as lengths of foam type insulators or the like. In one embodiment, the draft blocking members <b>126</b> are each formed in two, or more, segments which may be removably joined together, as shown in <figref idref="DRAWINGS">FIG. 9</figref>. For example, two segments <b>140</b> may be joined by a coupling sleeve <b>142</b>. Such an arrangement allows for more compact packaging and storage of the draft blocker <b>100</b>.</p>
+<p id="p-0041" num="0040">Alternative to the draft blocking members <b>126</b>, the sleeves <b>124</b> may be filled with loose insulating materials such as foam rubber, particulate polystyrene foam, beans, sand, fibrous materials, and the like.</p>
+<p id="p-0042" num="0041">It will be understood that the above-described embodiments of the invention are illustrative in nature, and that modifications thereof may occur to those skilled in the art. Accordingly, this invention is not to be regarded as limited to the embodiments disclosed herein, but is to be limited only as defined in the appended claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>I claim:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A removable draft blocker for blocking drafts by sealing a gap between a bottom surface of a door and an underlying floor surface, said draft blocker comprising:
+<claim-text>an elongated flexible body having first and second elongated sleeves joined together in a spaced apart parallel relationship, wherein each of the elongated sleeves has an interior space and an opening for removably receiving a draft blocking member within the interior space, and wherein a joining portion of the elongated flexible body between the elongated sleeves is adapted to be positioned within the gap between the bottom surface of the door and an underlying floor surface such that the first and second elongated sleeves are disposed on opposing sides of the door;</claim-text>
+<claim-text>an insulating draft blocking member removably disposed in each said elongated sleeve; and</claim-text>
+<claim-text>a retaining strap disposed at an end of said elongated flexible body and fastened at each end to a respective one of the first and second elongated sleeves such that the retaining strap is configured to be engaged behind or against a side edge of the door whereby the elongated flexible body is restrained from lengthwise movement in at least one direction.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The removable draft blocker according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said retaining strap comprises a single strip of material.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The removable draft blocker according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said retaining strap is formed of an elastic material.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The removable draft blocker according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said retaining strap is formed of a material with a flexible or elastic property such that the retaining strap may be pressed or displaced downward for clearance beneath the bottom surface of the door for installation of the draft blocker, and restored to a position engaged behind or against the side edge of the door upon installation.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The removable draft blocker according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said retaining strap is fixed at each end to an end of a respective one of said elongated sleeves. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

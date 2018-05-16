@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891078-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891078</doc-number>
+<kind>B1</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11970324</doc-number>
+<date>20080107</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>583</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>G</section>
+<class>01</class>
+<subclass>R</subclass>
+<main-group>3</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 29595</main-classification>
+<further-classification> 295921</further-classification>
+<further-classification> 29593</further-classification>
+<further-classification> 29594</further-classification>
+<further-classification>342165</further-classification>
+<further-classification>324165</further-classification>
+<further-classification>324173</further-classification>
+<further-classification>324174</further-classification>
+</classification-national>
+<invention-title id="d2e53">Sensor-based feedback method for improved assembly of vacuum electronic devices</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>6697014</doc-number>
+<kind>B1</kind>
+<name>Ramirez et al.</name>
+<date>20040200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>342165</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>6899766</doc-number>
+<kind>B2</kind>
+<name>Miya et al.</name>
+<date>20050500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>6920680</doc-number>
+<kind>B2</kind>
+<name>Wei et al.</name>
+<date>20050700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>6986381</doc-number>
+<kind>B2</kind>
+<name>Ray et al.</name>
+<date>20060100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>7017636</doc-number>
+<kind>B2</kind>
+<name>Shiozawa</name>
+<date>20060300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>7181071</doc-number>
+<kind>B2</kind>
+<name>Kim et al.</name>
+<date>20070200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>382236</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>2006/0057505</doc-number>
+<kind>A1</kind>
+<name>Sadwick et al.</name>
+<date>20060300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>2007/0057186</doc-number>
+<kind>A1</kind>
+<name>Nakasuji et al.</name>
+<date>20070300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>9</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 29593-595</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>342165</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>324165</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>324173</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>324174</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>4</number-of-drawing-sheets>
+<number-of-figures>4</number-of-figures>
+</figures>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Ramirez</last-name>
+<first-name>Ayax D.</first-name>
+<address>
+<city>Chula Vista</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Russell</last-name>
+<first-name>Stephen D.</first-name>
+<address>
+<city>San Diego</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Eppele</last-name>
+<first-name>Kyle</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<last-name>Anderson</last-name>
+<first-name>J. Eric</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="03" rep-type="attorney">
+<addressbook>
+<last-name>Friedl</last-name>
+<first-name>Ryan J.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>The United States of America as represented by the Secretary of the Navy</orgname>
+<role>06</role>
+<address>
+<city>Washington</city>
+<state>DC</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Kim</last-name>
+<first-name>Paul D</first-name>
+<department>3729</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A method of improving efficiency of manufacturing a vacuum electronic device, includes placing sensors on the device's interior during its construction and obtaining a first measured characteristic value; comparing the first measured characteristic value with a desired characteristic value; determining whether the first measured characteristic value is within a predetermined percentage of the desired characteristic value; adjusting a component of the device and measuring the characteristic of the device to obtain a second measured characteristic, comparing the second measured characteristic value with a desired characteristic value, determining whether the second measured characteristic value is within a predetermined percentage of the desired characteristic value; and repeating the previous step until the second measured characteristic value is within the predetermined percentage of the desired characteristic value.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="172.89mm" wi="150.96mm" file="US07891078-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="180.42mm" wi="158.07mm" file="US07891078-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="200.15mm" wi="150.20mm" file="US07891078-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="224.71mm" wi="141.39mm" file="US07891078-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="225.04mm" wi="172.21mm" file="US07891078-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?GOVINT description="Government Interest" end="lead"?>
+<heading id="h-0001" level="1">FEDERALLY-SPONSORED RESEARCH AND DEVELOPMENT</heading>
+<p id="p-0002" num="0001">This invention (Navy Case No. 97,186) was developed with funds from the United States Department of the Navy. Licensing inquiries may be directed to Office of Research and Technical Applications, Space and Naval Warfare Systems Center, San Diego, Code 2112, San Diego, Calif., 92152; telephone (619) 553-2778; email: T2@spawar.navy.mil.</p>
+<?GOVINT description="Government Interest" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0003" num="0002">The inventive subject matter is related to a condition-based maintenance system being tested both in-house and at microwave tube test sites. The inventive subject matter is also directed toward a method and apparatus for improved assembly of vacuum electronic devices such as microwave power tubes.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0004" num="0003">An embodiment of the inventive subject matter is a method of improving efficiency of the process of manufacturing a vacuum electronic device. The method includes the steps of a) placing a plurality of first sensors on an interior of the vacuum electronic device during construction of the vacuum electronic device and measuring a characteristic, such as an acoustic emission signal of a given amplitude, integrated energy or frequency range, to obtain a first measured characteristic value; b) comparing the first measured characteristic value with a desired characteristic value; c) determining whether the first measured characteristic value is within a predetermined percentage of the desired characteristic value; d) adjusting at least one component of the vacuum electronic device and measuring the characteristic of the vacuum electronic device to obtain a second measured characteristic, comparing the second measured characteristic value with a desired characteristic value determining whether the second measured characteristic value is within a predetermined percentage of the desired characteristic value; e) repeating step d until the second measured characteristic value is within the predetermined percentage of the desired characteristic value; and f) removing the plurality of first sensors and completing the process of manufacturing the vacuum electronic device. If the first measured characteristic is within a predetermined value, there is no need to continue measuring the characteristic unless a person wishes to verify the first measured characteristic. For example, to speed up the manufacturing process, a device whose resonance falls within a predetermined percentage of the desired characteristic value can move directly to step f from step c. The characteristic may include, for example, the frequency range of an acoustic emission signal, the amplitude of an acoustic emission signal, the spectral (frequency) components of an acoustic emission signal, or the integrated energy of an acoustic emission signal.</p>
+<p id="p-0005" num="0004">The inventive method can also include the additional steps of placing a plurality of second sensors on an exterior of the vacuum electronic device during construction of the vacuum electronic device and measuring a characteristic of the vacuum electronic device to obtain a first exterior measured characteristic value; comparing the first exterior measured characteristic value with a desired characteristic value; determining whether the first exterior measured characteristic value is within a predetermined percentage of the desired characteristic value; adjusting at least one component of the vacuum electronic device and measuring the characteristic of the vacuum electronic device to obtain a second exterior measured characteristic value, comparing the second exterior measured characteristic value with a desired characteristic value determining whether the second exterior measured characteristic value is within a predetermined percentage of the desired characteristic value (then repeating this step until the second exterior measured characteristic value is within the predetermined percentage of the desired characteristic value); and removing the plurality of second sensors and completing the process of manufacturing the vacuum electronic device. The characteristic may include, for example, the frequency range of an acoustic emission signal, the amplitude of an acoustic emission signal, the spectral components of an acoustic emission signal, or the integrated energy of an acoustic emission signal.</p>
+<p id="p-0006" num="0005">With respect to the equipment used in this embodiment, the plurality of sensors used in this method can be acoustic emission sensors. Also, the characteristic can be caused by applying an RF signal to the vacuum electronic device which generates an acoustic emission signal.</p>
+<p id="p-0007" num="0006">The inventive subject matter can also be embodied in a system for maintaining operating efficiency of a vacuum electronic device having a plurality of components. The system includes a plurality of sensors disbursed throughout an interior of the vacuum electronic device (each of the plurality of sensors is adapted to detect a characteristic of the vacuum electronic device such as a resonant frequency); a signal emitter adapted to create microwave emission in the vacuum electronic device; a controller configured to receive from each of the plurality of sensors a value indicative of the microwave emission of the vacuum electronic device and further configured to adjust the physical orientation of at least one of the plurality of components to alter the microwave emission of the vacuum electronic device. Alternatively, each of the plurality of sensors can be acoustic sensors configured to measure acoustic vibrations within the vacuum electronic device. Acoustic vibrations are caused by the microwave emission from an emitter in the vacuum electronic device.</p>
+<p id="p-0008" num="0007">An additional embodiment of the inventive subject matter is a method of enhancing performance of a vacuum electronic device. The method includes a) storing an optimal characteristic value on a storage medium in communication with a vacuum electronic device controller; b) placing a plurality of first sensors on an interior of the vacuum electronic device; c) using the plurality of first sensors to measure a characteristic of the vacuum electronic device to get a first measured characteristic value, wherein the first measured characteristic value is an average of measurements of the plurality of first sensors; d) comparing the first measured characteristic value to the optimal characteristic value, using the vacuum electronic device controller to physically reposition components of the vacuum electronic device then using the plurality of first sensors to measure a characteristic of the vacuum electronic device to get a second measured characteristic value, comparing the second measured value to the optimal characteristic value, and using the vacuum electronic device controller to physically reposition components of the vacuum electronic device; and e) repeating step d until the second measured value is within a predetermined percentage of the optimal characteristic value.</p>
+<p id="p-0009" num="0008">The method of enhancing performance of a vacuum electronic device can also include the steps of placing a plurality of second sensors on an exterior of the vacuum electronic device; using the plurality of second sensors to measure a characteristic of the vacuum electronic device to get a first exterior measured characteristic value, wherein the first exterior measured characteristic value is an average of each measurement of the plurality of second sensors; comparing the first exterior measured characteristic value to the optimal characteristic value, using said vacuum electronic device controller to physically reposition components of the vacuum electronic device then using said plurality of second sensors to measure a characteristic of the vacuum electronic device to get a second exterior measured characteristic value, comparing the second exterior measured value to the optimal characteristic value, and using the vacuum electronic device controller to physically reposition components of the vacuum electronic device; and repeating the previous step until the second exterior measured value is within a predetermined percentage of the optimal characteristic value.</p>
+<p id="p-0010" num="0009">With respect to the equipment used in any of these embodiments, at least one of the plurality of sensors used can be acoustic emission sensors. Also, the characteristic can be caused by emission of an RF signal from the vacuum electronic device or can be caused by any other type signal based upon the intended use of the device.</p>
+<p id="p-0011" num="0010">Other objects and goals of the present inventive subject matter will become apparent upon reading the following description in conjunction with the following figures.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0012" num="0011">The inventive subject matter is herein described, by way of example only, with reference to the accompanying drawings, wherein:</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 1</figref> is a graph showing the relationship between an RF output signal of a magnetron and a corresponding acoustic emission signal;</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 2</figref> is an example of a vacuum device having sensors placed in and on a wall of the device</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 3</figref> is a flow chart showing steps of an inventive method disclosed herein;</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 4</figref> is a flow chart showing steps of an alternative to the inventive method disclosed herein.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE EMBODIMENTS</heading>
+<p id="p-0017" num="0016">The present embodiments herein are not intended to be exhaustive and to limit in any way the scope of the inventive subject matter; rather they are used as examples for the clarification of the inventive subject matter and for enabling of others skilled in the art to utilize its teaching. The word &#x201c;exemplary&#x201d; is used herein to mean &#x201c;serving as an example, instance, or illustration.&#x201d; Any embodiment described herein as &#x201c;exemplary&#x201d; is not necessarily to be construed as preferred or advantageous over other embodiments.</p>
+<p id="p-0018" num="0017">By way of example, an acoustic emission sensor may be used to monitor a 2J56 magnetron. <figref idref="DRAWINGS">FIG. 1</figref> shows the output signal (in volts) <b>70</b> of the acoustic emission sensor when an RF signal <b>80</b> is emitted. This acoustic emission sensor can monitor changes in response to when a bad RF signal is emitted and also changes based on the location of the sensor and the correct alignment of the RF beam in an RF radiating device.</p>
+<p id="p-0019" num="0018">With reference to <figref idref="DRAWINGS">FIG. 2</figref>, another example is to place acoustic emission sensors in a plurality of locations along, for example, a klystron <b>502</b>. In this case, monitoring of acoustic emission may be used to enhance alignment of the beam during assembly by comparing characteristic acoustic signatures with known good values. In operation, a signal emitter <b>504</b> causes the klystron to vibrate. Sensors <b>502</b><i>a</i>-<b>502</b><i>d </i>are placed on the inside and/or outside of the klystron to determine a characteristic klystron in operation such as a resonance frequency. The values obtained by each of the sensors <b>502</b><i>a</i>-<b>502</b><i>d </i>are collected and analyzed by processor <b>506</b>. The processor <b>506</b> can be configured to determine an average of the measurements from each of the sensors and can also determine if a particular sensor is producing a value that is abnormal in comparison to the other sensors. If the measured average value is outside the desired range of action an alert signal may be provided to an external device for notification or actuation of other devices such as automated positioning equipment.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 3</figref> schematically shows the method for improved fabrication <b>100</b> using the sensor system. It includes the steps of: providing a plurality of sensors operably coupled to detect a characteristic signature from a system <b>110</b>; obtaining a signal from each of the sensors <b>120</b>; comparing the signals from each of the sensors with known good values <b>130</b>; employing enhancement algorithms, if desired, using the sensor signals <b>140</b>; and taking action if the signals are not desired <b>150</b>. Action may include, for example, repositioning components, such as sidewalls, in system <b>110</b>, repeating the process as desired, and actuating a response. The actuation of a response may be an automated adjustment system or an alarm mechanism to alert manual adjustment.</p>
+<p id="p-0021" num="0020">With reference to the flowchart in <figref idref="DRAWINGS">FIG. 4</figref>, a further method of improving efficiency of the process of manufacturing a vacuum electronic device includes the steps of placing a plurality of first sensors on an interior of the vacuum electronic device during construction of the vacuum electronic device at step <b>302</b> and, at step <b>304</b>, measuring a characteristic to obtain a first measured characteristic value. The characteristic may include, for example, the frequency range of an acoustic emission signal, the amplitude of an acoustic emission signal, the spectral (frequency) components of an acoustic emission signal, or the integrated energy of an acoustic emission signal. At step <b>306</b> the method includes comparing the first measured characteristic value with a desired characteristic value and determining whether the first measured characteristic value is within a predetermined percentage of the desired characteristic value. As the objective of the sensors is to help improve the operability of the manufactured device, at step <b>308</b>, the measured values are used to adjust at least one component of the vacuum electronic device to improve its construction. Any component of the vacuum electronic device can be measured such as, for example, the sidewalls of the device, the cavity of the device, the cathode, the anode, the collector, or any other component that can potentially affect the device's operation. The components that can be adjusted include any The same characteristic of the device is then again measured to obtain a second measured characteristic. Similar to step <b>306</b>, at step <b>310</b>, the second characteristic is compared with a desired characteristic value. The comparison is used to determine whether the second measured characteristic value is within a predetermined percentage, i.e., 5% of the desired characteristic value. At step <b>312</b>, this adjustment and re-measuring is repeated until the second measured characteristic value is within the predetermined percentage of the desired characteristic value. Lastly, the sensors can be removed and the device's manufacture can be completed.</p>
+<p id="p-0022" num="0021">Also, to enhance the method, a plurality of second sensors are optionally placed on an exterior of the vacuum electronic device during construction of the vacuum electronic device. The plurality of second sensors measures a characteristic of the vacuum electronic device to obtain a characteristic value from an alternate point of view. Then, the exterior measured value is compared with a desired characteristic value to determine whether the exterior measured value is within a predetermined percentage of the desired value. If not, the electronic device is adjusted in an effort to improve its construction and operability. Then the characteristic value is measured again and, if necessary, the electronic device can be adjusted again.</p>
+<p id="p-0023" num="0022">The inventive subject matter can also be embodied in a system for maintaining operating efficiency of a vacuum electronic device having a plurality of components. The system includes a plurality of sensors disbursed throughout an interior of the vacuum electronic device (each of the plurality of sensors detects a characteristic level of the vacuum electronic device). A signal emitter is included in the device to create an acoustic emission signal in the vacuum electronic device. A controller receives from each of the plurality of sensors a value indicative of the characteristic level of the vacuum electronic device. For automated manufacturing processes, the controller also adjusts the physical orientation of at least one of the plurality of components to alter the characteristic level of the vacuum electronic device.</p>
+<p id="p-0024" num="0023">After manufacturing, the performance of the vacuum electronic device can be enhanced using a variation of the inventive subject matter. To execute the method an optimal operational characteristic of the device must be determined. Typically this is done experimentally. That optimal operational characteristic is stored on a storage medium for later reference. The characteristic is measured using at least one, but preferably multiple, sensors. The sensors are placed in the interior of the device. Optionally, additional sensors are also placed on an exterior of the device. To insure the integrity of the measurements, if multiple sensors are used, an average value of the aggregate of the signals from the sensors, both interior and exterior, may be derived. This average value can then be compared to the optimal operational characteristic. If the comparison is more than a preset percent difference, then the device can be adjusted in an attempt to reduce the difference. Of course, the lowest percent difference is the objective and for operational standards, a percent difference of 0.05% is preferable.</p>
+<p id="p-0025" num="0024">This invention provides a method and apparatus for improving the manufacturing and assembly process of vacuum microelectronic devices. It will reduce the workload by significantly reducing the amount of time needed to enhance device alignment. It also offers a way to automate the fabrication process and provides feedback to automated or robotic positioning equipment. This method can also be utilized during refurbishing where alignment and enhancement is often required.</p>
+<p id="p-0026" num="0025">This invention may be applied to any system, and may use any variety or plurality of sensors including but not limited to: electrical, magnetic, electromagnetic, thermal, acoustic, optical, ionizing radiation and chemical sensors. The parameters used in the enhancement algorithm may be selected for peak performance based on the specific device being monitored.</p>
+<p id="p-0027" num="0026">Referring again to <figref idref="DRAWINGS">FIG. 4</figref>, an example of this method includes the steps of a) placing a sensor on an interior of the vacuum electronic device during construction of the vacuum electronic device in a location where substantially no acoustic emission should be detectable if the vacuum electronic device is correctly manufactured. (See step <b>302</b>) In this situation, it is believed that the absence of acoustic emission is associated with a correctly aligned RF propagating beam, which minimizes energy loss to the sidewalls. The exemplary method further comprises; b) measuring the integrated acoustic emission energy, to obtain a first measured integrated acoustic emission energy value; (See step <b>304</b>) c) comparing the first measured integrated acoustic emission energy value with a desired integrated acoustic emission energy value of zero; (See step <b>304</b>) d) determining whether the first measured integrated acoustic emission energy value is within an acceptable range of the desired characteristic value of zero; (See step <b>306</b>) e) adjusting at least one component of the vacuum electronic device and measuring the integrated acoustic emission energy of the vacuum electronic device to obtain a second measured integrated acoustic emission energy, (See step <b>308</b>) comparing the second measured integrated acoustic emission energy value with a desired integrated acoustic emission energy value of zero; (See step <b>310</b>) f) determining whether the second measured integrated acoustic emission energy value is within an acceptable range of the desired integrated acoustic emission energy value; (See step <b>310</b>) g) repeating step e until the second measured integrated acoustic emission energy value is within the within an acceptable range of the desired integrated acoustic emission energy value of zero; (See step <b>312</b>) and h) removing the sensor and completing the process of manufacturing the vacuum electronic device. If the first measured integrated acoustic emission energy value is within an acceptable range of the optimal integrated acoustic emission energy value of zero, there is no need to continue measuring the integrated acoustic emission energy unless a person wishes to verify the first measurement.</p>
+<p id="p-0028" num="0027">The previous description of the disclosed embodiments is provided to enable any person skilled in the art to make or use the present inventive subject matter. Various modifications to these embodiments will be readily apparent to those skilled in the art, and the generic principles defined herein may be applied to other embodiments without departing from the spirit or scope of the inventive subject matter. For example, one or more elements can be rearranged and/or combined, or additional elements may be added. Thus, the present inventive subject matter is not intended to be limited to the embodiments shown herein but is to be accorded the widest scope consistent with the principles and novel features disclosed herein. It will be understood that many additional changes in the details, materials, steps and arrangement of parts, which have been herein described and illustrated to explain the nature of the invention, may be made by those skilled in the art within the principal and scope of the invention as expressed in the appended claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>We claim:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A method of improving efficiency of manufacturing a vacuum electronic device comprising:
+<claim-text>a) placing a plurality of first sensors on an interior of the vacuum electronic device during construction of the vacuum electronic device and measuring an interior characteristic of said vacuum electronic device to obtain a first measured characteristic value;</claim-text>
+<claim-text>b) comparing said first measured characteristic value with a desired interior characteristic value;</claim-text>
+<claim-text>c) determining whether said first measured characteristic value is within a predetermined percentage of said desired interior characteristic value;</claim-text>
+<claim-text>d) adjusting at least one component of the vacuum electronic device and measuring the interior characteristic of said vacuum electronic device to obtain a second measured characteristic, comparing said second measured characteristic value with said desired interior characteristic value, and determining whether said second measured characteristic value is within said predetermined percentage of said desired interior characteristic value;</claim-text>
+<claim-text>e) repeating step d until said second measured characteristic value is within said predetermined percentage of said desired interior characteristic value;</claim-text>
+<claim-text>f) removing said plurality of first sensors and completing manufacture of the vacuum electronic device; and</claim-text>
+<claim-text>g) placing a plurality of second sensors on an exterior of the vacuum electronic device during construction of the vacuum electronic device and measuring an exterior characteristic of said vacuum electronic device to obtain a first exterior measured characteristic value.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The method of improving efficiency of manufacturing a vacuum electronic device as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> further comprising:
+<claim-text>b2) comparing said first exterior measured characteristic value with a desired exterior characteristic value;</claim-text>
+<claim-text>c2) determining whether said first exterior measured characteristic value is within a predetermined percentage of said desired exterior characteristic value;</claim-text>
+<claim-text>d2) adjusting at least one component of the vacuum electronic device and measuring the exterior characteristic of said vacuum electronic device to obtain a second exterior measured characteristic, comparing said second exterior measured characteristic value with a desired exterior characteristic value, determining whether said second exterior measured characteristic value is within a predetermined percentage of said desired exterior characteristic value;</claim-text>
+<claim-text>e2) repeating step d2 until said second exterior measured characteristic value is within said predetermined percentage of said desired exterior characteristic value; and</claim-text>
+<claim-text>f2) removing said plurality of second sensors and completing the process of manufacturing the vacuum electronic device.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The method of improving efficiency of manufacturing a vacuum electronic device as recited in <claim-ref idref="CLM-00002">claim 2</claim-ref> wherein each of said plurality of first sensors is an acoustic emission sensor and each of said plurality of second sensors is an acoustic emission sensor.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The method as recited in <claim-ref idref="CLM-00002">claim 2</claim-ref> wherein said interior and exterior characteristics are caused by emission of an RF signal from said vacuum electronic device.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The method of improving efficiency of manufacturing a vacuum electronic device as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein each of said plurality of first sensors is an acoustic emission sensor.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The method of improving efficiency of manufacturing a vacuum electronic device as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein each of said plurality of second sensors is an acoustic emission sensor.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The method as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said interior characteristic and said exterior characteristic are caused by emission of an RF signal from said vacuum electronic device.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The method of improving efficiency of manufacturing a vacuum electronic device as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said interior characteristic and said exterior characteristic are selected from the group consisting of: a frequency range of an acoustic emission signal, an amplitude of an acoustic emission signal, spectral components of an acoustic emission signal, and integrated energy of an acoustic emission signal.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The method of improving efficiency of manufacturing a vacuum electronic device as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said interior and exterior characteristics are selected from the group consisting of: a frequency range of an acoustic emission signal, an amplitude of an acoustic emission signal, spectral components of an acoustic emission signal, and integrated energy of an acoustic emission signal.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

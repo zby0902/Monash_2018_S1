@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891219-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891219</doc-number>
+<kind>B1</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12559097</doc-number>
+<date>20090914</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>E</section>
+<class>05</class>
+<subclass>B</subclass>
+<main-group>67</main-group>
+<subgroup>38</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 70 56</main-classification>
+<further-classification> 70203</further-classification>
+<further-classification> 70212</further-classification>
+<further-classification> 70417</further-classification>
+</classification-national>
+<invention-title id="d2e43">Lock guard for padlock</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>1220941</doc-number>
+<kind>A</kind>
+<name>Bowers</name>
+<date>19170300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>1244404</doc-number>
+<kind>A</kind>
+<name>Ankovitz</name>
+<date>19171000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3392555</doc-number>
+<kind>A</kind>
+<name>Beaver</name>
+<date>19680700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>3808847</doc-number>
+<kind>A</kind>
+<name>Vesely</name>
+<date>19740500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>3828591</doc-number>
+<kind>A</kind>
+<name>Beaver</name>
+<date>19740800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 70 56</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>3884057</doc-number>
+<kind>A</kind>
+<name>Maurer</name>
+<date>19750500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 70259</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>4290281</doc-number>
+<kind>A</kind>
+<name>Knaack et al.</name>
+<date>19810900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 70 54</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>4573722</doc-number>
+<kind>A</kind>
+<name>Lyng</name>
+<date>19860300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>292148</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>4580818</doc-number>
+<kind>A</kind>
+<name>Lyng</name>
+<date>19860400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>292148</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>4581907</doc-number>
+<kind>A</kind>
+<name>Eberly</name>
+<date>19860400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>4898008</doc-number>
+<kind>A</kind>
+<name>Eberly</name>
+<date>19900200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>4920772</doc-number>
+<kind>A</kind>
+<name>Denison</name>
+<date>19900500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>5000494</doc-number>
+<kind>A</kind>
+<name>Guibleo</name>
+<date>19910300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>292148</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>5076078</doc-number>
+<kind>A</kind>
+<name>Weger, Jr.</name>
+<date>19911200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 70 54</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>5092143</doc-number>
+<kind>A</kind>
+<name>Rumbles</name>
+<date>19920300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 70 56</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>5219384</doc-number>
+<kind>A</kind>
+<name>Elsfelder et al.</name>
+<date>19930600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 70 18</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>5588314</doc-number>
+<kind>A</kind>
+<name>Knezovich</name>
+<date>19961200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 70 56</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>5806351</doc-number>
+<kind>A</kind>
+<name>Learnahan</name>
+<date>19980900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 70 56</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>5878604</doc-number>
+<kind>A</kind>
+<name>Stone et al.</name>
+<date>19990300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 70 56</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>6036240</doc-number>
+<kind>A</kind>
+<name>Hamilton</name>
+<date>20000300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>6622533</doc-number>
+<kind>B1</kind>
+<name>Santini</name>
+<date>20030900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>7003989</doc-number>
+<kind>B2</kind>
+<name>St. James</name>
+<date>20060200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>7201027</doc-number>
+<kind>B2</kind>
+<name>Gogel</name>
+<date>20070400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>7201028</doc-number>
+<kind>B1</kind>
+<name>Gogel</name>
+<date>20070400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>7278284</doc-number>
+<kind>B1</kind>
+<name>James</name>
+<date>20071000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 70 56</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>7412856</doc-number>
+<kind>B1</kind>
+<name>Gogel</name>
+<date>20080800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>18</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 70 54- 56</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 70DIG 43</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 70DIG 56</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 70417</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 70202</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 70203</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 70211</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 70212</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>292148</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>292205</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>292218</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>292281</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>292DIG 32</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>292283</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>292285</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> D8334</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> D8335</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> D8346</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>4</number-of-drawing-sheets>
+<number-of-figures>5</number-of-figures>
+</figures>
+<us-related-documents>
+<continuation-in-part>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>12472656</doc-number>
+<date>20090527</date>
+</document-id>
+<parent-status>PENDING</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>12559097</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation-in-part>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>61060838</doc-number>
+<date>20080612</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Gogel</last-name>
+<first-name>Roy E.</first-name>
+<address>
+<street>319 Garlington Rd., Suite C-1</street>
+<city>Greenville</city>
+<state>SC</state>
+<postcode>29615</postcode>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Hardaway, III</last-name>
+<first-name>John B.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<last-name>Leonardi</last-name>
+<first-name>Daniel C.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="03" rep-type="attorney">
+<addressbook>
+<orgname>Nexsen Pruet, LLC</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<examiners>
+<primary-examiner>
+<last-name>Gall</last-name>
+<first-name>Lloyd A</first-name>
+<department>3673</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A lock guard protects a padlock with a shackle and the ends of a securing connector. The device comprises a five-sided housing with an open bottom. Two opposing sides of the housing have opposing openings therethrough for inserting the ends of the securing connector. Inside the housing is a retaining tab having an opening therethrough dimensioned to receive the end of the shackle. The housing can also contain an abutment providing a surface against which to drive the top of the shackle when locking the padlock within the lock guard. When the retainer tab is vertical, the top edge of the hole in the retainer tab can act as an abutment.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="170.86mm" wi="202.18mm" file="US07891219-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="243.84mm" wi="174.33mm" orientation="landscape" file="US07891219-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="202.69mm" wi="170.77mm" orientation="landscape" file="US07891219-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="179.66mm" wi="172.47mm" orientation="landscape" file="US07891219-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="196.93mm" wi="170.69mm" orientation="landscape" file="US07891219-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">CROSS REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is a continuation-in-part of non-provisional application Ser. No. 12/472,656 filed on May 27, 2009, which in turn claimed the benefit of U.S. provisional patent application 61/060,838 filed Jun. 12, 2008.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">STATEMENT REGARDING FEDERALLY SPONSORED RESEARCH OR DEVELOPMENT</heading>
+<p id="p-0003" num="0002">Not applicable.</p>
+<heading id="h-0003" level="1">REFERENCE TO A SEQUENCE LISTING, A TABLE, OR A COMPUTER PROGRAM LISTING COMPACT DISC APPENDIX</heading>
+<p id="p-0004" num="0003">Not Applicable.</p>
+<heading id="h-0004" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0005" num="0004">Thieves use a variety of tools to break into fenced areas secured with a chain or cable and a padlock or to steal from retail stores displaying wheelbarrows, lawnmowers, barbecue grills, bicycles, motorcycles, or other large items outside. These tools include sledge hammers, acetylene cutting torches, saws, grinders and the like. In addition to these tools, the bolt cutter is a favored tool of burglars for cutting padlocks because of its portability and the fact that it can be used quickly and quietly allowing pilferage even in front of busy retail hardware stores in the middle of the day.</p>
+<p id="p-0006" num="0005">Retail products locked with a chain or cable are typically secured by a padlock that attaches the two open ends of the chain or cable to complete a circle that inhibits unwarranted removal of a retail item that has the securing connector threaded through it such that the item cannot be freely moved beyond a certain distance. Likewise, a gate can be secured by a chain and padlock by wrapping the chain around the swinging end of the gate and the post or pole to which it can be latched. In protecting a padlock used in this context, it is desirable to keep the lock guard relatively small to make it difficult for thieves to access the lock, yet sufficiently large so that the securing padlock's shackle is retained within the lock guard to minimize ready access. It is also desirable to provide a universal device that is not designed for a particular style cable or chain but is universally suitable for use with most chains or looped cables and most brands of padlocks.</p>
+<p id="p-0007" num="0006">For ages, two basic designs of lock boxes having four walls and a top have been used. One inconvenient design was a large box with a loop or bar inside the box for attaching the padlock and without an abutment as in the present invention. The chain or cable being locked was brought up through the bottom of the lock box. This box was inconvenient for two reasons. First, the user was forced to run the chain or cable up through the bottom of the box and could not see the relative position of the ends of the chain or cable once they were inside the box. This made capturing the cable or chain with the padlock difficult. Second, in order to lock the padlock, the user was required to reach inside the lock box. This was difficult and required the lock box to be larger than the present invention, which has an abutment for locking the padlock. The second design was comprised of a box fixed to a first door with a separate protruding element, typically bent, attached to a second door. The protruding element could be inserted into the box through a slot or opening in the back of the box on the first door and secured therein with a padlock. This design cannot be used in a free-standing environment. Thus there is a need for a convenient device for protecting padlocks used to secure the ends of connectors such as chains or cables where the lock is not attached to a bracket, latch, or other solid mounting surface.</p>
+<p id="p-0008" num="0007">Various attempts have been made to protect padlocks over the years, although most address the situation in which the padlock is locked to a wall or latch. Examples of such devices include those disclosed in U.S. Pat. No. 1,220,941 to Bowers, U.S. Pat. No. 1,244,404 to Ankovitz, U.S. Pat. No. 3,392,555 to Beaver, U.S. Pat. Nos. 4,581,907 and 4,898,008 to Eberly, and U.S. Pat. No. 6,622,533 to Santini.</p>
+<p id="p-0009" num="0008">Further attempts to protect locks are directed to bolt seals, as in U.S. Pat. No. 6,036,240 to Hamilton. Some attempts have been made to protect padlocks not secured to a door latch. Examples of such attempts include the devices disclosed in U.S. Pat. No. 3,808,847 to Vesely, U.S. Pat. No. 4,920,772 to Denison, and U.S. Pat. No. 7,003,989 to St. James. None of these devices, however, achieves the results of the present invention.</p>
+<heading id="h-0005" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0010" num="0009">The herein disclosed lock guard shrouds the padlock's shackle and sides when fully engaged and secured so as to protect the lock from unauthorized tampering when securing a connecting device such as a cable or chain. The lock guard also protects the cable or chain at its point of connection with the padlock shackle. Moreover, the present invention protects the padlock without the benefit of a latch or solid mounting surface. With the present invention, in just a few seconds, a person can secure a swing gate or a number of free-standing, chained-together items with a padlock and at the same time protect the padlock from tampering.</p>
+<p id="p-0011" num="0010">The lock guard is specifically dimensioned to prevent access to the sides of the padlock and shackle through the lock guard's open bottom. That is, the lateral dimensions of the lock guard make it impossible for a thief to place a bolt cutter, a grinder, or even his/her hand within the lock guard. The lock guard does not however, obstruct access to the keyhole in the padlock and thus the padlock can be easily unlocked with the key. The lock guard can have side holes though which a securing connector, such as a chain, can be threaded and placed over the retainer tab, which is a shelf or plate in the lock guard with a hole in it dimensioned to receive the shackle of the lock. The lock can then be placed inside the lock guard, threaded through the ends of the securing connector and the retainer tab, and locked. To aid in locking the lock once it is in place, an abutment can be added above the retainer tab.</p>
+<p id="p-0012" num="0011">Another feature of the present invention is that it can be used with padlocks equipped with either standard or elongated shackles. For padlocks having elongated shackles, by providing a narrow vertical slot in the top wall, the lock guard can be used without expanding the lateral dimensions of the lock guard, which would make the sides and shackle of the padlock accessible and thus more vulnerable. The slot in the top wall allows the elongated shackle to temporarily extend out of the lock guard when the padlock is being installed. This allows the shackle to be raised above the retainer tab. Once the padlock is locked inside the lock guard, the shackle cannot be raised and pushed through the slot in the top wall.</p>
+<p id="p-0013" num="0012">In addition to the top slot, there is an additional slot in the front wall of the lock guard that permits the user to visually monitor the positions of the padlock, shackle, and the ends of the securing connector, when the padlock is being installed within the lock guard. The shackle must be threaded through the ends of the securing connector (e.g. the chain links at the ends of a chain or loops at the end of a cable) as well as through the retainer tab and the viewing slot facilitates this task.</p>
+<p id="p-0014" num="0013">Importantly, the top slot and front slot are sufficiently narrow to prevent insertion of an adult human finger or hand into the lock guard. Conveniently, the overall design of the lock guard is such that users can install a padlock in the lock guard without putting their hands into the lock guard. Additionally, the slots and openings in the lock guard are not large enough to permit a thief to get to the shackle of the padlock with a bolt cutter or grinding tool.</p>
+<p id="p-0015" num="0014">In another embodiment of the invention, the walls of the lock guard are without slots and the retainer tab is vertical instead of horizontal. With the retainer tab vertical, the upper perimeter of the hole in the retainer tab through which the shackle of the lock is threaded acts as an abutment to assist in locking the lock.</p>
+<p id="p-0016" num="0015">Accordingly, the present invention is compatible with and protects a broad range of padlocks, including padlocks with extended shackles, and protects the connecting device (e.g., a cable or chain) attached to the padlock's shackle, at the point of connection between the connecting device and the shackle.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0006" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0017" num="0016">The invention is illustrated in the accompanying drawings, in which:</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 1</figref> is a perspective view of the outside of the lock guard according to one embodiment of the invention;</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 2</figref> is another perspective view of the lock guard according to one embodiment of the invention with portions of the housing cut-away to afford a view of the inside of the lock guard;</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 3</figref> is the same cut-away view of the lock guard as shown in <figref idref="DRAWINGS">FIG. 2</figref>, but with the addition of a chain secured with a padlock protected by the lock guard;</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 4</figref> is a perspective cut-away view of another embodiment of the invention; and</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 5</figref> is the same cut-away view of the lock guard as shown in <figref idref="DRAWINGS">FIG. 4</figref>, but with the addition of a chain secured with a padlock protected by the lock guard.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0007" level="1">DETAILED DESCRIPTION OF EMBODIMENTS</heading>
+<p id="p-0023" num="0022">As illustrated in <figref idref="DRAWINGS">FIG. 1</figref>, the lock guard <b>11</b> consists of five walls: a front wall <b>13</b>, side walls <b>12</b> and <b>14</b>, a rear wall <b>15</b>, and a top wall <b>16</b>. Instead of having a sixth side or bottom wall, there is a bottom opening <b>25</b>. Side walls <b>12</b> and <b>14</b> have openings <b>21</b> and <b>23</b>, respectively. Openings <b>21</b> and <b>23</b> allow the respective ends of the securing connector (e.g., chain or cable, etc.) to be inserted into and removed from the lock guard <b>11</b> so the ends can be secured to the shackle of the padlock (<figref idref="DRAWINGS">FIG. 3</figref>). In this particular embodiment of the present invention, top wall <b>16</b> has an elongated slot <b>24</b> for temporary reception of the shackle of the padlock when the padlock is being installed in the lock guard <b>11</b>. Slot <b>24</b> allows the lock guard <b>11</b> to be used with padlocks having elongated shackles without increasing the size of the lock guard <b>11</b>.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 2</figref> is a perspective view of the lock guard <b>11</b> shown in <figref idref="DRAWINGS">FIG. 1</figref> with portions of sides <b>14</b> and <b>16</b> removed and all of side <b>15</b> removed to show the inside of lock guard <b>11</b>. The four side walls <b>12</b>, <b>13</b>, <b>14</b>, and <b>15</b>, along with top wall <b>16</b>, form a cavity <b>26</b> that is accessible through bottom opening <b>25</b>. Inside cavity <b>26</b> is a retainer tab <b>41</b> (located immediately below openings <b>21</b> and <b>23</b> in side walls <b>12</b> and <b>14</b>).</p>
+<p id="p-0025" num="0024">Retainer tab <b>41</b> has at least three functions. First, having a hole therein dimensioned to receive the shackle of the padlock, it serves as the point of connection for the padlock. Second, when the retainer tab is permanently fastened to side walls <b>12</b> and <b>14</b> and front wall <b>13</b>, it serves to reinforce the lock guard <b>11</b>. Third, in an embodiment of the present invention in which retainer tab <b>41</b> has spacer bars <b>43</b> and <b>44</b> defining a gap <b>46</b>, retainer tab <b>41</b> and spacer bars <b>43</b> and <b>44</b> serve to prevent the shackle <b>32</b> from being brought sufficiently close to openings <b>21</b> and <b>23</b> that it could be cut with a bolt cutter or other tool (see <figref idref="DRAWINGS">FIG. 3</figref>). Note also that the opening <b>42</b> in retainer tab <b>41</b> is located laterally in the center of retainer tab <b>41</b> so that a user can see the shackle and its position with respect to retainer tab <b>41</b> through slots <b>22</b> and <b>24</b> while securing the padlock to the lock guard <b>11</b>.</p>
+<p id="p-0026" num="0025">Cavity <b>26</b> can also contain an abutment <b>45</b>. Abutment <b>45</b> is located above front wall opening <b>22</b> and below top wall <b>16</b>. Abutment <b>45</b> serves as a surface against which the shackle of the padlock can be pushed when the user locks the padlock inside the lock guard <b>11</b>. Similar to retainer tab <b>41</b>, abutment <b>45</b> can be secured to side walls <b>12</b> and <b>14</b> as well as front wall <b>13</b>, and extends in a rearward direction for a distance shorter than the full width of opening <b>42</b>.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 3</figref> is a perspective cut-away like <figref idref="DRAWINGS">FIG. 2</figref> but, unlike <figref idref="DRAWINGS">FIG. 2</figref>, shows a padlock <b>31</b> and a securing connector, a chain <b>51</b>. As shown in <figref idref="DRAWINGS">FIG. 3</figref>, padlock <b>31</b> secures a connecting device, such as chain <b>51</b>, within the cavity <b>26</b> of lock guard <b>11</b>. To lock the padlock <b>31</b> inside lock guard <b>11</b>, the user inserts the padlock <b>31</b>, with the padlock's shackle <b>32</b> in the open position (not shown), through the bottom opening <b>25</b> of the lock guard and into cavity <b>26</b>. The shackle <b>32</b> of the padlock <b>31</b> is then raised above vertical gap <b>46</b> as formed by the left spacer <b>43</b> and right spacer <b>44</b> of the horizontal retainer tab <b>41</b>. If necessary, the shackle <b>32</b> can extend through elongated slot <b>24</b> of top wall <b>16</b> (<figref idref="DRAWINGS">FIG. 1</figref>) to ensure that the shackle <b>32</b> is above retainer tab <b>41</b>. Connector ends <b>52</b> and <b>53</b> of chain <b>51</b> are placed through the side wall openings <b>21</b> and <b>23</b> and positioned on top of retainer tab <b>41</b>, as shown in <figref idref="DRAWINGS">FIG. 3</figref>. The open shackle <b>32</b> is then threaded through securing device ends <b>52</b> and <b>53</b> and opening <b>42</b> of retainer tab <b>41</b>. The lock body <b>33</b> is then rotated to align the lock body <b>33</b> with the shackle <b>32</b>. The padlock <b>31</b> is then raised so that the top curve of the shackle <b>32</b> bears on the abutment <b>45</b> permitting padlock <b>31</b> to be locked. The securing device ends <b>52</b> and <b>53</b> and padlock <b>31</b> are then locked securely within lock guard <b>11</b>. When needed, padlock <b>31</b> is easily unlocked (with a key) through bottom opening <b>25</b>.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 4</figref> is a perspective cut-away of another embodiment <b>11</b><i>a </i>of the invention. The walls <b>12</b><i>a</i>, <b>13</b><i>a</i>, and <b>14</b><i>a </i>in this embodiment do not have slots or holes therethrough. Furthermore, retainer tab <b>41</b><i>a</i>, instead of being horizontal within the lock guard <b>11</b><i>a</i>, is vertical. The retainer tab <b>41</b><i>a </i>can be attached to top wall <b>16</b><i>a </i>and side walls <b>12</b><i>a </i>and <b>14</b><i>a </i>and be further supported with a support <b>47</b> spanning between retainer tab <b>41</b><i>a </i>and the front wall <b>13</b><i>a</i>. The retainer tab <b>41</b><i>a </i>can have one or more openings <b>42</b><i>a </i>through which the shackle of the lock can be threaded. The top edges <b>45</b><i>a </i>of openings <b>42</b><i>a </i>act as abutments against which the shackle <b>32</b><i>a </i>of the padlock <b>31</b><i>a </i>can be forced, making locking of the padlock <b>31</b><i>a </i>within the device <b>11</b><i>a </i>very easy.</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 5</figref> is a perspective cut-away of an embodiment <b>11</b><i>a </i>of the invention similar to that shown in <figref idref="DRAWINGS">FIG. 4</figref> having a vertical retainer tab <b>41</b><i>a</i>. Here, as in <figref idref="DRAWINGS">FIG. 3</figref>, a padlock <b>31</b><i>a </i>and connector <b>51</b><i>a </i>are shown secured within the invention <b>11</b><i>a</i>. To lock the padlock <b>31</b><i>a </i>within the invention <b>11</b><i>a</i>, the user threads the ends <b>52</b><i>a </i>and <b>53</b><i>a </i>through the shackle <b>32</b><i>a </i>of the padlock <b>31</b><i>a </i>and inserts the padlock <b>31</b><i>a </i>into the invention <b>11</b><i>a </i>with the shackle <b>32</b><i>a </i>in the unlocked and open position (not shown). The shackle <b>32</b><i>a </i>is then threaded through hole <b>42</b><i>a </i>in retainer tab <b>41</b><i>a </i>and the padlock <b>31</b><i>a </i>can then be locked. As explained above, the top edge <b>45</b><i>a </i>of hole <b>42</b><i>a </i>acts as an abutment against which the top curve of shackle <b>32</b><i>a </i>can be forced to lock the padlock <b>31</b><i>a</i>. As with the other embodiments of the invention herein disclosed, the padlock <b>31</b><i>a </i>can be easily removed with a key as the bottom of the lock <b>33</b><i>a </i>is accessible through the bottom <b>25</b><i>a </i>of the device <b>11</b><i>a. </i></p>
+<p id="p-0030" num="0029">As shown in <figref idref="DRAWINGS">FIGS. 1 and 2</figref>, side walls <b>14</b> and <b>12</b> have top halves <b>62</b> and <b>72</b>, bottom halves <b>64</b> and <b>74</b>, fore edges <b>66</b> and <b>76</b>, and aft edges <b>68</b> and <b>78</b>, respectively. Top halves <b>62</b> and <b>72</b> have top edges <b>70</b> and <b>80</b>, respectively, front wall <b>13</b> has a top edge <b>82</b>, and back wall <b>15</b> has a top edge <b>84</b>. Finally, slots <b>22</b> and <b>24</b> have widths <b>90</b> and <b>92</b>.</p>
+<p id="p-0031" num="0030">Having hereby described the subject matter of the present invention, it should be apparent that many substitutions, modifications, and variations of the invention are possible in light of the above teachings. It is therefore to be understood that the invention as taught and described herein is only to be limited to the extent of the breadth and scope of the appended claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A lock guard for use with a padlock having a body and a shackle with a top curve and a securing connector having two ends, said lock guard comprising:
+<claim-text>a housing including
+<claim-text>an opposing pair of laterally spaced-apart and parallel rectangular side walls, each of said side walls having a top half, a bottom half, a fore edge, and an aft edge, said top half having a top edge and an opening therethrough dimensioned to receive at least one end of said two ends of said securing connector;</claim-text>
+<claim-text>a rectangular front wall attached to and spanning between said fore edges of said side walls, said front wall having a top edge;</claim-text>
+<claim-text>a rectangular back wall attached to and spanning between said aft edges of said side walls and having a top edge;</claim-text>
+<claim-text>a top wall attached to said top edges of said side walls, said front wall, and said back wall;</claim-text>
+</claim-text>
+<claim-text>a retainer tab attached to said front wall, said retainer tab extending rearward from said front wall and having an opening therethrough dimensioned to receive a portion of said shackle; and</claim-text>
+<claim-text>an abutment attached to said front wall, said abutment positioned between said retainer tab and said top wall so that, when said two ends of said securing connector are positioned on said retainer tab and said shackle is threaded through said two ends and said opening in said retainer tab and then said top curve of said shackle is forced against said abutment thereby forcing said shackle into said body, said padlock and said ends are locked inside said lock guard.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The lock guard as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said top wall has an elongated slot therethrough dimensioned to receive said top curve, said slot being substantially centrally spaced between said side walls and having a longitudinal axis substantially parallel with said top edges of said side walls.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The lock guard as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said retainer tab is attached to said side walls.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The lock guard as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said abutment is attached to said side walls.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The lock guard as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said retainer tab has two spaced-apart spacer bars that extend rearward from said retainer tab defining a gap, at least a portion of said shackle passing through said gap when said padlock is locked to said retainer tab, said spacer bars dimensioned so that, when said padlock is locked to said retainer tab, said shackle cannot be brought near said side walls to be cut with a tool through said openings in said side walls.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The lock guard as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said retainer tab has two spaced-apart spacer bars that extend rearward from said retainer tab defining a gap, at least a portion of said shackle passing through said gap when said padlock is locked to said retainer tab.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The lock guard as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said front wall has a top half and a bottom half and said top half has a viewing slot therethrough.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. A lock guard for use with a padlock having a body and an elongated shackle with a top curve and a securing connector having two ends, said lock guard comprising:
+<claim-text>a housing including
+<claim-text>an opposing pair of laterally spaced-apart rectangular side walls, each of said side walls having a top half, a bottom half, a fore edge, and an aft edge, said top half having a top edge and an opening therethrough dimensioned to receive at least one end of said two ends of said securing connector;</claim-text>
+<claim-text>a rectangular front wall attached to and spanning between said fore edges of said side walls, said front wall having a top edge;</claim-text>
+<claim-text>a rectangular back wall attached to and spanning between said aft edges of said side walls and having a top edge;</claim-text>
+<claim-text>a top wall attached to said top edges of said side walls, said front wall, and said back wall, said top wall having an elongated slot therethrough dimensioned to receive said top curve, said slot being substantially centrally spaced between said side walls and having a longitudinal axis substantially parallel with said top edges of said side walls; and</claim-text>
+</claim-text>
+<claim-text>a retainer tab attached to said front wall, said retainer tab extending rearward from said front wall and having an opening therethrough dimensioned to receive a portion of said shackle; and</claim-text>
+<claim-text>an abutment attached to said front wall, said abutment positioned between said retainer tab and said top wall so that, when said top curve is inserted into said elongated slot and said two ends of said securing connector are positioned on said retainer tab and then said shackle is threaded through said two ends and said opening in said retainer tab and said top curve of said shackle is forced against said abutment thereby forcing said shackle into said body, said padlock and said ends are locked inside said lock guard.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The lock guard as recited in <claim-ref idref="CLM-00008">claim 8</claim-ref> wherein said retainer tab is attached to said side walls.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The lock guard as recited in <claim-ref idref="CLM-00008">claim 8</claim-ref> wherein said abutment is attached to said side walls.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The lock guard as recited in <claim-ref idref="CLM-00008">claim 8</claim-ref> wherein said front wall has a top half and a bottom half and said top half has a viewing slot therethrough.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The lock guard as recited in <claim-ref idref="CLM-00008">claim 8</claim-ref> wherein said retainer tab has two spaced-apart spacer bars that extend rearward from said retainer tab defining a gap, at least a portion of said shackle passing through said gap when said padlock is locked to said retainer tab, said spacer bars dimensioned so that, when said padlock is locked to said retainer tab, said shackle cannot be brought near said side walls to be cut with a tool through said openings in said side walls.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The lock guard as recited in <claim-ref idref="CLM-00008">claim 8</claim-ref> wherein said retainer tab has two spaced-apart spacer bars that extend rearward from said retainer tab defining a gap, at least a portion of said shackle passing through said gap when said padlock is locked to said retainer tab.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The lock guard as recited in <claim-ref idref="CLM-00011">claim 11</claim-ref> wherein said slot in said top wall has a first width and said viewing slot has a second width, and wherein said first width and said second width are each not more than &#x215d; of an inch.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. A lock guard for use with a padlock having a body and a shackle with a top curve and a securing connector having two ends, said lock guard comprising:
+<claim-text>a housing including
+<claim-text>an opposing pair of laterally spaced-apart and parallel rectangular side walls, each of said side walls having a fore edge, an aft edge, and a top edge;</claim-text>
+<claim-text>a rectangular front wall attached to and spanning between said fore edges of said side walls, said front wall having a top edge;</claim-text>
+<claim-text>a rectangular back wall attached to and spanning between said aft edges of said side walls and having a top edge;</claim-text>
+<claim-text>a top wall attached to said top edges of said side walls, said front wall, and said back wall;</claim-text>
+</claim-text>
+<claim-text>a retainer tab attached to said front wall, said retainer tab extending rearward from said front wall and having an opening therethrough dimensioned to receive a portion of said shackle; and</claim-text>
+<claim-text>an abutment attached to said front wall, said abutment positioned between said retainer tab and said top wall so that, when said two ends of said securing connector are positioned on said retainer tab and said shackle is threaded through said two ends and said opening in said retainer tab and then said top curve of said shackle is forced against said abutment thereby forcing said shackle into said body, said padlock and said ends are locked inside said lock guard.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. A lock guard for use with a padlock having a body and a shackle with a top curve and a securing connector having two ends, said lock guard comprising:
+<claim-text>a housing including
+<claim-text>an opposing pair of laterally spaced-apart and parallel rectangular side walls, each of said side walls having a fore edge, an aft edge, and a top edge;</claim-text>
+<claim-text>a rectangular front wall attached to and spanning between said fore edges of said side walls, said front wall having a top edge;</claim-text>
+<claim-text>a rectangular back wall attached to and spanning between said aft edges of said side walls and having a top edge;</claim-text>
+<claim-text>a top wall attached to said top edges of said side walls, said front wall, and said back wall;</claim-text>
+</claim-text>
+<claim-text>a retainer tab spanning between and attached to said side walls, said retainer tab having at least one hole therethrough, each hole of said at least one hole having a top edge, said housing dimensioned and said retainer tab positioned and secured within said housing so that, when said shackle is threaded through said two ends of said securing connector and said at least one hole in said retainer tab, and said top curve of said shackle is forced against said top edge of said at least one hole forcing said shackle into said body, said padlock and said ends are locked inside said lock guard.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The lock guard as recited in <claim-ref idref="CLM-00016">claim 16</claim-ref> wherein said retainer tab is attached to said top wall.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The lock guard as recited in <claim-ref idref="CLM-00016">claim 16</claim-ref>, further comprising:
+<claim-text>a support, said support spanning between said retainer tab and said front wall so that said retainer tab is further supported within said housing.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

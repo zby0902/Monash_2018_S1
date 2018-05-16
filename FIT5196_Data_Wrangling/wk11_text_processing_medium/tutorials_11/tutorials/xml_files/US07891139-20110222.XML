@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891139-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891139</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11682461</doc-number>
+<date>20070306</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2006-089006</doc-number>
+<date>20060328</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>486</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>E</section>
+<class>06</class>
+<subclass>B</subclass>
+<main-group>3</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 49506</main-classification>
+<further-classification> 49 24</further-classification>
+<further-classification> 49360</further-classification>
+</classification-national>
+<invention-title id="d2e71">Door driving control method</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>3456387</doc-number>
+<kind>A</kind>
+<name>Tolson</name>
+<date>19690700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 49 31</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>3561160</doc-number>
+<kind>A</kind>
+<name>Chan</name>
+<date>19710200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 49 35</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>4433274</doc-number>
+<kind>A</kind>
+<name>Duhame</name>
+<date>19840200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>318283</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>4533901</doc-number>
+<kind>A</kind>
+<name>Lederle</name>
+<date>19850800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 49 28</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>4544865</doc-number>
+<kind>A</kind>
+<name>Sharp</name>
+<date>19851000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>318 53</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>5212908</doc-number>
+<kind>A</kind>
+<name>Norman</name>
+<date>19930500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 49 18</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>5226256</doc-number>
+<kind>A</kind>
+<name>Fries et al.</name>
+<date>19930700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 49 13</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>5782036</doc-number>
+<kind>A</kind>
+<name>Bertieri et al.</name>
+<date>19980700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 49 25</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>5983567</doc-number>
+<kind>A</kind>
+<name>Mitsuda</name>
+<date>19991100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 49 26</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>7064505</doc-number>
+<kind>B2</kind>
+<name>Sato et al.</name>
+<date>20060600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>7187987</doc-number>
+<kind>B2</kind>
+<name>Andersen</name>
+<date>20070300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>700 20</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>2005/0102903</doc-number>
+<kind>A1</kind>
+<name>Takahashi</name>
+<date>20050500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>2008/0236048</doc-number>
+<kind>A1</kind>
+<name>Kowalczyk et al.</name>
+<date>20081000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 49280</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>JP</country>
+<doc-number>2005-145240</doc-number>
+<kind>A</kind>
+<date>20050600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>JP</country>
+<doc-number>2005-349909</doc-number>
+<kind>A</kind>
+<date>20051200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>3</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 49 24</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 49360</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 49506</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>9</number-of-drawing-sheets>
+<number-of-figures>22</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090100758</doc-number>
+<kind>A1</kind>
+<date>20090423</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Nagakura</last-name>
+<first-name>Takayuki</first-name>
+<address>
+<city>Nagano</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Rabin &#x26; Berdo, PC</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Fuji Electric Systems Co., Ltd.</orgname>
+<role>03</role>
+<address>
+<city>Tokyo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Redman</last-name>
+<first-name>Jerry</first-name>
+<department>3634</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">In controlling, with recognition of their installation positions, the opening/closing driving of plural doors that are driven by respective linear motors, each door is driven closed by switching the door opening/closing drive torque to high torque if the drive speed of the door has become less than or equal to a prescribed speed. In doing so, operation instruction computing sections set high torque application periods for respective doors so that the periods of high-torque closure driving of respective doors or predetermined door groups do not overlap with each other, and issue instructions to drive the doors closed with high torque only during the high torque application periods.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="245.19mm" wi="246.63mm" file="US07891139-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="253.58mm" wi="185.59mm" file="US07891139-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="197.53mm" wi="130.47mm" orientation="landscape" file="US07891139-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="205.91mm" wi="159.17mm" file="US07891139-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="240.11mm" wi="148.08mm" orientation="landscape" file="US07891139-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="204.98mm" wi="169.84mm" orientation="landscape" file="US07891139-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="172.97mm" wi="159.60mm" file="US07891139-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="223.94mm" wi="94.83mm" orientation="landscape" file="US07891139-20110222-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="102.28mm" wi="167.56mm" file="US07891139-20110222-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="248.92mm" wi="112.95mm" orientation="landscape" file="US07891139-20110222-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0002" num="0001">1. Field of the Invention</p>
+<p id="p-0003" num="0002">The present invention relates to a door driving control apparatus for controlling, in a train or the like, the opening/closure driving of a vehicle door that is opened and closed by a motor.</p>
+<p id="p-0004" num="0003">2. Description of the Related Art</p>
+<p id="p-0005" num="0004">In automatic opening/closing doors for getting passengers on/off of trains, automobiles, etc., from the viewpoint of power saving, protection from burning of door driving motors, and prevention of erroneous operation during running, usually each door is driven by supplying electric power to a door driving motor only in opening or closing it and in other situations (the door is closed) the door is locked mechanically by means of a locking device such as a lock pin and no electric power is supplied to the door driving motor.</p>
+<p id="p-0006" num="0005"><figref idref="DRAWINGS">FIG. 6</figref> shows the configuration of a conventional door driving control apparatus for a railway vehicle. The door driving control apparatus <b>10</b> is equipped with an operation instruction computing section <b>11</b>, a power conversion section <b>12</b>, and a communication interface <b>14</b> and is connected to a power source <b>21</b>, a linear motor <b>2</b>, a position detector <b>5</b> which are provided on a vehicle body <b>20</b> and a train control apparatus <b>22</b> provided in a motorman's cab.</p>
+<p id="p-0007" num="0006">Linear motor <b>2</b>, a movable portion of which is connected to a link portion <b>3</b> provided on a door <b>1</b>, opening/closure-drives the door <b>1</b>. The door <b>1</b> is provided with a locking device <b>7</b> for fixing the door <b>1</b> mechanically. The position detector <b>5</b> detects a position and a speed of the movable portion of the linear motor <b>2</b> and outputs a thus-acquired door position detection value S<b>1</b> to the operation instruction computing section <b>11</b>.</p>
+<p id="p-0008" num="0007">Among three phase lines (having U, V, and W phases) which connect the power conversion section <b>12</b> to the linear motor <b>2</b>, output current detectors <b>4</b> are connected to the U-phase and W-phase lines, respectively. Output current detection values S<b>2</b> obtained by detecting a U-phase current and a W-phase current with the output current detectors <b>4</b> are input to the operation instruction computing section <b>11</b>.</p>
+<p id="p-0009" num="0008">With the above configuration, when receiving a door operation instruction signal S<b>3</b> from the train control apparatus <b>22</b>, the operation instruction computing section <b>11</b> performs door speed feedback control using the door position detection value Si and the output current detection values S<b>2</b>. The power conversion section <b>12</b> converts the power from the power source <b>21</b> according to this control. The linear motor <b>2</b> is supplied with converted power and its driving is thereby controlled. The door <b>1</b> is opening/closure-driven as a result of this driving of the linear motor <b>2</b>.</p>
+<p id="p-0010" num="0009">Door driving control apparatus <b>10</b> for controlling the opening and closing of the door <b>1</b> is provided for each door (e.g., each of first to eighth doors) as indicated by reference symbols <b>10</b>-<b>1</b> to <b>10</b>-<b>8</b> in <figref idref="DRAWINGS">FIG. 7</figref> and is connected to the train control apparatus <b>22</b> via the communication interface <b>14</b>.</p>
+<p id="p-0011" num="0010">As exemplified in <figref idref="DRAWINGS">FIG. 8</figref>, door installation positions are discriminated from each other by setting addresses A<b>1</b>-A<b>8</b> for the respective door positions in each car and storing the addresses A<b>1</b>-A<b>8</b> in the respective door driving control apparatus <b>10</b>-<b>1</b> to <b>10</b>-<b>8</b>.</p>
+<p id="p-0012" num="0011">In automatic opening/closing doors for trains, automobiles, etc., when a high pressure is exerted on the door <b>1</b> by passengers in a fully jammed car, for example, and the friction of the door <b>1</b> is thereby made unduly high or a foreign object is pinched by the door <b>1</b>, correct operation of the door <b>1</b> is secured by increasing the driving force for the door <b>1</b>, opening and closing the door again (i.e., temporarily opening the door <b>1</b> being closed and starting a closing operation again after a lapse of a prescribed time with an assumption that a passenger, a bag, or the like has escaped or has been removed) after increasing the driving force for a prescribed time, or performing a like operation. However, when foreign objects are pinched by plural doors <b>1</b>, the driving force is increased for all of those doors <b>1</b> and hence the total power consumption becomes large.</p>
+<p id="p-0013" num="0012">As shown in <figref idref="DRAWINGS">FIG. 9</figref>, usually the plural door driving control apparatus <b>10</b>-<b>1</b> to <b>10</b>-<b>8</b> of a car are connected to the power source <b>21</b> which is provided for the same vehicle body as the door driving control apparatus <b>10</b>-<b>1</b> to <b>10</b>-<b>8</b> are provided on, and other apparatus such as an air conditioner <b>31</b> and an inverter apparatus for fluorescent lamps are also connected to the power source <b>21</b>. Therefore, if the total power consumption becomes large as a result of an increase in the door driving force for plural doors, the voltage of the power source <b>21</b> decreases, which may adversely affect the operation of other apparatus in the same car as exemplified by flickering of fluorescent lamps.</p>
+<p id="p-0014" num="0013">Exemplary countermeasures against the above problem are disclosed in JP-A-2005-145240 and JP-A-2005-73381. In JP-A-2005-145240, the fact that high torque is being output for one or some of the doors of the same power supply system is communicated between the door driving control apparatus <b>10</b>-<b>1</b> to <b>10</b>-<b>8</b> via the communication interfaces <b>14</b> over the inter-car network. Each door driving control apparatus outputs low torque while high torque is being output for another or other doors. In this manner, adjustments are made so that the power consumption of the entire car does not become unduly large.</p>
+<p id="p-0015" num="0014">In JP-A-2005-73381, each of the door driving control apparatus <b>10</b>-<b>1</b> to <b>10</b>-<b>8</b> restrict output torque in accordance with its input voltage or input current. In this manner, adjustments are made so that the power consumption of the entire car does not become unduly large.</p>
+<p id="p-0016" num="0015">However, the information that can be communicated over the inter-car network depends on the vehicle type. Therefore, information as to whether high torque is being output may not be available in certain vehicle types, in which case the technique of JP-A-2005-145240 cannot be utilized.</p>
+<p id="p-0017" num="0016">In the technique of JP-A-2005-73381, when an attempt is made to output high torque for all doors, the power supply voltage is lowered and the output torque is thereby restricted. This results in a problem that with restricted output torque the doors may not be operated or locked.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0018" num="0017">The present invention has been made to solve the above problems, and an object of the invention is therefore to provide a door driving control apparatus which makes it possible to output high torque for each door and thereby operate it and lock it reliably without reduction in power supply voltage even in the case where information as to whether high torque is being output cannot be communicated between door driving control apparatus.</p>
+<p id="p-0019" num="0018">To attain the above object, the invention provides a door driving control apparatus which drives a door closed by setting door opening/closing drive torque to ordinary torque or high torque when opening/closing driving of plural doors that are driven by respective motors is controlled, comprising setting means for setting a high torque application period for the door so that periods of high-torque closure driving of respective doors or predetermined door groups do not overlap with each other, and instructing means for issuing an instruction to drive the door closed with high torque only during the high torque application period thus set.</p>
+<p id="p-0020" num="0019">With this configuration, when high torque is necessary for plural doors, those doors can be driven open and closed with high torque in such a manner that the periods of high-torque driving of those doors do not overlap with each other even in the case where information as to whether high torque is being output cannot be communicated between the door driving control apparatus. Therefore, the power supply voltage does not decrease due to overlap between periods of high-torque driving and hence each door can be operated with high torque.</p>
+<p id="p-0021" num="0020">In the above door driving control apparatus, the instructing means may be such as to issue, at the end of the high torque application period, an instruction to perform a door re-opening and closing operation.</p>
+<p id="p-0022" num="0021">With this measure, a re-opening and closing operation is performed additionally at the end of a high torque application period in the control that prevents overlap between high-torque driving states of plural doors. Therefore, when foreign objects are pinched by plural doors, the plural doors can be closed with high torque without causing a decrease in power supply voltage and the foreign objects can be removed more properly.</p>
+<p id="p-0023" num="0022">In the above door driving control apparatus, the instructing means may be such as to issue an instruction to perform ordinary door closing driving without employing high torque if a door drive speed exceeds a predetermined speed in the high torque application period.</p>
+<p id="p-0024" num="0023">With this measure, an ordinary closing operation is performed if the door drive speed exceeds the predetermined speed in a high torque application period, that is, if a foreign object is removed during a closing operation of high torque. This dispenses with an unnecessary re-opening and closing operation and hence prevents useless power consumption.</p>
+<p id="p-0025" num="0024">As described above, the invention provides an advantage that high torque can be output for each door and each door can thereby be operated and locked reliably without reduction in power supply voltage even in the case where information as to whether high torque is being output cannot be communicated between door driving control apparatus.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIGS. 1A and 1B</figref> show the configuration of a door driving control apparatus for a railway vehicle according to a first embodiment of the present invention.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIGS. 2A to 2F</figref> are a timing chart illustrating opening/closing driving for plural doors of the door driving control apparatus according to the first embodiment.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 3</figref> is a flowchart of a process where a door large output permission flag is set by an operation instruction computing section of the door driving control apparatus according to the first embodiment.</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 4</figref> is a block diagram showing the configuration of an operation instruction computing section of a door driving control apparatus for a railway vehicle according to a second embodiment of the invention.</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIGS. 5A to 5H</figref> are a timing chart illustrating opening/closing driving for plural doors of the door driving control apparatus according to the second embodiment.</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. 6</figref> shows the configuration of a conventional door driving control apparatus for a railway vehicle.</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. 7</figref> shows how plural conventional door driving control apparatus for a railway vehicle are connected to a train control apparatus via communication lines.</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. 8</figref> shows an exemplary manner of assignment of addresses to respective doors that are controlled by the door driving control apparatus.</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. 9</figref> shows an exemplary configuration of connections of door driving control apparatus, a power source, and other apparatus of the same car.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DESCRIPTION OF THE PREFERRED EMBODIMENTS</heading>
+<p id="p-0035" num="0034">Embodiments of the present invention will be hereinafter described with reference to the drawings.</p>
+<heading id="h-0005" level="1">First Embodiment</heading>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIGS. 1A and 1B</figref> show the configuration of a door driving control apparatus for a railway vehicle according to a first embodiment of the invention.</p>
+<p id="p-0037" num="0036">The door driving control apparatus <b>40</b> of <figref idref="DRAWINGS">FIG. 1A</figref> is equipped with an operation instruction computing section <b>41</b>, a power conversion section <b>12</b>, and a communication interface <b>14</b>, and is different from the conventional door driving control apparatus <b>10</b> of <figref idref="DRAWINGS">FIG. 6</figref> in that, as shown in <figref idref="DRAWINGS">FIG. 1B</figref>, the operation instruction computing section <b>41</b> is equipped with a timer section <b>43</b>, a comparison/judgment section <b>44</b>, a flag setting section <b>45</b> for setting and resetting a door large output permission flag <b>45</b><i>a</i>, and a door opening/closure instructing section <b>46</b>.</p>
+<p id="p-0038" num="0037">The timer section <b>43</b> starts a timer operation upon reception of a door operation instruction signal S<b>3</b> from the train control apparatus <b>22</b>. The timer section <b>43</b> is configured so as to be cleared if it expires in a state that the door large output permission flag <b>45</b><i>a </i>is set.</p>
+<p id="p-0039" num="0038">An offset value, which is output from the train control apparatus <b>22</b> in accordance with a door installation position recognized by a corresponding one of the addresses A<b>1</b>-A<b>8</b> (see <figref idref="DRAWINGS">FIG. 8</figref>), is set in the timer section <b>43</b>. The offset value is output when there is no door operation instruction signal S<b>3</b>. The offset values serve to deviate output timings of high torque for doors of one car from each other and thereby prevent the doors from causing a heavy load collectively when they are closed. That is, the doors are closed with timings that are deviated from each other in order on a door-by-door basis or a door group basis.</p>
+<p id="p-0040" num="0039">The comparison/judgment section <b>44</b> compares a timer measurement time S<b>5</b> of the timer section <b>43</b> with a preset door large output setting time S<b>6</b> and judges whether or not the timer measurement time S<b>5</b> is longer than or equal to the preset door large output setting time S<b>6</b>.</p>
+<p id="p-0041" num="0040">If the comparison/judgment section <b>44</b> judges that the timer measurement time S<b>5</b> is not longer than or equal to the preset door large output setting time S<b>6</b>, the flag setting section <b>45</b> keeps a state that the door large output permission flag <b>45</b><i>a </i>is reset. If the comparison/judgment section <b>44</b> judges that the timer measurement time S<b>5</b> is longer than or equal to the preset door large output setting time S<b>6</b>, the flag setting section <b>45</b> sets the door large output permission flag <b>45</b><i>a. </i></p>
+<p id="p-0042" num="0041">As shown in <figref idref="DRAWINGS">FIG. 2A</figref>, the door large output permission flag <b>45</b><i>a </i>is set at time t<b>1</b>. When the timer section <b>43</b> expires at time t<b>3</b>, the timer section <b>43</b> is cleared. As a result, the timer measurement time S<b>5</b> becomes shorter than the door large output setting time S<b>6</b> and hence the door large output permission flag <b>45</b><i>a </i>is reset immediately at time t<b>3</b>.</p>
+<p id="p-0043" num="0042">At this time, if the input of the door operation instruction signal S<b>3</b> is continuing, the timer section <b>43</b> again starts a timer operation. If it is judged again at time t<b>4</b> that the timer measurement time S<b>5</b> is longer than or equal to the door large output setting time S<b>6</b>, the door large output permission flag <b>45</b><i>a </i>is set and kept set until the timer section <b>43</b> expires at time t<b>6</b>.</p>
+<p id="p-0044" num="0043">That is, the door large output permission flag <b>45</b><i>a </i>is kept in a reset state during a time width (called &#x201c;reset time width&#x201d;) from the start of a timer operation of the timer section <b>43</b> to the end of the door large output setting time S<b>6</b>, and is rendered in a set state during a time width (called &#x201c;set time width&#x201d;) from a time point when the timer measurement time S<b>5</b> becomes greater than or equal to the door large output setting time S<b>6</b> (i.e., the above-mentioned end of the door large output setting time S<b>6</b>) to a time point when the timer section <b>43</b> expires Therefore, the set time width and the reset time width appear repeatedly and alternately. Each of the set time width and the reset time width can be varied by changing the door large output setting time S<b>6</b>.</p>
+<p id="p-0045" num="0044">The door opening/closing instructing section <b>46</b> outputs a door output instruction value S<b>7</b> for opening or closing the door <b>1</b> to the power conversion section <b>12</b> in response to a door operation instructing signal S<b>3</b> as an opening/closure instruction. Furthermore, the door opening/closure instructing section <b>46</b> outputs a door output instruction value S<b>7</b> for driving the door <b>1</b> with high torque to the power conversion section <b>12</b> if the door drive speed which can be recognized on the basis of a door position detection value S<b>1</b> becomes lower than a prescribed value in a state that the door large output permission flag <b>45</b><i>a </i>is set.</p>
+<p id="p-0046" num="0045">A process that the door large output permission flag <b>45</b><i>a </i>is set by the above-configured operation instruction computing section <b>41</b> will be described with reference to a flowchart of <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0047" num="0046">First, if it is judged at step ST<b>1</b> that no door operation instruction signal S<b>3</b> is input to the operation instruction computing section <b>41</b>, at step ST<b>2</b> offset values which are output from the train control apparatus <b>22</b> in accordance with the installation positions of the respective doors <b>1</b> are set in the timer sections <b>43</b> for the respective doors <b>1</b>.</p>
+<p id="p-0048" num="0047">On the other hand, if a door operation instruction signal S<b>3</b> is input, the timer section <b>43</b> starts a timer operation at step ST<b>3</b>.</p>
+<p id="p-0049" num="0048">After the timer operation was started, the comparison/judgment section <b>44</b> judges at step ST<b>4</b> whether or not a timer measurement time S<b>5</b> is longer than or equal to the door large output setting time S<b>6</b>. If it is judged that the timer measurement time S<b>5</b> is not longer than or equal to the door large output setting time S<b>6</b>, at step ST<b>5</b> the flag setting section <b>45</b> keeps the door large output permission flag <b>45</b><i>a </i>in a reset state.</p>
+<p id="p-0050" num="0049">On the other hand, if it is judged that the timer measurement time S<b>5</b> is greater than or equal to the door large output setting time S<b>6</b>, at step ST<b>6</b> the flag setting section <b>45</b> sets the door large output permission flag <b>45</b><i>a</i>. If the timer section <b>43</b> expires at step ST<b>7</b>, the timer section <b>43</b> is cleared at step ST<b>8</b>.</p>
+<p id="p-0051" num="0050">Next, an operation that the door <b>1</b> is opened or closed after the door large output permission flag <b>45</b><i>a </i>was set in the above-described manner will be described with reference to the timing chart of <figref idref="DRAWINGS">FIGS. 2A to 2F</figref>.</p>
+<p id="p-0052" num="0051"><figref idref="DRAWINGS">FIGS. 2A to 2F</figref> relate to only the first and second doors. More specifically, <figref idref="DRAWINGS">FIGS. 2A and 2D</figref> show how the door large output permission flags <b>45</b><i>a </i>for those doors are set so as not to overlap with each other in time. <figref idref="DRAWINGS">FIGS. 2C and 2F</figref> show how high torque is output while the door large output permission flags <b>45</b><i>a </i>are set as shown in <figref idref="DRAWINGS">FIGS. 2A and 2D</figref>. For comparison with the control according to this embodiment, <figref idref="DRAWINGS">FIGS. 2B and 2E</figref> show how high torque is output in a conventional control.</p>
+<p id="p-0053" num="0052">It is assumed that, as shown in <figref idref="DRAWINGS">FIGS. 2A and 2D</figref>, the door large output permission flag for the first door (first door large output permission flag) <b>45</b><i>a </i>is set during a set time width from time t<b>1</b> to t<b>3</b> and a set time width from time t<b>4</b> to t<b>6</b> and the door large output permission flag for the second door (second door large output permission flag) <b>45</b><i>a </i>is set during a set time width from time t<b>0</b> to t<b>1</b> and a set time width from time t<b>3</b> to t<b>4</b>.</p>
+<p id="p-0054" num="0053">It is assumed that at time t<b>0</b> a door operation instruction value S<b>3</b> which is a door closure instruction is input from the train control apparatus <b>22</b> to the door opening/closure instructing sections <b>46</b>, whereby the first and second doors are subjected to closing operations of ordinary torque (indicated by level &#x201c;L&#x201d;).</p>
+<p id="p-0055" num="0054">Also assume that both doors collide with certain foreign objects at time t<b>2</b> during the closing operations and the foreign objects are removed and ordinary operations are restored at time t<b>5</b>. In the conventional control, as shown in <figref idref="DRAWINGS">FIGS. 2B and 2E</figref>, both doors are subjected to closing operations with high torque (indicated by level &#x201c;H&#x201d;) while the foreign objects are kept pinched (from time t<b>2</b> to t<b>5</b>). Therefore, in the conventional control, high-torque states of the plural doors overlap with each other in time. A high power is consumed and the power supply voltage of the car concerned thereby decreases during the overlap period.</p>
+<p id="p-0056" num="0055">In contrast, in the embodiment as shown in <figref idref="DRAWINGS">FIG. 2C</figref>, the first door is subjected to a closing operation of high torque only while the door large output permission flag <b>45</b><i>a </i>is set (i.e., from time t<b>2</b> to t<b>3</b> and from time t<b>4</b> to t<b>5</b>). And, as shown in <figref idref="DRAWINGS">FIG. 2F</figref>, the second door is subjected to a closing operation of high torque only during a period from time t<b>3</b> to t<b>4</b> that does not overlap with the high-torque closing operation periods for the first door. In this manner, the high-torque states of the plural doors do not overlap with each other in time.</p>
+<p id="p-0057" num="0056">As described above, according to the door driving control of the door driving control apparatus <b>40</b> according to the first embodiment, when high torque is necessary for plural doors, those doors can be opening/closure-driven with high torque in such a manner that the periods of driving of those doors do not overlap with each other even in the case where information as to whether high torque is being output cannot be communicated between the door driving control apparatus <b>40</b>. Therefore, the power supply voltage does not decrease and each door can be operated with high torque.</p>
+<p id="p-0058" num="0057">As a result, unlike in the conventional case, an event can be avoided where the output torque is restricted due to reduction in power supply voltage and doors cannot be operated properly (they are not locked) In other words, the doors can be locked reliably.</p>
+<heading id="h-0006" level="1">Second Embodiment</heading>
+<p id="p-0059" num="0058"><figref idref="DRAWINGS">FIG. 4</figref> is a block diagram showing the configuration of an operation instruction computing section of a door driving control apparatus for a railway vehicle according to a second embodiment of the invention.</p>
+<p id="p-0060" num="0059">The operation instruction computing section instructing means <b>51</b> of <figref idref="DRAWINGS">FIG. 4</figref> is equipped with, in addition to the components <b>43</b>-<b>46</b> of the operation instruction computing section <b>41</b> of <figref idref="DRAWINGS">FIG. 1B</figref>, a speed calculating section <b>53</b>, a speed comparison/judgment section <b>54</b>, a flag setting section <b>55</b> for setting and resetting a door foreign object detection flag <b>55</b><i>a</i>, and a flag status judging section <b>56</b>. However, in <figref idref="DRAWINGS">FIG. 4</figref>, the door opening/closing instructing section of the second embodiment is denoted by reference numeral <b>57</b> because as described later its processing is different from the processing of the door opening/closure instructing section <b>46</b> shown in <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0061" num="0060">The speed calculating section <b>53</b> calculates a door speed S<b>8</b> on the basis of a door position detection value S<b>1</b>.</p>
+<p id="p-0062" num="0061">The speed comparison/judgment section <b>54</b> compares the calculated door speed S<b>8</b> with a preset threshold speed S<b>9</b>, judges whether the calculated door speed S<b>8</b> is less than or equal to the threshold speed S<b>9</b>, and outputs a judgment result.</p>
+<p id="p-0063" num="0062">If the speed comparison/judgment section <b>54</b> judges that the door speed S<b>8</b> is less than or equal to the threshold speed S<b>9</b>, the flag setting section <b>55</b> sets the door foreign object detection flag <b>55</b><i>a. </i></p>
+<p id="p-0064" num="0063">The flag status judging section <b>56</b> judges the set/reset statuses of the door large output permission flag <b>45</b><i>a </i>and the door foreign object detection flag <b>55</b><i>a. </i></p>
+<p id="p-0065" num="0064">The door opening/closing instructing section <b>57</b> outputs a door output instruction value S<b>7</b> for closing the door <b>1</b> with high torque only if the flag status judging section <b>56</b> judges that both of the door large output permission flag <b>45</b><i>a </i>and the door foreign object detection flag <b>55</b><i>a </i>are set. If a transition occurs from a state of both flags <b>45</b><i>a </i>and <b>55</b><i>a </i>being set to a state of the door large output permission flag <b>45</b><i>a </i>being reset, the door opening/closing instructing section <b>57</b> outputs a door output instruction value S<b>7</b> for causing a re-opening and closing operation in which the door <b>1</b> will be opened for a prescribed time and then subjected to an ordinary closing operation (output torque: not high torque) If a transition occurs from a state of both flags <b>45</b><i>a </i>and <b>55</b><i>a </i>being set to a state of the door foreign object detection flag <b>55</b><i>a </i>being reset, the door opening/closure instructing section <b>57</b> outputs a door output instruction value S<b>7</b> for subjecting the door <b>1</b> to an ordinary closing operation.</p>
+<p id="p-0066" num="0065">A re-opening and closing operation which is caused by the above-configured operation instruction computing section <b>51</b> when foreign objects are pinched by doors will now be described with reference to a timing chart of <figref idref="DRAWINGS">FIGS. 5A to 5H</figref>.</p>
+<p id="p-0067" num="0066"><figref idref="DRAWINGS">FIGS. 5A to 5H</figref> relate to only the first and second doors. More specifically, <figref idref="DRAWINGS">FIGS. 5A and 5E</figref> show how the door large output permission flags <b>45</b><i>a </i>for those doors are set so as not to overlap with each other in time. <figref idref="DRAWINGS">FIGS. 5B and 5F</figref> show how the door foreign object detection flags <b>55</b><i>a </i>are set. <figref idref="DRAWINGS">FIGS. 5D and 5H</figref> show how high torque is output while the flags <b>45</b><i>a </i>and the flags <b>55</b><i>a </i>are set as shown in <figref idref="DRAWINGS">FIGS. 5A and 5E</figref> and <figref idref="DRAWINGS">FIGS. 5B and 5F</figref>. For comparison with the control according to this embodiment, <figref idref="DRAWINGS">FIGS. 5C and 5G</figref> show how high torque is output in a conventional control.</p>
+<p id="p-0068" num="0067">It is assumed that at time t<b>0</b> a door operation instruction value S<b>3</b> which is a door closure instruction is input from the train control apparatus <b>22</b> to the door opening/closure instructing sections <b>46</b>, whereby the first and second doors are subjected to closing operations of ordinary output torque (indicated by level &#x201c;L&#x201d;).</p>
+<p id="p-0069" num="0068">Operations to be performed after time t<b>0</b> will now be described starting from an operation relating to the first door. If the first door collides with a certain foreign object during the closing operation, the door speed decreases. If the speed comparison/judgment section <b>54</b> judges at time t<b>1</b> that the door speed S<b>8</b> has become less than or equal to the threshold speed S<b>9</b>, the flag setting section <b>55</b> sets the first door foreign object detection flag <b>55</b><i>a </i>as shown in <figref idref="DRAWINGS">FIG. 5B</figref>.</p>
+<p id="p-0070" num="0069">Then, when the first door large output permission flag <b>45</b><i>a </i>is set at time t<b>2</b> as shown in <figref idref="DRAWINGS">FIG. 5A</figref>, the flag status judging section <b>56</b> judges that both of the first door large output permission flag <b>45</b><i>a </i>and the first door foreign object detection flag <b>55</b><i>a </i>are set. Receiving this judgment result, the door opening/closing instructing section <b>57</b> outputs to the power conversion section <b>12</b> a door output instruction value S<b>7</b> for closing the first door with high torque. The first door is closed with high torque (indicated by level &#x201c;H&#x201d; in <figref idref="DRAWINGS">FIG. 5D</figref>), which is a foreign object pressing operation.</p>
+<p id="p-0071" num="0070">When the flag status judging section <b>56</b> judges at time t<b>5</b> that the first door large output permission flag <b>45</b><i>a </i>has made a transition to a reset state (see <figref idref="DRAWINGS">FIG. 5A</figref>), the door opening/closing instructing section <b>57</b> outputs a door output instructing value S<b>7</b> for subjecting the first door to a re-opening and closing operation. As a result, as shown in <figref idref="DRAWINGS">FIG. 5D</figref>, the first door is subjected to a re-opening and closing operation including an opening operation from time t<b>5</b> to t<b>6</b>. The door speed increases during the opening operation. When the speed comparison/judgment section <b>54</b> finds the speed increase, the flag setting section <b>55</b> resets the first door foreign object detection flag <b>55</b><i>a </i>at time t<b>5</b> as shown in FIG.</p>
+<p id="p-0072" num="0071">Then, the first door collides with the foreign object again and the door speed decreases. If the speed comparison/judgment section <b>54</b> judges at time t<b>7</b> that the door speed S<b>8</b> has become lower than or equal to the threshold speed S<b>9</b>, the flag setting section <b>55</b> sets the first door foreign object detection flag <b>55</b><i>a </i>as shown in <figref idref="DRAWINGS">FIG. 5B</figref>. While the first door large output permission flag <b>45</b><i>a </i>is kept set from time t<b>9</b> to t<b>10</b> as shown in <figref idref="DRAWINGS">FIG. 5A</figref>, the first door is subjected to a closing operation of high torque in response to a door output instruction value S<b>7</b> for closing the first door with high torque (see <figref idref="DRAWINGS">FIG. 5D</figref>).</p>
+<p id="p-0073" num="0072">Next, an operation relating to the second door will be described. As already described above in the first embodiment, for the second door, as shown in <figref idref="DRAWINGS">FIG. 5E</figref>, the second door large output permission flag <b>45</b><i>a </i>is set in the reset periods of the first door large output permission flag <b>45</b><i>a </i>(see <figref idref="DRAWINGS">FIG. 5A</figref>) to avoid overlaps.</p>
+<p id="p-0074" num="0073">If the second door collides with a certain foreign object during the closing operation which is performed after time t<b>0</b>, the door speed decreases. If the speed comparison/judgment section <b>54</b> judges at time t<b>1</b> that the door speed S<b>8</b> has become lower than or equal to the threshold speed S<b>9</b>, the flag setting section <b>55</b> sets the second door foreign object detection flag <b>55</b><i>a </i>as shown in <figref idref="DRAWINGS">FIG. 5F</figref>.</p>
+<p id="p-0075" num="0074">At this time, the flag status judging section <b>56</b> judges that both of the second door large output permission flag <b>45</b><i>a </i>and the second door foreign object detection flag <b>55</b><i>a </i>are set. Receiving this judgment result, the door opening/closing instructing section <b>57</b> outputs a door output instruction value S<b>7</b> for closing the second door with high torque. The second door is closed with high torque (indicated by level &#x201c;H&#x201d; in <figref idref="DRAWINGS">FIG. 5H</figref>), which is a foreign object pressing operation.</p>
+<p id="p-0076" num="0075">When the flag status judging section <b>56</b> judges at time t<b>2</b> (i.e., soon after time t<b>1</b>) that the second door large output permission flag <b>45</b><i>a </i>has made a transition to a reset state (see <figref idref="DRAWINGS">FIG. 5E</figref>), the door opening/closure instructing section <b>57</b> outputs a door output instructing value S<b>7</b> for subjecting the second door to a re-opening and closing operation. As a result, as shown in <figref idref="DRAWINGS">FIG. 5H</figref>, the second door is subjected to a re-opening and closing operation including an opening operation from time t<b>2</b> to t<b>3</b>. The door speed increases during the opening operation When the speed comparison/judgment section <b>54</b> finds the speed increase, the flag setting section <b>55</b> resets the second door foreign object detection flag <b>55</b><i>a </i>at time t<b>2</b> as shown in <figref idref="DRAWINGS">FIG. 5F</figref>.</p>
+<p id="p-0077" num="0076">Then, the second door collides with the foreign object again and the door speed decreases. If the speed comparison/judgment section <b>54</b> judges at time t<b>4</b> that the door speed S<b>8</b> has become lower than or equal to the threshold speed S<b>9</b>, the flag setting section <b>55</b> sets the second door foreign object detection flag <b>55</b><i>a </i>as shown in <figref idref="DRAWINGS">FIG. 5F</figref>. Assume that the second door large output permission flag <b>45</b><i>a </i>is kept set from time t<b>5</b> to t<b>9</b> as shown in <figref idref="DRAWINGS">FIG. 5E</figref> and the foreign object is removed and the second door foreign object detection flag <b>55</b><i>a </i>is reset at time t<b>8</b> as shown in <figref idref="DRAWINGS">FIG. 5F</figref>.</p>
+<p id="p-0078" num="0077">In this case, the second door is subjected to a closing operation of high torque from the period from time t<b>5</b> to t<b>8</b> when the flags <b>45</b><i>a </i>and <b>55</b><i>a </i>are set (see <figref idref="DRAWINGS">FIG. 5H</figref>). At time t<b>8</b>, only the second door foreign object detection flag <b>55</b><i>a </i>makes a transition to a reset state and hence the door opening/closure instructing section <b>57</b> outputs a door output instruction value S<b>7</b> for subjecting the second door to an ordinary closing operation (see <figref idref="DRAWINGS">FIG. 5H</figref>) The second door is thereby subjected to an ordinary closing operation.</p>
+<p id="p-0079" num="0078">As described above, according to the door driving control of the door driving control apparatus <b>40</b> according to the second embodiment, high-torque states of the first and second doors are prevented from overlapping with each other in time. Furthermore, when the door large output permission flag <b>45</b><i>a </i>is reset while the door is subjected to a closing operation of high torque, the closing operation is finished and a re-opening and closing operation is started immediately. When foreign objects are pinched by plural doors, this measure makes it possible to close the plural doors with high torque without decrease in power supply voltage and to remove the foreign objects more properly. If a foreign object is removed during a closing operation of high torque, an ordinary closing operation is performed. This dispenses with an unnecessary re-opening and closing operation and hence prevents useless power consumption.</p>
+<p id="p-0080" num="0079">In the conventional case, as shown in <figref idref="DRAWINGS">FIGS. 5C and 5G</figref>, a high-torque closing operation is performed while the door foreign object detection flag <b>55</b><i>a </i>is set. Therefore, high-torque states of plural doors overlap with each other in time. A high power is consumed and the power supply voltage of the car concerned thereby decreases during the overlap periods.</p>
+<p id="p-0081" num="0080">It should, of course, be appreciated that the invention may be practiced otherwise than as specifically disclosed herein without departing from the scope thereof.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A method for controlling driving of plural groups of at least one door, each said group driven by at least one respective motor, comprising the steps of:
+<claim-text>setting a door drive torque to either a first torque or a second torque that is higher than said first torque;</claim-text>
+<claim-text>setting first torque application periods for application of said first torque to said groups;</claim-text>
+<claim-text>setting second torque application periods for application of said second torque to said groups;</claim-text>
+<claim-text>issuing an instruction to drive each said group with said first torque only during its respective said first torque application period; and</claim-text>
+<claim-text>issuing an instruction to drive each said group with said second torque only during its respective said second torque application period,</claim-text>
+<claim-text>wherein each respective said second torque application period does not overlap in time with any other second torque application period for any other group of doors.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising the step of performing a door re-opening and closing operation at an end of at least one said second torque application period.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising the step of setting said door drive torque to said first torque if a door drive speed exceeds a predetermined speed in said second torque application period. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

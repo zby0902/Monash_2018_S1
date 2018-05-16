@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891084-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891084</doc-number>
+<kind>B1</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11633298</doc-number>
+<date>20061204</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>1114</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>23</class>
+<subclass>P</subclass>
+<main-group>19</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 29760</main-classification>
+<further-classification> 294265</further-classification>
+</classification-national>
+<invention-title id="d2e53">Extraction device for removing a quick-change tool holder from a base block mounting</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>4989312</doc-number>
+<kind>A</kind>
+<name>Maddalena</name>
+<date>19910200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>6220671</doc-number>
+<kind>B1</kind>
+<name>Montgomery, Jr.</name>
+<date>20010400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>2003/0015907</doc-number>
+<kind>A1</kind>
+<name>Sollami</name>
+<date>20030100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>2006/0022510</doc-number>
+<kind>A1</kind>
+<name>Sansone</name>
+<date>20060200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>18</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 294265</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29700</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29760</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 297603</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29243</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29259</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29278</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29280</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29282</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 294261</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>408147</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>411296</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>5</number-of-drawing-sheets>
+<number-of-figures>11</number-of-figures>
+</figures>
+<us-related-documents>
+<continuation-in-part>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>10998432</doc-number>
+<date>20041129</date>
+</document-id>
+<parent-status>ABANDONED</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>11633298</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation-in-part>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Sollami</last-name>
+<first-name>Phillip A.</first-name>
+<address>
+<city>Herrin</city>
+<state>IL</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Marsh</last-name>
+<first-name>Robert L.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>The Sollami Company</orgname>
+<role>02</role>
+<address>
+<city>Herrin</city>
+<state>IL</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Hong</last-name>
+<first-name>John C</first-name>
+<department>3726</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A device for extracting a tool holder from a base block mounting has a front plate and a pair of rearwardly extending arms contacting the base block mounting. An extraction nut has at least two parallel threaded holes therein. A threaded stud is threaded into one of the threaded holes and the length extends through a hole in the front plate and through the tool holder and is retained by a nut. An extraction bolt is threaded through the second threaded hole of the extraction nut with the distal end engaging the front plate.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="173.14mm" wi="236.64mm" file="US07891084-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="239.27mm" wi="147.15mm" file="US07891084-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="241.72mm" wi="172.04mm" orientation="landscape" file="US07891084-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="153.50mm" wi="171.62mm" file="US07891084-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="244.77mm" wi="176.19mm" file="US07891084-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="226.82mm" wi="170.52mm" file="US07891084-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<p id="p-0002" num="0001">This is a continuation-in-part of my application filed Nov. 29, 2004 and assigned Ser. No. 10/998,432 now abandoned. The present application relates to quick-change tool holders for receiving rotatable tools on a machine for cutting hard surfaces, and in particular to a device for extracting a worn out quick-change tool holder from a base block mounting on a machine.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">Machines used for cutting hard surfaces, such as concrete and asphalt pavement, rock and the like, employ rotatable tools having a tapered forward cutting end behind which is an axially extending shank rotatably fitted in a tool holder. Where a quick-change tool holder is employed, the tool holder itself has a tapered forward end behind which is an axial shank that is received in the bore of a base block mounting on a machine. Base block mountings are secured to a rotatable wheel or drum, which forces the forward cutting ends of the tools retained in the various tool holders against the hard surface to be cut.</p>
+<p id="p-0004" num="0003">Where such tools are used to cut hard material such as asphalt or concrete, the tools retained in the quick-change tool holders must rotate to wear evenly around their circumference and thereby maximize their useful life. The hard material engaged by such tools none the less wears the tool rapidly. When the machine is used to cut hard surfaces it is common to replace the tools therein at least once a day. The same hard use that causes the tools to become rapidly worn eventually causes wear to the tool holders that receive the rotatable shanks of the tools. Although the life expectancy of such tool holders may be one hundred times or several hundred times the life of the tools received therein, extended usage of a machine will result in the tool holders becoming worn and requiring replacement.</p>
+<p id="p-0005" num="0004">It has become common to use a quick-change tool holder having a tapered forward end and an axially rearwardly extending shank that is received in a complementarily shaped bore of a base block mounting on the machine to simplify the replacement of worn tool holders. The distal end of the shank of the quick-change holder is threaded and extends beyond a rearward surface of the base block mounting, and a nut threaded on the distal end of the shank retains the quick-change tool holder in the base block mounting. Preferably, the quick-change holder is of the type disclosed in my previously issued U.S. Pat. Nos. 6,371,567 B1 and 6,585,326 B2, which are incorporated herein by reference.</p>
+<p id="p-0006" num="0005">Ideally, such quick-change tool holders are easily removed from the base blocks on the machine by using a punch and hammer to withdraw the shank out of the bore of the base block mounting. The strong forces applied to the tools, the tool holders, and the base block mountings, as the machine cuts hard surfaces, however, can cause the various parts to become deformed such that the shank of the quick-change tool holder can't be easily extracted from the bore of a base block mounting. The hard material cut by the machine also produces fines that work their way between the surfaces of the various parts and further inhibit the movement of one part with respect to another. As a result of the forgoing, it is often difficult to remove the shank of a quick-change tool holder from the bore of a base block mounting.</p>
+<p id="p-0007" num="0006">Presently, it is the practice to use a hammer and a punch or the like against the distal end of the shank of the tool holder to drive the shank out of the bore of the tool holder. Where the shank has become tightly bound into the bore of the tool holder, however, driving a worn shank out of a tool holder may be exceedingly difficult.</p>
+<p id="p-0008" num="0007">An alternative method of extracting such tool holders is to apply a tool against the radial flange that defines the rearward end of the tapered forward portion of the quick-change tool holder. The tool holder may include a notch or another configuration to allow the forward end of a punch or the like to be applied to the rear surface of the radial flange and facilitate the removal of the quick-change tool holder.</p>
+<p id="p-0009" num="0008">It sometimes occurs that the tapered forward end of a quick-change tool holder will become broken off during usage, leaving the shank thereof still lodged in the bore of the mounting block. In such a case, a machine operator cannot use a punch and hammer against the rear surface of the radial flange to remove the remnants of the shank of the quick-change tool holder and is limited to using a punch to drive the remnants of the shank forward through the bore.</p>
+<p id="p-0010" num="0009">It is also difficult for a machine operator to reach all the base block mountings for which the quick-change tool holders must be replaced. To improve the accessibility of the various base block mountings and tool holders, the operator must periodically operate the machine to partially rotate the drum and thereby bring previously inaccessible base block mountings into his reach. Where a damaged quick-change tool holder must be pounded out of its mounting block, the drum must be rotated so that the damaged parts are most accessible to the operator before removing the worn part. The process of removing damaged quick-change tool holders, therefore, can consume a great amount of time. Such down time has been greatly reduced by the provision of the quick-change tool holders, but it would, none the less, be desirable to provide an improved method and apparatus for removing a worn quick-change tool holder from a base block mounting. It would be further desirable to provide a method and apparatus for removing the remaining shank of a quick-change tool holder after the forward end thereof has been broken off.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0011" num="0010">Briefly, the present invention is embodied in an extraction device for removing a quick-change tool holder from a base block mounting. The quick-change tool holder is of the type having a forward surface, a rearwardly extending generally cylindrical shank with a rearward end, and an axial bore extending into the forward surface through the length thereof including the cylindrical shank and opening at the rearward end. The base block mounting has a body with an outer surface, a forward surface, a rearward surface, and a central opening extending from the forward surface to the rearward surface. The base block tightly retains the shank of the tool holder in the bore thereof, and the tool holder in turn removably retains a rotatable tool.</p>
+<p id="p-0012" num="0011">The device of the present invention is used to separate the quick change tool holder from the base block mounting. The device includes a front plate having a first end and a second end. An upper arm extends rearwardly from the first end of the front plate, and a longitudinally adjustable second arm extends rearwardly from the second end of the front plate with the rearward ends of the two arms having attachment surfaces that engage attachment surfaces on the base block mounting.</p>
+<p id="p-0013" num="0012">In the preferred embodiment a hardened pin extends radially inward from the rearward end of the upper arm. The axis of the pin is perpendicular to the axis of the bore of the base block mounting from which a quick change tool holder is to be extracted and the rearward end of the upper arm is radially moveable relative to the axis of the bore between a first position in which the distal end of the pin is spaced from the surface of the base block mounting and a second position in which the pin extends into a radially inwardly directed hole in the base block mounting for securing the second end thereto.</p>
+<p id="p-0014" num="0013">The device further includes an extraction nut having a first threaded hole therein and a second threaded hole parallel to and spaced a short distance from the first threaded hole. An elongate threaded stud has the forward end thereof threaded into the first hole of the extraction nut and the second end of the threaded stud is extended through a transverse hole in the front plate and then through the axial bore of the quick change holder. The rearward end of the threaded stud extends outward of the rearward end of the shank of the tool holder and a retaining nut is then threaded on the rearward end of the stud.</p>
+<p id="p-0015" num="0014">The device further includes a jack screw having a head, a threaded portion, and a distal end with the threaded portion of the jack screw threaded through the second threaded hole of the extraction nut and the distal end of the jack screw abutting the front plate or a washer member sandwiched between the front plate and the extraction nut. Rotation of the head of the jack screw will then urge the extraction nut away from the front plate and extract the quick-change tool holder from the base block mounting.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0016" num="0015">A better understanding of the invention will be had after a reading of the following detailed description taken in conjunction with the drawings wherein:</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 1</figref> is a cross-sectional view of a base block mounting having a quick-change holder therein;</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 2</figref> is an isometric view of the base block mounting and quick-change holder shown in <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 3</figref> is an exploded isometric view showing the parts of the preferred embodiment of the extraction device positioned around a base block mounting separated from a quick-change tool holder;</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 4</figref> is a cross sectional view of the extraction device, base block mounting and quick change tool holder shown in <figref idref="DRAWINGS">FIG. 3</figref> with the outer end of the upper arm and the pin therein spaced from the surface of the base block mounting;</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 5</figref> is another cross sectional view of the extraction device fitted around the combined base block mounting and quick change tool holder similar to that shown in <figref idref="DRAWINGS">FIG. 4</figref>, but fully assembled thereto such that the outer end of the upper arm is against the outer surface of the base block mounting and the pin extends into a hole therein;</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 6</figref> is yet another cross sectional view of the parts shown in <figref idref="DRAWINGS">FIGS. 4 and 5</figref>, but after the quick change holder has been broken free of the base block mounting;</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 7</figref> is an enlarged front elevational view of the extraction nut used in the device shown in <figref idref="DRAWINGS">FIG. 3</figref>;</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 8</figref> is a side elevational of the extraction nut shown in <figref idref="DRAWINGS">FIG. 7</figref>;</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 9</figref> is an enlarged front elevational view of the front plate with the end plate attached to the first end thereof;</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 10</figref> is a front elevational view of the upper arm; and</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 11</figref> is a side elevational view of the upper arm shown in <figref idref="DRAWINGS">FIG. 10</figref></p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF PREFERRED EMBODIMENT</heading>
+<p id="p-0028" num="0027">Referring to <figref idref="DRAWINGS">FIGS. 1 and 2</figref>, a machine for cutting hard surfaces includes a rotating drum on which are mounted a plurality of base block mountings <b>10</b> each of which has a mounting portion <b>12</b> having a mounting surface <b>14</b> adapted to be fitted against the surface of a mounting stand <b>11</b> mounted to the drum, not shown. Alternately, the base block mounting may be welded directly to the surface of the drum, but this structure is not commonly used. The base block mounting <b>10</b> also has a generally tubular body portion <b>16</b> having a planar forward surface <b>18</b>, a generally planar rearward surface <b>20</b>, and an axial bore <b>22</b> extending from the forward surface <b>18</b> to the rearward surface <b>20</b>. Where the base block mounting <b>10</b> retains a quick change tool holder in accordance with my previously issued U.S. Pat. Nos. 6,371,567 B1 and 6,585,326 B2, the forward surface <b>18</b> will include a small spacing as depicted and described in my U.S. Pat. Nos. 6,371,567 B1 and 6,585,326 B2, although this feature has not been depicted in the present drawings. To be suitable for use with the extraction device in accordance with the present invention, the base block mounting <b>10</b> further has a blind bore <b>24</b> extending radially into the outer surface of the tubular body <b>16</b>, and a support surface <b>26</b> on the mounting portion <b>12</b> oriented parallel to and adjacent the forward surface <b>18</b> of the generally tubular body <b>16</b>.</p>
+<p id="p-0029" num="0028">Fitted into the bore <b>22</b> of the base block mounting <b>10</b> is a quick-change holder <b>28</b> having a forward shield portion <b>30</b> that diverges radially outwardly from a planar forward surface <b>32</b> and reaches a maximum diameter at the rearward end <b>33</b> of the shield portion <b>30</b>. Behind the rearward end <b>33</b> is a rearwardly directed annular flange <b>34</b>. Extending axially rearwardly of the annular flange <b>34</b> is a generally cylindrical shank <b>36</b>, the outer profile of which is shaped and sized to create an interference fit with the bore <b>22</b> in the tubular body <b>16</b> of the base block mounting <b>10</b>, as explained in my U.S. Pat. Nos. 6,371,567 B1 and 6,585,326 B2. At the rearward end of the cylindrical shank <b>36</b> is a transverse rear surface <b>38</b>.</p>
+<p id="p-0030" num="0029">Extending axially through the length of the quick-change holder <b>28</b>, including the shield portion <b>30</b> and the generally cylindrical shank <b>36</b> is an axial bore <b>40</b> having an inner diameter sized to receive the rotatable shank of a cutting tool, not shown. The quick-change holder <b>28</b> also has within the axial bore <b>40</b> a slideable plunger <b>42</b> retained therein by a pin <b>44</b>, which will facilitate the removal of the shank of a rotatable tool, not shown, retained within the forward portion of bore <b>40</b>. The shield portion <b>30</b> of the quick-change holder <b>28</b> also has at least one indentation <b>46</b> therein for receiving the end of a tool to aid in removing the quick-change holder <b>28</b> from the base block mounting <b>10</b>.</p>
+<p id="p-0031" num="0030">When in use, the cylindrical shank <b>36</b> of a quick-change holder <b>28</b> is fitted into the axial bore <b>22</b> of the base block mounting with the annular flange <b>34</b> of the quick-change holder <b>28</b> generally abutting against the forward surface <b>18</b> of the base block mounting as shown in <figref idref="DRAWINGS">FIGS. 1 and 2</figref>. With the parts so assembled, the shank of a rotatable tool, not shown, is received in the axial bore <b>40</b> of the quick-change holder <b>28</b>.</p>
+<p id="p-0032" num="0031">Referring to <figref idref="DRAWINGS">FIGS. 3 to 5</figref> and <b>9</b> to <b>11</b>, over time the shield portion <b>30</b> and the axial bore <b>40</b> of the quick-change holder <b>28</b> become worn and require replacement. To replace the quick-change holder <b>28</b>, the shank thereof must be removed from the axial bore <b>22</b> in the tubular body <b>16</b> of the base block mounting <b>10</b>. To aid in this removal, an extraction device <b>50</b> in accordance with the present invention is provided. The extraction device <b>50</b> includes a front plate <b>52</b> having a first end <b>54</b>, a second end <b>56</b>, and a transverse hole <b>58</b> extending through the central portion thereof. The first end <b>54</b> of the front plate <b>52</b> is configured as a fork having parallel spaced apart fork ends <b>54</b>A and <b>54</b>B. The fork ends <b>54</b>A, <b>54</b>B are elongated forming an elongate slot there between.</p>
+<p id="p-0033" num="0032">Where the parts of the extraction device <b>50</b> have an orientation that is parallel to the axial bore <b>40</b> of the quick-change holder <b>28</b> the portions thereof that are directed toward the left as depicted in <figref idref="DRAWINGS">FIGS. 3 to 5</figref> will be described herein as being &#x201c;forward,&#x201d; or at the &#x201c;forward end,&#x201d; and the portions that are directed toward the right as depicted in <figref idref="DRAWINGS">FIGS. 3 to 5</figref> will be described as being &#x201c;rearward,&#x201d; or at the &#x201c;rearward end&#x201d; of the part. Accordingly, extending rearwardly from the front plate <b>52</b> is an upper arm <b>60</b> having a notched forward end <b>62</b> sized to be received in tongue and groove fashion between the fork ends <b>54</b>A, <b>54</b>B of the front plate <b>52</b>. The parts are secured in tongue and groove relationship by an end plate <b>64</b>. The end plate <b>64</b> has a notch <b>69</b> in the side thereof that contacts the fork ends <b>54</b>A, <b>54</b>B, and the notch <b>69</b> has a width equal to the space between the fork ends <b>54</b>A, <b>54</b>B such that the assembly of the notched end plate <b>64</b> to the fork ends <b>54</b>A, <b>54</b>B forms an elongate slot. A pair of spaced apart parallel holes <b>65</b>, <b>66</b> extend through the end plate <b>64</b> and align with tapped holes <b>67</b>, <b>68</b> in fork ends <b>54</b>A, <b>54</b>B respectively to receive a pair of threaded bolts <b>70</b>, <b>71</b> respectively, to retain the end plate <b>64</b> across the fork ends <b>54</b>A, <b>54</b>B.</p>
+<p id="p-0034" num="0033">The rearward end of the upper arm <b>60</b> has a transverse hole <b>72</b> therein having a diameter smaller than the diameter of the transverse hole <b>24</b> in the base block mounting <b>10</b>, and a cylindrical pin <b>74</b> is press fitted into hole <b>72</b> with the distal end thereof directed toward and perpendicular to the axis of the bore <b>24</b> of the base block mounting <b>10</b>. An important feature of the preferred embodiment is that the rearward end of the upper arm <b>60</b> is radially moveable with respect to the bore <b>24</b> in the tubular body <b>16</b> of the base block mounting <b>10</b>. As seen in <figref idref="DRAWINGS">FIGS. 9 to 11</figref>, this occurs because the thickness <b>75</b> of the upper arm <b>60</b> is substantially less than the length of the slot formed by the fork ends <b>54</b>A and <b>54</b>B. The notched portion <b>62</b> of the upper arm <b>60</b> is therefor slideable within the slot formed by fork ends <b>54</b>A, <b>54</b>B between a radially outward position in which the distal end of the pin <b>74</b> is spaced from the surface of the tubular body <b>16</b> of the base block mounting <b>10</b>, as depicted in <figref idref="DRAWINGS">FIG. 4</figref>, and a radially inward position as depicted in <figref idref="DRAWINGS">FIG. 5</figref>, in which the distal end of the pin <b>74</b> is slideably received in the transverse hole <b>24</b> of the base block mounting.</p>
+<p id="p-0035" num="0034">Referring further to <figref idref="DRAWINGS">FIGS. 3 to 5</figref>, and <b>9</b>, the second end <b>56</b> of the front plate <b>52</b> has a transverse hole <b>76</b> therein and extending through the transverse hole <b>76</b> is a threaded stud <b>78</b> having a foot <b>80</b>, the rearward end of which is shaped complimentary to the support surface <b>26</b> of the base block mounting <b>10</b>. Positioned along the stud <b>78</b> is an adjustment nut <b>82</b>. By adjusting the position of the nut <b>82</b> along the stud <b>78</b>, the distance between the end of the foot <b>80</b> and the front plate <b>52</b> can be adjusted so that the front plate <b>52</b> is oriented perpendicular to the axis defined by the axial bore <b>40</b> of the quick-change holder <b>28</b> and parallel to the rearwardly directed annular flange <b>34</b> thereof and to the forward surface <b>18</b> of the base block mounting <b>10</b>.</p>
+<p id="p-0036" num="0035">Referring to <figref idref="DRAWINGS">FIGS. 3 to 5</figref> and <b>7</b> and <b>8</b>, the device further includes an enlarged transverse retaining member in the form of an extraction nut <b>86</b> and having a rearward surface <b>88</b> and extending through the extraction nut <b>86</b> perpendicular to the rearward surface <b>88</b> is a first threaded hole <b>90</b>. Positioned on opposite sides of the first threaded hole <b>90</b> are second and third parallel threaded holes <b>92</b>, <b>94</b>. A threaded bore <b>85</b> starts at the cylindrical outer wall <b>87</b> and extends into the threaded bore <b>90</b>, perpendicular to the axis thereof, and receives a set screw <b>89</b>. The extraction device <b>50</b> also includes an extraction washer <b>91</b> having an outer diameter approximately equal to the outer diameter of the extraction nut <b>86</b>, and having a central transverse hole <b>93</b> that is larger in diameter than the first threaded hole <b>90</b>. There is also provided a second threaded stud <b>96</b>, the forward end of which is threaded into the first threaded hole <b>90</b>. The second end of the threaded shank <b>96</b> is extended through the central opening <b>93</b> of the washer <b>91</b>, then through the centrally located transverse hole <b>58</b> of the front plate <b>52</b>, and then through the axial bore <b>40</b> of the quick-change holder <b>28</b>. The rearward end of the threaded stud <b>96</b> extends rearward of the rearward end <b>38</b> of the cylindrical shank <b>36</b> and a threaded nut <b>98</b> is received thereon.</p>
+<p id="p-0037" num="0036">A pair of bolts <b>100</b>, <b>102</b> having bolt heads <b>104</b>, <b>106</b> are threaded through the second and third threaded holes <b>92</b>, <b>94</b> of the extraction nut <b>86</b> with the distal end of the bolts <b>100</b>, <b>102</b> engaging the forward surface of the extraction washer <b>91</b> which is located on the front plate <b>52</b>.</p>
+<p id="p-0038" num="0037">With the parts assembled as described above and as depicted in <figref idref="DRAWINGS">FIG. 5</figref>, and the retaining nut <b>98</b> is hand tightened, the rearward surface <b>88</b> of the extraction nut <b>86</b> is compressed against the forward surface of the extraction washer <b>91</b>, and the rear surface of the extraction washer is compressed against the front plate <b>52</b>. Thereafter, the heads <b>104</b>, <b>106</b> of the bolts <b>100</b>, <b>102</b> are rotated deeper into the first and second threaded holes <b>92</b>, <b>94</b> respectively. Referring to <figref idref="DRAWINGS">FIG. 6</figref>, the bolts <b>100</b>,<b>102</b> serve as leveraging tools as they are threaded deeper into the threaded holes <b>92</b>, <b>94</b>, and the distal ends of the bolts <b>100</b>, <b>102</b> apply force against the extraction washer <b>91</b>. The leveraging tools, which in this case are the bolts <b>100</b>, <b>102</b>, urge the extraction nut <b>86</b> forwardly away from the extraction washer <b>91</b> and the front plate <b>52</b>. As the extraction nut <b>86</b> is urged away from the extraction washer <b>91</b> and the front plate <b>52</b>, the retaining nut <b>98</b> is moved forwardly and thereby urges the cylindrical shank <b>36</b> of the quick-change holder <b>28</b> forwardly with respect to the base block mounting <b>10</b>. Meanwhile, an opposing force is directed through the upper arm <b>60</b> and the threaded stud <b>78</b> to the base block mounting <b>10</b>, with the force of the upper arm applied between a surface of the pin <b>74</b> and an inner surface of the hole <b>24</b>, and the force of the threaded stud <b>78</b> applied through the foot <b>80</b> against the forward surface <b>26</b>. The opposing forces cause the shank <b>36</b> of the quick change tool holder <b>28</b> to break free of locking engagement with the bore <b>22</b> in the tubular body <b>16</b> of the base block mounting <b>10</b>, as depicted in <figref idref="DRAWINGS">FIG. 6</figref>. It is only necessary that the extraction device <b>50</b> move the shank <b>36</b> of the quick-change holder about three-eighths inch outward of the base block mounting <b>10</b> to loosen the parts sufficiently that they may be thereafter separated using an elongate tool and a hammer. The extraction device <b>50</b> is preferably designed to cause an axial movement of three-fourths of an inch, which fully extracts the quick change tool holder <b>28</b> from the interference fit with the bore <b>22</b>.</p>
+<p id="p-0039" num="0038">In the course of breaking the quick change tool holder <b>28</b> free from the base block mounting <b>10</b> a great amount of force is applied to the threads of the extraction nut <b>86</b>, the threaded stud <b>96</b> and the retaining nut <b>98</b>. I have found that it is desirable that the threads of these three parts be ACME threads because ACME threads spread the forces applied to the threads over a larger surface area. The threads are therefore able to endure a greater amount of force without failing. Alternately, a larger diameter stud <b>96</b> may be used having standard &#x201c;V&#x201d; type threads.</p>
+<p id="p-0040" num="0039">Prior to the assembly of the extraction device <b>50</b>, the distal end of a hand held punch, not shown, can be positioned against the forward surface of the plunger <b>42</b> after which the opposite end of the punch is struck with a hammer to break the retaining pin <b>44</b> and drive the plunger <b>42</b> out of the cylindrical bore <b>40</b>. Once the plunger <b>42</b> has been removed, the extraction device <b>50</b> can be assembled around the combined base block mounting <b>10</b> and quick-change holder <b>28</b>.</p>
+<p id="p-0041" num="0040">Referring to <figref idref="DRAWINGS">FIGS. 3</figref>, <b>5</b>, <b>6</b>, <b>9</b>, and <b>11</b>, to assemble the device <b>50</b>, the forward end <b>62</b> of the upper arm <b>60</b> is slideably fitted between the fork ends <b>54</b>A, <b>54</b>B of the front plate <b>52</b> with the distal end of the pin <b>74</b> directed toward the axis of the hole <b>58</b> in the front plate <b>52</b>. The end plate <b>64</b> is then secured by bolts <b>70</b>, <b>71</b> to the fork ends <b>54</b>A, <b>54</b>B to retain the upper arm to the front plate <b>52</b>. The upper arm <b>60</b> is moved radially outward within the slot formed by fork ends <b>54</b>A, <b>54</b>B to the first position, shown in <figref idref="DRAWINGS">FIG. 4</figref>, and the rearward end of the upper arm <b>60</b> is positioned around the outer surface of the base block mounting <b>10</b> until it is aligned with the axis of the hole <b>24</b> therein. At the same time foot <b>80</b> is positioned against the support surface <b>26</b> of the base block mounting <b>10</b>. The upper arm <b>60</b> is then moved radially inward within the slot formed by fork ends <b>54</b>A, <b>54</b>B to the second position, shown in <figref idref="DRAWINGS">FIG. 5</figref>, thereby slideably inserting the distal end of the pin <b>74</b> into hole <b>24</b> of the base block mounting <b>10</b>. The adjusting nut <b>82</b> is then adjusted along the length of the threaded stud <b>78</b> until the front plate <b>54</b> is perpendicular to the axis of the bore <b>22</b> in the tubular body <b>16</b> of the base block mounting <b>10</b> and the central hole <b>58</b> is aligned in front of the forward opening of the bore <b>22</b>. The forward end of the second threaded stud <b>96</b> is threaded into the threaded hole <b>90</b> of the extraction nut <b>86</b> and the two parts are locked against rotation with respect to one another by tightening the set screw <b>89</b>. The rearward end of the threaded stud <b>96</b> is then passed through the central opening <b>93</b> of the extraction washer <b>91</b>, the central hole <b>58</b> on the front plate <b>52</b> and then through the axial bore <b>40</b> of the quick change tool holder <b>28</b>. The threaded stud <b>96</b> is retained in place by the retaining nut <b>98</b> which can be hand tightened against the rear end <b>38</b> of the quick change tool holder <b>28</b> by holding the extraction nut <b>86</b> against rotation. Thereafter, the bolts <b>100</b>, <b>102</b> are threaded into the second and third holes <b>92</b>, <b>94</b> of the extraction nut <b>86</b> and the heads of the bolts <b>100</b>, <b>102</b> are further rotated until the shank <b>36</b> of the quick-change holder <b>28</b> breaks free from the bore <b>22</b>. Once the quick change holder <b>28</b> has been broken free of base block mounting <b>10</b>, a punch and a hammer can be used to complete the extraction of the quick change holder, or bolts <b>100</b>, <b>102</b> can be rotated until quick-change holder <b>28</b> is completely separated from bore <b>22</b> of base block <b>10</b>.</p>
+<p id="p-0042" num="0041">The invention has been described as employing one or more jack screws <b>100</b>, <b>102</b> as a leveraging tool for applying a separating force between the extraction nut <b>86</b> and the front plate <b>52</b> but there are equivalent leveraging tools that may be substituted for the jack screws <b>100</b>, <b>102</b>, such as a hydraulic or pneumatic cylinder. Also, the device may be constructed with the extraction nut <b>86</b> and the stud <b>96</b> bonded to each other to form a single part with the extraction nut forming an enlarged transverse head <b>86</b> of an elongate extraction bolt having a threaded shank <b>96</b>.</p>
+<p id="p-0043" num="0042">While the present invention has been described with respect to a single embodiment, it will be appreciated that many modifications and variations may be made without departing from the spirit and scope of the invention. It is therefore the intent of the appended claims to cover all such modifications and variations that fall within the true spirit and scope of the invention.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A device for extracting a quick-change tool holder from locking engagement with a base block mounting of a machine wherein said quick-change tool holder has a forward surface, a rearwardly extending generally cylindrical shank, a rearward end, and an axial bore extending into said forward surface and through said generally cylindrical shank to said rearward end, and said base block mounting has a body with an outer surface, a forward surface, a rearward surface and a central opening extending from said forward surface to said rearward surface, said shank of said quick change tool holder being tightly fitted within said central opening of said base block mounting, said device comprising
+<claim-text>a front plate,</claim-text>
+<claim-text>a first arm and a second arm extending rearwardly from opposing ends of said front plate,</claim-text>
+<claim-text>contact surfaces on rearward ends of said first and second arms for engaging opposing portions of said outer surface of said base block mounting,</claim-text>
+<claim-text>said front plate having a transverse hole therein,</claim-text>
+<claim-text>a threaded stud having a forward end, a rearward end and a length</claim-text>
+<claim-text>an extraction nut having a first threaded hole therein and a second threaded hole parallel to said first threaded hole</claim-text>
+<claim-text>said forward end of said threaded stud threadedly received in said first threaded hole,</claim-text>
+<claim-text>said length of said threaded stud rearward of said extraction nut extending through said transverse hole and through said axial bore,</claim-text>
+<claim-text>a retaining nut threaded on said rearward end of said threaded stud,</claim-text>
+<claim-text>a jack screw having a head, a threaded portion and a distal end,</claim-text>
+<claim-text>said jack screw threaded through said second threaded hole with said distal end against said front plate wherein rotation of said head of said jack screws will draw said generally cylindrical shank out of said base block mounting.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The device of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said second arm is an elongate threaded stud having a distal end, and
+<claim-text>said distal end of said second arm abuts a surface on said base block mounting.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The device of <claim-ref idref="CLM-00001">claim 1</claim-ref> and further comprising a second jack screw threaded into a third threaded hole in said extraction nut.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The device of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said contact surface on said first arm is a surface of a cylindrical member that contacts a surface of a cylindrical bore of said base block mounting.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The device of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said threaded stud has ACME threads.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The device of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said threads are &#x201c;V&#x201d; threads.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The device of <claim-ref idref="CLM-00001">claim 1</claim-ref> and further comprising a washer on said threaded stud between said forward plate and said extraction nut.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. A device for extracting a quick-change tool holder from locking engagement with a base block mounting of a machine wherein said quick-change tool holder has a forward surface, a rearwardly extending generally cylindrical shank, a rearward end, and an axial bore extending into said forward surface and through said generally cylindrical shank to said rearward end, and said base block mounting has a body with an outer surface, a forward surface, a rearward surface and a central opening extending from said forward surface to said rearward surface, said shank of said quick change tool holder being tightly fitted within said central opening of said base block mounting, said device comprising
+<claim-text>a front plate,</claim-text>
+<claim-text>a first arm and a second arm extending rearwardly from opposing ends of said front plate,</claim-text>
+<claim-text>contact surfaces on rearward ends of said first and second arms for engaging opposing portions of said outer surface of said base block mounting,</claim-text>
+<claim-text>said front plate having a transverse hole therein,</claim-text>
+<claim-text>a threaded stud having a forward end, a rearward end and a length,</claim-text>
+<claim-text>an extraction nut having a threaded hole therein for threadedly receiving said threaded stud,</claim-text>
+<claim-text>said extraction nut threaded on said forward end of said threaded stud,</claim-text>
+<claim-text>said length of said threaded stud rearward of said extraction nut extending through said transverse hole and through said axial bore,</claim-text>
+<claim-text>a leveraging tool applying force between said extraction nut and said front plate, and</claim-text>
+<claim-text>a retaining nut threaded on said rearward end of said threaded stud wherein said leveraging tool will urge said transverse head away from said front plate and draw said quick change tool holder out of said base block mounting.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. A device for extracting a quick-change tool holder from locking engagement with a base block mounting of a machine wherein said quick-change tool holder has a forward surface, a rearwardly extending generally cylindrical shank, a rearward end, and an axial bore extending into said forward surface and through said generally cylindrical shank to said rearward end, and said base block mounting has a body with an outer surface, a forward surface, a rearward surface and a central opening extending from said forward surface to said rearward surface, said shank of said quick change tool holder being tightly fitted within said central opening of said base block mounting, said device comprising
+<claim-text>a front plate,</claim-text>
+<claim-text>a first arm and a second arm extending rearwardly from opposing ends of said front plate,</claim-text>
+<claim-text>contact surfaces on rearward ends of said first and second arms for engaging opposing portions of said outer surface of said base block mounting,</claim-text>
+<claim-text>said front plate having a transverse hole therein,</claim-text>
+<claim-text>a threaded stud having a forward end, a rearward end and a length,</claim-text>
+<claim-text>a transverse head on said forward end of said threaded stud,</claim-text>
+<claim-text>said length of said threaded stud rearward of said transverse head extending through said transverse hole and through said axial bore,</claim-text>
+<claim-text>said transverse head having a threaded hole therein, said threaded hole extending parallel to said length of said threaded stud,</claim-text>
+<claim-text>a bolt having a transverse head, a threaded shank and a distal end,</claim-text>
+<claim-text>said threaded shank of said bolt threaded through said threaded hole in said transverse head wherein said distal end of said bolt applies force against said front plate,</claim-text>
+<claim-text>a retaining nut threaded on said rearward end of said threaded stud wherein said leveraging tool will urge said transverse head away from said front plate and draw said quick change tool holder out of said base block mounting.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The device of <claim-ref idref="CLM-00009">claim 9</claim-ref> wherein said second arm is longitudinally adjustable for positioning said forward plate perpendicular to said axial bore.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The device of <claim-ref idref="CLM-00009">claim 9</claim-ref> wherein said second arm is an elongate threaded stud having a distal end, and said distal end of said second arm abuts a surface on said base block mounting.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The device of <claim-ref idref="CLM-00009">claim 9</claim-ref> and further comprising a second threaded bolt threaded into a second threaded hole in said transverse head.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The device of <claim-ref idref="CLM-00009">claim 9</claim-ref> and further comprising a washer on said threaded stud between said transverse head and said forward plate.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The device of <claim-ref idref="CLM-00009">claim 9</claim-ref> wherein said contact surface on said first arm is a surface of a cylindrical member that contacts a surface of a cylindrical bore in said base block mounting.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The device of <claim-ref idref="CLM-00009">claim 9</claim-ref> wherein said threaded stud has ACME threads.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The device of <claim-ref idref="CLM-00009">claim 9</claim-ref> wherein said threads are &#x201c;V&#x201d; threads.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The device of <claim-ref idref="CLM-00009">claim 9</claim-ref> and further comprising a washer on said threaded stud between said transverse head and said forward plate.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The device of <claim-ref idref="CLM-00009">claim 9</claim-ref> wherein said transverse head is a nut threaded on said threaded stud.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

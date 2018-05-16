@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891221-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891221</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12232865</doc-number>
+<date>20080925</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2007-257875</doc-number>
+<date>20071001</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>251</us-term-extension>
+<disclaimer>
+<text>This patent is subject to a terminal disclaimer.</text>
+</disclaimer>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>E</section>
+<class>05</class>
+<subclass>B</subclass>
+<main-group>25</main-group>
+<subgroup>02</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 70186</main-classification>
+<further-classification> 70252</further-classification>
+</classification-national>
+<invention-title id="d2e73">Electric steering lock device</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>6915671</doc-number>
+<kind>B2</kind>
+<name>Zillmann</name>
+<date>20050700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 70186</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>7021093</doc-number>
+<kind>B2</kind>
+<name>Fukatsu et al.</name>
+<date>20060400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 70186</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>7055351</doc-number>
+<kind>B2</kind>
+<name>Suzuki et al.</name>
+<date>20060600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 70186</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>7121126</doc-number>
+<kind>B2</kind>
+<name>Zillmann</name>
+<date>20061000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 70186</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>7412858</doc-number>
+<kind>B2</kind>
+<name>Tsukano et al.</name>
+<date>20080800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 70186</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>7596976</doc-number>
+<kind>B2</kind>
+<name>Sugimoto</name>
+<date>20091000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 70186</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>2004/0074266</doc-number>
+<kind>A1</kind>
+<name>Zillmann</name>
+<date>20040400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>2004/0107750</doc-number>
+<kind>A1</kind>
+<name>Fukushima</name>
+<date>20040600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 70186</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>2005/0034493</doc-number>
+<kind>A1</kind>
+<name>Wittwer et al.</name>
+<date>20050200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 70186</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>2006/0005588</doc-number>
+<kind>A1</kind>
+<name>Okuno</name>
+<date>20060100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 70186</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>2007/0113604</doc-number>
+<kind>A1</kind>
+<name>Khoury et al.</name>
+<date>20070500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 70186</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>2008/0087056</doc-number>
+<kind>A1</kind>
+<name>Tsukazaki</name>
+<date>20080400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 70182</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>2008/0178644</doc-number>
+<kind>A1</kind>
+<name>Okuno et al.</name>
+<date>20080700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 70187</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>2008/0271504</doc-number>
+<kind>A1</kind>
+<name>Okada et al.</name>
+<date>20081100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 70252</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>EP</country>
+<doc-number>1 637 415</doc-number>
+<kind>A1</kind>
+<date>20060300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>JP</country>
+<doc-number>2006-044573</doc-number>
+<date>20060200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>5</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 70182-186</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 70252</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>8</number-of-drawing-sheets>
+<number-of-figures>22</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090084145</doc-number>
+<kind>A1</kind>
+<date>20090402</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Sugimoto</last-name>
+<first-name>Koichiro</first-name>
+<address>
+<city>Yokohama</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>The Nath Law Group</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<last-name>Meyer</last-name>
+<first-name>Jerald L.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="03" rep-type="attorney">
+<addressbook>
+<last-name>Burns</last-name>
+<first-name>Robert T.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Alpha Corporation</orgname>
+<role>03</role>
+<address>
+<city>Yokohama-shi</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Gall</last-name>
+<first-name>Lloyd A</first-name>
+<department>3673</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">An electric steering lock device of the invention includes: a rotating body (worm wheel) that is driven by a motor to rotate in an unlocking direction and a locking direction; a first cam section and a second cam section provided in the worm wheel; a lock member that follows the first cam section to be displaced between a lock position and an unlock position; and a lever member that follows the second cam section and that is positioned, when the lock member is positioned at the unlock position, at a waiting position at which the lock member is allowed to move and that is positioned, when the lock member is moved to the lock position, at a retention position at which the lock member is blocked from moving to the unlock position.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="183.56mm" wi="132.33mm" file="US07891221-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="144.44mm" wi="123.36mm" file="US07891221-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="240.45mm" wi="142.75mm" file="US07891221-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="250.27mm" wi="171.45mm" orientation="landscape" file="US07891221-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="256.71mm" wi="177.72mm" orientation="landscape" file="US07891221-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="251.04mm" wi="177.04mm" orientation="landscape" file="US07891221-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="248.41mm" wi="172.04mm" orientation="landscape" file="US07891221-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="249.34mm" wi="161.63mm" file="US07891221-20110222-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="220.05mm" wi="140.72mm" file="US07891221-20110222-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0002" num="0001">1. Field of the Invention</p>
+<p id="p-0003" num="0002">The present invention relates to an electric steering lock device that locks the rotation of a steering shaft of a vehicle.</p>
+<p id="p-0004" num="0003">2. Description of the Related Art</p>
+<p id="p-0005" num="0004">This type of conventional electric steering lock device is disclosed in Japanese Patent Laid-Open Publication No. 2006-44573. As shown in <figref idref="DRAWINGS">FIG. 1</figref>, this electric steering lock device <b>100</b> includes: a lock member <b>103</b> that is urged by a coil spring <b>101</b> in a direction of a steering shaft <b>102</b> of a vehicle and that can be engaged with the steering shaft <b>102</b>; a rotating body <b>106</b> that is connected to and driven by the motor <b>104</b> and that has a cam groove <b>105</b>; a pin <b>107</b> that is moved along the cam groove <b>105</b> by the rotation of the rotating body <b>106</b> to move the lock member <b>103</b> between the lock position and the unlock position; and a lock stopper <b>109</b> that is moved in conjunction with the operation of the pin <b>107</b> and that is urged by a coil spring <b>108</b> in a direction of the lock member <b>103</b>. When the lock member <b>103</b> is moved from the unlock position to the lock position in conjunction with the operation of the pin <b>107</b>, the lock stopper <b>109</b> is engaged with a part of the lock member <b>103</b>. This regulates the movement of the lock member <b>103</b> in the unlock direction.</p>
+<p id="p-0006" num="0005">When the above configuration is used to rotate the motor <b>104</b> in the locking direction during a parking operation, the rotating body <b>106</b> is rotated in the locking direction by the driving force by the motor <b>104</b>. At the same time, the pin <b>107</b> oscillates within the cam groove <b>105</b> in accordance with the rotation of the rotating body <b>106</b>. As a result, the lock member <b>103</b> is moved from the unlock position to the lock position. Then, the lock stopper <b>109</b> regulates the movement of the lock member <b>103</b> in the unlock direction. Consequently, the tip end of the lock member <b>103</b> is engaged with the steering shaft <b>102</b>, thus blocking the rotation of the steering shaft <b>102</b>. Thus, the vehicle cannot be maneuvered.</p>
+<p id="p-0007" num="0006">When the motor <b>104</b> is subsequently rotated in the unlocking direction, the driving force of the motor <b>104</b> causes the rotating body <b>106</b> to be rotated in the unlocking direction. At the same time, the pin <b>107</b> is oscillated within the cam groove <b>105</b> in accordance with the reverse rotation of the rotating body <b>106</b>. This consequently cancels the regulation of the movement of the lock member <b>103</b> by the lock stopper <b>109</b>. Then, the lock member <b>103</b> is moved from the lock position to the unlock position. Then, the engagement of the tip end of the lock member <b>103</b> with the steering shaft <b>102</b> is cancelled, thus allowing the steering shaft <b>102</b> to be rotated freely. Thus, the vehicle can be maneuvered.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0008" num="0007">In the case of the conventional electric steering lock device <b>100</b>, when a vehicle is parked, the lock member <b>103</b> is arranged to block the rotation of the steering shaft <b>102</b> to keep the vehicle in a state that the vehicle cannot be maneuvered so that the parked vehicle is prevented from being stolen. However, the conventional electric steering lock device <b>100</b> had a risk of a so-called soft attack where a small through hole is opened in the cover for example of the electric steering lock device <b>100</b> and the lock member <b>103</b> is directly operated through this hole to move the lock member <b>103</b> to the unlock position side, which forcedly cancels the locked status of the steering shaft <b>102</b>, causing a steal of a parked vehicle.</p>
+<p id="p-0009" num="0008">In view of the above, it is an objective of the present invention to provide an electric steering lock device that can block the lock member, which is engaged with the steering shaft in a locked status, to move to the unlocking direction so that the parked vehicle can be prevented from being stolen.</p>
+<p id="p-0010" num="0009">An electric steering lock device according to the first aspect of the present invention includes: a rotating body that is driven by a driving source to rotate in an unlocking direction and a locking direction; a first cam section and a second cam section provided in the rotating body; a lock member that follows the first cam section to be displaced between a lock position at which the rotation of a steering shaft is blocked and a unlock position at which the rotation of the steering shaft is allowed; a housing and a cover that form a part accommodation room for accommodating the rotating body, the first cam section, the second cam section, and the lock member; and a lever member that slides, while following the second cam section, so as to be able to be engaged with or detached from the lock member. The lever member is structured to be positioned, when the lock member is positioned at the unlock position, at a waiting position at which the lock member is allowed to move, and to be positioned, when the lock member is positioned at the lock position, at a retention position at which the lock member is blocked from being moved to the unlock position.</p>
+<p id="p-0011" num="0010">When the locked status is cancelled in the configuration as described above, the rotating body is firstly driven by the driving source to rotate in the unlocking direction. Then, the first cam section and the second cam section provided in the rotating body are moved in conjunction with this movement. Then, the lever member follows the second cam section and is moved to the waiting position at which the lock member is allowed to move. The lock member follows the first cam section and is displaced from the lock position to the unlock position. As a result, the steering shaft is allowed to rotate and the vehicle can be maneuvered. When locking on the other hand, the rotating body is driven by the driving source to rotate in the locking direction. Then, the lock member follows the first cam section and is displaced from the unlock position to the lock position. Then, the lever member follows the second cam section and is moved to the retention position at which the lock member is blocked from moving to the unlock position. As a result, the steering shaft is blocked by the lock member from rotating and the vehicle cannot be maneuvered. Thus, when locking the lever member is engaged with the lock member fitted to the steering shaft. Therefore, even when someone tries to forcedly draw the lock member in the unlocking direction, the lock member is prevented from moving in the unlocking direction. This prevents the parked vehicle from being stolen.</p>
+<p id="p-0012" num="0011">The lock member also may include an engagement groove that extends in a direction orthogonal to a direction along which the lock member is moved. The lever member also may include an engagement piece that is engaged with the engagement groove when the lock member is positioned at the lock position and the lever member is positioned at a retention position.</p>
+<p id="p-0013" num="0012">When the locked status is cancelled in the configuration as described above, the lever member follows the second cam section provided in the rotating body and is moved to the waiting position at which the lock member is allowed to move. Then, the engagement piece of the lever member is withdrawn from the engagement groove of the lock member. Consequently, the lock member follows the first cam section and can be moved from the lock position to the unlock position. When locking on the other hand, the lock member follows the first cam section and is displaced from the unlock position to the lock position. Then, the lever member follows the second cam section and is moved to the retention position. As a result, the engagement piece of the lever member is engaged with the engagement groove of the lock member and the lock member is blocked to move from the lock position to the unlock position.</p>
+<p id="p-0014" num="0013">The housing also may include a through hole to which the lock member can be inserted in a retractable manner.</p>
+<p id="p-0015" num="0014">By the configuration as described above, the lock member is firmly supported and can be protected from a destructive behavior where the lock member is operated from the outside to forcedly unlock the lock member.</p>
+<p id="p-0016" num="0015">The lever member also may be covered by the cover.</p>
+<p id="p-0017" num="0016">By the configuration as described above, the lever member can be protected from a destructive behavior where the lever member is operated from the outside to forcedly unlock the lever member.</p>
+<p id="p-0018" num="0017">The electric steering lock device also may further include a drive unit housing and a drive unit cover forming a drive unit room for accommodating the rotating body.</p>
+<p id="p-0019" num="0018">By the configuration as described above, the rotating body (worm wheel) is covered by the drive unit housing and the drive unit cover. Thus, the worm wheel can be blocked from being detached from the outside and is protected from a destructive behavior for forced unlocking.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 1</figref> illustrates an electric steering lock device of a conventional example.</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 2</figref> is a top view illustrating an electric steering lock device according to one embodiment of the present invention.</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 3</figref> is a front view illustrating the electric steering lock device according to one embodiment of the present invention.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIGS. 4A to 4D</figref> are cross-sectional views illustrating one embodiment of the present invention taken along the line <b>4</b>-<b>4</b> of <figref idref="DRAWINGS">FIG. 2</figref>. <figref idref="DRAWINGS">FIG. 4A</figref> is a cross-sectional view illustrating a locked status. <figref idref="DRAWINGS">FIG. 4B</figref> is a cross-sectional view illustrating a status where an operation of a lever member is started. <figref idref="DRAWINGS">FIG. 4C</figref> is a cross-sectional view illustrating a status where the operation of the lock member is started. <figref idref="DRAWINGS">FIG. 4D</figref> is a cross-sectional view illustrating an unlocked status.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIGS. 5A to 5D</figref> are cross-sectional views illustrating one embodiment of the present invention taken along the line <b>5</b>-<b>5</b> of <figref idref="DRAWINGS">FIG. 2</figref>. <figref idref="DRAWINGS">FIG. 5A</figref> is a cross-sectional view illustrating the locked status. <figref idref="DRAWINGS">FIG. 5B</figref> is a cross-sectional view illustrating the status where the operation of the lever member is started. <figref idref="DRAWINGS">FIG. 5C</figref> is a cross-sectional view illustrating the status where the operation the lock member is started. <figref idref="DRAWINGS">FIG. 5D</figref> is a cross-sectional view illustrating the unlocked status.</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIGS. 6A to 6D</figref> are cross-sectional views illustrating one embodiment of the present invention taken along the line <b>6</b>-<b>6</b> of <figref idref="DRAWINGS">FIG. 2</figref>. <figref idref="DRAWINGS">FIG. 6A</figref> is a cross-sectional view illustrating the locked status. <figref idref="DRAWINGS">FIG. 6B</figref> is a cross-sectional view illustrating the status where the operation of the lever member is started. <figref idref="DRAWINGS">FIG. 6C</figref> is a cross-sectional view illustrating the status where the operation of the lock member is started. <figref idref="DRAWINGS">FIG. 6D</figref> is a cross-sectional view illustrating the unlocked status.</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIGS. 7A to 7D</figref> are cross-sectional views illustrating one embodiment of the present invention taken along the line <b>7</b>-<b>7</b> of <figref idref="DRAWINGS">FIG. 3</figref>. <figref idref="DRAWINGS">FIG. 7A</figref> is a cross-sectional view illustrating the locked status. <figref idref="DRAWINGS">FIG. 7B</figref> is a cross-sectional view illustrating the status where the operation of the lever member is started. <figref idref="DRAWINGS">FIG. 7C</figref> is a cross-sectional view illustrating the status where the operation of the lock member is started. <figref idref="DRAWINGS">FIG. 7D</figref> is a cross-sectional view illustrating the unlocked status.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 8</figref> is a front view illustrating a lock member provided in a steering lock device.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 9</figref> is a perspective view of the main part illustrating the rotating body (worm wheel), the lock member, and the lever member in the locked status.</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 10</figref> is a perspective view of the main part illustrating the rotating body (worm wheel), the lock member, and the lever member in the unlocked status.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF PREFERRED EMBODIMENTS</heading>
+<p id="p-0030" num="0029">The following section will describe one embodiment of the present invention with reference to the drawings. <figref idref="DRAWINGS">FIG. 2</figref> to <figref idref="DRAWINGS">FIG. 10</figref> illustrate one embodiment of the present invention.</p>
+<p id="p-0031" num="0030">As shown in <figref idref="DRAWINGS">FIG. 2</figref> to <figref idref="DRAWINGS">FIG. 10</figref>, the electric steering lock device <b>1</b> includes, as main configuration parts, a cover <b>2</b> and a housing <b>3</b> that are assembled to each other to form a part accommodation room at the interior thereof; a drive unit housing <b>4</b> and a drive unit cover <b>5</b> that are accommodated in the part accommodation room and that further form a drive unit room at the interior thereof; a motor <b>6</b> that is a driving source provided in the drive unit room; a worm gear <b>7</b> that is fixed to a rotation axis <b>6</b><i>a </i>of the motor <b>6</b>; a rotating body (worm wheel) <b>8</b> that is meshed with the worm gear <b>7</b> and that is rotatably supported in the drive unit room; a first cam section <b>9</b> that is integrated with one face of the worm wheel <b>8</b>; a second cam section <b>10</b> that is integrated with the other face of the worm wheel <b>8</b>; a lock member <b>11</b> that slides in a direction shown by the arrow a in <figref idref="DRAWINGS">FIG. 4A</figref>, following the first cam section <b>9</b>; a lever member <b>12</b> that slides in a direction shown by the arrow b in <figref idref="DRAWINGS">FIG. 4A</figref>, following the second cam <b>10</b>; and a circuit substrate (not shown) provided in the part accommodation room.</p>
+<p id="p-0032" num="0031">As shown in <figref idref="DRAWINGS">FIG. 6</figref>, a cam profile of the first cam section <b>9</b> is divided to a lock position area <b>9</b><i>a </i>(bottom dead point area) which disposes the lock member <b>11</b> in a lock position; a unlock position area <b>9</b><i>b </i>(top dead point area) which disposes the lock member <b>11</b> in an unlock position; and an elevation area <b>9</b><i>c </i>between the lock position area <b>9</b><i>a </i>and the unlock position area <b>9</b><i>b</i>. Similarly, a cam profile of the second cam section <b>10</b> is also divided, as shown in <figref idref="DRAWINGS">FIG. 4</figref>, to a retention position area <b>10</b><i>a </i>which disposes the lever member <b>12</b> in a retention position; a waiting position area <b>10</b><i>b </i>which disposes the lever member <b>12</b> in a waiting position; and a lifting area <b>10</b><i>c </i>between the retention position area <b>10</b><i>a </i>and the waiting position area <b>10</b><i>b. </i></p>
+<p id="p-0033" num="0032">As shown in <figref idref="DRAWINGS">FIG. 8</figref> to <figref idref="DRAWINGS">FIG. 10</figref>, the lock member <b>11</b> is composed of: a flat rod section <b>13</b> that has a flat plate-like shape and that has a spring-receiving face <b>13</b><i>a </i>formed by a notch; a cam engagement section <b>14</b> that is protruded in the horizontal direction from the upper side of the flat rod section <b>13</b>; and a shaft locking protrusion <b>15</b> that is provided at a lower end of the flat rod section <b>13</b>. At one side face of the flat rod section <b>13</b>, an engagement groove <b>16</b> is provided that extends in a direction orthogonal to the direction along which the lock member <b>11</b> is moved. The flat rod section <b>13</b> is inserted to a through hole <b>3</b><i>a </i>of the housing <b>3</b> in a retractable manner and is supported so as to be movable in the up-and-down direction. The shaft locking protrusion <b>15</b> provided in the lock member <b>11</b> is protruded out of the through hole <b>3</b><i>a </i>provided in the housing <b>3</b> to the outside. The shaft locking protrusion <b>15</b> is displaced between the lock position (the positions of <figref idref="DRAWINGS">FIG. 4A</figref>, <figref idref="DRAWINGS">FIG. 5A</figref>, and <figref idref="DRAWINGS">FIG. 6A</figref>) at which the rotation of a steering shaft (not shown) is blocked and the unlock position (the positions of <figref idref="DRAWINGS">FIG. 4D</figref>, <figref idref="DRAWINGS">FIG. 5D</figref>, and <figref idref="DRAWINGS">FIG. 6D</figref>) at which the rotation of the steering shaft (not shown) is allowed. The spring-receiving face <b>13</b><i>a </i>and the cover <b>2</b> have therebetween a coil spring <b>17</b> whose spring force urges the lock member <b>11</b> in a direction so as to press the first cam section <b>9</b> (locking direction).</p>
+<p id="p-0034" num="0033">The lever member <b>12</b> is composed of: a flat plate section <b>18</b> that has one end engaged with the second cam section <b>10</b> and that is movably provided in the horizontal direction; and an engagement piece <b>19</b> that is bent with a right angle from one side of this flat plate section <b>18</b> and that is engaged with the engagement groove <b>16</b> when the lock member <b>11</b> is moved to the lock position. The lever member <b>12</b> is moved between the waiting position at which the lock member <b>11</b> is allowed to move (the positions of <figref idref="DRAWINGS">FIG. 4D</figref>, <figref idref="DRAWINGS">FIG. 5D</figref>, <figref idref="DRAWINGS">FIG. 6D</figref>, and <figref idref="DRAWINGS">FIG. 7D</figref>) and the retention position at which the engagement piece <b>19</b> is engaged with the engagement groove <b>16</b> of the lock member <b>11</b> to block the lock member <b>11</b> from moving to the lock position (the positions of <figref idref="DRAWINGS">FIG. 4A</figref>, <figref idref="DRAWINGS">FIG. 5A</figref>, <figref idref="DRAWINGS">FIG. 6A</figref>, and <figref idref="DRAWINGS">FIG. 7A</figref>). The leek lever member <b>12</b> is movably inserted to a insertion hole <b>3</b><i>b </i>formed in the housing <b>3</b> and is urged by a coil spring <b>20</b> towards the second cam section <b>10</b>.</p>
+<p id="p-0035" num="0034">Next, the operation of the above electric steering lock device <b>1</b> will be described. As shown in <figref idref="DRAWINGS">FIG. 4A</figref>, <figref idref="DRAWINGS">FIG. 5A</figref>, <figref idref="DRAWINGS">FIG. 6A</figref>, <figref idref="DRAWINGS">FIG. 7A</figref>, and <figref idref="DRAWINGS">FIG. 9</figref> when the lock member <b>11</b> is locked, the cam engagement section <b>14</b> of the lock member <b>11</b> is engaged with the lock position area <b>9</b><i>a </i>of the first cam section <b>9</b>. Then, the shaft locking protrusion <b>15</b> of the lock member <b>11</b> is protruded from the housing <b>3</b> and is engaged with a steering shaft of the vehicle (not shown). This consequently blocks the rotation of the steering shaft to continuously prevent the vehicle from being maneuverable. Then, one end of the lever member <b>12</b> is engaged with the retention position area <b>10</b><i>a </i>of the second cam section <b>10</b>. This allows the lever member <b>12</b> to be moved to the retention position to insert the engagement piece <b>19</b> of the lever member <b>12</b> to the engagement groove <b>16</b> of the lock member <b>11</b>. This consequently blocks the lock member <b>11</b> from moving to the unlock position.</p>
+<p id="p-0036" num="0035">Next, when the rotation of the motor <b>6</b> in the unlocking direction is started, the worm wheel <b>8</b> is driven to rotate via the rotating shaft <b>6</b><i>a </i>and the worm gear <b>7</b>. Then, as shown in <figref idref="DRAWINGS">FIG. 4B</figref>, <figref idref="DRAWINGS">FIG. 5B</figref>, <figref idref="DRAWINGS">FIG. 6B</figref>, and <figref idref="DRAWINGS">FIG. 7B</figref>, one end of the lever member <b>12</b> is engaged with the lifting area <b>10</b><i>c </i>of the second cam section <b>10</b>. This starts the movement of the lever member <b>12</b> from the retention position to the waiting position. At this point of time, the engagement piece <b>19</b> of the lever member <b>12</b> is still being inserted to the engagement groove <b>16</b> of the lock member <b>11</b>. Thus, the movement of the lock member <b>11</b> to the unlock position is blocked.</p>
+<p id="p-0037" num="0036">When the motor <b>6</b> is further rotated in the unlocking direction, the cam engagement section <b>14</b> of the lock member <b>11</b> is engaged with the lifting area <b>9</b><i>c </i>of the first cam section <b>9</b> as shown in <figref idref="DRAWINGS">FIG. 4C</figref>, <figref idref="DRAWINGS">FIG. 5C</figref>, <figref idref="DRAWINGS">FIG. 6C</figref>, and <figref idref="DRAWINGS">FIG. 7C</figref>. This starts the movement of the lock member <b>11</b> from the lock position to the unlock position. At this point of time, the shaft locking protrusion <b>15</b> of the lock member <b>11</b> is still protruded from the housing <b>3</b> and is engaged with the steering shaft and at the same time one end of the lever member <b>12</b> is engaged with the waiting position area <b>10</b><i>b </i>of the second cam section <b>10</b>. This allows the lever member <b>12</b> to be moved to the waiting position to withdraw the engagement piece <b>19</b> of the lever member <b>12</b> from the engagement groove <b>16</b> of the lock member <b>11</b>. Thus, the lock member <b>11</b> is allowed to move to the unlock position.</p>
+<p id="p-0038" num="0037">Next, when the motor <b>6</b> is further rotated in the unlocking direction, the unlocked status as shown in <figref idref="DRAWINGS">FIG. 4D</figref>, <figref idref="DRAWINGS">FIG. 5D</figref>, <figref idref="DRAWINGS">FIG. 6D</figref>, <figref idref="DRAWINGS">FIG. 7D</figref>, and <figref idref="DRAWINGS">FIG. 10</figref> is reached. This allows the movement of the lock member <b>11</b> and the cam engagement section <b>14</b> of the lock member <b>11</b> is engaged with the unlock position area <b>9</b><i>b </i>of the first cam section <b>9</b>. As a result, the lock member <b>11</b> is moved to the unlock position and the shaft locking protrusion <b>15</b> recedes into the housing <b>3</b>. This allows the rotation of the steering shaft and the vehicle can be maneuvered.</p>
+<p id="p-0039" num="0038">Next, when the locked status is returned again, the worm wheel <b>8</b> is driven by the motor <b>6</b> to rotate in the locking direction. Then, the lock member <b>11</b> follows the first cam section <b>9</b> and is displaced from the unlock position to the lock position. Then, the lever member <b>12</b> follows the second cam section <b>10</b> and is moved to the retention position at which the lock member <b>11</b> is blocked from moving to the unlock position. As a result, the rotation of the steering shaft is blocked and the vehicle cannot be maneuvered.</p>
+<p id="p-0040" num="0039">As described above, according to the present invention, the lock member <b>11</b> is engaged with the steering shaft in a locked status and the engagement piece <b>19</b> of the lever member <b>12</b> is engaged with the engagement groove <b>16</b> of the lock member <b>11</b>. This blocks the lock member <b>11</b> from moving in the unlocking direction. Thus, the lock member <b>11</b> is protected from a so-called soft attack where a small through hole is opened in the cover <b>2</b> or the housing <b>3</b> for example to directly operate the lock member <b>11</b> from outside to move the lock member <b>11</b> to the unlock position. This prevents a situation where the locked status of the steering shaft of a parked vehicle is forcedly unlocked and the vehicle is stolen. The lock member <b>11</b> is inserted to the through hole <b>3</b><i>a </i>provided in the housing <b>3</b> in a retractable manner, which supports the lock member <b>11</b> firmly. This protects the lock member <b>11</b> from a destructive behavior where the lock member <b>11</b> is operated from outside to forcedly unlock the lock member <b>11</b>. In view of this protection, the theft protection performance of a parked vehicle (protection performance of the vehicle from theft) can also be improved. Furthermore, even when the coil spring <b>17</b> for urging the lock member <b>11</b> in the locking direction during a locked status is removed, the lock member <b>11</b> is retained at the lock position by the own weight of the lock member <b>11</b>. In view of this point, the theft protection performance of a parked vehicle can also be improved.</p>
+<p id="p-0041" num="0040">In this embodiment, the lever member <b>12</b> is covered by the housing <b>3</b>. Thus, the lever member <b>12</b> can be protected from a destructive behavior where the lever member <b>12</b> is operated from outside to forcedly unlock the lever member <b>12</b>.</p>
+<p id="p-0042" num="0041">Furthermore, in this embodiment, the worm wheel <b>8</b> is accommodated in the drive unit room. The worm wheel <b>8</b> and the drive unit room are covered by the drive unit housing <b>4</b> and the drive unit cover <b>5</b> and also are sandwiched between the lock member <b>11</b> and the drive unit housing <b>4</b>. This blocks the worm wheel <b>8</b> from being detached from outside. This can protect the worm wheel <b>8</b> from a destructive behavior where the worm wheel <b>8</b> is operated from outside to be forcedly unlocked. Furthermore, the worm wheel <b>8</b> is meshed with the worm gear <b>7</b> fixed to the rotating shaft <b>6</b><i>a </i>of the motor <b>6</b>, which allows a self lock function of the worm wheel <b>8</b> to work when the motor <b>6</b> is stopped. This blocks the worm wheel <b>8</b> from rotating in the unlocking direction. Thus, the locked status of the steering shaft by the lock member <b>11</b> is retained. This can improve the theft protection performance of a parked vehicle.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. An electric steering lock device, comprising:
+<claim-text>a rotating body that is driven by a driving source to rotate in an unlocking direction and a locking direction;</claim-text>
+<claim-text>a first cam section and a second cam section provided in the rotating body;</claim-text>
+<claim-text>a lock member that follows the first cam section to be displaced in a direction orthogonal to a rotation axis of the first cam section between a lock position at which the rotation of a steering shaft is blocked and an unlock position at which the rotation of the steering shaft is allowed;</claim-text>
+<claim-text>a housing and a cover that form a part accommodation room for accommodating the rotating body, the first cam section, the second cam section, and the lock member; and</claim-text>
+<claim-text>a lever member that slides, while following the second cam section, so as to be able to be engaged with or detached from the lock member, wherein:</claim-text>
+<claim-text>the lever member is structured to:</claim-text>
+<claim-text>be positioned, when the lock member is positioned at the unlock position, at a waiting position at which the lock member is allowed to move, and</claim-text>
+<claim-text>be positioned, when the lock member is positioned at the lock position, at a retention position at which the lock member is blocked from being moved to the unlock position.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The electric steering lock device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein:
+<claim-text>the lock member includes an engagement groove that extends in a direction orthogonal to a direction along which the lock member is moved, and</claim-text>
+<claim-text>the lever member includes an engagement piece that is engaged with the engagement groove when the lock member is positioned at the lock position and the lever member is positioned at a retention position.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The electric steering lock device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein:
+<claim-text>the housing includes a through hole to which the lock member can be inserted in a retractable manner.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The electric steering lock device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein:
+<claim-text>the lever member is covered by the housing.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The electric steering lock device according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+<claim-text>a drive unit housing and a drive unit cover which form a drive unit room for accommodating the rotating body. </claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

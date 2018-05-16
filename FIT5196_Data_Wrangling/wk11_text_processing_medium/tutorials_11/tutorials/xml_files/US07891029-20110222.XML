@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891029-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891029</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11416981</doc-number>
+<date>20060503</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>1066</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>G</subclass>
+<main-group>9</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>  4450</main-classification>
+<further-classification>  4456</further-classification>
+</classification-national>
+<invention-title id="d2e53">Bedpan</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>1181001</doc-number>
+<kind>A</kind>
+<name>Griesel</name>
+<date>19160400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  4450</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>1252868</doc-number>
+<kind>A</kind>
+<name>Erickson</name>
+<date>19180100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  4450</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>1445836</doc-number>
+<kind>A</kind>
+<name>Kowalsky</name>
+<date>19230200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  4450</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>1918083</doc-number>
+<kind>A</kind>
+<name>Coles et al.</name>
+<date>19330700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  4450</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>1998061</doc-number>
+<kind>A</kind>
+<name>Wachs</name>
+<date>19350400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  4450</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>3453664</doc-number>
+<kind>A</kind>
+<name>Gilbert</name>
+<date>19690700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>  4112</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>3597771</doc-number>
+<kind>A</kind>
+<name>Rickmeier, Jr.</name>
+<date>19710800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>  4112</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>3877083</doc-number>
+<kind>A</kind>
+<name>Howe</name>
+<date>19750400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  4449</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>3927426</doc-number>
+<kind>A</kind>
+<name>Geddes</name>
+<date>19751200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  41443</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>3992729</doc-number>
+<kind>A</kind>
+<name>Mills</name>
+<date>19761100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  4450</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>4048682</doc-number>
+<kind>A</kind>
+<name>Smith</name>
+<date>19770900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>  5 91</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>4343400</doc-number>
+<kind>A</kind>
+<name>Faucillon</name>
+<date>19820800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>206507</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>4368548</doc-number>
+<kind>A</kind>
+<name>Glass</name>
+<date>19830100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>  4451</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>5079788</doc-number>
+<kind>A</kind>
+<name>Raupp</name>
+<date>19920100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>  4450</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>5136733</doc-number>
+<kind>A</kind>
+<name>Church</name>
+<date>19920800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>  4456</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>5203467</doc-number>
+<kind>A</kind>
+<name>Tucker</name>
+<date>19930400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>2202543</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>5511279</doc-number>
+<kind>A</kind>
+<name>Ippolito</name>
+<date>19960400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 1525706</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>5778461</doc-number>
+<kind>A</kind>
+<name>Attaway</name>
+<date>19980700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  4454</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>5819334</doc-number>
+<kind>A</kind>
+<name>Maze</name>
+<date>19981000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>  4450</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>5867845</doc-number>
+<kind>A</kind>
+<name>Fangmann</name>
+<date>19990200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>  4456</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>6532604</doc-number>
+<kind>B2</kind>
+<name>Moser</name>
+<date>20030300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>  4450</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>2002/0004949</doc-number>
+<kind>A1</kind>
+<name>Spitzer</name>
+<date>20020100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+<classification-national><country>US</country><main-classification>  4451</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>5</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>  4456</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  4450</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  4457</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>220555</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>220527</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>7</number-of-drawing-sheets>
+<number-of-figures>10</number-of-figures>
+</figures>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60681184</doc-number>
+<date>20050514</date>
+</document-id>
+</us-provisional-application>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20060253968</doc-number>
+<kind>A1</kind>
+<date>20061116</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Mosler</last-name>
+<first-name>Theodore J.</first-name>
+<address>
+<city>Raleigh</city>
+<state>NC</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Jarnagin</last-name>
+<first-name>Scott P.</first-name>
+<address>
+<city>Raleigh</city>
+<state>NC</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Korogi</last-name>
+<first-name>Todd M.</first-name>
+<address>
+<city>Mebane</city>
+<state>NC</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="004" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>DiMeo, Sr.</last-name>
+<first-name>Andrew J.</first-name>
+<address>
+<city>Raleigh</city>
+<state>NC</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Nixon Peabody LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Medline Industries, Inc.</orgname>
+<role>02</role>
+<address>
+<city>Mundelein</city>
+<state>IL</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Huynh</last-name>
+<first-name>Khoa D</first-name>
+<department>3751</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Younkins</last-name>
+<first-name>Karen</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A bedpan for collecting waste includes a seating area and a plurality of cavities. The seating area is located in a main body of the bedpan. The plurality of cavities is formed within the seating area and includes a first cavity for collecting liquid waste and a second cavity for collecting solid waste. The first cavity and the second cavity are separated by a divider.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="152.15mm" wi="210.40mm" file="US07891029-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="213.61mm" wi="162.64mm" orientation="landscape" file="US07891029-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="200.74mm" wi="154.94mm" file="US07891029-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="224.11mm" wi="168.74mm" file="US07891029-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="197.95mm" wi="105.24mm" orientation="landscape" file="US07891029-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="140.55mm" wi="176.28mm" file="US07891029-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="193.12mm" wi="135.47mm" file="US07891029-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="202.10mm" wi="155.96mm" orientation="landscape" file="US07891029-20110222-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATION</heading>
+<p id="p-0002" num="0001">This application claims the benefit of U.S. Provisional Application No. 60/681,184, filed May 14, 2005, which is hereby incorporated by reference in its entirety.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0003" num="0002">The present invention relates generally to bedpans and, more particularly, to a bedpan for receiving liquid and solid waste in separate compartments.</p>
+<heading id="h-0003" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0004" num="0003">Originally, bedpans were manufactured using metal materials. Metal bedpans, however, include numerous disadvantages in comparison to plastic bedpans. For example, metal bedpans are expensive to manufacture, are uncomfortable to use, and are difficult to clean. Metal bedpans are uncomfortable because they are cold and hard to the touch of a user. Eventually, the industry began manufacturing plastic bedpans using a relatively inexpensive plastic material, e.g., high-density polyethylene (&#x201c;HDPE&#x201d;) or polypropylene (&#x201c;PP&#x201d;). Some advantages of using plastic material are a lower manufacturing cost, a single-use per patient, and more comfort for the user (e.g., plastic is warmer to the touch of the user).</p>
+<p id="p-0005" num="0004">Current plastic bedpans include numerous problems. Some current bedpans cannot be used for both liquid and solid waste. While some current bedpans can receive both liquid and solid waste, these bedpans are impractical because the liquid and solid waste are received in a single compartment. Thus, an attendant must separate the liquid waste from the solid waste when it is necessary to measure the volume of the liquid waste. One problem associated with these bedpans is that the attendant must pour the liquid waste into a graduated cylinder without also pouring the solid waste. Another problem associated with these bedpans is that the attendant must use an additional container, e.g., the graduated cylinder, to measure the liquid waste.</p>
+<p id="p-0006" num="0005">Other bedpans have thin sides, which increase the affinity for bedsores from pressure distribution. Consequently, pressure ulcers are common in users of current plastic bedpans. Some current bedpans attempt to solve this problem by coupling a cushioning device to the bedpan to alleviate some discomfort. However, the cushioning device includes corners that may cause discomfort during use. Further, the cushioning device may be improperly attached to the bedpan, resulting in improper use of the bedpan, and may absorb liquid waste, resulting in wetting the user and, consequently, leading to ulcer formation.</p>
+<p id="p-0007" num="0006">Another problem associated with some bedpans is that they do not include both a splashguard and a stacking capability. The bedpans that lack a splashguard are more difficult to clean than bedpans with a splashguard. Some bedpans that include a splashguard have a sharp edge near the location where the user contacts the bedpan. The sharp edge causes the user discomfort and increased susceptibility to bedsores.</p>
+<p id="p-0008" num="0007">The bedpans that are not stackable have higher manufacturing and shipping costs and require increased storage space. Although some current bedpans are stackable, the bedpans are at most partially nested. For example, the bedpans are stacked on top of each other such that only a part of one bedpan is located within a portion of another bedpan. In another example, no portion of the bedpan is located within any portion of another bedpan. Other current bedpans that are capable of being stacked fully nested are problematic because they have sharp edges that contribute to ulcer formation.</p>
+<p id="p-0009" num="0008">Yet another problem associated with some bedpans relates to their opaque characteristics. When determining the volume output of a user, an attendant (e.g., a nurse) pours liquid waste into a graduated cylinder. Because the attendant cannot see the contents of an opaque bedpan, the attendant cannot readily determine whether any waste has been deposited in the opaque bedpan. Consequently, in some cases the attendant uses his or her hands to hold back solid waste when pouring the liquid waste into the graduated cylinder.</p>
+<p id="p-0010" num="0009">Further, the opaque characteristics of some bedpans prevents the attendant from readily determining when the bedpan should be emptied. Because the attendant cannot readily view the contents of the bedpan to determine whether the bedpan should be emptied, the user may sit on the bedpan for extended periods of time. These extended periods of time generally increase the likelihood of bedsores formation.</p>
+<p id="p-0011" num="0010">Thus, there is a need to provide a bedpan having a comfortable user surface that reduces the likelihood of bedsores formation. The increased comfort will generally decrease the pain and suffering of a user such as a patient in a hospital.</p>
+<p id="p-0012" num="0011">Another need is directed to providing a bedpan having both a splashguard and a stacking capability. The splashguard decreases the attendant's maintenance duties, such as cleaning the user (e.g., a hospital patient) and the user's bed sheets. The stacking capability decreases manufacturing cost and storage space.</p>
+<p id="p-0013" num="0012">Yet another need is directed to separating the liquid waste and the solid waste. One advantage of separating the liquid waste and the solid waste is that it increases efficiency when measurements of the liquid waste are necessary. Another advantage of separating the liquid waste and the solid waste is that it allows the attendant to make more accurate measurements of the liquid waste volume.</p>
+<p id="p-0014" num="0013">Yet another need is directed to providing a bedpan that enables the attendant to readily determine when the bedpan should be emptied and the amount of liquid waste. Emptying the bedpan as soon as the user has finished using it will generally decrease the likelihood of the formation of bedsores. Further, work efficiency will increase if the attendant is able to readily determine the amount of liquid waste. The present invention is directed to satisfying one or more of these needs and/or to solving other problems.</p>
+<heading id="h-0004" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0015" num="0014">A bedpan for collecting waste includes a seating area and a plurality of cavities. The seating area is located in a main body of the bedpan. The plurality of cavities is formed within the seating area and includes a first cavity for collecting liquid waste and a second cavity for collecting solid waste. The first cavity and the second cavity are separated by a divider.</p>
+<p id="p-0016" num="0015">In another aspect of the present invention, a bedpan for collecting waste includes a main body and a living hinge. The main body collects liquid waste and solid waste and includes a seating area and two cavities. The two cavities, which include a first cavity and a second cavity, are formed within the seating area. The first cavity receives the liquid waste and the second cavity receives the solid waste. The living hinge is rotatably connected to the main body for rotating between a closed position and an open position. The living hinge protects a user from splashing in the closed position and allows stacking of the bedpan in the open position.</p>
+<p id="p-0017" num="0016">In an alternative aspect of the present invention, a stackable bedpan for collecting waste includes a main body for collecting liquid waste and solid waste and a living hinge that is rotatably connected to the main body. The main body is made from a translucent thermoplastic material and includes a plurality of cavities and at least one slit. The plurality of cavities includes a first cavity for collecting the liquid waste and a second cavity for collecting the solid waste. The first cavity and the second cavity are separated by a divider. The slit is located near a rear end of the main body. The living hinge rotates between a closed position and an open position. In the closed position, the living hinge protects a user from liquid waste splashing and, in the open position, the living hinge allows stacking of the bedpan. The living hinge includes a top side, which has a curved shape to provide a comfortable seating area, and an underside, which is shaped to accommodate a second living hinge of a second bedpan when the bedpan and the second bedpan are stacked. The living hinge further includes at least one locking element for securing the living hinge to the main body in the closed position, the locking element being snapped into the at least one slit.</p>
+<p id="p-0018" num="0017">The above summary of the present invention is not intended to represent each embodiment or every aspect of the present invention. The detailed description and Figures will describe many of the embodiments and aspects of the present invention.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE FIGURES</heading>
+<p id="p-0019" num="0018">The foregoing and other advantages of the invention will become apparent upon reading the following detailed description and upon reference to the drawings.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 1</figref> is a perspective top view of a bedpan according to an embodiment of the present invention.</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 2</figref> is an enlarged view showing a living hinge of the bedpan of <figref idref="DRAWINGS">FIG. 1</figref> in an open position.</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 3</figref> is an enlarged view showing a plurality of locking elements of the bedpan of <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 4</figref> is a top view of the bedpan of <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 5</figref> is a sectional view taken along line <b>5</b>-<b>5</b> of <figref idref="DRAWINGS">FIG. 4</figref>.</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 6</figref> is a perspective bottom view of the bedpan of <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 7</figref> is an enlarged view showing the living hinge of the bedpan of <figref idref="DRAWINGS">FIG. 1</figref> in a closed position.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 8</figref><i>a </i>is a side view showing a locking element according to an alternative embodiment of the present invention.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 8</figref><i>b </i>is a side view showing a locking element according to another alternative embodiment of the present invention.</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 9</figref> is a perspective top view of a bedpan according to an alternative embodiment of the present invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<p id="p-0030" num="0029">While the invention is susceptible to various modifications and alternative forms, specific embodiments have been shown by way of example in the drawings and will be described in detail herein. It should be understood, however, that the invention is not intended to be limited to the particular forms disclosed. Rather, the invention is to cover all modifications, equivalents, and alternatives falling within the spirit and scope of the invention.</p>
+<heading id="h-0006" level="1">DESCRIPTION OF ILLUSTRATIVE EMBODIMENTS</heading>
+<p id="p-0031" num="0030">Referring to <figref idref="DRAWINGS">FIG. 1</figref>, a bedpan <b>50</b> includes a main body <b>45</b> and a living hinge <b>5</b>. The main body <b>45</b> includes a top-left side <b>2</b> and a top-right side <b>6</b> (also referred to as &#x201c;top sides <b>2</b>, <b>6</b>&#x201d;) that form a general u-shape and that are ergonomically designed in a slightly concave shape. For example, the top sides <b>2</b>, <b>6</b> include rounded edges to increase comfort to a user of the bedpan <b>50</b>. Further, the two top sides <b>2</b>, <b>6</b> are wide enough to aid in pressure distribution and decrease the likelihood of bedsore formation. In general, the top sides <b>2</b>, <b>6</b> provide a seating area for the user.</p>
+<p id="p-0032" num="0031">A primary wing or flange <b>8</b> is connected near its top edge to a corresponding one of the top sides <b>2</b>, <b>6</b>. The primary wing <b>8</b> is further connected near its bottom edge to a generally flat area <b>10</b>, which in turn is connected to a secondary wing or flange <b>9</b>. The primary wing <b>8</b> is shaped to allow stacking and nesting of the bedpan <b>50</b> within another bedpan <b>50</b>. For example, for stacking and/or nesting purposes, the primary wing <b>8</b> is inclined such that the top edge of the primary wing <b>8</b> is located closer to the center of the main body <b>45</b> than the bottom edge of the primary wing <b>8</b>. Thus, when stacking bedpans <b>50</b>, the angled shape of the primary wing <b>8</b> permits the bedpan <b>50</b> to slide within the other bedpan <b>50</b>.</p>
+<p id="p-0033" num="0032">The generally flat area <b>10</b> includes a bottom surface that makes contact with a bed and, more specifically, with bed sheets. The bottom surface of the generally flat area <b>10</b> slides across the bed sheets when the bedpan <b>50</b> is moved, such as when the bedpan <b>50</b> requires changing. To prevent snagging, which can produce spillage of liquid waste, the bottom surface of the generally flat area <b>10</b> is a generally smooth surface.</p>
+<p id="p-0034" num="0033">The bedpan <b>50</b> rests on a rounded base <b>14</b>. The secondary wing <b>9</b> is located toward the bottom of the bedpan <b>50</b> and terminates in a corner <b>16</b>. The secondary wing <b>9</b> and the corner <b>16</b> are curved upwards relative to and, together with the rounded base <b>14</b>, allow easy transition of the bedpan <b>50</b> while the bedpan <b>50</b> slides across a bed. Thus, the secondary wing <b>9</b>, the rounded base <b>14</b>, and the corner <b>16</b> are shaped to prevent snagging of the bedpan <b>50</b> on the bed sheets.</p>
+<p id="p-0035" num="0034">The main body <b>45</b> further includes a front-left end <b>17</b><i>a</i>, which includes a front portion of the top-left side <b>2</b>, a front-right end <b>17</b><i>b</i>, which includes a front portion of the top-right side <b>6</b>, and a ridge <b>44</b>. To minimize or prevent splashing of liquid waste, the front-left end <b>17</b><i>a </i>and the front-right end <b>17</b><i>b </i>are each slightly inclined upwards relative to the top-left side <b>2</b> and the top-right side <b>6</b>. Thus, the front-left end <b>17</b><i>a </i>and the front-right end <b>17</b><i>b </i>act as a splashguard for the liquid waste. The ridge <b>44</b> connects the front-left end <b>17</b><i>a </i>and the front-fight end <b>17</b><i>b </i>and is separated from the walls of a first cavity <b>12</b> by a gap, or open area. The gap allows a user of the bedpan <b>50</b> to grip the ridge <b>44</b> when it is necessary to pull or push the bedpan <b>50</b> to a desired location.</p>
+<p id="p-0036" num="0035">The main body <b>45</b> also includes the first cavity <b>12</b> and a second cavity <b>3</b>, which are separated by a divider <b>21</b>. The first cavity <b>12</b> is adapted to receive liquid waste and the second cavity <b>3</b> is adapted to receive solid waste. Thus, the divider <b>21</b> is adapted to generally separate the solid waste and the liquid waste.</p>
+<p id="p-0037" num="0036">The first cavity <b>12</b> includes a front wall <b>19</b>, which is located near the front-left end <b>17</b><i>a </i>and the front-right end <b>17</b><i>b </i>of the main body <b>45</b>. The front wall <b>19</b> is adapted to receive at least a portion of another bedpan <b>50</b> when stacked. Further, the first cavity <b>12</b> includes at least one and generally a plurality of graduations <b>15</b> for measuring the volume of the liquid waste. The graduation(s) <b>15</b> eliminate the need to pour the liquid waste from the bedpan <b>50</b> into another container, such as a graduated cylinder, for measurement purposes.</p>
+<p id="p-0038" num="0037">The second cavity <b>3</b> includes a rear wall <b>33</b> that is adapted to receive at least a portion of another bedpan <b>50</b> when stacked. At least one and generally a plurality of slits <b>22</b> are provided near or at the top of the second cavity <b>3</b> for receiving corresponding ones of the locking element(s) <b>4</b>, which are described below in more detail.</p>
+<p id="p-0039" num="0038">The divider <b>21</b>, which includes a front face <b>11</b>, is positioned generally vertically relative to the rounded base <b>14</b> and is used to confine the liquids to the first cavity <b>12</b> and away from the second cavity <b>3</b>. The divider <b>21</b> further includes two notches <b>23</b>, each of the two notches <b>23</b> being positioned near the intersection of the divider <b>21</b> and the main body <b>45</b> of the bedpan <b>50</b>. The notches <b>23</b> are located at the top of the divider <b>21</b>. The notches <b>23</b> are adapted to minimize or eliminate splashing when redirection of liquid from the second cavity <b>3</b> to the first cavity <b>12</b> is necessary. For example, if liquid has accidentally been placed in the second cavity <b>3</b>, a user or attendant can tilt the bedpan <b>50</b> at a sufficient angle to permit the liquid to flow from the second cavity <b>3</b> into the first cavity <b>12</b>. During the redirection of the liquid, the central section of the divider <b>21</b> (which is located generally between the notches <b>23</b>) prevents solid waste from moving from the second cavity <b>3</b> to the first cavity <b>12</b>. Alternatively, any number of notches <b>23</b> may be used at any location in the divider <b>21</b>. For example, the notches <b>23</b> may be located at the bottom of the divider <b>21</b>.</p>
+<p id="p-0040" num="0039">A front section <b>13</b> of the main body <b>45</b> is located near the front of the first cavity <b>12</b>. The front section <b>13</b> may be used as a handle by an attendant, such as a nurse, for holding the bedpan <b>50</b> when it is necessary to move or change the bedpan <b>50</b> or to measure the liquid waste. The front section <b>13</b> includes the ridge <b>44</b> that is designed to provide extra gripping support.</p>
+<p id="p-0041" num="0040">An outer edge <b>1</b> (which connects the top sides <b>2</b>, <b>6</b> to the primary wing <b>8</b>) and an inner edge <b>18</b> (which connects the top sides <b>2</b>, <b>6</b> to the front wall <b>19</b>) wrap around the main body <b>45</b> of the bedpan <b>50</b> to provide a curved, soft edge. Thus, the outer and inner edges <b>1</b>, <b>18</b> produce a comfortable seating edge for a user of the bedpan <b>50</b>.</p>
+<p id="p-0042" num="0041">The living hinge <b>5</b>, which is shown in an open position, includes the locking element(s) <b>4</b> (also referred to as snaps), an underside <b>24</b>, and a curved portion <b>30</b>. In the embodiment depicted, the plurality of locking elements <b>4</b> includes two pairs of locking elements located on opposing sides of the living hinge <b>5</b>. Optionally, any number of locking elements <b>4</b> or pairs of locking elements <b>4</b> are used. For example, as shown in <figref idref="DRAWINGS">FIG. 9</figref>, a single locking element <b>4</b> may be sufficient for securing the living hinge <b>5</b> into the closed position.</p>
+<p id="p-0043" num="0042">The living hinge <b>5</b> has two positions, the open position and a closed position. In the closed position (shown more clearly in <figref idref="DRAWINGS">FIG. 7</figref>), the slits <b>22</b> are adapted to receive, correspondingly, the locking element(s) <b>4</b>. After closing the living hinge <b>5</b>, it may be reopened for easy cleaning.</p>
+<p id="p-0044" num="0043">The curved portion <b>30</b> includes two ends <b>25</b> and is located at an end of the living hinge <b>5</b>. The curved portion <b>30</b> is designed to allow for a wider opening at a top surface when the living hinge <b>5</b> is in a closed position (shown more clearly in <figref idref="DRAWINGS">FIG. 7</figref>).</p>
+<p id="p-0045" num="0044">The underside <b>24</b> is manufactured to provide the bedpan <b>50</b> with a stackable feature, wherein a plurality of bedpans <b>50</b> can be stacked to minimize storage space. At a minimum, the living hinge <b>5</b> of a first bedpan <b>50</b> will not interfere with the living hinge <b>5</b> of a second bedpan <b>50</b> when the second bedpan <b>50</b> is stacked on top of the first bedpan <b>50</b>. Optionally, the living hinge <b>5</b> of the first bedpan <b>50</b> may accommodate in its respective underside <b>24</b> at least a portion of the living hinge <b>5</b> of the second bedpan <b>50</b>.</p>
+<p id="p-0046" num="0045">Referring to <figref idref="DRAWINGS">FIG. 2</figref>, the living hinge <b>5</b> includes at least one hinge <b>27</b> that is connected to a back end <b>28</b> of the main body <b>45</b>. The living hinge <b>5</b> rotates around an axis of the hinge <b>27</b> to change between the open position and the closed position.</p>
+<p id="p-0047" num="0046">Referring to <figref idref="DRAWINGS">FIG. 3</figref>, the curved portion <b>30</b> includes ends <b>25</b> (only one end <b>25</b> is shown) that are rounded to provide increased comfort to the user. A back end <b>43</b> of the living hinge <b>5</b> is also rounded to provide increased comfort to the user. Thus, when a user sits on the bedpan <b>50</b>, the rounded shape of the ends <b>25</b> and the back end <b>43</b> of the living hinge <b>5</b> increases the comfort level for the user.</p>
+<p id="p-0048" num="0047">The main body <b>45</b> further includes a bottom back edge <b>29</b>. To prevent snagging of the bedpan <b>50</b> on the bed sheets, the bottom back edge <b>29</b> is rounded for ease of gliding along the surface of the bed.</p>
+<p id="p-0049" num="0048">Referring to <figref idref="DRAWINGS">FIG. 4</figref>, the divider <b>21</b> includes an inclined side <b>32</b>. According to the shown embodiment, a top edge of the inclined side <b>32</b> is angled toward the second cavity <b>3</b>.</p>
+<p id="p-0050" num="0049">Referring to <figref idref="DRAWINGS">FIG. 5</figref>, the divider <b>21</b> is represented having an incline <b>34</b> and a drop-off <b>11</b>. The incline <b>34</b> and the drop-off <b>11</b> are inclined toward each other, and are connected via a middle section of the divider <b>21</b>. The incline <b>34</b> slopes from the middle section of the divider <b>21</b> towards the first cavity <b>12</b>, and the drop-off <b>11</b> slopes from the middle section of the divider <b>21</b> towards the second cavity <b>3</b>. The slope angle of the incline <b>34</b> and the drop-off <b>11</b> can be different, can be the same, and/or can be directed towards either the first cavity <b>12</b> or the second cavity <b>3</b>. For example, in an alternative embodiment (not shown) the middle section of the divider <b>21</b> is located closer towards the second cavity <b>3</b> than the embodiment depicted in <figref idref="DRAWINGS">FIG. 5</figref> and the drop-off <b>11</b> is positioned parallel to the incline <b>34</b>, wherein both the incline <b>34</b> and the drop-off <b>11</b> are sloped towards the first cavity <b>12</b>.</p>
+<p id="p-0051" num="0050">Referring to <figref idref="DRAWINGS">FIG. 6</figref>, the living hinge <b>5</b> includes an indentation <b>39</b> that is located in a central bottom portion of the living hinge <b>5</b>. The indentation <b>39</b> is also known as a tailbone scoop and relieves pressure exerted against the user's tailbone. The pressure exerted against the user's tailbone is a common source of pressure ulcers in users, especially in users that have been sitting on the bedpan <b>50</b> for extended periods of time.</p>
+<p id="p-0052" num="0051">Referring to <figref idref="DRAWINGS">FIG. 7</figref>, the living hinge <b>5</b> is shown in the closed position. As shown, the curved portion <b>30</b> is angled such that an opening is provided that is wider at a top edge of the curved portion <b>30</b> than at a bottom edge of the curved portion <b>30</b>. An inner edge <b>41</b> of the living hinge <b>5</b> is curved downward to prevent the user from contacting any sharp edges. A top side <b>42</b> of the living hinge <b>5</b> is generally concavely shaped similar to the top sides <b>2</b>, <b>6</b> of the main body <b>45</b> to provide a comfortable seating arrangement.</p>
+<p id="p-0053" num="0052">Referring to <figref idref="DRAWINGS">FIG. 8</figref><i>a</i>, locking element(s) other than the locking element(s) <b>4</b> described above in reference to <figref idref="DRAWINGS">FIG. 1</figref> may be used. For example, a locking element <b>400</b> is provided according to an alternative embodiment of the present invention. The locking element <b>400</b> is designed to snap into a corresponding slit such that the living hinge <b>5</b> remains in the closed position. Specifically, the locking element <b>400</b> is designed as a permanent snapping element.</p>
+<p id="p-0054" num="0053">Referring to <figref idref="DRAWINGS">FIG. 8</figref><i>b</i>, a locking element <b>4000</b> is provided according to another alternative embodiment of the present invention. The locking element <b>4000</b> is designed to snap into a corresponding slit such that the living hinge <b>5</b> remains snapped temporarily into the closed position. Specifically, the locking element <b>4000</b> is designed to be a temporary snapping element. Using such a locking element, for example, the living hinge <b>5</b> may be reopened periodically for easy cleaning.</p>
+<p id="p-0055" num="0054">Referring to <figref idref="DRAWINGS">FIG. 9</figref>, a divider <b>210</b> having an inclined side <b>320</b> is shown in accordance with an alternative embodiment of the present invention. The divider <b>210</b> is located closer to the front section <b>13</b> of the bedpan <b>50</b>, in comparison to the divider <b>21</b> described in reference to <figref idref="DRAWINGS">FIGS. 1-8</figref><i>b</i>. The graduation(s) <b>15</b> (not shown) are located closer together and, consequently, it is easier to differentiate between various volume levels. Because the divider <b>210</b> is closer to the front of the bedpan <b>50</b>, the overall fluid capacity is decreased as the first cavity <b>120</b> in this embodiment is smaller than the first cavity <b>12</b> of the embodiments described in reference to <figref idref="DRAWINGS">FIGS. 1-8</figref><i>b. </i></p>
+<p id="p-0056" num="0055">The inclined side <b>320</b> of the embodiment represented in <figref idref="DRAWINGS">FIG. 9</figref> includes a more gradual angle than the inclined side <b>32</b> of the embodiments described in reference to <figref idref="DRAWINGS">FIGS. 1-8</figref><i>b </i>(wherein the inclined side <b>32</b> is positioned generally vertically). The more gradual angle allows the bedpan <b>50</b> to be tipped at a smaller angle, in comparison to the embodiments described in reference with <figref idref="DRAWINGS">FIGS. 1-8</figref><i>b </i>when draining fluid from a second cavity <b>300</b>.</p>
+<p id="p-0057" num="0056">The living hinge <b>5</b> provides several advantages, including easy manufacturing, stackable capability, splash protection, comfortable seating, easy measuring of the fluid waste deposited in the bedpan <b>50</b>, and easy cleaning. The bedpan <b>50</b> may be manufactured using a variety of materials including, but not limited to, injection molded clarified polypropylene (PP), high-density polyethylene (HDPE), other polyolefin(s), and/or similar thermoplastic material(s) that produce a translucent, transparent, or generally translucent and/or transparent bedpan <b>50</b>. In addition, combinations of these materials may be used to allow the attendant to easily measure liquid waste present in the first cavity <b>12</b>, <b>120</b>. The attendant can readily measure the liquid waste using the graduation(s) <b>15</b>. Further, the use of translucent and/or transparent material(s) allows the attendant to quickly determine whether the bedpan <b>50</b> has been soiled and, therefore, whether the bedpan <b>50</b> should be changed.</p>
+<p id="p-0058" num="0057">The bedpan <b>50</b> can be manufactured using a molding process, wherein no undercuts are necessary. When the living hinge <b>5</b> is in the open position, the bedpan <b>50</b> can be stacked upon another bedpan <b>50</b>. When the living hinge <b>5</b> is in the closed position, it functions as a splashguard for protecting the user and/or the attendant. Because no undercutting is necessary, the living hinge <b>5</b> has generally curved and smooth edges that provide a more comfortable seating position. The comfortable seating position helps to greatly reduce the number of bedsores for the user. In addition, the attendant can easily open the living hinge <b>5</b> for easy and thorough cleaning of the bedpan <b>50</b> in between uses.</p>
+<p id="p-0059" num="0058">Several of the advantages described above are achieved using the divider <b>21</b>, <b>210</b>. For example, easy measuring of the fluid waste is achieved using the divider <b>21</b>, <b>210</b>. By separating the solid and liquid waste, the attendant can accurately measure the liquid waste. The middle section of the divider <b>21</b>, <b>210</b> acts as a solid waste barrier while the liquid waste can easily flow over the notches <b>23</b> on either side of the divider <b>21</b>, <b>210</b>. In another example, the divider <b>21</b>, <b>210</b> can act as a splashguard.</p>
+<p id="p-0060" num="0059">Other advantages of the current invention are provided by the graduation(s) <b>15</b>, which are included on the liquid side of the bedpan <b>50</b>. For example, the graduation(s) <b>15</b> allow the attendant to make easy and accurate measurement of a user's liquid waste.</p>
+<p id="p-0061" num="0060">Additional advantages are provided by the secondary wing <b>9</b> and the corner <b>16</b>. The secondary wing <b>9</b> and the corner <b>16</b> are curved upwards to prevent snagging of the bedpan <b>50</b> on bed sheets. Thus, the upward curvature of at least one of the secondary wing <b>9</b> and the corner <b>6</b> is advantageous because it allows unobstructed movement of the bedpan <b>50</b> when the bedpan <b>50</b> slides across a bed.</p>
+<p id="p-0062" num="0061">While the present invention has been described with reference to one or more particular embodiments, those skilled in the art will recognize that many changes may be made thereto without departing from the spirit and scope of the present invention. Each of these embodiments and obvious variations thereof is contemplated as falling within the spirit and scope of the invention, which is set forth in the following claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A bedpan for collecting waste comprising:
+<claim-text>a main body for collecting liquid waste and solid waste, the main body including a seating area and two cavities formed within the seating area, the two cavities including a first cavity and a second cavity, the first cavity receiving the liquid waste and the second cavity receiving the solid waste; and</claim-text>
+<claim-text>a living hinge rotatably connected to the main body, the living hinge rotating between a closed position and an open position, the living hinge protecting a user from splashing in the closed position and allowing stacking of the bedpan in the open position, the living hinge comprising
+<claim-text>a top side that is concavely shaped to provide a comfortable seating arrangement when the living hinge is in the closed position,</claim-text>
+<claim-text>an indentation located near a central bottom portion of the living hinge, the indentation adapted for relieving pressure exerted against the tailbone of a user,</claim-text>
+<claim-text>a back end that is rounded for increased comfort to the user, and</claim-text>
+<claim-text>a curved portion that allows for a wider opening at a top surface of the curved portion than at a bottom edge of the curved portion when the living hinge is in the closed position.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The bedpan of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the main body further includes one or more slits for receiving corresponding one or more locking elements, the one or more locking elements being located in the living hinge near an underside of the living hinge.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The bedpan of <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the one or more locking elements are selected from permanent snapping elements and temporary snapping elements.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The bedpan of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the living hinge further comprises an inner edge that is curved downward to prevent the user from contacting any sharp edges.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The bedpan of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the living hinge further comprises an underside shaped to accommodate a second living hinge of a second bedpan when the bedpan and the second bedpan are stacked. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

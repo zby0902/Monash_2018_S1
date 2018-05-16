@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891173-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891173</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12026709</doc-number>
+<date>20080206</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2007-027780</doc-number>
+<date>20070207</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>236</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>3</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 60287</main-classification>
+<further-classification> 60274</further-classification>
+<further-classification> 60285</further-classification>
+<further-classification> 60288</further-classification>
+</classification-national>
+<invention-title id="d2e71">Exhaust gas cleaning apparatus and method thereof</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>5085050</doc-number>
+<kind>A</kind>
+<name>Katoh</name>
+<date>19920200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60288</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>5398503</doc-number>
+<kind>A</kind>
+<name>Danno et al.</name>
+<date>19950300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60288</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>5577383</doc-number>
+<kind>A</kind>
+<name>Kuroda et al.</name>
+<date>19961100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60284</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>6397586</doc-number>
+<kind>B1</kind>
+<name>Sakurai et al.</name>
+<date>20020600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60288</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>7509800</doc-number>
+<kind>B2</kind>
+<name>I et al.</name>
+<date>20090300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60288</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>2006/0236682</doc-number>
+<kind>A1</kind>
+<name>I et al.</name>
+<date>20061000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>CN</country>
+<doc-number>1854475</doc-number>
+<kind>A</kind>
+<date>20061100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>EP</country>
+<doc-number>1217196</doc-number>
+<kind>A2</kind>
+<date>20020600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>EP</country>
+<doc-number>1715152</doc-number>
+<kind>A1</kind>
+<date>20061000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>FR</country>
+<doc-number>2790789</doc-number>
+<kind>A1</kind>
+<date>20000900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>JP</country>
+<doc-number>2005-351088</doc-number>
+<kind>A</kind>
+<date>20051200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>18</number-of-claims>
+<us-exemplary-claim>12</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 60274</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 60287</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 60288</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 60299</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 60285</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>4</number-of-drawing-sheets>
+<number-of-figures>4</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20080184699</doc-number>
+<kind>A1</kind>
+<date>20080807</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Akaba</last-name>
+<first-name>Motoharu</first-name>
+<address>
+<city>Yokohama</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>I</last-name>
+<first-name>Suki</first-name>
+<address>
+<city>Hwa-sung</city>
+<country>KR</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>KR</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Inoue</last-name>
+<first-name>Takao</first-name>
+<address>
+<city>Yokohama</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="004" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Nishizawa</last-name>
+<first-name>Kimiyoshi</first-name>
+<address>
+<city>Yokohama</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Global IP Counselors, LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Nissan Motor Co., Ltd.</orgname>
+<role>03</role>
+<address>
+<city>Yokohama</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Denion</last-name>
+<first-name>Thomas E</first-name>
+<department>3748</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Tran</last-name>
+<first-name>Diem</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">An exhaust gas cleaning apparatus is provided that has a main exhaust passage, a main catalytic converter disposed in the main exhaust passage, a bypass exhaust passage, a bypass catalytic converter disposed in the bypass exhaust passage, a selector valve and a controller. The controller controls the internal combustion engine to a rich combustion state with a rich air fuel ratio while the controller controls the selector valve to block the flow of the exhaust gas through the main exhaust passage, and then, afterwards, controls the selector valve to direct the flow of the exhaust gas through the main exhaust passage such that residual air remaining in the main exhaust passage mixes with rich exhaust gas from the bypass exhaust passage.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="142.58mm" wi="165.69mm" file="US07891173-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="215.05mm" wi="215.90mm" file="US07891173-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="279.40mm" wi="189.57mm" file="US07891173-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="279.40mm" wi="196.85mm" file="US07891173-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="279.40mm" wi="212.51mm" file="US07891173-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application claims priority to Japanese Patent Application No. 2007-027780, filed on Feb. 7, 2007. The entire disclosure of Japanese Patent Application No. 2007-027780 is hereby incorporated herein by reference.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">1. Field of the Invention</p>
+<p id="p-0004" num="0003">The present invention generally relates to an exhaust gas cleaning apparatus for cleaning exhaust gas from an internal combustion engine with a catalytic converter. More particularly, the present invention relates to improving an exhaust gas cleaning apparatus by directing exhaust gas into a bypass path equipped with a separate catalytic converter during a period immediately after the engine is cold started during which a main catalytic converter installed in a main exhaust passage is not yet active.</p>
+<p id="p-0005" num="0004">2. Background Information</p>
+<p id="p-0006" num="0005">Most vehicles with an internal combustion engine are provided with an exhaust gas cleaning apparatus. Most exhaust gas cleaning systems are disposed under the floor of a vehicle and include a catalytic converter. When the catalytic converter is arranged in a relatively downstream position from the engine, a sufficient exhaust gas cleaning effect cannot be expected during a period from when the internal combustion engine is cold started until the temperature of the main catalytic converter rises and the main catalytic converter becomes active. Meanwhile, the further upstream a catalytic converter is arranged, i.e., the closer a catalytic converter is arranged to the engine, the service life of the catalytic converter declines due to thermal degradation of the catalyst.</p>
+<p id="p-0007" num="0006">Consequently, some vehicles are provided with an exhaust gas cleaning system that includes a main catalytic converter and a bypass catalytic converter having a smaller capacity than the main catalytic converter. One example of this type of exhaust cleaning system is disclosed in Japanese Laid-Open Patent Publication No. 2005-351088. In this publication, an exhaust gas cleaning apparatus is proposed that has a main exhaust passage with the main catalytic converter and a bypass exhaust passage provided in parallel with an upstream portion of the main exhaust passage. The bypass catalytic converter is provided in the bypass exhaust passage, and a selector valve is provided which allows the flow of exhaust gas to be directed to either the main exhaust passage or the bypass exhaust passage. The selector valve is controlled such that immediately after the engine is cold started, the exhaust gas passes through the bypass exhaust passage and is cleaned by the bypass catalytic converter. Since the bypass catalytic converter is positioned farther upstream than the main catalytic converter and the capacity thereof is smaller than that of the main catalytic converter, the bypass catalytic converter becomes active quickly and starts cleaning the exhaust gas at an early stage.</p>
+<p id="p-0008" num="0007">In view of the above, it will be apparent to those skilled in the art from this disclosure that there exists a need for an improved exhaust gas cleaning apparatus. This invention addresses this need in the art as well as other needs, which will become apparent to those skilled in the art from this disclosure.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0009" num="0008">It has been discovered that in the exhaust gas cleaning apparatus described above, there is residual air remaining in the upstream side of the main exhaust passage when the main catalytic converter reaches the active temperature and the flow of exhaust gas is switched from the bypass exhaust passage to the main exhaust passage. Consequently, when the flow path of the exhaust gas is switched, the residual air in the main exhaust passage mixes with the stoichiometric exhaust gas from the bypass exhaust passage and a lean mixture enters the main catalytic converter. Thus, even though the main catalytic converter is in an active state, there is the possibility that it will not be able to sufficiently clean the lean exhaust gas mixture and NOx will be discharged from the vehicle.</p>
+<p id="p-0010" num="0009">In view of the above, one object of the present invention is to provide an exhaust gas cleaning apparatus that can reliably clean exhaust gas during the period immediately after the internal combustion engine is started.</p>
+<p id="p-0011" num="0010">The above mentioned object can basically be attained by providing an exhaust gas cleaning apparatus that basically comprises a main exhaust passage, a main catalytic converter, a bypass exhaust passage, a bypass catalytic converter, a selector valve and a controller. The main exhaust passage is configured to receive exhaust gas from an internal combustion engine therethrough. The main catalytic converter is disposed in the main exhaust passage. The bypass exhaust passage includes a first end connected to the main exhaust passage at a first point that is upstream from the main catalytic converter and a second end connected to the main exhaust passage at a second point that is upstream from the main catalytic converter. The bypass catalytic converter is disposed in the bypass exhaust passage between the first and second ends of the bypass exhaust passage. The selector valve is arranged to selectively control a flow of the exhaust gas from the internal combustion engine between the main exhaust passage and the bypass exhaust passage. The controller is configured to control a combustion state of the internal combustion engine and to selectively open and close of the selector valve. The controller is further configured to control the internal combustion engine to a rich combustion state with a rich air fuel ratio while the controller controls the selector valve to block the flow of the exhaust gas through the main exhaust passage, and then, afterwards, controls the selector valve to direct the flow of the exhaust gas through the main exhaust passage such that residual air remaining in the main exhaust passage mixes with rich exhaust gas from the bypass exhaust passage.</p>
+<p id="p-0012" num="0011">These and other objects, features, aspects and advantages of the present invention will become apparent to those skilled in the art from the following detailed description, which, taken in conjunction with the annexed drawings, discloses a preferred embodiment of the present invention.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0013" num="0012">Referring now to the attached drawings which form a part of this original disclosure:</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 1</figref> is a simple schematic view illustrating an exhaust gas cleaning apparatus in accordance with one embodiment of the present invention;</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 2</figref> is a flowchart showing the processing steps executed during the exhaust gas cleaning control by the controller of the exhaust gas cleaning apparatus illustrated in <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 3</figref> is a flowchart showing the processing steps executed by the controller of the exhaust gas cleaning apparatus illustrated in <figref idref="DRAWINGS">FIG. 1</figref> for setting the delay time Tf; and</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 4</figref> is a time chart for explaining the exhaust gas cleaning control of the controller of the exhaust gas cleaning apparatus illustrated in <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENTS</heading>
+<p id="p-0018" num="0017">Selected embodiments of the present invention will now be explained with reference to the drawings. It will be apparent to those skilled in the art from this disclosure that the following descriptions of the embodiments of the present invention are provided for illustration only and not for the purpose of limiting the invention as defined by the appended claims and their equivalents.</p>
+<p id="p-0019" num="0018">Referring initially to <figref idref="DRAWINGS">FIG. 1</figref>, a simplified diagram of an exhaust gas cleaning apparatus <b>100</b> is illustrated in accordance with one embodiment of the present invention. The exhaust gas cleaning apparatus <b>100</b> is connected to an internal combustion engine exhaust having one or more cylinders <b>1</b>. In particular, the exhaust gas cleaning apparatus <b>100</b> is fluidly connected to the exhaust ports of each of the cylinders <b>1</b> for receiving the exhaust gas from the cylinders <b>1</b> of the internal combustion engine. The exhaust gas cleaning apparatus <b>100</b> is configured such that the exhaust gas from an internal combustion engine is cleaned before being discharged to the outside.</p>
+<p id="p-0020" num="0019">The exhaust gas cleaning apparatus includes a main exhaust passage <b>2</b> for initially receive all of the exhaust gas from the cylinders <b>1</b> of the internal combustion engine and a main catalytic converter <b>3</b> disposed in the main exhaust passage <b>2</b> for cleaning the exhaust gas from the cylinders <b>1</b> of the internal combustion engine. The main catalytic converter <b>3</b> is arranged under the floor of a cabin of a vehicle. In the illustrated embodiment, the main exhaust passage <b>2</b> includes a plurality of upstream main exhaust passages <b>2</b><i>a</i>, an intermediate main exhaust passage <b>2</b><i>b </i>and a downstream main exhaust passage <b>2</b><i>c. </i></p>
+<p id="p-0021" num="0020">The upstream ends of the upstream main exhaust passages <b>2</b><i>a </i>are fluidly connected to the exhaust ports of respective ones of the cylinders <b>1</b>, i.e., the #1 to #4 cylinders, respectively, of the engine and the downstream ends are gathered together. The intermediate main exhaust passage <b>2</b><i>b </i>is fluidly connected to the downstream ends of the upstream main exhaust passages <b>2</b><i>a </i>and the upstream end of the downstream main exhaust passage <b>2</b><i>c </i>at a connection point P. The main catalytic converter <b>3</b> is disposed in the downstream main exhaust passage <b>2</b><i>c </i>with the downstream end of the downstream main exhaust passage <b>2</b><i>c </i>discharging the exhaust gas to the outside. The main catalytic converter <b>3</b> is installed in the downstream main exhaust passage <b>2</b><i>c</i>, and the catalysts of the main catalytic converter <b>3</b> include a three-way catalyst and an HC trap catalyst.</p>
+<p id="p-0022" num="0021">A selector valve <b>4</b> is provided in each of the upstream main exhaust passages <b>2</b><i>a </i>(each of which is connected to one of the cylinders <b>1</b> as mentioned above) near the gathering portion where the downstream ends of the upstream main exhaust passages <b>2</b><i>a </i>are fluidly connected to intermediate main exhaust passage <b>2</b><i>b</i>. The selector valves <b>4</b> are configured and arranged to open and close the upstream main exhaust passages <b>2</b><i>a </i>with respect to the intermediate main exhaust passage <b>2</b><i>b</i>. In particular, the upstream main exhaust passages <b>2</b><i>a </i>are fluidly connected together by a single passage located downstream of the selector valves <b>4</b>, with a single merge portion <b>5</b> connecting to the intermediate main exhaust passage <b>2</b><i>b</i>. The selector valves <b>4</b> are closed when the engine is cold. When the selector valves <b>4</b> are closed, communication between the upstream main exhaust passages <b>2</b><i>a </i>and the intermediate main exhaust passage <b>2</b><i>b </i>is blocked.</p>
+<p id="p-0023" num="0022">Instead of providing the selector valves <b>4</b> in each of the upstream main exhaust passages <b>2</b><i>a</i>, it is also acceptable to use a single selector valve unit <b>6</b> provided at the merge portion <b>5</b>. In the case of the selector valve unit <b>6</b> being provided at the merge portion <b>5</b>, the selector valve unit <b>6</b> is provided with internal selector valves configured and arrange to open and close the cross sections of the upstream main exhaust passages <b>2</b><i>a </i>so as to permit or block communication between the upstream main exhaust passages <b>2</b><i>a </i>and the intermediate main exhaust passage <b>2</b><i>b. </i></p>
+<p id="p-0024" num="0023">The exhaust gas cleaning apparatus <b>100</b> further includes a bypass exhaust passage <b>7</b> for diverting the exhaust gas through a pair of bypass catalytic converters <b>8</b> disposed in the bypass exhaust passage <b>7</b> when the selector valves <b>4</b> are closed. In the illustrated embodiment, the bypass exhaust passage <b>7</b> includes a plurality of upstream bypass exhaust passages <b>7</b><i>a </i>and a downstream bypass exhaust passage <b>7</b><i>b</i>. The downstream bypass exhaust passage <b>7</b><i>b </i>merges to the main exhaust passage <b>2</b> at the connection or merge point P where the intermediate main exhaust passage <b>2</b><i>b </i>and the downstream main exhaust passage <b>2</b><i>c </i>connect together.</p>
+<p id="p-0025" num="0024">The upstream ends of the upstream bypass exhaust passages <b>7</b><i>a </i>form a first end of the bypass exhaust passage <b>7</b>. The upstream bypass exhaust passages <b>7</b><i>a </i>are connected to the upstream main exhaust passages <b>2</b><i>a </i>of the main exhaust passage, respectively, at first branch points <b>9</b> that are upstream from the main catalytic converter <b>3</b>. Thus, the upstream bypass exhaust passages <b>7</b><i>a </i>branch from each of the upstream main exhaust passages <b>2</b><i>a</i>, and then merge together at the upstream end of the downstream bypass exhaust passage <b>7</b><i>b. </i></p>
+<p id="p-0026" num="0025">The downstream end of the downstream bypass exhaust passage <b>7</b><i>b </i>forms a second end of the bypass exhaust passage <b>7</b>. The downstream bypass exhaust passage <b>7</b><i>b </i>is connected to the intermediate main exhaust passage <b>2</b><i>b </i>of the main exhaust passage at the connection (second branch) point P that is upstream from the main catalytic converter <b>3</b>. The bypass catalytic converters <b>8</b> are disposed in the bypass exhaust passage <b>7</b> between the first and second ends of the bypass exhaust passage <b>7</b>, i.e., in the downstream bypass exhaust passage <b>7</b><i>b</i>. Thus, the bypass catalytic converters <b>8</b> are arranged upstream of the main catalytic converter <b>3</b>.</p>
+<p id="p-0027" num="0026">When the selector valves <b>4</b> are closed, communication between the upstream main exhaust passages <b>2</b><i>a </i>and the intermediate main exhaust passage <b>2</b><i>b </i>is blocked, and the exhaust gas pass through the bypass exhaust passage <b>7</b> to be sequentially cleaned by the bypass catalytic converters <b>8</b>. When the selector valves <b>4</b> are opened, there is communication between the upstream main exhaust passages <b>2</b><i>a </i>and the intermediate main exhaust passage <b>2</b><i>b </i>and the exhaust gas flows into the intermediate main exhaust passage <b>2</b><i>b </i>to be cleaned by the main catalytic converter <b>3</b>.</p>
+<p id="p-0028" num="0027">The smaller the distance and passage volume of the main exhaust passage <b>2</b> upstream of the selector valves <b>4</b> are, the more readily the temperature of the exhaust gas in the bypass exhaust passage <b>7</b> will rise immediately after the engine is cold started. The upstream bypass exhaust passages <b>7</b><i>a </i>of the bypass exhaust passage <b>7</b> that branch from each of the upstream main exhaust passages <b>2</b><i>a </i>have cross sectional areas that are considerably smaller than that of the upstream main exhaust passages <b>2</b><i>a</i>. Consequently, while some of the exhaust gas flows to the bypass exhaust passage <b>7</b> when the main exhaust passage <b>2</b> is blocked, most of the exhaust gas flows to the main exhaust passage <b>2</b> when the main exhaust passage <b>2</b> is opened. The branch points <b>9</b> where the upstream ends of the upstream bypass exhaust passages <b>7</b><i>a </i>connect to the upstream main exhaust passages <b>2</b><i>a </i>are positioned as far upstream as possible with respect to the upstream main exhaust passages <b>2</b><i>a</i>. The upstream bypass exhaust passages <b>7</b><i>a </i>merge together and connect to the single downstream bypass exhaust passage <b>7</b><i>b</i>. As explained previously, the downstream side of the downstream bypass exhaust passage <b>7</b><i>b </i>merges with the connection (merge) point P where the intermediate main exhaust passage <b>2</b><i>b </i>and the downstream main exhaust passage <b>2</b><i>c </i>are connected together. Although the upstream bypass exhaust passages <b>7</b><i>a </i>are depicted as being comparatively long in the simple schematic view of <figref idref="DRAWINGS">FIG. 1</figref>, the upstream bypass exhaust passages <b>7</b><i>a </i>are actually configured to be as short as possible. In other words, the upstream bypass exhaust passages <b>7</b><i>a </i>are configured to merge with the downstream bypass exhaust passage <b>7</b><i>b </i>through the shortest distance possible.</p>
+<p id="p-0029" num="0028">Each of the bypass catalytic converter <b>8</b> includes a three-way catalyst that is arranged in an intermediate portion of the downstream bypass exhaust passage <b>7</b><i>b</i>. The bypass catalytic converters <b>8</b> are arranged as far upstream in the downstream bypass exhaust passage <b>7</b><i>b </i>as possible. The downstream bypass exhaust passage <b>7</b><i>b </i>is also configured to be as short as possible. The bypass catalytic converters <b>8</b> have smaller capacities than the main catalytic converter, and preferably use a catalyst that has excellent low temperature activity. The bypass catalytic converters <b>8</b> are arranged as far upstream as possible, i.e., as close as possible to the engine, so that it can be activated early after the engine is started.</p>
+<p id="p-0030" num="0029">Cleaned exhaust gas exiting the bypass catalytic converters <b>8</b> flow through the downstream bypass exhaust passage <b>7</b><i>b </i>and into the downstream main exhaust passage <b>2</b><i>c </i>at the connection or merge point P where the intermediate main exhaust passage <b>2</b><i>b </i>and the downstream main exhaust passage <b>2</b><i>c </i>connected together.</p>
+<p id="p-0031" num="0030">A first air fuel ratio sensor <b>19</b><i>a </i>is arranged on the upstream sides of the bypass catalytic converters <b>8</b> and a second air fuel ratio sensor <b>19</b><i>b </i>is arranged on the upstream side of the main catalytic converter <b>3</b>. The air fuel ratio sensors <b>19</b><i>a </i>and <b>19</b><i>b </i>are configured and arranged to detect the air fuel ratio of the exhaust gas entering the respective ones of the catalytic converters <b>8</b> and <b>3</b>. A first oxygen sensor <b>20</b><i>a </i>is arranged on the downstream sides of the bypass catalytic converters <b>8</b> and a second oxygen sensor <b>20</b><i>b </i>is arranged on the downstream side of the main catalytic converter <b>3</b>. The oxygen sensors <b>20</b><i>a </i>and <b>20</b><i>b </i>are configured and arranged to detect the excess air state of the exhaust gas exiting the respective catalytic converters <b>8</b> and <b>3</b>.</p>
+<p id="p-0032" num="0031">The outputs of the sensors <b>19</b><i>a</i>, <b>19</b><i>b</i>, <b>20</b><i>a </i>and <b>20</b><i>b </i>are fed to a controller <b>30</b> contrived to execute comprehensive control of the exhaust gas cleaning apparatus. In addition to the output of the sensors <b>19</b><i>a</i>, <b>19</b><i>b</i>, <b>20</b><i>a</i>, and <b>20</b><i>b</i>, the controller <b>30</b> also receives signals from a rotational speed sensor <b>50</b>, an accelerator pedal sensor <b>51</b>, and a throttle sensor <b>52</b> indicating the rotational speed of the engine, the accelerator pedal position, and the throttle valve opening degree, respectively. Based on the information from these sensors, the controller <b>30</b> determines the activation state of the catalytic converters <b>3</b> and <b>8</b> and controls the open-close state of the selector valves <b>4</b> and the fuel injection of the engine accordingly.</p>
+<p id="p-0033" num="0032">The controller <b>30</b> is an integrated controller that functions as an engine control unit (ECU) to control the opening and closing of the selector valves <b>4</b> and the operational state of the internal combustion engine. The controller <b>30</b> preferably includes a microcomputer with an engine control program that controls the operational state of the internal combustion engine as discussed below. The controller <b>30</b> also includes other conventional components such as an input interface circuit, an output interface circuit, and storage devices such as a ROM (Read Only Memory) device and a RAM (Random Access Memory) device. It will be apparent to those skilled in the art from this disclosure that the precise structure and algorithms for the controller <b>30</b> can be any combination of hardware and software that will carry out the functions of the present invention.</p>
+<p id="p-0034" num="0033">The catalyst of the main catalytic converter <b>3</b> contains a cerium oxide additive that serves to perform a storage function of absorbing or releasing oxygen in the exhaust gas. Based on the output of the second air fuel ratio sensor <b>19</b><i>b</i>, the controller <b>30</b> controls, for example, a fuel injection condition such that the oxygen stored in the main catalytic converter <b>3</b> is released or absorbed and the amount of oxygen stored in the main catalytic converter <b>3</b> is placed within a prescribed range.</p>
+<p id="p-0035" num="0034">As explained below, with the illustrated embodiment, when the flow of exhaust gas is switched from the bypass exhaust passage <b>7</b> to the main exhaust passage <b>2</b> by the controller <b>30</b>, the internal combustion engine is controlled by the controller <b>30</b> to a combustion state in which combustion takes place with a rich air fuel ratio. This control to a rich combustion state is executed in coordination with the open operation of the selector valves <b>4</b>. The rich exhaust gas discharged from the engine flows through the bypass exhaust passage <b>7</b> and mixes with air remaining in the main exhaust passage <b>2</b> downstream of the selector valves <b>4</b> before flowing into the main catalytic converter <b>3</b>. Thus, when the selector valves <b>4</b> are opened, the air fuel ratio of the exhaust gas mixture that enters the main catalytic converter <b>3</b> is stoichiometric and a situation in which a stoichiometric exhaust gas mixes with air and becomes a lean mixture before entering the main catalytic converter <b>3</b> can be prevented. As a result, the exhaust gas is sufficiently cleaned and NOx is prevented from being discharged to the outside.</p>
+<p id="p-0036" num="0035">The exhaust gas cleaning control executed in the controller <b>30</b> of the exhaust gas cleaning apparatus <b>100</b>, as described above, will now be explained. In particular, the exhaust gas cleaning control executed in the controller <b>30</b> when the selector valves <b>4</b> are operated from a closed state to an open state such that the flow of exhaust gas is switched from the bypass exhaust passage <b>7</b> to the main exhaust passage <b>2</b> will now be explained.</p>
+<p id="p-0037" num="0036">Immediately after the internal combustion engine is started, the exhaust gas is directed to the bypass catalytic converters <b>8</b>, which have small capacities and reach their activation temperature quickly. In addition to cleaning the exhaust gas, passing the exhaust gas downstream to the main catalytic converter <b>3</b> accelerates the heating of the main catalytic converter <b>3</b>.</p>
+<p id="p-0038" num="0037">When the main catalytic converter <b>3</b> reaches its activation temperature, the selector valves <b>4</b> are operated (opened) to the open state, and the exhaust gas is redirected such that the exhaust gas flows directly into the main exhaust passage without passing through the bypass exhaust passage <b>7</b>. Thus, the exhaust gas flows directly to the main catalytic converter <b>3</b> through the upstream main exhaust passages <b>2</b><i>a</i>, the intermediate main exhaust passage <b>2</b><i>b</i>, and the downstream main exhaust passage <b>2</b><i>c. </i></p>
+<p id="p-0039" num="0038">Before the selector valves <b>4</b> are opened, the air fuel ratio of the exhaust gas is controlled to an air fuel ratio that is well suited for cleaning the exhaust gas with the bypass catalytic converters <b>8</b>. In the case of a cold start, immediately after the engine is started, the selector valves <b>4</b> are closed before an exhaust gas can pass through the selector valves <b>4</b>. Consequently, residual air (outside air) remains inside the intermediate main exhaust passage <b>2</b><i>b </i>downstream of the selector valves <b>4</b>. If stoichiometric combustion occurs while the selector valves <b>4</b> are closed, once the selector valves <b>4</b> are opened, the residual air inside the intermediate main exhaust passage <b>2</b><i>b </i>flows and mixes with stoichiometric exhaust gas from the bypass exhaust passage <b>7</b>, thereby forming a lean exhaust gas mixture that enters the main catalytic converter <b>3</b>. In this case, since the main catalytic converter <b>3</b> is contrived to clean exhaust gas that has a stoichiometric air fuel ratio, main catalytic converter <b>3</b> cannot sufficiently clean the lean exhaust gas even if it is in an active state.</p>
+<p id="p-0040" num="0039">An exhaust gas cleaning control in accordance with the illustrated embodiment will now be explained which is contrived to resolve this problem of a lean exhaust gas mixture entering the main catalytic converter <b>3</b>.</p>
+<p id="p-0041" num="0040"><figref idref="DRAWINGS">FIG. 2</figref> is a flowchart showing the processing steps of an exhaust gas cleaning control in accordance with the present invention. This control is executed by the controller <b>30</b>, for example, each time the engine is started.</p>
+<p id="p-0042" num="0041">In step S<b>1</b>, the controller <b>30</b> checks the engine operating region or condition of the engine. More specifically, the controller <b>30</b> reads the rotational speed of the engine, the accelerator pedal position (TP), the throttle valve opening degree (TVO), and the outputs of the second air fuel ratio sensor <b>19</b><i>b </i>and the second oxygen sensor <b>20</b><i>b</i>. Based on these detected values, the controller <b>30</b> determines the operating state of the engine and the activation state of the main catalytic converter <b>3</b>.</p>
+<p id="p-0043" num="0042">In step S<b>2</b>, the controller <b>30</b> determines if the determined operating state is a state which requires the selector valves <b>4</b> to be opened. Conditions requiring the selector valves <b>4</b> to be opened include the main catalytic converter <b>3</b> being in an active state and a large load being demanded of the engine while the exhaust gas is being directed to the bypass exhaust passage. When either condition exists, the controller <b>30</b> executes control to open the selector valves <b>4</b>. If the controller <b>30</b> determines in step S<b>2</b> that the selector valves <b>4</b> need to be opened, then the controller <b>30</b> proceeds to step S<b>3</b>. Otherwise, the controller <b>30</b> returns to step S<b>1</b>.</p>
+<p id="p-0044" num="0043">In step S<b>3</b>, the controller <b>30</b> reads the output of the second air fuel ratio sensor <b>19</b><i>b </i>and checks that the oxygen absorption amount of the main catalytic converter <b>3</b> is within a prescribed range. In step S<b>4</b>, the controller <b>30</b> determines if current control cycle is the first control cycle in which the control for opening the selector valves <b>4</b> will be executed. If the open control is being executed for the first time (i.e., start of valve open control), then the controller <b>30</b> proceeds to step S<b>5</b>. Before starting the control for opening the selector valves <b>4</b>, the air fuel ratio of the exhaust gas is controlled to an air fuel ratio that is well suited for cleaning the exhaust gas with the bypass catalytic converters <b>8</b>.</p>
+<p id="p-0045" num="0044">In step S<b>5</b>, the controller <b>30</b> temporarily increases the amount of fuel injected into the combustion chamber of the engine (rich spike control) such that rich exhaust gas is sent to the bypass exhaust passage <b>7</b>. During the rich spike control, the fuel is controlled such that an air fuel mixture having a stoichiometric air fuel ratio is obtained when the rich exhaust gas mixes with the residual air remaining inside the intermediate main exhaust passage <b>2</b><i>b. </i></p>
+<p id="p-0046" num="0045">In step S<b>7</b>, the controller <b>30</b> sets a delay time Tf indicating the amount of time that will be waited from when the rich spike control of step S<b>5</b> is started until a signal instructing the selector valves <b>4</b> to open is actually issued. After the delay time Tf is set, the controller <b>30</b> returns to step S<b>1</b>. The method of setting the delay time Tf will now be explained using the flowchart shown in <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0047" num="0046">In step S<b>21</b>, the controller <b>30</b> reads a time Trich indicating the amount of time required for the exhaust gas discharged from the engine during rich spike control to reach the main catalytic converter <b>3</b>. The time Trich is a predetermined amount of time that is determined in advance either experimentally or by some other means. In steps S<b>2</b>, the controller <b>30</b> reads a delay time Ta indicating the amount of time required for the selector valves <b>4</b> to actually open after the open command is sent to the selector valves <b>4</b>. In step S<b>23</b>, the controller <b>30</b> reads a delay time Tb indicating the time required for the residual air inside the intermediate main exhaust passage <b>2</b><i>b </i>to reach the main catalytic converter <b>3</b> after the selector valves <b>4</b> are actually opened. The delay times Ta and Tb are predetermined amounts of times that are determined in advance either experimentally or by some other means. Then, in step S<b>24</b>, the controller <b>30</b> calculates the delay time Tf using the equation shown below.
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>Tf=T</i>rich&#x2212;(<i>Ta+Tb</i>)&#x2003;&#x2003;(1)<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0048" num="0047">Returning to the flowchart of <figref idref="DRAWINGS">FIG. 2</figref>, in step S<b>6</b>, since the valve open control of the selector valves <b>4</b> has been executed more than once, the delay time Tf has already been set and the controller <b>30</b> continues the rich spike control. In step S<b>8</b>, the controller <b>30</b> determines if the value Tc of a time counter is equal to or larger than the delay time Tf set in step S<b>7</b>. The time counter value Tc indicates the amount of time elapsed since the rich spike control was started (in step S<b>5</b>). The value Tf is a prescribed amount of time from when risk spike control is started until the selector valve open command is issued. In other words, when the condition is satisfied and the prescribed amount of time Tf has elapsed (i.e., Tc&#x2267;Tf), the controller <b>30</b> then proceeds to step S<b>9</b> and issues the open command to the selector valves <b>4</b>. The air inside the intermediate main exhaust passage <b>2</b><i>b </i>then mixes with the rich exhaust gas from the bypass exhaust passage <b>7</b> and forms a mixture having a stoichiometric air fuel ratio before entering the main catalytic converter <b>3</b>. Meanwhile, if the condition (i.e., Tc&#x2267;Tf) is not satisfied, then the controller <b>30</b> proceeds to step S<b>10</b> and returns to step S<b>6</b> without opening the selector valves <b>4</b> (i.e., leaves the selector valves <b>4</b> closed).</p>
+<p id="p-0049" num="0048">After step S<b>9</b>, the controller <b>30</b> proceeds to step S<b>11</b> and determines if the time Tc, which has elapsed since the selector valves <b>4</b> were opened, is equal to or larger than a prescribed amount of time Tt. The prescribed amount of time Tt indicates the amount of time required for all of the residual air inside the intermediate main exhaust passage <b>2</b><i>b </i>to flow into the main catalytic converter <b>3</b>.</p>
+<p id="p-0050" num="0049">The amount of time during which rich spike control is continued is set based on the residual air. The amount of time the rich spike control is continued can be shortened by positioning the connection or merge point P where the bypass exhaust passage <b>7</b> merges with the main exhaust passage <b>2</b> as far upstream as possible such that the intermediate main exhaust passage <b>2</b><i>b </i>is shorter and the amount of residual air is smaller.</p>
+<p id="p-0051" num="0050"><figref idref="DRAWINGS">FIG. 4</figref> illustrates the control presented in the flowchart of <figref idref="DRAWINGS">FIG. 2</figref> in the form of a time chart. At, for example, a time t<b>1</b>, the main catalytic converter <b>3</b> reaches the activation temperature and the condition for opening the selector valves <b>4</b> is satisfied for the first time. An open flag is turned on (step S<b>2</b>). Simultaneously with the flag turning on, a target air fuel ratio is changed to a richer value and rich spike control is executed. If the selector valves <b>4</b> remained closed, the rich spike control would cause the air fuel ratio of the exhaust gas entering the main catalytic converter <b>3</b> to become richer, as shown in the figure.</p>
+<p id="p-0052" num="0051">The selector valves <b>4</b> actually open at a time t<b>2</b> occurring when a delay time Tf+Ta has elapsed since the time t<b>1</b>, and at a time t<b>3</b> occurring when a delay time Tb has elapsed since the time t<b>2</b>, the residual air inside the intermediate main exhaust passage <b>2</b><i>b </i>mixes with the rich exhaust gas discharged from the combustion chamber of the engine and enters the main catalytic converter <b>3</b>. If the rich spike control were not executed, then stoichiometric exhaust gas from the bypass exhaust passage <b>7</b> would mix with the air from the intermediate main exhaust passage <b>2</b><i>b </i>and a lean mixture would enter the main catalytic converter <b>3</b>, resulting in incomplete cleaning of the exhaust gas and incomplete removal of the NOx (indicated with broken line in figure). However, with the illustrated embodiment, the combustion state of the engine is controlled such that rich exhaust gas passes through the bypass exhaust passage <b>7</b> and arrives at the main catalytic converter <b>3</b> in coordination with the timing at which the selector valves <b>4</b> are opened and the residual air from the intermediate main exhaust passage <b>2</b><i>b </i>arrives at the main catalytic converter <b>3</b>. Consequently, the air and the rich exhaust gas mix together and enter the main catalytic converter <b>3</b> as a stoichiometric mixture. As a result, even immediately after the selector valves <b>4</b> are opened, the exhaust gas entering the main catalytic converter <b>3</b> has a stoichiometric air fuel ratio and can be cleaned sufficiently by the main catalytic converter <b>3</b>.</p>
+<p id="p-0053" num="0052">At a time t<b>4</b>, when it is estimated that all of the residual air in the intermediate main exhaust passage <b>2</b><i>b </i>has entered the main catalytic converter <b>3</b>, the rich spike control is ended and the controller <b>30</b> switches to a normal exhaust gas cleaning control.</p>
+<p id="p-0054" num="0053">In this way, when the main catalytic converter <b>3</b> reaches an activation temperature and the flow of exhaust gas from the engine is redirected from the bypass exhaust passage <b>7</b> to the main exhaust passage <b>2</b>, the combustion state of the engine is controlled to a rich state in coordination with the timing at which the selector valves <b>4</b> are operated such that rich exhaust gas flows through the bypass exhaust passage <b>7</b>. The rich exhaust gas flowing through the bypass exhaust passage <b>7</b> mixes with the residual air that flows from the intermediate main exhaust passage <b>2</b><i>b </i>when the selector valves <b>4</b> are opened. The resulting stoichiometric mixture enters the main catalytic converter <b>3</b>, and is cleaned. Thus, even when the flow path of the exhaust gas is changed after the engine is started, the exhaust gas can be cleaned in a reliable fashion by the main catalytic converter <b>3</b>.</p>
+<p id="p-0055" num="0054">In this embodiment, the amount of time Ta from when the open command is sent to the selector valves <b>4</b> until the valves <b>4</b> actually open is taken into account when setting the amount of time to elapse before sending the open command to the selector valves <b>4</b>. However, the time Ta can be assumed to be 0 if the amount of time required for the valves <b>4</b> to open after the command is sent is small enough to be ignored. In such a case, the amount of time Tf that elapses between when the rich spike control is started and when the open command is sent to the selector valves <b>4</b> can be assumed to be substantially equal to the amount of time that elapses between when the rich spike control is started and when the selector valves <b>4</b> actually open. Therefore, the amount of time Tf can be set based on the amount of time Trich required for the exhaust gas discharged from the engine due to rich spike control to reach the main catalytic converter <b>3</b> and the delay time Tb required for the residual air in the intermediate main exhaust passage <b>2</b><i>b </i>to reach the main catalytic converter <b>3</b> (Tf=Trich&#x2212;Tb).</p>
+<heading id="h-0006" level="1">General Interpretation of Terms</heading>
+<p id="p-0056" num="0055">In understanding the scope of the present invention, the term &#x201c;comprising&#x201d; and its derivatives, as used herein, are intended to be open ended terms that specify the presence of the stated features, elements, components, groups, integers, and/or steps, but do not exclude the presence of other unstated features, elements, components, groups, integers and/or steps. The foregoing also applies to words having similar meanings such as the terms, &#x201c;including&#x201d;, &#x201c;having&#x201d; and their derivatives. Also, the terms &#x201c;part,&#x201d; &#x201c;section,&#x201d; &#x201c;portion,&#x201d; &#x201c;member&#x201d; or &#x201c;element&#x201d; when used in the singular can have the dual meaning of a single part or a plurality of parts. The term &#x201c;detect&#x201d; as used herein to describe an operation or function carried out by a component, a section, a device or the like includes a component, a section, a device or the like that does not require physical detection, but rather includes determining, measuring, modeling, predicting or computing or the like to carry out the operation or function. The term &#x201c;configured&#x201d; as used herein to describe a component, section or part of a device includes hardware and/or software that is constructed and/or programmed to carry out the desired function. The terms of degree such as &#x201c;substantially&#x201d;, &#x201c;about&#x201d; and &#x201c;approximately&#x201d; as used herein mean a reasonable amount of deviation of the modified term such that the end result is not significantly changed.</p>
+<p id="p-0057" num="0056">While only selected embodiments have been chosen to illustrate the present invention, it will be apparent to those skilled in the art from this disclosure that various changes and modifications can be made herein without departing from the scope of the invention as defined in the appended claims. For example, the size, shape, location or orientation of the various components can be changed as needed and/or desired. Components that are shown directly connected or contacting each other can have intermediate structures disposed between them. The functions of one element can be performed by two, and vice versa. The structures and functions of one embodiment can be adopted in another embodiment. It is not necessary for all advantages to be present in a particular embodiment at the same time. Every feature which is unique from the prior art, alone or in combination with other features, also should be considered a separate description of further inventions by the applicant, including the structural and/or functional concepts embodied by such feature(s). Thus, the foregoing descriptions of the embodiments according to the present invention are provided for illustration only, and not for the purpose of limiting the invention as defined by the appended claims and their equivalents.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. An exhaust gas cleaning apparatus comprising:
+<claim-text>a main exhaust passage configured to receive exhaust gas from an internal combustion engine therethrough;</claim-text>
+<claim-text>a main catalytic converter disposed in the main exhaust passage;</claim-text>
+<claim-text>a bypass exhaust passage including a first end connected to the main exhaust passage at a first point that is upstream from the main catalytic converter and a second end connected to the main exhaust passage at a second point that is upstream from the main catalytic converter;</claim-text>
+<claim-text>a bypass catalytic converter disposed in the bypass exhaust passage between the first and second ends of the bypass exhaust passage;</claim-text>
+<claim-text>a selector valve arranged to selectively control a flow of the exhaust gas from the internal combustion engine between the main exhaust passage and the bypass exhaust passage; and</claim-text>
+<claim-text>a controller configured to control a combustion state of the internal combustion engine and to selectively open and close of the selector valve, the controller being further configured to control the internal combustion engine to a rich combustion state with a rich air fuel ratio while the controller controls the selector valve to block the flow of the exhaust gas through the main exhaust passage, and then, afterwards, controls the selector valve to direct the flow of the exhaust gas through the main exhaust passage such that residual air remaining in the main exhaust passage mixes with rich exhaust gas from the bypass exhaust passage, with the controller commencing to control the internal combustion engine to the rich combustion state in response to the main catalytic converter reaching an active state.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The exhaust gas cleaning apparatus as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein
+<claim-text>the bypass exhaust passage is arranged to branch from the main exhaust passage at the first point and merge with the main exhaust passage at the second point,</claim-text>
+<claim-text>the first and second ends of the bypass exhaust passage being communicated to each other through the bypass exhaust passage when the selector valve directs the flow of the exhaust gas through the main exhaust passage.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The exhaust gas cleaning apparatus as recited in <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein
+<claim-text>the selector valve is provided in the main exhaust passage, and</claim-text>
+<claim-text>the controller is further configured to close the selector valve for directing the exhaust gas into the bypass exhaust passage prior to the main catalytic converter reaching an active state and to open the selector valve for directing the exhaust gas into the main exhaust passage when the main catalytic converter has reached the active state.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The exhaust gas cleaning apparatus as recited in <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein
+<claim-text>the controller is further configured to control the internal combustion engine to a combustion state with an air fuel ratio that is less rich than the rich air fuel ratio while the controller controls the selector valve to block the flow of the exhaust gas through the main exhaust passage.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The exhaust gas cleaning apparatus as recited in <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein
+<claim-text>the main exhaust passage includes a plurality of upstream main exhaust passages and the bypass exhaust passage includes a plurality of upstream bypass exhaust passages with one of the upstream bypass exhaust passages being connected to a corresponding one of upstream main exhaust passages.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The exhaust gas cleaning apparatus as recited in <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein
+<claim-text>one of the upstream main exhaust passages has the selector valve disposed therein and each of remaining ones of the upstream main exhaust passages has a separate selector valve disposed therein.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The exhaust gas cleaning apparatus as recited in <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein
+<claim-text>the upstream main exhaust passages have downstream ends that merge together at a merger point with the selector valve being disposed at or downstream of the merger point.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. An exhaust gas cleaning apparatus comprising:
+<claim-text>a main exhaust passage configured to receive exhaust gas from an internal combustion engine therethrough;</claim-text>
+<claim-text>a main catalytic converter disposed in the main exhaust passage;</claim-text>
+<claim-text>a bypass exhaust passage including a first end connected to the main exhaust passage at a first point that is upstream from the main catalytic converter and a second end connected to the main exhaust passage at a second point that is upstream from the main catalytic converter;</claim-text>
+<claim-text>a bypass catalytic converter disposed in the bypass exhaust passage between the first and second ends of the bypass exhaust passage;</claim-text>
+<claim-text>a selector valve arranged to selectively control a flow of the exhaust gas from the internal combustion engine between the main exhaust passage and the bypass exhaust passage, with the selector valve being provided in the main exhaust passage; and</claim-text>
+<claim-text>a controller configured to control a combustion state of the internal combustion engine and to selectively open and close of the selector valve, the controller being further configured to control the internal combustion engine to a rich combustion state with a rich air fuel ratio while the controller controls the selector valve to block the flow of the exhaust gas through the main exhaust passage, and then, afterwards, controls the selector valve to direct the flow of the exhaust gas through the main exhaust passage such that residual air remaining in the main exhaust passage mixes with rich exhaust gas from the bypass exhaust passage,</claim-text>
+<claim-text>the controller being further configured to close the selector valve for directing the exhaust gas into the bypass exhaust passage prior to the main catalytic converter reaching an active state and to open the selector valve for directing the exhaust gas into the main exhaust passage when the main catalytic converter has reached the active state,</claim-text>
+<claim-text>the controller being further configured to open the selector valve for switching the flow of the exhaust gas from the bypass exhaust passage to the main exhaust passage when a prescribed amount of time has elapsed since operation of the internal combustion engine in the rich combustion state was started, and</claim-text>
+<claim-text>the prescribed amount of time being set based on an amount of time required for the exhaust gas discharged from the internal combustion engine while the internal combustion engine is operated in the rich combustion state to pass through the bypass exhaust passage and arrive at the main catalytic converter and an amount of time required for the residual air remaining in the main exhaust passage before the selector valve is opened to flow and arrive at the main catalytic converter after the selector valve is opened.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The exhaust gas cleaning apparatus as recited in <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein
+<claim-text>the controller is further configured to set a timing for sending an open command to the selector valve based on an amount of time required for the selector valve to actually open after the open command is sent from the controller to the selector valve.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. An exhaust gas cleaning apparatus comprising:
+<claim-text>a main exhaust passage configured to receive exhaust gas from an internal combustion engine therethrough;</claim-text>
+<claim-text>a main catalytic converter disposed in the main exhaust passage;</claim-text>
+<claim-text>a bypass exhaust passage including a first end connected to the main exhaust passage at a first point that is upstream from the main catalytic converter and a second end connected to the main exhaust passage at a second point that is upstream from the main catalytic converter;</claim-text>
+<claim-text>a bypass catalytic converter disposed in the bypass exhaust passage between the first and second ends of the bypass exhaust passage;</claim-text>
+<claim-text>a selector valve arranged to selectively control a flow of the exhaust gas from the internal combustion engine between the main exhaust passage and the bypass exhaust passage; and</claim-text>
+<claim-text>a controller configured to control a combustion state of the internal combustion engine and to selectively open and close of the selector valve, the controller being further configured to control the internal combustion engine to a rich combustion state with a rich air fuel ratio while the controller controls the selector valve to block the flow of the exhaust gas through the main exhaust passage, and then, afterwards, controls the selector valve to direct the flow of the exhaust gas through the main exhaust passage such that residual air remaining in the main exhaust passage mixes with rich exhaust gas from the bypass exhaust passage,</claim-text>
+<claim-text>the controller being further configured to open the selector valve such that the rich exhaust gas from the bypass exhaust passage arrives at the main catalytic converter at the same time as the residual air remaining in the main exhaust passage arrives at the main catalytic converter.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. An exhaust gas cleaning apparatus comprising:
+<claim-text>a main exhaust passage configured to receive exhaust gas from an internal combustion engine therethrough;</claim-text>
+<claim-text>a main catalytic converter disposed in the main exhaust passage;</claim-text>
+<claim-text>a bypass exhaust passage including a first end connected to the main exhaust passage at a first point that is upstream from the main catalytic converter and a second end connected to the main exhaust passage at a second point that is upstream from the main catalytic converter;</claim-text>
+<claim-text>a bypass catalytic converter disposed in the bypass exhaust passage between the first and second ends of the bypass exhaust passage;</claim-text>
+<claim-text>a selector valve arranged to selectively control a flow of the exhaust gas from the internal combustion engine between the main exhaust passage and the bypass exhaust passage, with the selector valve being provided in the main exhaust passage; and</claim-text>
+<claim-text>a controller configured to control a combustion state of the internal combustion engine and to selectively open and close of the selector valve, the controller being further configured to control the internal combustion engine to a rich combustion state with a rich air fuel ratio while the controller controls the selector valve to block the flow of the exhaust gas through the main exhaust passage, and then, afterwards, controls the selector valve to direct the flow of the exhaust gas through the main exhaust passage such that residual air remaining in the main exhaust passage mixes with rich exhaust gas from the bypass exhaust passage,</claim-text>
+<claim-text>the controller being further configured to close the selector valve for directing the exhaust gas into the bypass exhaust passage prior to the main catalytic converter reaching an active state and to open the selector valve for directing the exhaust gas into the main exhaust passage when the main catalytic converter has reached the active state,</claim-text>
+<claim-text>the controller being further configured to set an amount of time in which the combustion state is controlled to the rich air fuel ratio before opening the selector valve based on an amount of the residual air remaining inside the main exhaust passage before the selector valve is opened.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. An exhaust gas cleaning control method for an exhaust system including a main exhaust passage with a main catalytic converter disposed in the main exhaust passage, a bypass exhaust passage with a bypass catalytic converter disposed in the bypass exhaust passage, and a selector valve disposed between a branching point of the bypass exhaust passage and a merging point of the bypass exhaust passage on an upstream side of the main catalytic converter to selectively open and close the main exhaust passage to switch a pathway for the exhaust gas between the main exhaust passage and the bypass exhaust passage, the method comprising:
+<claim-text>detecting an operating condition of at least one of the internal combustion engine and the main catalytic converter;</claim-text>
+<claim-text>conducting exhaust gas from an internal combustion engine through one of the main exhaust passage and the bypass exhaust passage to the main catalytic;</claim-text>
+<claim-text>selectively controlling the selector valve to block or open the flow of the exhaust gas through the main exhaust passage to the main catalytic converter based on the operating condition that was detected; and</claim-text>
+<claim-text>controlling a combustion state of the internal combustion engine to a rich combustion state with a rich air fuel ratio while the controlling the selector valve to block the flow of the exhaust gas through the main exhaust passage, and then, afterwards, controlling the selector valve to direct the flow of the exhaust gas through the main exhaust passage such that residual air remaining in the main exhaust passage mixes with rich exhaust gas from the bypass exhaust passage,</claim-text>
+<claim-text>the selectively controlling of the selector valve including closing the selector valve for directing the exhaust gas into the bypass exhaust passage prior to the main catalytic converter reaching an active state, and opening the selector valve for directing the exhaust gas into the main exhaust passage when the main catalytic converter has reached the active state,</claim-text>
+<claim-text>the selectively controlling of the selector valve further including opening the selector valve for switching the flow of the exhaust gas from the bypass exhaust passage to the main exhaust passage when a prescribed amount of time has elapsed since operation of the internal combustion engine in the rich combustion state was started, with the prescribed amount of time being set based on an amount of time required for the exhaust gas discharged from the internal combustion engine while the internal combustion engine is operated in the rich combustion state to pass through the bypass exhaust passage and arrive at the main catalytic converter and an amount of time required for the residual air remaining in the main exhaust passage before the selector valve is opened to flow and arrive at the main catalytic converter after the selector valve is opened.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The exhaust gas cleaning control method as recited in <claim-ref idref="CLM-00012">claim 12</claim-ref>, further comprising
+<claim-text>setting a timing for sending an open command to the selector valve based on an amount of time required for the selector valve to actually open after the open command is sent from the controller to the selector valve.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. An exhaust gas cleaning control method for an exhaust system including a main exhaust passage with a main catalytic converter disposed in the main exhaust passage, a bypass exhaust passage with a bypass catalytic converter disposed in the bypass exhaust passage, and a selector valve disposed between a branching point of the bypass exhaust passage and a merging point of the bypass exhaust passage on an upstream side of the main catalytic converter to selectively open and close the main exhaust passage to switch a pathway for the exhaust gas between the main exhaust passage and the bypass exhaust passage, the method comprising:
+<claim-text>detecting an operating condition of at least one of the internal combustion engine and the main catalytic converter;</claim-text>
+<claim-text>conducting exhaust gas from an internal combustion engine through one of the main exhaust passage and the bypass exhaust passage to the main catalytic;</claim-text>
+<claim-text>selectively controlling the selector valve to block or open the flow of the exhaust gas through the main exhaust passage to the main catalytic converter based on the operating condition that was detected; and</claim-text>
+<claim-text>controlling a combustion state of the internal combustion engine to a rich combustion state with a rich air fuel ratio while the controlling the selector valve to block the flow of the exhaust gas through the main exhaust passage, and then, afterwards, controlling the selector valve to direct the flow of the exhaust gas through the main exhaust passage such that residual air remaining in the main exhaust passage mixes with rich exhaust gas from the bypass exhaust passage,</claim-text>
+<claim-text>the selectively controlling of the selector valve including opening the selector valve such that the rich exhaust gas from the bypass exhaust passage arrives at the main catalytic converter at the same time as the residual air remaining in the main exhaust passage arrives at the main catalytic converter.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. An exhaust gas cleaning control method for an exhaust system including a main exhaust passage with a main catalytic converter disposed in the main exhaust passage, a bypass exhaust passage with a bypass catalytic converter disposed in the bypass exhaust passage, and a selector valve disposed between a branching point of the bypass exhaust passage and a merging point of the bypass exhaust passage on an upstream side of the main catalytic converter to selectively open and close the main exhaust passage to switch a pathway for the exhaust gas between the main exhaust passage and the bypass exhaust passage, the method comprising:
+<claim-text>detecting an operating condition of at least one of the internal combustion engine and the main catalytic converter;</claim-text>
+<claim-text>conducting exhaust gas from an internal combustion engine through one of the main exhaust passage and the bypass exhaust passage to the main catalytic;</claim-text>
+<claim-text>selectively controlling the selector valve to block or open the flow of the exhaust gas through the main exhaust passage to the main catalytic converter based on the operating condition that was detected, the selectively controlling of the selector valve including closing the selector valve for directing the exhaust gas into the bypass exhaust passage prior to the main catalytic converter reaching an active state, and opening the selector valve for directing the exhaust gas into the main exhaust passage when the main catalytic converter has reached the active state;</claim-text>
+<claim-text>controlling a combustion state of the internal combustion engine to a rich combustion state with a rich air fuel ratio while the controlling the selector valve to block the flow of the exhaust gas through the main exhaust passage, and then, afterwards, controlling the selector valve to direct the flow of the exhaust gas through the main exhaust passage such that residual air remaining in the main exhaust passage mixes with rich exhaust gas from the bypass exhaust passage; and</claim-text>
+<claim-text>setting an amount of time in which the combustion state is controlled to the rich air fuel ratio before opening the selector valve based on an amount of the residual air remaining inside the main exhaust passage before opening the selector valve.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. An exhaust gas cleaning control method for an exhaust system including a main exhaust passage with a main catalytic converter disposed in the main exhaust passage, a bypass exhaust passage with a bypass catalytic converter disposed in the bypass exhaust passage, and a selector valve disposed between a branching point of the bypass exhaust passage and a merging point of the bypass exhaust passage on an upstream side of the main catalytic converter to selectively open and close the main exhaust passage to switch a pathway for the exhaust gas between the main exhaust passage and the bypass exhaust passage, the method comprising:
+<claim-text>detecting an operating condition of at least one of the internal combustion engine and the main catalytic converter;</claim-text>
+<claim-text>conducting exhaust gas from an internal combustion engine through one of the main exhaust passage and the bypass exhaust passage to the main catalytic;</claim-text>
+<claim-text>selectively controlling the selector valve to block or open the flow of the exhaust gas through the main exhaust passage to the main catalytic converter based on the operating condition that was detected; and</claim-text>
+<claim-text>controlling a combustion state of the internal combustion engine to a rich combustion state with a rich air fuel ratio while the controlling the selector valve to block the flow of the exhaust gas through the main exhaust passage, and then, afterwards, controlling the selector valve to direct the flow of the exhaust gas through the main exhaust passage such that residual air remaining in the main exhaust passage mixes with rich exhaust gas from the bypass exhaust passage, with the controlling of the combustion state of the internal combustion engine to the rich combustion state being commenced in response to the main catalytic converter reaching an active state.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The exhaust gas cleaning control method as recited in <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein
+<claim-text>the bypass exhaust passage of the exhaust system is arranged to branch from the main exhaust passage of the exhaust system at the branching point and merge with the main exhaust passage of the exhaust system at the merging point,</claim-text>
+<claim-text>with the branching point and the merging point of the bypass exhaust passage being communicated to each other through the bypass exhaust passage upon controlling of the selector valve to direct the flow of the exhaust gas through the main exhaust passage.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The exhaust gas cleaning control method as recited in <claim-ref idref="CLM-00017">claim 17</claim-ref>, wherein
+<claim-text>the selectively controlling of the selector valve includes closing the selector valve for directing the exhaust gas into the bypass exhaust passage prior to the main catalytic converter reaching an active state, and opening the selector valve for directing the exhaust gas into the main exhaust passage when the main catalytic converter has reached the active state. </claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

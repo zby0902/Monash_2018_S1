@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891033-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891033</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12397633</doc-number>
+<date>20090304</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>9</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>68</class>
+<subclass>G</subclass>
+<main-group>5</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>  5653</main-classification>
+<further-classification>  5648</further-classification>
+<further-classification>29745221</further-classification>
+</classification-national>
+<invention-title id="d2e53">Adjustable seat cushion assembly</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>5137333</doc-number>
+<kind>A</kind>
+<name>Chee</name>
+<date>19920800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>29745221</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>5378045</doc-number>
+<kind>A</kind>
+<name>Siekman et al.</name>
+<date>19950100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>29745225</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>5687436</doc-number>
+<kind>A</kind>
+<name>Denton</name>
+<date>19971100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  5653</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>7040706</doc-number>
+<kind>B2</kind>
+<name>Koffler</name>
+<date>20060500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>29745225</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>7373678</doc-number>
+<kind>B2</kind>
+<name>Hetzel et al.</name>
+<date>20080500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  5653</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>26</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>  5653</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  5655</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  5657</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  5648</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>29745231</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>29745227</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>29745221</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>29745245</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>29745225</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>7</number-of-drawing-sheets>
+<number-of-figures>15</number-of-figures>
+</figures>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>61033706</doc-number>
+<date>20080304</date>
+</document-id>
+</us-provisional-application>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090222992</doc-number>
+<kind>A1</kind>
+<date>20090910</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Loewenthal</last-name>
+<first-name>Howard L.</first-name>
+<address>
+<city>Hinckley</city>
+<state>OH</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Hulse</last-name>
+<first-name>Daniel M.</first-name>
+<address>
+<city>North Olmsted</city>
+<state>OH</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Babinec</last-name>
+<first-name>Michael A.</first-name>
+<address>
+<city>North Olmsted</city>
+<state>OH</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Calfee, Halter &#x26; Griswold LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Invacare Corporation</orgname>
+<role>02</role>
+<address>
+<city>Elyria</city>
+<state>OH</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Santos</last-name>
+<first-name>Robert G</first-name>
+<department>3673</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Wilson</last-name>
+<first-name>Brittany M</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">According to one embodiment of the present invention, a seat cushion assembly is provided that includes a base cushion and a plurality of inserts. A recess is defined within the base cushion which is adapted to house the inserts. Each of the inserts can be selectively removed from the recess to provide for obliquity adjustment of the cushion assembly. In addition, the inserts may be selectively located on one side of the base cushion or the other to further adjust the inclined orientation of the base cushion. According to another embodiment, a seat cushion assembly is provided that includes a base cushion and a pair of inserts. A recess is defined within the base cushion which is adapted to house the inserts that includes a projection that has a plurality of surfaces that abut a surface of each of the inserts when the inserts are housed within the recess.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="97.96mm" wi="287.78mm" file="US07891033-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="211.50mm" wi="142.07mm" file="US07891033-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="200.83mm" wi="163.83mm" file="US07891033-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="194.06mm" wi="170.26mm" file="US07891033-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="211.16mm" wi="157.65mm" file="US07891033-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="226.40mm" wi="161.46mm" file="US07891033-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="224.20mm" wi="155.62mm" file="US07891033-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="220.39mm" wi="158.83mm" file="US07891033-20110222-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">PRIORITY CLAIM</heading>
+<p id="p-0002" num="0001">This application claims priority from U.S. Provisional Patent Application Ser. No. 61/033,706 filed on Mar. 4, 2008 for ADJUSTABLE SEATING ASSEMBLY, the entire disclosure of which is fully incorporated herein by reference.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">TECHNICAL FIELD</heading>
+<p id="p-0003" num="0002">This detailed description relates generally to seating systems, and more particularly to adjustable seat cushion assemblies for wheelchairs, or other mobility aids.</p>
+<heading id="h-0003" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0004" num="0003">Wheelchairs are a means of transportation for a significant portion of society. Some wheelchairs include adjustable seating systems, such as for example adjustable seat cushion assemblies. The adjustability of such seating systems allow a user of the wheelchair or a therapist to adjust various aspects of the seating system in order to position or support the wheelchair user.</p>
+<heading id="h-0004" level="1">SUMMARY</heading>
+<p id="p-0005" num="0004">This application relates generally to seating systems, and more particularly to seat cushion assemblies for wheelchairs, or other mobility aids, which can be customized to accommodate the needs of a user. Embodiments of seat cushion assemblies that permit customization to meet the needs of a user, such as the customization of the seat cushion assembly to accommodate or correct a patient's pelvic obliquity, are disclosed herein.</p>
+<p id="p-0006" num="0005">According to one embodiment of the present invention, a seat cushion assembly is provided that includes a base cushion and a plurality of inserts. A recess is defined within the base cushion which is adapted to receive or house the pair of inserts. When the inserts are both received or housed within the recess of the base cushion (i.e, in the default position or unadjusted position), the seat cushion assembly functions as a typical seating surface and neither side of the seat cushion assembly is raised higher than the other. Each of the inserts can be selectively removed from the recess of the base cushion to provide for obliquity adjustment of the seat cushion assembly. In addition, the inserts may be selectively located on one side of the base cushion or the other to further alter or adjust the inclined orientation of the base cushion.</p>
+<p id="p-0007" num="0006">According to another embodiment of the present invention, a seat cushion assembly is provided that includes a base cushion and a plurality of inserts. A recess is defined within the base cushion which is adapted to receive or house the inserts. The recess includes a projection that has a plurality of surfaces that abut a surface of each of the inserts when the inserts are housed within the recess.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE FIGURES</heading>
+<p id="p-0008" num="0007">The drawings are only for the purpose of illustrating preferred embodiments and are not to be construed as limiting the invention.</p>
+<p id="p-0009" num="0008"><figref idref="DRAWINGS">FIG. 1</figref> is a top perspective view of a seat cushion assembly of an exemplary embodiment;</p>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIG. 2</figref> is a top perspective view of the base cushion of the seat cushion assembly of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. 3</figref> is a bottom perspective of the base cushion of the seat cushion assembly of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. 4A</figref> is a bottom perspective view of the seat cushion assembly of <figref idref="DRAWINGS">FIG. 1</figref> with the optional outer cover removed;</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 4B</figref> is a top perspective view of the seat cushion assembly of <figref idref="DRAWINGS">FIG. 1</figref> with the optional outer cover removed;</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 5</figref> is a perspective view of an insert of the seat cushion assembly of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 6A</figref> is a rear view of the seat cushion assembly of <figref idref="DRAWINGS">FIG. 1</figref> with the outer cover removed and both of the inserts in the stored position;</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 6B</figref> is a rear view of the seat cushion assembly of <figref idref="DRAWINGS">FIG. 1</figref> with the outer cover removed and one of the inserts in the stored position;</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 6C</figref> is a rear view of the seat cushion assembly of <figref idref="DRAWINGS">FIG. 1</figref> with the outer cover removed and with both of the inserts located underneath one side of the base cushion;</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 7</figref> is a bottom perspective view of the seat cushion assembly of <figref idref="DRAWINGS">FIG. 1</figref> with the outer cover removed and both of the inserts located underneath one side of the base cushion;</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 8A</figref> is a rear view of a user seated in the seat cushion assembly of <figref idref="DRAWINGS">FIG. 1</figref> with the outer cover removed and both of the inserts in the stored position;</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 8B</figref> is a rear view of a user seated in the seat cushion assembly of <figref idref="DRAWINGS">FIG. 1</figref> with the outer cover removed and one of the inserts in the stored position;</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 8C</figref> is a rear view of a user seated in the seat cushion assembly of <figref idref="DRAWINGS">FIG. 1</figref> with the outer cover removed and both of the inserts located underneath one side of the base cushion;</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 9A</figref> is a top perspective view of the seat cushion assembly of <figref idref="DRAWINGS">FIG. 1</figref> with an optional overlay pad; and</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 9B</figref> is a bottom perspective view of the seat cushion assembly of <figref idref="DRAWINGS">FIG. 1</figref> with an optional overlay pad.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0024" num="0023">Referring to the FIGURES, this detailed description discloses embodiments of seat cushion assemblies that permit customization to accommodate the needs of a user. Seat cushion assemblies may take a variety of different forms and may be used in a wide variety of different applications. This detailed description is applicable to seat cushion assemblies of varying construction. The scope of this application is intended to encompass all combinations and sub-combinations of the features of the seat cushion assemblies disclosed in this application.</p>
+<p id="p-0025" num="0024">Referring to <figref idref="DRAWINGS">FIG. 1</figref>, a perspective view of an exemplary embodiment of a seat cushion assembly <b>100</b> is illustrated. The exemplary seat cushion assembly <b>100</b> includes an optional outer cover <b>110</b>. The optional outer cover <b>110</b> can be made of any suitable material, for example, any type of cloth or fabric, vinyl, plastic, or other material. The optional outer cover <b>110</b> can take a wide variety of different shapes and configurations. The optional outer cover <b>110</b> can be made of a stretchable material that conforms to the shape of the other components of the seat cushion assembly <b>100</b>. In addition, the optional outer cover <b>110</b> can be made from a moisture-resistant material that inhibits moisture from entering the seat cushion assembly <b>100</b> through the outer cover <b>110</b>. The optional cover <b>110</b> illustrated in <figref idref="DRAWINGS">FIG. 1</figref> includes an opening <b>120</b> to allow for the removal of the outer cover <b>110</b> or to allow for access to the other components of the seat cushion assembly <b>100</b>. The opening <b>120</b> can be secured in a closed position by the use of a hook and loop type fastener, a zipper, buttons, snaps or any other fastening means.</p>
+<p id="p-0026" num="0025">In various embodiments, the seat cushion assembly <b>100</b> can include one or more optional moisture-resistant layers or wrappers (not shown), made from a polymer membrane or other moisture-resistant material, within the optional outer cover <b>110</b> to further inhibit liquid from seeping through the outer cover <b>110</b> to the other components of the seat cushion assembly <b>100</b>.</p>
+<p id="p-0027" num="0026">Referring now to <figref idref="DRAWINGS">FIG. 2</figref>, the seat cushion assembly <b>100</b> is shown with the optional outer cover <b>110</b> removed. The exemplary seat cushion assembly <b>100</b> includes a base cushion <b>210</b>. The base cushion <b>210</b> may be made from any suitable material, such as for example foam, rubber, plastic or combinations therof. Generally, the base cushion <b>210</b> is made from a material that is firm but compressible to provide adequate support for the user while still remaining comfortable. The base cushion <b>210</b> may have a variety of shapes and configurations. The base cushion <b>210</b> may be of unitary construction or may be constructed from multiple parts. As shown in <figref idref="DRAWINGS">FIG. 2</figref>, the exemplary base cushion <b>210</b> has a pair of channels <b>220</b> that are adapted to cradle the user's legs. The base cushion <b>210</b> also includes a rear depression <b>230</b> which is situated to accept a portion of the user's buttocks. The channels <b>220</b> and rear depression <b>230</b> may have a variety of shapes. It should be understood that additional embodiments of the base cushion are shaped and/or configured differently and do not include such channels <b>220</b> or a depression <b>230</b>.</p>
+<p id="p-0028" num="0027">As shown in <figref idref="DRAWINGS">FIG. 2</figref>, a recess <b>240</b> is defined within a lower surface <b>250</b> of the exemplary base cushion <b>210</b>. The recess <b>240</b> may have a variety of shapes and configurations. As shown in <figref idref="DRAWINGS">FIG. 3</figref>, the recess <b>240</b> of the illustrated embodiment of the base cushion <b>210</b> is a cut-away portion that spans the entire width of the base cushion <b>210</b> and a portion of the length of the base cushion <b>210</b>. However, in additional embodiments of the seat cushion assembly <b>100</b>, the recess <b>210</b> may span the entire length and width of the base cushion <b>210</b> and/or any portion of the length and width of the base cushion <b>210</b>.</p>
+<p id="p-0029" num="0028">The recess <b>240</b> of the exemplary base cushion <b>210</b> includes an end wall <b>310</b> and a pair of insert receiving portions <b>320</b>, <b>322</b> located on opposing sides of a projection <b>330</b>. The exemplary projection <b>340</b> includes two inclined faces <b>340</b>, <b>350</b>. However, the projection <b>340</b> of additional embodiments of the seat cushion assembly <b>100</b> can be shaped and/or configured differently. For example, the projection may have a semi-circular or arcuate profile. In yet further additional embodiments, the seat cushion assembly <b>100</b> does not include a projection. The illustrated embodiment of the recess <b>240</b> includes an attachment element <b>324</b>. The attachment element <b>324</b> of the illustrated embodiment is a layer of hook and loop fastener adherent material, such as felt or other suitable material. The attachment element <b>324</b> of additional embodiments of the recess <b>240</b> may be hook and loop fastener material located on the entire surface or a portion of the surface of the recess <b>240</b> or any other type of fastener or plurality of fasteners, such as for example tabs, snaps, hooks, straps, etc. Further embodiments of the recess <b>324</b> can be provided without an attachment element <b>324</b>.</p>
+<p id="p-0030" num="0029">Referring now to <figref idref="DRAWINGS">FIGS. 4A and 4B</figref>, the insert receiving portions <b>320</b>, <b>322</b> of the recess <b>240</b> are adapted to receive a plurality of inserts <b>410</b>, <b>420</b>. The inserts <b>410</b>, <b>420</b> can have a variety of different shapes and configurations. As shown in more detail in <figref idref="DRAWINGS">FIG. 5</figref>, the inserts <b>410</b>, <b>420</b> each have a generally flat bottom surface <b>510</b>, a generally flat upper surface <b>520</b> and an inclined portion <b>530</b>. However, the inserts <b>410</b>, <b>420</b> can have a simple square shape or any other variety of shapes in alternate embodiments. The inserts <b>410</b>, <b>420</b> of the illustrated embodiment are formed from foam, but any suitable material can be used, such as for example rubber or plastic. Additional embodiments of the seat cushion assembly <b>100</b> are not limited to a pair of inserts, as one insert or a variety of numbers of inserts can be provided. Additional embodiments of the seat cushion assembly <b>100</b> may be provided without a recess <b>240</b>. In such embodiments, the inserts <b>410</b>, <b>420</b> may be adapted to be attached or adhered to the base cushion <b>210</b> or located beneath the base cushion <b>210</b> without being housed within a recess.</p>
+<p id="p-0031" num="0030">Referring again to <figref idref="DRAWINGS">FIGS. 4A and 4B</figref>, the inserts <b>410</b>, <b>420</b> are adapted to be housed within the recess <b>240</b> adjacent to one another, with each of the inserts <b>410</b>, <b>420</b> abutting the projection <b>330</b> of the base cushion <b>210</b>. However, in additional embodiments, the inserts <b>410</b>, <b>420</b> may not be located adjacent to one another in this fashion. The inclined faces <b>340</b>, <b>350</b> of the projection <b>330</b> are configured to abut against the inclined faces <b>530</b> of the inserts <b>410</b>, <b>420</b>. The complementary shapes of the inserts <b>410</b>, <b>420</b>, the insert receiving portions <b>320</b>, <b>322</b> of the recess <b>240</b>, and the projection <b>330</b> serve to locate the inserts <b>410</b>, <b>420</b> relative to the base cushion <b>210</b> when the inserts <b>410</b>, <b>420</b> are installed within the recess <b>240</b> (i.e., in the stored position). The contact between the end wall <b>310</b> of the recess <b>240</b> and the inserts <b>410</b>, <b>420</b> inhibits the inserts from sliding beneath the base cushion <b>210</b>. The contact between the projection <b>330</b> and the inserts hinders the inserts <b>410</b>, <b>420</b> from moving or sliding relative to the width of the base cushion <b>210</b>.</p>
+<p id="p-0032" num="0031">The exemplary seat cushion assembly <b>100</b> is configured in such a way that when the inserts <b>410</b>, <b>420</b> are housed within the recess <b>240</b> of the base cushion <b>210</b>, the lower surface <b>250</b> of the base cushion <b>210</b> and the bottom surfaces <b>510</b> of the inserts <b>410</b>, <b>420</b> combine to form a level plane and allow the seat cushion assembly <b>100</b> to function as a typical seating surface. In the configuration of the seating assembly <b>100</b> illustrated in <figref idref="DRAWINGS">FIGS. 4A and 4B</figref>, neither side of the seating assembly <b>100</b> is raised higher than the other when the seating assembly <b>100</b> is resting on a flat surface.</p>
+<p id="p-0033" num="0032">As shown in <figref idref="DRAWINGS">FIG. 4A</figref>, the inserts <b>410</b>, <b>420</b> include optional fasteners. The fasteners <b>430</b> of the exemplary inserts <b>410</b>, <b>420</b> are hook and loop fastener strips that encircle the inserts <b>410</b>, <b>420</b> so that a portion of the hook and loop fastener strip is located on the bottom surfaces <b>510</b> of the inserts <b>410</b>, <b>420</b> (as shown in <figref idref="DRAWINGS">FIG. 4A</figref>) and a portion of the hook and loop fastener strip is located on the upper surfaces <b>520</b> (as shown in <figref idref="DRAWINGS">FIG. 5</figref>). The portions of the fasteners <b>430</b> that are located on the upper surfaces <b>520</b> of the inserts <b>410</b>, <b>420</b> are adapted to selectively adhere to the hook and loop fastener adherent material of the attachment element <b>324</b> of the recess <b>240</b> to securely locate the inserts <b>410</b>, <b>420</b> within the recess <b>240</b>. The portions of the fasteners <b>430</b> that are located on the bottom surfaces <b>510</b> of the inserts <b>410</b>, <b>420</b> are adapted to allow the inserts <b>410</b>, <b>420</b> to be selectively attached to one another (as shown in <figref idref="DRAWINGS">FIG. 7</figref>). The fasteners <b>430</b> of the exemplary inserts <b>410</b>, <b>420</b> comprise a hook and loop type fastener strip located on one insert that is loop material and a fastener strip on the other insert that is hook material. It should be understood, that fasteners other than hook and loop fasteners can be used in additional embodiments. The inserts <b>410</b>, <b>420</b> include optional tabs <b>460</b> to facilitate the removal and/or positioning of the inserts.</p>
+<p id="p-0034" num="0033">Referring now to <figref idref="DRAWINGS">FIG. 6A</figref>, when the inserts <b>410</b>, <b>420</b> are both housed within the recess <b>240</b> beneath the base cushion <b>210</b> (i.e, in the default position or unadjusted position), the seat cushion assembly <b>100</b> functions as a typical seating surface. Neither side of the seat cushion assembly <b>100</b> is raised higher than the other.</p>
+<p id="p-0035" num="0034">Both of the inserts <b>410</b>, <b>420</b> can be selectively removed from the seat cushion assembly <b>100</b>. The optional tabs <b>460</b> facilitate the removal of the inserts <b>410</b>, <b>420</b>. Referring to <figref idref="DRAWINGS">FIG. 6B</figref>, the exemplary seat cushion assembly <b>100</b> is shown with insert <b>420</b> in the recess <b>240</b> in the stored position and the other insert removed. The exemplary inserts <b>410</b>, <b>412</b> have a height &#x201c;h&#x201d; which is approximately &#xbd; inch, though that height can substantially vary (e.g., 0.25 to 1 inches or more). Additional embodiment of the seat cushion assembly <b>100</b> include inserts having a variety of heights. Furthermore, each insert need not be of the same height, shape, configuration as all of the other inserts.</p>
+<p id="p-0036" num="0035">Referring now to <figref idref="DRAWINGS">FIG. 6C</figref>, the exemplary seat cushion assembly <b>100</b> is shown with insert <b>410</b> removed from the recess <b>240</b> and attached to insert <b>420</b>. As shown in more detail in <figref idref="DRAWINGS">FIG. 7</figref>, the optional fasteners <b>430</b> of the inserts <b>410</b>, <b>420</b> allow one of the inserts to be removed from the recess and attached to the other insert. In this configuration illustrated in <figref idref="DRAWINGS">FIG. 6C</figref>, the inserts <b>410</b>, <b>420</b> located on one side of the base cushion <b>210</b> have a combined height of 2 h and no insert is located on the other side of the base cushion <b>210</b>.</p>
+<p id="p-0037" num="0036">Referring now to <figref idref="DRAWINGS">FIGS. 8A-8C</figref>, a user <b>810</b> is shown seated in the exemplary seat cushion assembly <b>100</b>. As illustrated in <figref idref="DRAWINGS">FIG. 8A</figref>, when the inserts <b>410</b>, <b>420</b> are both housed within the recess <b>240</b> beneath the base cushion <b>210</b> (i.e, in the default position or unadjusted position), neither side of the seat cushion assembly <b>100</b> is raised higher than the other. In this configuration, the pelvis of the user <b>810</b> is maintained in a horizontal plane. This configuration of the seat cushion assembly <b>100</b> is used with a user who does not have a pelvic obliquity.</p>
+<p id="p-0038" num="0037">Referring now to <figref idref="DRAWINGS">FIG. 8B</figref>, the seat cushion assembly <b>100</b> is shown with insert <b>420</b> housed within the recess <b>240</b> and the other inset removed. As discussed previously, either of the inserts <b>410</b>, <b>420</b> can be selectively removed from the seat cushion assembly <b>100</b>. The removal of the insert from the right side of the seat cushion assembly <b>100</b>, causes the weight of the user <b>810</b> to push the right side of the seat cushion assembly <b>100</b> down since the right side of the seat cushion assembly is no longer being supported by the removed insert. In this manner, the right side of the seat cushion assembly <b>100</b> is lowered relative to the left side of seat cushion assembly a distance approximately equal to the thickness h of the removed insert. Thus, the left side of the user's pelvis is raised (or the right side of the user's pelvis is lowered) by a distance h relative to a baseline &#x201c;A&#x201d;. Conversely, the right side of the user's pelvis can be raised (or the left side lowered) by leaving insert <b>410</b> stored within the recess and removing insert <b>420</b> from the left side of the seat cushion assembly <b>100</b>.</p>
+<p id="p-0039" num="0038">Referring now to <figref idref="DRAWINGS">FIG. 8C</figref>, the exemplary seat cushion assembly <b>100</b> is shown with insert <b>410</b> removed from the recess <b>240</b> and attached to insert <b>420</b>. Due to the inclusion of both inserts <b>410</b>, <b>420</b> on the left side of the seat cushion assembly <b>100</b>, the left side of the seat cushion assembly is raised by a distance approximately equal to twice the thickness h of one of the inserts relative to baseline &#x201c;A.&#x201d; Accordingly, the left side of the user's pelvis is raised (or the right side lowered) by this distance as well.</p>
+<p id="p-0040" num="0039">As shown in <figref idref="DRAWINGS">FIGS. 8B and 8C</figref>, when a user is seated in the seat cushion assembly <b>100</b> and one of the inserts <b>410</b>, <b>420</b> is removed, the projection <b>330</b> of the base cushion, compresses and conforms to the contour of the surface supporting the seat cushion assembly <b>100</b>. This characteristic of the projection <b>330</b> helps to ensure that the user will not perceive a bump or ridge caused by the transition between the boundaries of the housed insert(s) and the rest of the seat cushion assembly <b>100</b>.</p>
+<p id="p-0041" num="0040">When diagnosing the pelvic obliquity of a patient, a clinician will observe the patient in a seated position and determine if one side of the patient's pelvis is higher than the other. Based upon the amount and type of pelvic obliquity exhibited by a particular patient, the clinician can determine whether to attempt to accommodate for or correct the patient's pelvic obliquity. The seat cushion assembly <b>100</b> of this detailed description affords a clinician the ability to customize the seat cushion assembly for use in either accommodating or correcting a pelvic obliquity.</p>
+<p id="p-0042" num="0041">To accommodate or correct a pelvic obliquity of a patient using the exemplary seat cushion assembly <b>100</b>, a doctor, clinician, therapist or a wheelchair user opens the opening <b>120</b> of the outer cover <b>110</b> to access the inserts <b>410</b>, <b>420</b>. Using the optional tabs <b>460</b>, one of the inserts <b>410</b>, <b>420</b> may be removed from beneath the base cushion <b>210</b> as desired to make an obliquity adjustment (i.e., alter the angular orientation) of the seat cushion assembly <b>100</b>. As described above, if desired, the removed insert may be repositioned beneath the remaining insert to further increase the distance that one side of the seat cushion assembly <b>100</b> is raised. In this manner, the seat cushion assembly <b>100</b> can be customized to raise or lower one side of a user's pelvis to accommodate or correct for a pelvic obliquity.</p>
+<p id="p-0043" num="0042">Because the inserts <b>410</b>, <b>420</b> of the illustrated embodiment of the seat cushion assembly <b>100</b> are located beneath the base cushion <b>210</b> and not on top of it, the addition or removal of one or both of the inserts <b>410</b>, <b>420</b> does not perceptively alter the upper contour (i.e., the shape of the seating surface) of the base cushion <b>210</b>. The fact that the upper contour of the base cushion <b>210</b> is not altered contributes to the comfortability of the base cushion because the shape and contour of the seating surface is not altered at its interface with the user. In addition, due to the fact that the inserts <b>410</b>, <b>420</b> of the illustrated embodiment are not directly adjacent to the user's buttocks (rather, the base cushion <b>210</b> is between the user and the inserts <b>410</b>,<b>410</b>), the indentation load deflection (ILD) rating or deflection of the material chosen for the inserts may be harder without sacrificing comfort.</p>
+<p id="p-0044" num="0043">In additional embodiments of the seat cushion assembly <b>100</b>, a system of inserts is provided that includes a plurality of inserts having different shapes, configurations and/or dimensions. This system of inserts is provided either in addition to inserts <b>410</b>, <b>420</b> or as a replacement thereof. A user can select inserts of a desired shape, configuration, or dimension from the system of inserts to adjust the inclined orientation of the seat cushion assembly <b>100</b> a desired amount.</p>
+<p id="p-0045" num="0044">While the described embodiment of the seat cushion assembly <b>100</b> provides for the adjustment of the seat cushion assembly relative to the sagittal plane of a user seated within the seat cushion assembly, additional embodiments of the seat cushion assembly may provide for the alteration of the inclined orientation of the seat cushion assembly relative to the coronal plane and/or the sagittal plane of a user.</p>
+<p id="p-0046" num="0045">Referring to <figref idref="DRAWINGS">FIGS. 9A and 9B</figref>, the seat cushion assembly <b>100</b> includes an optional overlay pad <b>910</b>. The overlay pad <b>910</b> provides additional cushioning for the user. The overlay pad <b>910</b> may be made from a variety of suitable materials. The illustrated overlay pad <b>910</b> is filled with gel; however, additional embodiments of the overlay pad <b>910</b> do not have a gel filling. The overlay pad <b>910</b> is fastened to the base cushion <b>210</b> by a plurality of fastening straps <b>920</b> which adhere to the attachment element <b>324</b> of the recess <b>240</b> (as shown in <figref idref="DRAWINGS">FIG. 9B</figref>). The overlay pad <b>910</b> can also fastened to the base cushion <b>210</b> by A hook and loop type fastener, buttons, tape, adhesive, glue, or any other suitable fastener.</p>
+<p id="p-0047" num="0046">The seat cushion assembly <b>100</b> disclosed by this detailed description can be used with any type of wheelchair or mobility aid, including but not limited to, manually driven wheelchairs, motor driven wheelchairs, wheelchairs with rigid frames, wheelchairs with folding frames, scooters, rollators, and other mobility aids. In addition, the seat cushion assembly <b>100</b> disclosed by this detailed description can also be used for other devices apart from wheelchairs or mobility aids. For example, the seat cushion assembly <b>100</b> could serve as a standalone cushion for use in sitting on any surface.</p>
+<p id="p-0048" num="0047">While the present invention has been illustrated by the description of embodiments thereof, and while the embodiments have been described in considerable detail, it is not the intention of the applicant to restrict or in any way limit the scope of the appended claims to such detail. Additional advantages and modifications will readily appear to those skilled in the art. Therefore, the invention in its broader aspects is not limited to the specific details, representative apparatus and method, and illustrative examples shown and described. Accordingly, departures may be made from such details without departing from the spirit or scope of the applicant's general inventive concept.</p>
+<p id="p-0049" num="0048">The components of the seating assembly, including the inserts, may have a variety of different shapes, dimensions, configurations and constructions in various additional embodiments. The shape, dimension, configuration and construction of the components of the seating assembly may be changed based upon design, appearance or ornamentality and are not limited to the shape, dimension, configuration and construction disclosed herein.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>Having thus described the many embodiments, the invention is now claimed to be:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A seat cushion assembly, comprising:
+<claim-text>a base cushion, wherein the base cushion has a generally flat bottom surface, and wherein a recess is defined within the bottom surface, the recess comprising an attachment element;</claim-text>
+<claim-text>at least two inserts, wherein each of the at least two inserts have a generally flat bottom surface, wherein the at least two inserts are adapted to be housed within the recess of the base cushion under opposing sides of the base cushion, and wherein the at least two inserts comprise a fastener for affixing the at least two inserts to the attachment element of the recess;</claim-text>
+<claim-text>wherein the flat bottom surface of the base cushion and the flat bottom surfaces of the at least two inserts combine to form a single generally flat surface when the at least two inserts are housed within the recess; and</claim-text>
+<claim-text>wherein either of the at least two inserts may be selectively removed from the recess of the base cushion to selectively lower the side of the base cushion that housed the removed insert when a user is seated within the seat cushion assembly.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The seat cushion assembly of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the attachment element of the recess comprises a hook and loop fastener adherent fabric.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The seat cushion assembly of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the at least two inserts are adapted to be selectively attached to one another, whereby one of the at least two inserts may be housed within the recess and the other of the at least two inserts may be selectively attached to the housed insert so that both of the at least two inserts are retained within the recess under the same side of the base cushion.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The seat cushion assembly of <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the fastener of the at least two inserts comprises a hook and loop fastener strap that encircles the insert.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The seat cushion assembly of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the fastener of one of the at least two inserts comprises a hook material and the fastener of the other of the at least two inserts comprises a loop material.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The seat cushion assembly of <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein when the at least two inserts are attached to one another and the user is seated within the seat cushion assembly, an angled portion of at least one of the inserts deflects downward.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The seat cushion assembly of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the base cushion has a length and a width and wherein the recess spans generally the entire width and approximately half of the length.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The seat cushion assembly of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the at least two inserts have a generally flat upper surface parallel to the bottom surface and at least one inclined surface.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The seat cushion assembly of <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the at least two inserts have a thickness of approximately less than or equal to 1 inch.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The seat cushion assembly of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a moisture resistant outer cover adapted to enclose the base cushion and the inserts.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The seat cushion assembly of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the seat cushion assembly is configured to permit adjustment of the base cushion relative to the sagittal plane of the user seated within the seat cushion assembly.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The seat cushion assembly of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the base cushion is configured to conform to the contour of a surface supporting the seat cushion assembly when the user is seated within the seat cushion assembly and one or more of the at least two inserts is removed.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The seat cushion assembly of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the at least two inserts are configured to be selectively removed from the recess of the base cushion without removal of the base cushion from the seat cushion assembly.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The seat cushion assembly of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein when either of the at least two inserts are removed from the recess of the base cushion, the side of the base cushion that housed the removed insert is lowered relative to the opposing side of the base cushion such that a seating surface of the base cushion is uneven and the pelvis of the user seated within the seat cushion assembly is lowered on one side relative to the other.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. A seat cushion assembly, comprising:
+<claim-text>a base cushion;</claim-text>
+<claim-text>a recess defined within a bottom surface of the base cushion, the recess comprising a first insert receiving portion, second insert receiving portion and a projection located between the first and second insert receiving portions, the projection comprising first and second inclined surface;</claim-text>
+<claim-text>at least a first and second insert, wherein each of the first and second inserts comprise at least one incline surface, wherein the first and second inserts are adapted to be housed within the recess of the base cushion under opposing sides of the base cushion, and wherein the inclined surface of the first insert abuts the first inclined surface of the projection and the inclined surface of the second insert abuts the second inclined surface of the projection; and</claim-text>
+<claim-text>wherein either of the first or second inserts may be selectively removed from the recess of the base cushion to selectively lower the side of the base cushion that housed the removed insert when a user is seated within the seat cushion assembly.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The seat cushion assembly of <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein the recess comprises an attachment element and wherein the first and second inserts comprise a fastener for affixing the at first and second inserts to the attachment element of the recess.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The seat cushion assembly of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the attachment element of the recess comprises a hook and loop fastener adherent fabric.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The seat cushion assembly of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the first and second inserts are adapted to be selectively attached to one another, whereby one of the first and second inserts may be housed within the recess and the other of the first and second inserts may be selectively attached to the housed insert so that both of the first and second inserts are retained within the recess under the same side of the base cushion.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The seat cushion assembly of <claim-ref idref="CLM-00018">claim 18</claim-ref>, wherein the fastener of the at first and second inserts comprises a hook and loop fastener strap that encircles the insert.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The seat cushion assembly of <claim-ref idref="CLM-00019">claim 19</claim-ref>, wherein the fastener of one of the first and second inserts comprises a hook material and the fastener of the other of the at first and second inserts comprises a loop material.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text>21. The seat cushion assembly of <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein the base cushion has a length and a width and wherein the recess spans generally the entire width and approximately half of the length.</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text>22. The seat cushion assembly of <claim-ref idref="CLM-00015">claim 15</claim-ref>, wherein the first and second inserts have a thickness of approximately less than or equal to 1 inch.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text>23. The seat cushion assembly of <claim-ref idref="CLM-00015">claim 15</claim-ref>, further comprising a moisture resistant outer cover adapted to enclose the base cushion and the inserts.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text>24. A seat cushion assembly, comprising:
+<claim-text>a base cushion, wherein the base cushion has a generally flat bottom surface,</claim-text>
+<claim-text>a recess defined within the bottom surface of the base cushion, the recess comprising an attachment element, at least a first and second insert receiving portion, and a projection located between the first and second insert receiving portions, the projection comprising a first and second inclined surface;</claim-text>
+<claim-text>wherein each of the first and second inserts have a generally flat bottom surface and at least one inclined surface, wherein the first and second inserts are adapted to be housed within the recess of the base cushion under opposing sides of the base cushion, wherein the first and second inserts comprise a fastener for affixing the first and second inserts to the attachment element of the recess, and wherein the inclined surface of the first insert abuts the first inclined surface of the projection and the inclined surface of the second insert abuts the second inclined surface of the projection; and</claim-text>
+<claim-text>wherein the flat bottom surface of the base cushion and the flat bottom surfaces of the first and second inserts combine to form a single generally flat surface when the first and second inserts are housed within the recess; and</claim-text>
+<claim-text>wherein either of the first or second inserts may be selectively removed from the recess of the base cushion to selectively lower the side of the base cushion that housed the removed insert when a user is seated within the seat cushion assembly.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text>25. The seat cushion assembly of <claim-ref idref="CLM-00024">claim 24</claim-ref>, wherein the first and second inserts are adapted to be selectively attached to one another, whereby one of the first and second inserts may be housed within the recess and the other of the first and second inserts may be selectively attached to the housed insert so that both of the first and second inserts are retained within the recess under the same side of the base cushion.</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text>26. A seat cushion assembly, comprising:
+<claim-text>a base cushion comprising a bottom surface and a recess defined within the bottom surface, the recess comprising an attachment element;</claim-text>
+<claim-text>at least two inserts, wherein each of the at least two inserts are configured to be housed within the recess of the base cushion, and wherein the at least two inserts comprise a fastener for affixing the at least two inserts to the attachment element of the recess; and</claim-text>
+<claim-text>wherein either of the at least two inserts may be selectively removed from the recess of the base cushion to selectively lower the side of the base cushion that housed the removed insert when a user is seated within the seat cushion assembly;</claim-text>
+<claim-text>wherein the base cushion is configured to conform to the contour of a surface supporting the seat cushion assembly when the user is seated within the seat cushion assembly and one or more of the at least two inserts is removed; and</claim-text>
+<claim-text>wherein the seat cushion assembly is configured to permit adjustment of the base cushion relative to the sagittal plane of the user seated within the seat cushion assembly. </claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

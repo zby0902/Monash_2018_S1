@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891034-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891034</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12592584</doc-number>
+<date>20091130</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>47</class>
+<subclass>D</subclass>
+<main-group>5</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>  5655</main-classification>
+<further-classification>  5947</further-classification>
+</classification-national>
+<invention-title id="d2e43">Door mounted change table</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>3078478</doc-number>
+<kind>A</kind>
+<name>Sheahan</name>
+<date>19630200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  5 931</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>3269621</doc-number>
+<kind>A</kind>
+<name>Dishart</name>
+<date>19660800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>224585</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3644947</doc-number>
+<kind>A</kind>
+<name>Padera</name>
+<date>19720200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  5100</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>3659297</doc-number>
+<kind>A</kind>
+<name>Schutz</name>
+<date>19720500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  5655</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>3746390</doc-number>
+<kind>A</kind>
+<name>Koah</name>
+<date>19730700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>29718808</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>4123809</doc-number>
+<kind>A</kind>
+<name>Pugh</name>
+<date>19781100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  4659</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>4133063</doc-number>
+<kind>A</kind>
+<name>Jones-Steele</name>
+<date>19790100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  5 991</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>4190918</doc-number>
+<kind>A</kind>
+<name>Harvell</name>
+<date>19800300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  5653</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>4319367</doc-number>
+<kind>A</kind>
+<name>Cantillo</name>
+<date>19820300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  4353</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>4466146</doc-number>
+<kind>A</kind>
+<name>Regan</name>
+<date>19840800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  5 983</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>4935973</doc-number>
+<kind>A</kind>
+<name>Behrman</name>
+<date>19900600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  5  21</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>5299336</doc-number>
+<kind>A</kind>
+<name>Marteeny</name>
+<date>19940400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  5655</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>5310242</doc-number>
+<kind>A</kind>
+<name>Golder</name>
+<date>19940500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>297 14</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>6125487</doc-number>
+<kind>A</kind>
+<name>Ive</name>
+<date>20001000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  5655</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>6272704</doc-number>
+<kind>B1</kind>
+<name>Cutler</name>
+<date>20010800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  5655</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>6389624</doc-number>
+<kind>B1</kind>
+<name>Madole</name>
+<date>20020500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  5655</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>6421856</doc-number>
+<kind>B1</kind>
+<name>Furnback</name>
+<date>20020700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  5655</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>2010/0138995</doc-number>
+<kind>A1</kind>
+<name>Smith</name>
+<date>20100600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  5424</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>7</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>  5655</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  5947</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  5 931</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  5 94</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  5 991</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  5118</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>4</number-of-drawing-sheets>
+<number-of-figures>4</number-of-figures>
+</figures>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>61120054</doc-number>
+<date>20081204</date>
+</document-id>
+</us-provisional-application>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20100138995</doc-number>
+<kind>A1</kind>
+<date>20100610</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Smith</last-name>
+<first-name>Tyson Kirk</first-name>
+<address>
+<city>Lethbridge</city>
+<country>CA</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>CA</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Koshy</last-name>
+<first-name>Usha</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<last-name>Smith</last-name>
+<first-name>Tyson</first-name>
+<role>05</role>
+<address>
+<city>Lethbridge, AB</city>
+<country>CA</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Santos</last-name>
+<first-name>Robert G</first-name>
+<department>3673</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A door mountable infant change table comprising a base structure and a changing area platform structure hingedly attached to each other and capable of vertical mounting on the surface of a door or similar structure through the use of straps secured by brackets to the top and bottom rims of a door or other structure that allow for sliding the change table and securing it to a height suited to the person changing the infant at the change table by means of clips provided near the holes of the change table through which the straps are threaded.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="165.35mm" wi="247.23mm" file="US07891034-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="189.15mm" wi="132.59mm" file="US07891034-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="205.23mm" wi="145.88mm" orientation="landscape" file="US07891034-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="121.50mm" wi="112.44mm" orientation="landscape" file="US07891034-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="177.21mm" wi="171.53mm" file="US07891034-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0002" num="0001">The present invention generally relates to infant changing tables. More particularly, the invention relates to infant changing tables that are attached to another structure such as a door or a wall.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">Infant diaper changing practices and structures have progressed from the use of a bed to changing tables of the kind contrived by mounting a soft pad over a dresser or other stationary furniture for use at home. There are many households where either there are not enough rooms to set up a separate baby nursery or limited space to set up a separate changing station such as the use of a dresser or other furniture to change the infant's diapers. In those circumstances, it is common practice to use a bed, the floor, carpet, or even the dinner table to change the infant's soiled diapers, compromising hygiene. Thus there is a need in the art for a hygienic and space saving structure specifically dedicated to the infant's diaper changing needs in households with limited space. The present invention provides a space saving changing table that can be installed on either side of a room door to meet the diaper changing needs of a baby and conveniently folded up on its base to lie against the door surface and away from traffic between rooms when not in use.</p>
+<p id="p-0004" num="0003">The need for a means to change infant's diapers when away from home has produced several innovative concepts in portable diaper changing structures such as pads and tables described in U.S. Pat. No. 7,520,010, U.S. Pat. No. 7,350,252, and U.S. Pat. No. 6,889,397; and portable changing tables of the kind disclosed in U.S. Pat. No. 6,421,856 and U.S. Pat. No. 6,389,624. These pads and tables are quite often bulky and take up space in a vehicle in addition to other baby changing and feeding luggage such as diaper bags and accessories, strollers etc., when traveling with a baby to visit family and friends. The present invention provides a space saving changing table that can be stored by family and friends at their residences and easily set up to provide a changing table for a visiting baby.</p>
+<p id="p-0005" num="0004">The critical need for diaper changing tables in public restrooms has seen the advent of wall mounted baby changing tables in those facilities. U.S. Pat. No. 4,216,951, one such earlier granted patent discloses a baby-changing apparatus adapted to be foldably mounted to a vertical support, such as walls and partitions in public restrooms, restaurants, department stores, airports, and the like. U.S. Pat. No. 4,965,896 describes a fold up table extending from a room wall and constructed of a hollow rectangular tray capable of supporting a baby while the baby's diaper is being changed. A countertop mountable infant changing station is described in U.S. Pat. No. 5,987,677. A series of patents granted to Helmsderfer, the most recent one described in U.S. Pat. No. 7,426,765 comprises a diaper changing station for mounting on a wall surface.</p>
+<p id="p-0006" num="0005">The infant diaper changing tables described and patented thus far have been configured for wall mounting which involves drilling holes in walls in order to mount these structures. Dismantling and moving these changing tables to another location on the wall or to another room wall would be cumbersome and leave holes in the walls requiring patching up, painting etc. Thus there is a need in the art for a space saving infant changing table that can be conveniently mounted, with minimal damage to the mounting surface and removed for storage when not in use. The present invention fulfills that need by providing a changing table that can be mounted on a door surface by means of a strap or bracket and capable of being positioned to the height of the user by sliding the changing table vertically through the length of the door on the straps.</p>
+<p id="p-0007" num="0006">The present invention fulfills the deficiencies in the prior art for a portable space saving infant changing table for use at home, or when visiting family and friends; for use by baby sitters and grandparents in their own homes; for use in day care facilities, or in public restrooms when traveling with a baby.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0008" num="0007">The present invention relates to a portable, door mounted infant changing table for use at any residence whether the baby's own home or that of family and friends where space is limited. The changing table of the present invention provides a hygienic area for changing an infant's soiled diapers without the use of other furniture such as beds, tables, or floors in the house. Another advantage of the portable nature of the changing table of the present invention is that it can be easily mounted on the door or ledge of a public or hotel restroom to change the baby's diapers while traveling.</p>
+<p id="p-0009" num="0008">In an exemplary embodiment of the present invention, the changing table is comprised of a base structure capable of being mounted on either side of a door surface by means of two parallel adjustable straps attached to the top and bottom of the door rims by means of brackets or the like and are passed through evenly spaced holes provided on the top and bottom of the base structure, to position the base structure securely over the door surface by means of clips provided near the holes of the base structure. These straps are then tightened to secure the change table against the door.</p>
+<p id="p-0010" num="0009">In this embodiment of the present invention, the functional, infant changing area platform structure of the change table is hingedly attached to the base structure mounted over the door by means of the two straps. In this embodiment, the changing area structure is additionally provided with a set of straps to secure the infant in place while changing diapers.</p>
+<p id="p-0011" num="0010">In a preferred embodiment of the present invention, the infant change table is provided with a diaper/wash cloth holder positioned at the center of the base structure above the changing area structure and a disposable changing pad laid flat on the changing area structure surface.</p>
+<p id="p-0012" num="0011">These and other features and advantages of the present invention will become obvious to one skilled in the art through the description of the drawings, detailed description of the invention and the appended claims.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 1</figref> shows a perspective view of the change table mounted on the door.</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 2</figref> shows the open and closed views of the change table</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 3</figref> shows a cross sectional side view of the change table.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 4</figref> shows a perspective view of the change table in the open and closed positions.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0017" num="0016">The present invention fulfills the need in the prior art for a mounted infant changing table that is not permanently attached to a wall or other structure. The portable nature of the present invention and the convenience of mounting over the surface of a door with ease by means of sturdy straps provides a changing table that is both aesthetically pleasing and safe to use for changing the diaper or clothes of an infant especially in environments with limited space.</p>
+<p id="p-0018" num="0017">Referring now to <figref idref="DRAWINGS">FIG. 1</figref>, is shown an open perspective view of the change table with the base structure <b>12</b> mounted on the door <b>1</b> surface by means of two straps, <b>22</b> and <b>24</b> that run parallel and span the length of door <b>1</b> and are attached to door <b>1</b> by means of brackets at the top and bottom rims of the door <b>1</b>. In this embodiment of the invention, the straps holding the base structure <b>12</b> are passed through two holes at the top and two holes at the bottom of the base structure <b>12</b> to hold the structure flush and securely against the surface of door <b>1</b>. In the preferred and exemplary embodiment of the present invention, the base structure of the change table can be slidably moved up and down the length of the door to a height suitable for the person changing the infant's diaper's or clothes. The change table will be held securely in place after adjusting to the desired height on the straps attached to the door, by means of specifically constructed clips located near the holes used to thread the change table through the straps.</p>
+<p id="p-0019" num="0018">Referring again to <figref idref="DRAWINGS">FIG. 1</figref>, the changing area platform structure <b>14</b> is shown attached to and protruding from the base structure <b>12</b> and provides a platform to lay the infant down to change diapers and other clothing. There is provided a set of straps <b>16</b> to secure the infant while changing and a disposable pad <b>20</b> to place beneath the infant while changing diapers, facilitating hygiene. About the center of the base structure <b>12</b> and above the lower changing area platform structure <b>14</b> is provided a receptacle <b>18</b> to hold diapers, washcloths, wipes etc. for the infant's changing needs.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 2</figref> shows perspective views of the change table in the open <b>10</b> A and closed <b>10</b> B positions. The base structure <b>12</b> and the changing area platform structure <b>14</b> attached to the base structure <b>12</b> are shown in this open view of the change table. Referring again to <figref idref="DRAWINGS">FIG. 2</figref>, <b>10</b> B shows the closed view of the change table with the lower changing area platform structure <b>14</b> folded up to meet the top portion of the base structure <b>12</b> and locked in place by the locking devise <b>26</b>.</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 3</figref> is a side cross sectional view of the change table <b>10</b> with the base structure <b>12</b> in the open vertical position and the changing area platform structure <b>14</b> in the horizontal position, hingedly attached to the base structure of the change table base <b>12</b>.</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 4</figref> is a perspective view of the change table in an open, <b>10</b>A and closed, <b>10</b>B positions. The base structure <b>12</b> and the changing area platform structure <b>14</b> are molded from plastic or other such suitable material. The set of straps <b>16</b>, the disposable pad <b>20</b>, and the receptacle <b>18</b> for holding diapers, wash cloths, wipes etc. within easy reach of the caregiver can be seen in this view of an exemplary embodiment of this invention. The device <b>26</b> for opening and closing the changing area platform structure <b>14</b> can be seen clearly in the closed view <b>10</b>B of this Figure.</p>
+<p id="p-0023" num="0022">In a preferred embodiment of the present invention, the change table <b>10</b> is constructed of sturdy light weight plastic material that can with stand the weight of an infant in diapers. The diaper and wash cloth receptacle <b>18</b> is preferably constructed of mesh or other like material.</p>
+<p id="p-0024" num="0023">In another embodiment of the present invention, the change table <b>10</b> is fastened to the door <b>1</b> surface by means of brackets that run up and down or side to side on the door.</p>
+<p id="p-0025" num="0024">The portable nature of the infant change table of the present invention, provides for its use in public restrooms by mounting over doors or other wall ledges in these facilities.</p>
+<p id="p-0026" num="0025">The foregoing description of the invention through the figures along with the preferred embodiments should not be construed to limit the scope of the invention. It should be understood and obvious to one skilled in the art that the embodiments of the invention thus described may be further modified without departing from the spirit and scope of the invention as set forth in the claims that follow.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A door mounted infant change table comprising:
+<claim-text>a base structure member configured to mount vertically to a door surface;</claim-text>
+<claim-text>a changing area platform structure member hingedly connected to the base structure member;</claim-text>
+<claim-text>said changing area platform structure member operable in an open position perpendicular to the base structure member to receive an infant in a supine position;</claim-text>
+<claim-text>said changing area platform structure member snuggedly fitting to the base structure member in a closed position when not in use; and</claim-text>
+<claim-text>a set of substantially vertical and parallel strap members inserted through symmetrically spaced holes in the base structure member and attached to top and bottom rims of a door structure member by means of brackets secured to upper and lower ends of the strap members.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. A door mounted infant change table of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the base structure member is operable slidably on the strap members to any height and position on the door structure member for the convenience of a caregiver while changing the infant's diapers and clothes.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. A door mounted infant change table of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the base structure member provides a receptacle to hold diapers, wash cloths, and other accessories at a convenient height and reach in the inner center space of the base structure member.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. A door mounted infant change table of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the changing area platform structure member provides a set of straps to hold the infant securely while changing diapers or clothes.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. A door mounted infant change table of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the changing area platform structure member is provided with a disposable sanitary pad.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. A door mounted infant change table of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein, the change table is portable.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. A door mounted infant change table of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the base and platform structure members are molded from sturdy plastic or similar material.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

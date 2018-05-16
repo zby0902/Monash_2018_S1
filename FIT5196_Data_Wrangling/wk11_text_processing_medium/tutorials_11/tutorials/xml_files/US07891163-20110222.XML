@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891163-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891163</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11896703</doc-number>
+<date>20070905</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>GB</country>
+<doc-number>0617769.5</doc-number>
+<date>20060909</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>853</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>02</class>
+<subclass>G</subclass>
+<main-group>3</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 60 39092</main-classification>
+<further-classification> 602261</further-classification>
+</classification-national>
+<invention-title id="d2e71">Engine</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>3338049</doc-number>
+<kind>A</kind>
+<name>Fernberger</name>
+<date>19670800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60 39092</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>3363419</doc-number>
+<kind>A</kind>
+<name>Wilde</name>
+<date>19680100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 602261</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3436910</doc-number>
+<kind>A</kind>
+<name>Haworth</name>
+<date>19690400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60 39092</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>3832086</doc-number>
+<kind>A</kind>
+<name>Hull et al.</name>
+<date>19740800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>4151212</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>3979903</doc-number>
+<kind>A</kind>
+<name>Hull, Jr. et al.</name>
+<date>19760900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>4183210</doc-number>
+<kind>A</kind>
+<name>Snell</name>
+<date>19800100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60204</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>4250703</doc-number>
+<kind>A</kind>
+<name>Norris et al.</name>
+<date>19810200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60 39092</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>4261168</doc-number>
+<kind>A</kind>
+<name>Grigorian et al.</name>
+<date>19810400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>4463552</doc-number>
+<kind>A</kind>
+<name>Monhardt et al.</name>
+<date>19840800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>4702071</doc-number>
+<kind>A</kind>
+<name>Jenkins et al.</name>
+<date>19871000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60 39092</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>4765135</doc-number>
+<kind>A</kind>
+<name>Lardellier</name>
+<date>19880800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 602262</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>4864820</doc-number>
+<kind>A</kind>
+<name>Wynosky et al.</name>
+<date>19890900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 602261</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>4881367</doc-number>
+<kind>A</kind>
+<name>Flatman</name>
+<date>19891100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60785</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>5123240</doc-number>
+<kind>A</kind>
+<name>Frost et al.</name>
+<date>19920600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60779</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>6319304</doc-number>
+<kind>B1</kind>
+<name>Moredock</name>
+<date>20011100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>6499285</doc-number>
+<kind>B1</kind>
+<name>Snyder</name>
+<date>20021200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>EP</country>
+<doc-number>1 426 588</doc-number>
+<kind>A1</kind>
+<date>20020600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>JP</country>
+<doc-number>A 2002-242699</doc-number>
+<date>20020800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>19</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 60 39091</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 60 39092</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 602661</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 60244</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 60785</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 55306</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>244 53 B</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>4151211</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>4151212</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>4</number-of-drawing-sheets>
+<number-of-figures>8</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20080253881</doc-number>
+<kind>A1</kind>
+<date>20081016</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Richards</last-name>
+<first-name>Martyn</first-name>
+<address>
+<city>Burton on Trent</city>
+<country>GB</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>GB</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Oliff &#x26; Berridge, plc</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Rolls-Royce plc</orgname>
+<role>03</role>
+<address>
+<city>London</city>
+<country>GB</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Cuff</last-name>
+<first-name>Michael</first-name>
+<department>3741</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Wongwian</last-name>
+<first-name>Phutthiwat</first-name>
+</assistant-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">In prop fan and contra fan gas turbine engines particularly utilized with regard to pusher configurations towards the aft of an aircraft, there is a significant problem with regard to debris and bird strikes resulting in particulate matter which may damage the engine thrust core. By providing an inlet rotor which fragments and creates a centrifugal aspect to the inlet flow, particulate matter can be directed to a bypass chute normally in the form of an annular section extending into a number of chute exits. In such circumstances, the particulate matter is removed continuously from the inlet flow and the chutes are normally angled to project any particulate matter towards propellers of the engine at robust positions.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="76.62mm" wi="178.48mm" file="US07891163-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="232.16mm" wi="188.89mm" file="US07891163-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="230.21mm" wi="197.27mm" file="US07891163-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="212.09mm" wi="160.61mm" file="US07891163-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="282.96mm" wi="202.01mm" file="US07891163-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND</heading>
+<p id="p-0002" num="0001">1. Field of the Invention</p>
+<p id="p-0003" num="0002">The present invention relates to an engine and more particularly to gas turbine engines in which the gas turbine drives a shaft on which a propeller or unducted fan is provided for propulsion.</p>
+<p id="p-0004" num="0003">2. Description of Related Art</p>
+<p id="p-0005" num="0004">Operation of gas turbine engines is well known. In some situations it is preferable to couple the propulsion power of that gas turbine engine through a shaft to drive an unducted fan, open rotor or prop for propulsion. These engine configurations are referred to as propfans or contra-rotating fans and utilise a relatively low specific thrust engine. It is also known there are advantages with regard to positioning such propfans and contra-rotating fans towards the rear of an aircraft in a pusher or aft fan configuration.</p>
+<p id="p-0006" num="0005">A significant problem with these gas turbine engines is ingress of debris and birds as particulate matter which will impinge upon the blades of the compressor stage(s) and subsequent parts of the engine's core machinery with possibly significant impact damage or long term wear problems. It will be understood that one of the principal stages of a gas turbine engine's operation is to draw in or suck air which is compressed and then utilised within the thrust core of that engine in order to generate through combustion power either utilised directly in terms of thrust or, in accordance with aspects of the present invention, in order to drive a shaft upon which a propeller or unducted fan is located. Furthermore, it will be understood that a propeller located rearward will result in the inlet for the thrust core, that is to say the turbine machinery of the engine, being very exposed to debris, bird and other particulate matter.</p>
+<p id="p-0007" num="0006"><figref idref="DRAWINGS">FIG. 1</figref> illustrates a prior prop fan or open rotor pusher configuration of an engine <b>1</b> in accordance with aspects of the present invention. It will be noted that a thrust core <b>2</b> comprises a number of compressor and turbine stages which drive a shaft <b>3</b> upon which propellers <b>4</b>, <b>5</b> are located. The thrust core <b>2</b> has a core inlet <b>6</b> through which air is drawn in order to provide propulsion in accordance with known gas turbine operation. As air is drawn in through the inlet <b>6</b> it will be appreciated that there is exposure to debris, birds and other particulate matter. It will be understood that the engine <b>1</b> must be sufficiently robust to survive typical particulate matter ingress.</p>
+<p id="p-0008" num="0007">One approach to provide particulate debris separation is to a have a curved inlet duct such that the denser hard debris will be separable from the air flow and dumped through an appropriate overboard aperture. However, provision of such a curved inlet duct may not be convenient. Furthermore, some approaches have suggested provision of a plenum chamber within which the particulate matter is collected and then dumped at a convenient time, so avoiding potential problems with respect to loss of performance within the engine. In any event, as indicated, curved ducts do not lend themselves to full annular intakes and are more appropriate to &#x201c;chin&#x201d; or bifurcated inlets. It will also be understood that larger particulate matter such as birds would remain substantially intact requiring a fairly large catcher duct for overboard dumping.</p>
+<p id="p-0009" num="0008">Furthermore, proposals such as outlined in U.S. Pat. No. 3,979,903 include use of a booster rotor and a switchable particulate matter dump, but such arrangements are configured such that dump flow is not provided at take off when debris separation will typically be at its greatest necessity. Provision of a switchable dump effectively provides a control bleed flow to help part speed aerodynamic handling of the booster rotor which has a sufficiently high pressure ratio to mitigate for a shortfall in pressure ratio capacity in the high pressure core of the thrust part of the engine. In such circumstances continued bleeding in accordance with the proposals of U.S. Pat. No. 3,979,903 would be too penalising on overall engine operational efficiency.</p>
+<heading id="h-0002" level="1">SUMMARY</heading>
+<p id="p-0010" num="0009">In accordance with aspects of the present invention there is provided a gas turbine engine comprising a thrust core surrounded by an engine casing, the engine casing including an inlet for an inlet flow to the thrust core, the inlet having a rotor that in use imparts a centrifugal component to the inlet flow, the engine is characterised in that a bypass chute extends between the inlet and the casing, wherein the centrifugal component urges particulate matter in the inlet flow through the bypass chute rather than the thrust core.</p>
+<p id="p-0011" num="0010">Preferably, the engine comprises a fan or propeller and an exit of the bypass chute is positioned upstream of the fan or propeller.</p>
+<p id="p-0012" num="0011">Preferably, the bypass chute comprises variable geometry to vary the flow area of the bypass chute between a fully open and a fully closed position.</p>
+<p id="p-0013" num="0012">Preferably, the bypass chute has a rotatable wall portion to vary cross sectional flow area.</p>
+<p id="p-0014" num="0013">Preferably, the bypass chute has a variable exit aperture area.</p>
+<p id="p-0015" num="0014">Preferably, the variable exit aperture area is provided by a sliding door.</p>
+<p id="p-0016" num="0015">Preferably, the rotor propels a portion of the inlet flow into the thrust core to provide a boost to core pressure to the thrust core.</p>
+<p id="p-0017" num="0016">Preferably, the boost at least compensates for pressure losses to the bypass chute.</p>
+<p id="p-0018" num="0017">Preferably, the thrust core includes a turbine secured upon a turbine shaft and the turbine shaft drives the rotor.</p>
+<p id="p-0019" num="0018">Preferably, the inlet has a nose cone to facilitate inlet flow to the thrust core and/or the centrifugal component.</p>
+<p id="p-0020" num="0019">Preferably, the bypass chute is annular about the thrust core.</p>
+<p id="p-0021" num="0020">Alternatively, the bypass chute extends to a plurality of exit apertures. Preferably, the exit apertures are symmetrically distributed about the engine casing.</p>
+<p id="p-0022" num="0021">Preferably, the thrust core drives a propeller or fan.</p>
+<p id="p-0023" num="0022">Preferably, the bypass chute is configured to eject particulate matter towards the propeller or fan at radially inner positions upon the propeller or fan.</p>
+<p id="p-0024" num="0023">Preferably, the bypass chute is angled to provide thrust recovery.</p>
+<p id="p-0025" num="0024">Preferably, the bypass chute includes guide vanes to adjust a bypass flow through the bypass chute.</p>
+<p id="p-0026" num="0025">In accordance with another aspect of the present invention there is provided a method of operating a gas turbine engine as described above, the method comprising continuously operating the bypass chute in an open position.</p>
+<p id="p-0027" num="0026">Preferably, the method comprising varying the flow area of the bypass chute dependent on engine operating conditions.</p>
+<p id="p-0028" num="0027">Preferably, the engine undergoing at least a take-off, a cruise, the method comprising reducing the flow area between take-off and cruise.</p>
+<p id="p-0029" num="0028">Preferably, the engine undergoing an approach condition, the method comprising increasing the flow area between cruise and approach.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0030" num="0029">Embodiments of an engine in accordance with aspects of the present invention will now be described by way of example and with reference to the accompanying drawings in which:&#x2014;</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. 1</figref> illustrates a prior prop fan or open rotor pusher configuration;</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. 2</figref> is a schematic half cross section of an engine in accordance with an embodiment of the present invention;</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. 2A</figref> is a schematic half cross section depicting an alternative to the embodiment depicted in <figref idref="DRAWINGS">FIG. 2</figref>;</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. 2B</figref> is a schematic part cross section showing greater detail of an inlet rotor and bypass chute in accordance with aspects of the present invention;</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. 3</figref> is a schematic part cross section of an inlet to an engine comprising a debris bypass chute having two embodiments of variable area geometry in accordance with aspects of the present invention;</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. 4</figref> is a rear perspective view of an engine casing in accordance with aspects of the present invention;</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. 5</figref> is a schematic illustration of a part cross section of an engine in accordance with aspects of the present invention having two shafts and super charging; and,</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. 6</figref> is an illustration of a schematic part cross section of an engine in accordance with another embodiment of aspects of the present invention with an interleaved turbine.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0039" num="0038">As indicated above, a problem exists with regard to particulate matter in the form of debris or birds entering an engine utilised to propel an aircraft. Of particular concern with regard to aspects of the present invention is an engine which is of a propfan or contra-rotating fan configuration particularly when located towards the aft of an aircraft where possible impingement by particulate matter is further increased. By aspects of the present invention a robust single stage inlet rotor or mini fan is provided at an inlet to an engine to both boost core pressure and generate a centrifugal aspect in the inlet flow such that through centrifugal forces debris and other particulate matter is forced overboard via a continually flowing bypass passage or chute.</p>
+<p id="p-0040" num="0039">It will be understood that the inlet rotor has principal purposes of achieving particulate matter separation for the inlet flow and providing a pressure rise (typically about 1.15) in the flow through the thrust core, that is to say compressors and turbine stages of a gas turbine engine. In such circumstances, it is the ability of the rotor to reduce debris such as birds in the inlet flow to a level which can be ejected through the bypass exhaust chutes which is of most importance. Thus, the inlet rotor may be robust and optimised for that particulate matter reduction function rather than creating a pressure rise. In this way the mini-fan may have a relatively low frontal area that helps to reduce nacelle drag.</p>
+<p id="p-0041" num="0040">It will be understood that particulate matter of a reduced size such as fragmentation of birds will have advantages with regard to reducing the possibility of secondary damage within the engine.</p>
+<p id="p-0042" num="0041">As the objective of an inlet rotor in accordance with aspects of the present invention is to provide debris and particulate matter separation, it will be understood that diameter and spinner geometry (<b>7</b> in <figref idref="DRAWINGS">FIG. 2</figref>) can be sized to ensure good particulate debris protection whilst providing a modest pressure ratio supplement to the overall pressure ratio without compromising frontal area and nacelle drag. The rotor is therefore typically configured to compensate for the efficiency reduction aspects of particulate matter separation and therefore maintain overall engine performance. Normally, the rotor will be driven by a shaft from the thrust core at relatively high speed thus achieving blade speed for performance and particulate matter separation without a high radius and therefore adverse impact upon frontal area of the inlet. However, it will also be understood that the rotor could be driven by suitable means such as an intermediate pressure turbine (IPT) rather than the power or low pressure turbine (LPT) shown. The suitable means of driving also includes drive from a stage of interleaved and usually contra-rotating turbines <b>16</b> as in the case of an unducted fan where the contra-rotating propellers are directly coupled to their part of the turbine <b>16</b>. <figref idref="DRAWINGS">FIG. 6</figref> shows this further embodiment where a drive <b>15</b> to an inlet rotor <b>27</b> is taken from one of the interleaved turbine spools (<b>55</b> or <b>56</b>). An interleaved turbine is a multi staged counter rotating power turbine, typically requiring no fixed inter stage stator vanes.</p>
+<p id="p-0043" num="0042">The pressure ratio enhancement provided by a rotor in accordance with aspects of the present invention will generally be relatively modest and in the order of 1.15, but not limited to this, such that continually flowing bypass duct or chute in accordance with aspects of the present invention will be acceptable in terms of thermo dynamic loss and noise particularly if variation in nozzle outlet area is provided for control of flow and exhaust velocities for maximum thrust recovery and minimum noise through the bypass duct.</p>
+<p id="p-0044" num="0043">Aspects of the present invention enable particulate matter separation utilising an annular chute geometry which, as indicated above, may be more convenient for certain engine types including prop fan and contra fans having a low specific thrust engine core. By providing an annular geometry and through appropriate angling of the bypass chute it may be possible to define a passive flow ejector for the bypass flow incorporating the particulate matter debris so that the exhaust vector from the bypass chute will facilitate thrust recovery. It will be understood that hard and smashed particulate matter will be ejected through the bypass chute and therefore that ejected particulate matter will, in a prop fan or contra-rotating fan configuration of an engine, be directed towards a propeller. Again, through appropriate angling of the bypass chutes it will be understood that this particulate matter can be directed towards radial positions <b>17</b>, preferably radially inwardly, on the propellers which are robust and therefore less susceptible to damage. Note that the propellers are already designed to withstand impacts from foreign objects that have not travelled through the inlet and bypass chute.</p>
+<p id="p-0045" num="0044">It will be understood that sizing of the bypass chute and rotor will be specifically chosen dependent upon engine configuration in order to achieve certain objectives. These objectives may be to have maximum bypass chute flow for inlet rotor handling at low speed and minimised aerodynamic discontinuities in the inlet at higher engine speeds and flow rates when the bypass flow will be relatively small in comparison with the inlet flow to the thrust core of the engine. In a prop fan engine configuration it may be possible to achieve these objectives without providing a bypass chute with variable geometry. This will be achieved by matching the inlet rotor flow performance to the thrust core on the engine at off design so optimising the variable pitch schedule of the propeller blades to adjust the inlet rotor speed. As will be described later, where necessary, the bypass chute can have a variable geometry by utilisation of translating fairings or ramps or flaps to optimise inlet flow stability whilst maximising aerodynamic efficiency and thrust recovery.</p>
+<p id="p-0046" num="0045"><figref idref="DRAWINGS">FIG. 2</figref> provides a schematic half cross section of an engine in accordance with aspects of an exemplary embodiment of the present invention. Thus, the engine <b>21</b> comprises an inlet <b>22</b> through which air flows to a thrust core <b>23</b> comprising a number of compressors <b>60</b>, <b>62</b> and turbine <b>61</b>, <b>63</b>, <b>16</b> stages secured upon shafts in order to drive propellers <b>25</b>, <b>26</b> through a gearbox <b>24</b>. The inlet <b>22</b> includes an inlet rotor <b>27</b> and a bypass chute or passage <b>28</b>. This passage <b>28</b> is annular around the engine <b>21</b> and includes guide vanes <b>29</b> to appropriately present a bypass chute exhaust flow <b>30</b>. Alternatively to an annular bypass chute <b>28</b>, an annular array of discrete bypass chutes <b>28</b> may be implemented around the engine.</p>
+<p id="p-0047" num="0046">It will be understood that an inlet flow A may incorporate particulate matter which may cause damage if ingested into the thrust core <b>23</b>. In such circumstances, the rotor <b>27</b> creates a centrifugal component in the inlet flow A. The particulate matter will generally be urged towards a radially outer wall of the inlet <b>22</b> between a nose <b>19</b> and an engine casing <b>18</b>. Thus the inlet flow A is split to provide a thrust core flow AT and a bypass flow AB. The bypass flow AB will incorporate at least the larger particulate debris parts.</p>
+<p id="p-0048" num="0047">As indicated above, the inlet rotor <b>27</b> has an important function of creating a centrifugal component to the bypass flow AB such that the particulate matter is propelled along the bypass chute or passage <b>28</b>. The rotor <b>27</b> generally rotates at relatively high speed and fragments any larger particulate matter such as birds sufficiently that the reduced size particulate matter can pass along the chute <b>28</b>.</p>
+<p id="p-0049" num="0048">The guide vanes <b>29</b> are configured to straighten the bypass flow AB such that it is propelled in the exhaust flow <b>30</b> towards the propellers <b>25</b>, <b>26</b>. The angle of the bypass chute <b>28</b> directs the exhaust flow, at an angle <img id="CUSTOM-CHARACTER-00001" he="2.79mm" wi="1.44mm" file="US07891163-20110222-P00001.TIF" alt="custom character" img-content="character" img-format="tif"/> between the exhaust flow <b>30</b> and the engine's rotational axis <b>64</b>, so that the particulate matter will impact robust parts of the propeller <b>27</b> such as the broadest positions <b>17</b> on the forward and aft propellers <b>25</b>, <b>26</b>.</p>
+<p id="p-0050" num="0049">In this embodiment, the bypass flow AB is continuous to provide handling and ejection of the particulate matter removed from the inlet flow A. Generally, the nose <b>19</b> and spinner <b>7</b>, as well as opposing parts of the engine casing <b>18</b>, are shaped to optimise aerodynamic presentation to the rotor <b>17</b> to optimise particulate matter separation as a result of imparting a centrifugal component of flow.</p>
+<p id="p-0051" num="0050">Although the rotor, as indicated, has an important function with regard to particulate matter separation and fragmentation, it will also be understood that the rotor <b>27</b> will act as a supercharger advantageously providing some pressure differential for the flow AT into the thrust core <b>23</b> of the engine <b>21</b>.</p>
+<p id="p-0052" num="0051">As can be seen, a power turbine or LPT <b>16</b> of the thrust core <b>23</b> has a turbine shaft <b>15</b> which, through appropriate couplings, drives the rotor <b>27</b>.</p>
+<p id="p-0053" num="0052">In the above circumstances it will be appreciated that the inlet flow A is conditioned by the rotor <b>27</b> in order to create the centrifugal aspect with regard to the particulate matter in that flow A such that at least the major portion of any particulate matter in the flow A will pass along the bypass chute or passage <b>28</b> for exhaustion as flow <b>30</b> from an exit to that bypass chute <b>28</b>. An annular bypass chute passage geometry variability is advantageously defined to give flow control for inlet rotor control as well as optimisation of exhaust <b>30</b> air speed for minimum free stream disturbance, low noise and provides an exhaust vector for thrust recovery.</p>
+<p id="p-0054" num="0053">It will be appreciated it is important to balance bypass chute <b>28</b> capacity for maximum bypass flow conditions to control inlet stability and to minimise aerodynamic discontinuities in the engine cowl or casing at conditions of the engine <b>21</b> where particulate matter ingress is reduced such as at cruise. It will be understood the maximum bypass flow is likely to be on descent where the core spools decelerate rapidly, reducing their swallowing capacity. The inertia of the LP spool is greater and reduces speed more slowly.</p>
+<p id="p-0055" num="0054">Ideally, appropriate sizing of the bypass chute <b>28</b> and other configurations within the inlet will be such that it will be possible to avoid a variable geometry to the chute <b>28</b>. Alternatively, by use of varying propeller pitch it will be possible, as these propellers <b>25</b>, <b>26</b> are also driven by the power turbine <b>16</b>, to control the rotor <b>27</b> speed to match the inlet rotor flow performance to the thrust core <b>23</b> of the engine. However, in order to enable full optimisation of propeller <b>25</b>, <b>26</b> speeds for performance and noise it may be necessary to use variable geometry in the chute <b>28</b>, as described later, to achieve maximum flow and minimise cruise drag balance in the engine <b>21</b>.</p>
+<p id="p-0056" num="0055">As depicted in <figref idref="DRAWINGS">FIG. 2</figref> it will be noted that the chute <b>28</b> incorporates structural splitters to create exhaust pathways for the flow AB through the chute <b>28</b>. These splitters will act to define the cross sectional area of the chute <b>28</b> annularly about the engine <b>21</b>. However, at an exit portion <b>14</b> of the bypass chute <b>28</b>, variable geometry may be achieved as described later.</p>
+<p id="p-0057" num="0056">The bleed of flow AB will, in the normal course of events, slightly reduce engine <b>21</b> efficiency so that generally the rotor <b>27</b> will also be provided to give a pressure ratio boost to the thrust core overall pressure ratio and so improve thermal efficiency. By incorporating a single stage inlet rotor <b>27</b> with a modest pressure ratio, the benefit of this passive bleed via the bypass chute <b>28</b> is possible without the requirement of an active bleed valve (what for&#x2014;compressor handling?) for flow control through the engine <b>21</b>. It will also be understood through use of a prop fan with variable pitch blades and drive from the power turbine <b>16</b>, handling and flow matching to the thrust core can be achieved via speed control by varying the propeller blade pitch, that is to say load on the power turbine <b>16</b>.</p>
+<p id="p-0058" num="0057">Although particularly devised with regard to prop fans and contra fans, it will be understood that aspects of the present invention in terms of particulate matter separation through use of a rotor or create a centrifugal aspect is applicable to other engine configurations where the thrust or core turbo machine is exposed to ingested debris or other particulate matter.</p>
+<p id="p-0059" num="0058"><figref idref="DRAWINGS">FIG. 2A</figref> shows an alternative configuration where the inlet rotor <b>27</b> is attached and hence driven from the forward most compressor <b>60</b> of the thrust core <b>23</b>. This arrangement preferably has a forward stationary vane <b>19</b>A to provide structural support for the integral inlet rotor and core compressor and inlet nose <b>19</b>. In the <figref idref="DRAWINGS">FIG. 2A</figref> arrangement the inlet nose <b>19</b> is static. Any debris entering the engine through inlet <b>22</b> will be subject to centrifugal effects by rotor <b>27</b> and ejected via the chutes <b>28</b>. Since the drive is via the turbine <b>61</b>, which is not connected to a propeller rotor <b>17</b>, it is not possible to vary inlet rotor speed and airflow through the chutes <b>28</b> by varying the pitch of propellers <b>25</b> and <b>26</b>.</p>
+<p id="p-0060" num="0059">In this case, any adjustment of flow <b>30</b> emitting via the ejector chute <b>28</b> must be achieved through variable geometry in the chute <b>28</b>. <figref idref="DRAWINGS">FIG. 2B</figref> shows the detail of the inlet rotor <b>27</b> driven from the front of the forward most core compressor <b>60</b> and the debris ejector chute <b>28</b>.</p>
+<p id="p-0061" num="0060">This invention is applicable to multi or single shaft engine configurations. <figref idref="DRAWINGS">FIG. 5</figref> shows how it can be applied to a single shaft core <b>51</b> where supercharging is required through a multi-stage inlet rotor or booster <b>52</b> that is driven directly from the power turbine <b>53</b> that also drives the propeller rotor <b>54</b>. Other details of the inlet, rotor and ejector chute are as described previously.</p>
+<p id="p-0062" num="0061">As indicated above, further refinement to the basis of the inlet rotor and bypass chute in accordance with aspects of the present invention may relate to provisions of variable geometry within the bypass chute and exit for that bypass chute. <figref idref="DRAWINGS">FIG. 3</figref> provides a part cross section of a bypass chute <b>33</b> incorporating two configurations to vary the cross-sectional area of the bypass chute. The two configurations may be either used independently of one another or in combination. It will be apparent to the skilled artisan that other variable geometry will be equally applicable and these configurations are merely exemplary.</p>
+<p id="p-0063" num="0062">As before, an inlet <b>31</b> includes an inlet rotor <b>32</b> which acts upon an inlet flow AA to generate a centrifugal component and to separate particulate matter in the flow AA into a bypass chute <b>33</b>. The inlet <b>31</b> and bypass chute <b>33</b> are all located within an engine casing <b>34</b> with the bulk of the inlet flow AA passing along a thrust core <b>35</b> to generate propulsion as described previously.</p>
+<p id="p-0064" num="0063">In a first embodiment of the variable geometry <b>70</b> depicted in <figref idref="DRAWINGS">FIG. 3</figref> a bypass chute <b>33</b> incorporates a wall portion <b>36</b> which is hinged about a pivot <b>37</b> to enable variation in the cross sectional area of the bypass chute <b>33</b>. The wall portion <b>36</b> moves inwardly and outwardly to vary the flow area of the chute <b>33</b> to an extent dependent upon operational requirements but highlighted by broken line <b>38</b> in <figref idref="DRAWINGS">FIG. 3</figref>. Generally, an actuator <b>39</b> acts through a unison ring <b>40</b> such that, as will be described later, all of the bypass chutes <b>33</b> extending to exits <b>41</b> have their wall portions <b>36</b> deflected equally for symmetry and load distribution about the annulus of the engine.</p>
+<p id="p-0065" num="0064">It is well known that an aircraft and its engines have a number of operating conditions, which are commonly referred to as take-off, climb, cruise and approach or descent. Generally, the engines are at a maximum output at take-off and parts of the climb and output then reduces at cruise to maintain a near constant airspeed. On descent the engines are throttled back and nearer to the airport may be still further reduced in output. Preferably, the bypass chute <b>33</b> is continuously flowing at all engine operations although it remains a possibility for certain engines at certain operating conditions for the bypass chute <b>33</b> to be completely blocked. Generally, at take-off the chute <b>33</b> will operate with a maximum flow area; at climb the flow area will be decreased and further decreased during cruise; and at descent and approach the flow area will be greater than at cruise. Note that for an open-rotor engine climb it is likely that rotational speeds are higher than at take-off, hence maximum chute flow at take-off are not particularly penalising.</p>
+<p id="p-0066" num="0065">It will be noted that the actuator <b>39</b> and unison ring <b>40</b> act through a junction <b>42</b> with the wall portion <b>36</b> to cause displacement about the engine Generally, the bypass chute <b>33</b> will have a much reduced cross sectional area during aircraft cruising stages with regard to an engine in accordance with aspects of the present invention and therefore dotted line <b>38</b> shows the position of the wall <b>36</b> in those cruise conditions. At low power levels, for example descent and approach, and usually low altitude, that is to say when particulate matter ingress is most dangerous or probable, the wall portion <b>36</b> will be in the position shown by solid line <b>50</b>. In other circumstances such as cruise, the aerodynamic discontinuity in the casing <b>34</b> can be reduced by rotation of the wall portion <b>36</b> to address situations where bypass flow is not necessary in order to remove particulate matter before ingress to the thrust core <b>35</b> of an engine.</p>
+<p id="p-0067" num="0066">Alternatively, the wall portion <b>36</b> may be arranged to pivot about its radially inner end denoted by <b>42</b>.</p>
+<p id="p-0068" num="0067">In a second embodiment of the variable geometry <b>70</b> depicted in <figref idref="DRAWINGS">FIG. 3</figref>, the bypass chute <b>33</b> incorporates a slidable door <b>43</b> generally located at the exit plane <b>41</b>. The slidable door <b>43</b> slides in the direction of arrowhead X to reduce the exit aperture area dependent on operational circumstances and advantageously minimise the aerodynamic discontinuity of the bypass chute <b>33</b>. An actuator <b>139</b> is connected to the slidable door <b>43</b> to enable its operation. The door is movable between a fully open position as shown and a fully closed position.</p>
+<p id="p-0069" num="0068">The slidable door <b>43</b> is capable of varying the flow area of the chute <b>33</b> in a similar manner to the first embodiment. The slidable or translating door <b>43</b> may be either one of a plurality of doors positioned around the engine casing <b>34</b> or may be annular or part annular.</p>
+<p id="p-0070" num="0069">Where it is desirable for the bypass chute <b>33</b> to be completely closed, debris and particulate matter may build up within the bypass chute <b>33</b> and later released by displacement of the wall portion <b>36</b> and slide door <b>43</b> opened in the opposite direction to arrowhead X.</p>
+<p id="p-0071" num="0070">By use of the rotatable wall portion <b>36</b> and/or slide door <b>43</b> (or other variable geometry) it will be understood that the opposing requirements of particulate matter removal at low speed with regard to an engine can be balanced and engine operability at various conditions may be advantageously accommodated.</p>
+<p id="p-0072" num="0071">As described previously, generally an annular passage <b>28</b>, <b>33</b> is provided around the engine core which reduces the flow AA as a result of the centrifugal component and propulsion of the inlet rotor <b>27</b>, <b>32</b> as described with regard to <figref idref="DRAWINGS">FIGS. 2 and 3</figref>. It will be understood that provision of an annular outlet exit <b>41</b> about the whole circumference of the engine may reduce structural strength within the casing <b>34</b>. In such circumstances, as depicted in <figref idref="DRAWINGS">FIG. 4</figref>, an engine casing <b>44</b> will normally incorporate a plurality of exit chutes <b>45</b> typically symmetrically distributed about the engine casing <b>44</b> for load balance and particulate matter distribution. In any event, as indicated previously, the chutes <b>45</b> will be angled such that presentation of the particulate matter to the propellers is at a position on those propellers of relatively high robustness to ensure minimal damage as a result of that particulate matter hitting the propellers.</p>
+<p id="p-0073" num="0072">The present invention also lends itself to a method of operating the above described gas turbine engines. Although some engines are capable of being operated with a continuously open bypass chute, it is preferable that the flow AB is variable to improve engine operability across its wide range of operating conditions.</p>
+<p id="p-0074" num="0073">Preferably, therefore, the method comprises varying the flow area of the bypass chute dependent on engine operating conditions. Normally, at take-off the engine is at a maximum thrust and the bypass-chute is at or near to a maximum flow area. As the aircraft climbs, the engine thrust is reduced and the flow area is reduced and is further reduced when yet a lower power is required during cruise. Between cruise and approach the flow area of the bypass chute is increased.</p>
+<p id="p-0075" num="0074">The variable geometry can prevent the compressors from surging and allow the core engine to operate at a more uniform rotational speed thereby allowing compressor and turbine blades and stators to be optimised for all engine conditions.</p>
+<p id="p-0076" num="0075">Modifications and alterations to the invention, as described above, will be appreciated by those skilled in the art. Thus, for example, the bypass chutes in accordance with aspects of the present invention may be specifically shaped in order to enhance and promote distribution of particulate matter to the exit portions of the chutes for appropriate distribution. Further, variable geometry may be located at a radially inner part of the bypass chute to vary the flow AB.</p>
+<p id="p-0077" num="0076">In another embodiment of the present invention wherein there is either a plurality of discrete bypass chutes located around the engine or a bypass chute having an annular inlet and discrete outlets or even a bypass chute with discrete inlets and an annular outlet, it is possible to vary the flow AB by blocking off selected discrete inlets or outlets. Where a maximum flow AB is required for engine operability, all inlets or outlets will be open and when this flow needs to be reduced, selected inlets or outlets may be closed. Thus it should be appreciated that the outlets may be designed, with fixed geometry, for thrust recovery in mind rather than comprising variable geometry. Furthermore, this can be advantageous as simple mechanisms to fully open or close the inlets or outlets may be used. Such mechanisms may be more reliable than fully variable geometry.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A gas turbine engine comprising an unducted fan or propeller extending radially outward from an engine casing and a thrust core surrounded by the engine casing, the engine casing including an inlet for an inlet flow to the thrust core, the inlet having a rotor that in use imparts a centrifugal component to the inlet flow, wherein downstream of the rotor a bypass chute extends between the inlet and the casing, the centrifugal component urges particulate matter in the inlet flow through the bypass chute rather than the thrust core, and an exit of the bypass chute is positioned upstream of the fan or propeller and is configured for thrust recovery.</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. An engine as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the bypass chute comprises variable geometry to vary the flow area of the bypass chute between a fully open and a fully closed position.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. An engine as claimed in <claim-ref idref="CLM-00002">claim 2</claim-ref> wherein the bypass chute has a rotatable wall portion to vary cross sectional flow area.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. An engine as claimed in <claim-ref idref="CLM-00002">claim 2</claim-ref> wherein the bypass chute has a variable exit aperture area.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. An engine as claimed in <claim-ref idref="CLM-00004">claim 4</claim-ref> wherein the variable exit aperture area is provided by a sliding door.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. An engine as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the rotor propels a portion of the inlet flow into the thrust core to provide a boost to core pressure to the thrust core.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. An engine as claimed in <claim-ref idref="CLM-00006">claim 6</claim-ref> wherein the boost at least compensates for pressure losses to the bypass chute.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. An engine as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the thrust core includes a turbine secured upon a turbine shaft and the turbine shaft drives the rotor.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. An engine as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the inlet has a nose cone to facilitate inlet flow to the thrust core and/or the centrifugal component.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. An engine as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the bypass chute is annular about the thrust core.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. An engine as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the bypass chute extends to a plurality of exit apertures.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. An engine as claimed in <claim-ref idref="CLM-00011">claim 11</claim-ref> wherein the exit apertures are symmetrically distributed about the engine casing.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. An engine as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the thrust core drives a propeller or fan.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. An engine as claimed in <claim-ref idref="CLM-00013">claim 13</claim-ref> wherein the bypass chute is configured to eject particulate matter towards the propeller or fan at radially inner positions upon the propeller or fan.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. An engine as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the bypass chute includes guide vanes to adjust a bypass flow through the bypass chute.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. A method of operating a gas turbine engine as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, the method comprising continuously operating the bypass chute of the gas turbine engine in an open position.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. A method of operating a gas turbine engine as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, the method comprising varying the flow area of the bypass chute dependent on the gas turbine engine operating conditions.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. A method of operating a gas turbine engine as claimed in <claim-ref idref="CLM-00017">claim 17</claim-ref>, the engine undergoing at least a take-off, a cruise, the method comprising reducing the flow area between take-off and cruise.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. A method of operating a gas turbine engine as claimed in <claim-ref idref="CLM-00017">claim 17</claim-ref>, the engine undergoing an approach condition, the method comprising increasing the flow area between cruise and approach. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

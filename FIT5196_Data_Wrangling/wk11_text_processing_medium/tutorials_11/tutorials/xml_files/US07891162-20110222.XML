@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891162-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891162</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12154772</doc-number>
+<date>20080527</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>01</class>
+<subclass>D</subclass>
+<main-group>7</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 5640018</main-classification>
+<further-classification>294 57</further-classification>
+<further-classification>403361</further-classification>
+</classification-national>
+<invention-title id="d2e43">Rake with quick handle connection</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>1959893</doc-number>
+<kind>A</kind>
+<name>Bailie</name>
+<date>19340500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>2137795</doc-number>
+<kind>A</kind>
+<name>Bailie</name>
+<date>19381100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3701243</doc-number>
+<kind>A</kind>
+<name>Durkee</name>
+<date>19721000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 5640018</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>3750379</doc-number>
+<kind>A</kind>
+<name>Huspen</name>
+<date>19730800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 5640018</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>4068346</doc-number>
+<kind>A</kind>
+<name>Binder</name>
+<date>19780100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 161101</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>4224786</doc-number>
+<kind>A</kind>
+<name>Langlie et al.</name>
+<date>19800900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>4367971</doc-number>
+<kind>A</kind>
+<name>Coren</name>
+<date>19830100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>403330</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>4406559</doc-number>
+<kind>A</kind>
+<name>Geertsema</name>
+<date>19830900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>4573311</doc-number>
+<kind>A</kind>
+<name>Ipema</name>
+<date>19860300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>4761092</doc-number>
+<kind>A</kind>
+<name>Nakatani</name>
+<date>19880800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>403104</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>4848073</doc-number>
+<kind>A</kind>
+<name>Germain et al.</name>
+<date>19890700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>4892434</doc-number>
+<kind>A</kind>
+<name>Miller</name>
+<date>19900100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>5272788</doc-number>
+<kind>A</kind>
+<name>Gilstrap</name>
+<date>19931200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 16422</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>5288161</doc-number>
+<kind>A</kind>
+<name>Graves et al.</name>
+<date>19940200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>403324</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>5553447</doc-number>
+<kind>A</kind>
+<name>Hsu</name>
+<date>19960900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 5640018</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>5852923</doc-number>
+<kind>A</kind>
+<name>Wei</name>
+<date>19981200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 5640018</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>5927779</doc-number>
+<kind>A</kind>
+<name>Aquilina</name>
+<date>19990700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>5934057</doc-number>
+<kind>A</kind>
+<name>Daniels et al.</name>
+<date>19990800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>6328361</doc-number>
+<kind>B1</kind>
+<name>Spear</name>
+<date>20011200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>6435754</doc-number>
+<kind>B1</kind>
+<name>Canale</name>
+<date>20020800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>4031092</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>6663309</doc-number>
+<kind>B2</kind>
+<name>Zamansky et al.</name>
+<date>20031200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>401264</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>6669397</doc-number>
+<kind>B1</kind>
+<name>Christion</name>
+<date>20031200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>4033222</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>6701578</doc-number>
+<kind>B1</kind>
+<name>Lu</name>
+<date>20040300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 16429</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>6824180</doc-number>
+<kind>B2</kind>
+<name>Tomchak</name>
+<date>20041100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>7065838</doc-number>
+<kind>B2</kind>
+<name>Mitchell et al.</name>
+<date>20060600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 16436</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>7134264</doc-number>
+<kind>B2</kind>
+<name>Wu</name>
+<date>20061100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>7653970</doc-number>
+<kind>B1</kind>
+<name>Lai</name>
+<date>20100200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 16422</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>3</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 5640018</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 5640019</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>403361</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>403356</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>403282</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>4033222</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>403243</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>403251</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>294 57</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>294 49</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>8</number-of-drawing-sheets>
+<number-of-figures>8</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090297258</doc-number>
+<kind>A1</kind>
+<date>20091203</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Liao</last-name>
+<first-name>Dick</first-name>
+<address>
+<street>365 Oak St.</street>
+<city>Bridgewater</city>
+<state>MA</state>
+<postcode>02324</postcode>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Pandiscio &#x26; Pandiscio</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<examiners>
+<primary-examiner>
+<last-name>F&#xe1;bi&#xe1;n-Kov&#xe1;cs</last-name>
+<first-name>&#xc1;rp&#xe1;d</first-name>
+<department>3671</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A quick connect tool assembly including a tool head having a socket therein, and an elongated pole for insertion into the socket tool head to lock the tool head and the pole together. The assembly includes a detent fixed to an end of the pole and teeth projecting into the interior of the socket on the tool head, such that the teeth engage the tool head detent to lock the pole to the tool head.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="238.84mm" wi="144.95mm" file="US07891162-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="190.50mm" wi="167.64mm" file="US07891162-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="217.25mm" wi="130.05mm" orientation="landscape" file="US07891162-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="239.78mm" wi="151.64mm" file="US07891162-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="138.35mm" wi="162.81mm" file="US07891162-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="172.55mm" wi="130.64mm" file="US07891162-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="215.48mm" wi="130.05mm" orientation="landscape" file="US07891162-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="85.68mm" wi="157.65mm" file="US07891162-20110222-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="158.50mm" wi="158.50mm" file="US07891162-20110222-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<p id="p-0002" num="0001">This invention relates to tools with sockets to receive handles, and more particularly to an improved Rake construction with a quick handle connection.</p>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">Tools such as rakes and shovels commonly have a socket for receiving a pole that serves as a handle. The conventional mode of securing a wood pole in the socket is by means of one or more fasteners, e.g., metal screws or pins. That mode of connection is cheap, and strong. Commonly, that form of connection is permanent and, therefore, the handle is attached by the manufacturer. However, for reasons of convenience and to reduce costs, some manufacturers prefer to ship the tools without first attaching the handle, with the task of attaching the handle to the rake or shovel head being left to the distributor, ultimate seller (wholesaler or retailer), or end user. The task of attaching handles can be time consuming and costly, particularly if the person attaching the handle is required to use a special tool to secure the handle with fasteners. Also, the handle may not be attached properly, leading to complaints from the customers. There have been prior efforts to provide means for quickly and simply connecting a pole-type handle to a rake or shovel head, but the quick-connection designs been relatively costly to implement.</p>
+<heading id="h-0002" level="1">OBJECTS AND SUMMARY OF THE INVENTION</heading>
+<p id="p-0004" num="0003">The primary object of the invention is to provide an inexpensive and reliable quick connection mechanism for attaching a pole-like handle to a tool head.</p>
+<p id="p-0005" num="0004">A second object of the invention is to provide a new and improved pole-receiving socket for a rake.</p>
+<p id="p-0006" num="0005">Another object of the invention is to provide a rake having an improved pole-receiving socket construction that embodies part of a quick-connection mechanism for a pole-type handle and also serves as a secure mount for a plurality of tine members.</p>
+<p id="p-0007" num="0006">A further object of the invention is to provide a socket for the purpose described that is made of relatively cheap, easy-to make sheet metal parts.</p>
+<p id="p-0008" num="0007">These and other objects are achieved by providing a tool head having a socket made of sheet metal parts, with one part comprising a plurality of teeth that project into the interior space of the socket and are arranged so as to an interlock with a detent attached to the peripheral surface off a pole that functions as a tool handle for the tool. The teeth are arranged so as to allow the detent to pass them when the pole is inserted into the socket, but to interfere with and block the detent when an effort is made to pull the pole out of the socket. In the preferred embodiment of the invention, the tool head is a multi-tine rake and the socket serves as a secure anchor or mount for the tines. Other features and advantages of the invention are described or rendered obvious by the following detailed specification of a preferred embodiment of the invention.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">THE DRAWINGS</heading>
+<p id="p-0009" num="0008"><figref idref="DRAWINGS">FIG. 1</figref> is a fragmentary top view of a rake and handle embodying the invention.</p>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIG. 2</figref> is a fragmentary side view in elevation.</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. 3</figref> is an exploded view of the socket, including fragments of the dual tine members.</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. 4</figref> is an exploded perspective view of the front end of a pole that serves as a handle, and the detent member that locks the pole to the socket.</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 5</figref> is an enlargement of a portion of <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 6</figref> is a sectional view, taken along line <b>6</b>-<b>6</b> of <figref idref="DRAWINGS">FIG. 5</figref>.</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 7</figref> is a sectional view taken along the line the <b>7</b>-<b>7</b> of <figref idref="DRAWINGS">FIG. 5</figref>.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 8</figref> is a fragmentary bottom view of the rake head.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0017" num="0016">Referring first to <figref idref="DRAWINGS">FIGS. 1-3</figref>, <b>5</b> and <b>8</b>, the illustrated preferred embodiment of the invention is a rake in the form of a rake head that comprises a plurality of dual tine members <b>2</b> that are attached to a socket <b>4</b> for a pole handle <b>60</b> (<figref idref="DRAWINGS">FIG. 1</figref>) and are supported by a cross brace <b>6</b> and a U-shaped spring member <b>8</b>. The dual tine members <b>2</b> are made from flat metal stock and are formed so as to have a generally U-shaped configuration comprising a center section <b>10</b>A, <b>10</b>B, <b>10</b>C, <b>10</b>D (<figref idref="DRAWINGS">FIG. 3</figref>) and two resilient tine sections <b>12</b>A and <b>12</b>B that diverge from one another with increasing distance from the center section <b>10</b>A, <b>10</b>B, <b>10</b>C, <b>10</b>D. The dual tine members vary in overall length and are arranged in groups. The front ends of tine sections <b>12</b>A and <b>12</b>B are bent to form rake fingers <b>16</b> (<figref idref="DRAWINGS">FIG. 1</figref>). The front ends of spring member <b>8</b> are attached to the cross-brace <b>6</b> (<figref idref="DRAWINGS">FIG. 1</figref>) and a U-shaped rear section <b>17</b> of spring member <b>8</b> (<figref idref="DRAWINGS">FIG. 3</figref>) is secured to socket <b>4</b>. To the extent just described, this general form of rake construction is conventional and well known.</p>
+<p id="p-0018" num="0017">Referring now to <figref idref="DRAWINGS">FIG. 3</figref>, the socket is made up of four parts made of sheet metal (e.g., steel or aluminum) of appropriate thickness and identified by the numerals <b>18</b>, <b>20</b>, <b>22</b> and <b>24</b>. Socket part <b>18</b> is U-shaped in cross-section, having opposite relatively flat side wall sections <b>21</b> and a circularly curved center wall section <b>23</b> that generally follows the curvature of the surface of the pole that is intended to serve as the rake handle. The longitudinal edges of sidewall sections <b>21</b> of socket part <b>18</b> are notched as shown at <b>25</b>A and <b>25</b>B. In addition, a portion of the curved wall section <b>23</b> is deformed to define a raised section <b>26</b> at one end of part <b>18</b>. That raised section <b>26</b> has been punched out to form a series of inwardly facing teeth <b>30</b> (<figref idref="DRAWINGS">FIGS. 2</figref>, <b>6</b> and <b>8</b>). Curved wall section <b>23</b> also has a hole <b>32</b> (<figref idref="DRAWINGS">FIG. 6</figref>), and sidewall sections <b>21</b> have slots <b>31</b> (<figref idref="DRAWINGS">FIG. 3</figref>).</p>
+<p id="p-0019" num="0018">Still referring to <figref idref="DRAWINGS">FIG. 3</figref>, socket part <b>20</b> comprises a flat plate section <b>34</b> and two opposite side walls <b>36</b>A and <b>36</b>B that extend at a right angle to plate section <b>34</b>. Socket part <b>20</b> also is formed with two sets of tabs <b>38</b> that are punched out of its sidewalls and project at substantially a right angle to plate section <b>34</b>. Tabs <b>38</b> extend in two rows, one along each of the opposite side edges of plate section <b>34</b>. Each row consists of four tabs <b>38</b>. In addition four L-shaped locking tabs <b>40</b>A, <b>40</b>B, <b>40</b>C, <b>40</b>D are punched out of plate section <b>34</b>. Tabs <b>40</b>A, <b>40</b>B, <b>40</b>C, <b>40</b>D are in alignment along the longitudinal center line of part <b>20</b>. Plate section <b>34</b> also has a hole <b>42</b> therethrough.</p>
+<p id="p-0020" num="0019">Socket part <b>22</b> consists of a flat plate body section <b>44</b>, two sidewalls <b>46</b>A and <b>46</b>B, and an end wall <b>48</b>. The sidewalls <b>46</b>A and <b>46</b>B are notched as indicated at <b>50</b>A, <b>50</b>B and <b>50</b>C. Plate section <b>44</b> has a hole <b>52</b>. Socket part <b>24</b> is a rivet that is used to secure parts, <b>18</b>, <b>20</b> and <b>22</b> to one another in captivating relation with the center sections of the dual tine members and the rear section of spring member <b>8</b> as hereinafter described.</p>
+<p id="p-0021" num="0020">Referring again to <figref idref="DRAWINGS">FIG. 3</figref>, as noted above, the dual tine members <b>2</b> are arranged in groups <b>12</b>A, <b>12</b>B in accordance with prior practice. The total number of dual tine members <b>2</b>, the number of groups into which they are arranged, the number of dual tine members in each group, and the lengths, angles of divergence and shape of the tines may be varied and is not critical to the present invention. In each group, the center sections <b>10</b>A, <b>10</b>B, <b>10</b>C, <b>10</b>D of the tine members are aligned with one another. The center section <b>10</b>A of the innermost group of tine members extends between and is captivated between the first (forward-most) pair of side tabs <b>38</b>, and in the first (forward-most) locking tab <b>40</b>A. The center section <b>10</b>B of the next group of tine members extends between and is captured between the next-in-line side tabs <b>38</b> and the next-in-line locking tab <b>40</b>B. Similarly, the center sections <b>10</b>C and <b>10</b>D of the third and fourth groups of dual tine members extend between and are captivated by successive pairs of side tabs <b>38</b> and successive locking tabs <b>40</b>C and <b>40</b>D. The rear section <b>17</b> (<figref idref="DRAWINGS">FIG. 6</figref>) of spring <b>8</b> is captured between socket part <b>24</b> and underlying portions of some of the dual tine members <b>2</b> (<figref idref="DRAWINGS">FIG. 6</figref>).</p>
+<p id="p-0022" num="0021">Referring now to <figref idref="DRAWINGS">FIGS. 2</figref>, <b>3</b> and <b>7</b>, socket part <b>20</b> sits on the longitudinal edges <b>25</b>A, <b>25</b>B of part <b>18</b> (<figref idref="DRAWINGS">FIG. 3</figref>), with its sidewalls <b>36</b>A, <b>36</b>B extending alongside of and engaging the outer surfaces of sidewall sections <b>21</b> of the socket part <b>18</b> and the rear section of its plate section <b>34</b> extending into slots <b>31</b> of the socket part <b>18</b>. Socket part <b>22</b> overlies socket part <b>20</b> and the center sections <b>10</b>A, <b>10</b>B, <b>10</b>C, <b>10</b>D of dual tine members <b>2</b> and the rear section <b>17</b> of spring member <b>8</b>, with its sidewalls <b>46</b>A and <b>46</b>B overlapping sidewalls <b>36</b>A and <b>36</b>B, respectively, of socket part <b>20</b>. A rivet <b>24</b> extends through holes <b>32</b>, <b>42</b> and <b>52</b> (<figref idref="DRAWINGS">FIGS. 3 and 6</figref>) in parts <b>18</b>, <b>20</b> and <b>22</b>, respectively. The flanged head <b>56</b> of the rivet <b>24</b> overlaps and engages plate section <b>44</b> (<figref idref="DRAWINGS">FIGS. 3 and 6</figref>) of part <b>22</b>; the opposite end of the rivet is swaged over the outer surface of part <b>18</b> as shown at <b>57</b> (<figref idref="DRAWINGS">FIG. 6</figref>), thereby securing together the socket parts <b>18</b>, <b>21</b> and <b>22</b> (<figref idref="DRAWINGS">FIG. 7</figref>) in capturing relation with the center sections <b>10</b>A, <b>10</b>B, <b>10</b>C, <b>10</b>D (<figref idref="DRAWINGS">FIG. 6</figref>) of all the dual tine members and the rear section <b>17</b> of spring member <b>8</b>. Alternatively, the rivet could be replaced by some other form of pin-like fastener, e.g., a bolt and nut.</p>
+<p id="p-0023" num="0022">Referring now to <figref idref="DRAWINGS">FIG. 4</figref>, a handle for the rake is provided in the form of an elongate pole <b>60</b> of suitable length, e.g., 60-72 inches. For convenience, only the front end portion of pole <b>60</b> is illustrated. The pole has a circular outer surface <b>62</b>. Preferably, but not necessarily, the pole is formed with a front end section <b>63</b> that is tapered to a smaller diameter than the remainder of the pole. The front end section of the pole is provided with a through hole <b>64</b>. Preferably, hole <b>64</b> is countersunk, as shown at <b>66</b> in <figref idref="DRAWINGS">FIG. 4</figref>. Associated with the pole is a detent <b>70</b> which comprises a base portion <b>72</b> and an angular tongue section <b>74</b>. Base portion <b>72</b> preferably is contoured to mate with the curved outer surface <b>62</b> of the pole and has is provided with a threaded hole <b>75</b>. Preferably, detent base portion <b>72</b> is deformed around hole <b>75</b>, as shown at <b>76</b>, so as to seat snugly in countersink <b>66</b>. A screw fastener <b>80</b> is inserted through hole <b>64</b> and screws into hole <b>75</b> and functions to secure detent <b>70</b> to pole <b>60</b>. The detent is oriented so that its tongue section <b>74</b> extends away from the front end surface <b>68</b> of the pole.</p>
+<p id="p-0024" num="0023">With the foregoing construction, attachment of pole <b>60</b> to the rake head is a simple matter of inserting the front end of the pole into socket <b>4</b> with detent <b>70</b> aligned with the teeth <b>30</b> of socket part <b>18</b>. As the pole is inserted, the detent will pass by one or more of the teeth <b>30</b> until the front end surface <b>68</b> of the pole engages and is stopped by rivet <b>24</b>. Preferably, holes <b>32</b>, <b>42</b> and <b>52</b> are located along the center lines of the surfaces in which they are formed, so that rivet <b>24</b> intersects the center axis of the socket. The detent <b>70</b> is located on pole <b>60</b> so that its tongue section <b>74</b> will be engaged with one of the teeth <b>30</b> when the pole engages, or is in near engagement, with rivet <b>24</b>, with the result that the pole will be locked to the socket by the detent/tooth interaction. Thereafter; the pole cannot be pulled out of the socket without destroying the detent and/or one or more of the teeth <b>30</b>. Thus, the invention provides a quick and strong connection between the pole and rake head.</p>
+<p id="p-0025" num="0024">Of course the invention is not limited to the specific embodiment herein illustrated and described. Also, dual tine members <b>2</b> and some or all of the parts of the socket could be made of a strong plastic material, e.g., a fiber-reinforced plastic. The number and shape of tabs <b>38</b> and <b>40</b> also may be modified without altering their function. The mode of making a quick and secure connection can be incorporated into other sockets designed for rakes, shovels and other tools that require an elongate pole-like handle. Also, the handle could be made of a material other than wood, e.g. aluminum or a fiber-reinforced plastic. Still other modifications and advantages of the invention will be obvious to persons skilled in the art.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A quick connect tool assembly, the assembly comprising (1) a tool head having a socket therein at one end thereof and (2) a handle in the form of an elongated pole for insertion into the socket, said quick connect assembly further comprising:
+<claim-text>a detent attached to a peripheral surface of said the elongated pole adjacent a forward end of the pole, said detent having a tongue section that projects from the peripheral surface of the pole, and</claim-text>
+<claim-text>the socket being provided with an axial row of teeth projecting into an interior thereof, the teeth being shaped to allow the detent tongue section to pass axially over the teeth toward said tool head when the pole is inserted axially into the socket and to allow the detent tongue section to engage one of the teeth so as to prevent the pole from pulling out of the socket;</claim-text>
+<claim-text>wherein the socket comprises a first part provided with a generally U-shaped cross-sectional configuration and first and second parallel and mutually-spaced longitudinal edges, and a second part engaged with and extending between the first and second longitudinal edges of said first part, said first and second parts coacting to define an interior space of the socket with the interior space being sized to accommodate a forward end of the pole;</claim-text>
+<claim-text>wherein said tool head comprises a rake head having a plurality of tine members and adapted to be attached to the socket between said first and second parts; and</claim-text>
+<claim-text>wherein the tine members comprise flat strips of metal bent intermediate their ends so that each tine member comprises a center section and elongated first and second tine sections that are attached to and disposed in converging relation with said center section, and further wherein the socket includes a third part overlying said second part, with said center section of each tine member being captivated between said second and third parts of the socket.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The tool assembly according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the socket includes a rivet disposed therein for limiting the extent to which the pole can be inserted into the socket.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The tool assembly according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the rivet is secured to and extends between said first and second parts of the socket. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

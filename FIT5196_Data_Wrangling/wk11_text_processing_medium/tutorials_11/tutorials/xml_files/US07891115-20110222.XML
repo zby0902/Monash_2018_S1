@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891115-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891115</doc-number>
+<kind>B1</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12834960</doc-number>
+<date>20100713</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>26</class>
+<subclass>B</subclass>
+<main-group>19</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 34562</main-classification>
+<further-classification> 34570</further-classification>
+<further-classification> 34572</further-classification>
+<further-classification> 34 92</further-classification>
+<further-classification> 34 72</further-classification>
+<further-classification> 34 73</further-classification>
+<further-classification> 34 74</further-classification>
+</classification-national>
+<invention-title id="d2e43">Material drying system</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>3178022</doc-number>
+<kind>A</kind>
+<name>Balogh</name>
+<date>19650400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 62474</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>3597850</doc-number>
+<kind>A</kind>
+<name>Jenkins</name>
+<date>19710800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3914874</doc-number>
+<kind>A</kind>
+<name>Bruce</name>
+<date>19751000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>4126948</doc-number>
+<kind>A</kind>
+<name>Vermehren</name>
+<date>19781100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>4308669</doc-number>
+<kind>A</kind>
+<name>Noyes</name>
+<date>19820100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>4583301</doc-number>
+<kind>A</kind>
+<name>Crowley</name>
+<date>19860400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>4924601</doc-number>
+<kind>A</kind>
+<name>Bercaw</name>
+<date>19900500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>5575083</doc-number>
+<kind>A</kind>
+<name>Lee</name>
+<date>19961100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>6158147</doc-number>
+<kind>A</kind>
+<name>Smith</name>
+<date>20001200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>6715705</doc-number>
+<kind>B2</kind>
+<name>Rowley</name>
+<date>20040400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>6996917</doc-number>
+<kind>B2</kind>
+<name>Anderson</name>
+<date>20060200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>2005/0217224</doc-number>
+<kind>A1</kind>
+<name>Seebach</name>
+<date>20051000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>2008/0209755</doc-number>
+<kind>A1</kind>
+<name>Shivvers</name>
+<date>20080900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>20</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 34523</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 34524</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 34526</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 34557</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 34558</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 34562</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 34565</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 34566</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 34570</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 34572</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 34 72</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 34 73</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 34 74</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 34 76</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 34 90</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 34 92</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 623241</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 623243</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 623246</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>15</number-of-drawing-sheets>
+<number-of-figures>16</number-of-figures>
+</figures>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Nichols</last-name>
+<first-name>Patrick C.</first-name>
+<address>
+<street>9797 Squirrel Run</street>
+<city>Blair</city>
+<state>NE</state>
+<postcode>68008</postcode>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Weddington</last-name>
+<first-name>Isaac</first-name>
+<address>
+<street>2515 Creekside Dr.</street>
+<city>Hiawatha</city>
+<state>IA</state>
+<postcode>52233</postcode>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Nichols</last-name>
+<first-name>Charles P.</first-name>
+<address>
+<street>9791 Squirrel Run</street>
+<city>Blair</city>
+<state>NE</state>
+<postcode>68008</postcode>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Proehl</last-name>
+<first-name>Jeffrey A.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<orgname>Woods, Fuller, Shultz &#x26; Smith, PC</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<examiners>
+<primary-examiner>
+<last-name>Lu</last-name>
+<first-name>Jiping</first-name>
+<department>3743</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A material drying apparatus for removing moisture from material positioned in an envelope interior. The apparatus comprises an inlet structure, an air removal assembly to remove air from the interior, and a moisture removal assembly for removing moisture from gases from the interior. The assembly comprises a first moisture removal structure, a second moisture removal structure, and a heat pump for transferring heat in a selected direction between the first and second moisture removal structures. The heat pump alternately heats a heat exchanger of one moisture removal structure and cooling a heat exchanger of the other moisture removal structures. The apparatus comprises a control apparatus for controlling operation of the first and second moisture removal assemblies and the heat pump. The control apparatus is configured to sense a condition of the apparatus and reverse operation of the heat pump upon detecting that the condition has passed a predetermined level.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="143.76mm" wi="233.93mm" file="US07891115-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="279.40mm" wi="126.75mm" orientation="landscape" file="US07891115-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="215.90mm" wi="144.70mm" orientation="landscape" file="US07891115-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="279.40mm" wi="211.67mm" file="US07891115-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="279.40mm" wi="205.91mm" file="US07891115-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="279.40mm" wi="203.37mm" file="US07891115-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="279.40mm" wi="168.66mm" file="US07891115-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="279.40mm" wi="183.05mm" file="US07891115-20110222-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="279.40mm" wi="209.13mm" file="US07891115-20110222-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="279.40mm" wi="214.97mm" file="US07891115-20110222-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="212.26mm" wi="161.71mm" file="US07891115-20110222-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="279.40mm" wi="203.96mm" orientation="landscape" file="US07891115-20110222-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="142.75mm" wi="158.50mm" file="US07891115-20110222-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="279.40mm" wi="210.23mm" file="US07891115-20110222-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="279.40mm" wi="207.26mm" orientation="landscape" file="US07891115-20110222-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="163.91mm" wi="143.34mm" orientation="landscape" file="US07891115-20110222-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND</heading>
+<p id="p-0002" num="0001">1. Field</p>
+<p id="p-0003" num="0002">The present disclosure relates to grain drying systems and more particularly pertains to a new material drying system for effectively and efficiently removing moisture from a fixed volume of material, such as a grain positioned in a flexible bag located in a farm field.</p>
+<p id="p-0004" num="0003">2. Description of the Prior Art</p>
+<p id="p-0005" num="0004">It is common to attempt to remove moisture from a material, such as a quantity of grain after harvest, to bring the material to a desired level of moisture required for safe storage or processing of the grain. Commonly, the drying of grain involves the movement of air through the grain, and typically the air is heated by the burning of fossil fuels prior to moving the air through the grain stored in a bin. The drying of grain in this manner can be expensive when the initial level of moisture is high, and the cost can be unpredictable as the cost of the fuel rises and falls, particularly in the time of the year at harvest or shortly thereafter.</p>
+<p id="p-0006" num="0005">Others methods of drying are known, and one such method is disclosed in U.S. Pat. No. 3,914,874 to Bruce which discussed a system in which air and vapor are drawn out of the interior of an air-tight storage enclosure. While basically a good concept, the system disclosed in the Bruce patent requires a high level of supervision and attention which is typically not practical for use in applications where the moisture removal process may take an extended period of time, as well as other impracticalities.</p>
+<heading id="h-0002" level="1">SUMMARY</heading>
+<p id="p-0007" num="0006">In view of the foregoing, the present disclosure describes a new material drying system which may be utilized for effectively removing moisture from a fixed volume of material, such as a grain positioned in a flexible bag located in a farm field.</p>
+<p id="p-0008" num="0007">In one aspect, the present disclosure relates to a material drying apparatus for removing moisture from material positioned in the interior of an envelope having an opening. The material drying apparatus may comprise an inlet structure configured to be in fluid communication with the opening of the envelope and the interior of the envelope. The apparatus may further comprise an air removal assembly configured to remove air from the interior of the envelope when the inlet structure is placed in fluid communication with the opening, and a moisture removal assembly for removing moisture from air removed from the interior of the envelope. The moisture removal assembly may define a fluid path from the inlet structure that is bifurcated into two alternate path portions. The moisture removal assembly comprises a first moisture removal structure for removing moisture from gases moving along a first path portion. The first moisture removal structure comprises a first housing having an interior, a first heat exchanger positioned in the interior of the first housing, a first inlet valve for controlling gas flow into the first housing, and a first outlet valve for controlling gas flow out of the first housing. The moisture removal assembly may comprise a second moisture removal structure for removing moisture from gases moving along a second path portion. The second moisture removal structure comprises a second housing having an interior, a second heat exchanger positioned in the interior of the second housing, a second inlet valve for controlling gas flow into the second housing, and a second outlet valve for controlling gas flow out of the second housing. The assembly may further comprise a heat pump for transferring heat in a selected direction between the first and second moisture removal structures. The heat pump alternately heats the heat exchanger of one of the moisture removal structure and cools the heat exchanger of the other one of the moisture removal structures. The apparatus may also comprise a control apparatus for controlling operation of the first and second moisture removal assemblies and the heat pump, and the control apparatus is configured to sense a condition of the apparatus and reverse operation of the heat pump upon detecting that the condition has passed a predetermined level.</p>
+<p id="p-0009" num="0008">In another aspect, the disclosure relates a system for removing moisture from a material positioned in a substantially air tight envelope. The system may comprise an envelope defining an interior for containing a fixed amount of grain, and the envelope has an opening through which grain is moved into and removed from the interior. The envelope may be formed by a flexible material such that the envelope is supported by the material positioned in the interior of the envelope. The system further comprises a material drying apparatus for removing moisture from material positioned in the interior of an envelope having an opening. The material drying apparatus may comprise an inlet structure configured to be in fluid communication with the opening of the envelope and the interior of the envelope. The apparatus may further comprise an air removal assembly configured to remove air from the interior of the envelope when the inlet structure is placed in fluid communication with the opening, and a moisture removal assembly for removing moisture from gases removed from the interior of the envelope. The moisture removal assembly may define a fluid path from the inlet structure that is bifurcated into two alternate path portions. The moisture removal assembly comprises a first moisture removal structure for removing moisture from gases moving along a first path portion. The first moisture removal structure comprises a first housing having an interior, a first heat exchanger positioned in the interior of the first housing, a first inlet valve for controlling gas flow into the first housing, and a first outlet valve for controlling gas flow out of the first housing. The moisture removal assembly may comprise a second moisture removal structure for removing moisture from gases moving along a second path portion. The second moisture removal structure comprises a second housing having an interior, a second heat exchanger positioned in the interior of the second housing, a second inlet valve for controlling gas flow into the second housing, and a second outlet valve for controlling gas flow out of the second housing. The assembly may further comprise a heat pump for transferring heat in a selected direction between the first and second moisture removal structures. The heat pump alternately heats the heat exchanger of one of the moisture removal structure and cools the heat exchanger of the other one of the moisture removal structures. The apparatus may also comprise a control apparatus for controlling operation of the first and second moisture removal assemblies and the heat pump, and the control apparatus is configured to sense a condition of the apparatus and reverse operation of the heat pump upon detecting that the condition has passed a predetermined level.</p>
+<p id="p-0010" num="0009">There has thus been outlined, rather broadly, some of the more important elements of the disclosure in order that the detailed description thereof that follows may be better understood, and in order that the present contribution to the art may be better appreciated. There are additional elements of the disclosure that will be described hereinafter and which will form the subject matter of the claims appended hereto.</p>
+<p id="p-0011" num="0010">In this respect, before explaining at least one embodiment or implementation in greater detail, it is to be understood that the scope of the disclosure is not limited in its application to the details of construction and to the arrangements of the components, as well as the particulars of any steps of use, set forth in the following description or illustrated in the drawings. The disclosure is capable of other embodiments and implementations and is thus capable of being practiced and carried out in various ways. Also, it is to be understood that the phraseology and terminology employed herein are for the purpose of description and should not be regarded as limiting.</p>
+<p id="p-0012" num="0011">As such, those skilled in the art will appreciate that the conception, upon which this disclosure is based, may readily be utilized as a basis for the designing of other structures, methods and systems for carrying out the several purposes of the present disclosure. It is important, therefore, that the claims be regarded as including such equivalent constructions insofar as they do not depart from the spirit and scope of the present disclosure.</p>
+<p id="p-0013" num="0012">The advantages of the various embodiments of the present disclosure, along with the various features of novelty that characterize the disclosure, are disclosed in the following descriptive matter and accompanying drawings.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0014" num="0013">The disclosure will be better understood and when consideration is given to the drawings and the detailed description which follows. Such description makes reference to the annexed drawings wherein:</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 1</figref> is a schematic view of a new material drying system according to the present disclosure.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 2</figref> is a schematic diagram of portion soft hr system, according to an illustrative embodiment.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 3A</figref> is a schematic diagram of elements of the moisture removal assembly in a first operational mode, according to an illustrative embodiment.</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 3B</figref> is a schematic diagram of elements of the moisture removal assembly in a second operational mode, according to an illustrative embodiment.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 4</figref> is a schematic diagram of the elements of the material drying apparatus, according to an illustrative embodiment.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 5A</figref> is a schematic flow diagram of a first portion of an illustrative operation process for the system.</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 5B</figref> is a schematic flow diagram of a second portion of the illustrative operation process for the system.</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 6</figref> is a schematic flow diagram with greater detail regarding the control initialization process of the illustrative operation.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 7</figref> is a schematic flow diagram with greater detail regarding the element verification process of the illustrative operation.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 8</figref> is a schematic flow diagram with greater detail regarding the element initialization process of the illustrative operation.</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 9</figref> is a schematic flow diagram with greater detail regarding the reverse operation process of the illustrative operation.</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 10A</figref> is a schematic flow diagram with greater detail regarding some steps of the reverse operation process of the illustrative operation.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 10B</figref> is a schematic flow diagram with continued greater detail regarding some steps of the reverse operation process of the illustrative operation.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 11</figref> is a schematic flow diagram with greater detail regarding the stop operation process of the illustrative operation.</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 12A</figref> is a schematic flow diagram with greater detail regarding some steps of the stop operation process of the illustrative operation.</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 12B</figref> is a schematic flow diagram with continued greater detail regarding some steps of the stop operation process of the illustrative operation.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0031" num="0030">With reference now to the drawings, and in particular to <figref idref="DRAWINGS">FIGS. 1 through 12</figref> thereof, a new material drying system embodying the principles and concepts of the disclosed subject matter will be described.</p>
+<p id="p-0032" num="0031">As generally shown in <figref idref="DRAWINGS">FIGS. 1 through 4</figref> of the drawings, the disclosure relates to a system <b>10</b> for removing moisture from a fixed volume of a material <b>1</b> positioned in a substantially air tight envelope <b>12</b>. In the most preferred implementations of the system, the material from moisture is to be removed is a grain that needs to be dried, although those skilled in the art will recognize that the system disclosed herein may be applied to the removal of moisture from a variety of materials that may be positioned in an envelope. The system <b>10</b> is highly suitable for drying materials such as grains or crop materials to a degree of approximately 10 to approximately 35 percent moisture, although moisture contents above and below that range may also be achievable using the system. In some embodiments, the system <b>10</b> may be portable to be moved between locations such as locations in crop fields where agricultural crops are often temporarily stored in bags. The system <b>10</b> may have a form that is towable by a vehicle to be moved between the locations.</p>
+<p id="p-0033" num="0032">In some implementations, the system <b>10</b> may include the envelope <b>12</b> for containing the material <b>1</b> from which moisture is to be removed. The envelope <b>12</b> may be elongated with opposite ends, and thus may have a length that is significantly greater in dimension than the width or diameter of the envelope. In some embodiments, the length of the envelope may be between approximately 10 feet and approximately 500 feet, and the width or diameter may be between approximately 2 feet and approximately 30 feet. The envelope <b>12</b> defines an interior <b>14</b> for containing a fixed amount of the material, such as a grain, between an at least partially open end <b>16</b> and a substantially closed end <b>17</b>. The envelope may be compatible with known grain handling equipment, and has an opening <b>18</b> through which grain is moved into, and removed from, the interior <b>14</b>. The envelope <b>12</b> may comprise a bladder formed by a flexible material such that the envelope is substantially incapable of supporting itself, and may be supported by the material <b>1</b> positioned in the interior <b>14</b> of the envelope. The material of the bladder may comprise a synthetic material with a small coefficient of permeability by air such that the amount of air that is able to move from the environment of the envelope through the wall of the bladder into the interior is minimal if any air is able to move into the interior at all.</p>
+<p id="p-0034" num="0033">The system <b>10</b> may also include a material drying apparatus <b>20</b> for removing moisture from the material <b>1</b> positioned in the interior <b>14</b> of the envelope. The moisture removal apparatus <b>20</b> may be in fluid communication with the interior <b>14</b> of the envelope to be able to draw gases out of the interior. The opening <b>18</b> of the envelope <b>12</b> may be closed or otherwise functionally blocked by the apparatus <b>20</b> such that any air exiting (or entering) the interior <b>14</b> must pass through the apparatus <b>20</b>. The apparatus <b>20</b> may include an inlet <b>22</b> in fluid communication with the interior <b>14</b> of the envelope, and may be in fluid communication with the opening <b>18</b> of the envelope. The apparatus may also include an outlet <b>24</b> that is generally in communication with the exterior environment of the apparatus <b>20</b> and the envelope <b>12</b> to exhaust the air passing through the outlet conduit to the environment. The material drying apparatus <b>20</b> may also include an inlet conduit <b>26</b> that connects the inlet <b>22</b> of the material drying apparatus to the opening <b>18</b> of the envelope.</p>
+<p id="p-0035" num="0034">The material drying apparatus may further comprise an air removal assembly <b>30</b> for removing air from the interior <b>14</b> of the envelope. The air removal assembly <b>30</b> may be configured to create a low or negative pressure condition in the envelope interior when the inlet <b>22</b> of the apparatus <b>20</b> is connected to the opening <b>18</b>, such as through the inlet conduit <b>26</b>. The air removal assembly <b>30</b> may exhaust the air to the outlet <b>24</b> of the apparatus <b>20</b>. In some embodiments, the air removal assembly may comprise a pump capable of moving air from low pressure volumes.</p>
+<p id="p-0036" num="0035">The material drying apparatus <b>20</b> may also include a moisture removal assembly <b>32</b> for removing moisture from the gases that are removed from the envelope interior <b>14</b>. The moisture removal assembly <b>32</b> may be configured to remove moisture from the air moving out of the interior <b>14</b> prior to the air passing through the air removal assembly <b>30</b>. The moisture removal assembly <b>32</b> may define a fluid path <b>34</b> from the inlet <b>22</b> of the material drying apparatus to the outlet <b>24</b>. A portion of the fluid path <b>34</b> may be bifurcated into two alternate path portions <b>36</b> and <b>38</b>.</p>
+<p id="p-0037" num="0036">The moisture removal assembly <b>32</b> may include a first moisture removal structure <b>40</b> in communication with the first fluid path portion <b>36</b> and a second moisture removal structure <b>42</b> in communication with the second fluid path portion <b>38</b>. The first moisture removal structure <b>40</b> defines a section of the first fluid path portion <b>36</b>, and the second moisture removal structure <b>42</b> defines a section of the second air path portion <b>38</b>. Each of the moisture removal structures <b>40</b>, <b>42</b> is designed to remove moisture from gases passing through the moisture removal assembly <b>32</b>.</p>
+<p id="p-0038" num="0037">The first moisture removal structure <b>40</b> may comprise a first housing <b>44</b> having an interior <b>45</b> and a first inlet <b>46</b> and a first outlet <b>47</b>. The first moisture removal structure <b>40</b> may further comprise a first heat exchanger <b>48</b> that is associated with the first housing, and may be positioned in the interior <b>45</b> of the first housing <b>44</b>. The first heat exchanger <b>48</b> may be configured such that gases moving along the first path portion passes through the first heat exchanger. The structure <b>40</b> may comprise a first inlet valve <b>50</b> positioned in the first path portion <b>36</b> for controlling gas flow into the first housing <b>44</b>, and may be positioned adjacent to the first inlet <b>46</b> of the first housing. The first moisture removal structure <b>40</b> may comprise a first outlet valve <b>51</b> positioned in the first path portion <b>36</b> for controlling gas flow into the first housing <b>44</b>. The first outlet valve <b>51</b> may be positioned adjacent to the first outlet <b>47</b> of the housing. The removal structure <b>40</b> may also include a first drain valve <b>52</b> in fluid communication with the interior <b>45</b> of the first housing for permitting liquid to drain from the interior of the first housing.</p>
+<p id="p-0039" num="0038">Similarly, the second moisture removal structure <b>42</b> may comprise a second housing <b>54</b> having an interior <b>55</b> and a second inlet <b>56</b> and a second outlet <b>57</b>. The second moisture removal structure <b>42</b> may further comprise a second heat exchanger <b>58</b> that is associated with the second housing, and may be positioned in the interior <b>55</b> of the second housing <b>54</b>. The second heat exchanger <b>58</b> may be configured such that gases moving along the second path portion <b>38</b> passes through the second heat exchanger. The structure <b>42</b> may comprise a second inlet valve <b>60</b> positioned in the second path portion <b>38</b> for controlling gas flow into the second housing <b>54</b>, and may be positioned adjacent to the second inlet <b>56</b> of the second housing. The second moisture removal structure <b>42</b> may comprise a second outlet valve <b>61</b> positioned in the second path portion <b>38</b> for controlling gas flow into the second housing <b>54</b>. The second outlet valve <b>61</b> may be positioned adjacent to the second outlet <b>57</b> of the housing. The removal structure <b>42</b> may also include a second drain valve <b>62</b> in fluid communication with the interior <b>55</b> of the second housing for permitting liquid to drain from the interior of the second housing.</p>
+<p id="p-0040" num="0039">In some implementations of the system <b>10</b>, each of the moisture removal structures <b>40</b>, <b>42</b> includes a vapor-liquid separator, or &#x201c;knock out pot&#x201d;, to form at least a portion of elements of the moisture removal structures <b>40</b>, <b>42</b>.</p>
+<p id="p-0041" num="0040">The moisture removal assembly <b>30</b> may further include a heat pump structure <b>64</b> for transferring heat in a selected direction between the first <b>40</b> and second <b>42</b> moisture removal structures. The heat pump structure <b>64</b> may alternately heat the heat exchanger in one of the moisture removal structures <b>40</b>, <b>42</b> and cool the heat exchanger in the other one of the moisture removal structures <b>40</b>, <b>42</b>. The heat pump structure <b>64</b> may be used to alternately operate the heat exchanger of one moisture removal structure as a condenser to remove moisture from the air moving along the air path from the envelope interior, and simultaneously operate the heat exchanger of the other moisture removal structure as an evaporator to act as a heat sink and also remove any moisture that has accumulated on the exterior of the heat exchanger as a result of previously acting as a condenser removing moisture from the air flow on the air path.</p>
+<p id="p-0042" num="0041">In greater detail, the heat pump structure <b>64</b> may comprise a compressor <b>66</b>, an expansion valve(s) <b>68</b>, a reversing valve <b>70</b>, and a plurality of conduits <b>72</b> connecting the compressor, the expansion valve(s), and the reversing valve to the first heat exchanger <b>48</b> and the second heat exchanger <b>58</b> in a manner such that the working fluid of the heat pump structure <b>64</b> may be supplied to the first and second heat exchangers <b>48</b>, <b>58</b> in reversible directions to permit each of the heat exchangers to act as a condenser or an evaporator.</p>
+<p id="p-0043" num="0042">The moisture removal assembly <b>32</b> of the system <b>10</b> may include an auxiliary defrosting assembly <b>73</b> for facilitating the removal of accumulated moisture, generally in the form of frozen moisture or frost, from the heat exchanger of the moisture removal structure that has previously acted as an evaporator and accumulated the moisture on the exterior surfaces of the heat exchanger, and is presently acting as an evaporator. The heating of the surfaces of the heat exchanger tends to thaw the frozen moisture and thus cause the moisture to leave the exterior surface of the heat exchanger. In some embodiments, the auxiliary defrosting assembly <b>73</b>, such as an auxiliary fan or blower, may be employed to enhance the removal of the moisture from the heat exchanger while the heat exchanger is functioning as an evaporator by causing an air flow over the exterior of the heat exchanger. The auxiliary fan <b>73</b> associated with a particular moisture removal structure may be turned on when the operation of the heat pump structure is reversed to cause the heat exchanger of the particular moisture removal structure to operate as an evaporator.</p>
+<p id="p-0044" num="0043">In some implementations, the system <b>10</b> may include a perforated tube <b>74</b> that is positionable in the interior <b>14</b> of the envelope, and preferably at a substantially central location of the material placed in the interior, to facilitate more uniform removal of gases and vapor from the interior <b>14</b>. The perforated tube <b>74</b> may extend approximately from the closed end to the open end of the envelope, although the tube need not extend the entire distance between the ends. The perforated tube <b>74</b> may have a perimeter wall, with a plurality of holes in the perimeter wall of the tube, so that gases are able to enter the interior of the tube at points between the ends of the tube. The perforated tube <b>74</b> may be connected in fluid communication with the inlet conduit <b>26</b> of the material drying apparatus, either directly to the inlet conduit or indirectly when the tube and the conduit <b>26</b> are not directly connected but are spaced from each other without significant distance therebetween.</p>
+<p id="p-0045" num="0044">Significantly, the system <b>10</b> may also include a control apparatus <b>76</b> for controlling the operation of various elements of the system to cause a drying process to be performed on the material <b>1</b> positioned in the envelope interior <b>14</b>, elements of which are generally shown in <figref idref="DRAWINGS">FIG. 4</figref>. The function of the control apparatus may permit the system to operate with little or no human intervention for extended periods of time, allowing the drying process to be conducted over a relatively long period of storage. The control apparatus <b>76</b> may comprise a processor with suitable instructions stored in memory for operating the processor, and the elements connected to the processor, in the manner described herein. For example, a programmable logic controller may be utilized. The control apparatus <b>76</b> may also include a control panel or other structure with a plurality of user-actuated controls <b>78</b> and a display <b>80</b> that displays information to the user or operator.</p>
+<p id="p-0046" num="0045">The system may also include a plurality of sensors that sense or detect various conditions of elements of the system or conditions of the environment of the system. The sensors may be communicatively connected to the control apparatus <b>76</b> to provide information to the control apparatus for controlling operation of the system. A first group <b>82</b> of sensors may be employed to detect the temperature conditions of the heat pump structure <b>64</b>. The sensors of the first group <b>82</b> may be located at various points along the conduits <b>72</b> that carry the working fluid of the heat pump structure <b>64</b> to determine the operating conditions of the pump structure <b>64</b>. Illustratively, a sensor <b>84</b> of the first group <b>82</b> may be located on the conduit connecting the compressor <b>66</b> to the input end of the first heat exchanger <b>48</b> and a sensor <b>86</b> may be located on the conduit connecting the output end of the first heat exchanger to the compressor. Similarly, a sensor <b>88</b> of the first group <b>82</b> may be located on the conduit connecting the compressor <b>66</b> to the input end of the second heat exchanger <b>58</b> and a sensor <b>90</b> may be located on the conduit connecting the output end of the second heat exchanger to the compressor. The control apparatus <b>76</b> may be able to determine temperature drops in the working fluid of the heat pump structure using inputs from the first group of sensors.</p>
+<p id="p-0047" num="0046">Another sensor <b>92</b> may be configured to sense the temperature of the material positioned in the interior of the envelope, and this material temperature sensor <b>92</b> may be adapted to be positioned in the mass of the material for communicating to the detected temperature to the control apparatus <b>76</b>. Still another sensor <b>94</b> may be configured to sense the temperature of the air exterior to the envelope, and the air temperature sensor <b>94</b> may be positioned on an exterior surface of the control apparatus, or at a location that permits air from the exterior to reach the sensor <b>94</b> so that the sensor accurately detects the exterior temperature.</p>
+<p id="p-0048" num="0047">Additionally, one or more sensors may be employed to sense other factors or conditions that may affect the performance of the system, such as, for example, the pressures of the working fluid in the conduits <b>72</b> of the heat pump structure may be sensed by pressure sensors <b>96</b> that may be monitored to sensed pressures that are too low or too high for continued safe operation of the system.</p>
+<p id="p-0049" num="0048">The control apparatus <b>76</b> may utilize a plurality of processes to operate the system <b>10</b> to remove moisture from the gases being removed from the envelope interior, and thereby remove moisture from the material in the interior.</p>
+<p id="p-0050" num="0049">In an exemplary power-on or start up process, such as is depicted ion <figref idref="DRAWINGS">FIGS. 5A and 5B</figref>, the control apparatus <b>76</b> may recognize reception of a power-on command from one of the controls <b>78</b> or other input. The elements of the control apparatus may be energized with power, and an initialization procedure of the control apparatus may be begun, The initialization process, an example of which is depicted in <figref idref="DRAWINGS">FIG. 6</figref>, may include steps such as, for example, reading the storage or memory associated with the apparatus <b>76</b>, starting a clock or timer circuit, energizing the display <b>80</b>, placing relays of the system in a safe condition or position, reading the sensors and evaluating sensor operability or inoperability based upon the readings, and indicating system operation is &#x201c;OK&#x201d; to the user such as via the display.</p>
+<p id="p-0051" num="0050">Turning back to <figref idref="DRAWINGS">FIG. 5A</figref>, a process for verifying the readiness of the system elements for initialization may be performed. As shown in greater detail in <figref idref="DRAWINGS">FIG. 7</figref>, the process may include determining and verifying the correct positioning of the sensors by determining if the levels of the respective outputs or signals from the sensors fall within a pre-specified range of output levels that are appropriate for the startup of the system <b>10</b>, and the result of the check may be indicated on the display to indicate the readiness of the system for operation.</p>
+<p id="p-0052" num="0051">When the control apparatus detects user input to initiate the drying process (see <figref idref="DRAWINGS">FIG. 5A</figref>), the apparatus <b>76</b> may initialize the elements of the system for operation of, for example, the air removal assembly <b>30</b>, and the moisture removal assembly <b>32</b>. As shown in <figref idref="DRAWINGS">FIG. 8</figref>, the process may comprise opening the first inlet valve <b>50</b> and the first outlet valve <b>51</b>, and closing the second inlet valve <b>60</b> and may also include the second outlet valve <b>61</b>, all of which may occur prior to the beginning of operation of the air removal assembly. Operation of the moisture removal assembly <b>32</b> may include operating the heat pump structure <b>64</b> such that the first heat exchanger <b>48</b> of the first moisture removal structure functions as an evaporator and the second heat exchanger <b>58</b> of the second moisture removal structure functions as a condenser. Those skilled in the art will recognize that operation of the system may be initiated with the second heat exchanger acting as the evaporator and the first heat exchanger as the condenser, and that the foregoing description of the positions and conditions of the valves, etc. would then be reversed.</p>
+<p id="p-0053" num="0052">Looking back to <figref idref="DRAWINGS">FIG. 5B</figref>, after operation of the system in the foregoing manner has occurred, a condition may be detected that triggers or calls for the reversal of the operation of the moisture removal assembly <b>32</b>. The condition may be selected by the user through the controls or programming of the control apparatus, or a particular condition may be permanently set for the system. As shown in some detail in <figref idref="DRAWINGS">FIG. 9</figref> and in greater detail in <figref idref="DRAWINGS">FIGS. 10A and 10B</figref>, one triggering condition may be the detection of the passage of a predetermined period of time, such as the passage of a predetermined time period since the beginning of the initiation of the drying process when the air removal <b>30</b> and moisture removal <b>32</b> assemblies. In such implementations, the length of time since a start time of the drying process may be monitored. If it is detected that the time since beginning the process is approximately equal to or greater than the predetermined period of time, the control apparatus <b>76</b> may initiate a reversal of the operation of the heat pump structure.</p>
+<p id="p-0054" num="0053">Another triggering condition may be the detection that a rate of change of the pressure of the working fluid in the heat pump is less than a predetermined level for the rate of change. This condition may indicate that the evaporator has or becoming covered with condensed moisture in the form of ice or ice crystals. The buildup of frozen condensate on the heat exchanger acting an evaporator tends to reduce the efficiency of the moisture removal, and the change in pressure is affected by this accumulation of frozen moisture. In such implementations, the control apparatus <b>76</b> may sense the pressure of the working fluid in the heat pump structure using the working fluid pressure sensor <b>96</b>, and may determine a rate of change for the sensed fluid pressure. If it is detected that the rate of change for the sensed fluid pressure is less than the predetermined level for the rate of change, the apparatus <b>76</b>, the control apparatus <b>76</b> may initiate a reversal of the operation of the heat pump structure.</p>
+<p id="p-0055" num="0054">Yet another triggering condition may be the detection that the pressure of the working fluid in the heat pump structure is less than a first predetermined level or greater than a second predetermined level, which may also indicate that an accumulation of frozen moisture is present on the heat exchanger acting as the evaporator. In such implementations, the control apparatus <b>76</b> may sense the pressure of the working fluid in the heat pump structure at the pressure sensor <b>96</b>, and if it is detected that the pressure is less than the first predetermined level or greater than the second predetermined level, the control apparatus may initiate a reversal of the operation of the heat pump structure. Another triggering condition may be the detection of a temperature of the working fluid of the heat pump structure that is above a predetermined threshold temperature. Further, a temperature differential between the input and output of one of the heat exchangers may be monitored, and a temperature differential between the heat exchangers of the first and second moisture removal assemblies may be monitored and may trigger a change if the differential is greater than a predetermined difference or less than a predetermined difference.</p>
+<p id="p-0056" num="0055">As depicted in <figref idref="DRAWINGS">FIG. 10B</figref>, upon the detection of one of these conditions, or another suitable condition, operation of the moisture removal assembly <b>32</b> may be reversed by, for example, reversing operation of heat pump structure <b>64</b> such that the heat exchanger functioning as the evaporator now begins to operate as the condenser, and the heat exchanger operating as the condenser now begins to operate as the evaporator. At substantially the same time as the reversal of the heat pump operation, or somewhat before or after the reversal, the inlet and outlet valves for the moisture removal structure that were previously closed (and that are associated with the heat exchanger that previous to the reversal operated as the condenser) are opened, and the inlet valve that is associated with the heat exchanger previously acting as the evaporator is closed. Also, the outlet valve associated with the previous evaporator heat exchanger may be closed. Further, the operation of the auxiliary fans, if employed, may be changed so that the fan associated with the heat exchanger now acting as a condenser is activated and the auxiliary fan associated with the exchanger now acting as an evaporator may be deactivated.</p>
+<p id="p-0057" num="0056">Looking back to <figref idref="DRAWINGS">FIG. 5B</figref>, the control apparatus <b>76</b> may also discontinue the operation of the system <b>10</b> upon the occurrence or detection of an event or condition. As shown in <figref idref="DRAWINGS">FIG. 11</figref>, and in greater detail in <figref idref="DRAWINGS">FIGS. 12A and 12B</figref>, for example, the event may be the passage of a predetermined period of time since the initiation of operation of the system without interruption. As another example, the event may be the detection that the moisture level of the material in the envelope interior is detected to be less than a predetermined moisture level (which may be determined by detecting a moisture level of the gases being removed from the interior or the failure of moisture to continue to accumulate on the surfaces of the heat exchangers. As yet another example, the event or condition may be the detection that one or more ambient conditions are no longer present. The ambient conditions may be the ambient air temperature about the system <b>10</b>, or the ambient condition may be the time of day.</p>
+<p id="p-0058" num="0057">The process of discontinuing operation of the system <b>10</b> may include stopping operation of the heat pump structure <b>64</b>, stopping operation of the air removal assembly <b>30</b> (see <figref idref="DRAWINGS">FIG. 12B</figref>), and positioning the valves in a condition suitable for shutdown, such as a closed condition, to maintain at a partial vacuum in the envelope interior. Additionally, and optionally, the control apparatus <b>70</b> may trigger one or more devices that provide audible and/or visual alerts to provide a warning to an operator of the apparatus of a hazardous or damaging condition of the apparatus or of the material. The control apparatus, through the display <b>80</b>, may also provide the operator with information regarding the status of the apparatus operation and the progress of the drying operation on the material. The control apparatus <b>70</b> may also be configured to permit fully manual operation, fully automatic operation, or a hybrid mode in which some controls are automatic and some controls are manual.</p>
+<p id="p-0059" num="0058">In general, the control apparatus <b>76</b> of the system <b>10</b> may be utilized to monitor the drying process and control the activation and deactivation of the first <b>40</b> and second <b>42</b> moisture removal structures in an alternating manner. After a period of operation, the rate of heat transfer for the evaporator heat exchanger of the active moisture removal structure will decline due to ice blanketing on the surface of the heat exchanger. The ice blanketing condition may be detected by the control apparatus by sensing and analyzing pressures, temperatures, rate of change of either pressure or temperature, or elapsed time. The control apparatus may operate isolating valves, reversal valves and/or other appropriate mechanical devices in a suitable order to isolate and thus deactivate the moisture removal structure currently acting as a condensation vessel, and activate the other moisture removal structure to function as the condensation vessel. Condensation will accumulate on the evaporator heat exchanger of the newly active moisture removal structure, and the heat from the heat pump is dumped to melt the ice blanket on the condenser heat exchanger of the newly isolated vessel. The drain valve on the housing may be opened by the control apparatus to allow captured water to be removed and optionally may allow metering of the amount of water removed.</p>
+<p id="p-0060" num="0059">During operation of the system <b>10</b>, the pump of the air removal assembly <b>30</b> draws air out of the interior <b>14</b> of the envelope through the active moisture removal structure that is in fluid communication with the interior of the envelope, which will initially reduce or decrease the pressure of the air within the envelope interior. As the pressure in the envelope interior decreases, moisture from within the grain will begin to flash to vapor. As this vaporization occurs, remaining moisture in the grain may cool to the point of solidification to cause freezing of some of the moisture inside the grain. The material drying apparatus <b>20</b> creates a pressure gradient in the envelope interior <b>14</b> that draws the vapor towards and through the apparatus <b>20</b>. While the heat pump structure is cooling the evaporator heat exchanger in the housing subjected to the vacuum caused by the air removal assembly <b>30</b> (to thereby condense the vapor from the gases being drawn through the material drying apparatus <b>20</b> toward the air removal pump <b>30</b>, the heat extracted by the heat pump structure is used to heat the condenser heat exchanger located in the housing that is isolated from the gases flowing out of the envelope. As the gases and vapor proceed toward the pump <b>30</b> and pass through the activated moisture removal structure, the moisture condenses on the evaporator heat exchanger and may blanket surfaces of the heat exchanger or may fall to the bottom of the housing as a sub-cooled liquid, where it will eventually freeze.</p>
+<p id="p-0061" num="0060">Solar energy radiation, and heat transfer from a relatively higher ambient air temperature outside of the envelope, into the closed system is utilized to heat the material in the envelope and vaporize moisture frozen inside the material. Due to the low pressure condition created in the envelope interior, a lower temperature is required to reach vaporization. The system <b>10</b> can thus be more cost effective to operate as it utilizes solar energy instead of a fuel to heat the material.</p>
+<p id="p-0062" num="0061">Further, the material drying apparatus <b>20</b> may easily be made portable and thus can be more easily transported to the location of a grain harvest, rather than requiring transport of the grain to a bin location before drying may begin. The system <b>10</b> may also reduce the use of external bins and augers or other fixed systems, and enhance the use of synthetic envelopes that may be placed anywhere and disposed of after use.</p>
+<p id="p-0063" num="0062">The system <b>10</b> may also require less supervision than conventional heat-based drying systems, and thus may be safer due to the lack of a combustion source that might ignite a fire.</p>
+<p id="p-0064" num="0063">With respect to the above description then, it is to be realized that the optimum dimensional relationships for the parts of the disclosed embodiments and implementations, to include variations in size, materials, shape, form, function and manner of operation, assembly and use, are deemed readily apparent and obvious to one skilled in the art in light of the foregoing disclosure, and all equivalent relationships to those illustrated in the drawings and described in the specification are intended to be encompassed by the present disclosure.</p>
+<p id="p-0065" num="0064">Therefore, the foregoing is considered as illustrative only of the principles of the disclosure. Further, since numerous modifications and changes will readily occur to those skilled in the art, it is not desired to limit the disclosed subject matter to the exact construction and operation shown and described, and accordingly, all suitable modifications and equivalents may be resorted to that fall within the scope of the claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>I claim:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A material drying apparatus for removing moisture from material positioned in the interior of an envelope, the envelope having an opening, the material drying apparatus comprising:
+<claim-text>an inlet structure configured to be in fluid communication with the opening of the envelope and the interior of the envelope;</claim-text>
+<claim-text>an air removal assembly configured to remove air from the interior of the envelope when the inlet structure is placed in fluid communication with the opening;</claim-text>
+<claim-text>a moisture removal assembly for removing moisture from gases removed from the interior of the envelope, the moisture removal assembly defining a fluid path from the inlet structure that is bifurcated into two alternate path portions, the moisture removal assembly comprising:
+<claim-text>a first moisture removal structure for removing moisture from gases moving along a first path portion, the first moisture removal structure comprising a first housing having an interior, a first heat exchanger positioned in the interior of the first housing, a first inlet valve for controlling gas flow into the first housing, a first outlet valve for controlling gas flow out of the first housing;</claim-text>
+<claim-text>a second moisture removal structure for removing moisture from gases moving along a second path portion, the second moisture removal structure comprising a second housing having an interior, a second heat exchanger positioned in the interior of the second housing, a second inlet valve for controlling gas flow into the second housing, a second outlet valve for controlling gas flow out of the second housing; and</claim-text>
+<claim-text>a heat pump for transferring heat in a selected direction between the first and second moisture removal structures, the heat pump alternately heating the heat exchanger of one of the moisture removal structure and cooling the heat exchanger of the other one of the moisture removal structures;</claim-text>
+</claim-text>
+<claim-text>a control apparatus for controlling operation of the first and second moisture removal assemblies and the heat pump, the control apparatus being configured to sense a condition of the apparatus and reverse operation of the heat pump upon detecting that the condition has passed a predetermined level.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the condition sensed by the control apparatus is a time of operation of the apparatus, and wherein the predetermined level of the condition comprises a predetermined period of time.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the condition sensed by the control apparatus is pressure of a working fluid of the heat pump, and wherein the predetermined level of the condition comprises a pressure that is greater than a predetermined level of pressure.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the condition sensed by the control apparatus is temperature of a working fluid of the heat pump, and wherein the predetermined level of the condition comprises a temperature that is greater than a predetermined temperature level.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the condition sensed by the control apparatus is pressure of a working fluid of the heat pump, and wherein the predetermined level of the condition comprises a pressure that is less than a predetermined level of pressure.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the condition sensed by the control apparatus is a rate of change in pressure of a working fluid of the heat pump, and wherein the predetermined level of the condition comprises a rate of change in pressure that is greater than a predetermined rate of pressure change.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the control apparatus is configured to sense a condition of the apparatus and discontinue operation of the apparatus upon detecting that the condition has passed a predetermined level.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the condition sensed by the control apparatus is a time of operation of the apparatus, and wherein the predetermined level of the condition comprises a predetermined period of time.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the condition sensed by the control apparatus is a moisture level of a material being dried in the envelope, and wherein the predetermined level of the condition comprises a moisture level of the material that is less than a predetermined moisture level.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the condition sensed by the control apparatus is an ambient temperature, and wherein the predetermined level of the condition comprises an ambient temperature level that is less than a predetermined temperature level.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The apparatus of <claim-ref idref="CLM-00001">claim 1</claim-ref> additionally comprising a perforated tube positionable in the interior of the envelope, the perforated tube being in fluid communication with the inlet structure.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. A system for removing moisture from a material positioned in a substantially air tight envelope, the system comprising:
+<claim-text>an envelope defining an interior for containing a fixed amount of grain, the envelope having an opening through which grain is moved into and removed from the interior, the envelope being formed by a flexible material such that the envelope is supported by the material positioned in the interior of the envelope;</claim-text>
+<claim-text>a material drying apparatus for removing moisture from material positioned in the interior of the envelope, the material drying apparatus being in fluid communication with the interior of the envelope, the opening of the envelope being closed by the apparatus, the material drying apparatus comprising:
+<claim-text>an inlet structure configured to be in fluid communication with the opening of the envelope and the interior of the envelope;</claim-text>
+<claim-text>an air removal assembly configured to remove air from the interior of the envelope when the inlet structure is placed in fluid communication with the opening;</claim-text>
+<claim-text>a moisture removal assembly for removing moisture from gas removed from the interior of the envelope, the moisture removal assembly defining a fluid path from the inlet structure that is bifurcated into two alternate path portions, the moisture removal assembly comprising:
+<claim-text>a first moisture removal structure for removing moisture from gases moving along a first path portion, the first moisture removal structure comprising a first housing having an interior, a first heat exchanger positioned in the interior of the first housing, a first inlet valve for controlling gas flow into the first housing, a first outlet valve for controlling gas flow out of the first housing;</claim-text>
+<claim-text>a second moisture removal structure for removing moisture from gases moving along a second path portion, the second moisture removal structure comprising a second housing having an interior, a second heat exchanger positioned in the interior of the second housing, a second inlet valve for controlling gas flow into the second housing, a second outlet valve for controlling gas flow out of the second housing; and</claim-text>
+<claim-text>a heat pump for transferring heat in a selected direction between the first and second moisture removal structures, the heat pump alternately heating the heat exchanger of one of the moisture removal structure and cooling the heat exchanger of the other one of the moisture removal structures;</claim-text>
+</claim-text>
+<claim-text>a control apparatus for controlling operation of the first and second moisture removal assemblies and the heat pump, the control apparatus being configured to sense a condition of the apparatus and reverse operation of the heat pump upon detecting that the condition has passed a predetermined level.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The system of <claim-ref idref="CLM-00012">claim 12</claim-ref> wherein the condition sensed by the control apparatus is a time of operation of the apparatus, and wherein the predetermined level of the condition comprises a predetermined period of time.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The system of <claim-ref idref="CLM-00012">claim 12</claim-ref> wherein the condition sensed by the control apparatus is pressure of a working fluid of the heat pump, and wherein the predetermined level of the condition comprises a pressure that is greater than a predetermined level of pressure.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The system of <claim-ref idref="CLM-00012">claim 12</claim-ref> wherein the condition sensed by the control apparatus is pressure of a working fluid of the heat pump, and wherein the predetermined level of the condition comprises a pressure that is less than a predetermined level of pressure.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The system of <claim-ref idref="CLM-00012">claim 12</claim-ref> wherein the condition sensed by the control apparatus is a rate of change in pressure of a working fluid of the heat pump, and wherein the predetermined level of the condition comprises a rate of change in pressure that is greater than a predetermined rate of pressure change.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The system of <claim-ref idref="CLM-00012">claim 12</claim-ref> wherein the control apparatus is configured to sense a condition of the apparatus and discontinue operation of the apparatus upon detecting that the condition has passed a predetermined level.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The system of <claim-ref idref="CLM-00017">claim 17</claim-ref> wherein the condition sensed by the control apparatus is a time of operation of the apparatus, and wherein the predetermined level of the condition comprises a predetermined period of time.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The system of <claim-ref idref="CLM-00017">claim 17</claim-ref> wherein the condition sensed by the control apparatus is a moisture level of a material being dried in the envelope, and wherein the predetermined level of the condition comprises a moisture level of the material that is less than a predetermined moisture level.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The system of <claim-ref idref="CLM-00012">claim 12</claim-ref> additionally comprising a perforated tube positionable in the interior of the envelope, the perforated tube being in fluid communication with the inlet structure. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

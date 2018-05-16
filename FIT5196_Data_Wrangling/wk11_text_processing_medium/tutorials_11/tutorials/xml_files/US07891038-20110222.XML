@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891038-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891038</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12773063</doc-number>
+<date>20100504</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<us-term-of-grant>
+<disclaimer>
+<text>This patent is subject to a terminal disclaimer.</text>
+</disclaimer>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>08</class>
+<subclass>B</subclass>
+<main-group>9</main-group>
+<subgroup>04</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 1510433</main-classification>
+<further-classification>248615</further-classification>
+<further-classification>280 4724</further-classification>
+<further-classification>301 64101</further-classification>
+<further-classification>301 64701</further-classification>
+</classification-national>
+<invention-title id="d2e51">Sewer cleaning machine</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>1826820</doc-number>
+<kind>A</kind>
+<name>Perkins et al.</name>
+<date>19311000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>2564248</doc-number>
+<kind>A</kind>
+<name>Chenette</name>
+<date>19510800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>2868558</doc-number>
+<kind>A</kind>
+<name>Krauss</name>
+<date>19590100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>2890890</doc-number>
+<kind>A</kind>
+<name>Uhlrig et al.</name>
+<date>19590600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>2926372</doc-number>
+<kind>A</kind>
+<name>O'Brien</name>
+<date>19600300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>3026224</doc-number>
+<kind>A</kind>
+<name>Rogers, Jr.</name>
+<date>19620300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>3075217</doc-number>
+<kind>A</kind>
+<name>Kollmann</name>
+<date>19630100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>3095592</doc-number>
+<kind>A</kind>
+<name>Hunt</name>
+<date>19630700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>3246354</doc-number>
+<kind>A</kind>
+<name>Cooney et al.</name>
+<date>19660400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>3952786</doc-number>
+<kind>A</kind>
+<name>Kreling et al.</name>
+<date>19760400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>4364139</doc-number>
+<kind>A</kind>
+<name>Babb et al.</name>
+<date>19821200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>4580306</doc-number>
+<kind>A</kind>
+<name>Irwin</name>
+<date>19860400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>5031276</doc-number>
+<kind>A</kind>
+<name>Babb et al.</name>
+<date>19910700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>5211213</doc-number>
+<kind>A</kind>
+<name>Hicks</name>
+<date>19930500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>5309595</doc-number>
+<kind>A</kind>
+<name>Salecker et al.</name>
+<date>19940500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>5316377</doc-number>
+<kind>A</kind>
+<name>Markling et al.</name>
+<date>19940500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>5622319</doc-number>
+<kind>A</kind>
+<name>Babb et al.</name>
+<date>19970400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>6468048</doc-number>
+<kind>B1</kind>
+<name>Burkholder et al.</name>
+<date>20021000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>6618891</doc-number>
+<kind>B2</kind>
+<name>Schmitt</name>
+<date>20030900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>2004/0012247</doc-number>
+<kind>A1</kind>
+<name>Lin et al.</name>
+<date>20040100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>9</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 1510433</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>280 4717</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>280 4724</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>280 4727</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>280 4728</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>248129</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>248615</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>248616</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>301 64701</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>301 64702</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>301 64703</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>301 64101</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>301 64102</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>3</number-of-drawing-sheets>
+<number-of-figures>6</number-of-figures>
+</figures>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>11471423</doc-number>
+<date>20060620</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>7757332</doc-number>
+<date>20100720</date>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>12773063</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20100218325</doc-number>
+<kind>A1</kind>
+<date>20100902</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Hale</last-name>
+<first-name>C. David</first-name>
+<address>
+<city>Wilmington</city>
+<state>OH</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Frost Brown Todd LLC</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Electric Eel Manufacturing Co., Inc.</orgname>
+<role>02</role>
+<address>
+<city>Springfield</city>
+<state>OH</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Spisich</last-name>
+<first-name>Mark</first-name>
+<department>3727</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">Disclosed herein is an improved rotary drain cleaning machine having an improved support structure that prevents walking of the machine when in use. The machine is supported upon two rear mounted wheels and a forward pedestal.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="201.34mm" wi="148.84mm" file="US07891038-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="210.90mm" wi="148.76mm" file="US07891038-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="185.00mm" wi="155.11mm" file="US07891038-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="209.89mm" wi="169.76mm" file="US07891038-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">PRIORITY</heading>
+<p id="p-0002" num="0001">This application is a continuation of prior, co-pending application Ser. No. 11/471,423, filed Jun. 20, 2006, and entitled &#x201c;Sewer Cleaning Machine&#x201d;. Application Ser. No. 11/471,423 was issued as U.S. Pat. No. 7,757,332 on Jul. 20, 2010. The disclosure of application Ser. No. 11/471,423 is incorporated by reference herein in its entirety.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">The present invention generally relates to sewer cleaning machines having a belt driven drum, or basket, which typically stores therein, and drives, a pipe cleaning cable or &#x201c;snake.&#x201d; More particularly the present invention teaches a unique and novel support structure for eliminating the classic wobble, or walking tendency, of prior art machines when operating.</p>
+<heading id="h-0003" level="1">PRIOR ART</heading>
+<p id="p-0004" num="0003">Typically prior art sewer cleaning machines comprising a belt driven drum, or basket, which typically stores therein and drives a pipe cleaning cable or &#x201c;snake,&#x201d; employ a mobile support system having a pair of spaced apart rear wheels and a forwardly positioned support generally comprising a lateral, floor engaging bar or a pedestal foot. The prior art wheels typically comprise a center disc having a pneumatic, or semi-pneumatic, elastomeric tire mounted thereon. For example see U.S. Pat. No. 5,309,595 issued to Salecker et al.</p>
+<p id="p-0005" num="0004">During operation, the combined weight of the drum, with approximately 100 to 200 lineal feet of cable wrapped therein is approximately 135 pounds. As the cable is wrapped within the drum it will wrap in an unsymmetrical manner thereby creating an &#x201c;off-center,&#x201d; or eccentric center of mass within the rotatable drum or basket. Thus as the drum, or basket, is rotated, during operation of the machine, the eccentricity of the loaded cable within the drum, or basket, causes the machine to &#x201c;wobble&#x201d; side to side, whereby the machine will &#x201c;walk&#x201d; across its supporting surface.</p>
+<p id="p-0006" num="0005">One attempt to cure the machine walking problem is proposed by Babb et al. in U.S. Pat. No. 5,031,276 wherein Babb et al. suggests use of a retractable wheel stabilizing means that is lowered into place making contact with the machine's supporting surface thereby slightly lifting the wheel above the supporting surface.</p>
+<heading id="h-0004" level="1">BRIEF SUMMARY OF THE INVENTION</heading>
+<p id="p-0007" num="0006">Although the mechanics of the &#x201c;walking&#x201d; problem is not fully understood it is believed that as the eccentric center of cable mass rotates asymmetrically about the drum axis of rotation a centrifugal force, acting away from the axis of the drum rotation is created.</p>
+<p id="p-0008" num="0007">Facing the front of the drain cleaning machine and using the points of the twelve hour clock as a reference, as the eccentric centrifugal force is directed downward at the six o'clock position the centrifugal force is shared by both wheels and the forward surface engaging support. However, as the centrifugal force rotates toward the nine o'clock position the centrifugal force imparts a moment about the approaching wheel upon the machine. The imparted moment now tends to compress the approached pneumatic, or semi-pneumatic, tire and further causes the expansion of the opposite pneumatic, or semi-pneumatic, tire thereby causing the machine to rock, or wobble, sideways and thereby reduces the frictional engagement between the opposite tire and supporting surface. Thus the pneumatic or non-pneumatic tires are assisting the rocking, or wobbly, motion of the machine rather than resisting the motion.</p>
+<p id="p-0009" num="0008">As the eccentric centrifugal force passes the nine o'clock position and approaches the twelve o'clock position, the centrifugal force tends to lift the wheel just passed and compress the opposing wheel. At the twelve o'clock position the eccentric centrifugal force tends to lift both wheels from the supporting surface. It is believed that by this action upon the compressible support wheels that a rocking, &#x201c;wobbling&#x201d; motion is the cause of the machine &#x201c;walking&#x201d; across the supporting surface.</p>
+<p id="p-0010" num="0009">It has been discovered that by replacing the prior art pneumatic and/or semi-pneumatic tires with a relatively incompressible, solid elastomeric tire, the cyclic expansion and compression of the pneumatic, or semi-pneumatic, tires is eliminated and the solid tires now resist the side to side rocking, or &#x201c;wobble,&#x201d; of the machine rather than assisting it thereby preventing the walking phenomena experienced in the prior art machines</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. 1</figref> presents a perspective view of a belt driven, rotating drum, drain cleaning machine embodying the present invention.</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. 2</figref> presents an exploded perspective of the belt driven rotating drum drain cleaning machine shown in <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 3</figref> presents a crossectional view taken along line <b>3</b>-<b>3</b> in <figref idref="DRAWINGS">FIG. 2</figref>.</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 4</figref> presents a crossectional view taken along line <b>4</b>-<b>4</b> in <figref idref="DRAWINGS">FIG. 2</figref>.</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 5</figref> presents a crossectional view taken along line <b>5</b>-<b>5</b> in <figref idref="DRAWINGS">FIG. 5</figref>.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 6</figref> present a crossectional view similar to that of <figref idref="DRAWINGS">FIG. 3</figref> illustrating an alternate embodiment.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIGS. 1 and 2</figref> present a typical belt driven drum-type drain cleaning machine <b>10</b>. Drain cleaning machine <b>10</b> comprises a base frame <b>11</b>. Supporting thereon an electric driving motor <b>12</b>, a cable storage drum <b>14</b> driven by way of an endless drive belt <b>16</b> typically wrapping about the circumference of drum <b>14</b> and drive pulley <b>18</b> attached to the motor output shaft. A safety shield, or cover, typically encloses the motor output shaft and drive pulley <b>18</b> as illustrated.</p>
+<p id="p-0018" num="0017">As illustrated, base frame <b>11</b> includes a pair of rear support wheels <b>25</b>A and <b>25</b>B rotatingly mounted upon axle <b>26</b> affixed to frame <b>11</b> as illustrated. Pedestal <b>42</b> extends vertically and is affixed to base frame <b>11</b>, as illustrated in <figref idref="DRAWINGS">FIGS. 1 and 2</figref>. mounted atop pedestal <b>42</b> is cable feeder head assembly <b>36</b>. Cable <b>38</b> typically extends from drum <b>14</b> through cable guide tube assembly <b>39</b> and feeder head assembly <b>36</b>. Attached to the end of cable <b>38</b> is a typical sewer cleaning claw <b>48</b>.</p>
+<p id="p-0019" num="0018">As illustrated in <figref idref="DRAWINGS">FIG. 3</figref>, unitary wheel assembly <b>25</b> basically comprises a cast aluminum center disc <b>34</b>, having an axially extending hub <b>35</b>, an axially extending tire mounting rim <b>32</b> and a solid elastomeric tire <b>40</b>. Solid tire <b>40</b> is preferably made of Styrene Butadiene Rubber (SBR) compound specifically having a Shore Durometer hardness of 75 and a thickness of one half of an inch adhesively affixed to wheel rim <b>32</b> or heat shrunk thereon.</p>
+<p id="p-0020" num="0019">Alternatively, as illustrated in <figref idref="DRAWINGS">FIG. 6</figref>, wheel assembly <b>25</b> may comprise a cast aluminum center disc <b>55</b>, having an axially extending hub <b>56</b> and an axially extending tire mounting rim <b>52</b> with a multiplicity of integral rim reinforcing spokes or webs <b>54</b>, extending radially from hub <b>56</b> to rim <b>52</b>, and a SBR tire <b>50</b> specifically having a Shore Durometer hardness of 75. Center disc <b>55</b>, rim <b>52</b>, hub <b>56</b> and webs <b>54</b> are preferably cast aluminum.</p>
+<p id="p-0021" num="0020">Referring to <figref idref="DRAWINGS">FIGS. 4 and 5</figref>, pedestal <b>42</b> comprises a &#x201c;U&#x201d; shaped metal channel approximately eleven inches high, having an approximately five inch web and a two and one half inch flange. A metal plate <b>46</b> is welded across the bottom, of the channel, between the opposing flanges. A one inch thick, elastomeric shoe, preferably comprising a black Neoprene rubber composition having a Shore Durometer hardness of 75, shoe <b>44</b> is adhesively affixed to the bottom of pedestal <b>42</b> as illustrated in the figures.</p>
+<p id="p-0022" num="0021">Although the specific hardness of tires <b>40</b> and shoe <b>44</b> is a Shore Durometer of 75, it is believed that an acceptable hardness may lie between a Shore Durometer of 70 to 80.</p>
+<p id="p-0023" num="0022">A parking brake <b>50</b> is further provided, the operational mechanism of which is not shown as it comprises kinematic levers, well known within the industry, to forcibly engage tire <b>40</b> thereby preventing the drain cleaning machine from freely rolling on an uneven surface.</p>
+<p id="p-0024" num="0023">While I have described above the principles of my invention in connection with a specific preferred embodiment it is to be clearly understood that this description is made only by way of example and not as a limitation of the scope of my invention as set forth in the accompanying claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>I claim:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A drain cleaning machine (<b>10</b>) comprising:
+<claim-text>a) a supporting frame (<b>11</b>),</claim-text>
+<claim-text>b) an electric motor (<b>12</b>) affixed to said supporting frame, said motor including a projecting drive shaft from which power may be extracted,</claim-text>
+<claim-text>c) a cable containing enclosure (<b>14</b>), supported upon said supporting frame (<b>11</b>), for rotation about an axis of rotation, said enclosure (<b>14</b>) having axially spaced front and rear portions, said front portion having an opening therethrough,</claim-text>
+<claim-text>d) a drain cleaning cable (<b>38</b>) coiled within said enclosure (<b>14</b>) about said axis of rotation, said cable (<b>38</b>) including an operating end (<b>48</b>) for extending through said opening and into a drain to be cleaned,</claim-text>
+<claim-text>e) a pair of axially opposed support wheels (<b>25</b>A, <b>25</b>B) rotatingly attached to the rear portion of said supporting frame, said wheels comprising:
+<claim-text>1) a wheel hub (<b>56</b>),</claim-text>
+<claim-text>2) a tire mounting rim (<b>32</b>) circumscribing said wheel hub,</claim-text>
+<claim-text>3) a wheel disc (<b>34</b>) extending radially from said wheel hub to the inside surface of said tire mounting rim (<b>32</b>),</claim-text>
+<claim-text>4) a solid elastomeric tire (<b>40</b>) circumscribing and affixed to said tire mounting rim (<b>32</b>), said tire (<b>40</b>) comprising an elastomeric material having a specific Shore Durometer hardness between 70 and 80,</claim-text>
+</claim-text>
+<claim-text>f) a support pedestal (<b>42</b>) affixed to the forward portion of said support frame (<b>11</b>), and</claim-text>
+<claim-text>g) an elastomeric (<b>44</b>) shoe affixed to the bottom of said pedestal (<b>42</b>) for contact with a supporting surface, wherein said shoe (<b>44</b>) comprises a substantially flat, rectangular bottom surface sized and shaped to engage an underlying surface, said shoe (<b>44</b>) comprising an elastomeric material having a specific Shore Durometer hardness between 70 and 80.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The drain cleaning machine as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said wheel disc (<b>34</b>), said tire mounting rim (<b>32</b>), and said wheel hub (<b>35</b>) are one piece cast aluminum.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The drain cleaning machine as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the Shore Durometer Hardness of said tire and shoe is 75.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. In a drain cleaning machine (<b>10</b>) having a supporting frame (<b>11</b>), a cable containing enclosure (<b>14</b>), supported upon said frame, for rotation about an axis of rotation, a drain cleaning cable (<b>38</b>) coiled within said enclosure about said axis of rotation, the improvement comprising:
+<claim-text>a) a pair of axially opposed support wheels (<b>25</b>A, <b>25</b>B) rotatingly attached to the rear portion of said supporting frame, said wheels comprising:
+<claim-text>1) a wheel hub (<b>56</b>),</claim-text>
+<claim-text>2) a tire mounting rim (<b>52</b>) circumscribing said wheel hub,</claim-text>
+<claim-text>3) a wheel disc (<b>55</b>) extending radially from said wheel hub to the inside surface of said tire mounting rim,</claim-text>
+</claim-text>
+<claim-text>b) a solid elastomeric tire (<b>50</b>) affixed to said tire mounting rim, said tire comprising an elastomeric compound having a specific Shore Durometer Hardness of between 70 and 80, wherein said tire comprises a first thickness,</claim-text>
+<claim-text>c) a pedestal (<b>42</b>) affixed to the forward portion of said support frame (<b>11</b>), and</claim-text>
+<claim-text>d) a solid elastomeric shoe (<b>44</b>) affixed to the bottom of said pedestal (<b>42</b>) for contact with a supporting surface, wherein said shoe comprises a substantially flat, rectangular bottom surface sized and shaped to engage an underlying surface, said shoe comprising an elastomeric compound having a Shore Durometer Hardness of between 70 and 80, wherein said shoe comprises a second thickness, wherein the first thickness of said tire is less than the second thickness of said shoe.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The drain cleaning machine as claimed in <claim-ref idref="CLM-00004">claim 4</claim-ref> wherein said wheel disc (<b>55</b>), said tire mounting rim (<b>52</b>), and said wheel hub (<b>56</b>) are one piece cast aluminum.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The drain cleaning machine as claimed in <claim-ref idref="CLM-00004">claim 4</claim-ref> wherein the Shore Durometer Hardness of said tire and shoe is 75.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. A drain cleaning machine comprising:
+<claim-text>a) a supporting frame,</claim-text>
+<claim-text>b) an electric motor affixed to said supporting frame, said motor including a projecting drive shaft from which power may be extracted,</claim-text>
+<claim-text>c) a cable containing enclosure, supported upon said supporting frame, for rotation about an axis of rotation, said enclosure having axially spaced front and rear portions, said front portion having an opening therethrough,</claim-text>
+<claim-text>d) a drain cleaning cable coiled within said enclosure about said axis of rotation, said cable including an operating end for extending through said opening and into a drain to be cleaned,</claim-text>
+<claim-text>e) a pair of axially opposed support wheels rotatingly attached to the rear portion of said supporting frame, said wheels comprising:
+<claim-text>1) a wheel hub,</claim-text>
+<claim-text>2) a tire mounting rim circumscribing said wheel hub,</claim-text>
+<claim-text>3) a wheel disc extending radially from said wheel hub to the inside surface of said tire mounting rim,</claim-text>
+<claim-text>4) a solid elastomeric tire, having a thickness of about one half inch, circumscribing and affixed to said tire mounting rim, wherein said tire comprises a substantially rectangular cross-section, said tire comprising a neoprene rubber compound having a Shore Durometer hardness between 70 and 80,</claim-text>
+</claim-text>
+<claim-text>f) a support pedestal affixed to the forward portion of said support frame, and</claim-text>
+<claim-text>g) an elastomeric shoe, having a thickness of about one inch, affixed to the bottom of said pedestal for contact with a supporting surface, wherein said shoe comprises a substantially flat, rectangular bottom surface sized and shaped to engage an underlying surface, said shoe comprising a neoprene rubber compound having a Shore Durometer hardness between 70 and 80.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The drain cleaning machine as claimed in <claim-ref idref="CLM-00007">claim 7</claim-ref> wherein said wheel disc, said tire mounting rim, and said wheel hub are one piece cast aluminum.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The drain cleaning machine as claimed in <claim-ref idref="CLM-00007">claim 7</claim-ref> wherein the Shore Durometer Hardness of said tire and shoe is 75. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

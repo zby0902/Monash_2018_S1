@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891170-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891170</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>10594478</doc-number>
+<date>20050204</date>
+</document-id>
+</application-reference>
+<us-application-series-code>10</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>DE</country>
+<doc-number>10 2004 015 836</doc-number>
+<date>20040331</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>1180</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>01</class>
+<subclass>N</subclass>
+<main-group>3</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 60285</main-classification>
+<further-classification> 60276</further-classification>
+<further-classification> 60286</further-classification>
+<further-classification> 60299</further-classification>
+<further-classification> 60301</further-classification>
+</classification-national>
+<invention-title id="d2e71">Method and apparatus for controlling an internal combustion engine</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>5359852</doc-number>
+<kind>A</kind>
+<name>Curran et al.</name>
+<date>19941100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60274</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>5544481</doc-number>
+<kind>A</kind>
+<name>Davey et al.</name>
+<date>19960800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60274</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>5901552</doc-number>
+<kind>A</kind>
+<name>Schnaibel et al.</name>
+<date>19990500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>6253542</doc-number>
+<kind>B1</kind>
+<name>Omara et al.</name>
+<date>20010700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>6460328</doc-number>
+<kind>B1</kind>
+<name>Hertzberg</name>
+<date>20021000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60285</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>6477458</doc-number>
+<kind>B1</kind>
+<name>Yasui et al.</name>
+<date>20021100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>701109</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>2004/0016229</doc-number>
+<kind>A1</kind>
+<name>Schnaibel et al.</name>
+<date>20040100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60286</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>2004/0060550</doc-number>
+<kind>A1</kind>
+<name>Wu et al.</name>
+<date>20040400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>123694</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>DE</country>
+<doc-number>43 22 341</doc-number>
+<kind>A1</kind>
+<date>19940100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>DE</country>
+<doc-number>19606652</doc-number>
+<kind>A1</kind>
+<date>19970800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>DE</country>
+<doc-number>100 28 470</doc-number>
+<kind>A1</kind>
+<date>20001200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>DE</country>
+<doc-number>101 03 772</doc-number>
+<kind>A1</kind>
+<date>20020900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>12</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 60274</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 60276</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 60285</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 60299</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 60273</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>3</number-of-drawing-sheets>
+<number-of-figures>4</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20070199304</doc-number>
+<kind>A1</kind>
+<date>20070830</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>R&#xf6;sel</last-name>
+<first-name>Gerd</first-name>
+<address>
+<city>Regensburg</city>
+<country>DE</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>DE</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Zhang</last-name>
+<first-name>Hong</first-name>
+<address>
+<city>Tegernheim</city>
+<country>DE</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>DE</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>King &#x26; Spalding L.L.P.</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Continental Automotive GmbH</orgname>
+<role>03</role>
+<address>
+<city>Hannover</city>
+<country>DE</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Tran</last-name>
+<first-name>Binh Q</first-name>
+<department>3748</department>
+</primary-examiner>
+<assistant-examiner>
+<last-name>Bogue</last-name>
+<first-name>Jesse</first-name>
+</assistant-examiner>
+</examiners>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/EP2005/050492</doc-number>
+<kind>00</kind>
+<date>20050204</date>
+</document-id>
+<us-371c124-date>
+<date>20060928</date>
+</us-371c124-date>
+</pct-or-regional-filing-data>
+<pct-or-regional-publishing-data>
+<document-id>
+<country>WO</country>
+<doc-number>WO2005/095777</doc-number>
+<kind>A </kind>
+<date>20051013</date>
+</document-id>
+</pct-or-regional-publishing-data>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">In order to control an internal combustion engine, a fuel mass that is to be supplied to the respective cylinder is determined according to a load variable. An additional fuel mass to be measured once is determined, when the measuring signal of an oxygen probe arranged downstream from a three-way catalytic converter is characteristic of at least one pre-determined residual oxygen part, according to the course of the measuring signal. A once reduced fuel mass is determined, when the measuring signal is characteristic of at least one pre-determined residual fuel part, according to the course of the measuring signal. A corrected fuel mass to be measured is determined according to the fuel mass to be supplied and optionally less the once reduced fuel mass or the fuel mass to be measured once. An actuating signal for controlling the injection valve is generated according to the corrected fuel mass to be supplied.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="90.51mm" wi="148.51mm" file="US07891170-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="217.09mm" wi="153.08mm" file="US07891170-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="209.47mm" wi="133.60mm" file="US07891170-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="210.57mm" wi="98.81mm" file="US07891170-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">CROSS REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is the US National Stage of International Application No. PCT/EP2005/050492, filed Feb. 4, 2005 and claims the benefit thereof. The International Application claims the benefits of German Patent application No. 10 2004 015 836.3 filed Mar. 31, 2004. All of the applications are incorporated by reference herein in their entirety.</p>
+<heading id="h-0002" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0003" num="0002">The invention relates to a method and apparatus for controlling an internal combustion engine with an intake tract and an exhaust tract incorporating a three-way catalytic converter, and with at least one cylinder which communicates with the intake tract depending on the position of a gas inlet valve and which communicates with the exhaust tract depending on the position of a gas outlet valve. There is additionally assigned to the at least one cylinder an injection valve which meters fuel in. An oxygen sensor is disposed downstream of the three-way catalytic converter in the exhaust tract.</p>
+<heading id="h-0003" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0004" num="0003">For internal combustion engines, increasingly stringent statutory provisions make it necessary on the one hand to reduce as much as possible the raw emissions caused by the combustion of the air/fuel mixture in the relevant cylinder. On the other hand, exhaust after-treatment systems are employed in internal combustion engines to convert the pollutant emissions produced during the combustion process of the air/fuel mixture in the cylinder into harmless substances. Specifically in the case of gasoline engines a three-way catalytic converter located in the engine's exhaust tract is used for this purpose. A high degree of efficiency in the conversion of the pollutant components carbon monoxide, hydrocarbons and nitrogen oxides is only guaranteed in a very narrow window between the stoichiometric air/fuel ratio and approximately 6 tenths of a percent in the direction of excess fuel. To compensate for actual variations in the air/fuel ratio in the relevant cylinder, three-way catalytic converters are coated with a layer of material which can briefly store oxygen and bind or release it as required. Such a coating is known as a wash-coat and consists e.g. of Ce<sub>2</sub>O<sub>3 </sub>(dicerium trioxide). By means of this wash-coat, fluctuations in the air/fuel mixture and the corresponding exhaust gas are thus compensated in the catalytic converter as long as the wash-coat has not yet bound its maximum quantity of oxygen or else no more oxygen is bound in the wash-coat. However, if these limits are exceeded, the efficiency of the three-way catalytic converter is markedly reduced, resulting in increased pollutant emissions from the internal combustion engine.</p>
+<p id="p-0005" num="0004">In the case of closed-loop lambda control incorporating an oxygen sensor disposed upstream of the three-way catalytic converter, it is known to use the measurement signal of an oxygen probe which is disposed downstream of the three-way catalytic converter and generates a binary measurement signal, to adjust a P- or I-component of the control parameters or a delay time of the lambda controller accordingly as a function of the measurement signal of the oxygen sensor downstream of the three-way catalytic converter. This is also known as trim control. However, it has been found that, despite this measure, particularly in the case of aging three-way catalytic converters, undesirably high pollutant emissions of the internal combustion engine may continue to occur.</p>
+<p id="p-0006" num="0005">A method for operating a three-way catalytic converter is known from DE 101 03 772 A1, wherein said catalytic converter includes an oxygen-storing component which has a minimum and maximum filling level for oxygen. The three-way catalytic converter is disposed in an exhaust gas line of an internal combustion engine. The air/fuel mixture supplied to the engine is regulated in such a way that the filling level of the oxygen-storing component in the catalytic converter is kept within a mean setpoint range between the minimum and maximum filling levels. Drifting of the filling level out of the setpoint range is checked in a test phase in such a way that the filling level is increased or lowered relative to the instantaneous initial value by short-term reduction in richness or enrichment of the air/fuel mixture supplied to the engine by a certain amount and immediately returning to the initial value by a short-term opposing change in the air/fuel mixture. In the event of a breakthrough of lean or rich exhaust gas through the catalytic converter during the test phase, the air/fuel mixture is briefly enriched or reduced in richness in the form of a correction step in order to correct the air/fuel mixture supplied to the engine.</p>
+<p id="p-0007" num="0006">U.S. Pat. No. 6,253,542 B1 discloses an air-fuel mixture control in an internal combustion engine which comprises a post-catalyst exhaust gas sensor. If the measurement signal of the post-catalyst exhaust gas sensor is outside a predefined acceptable range, a proportional parameter of the control is set as a function of the measurement signal.</p>
+<p id="p-0008" num="0007">Methods for adjusting an air/fuel ratio in an internal combustion engine are also known from DE 100 28 570 A1 and DE 43 22 341 A1, said methods in each case having oxygen sensors which are disposed downstream of a catalytic converter.</p>
+<heading id="h-0004" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0009" num="0008">The object of the invention is to create a method and an apparatus for controlling an internal combustion engine which ensure low pollutant emissions over a long operating period of the internal combustion engine in a simple manner.</p>
+<p id="p-0010" num="0009">This object is achieved by the features of the independent claims. Advantageous embodiments of the invention are set forth in the dependent claims.</p>
+<p id="p-0011" num="0010">In respect of a first aspect, the invention is characterized by a method and a corresponding apparatus for controlling an internal combustion engine, wherein a mass of fuel to be supplied, which is to be fed to the relevant cylinder, is determined as a function of a load variable. The load variable can be, for example, a mass air flow into the relevant cylinder, but can equally be any other load variable such as a torque to be produced by the internal combustion engine which is determined e.g. as a function of the position of an accelerator pedal or some other means.</p>
+<p id="p-0012" num="0011">An additional mass of fuel to be metered-in on a one-time basis is determined if the measurement signal of a post-cat oxygen sensor disposed downstream of a three-way catalytic converter in an exhaust tract of the internal combustion engine is characteristic of at least one predefined residual oxygen component. The additional mass of fuel is in this case determined as a function of the response of the measurement signal of the post-cat oxygen sensor. A corrected mass of fuel to be supplied is determined as a function of the mass of fuel to be supplied and if necessary the mass of fuel to be metered-in on a one-time basis. An actuating signal for controlling the injection valve is generated as a function of the corrected mass of fuel to be supplied. The one-time mass of fuel to be metered-in can either be metered-in within one operating cycle of a cylinder or else spread over several operating cycles of the cylinder. The invention uses the knowledge that when the measurement signal of the post-cat oxygen sensor is characteristic of at least one predefined residual oxygen component, the three-way catalytic converter essentially cannot store any more additional oxygen and thus during operation of the internal combustion engine in this state, even if a known trim control may be present, a so-called breakthrough of the measurement signal of the post-cat oxygen sensor frequently occurs again and again with associated pollutant emissions, in particular NOX emissions of the internal combustion engine.</p>
+<p id="p-0013" num="0012">By the metering-in of the mass of fuel to be metered-in on a one-time basis, the three-way catalytic converter is placed in a state in which an appropriately predefinable reserve is provided for absorbing or storing oxygen, thereby enabling corresponding fluctuations in the air/fuel ratio in cylinders to be very well compensated by the three-way catalytic converter and quickly ensuring a significant reduction in pollutant emissions.</p>
+<p id="p-0014" num="0013">The mass of fuel to be metered-in on a one-time basis is determined as a function of a gradient of the measurement signal of the post-cat oxygen sensor. The gradient is a very good indicator of the state of the three-way catalytic converter and therefore as to whether a slight or severe oxygen overflow is present. In this way, the stored oxygen remaining in the three-way catalytic converter after metering-in of the mass of fuel to be metered-in on a one-time basis can be very precisely adjusted.</p>
+<p id="p-0015" num="0014">Alternatively or in addition, the mass of fuel to be metered-in on a one-time basis can be determined as a function of a minimum measured value of the measurement signal, while the measurement signal of the post-cat oxygen sensor is characteristic of at least one predefined residual oxygen component. The minimum measured value is a very good indicator of the state of the three-way catalytic converter and therefore as to whether a slight or severe oxygen overflow is present. In this way, the stored oxygen remaining in the three-way catalytic converter after metering-in of the mass of fuel to be metered-in on a one-time basis can be very precisely adjusted.</p>
+<p id="p-0016" num="0015">In this connection the mass of fuel to be metered-in on a one-time basis can be determined in a particularly simple manner if the measurement signal of the post-cat oxygen sensor falls below a specified first threshold value, the specified first threshold value being suitably predefined.</p>
+<p id="p-0017" num="0016">According to an advantageous embodiment of the invention, the mass of fuel to be metered-in on a one-time basis is predefined such that approximately 50% of the oxygen storable in the three-way catalytic converter remains after metering-in of the mass of fuel to be metered-in on a one-time basis. In this way, after metering-in of the mass of fuel to be metered-in on a one-time basis, a maximum variability of the air/fuel ratio in the relevant cylinder is possible without any increase in pollutant emissions downstream of the three-way catalytic converter.</p>
+<p id="p-0018" num="0017">According to another advantageous embodiment of the invention, the mass of fuel to be metered-in on a one-time basis is determined as a function of a minimum measured value of the measurement signal, while the measurement signal of the post-cat oxygen sensor is characteristic of at least one predefined residual oxygen component. The minimum measured value is a very good indicator of the state of a three-way catalytic converter and therefore as to whether a slight or severe oxygen overflow is present. In this way, the stored oxygen remaining in the three-way catalytic converter after metering-in of the mass of fuel to be metered-in on a one-time basis can be very precisely adjusted.</p>
+<p id="p-0019" num="0018">According to a second aspect, the invention is characterized by a method and a corresponding apparatus wherein a mass of fuel to be supplied to the cylinder is determined as a function of a load variable, and a mass of fuel reduced on a one-time basis is determined if the measurement signal of the post-cat oxygen sensor is characteristic of at least one predefined residual fuel component, namely as a function of the response of the measurement signal.</p>
+<p id="p-0020" num="0019">A corrected mass of fuel to be supplied is determined as a function of the mass of fuel to be supplied minus if necessary the mass of fuel reduced on a one-time basis. An actuating signal for controlling the injection valve is generated as a function of the corrected mass of fuel to be supplied, using the knowledge that, when the measurement signal of the post-cat oxygen sensor is characteristic of at least one predefined residual fuel component, the three-way catalytic converter has essentially stored no more oxygen and thus during operation of the internal combustion engine in this state, even if a known trim control may be present, a so-called breakthrough of the measurement signal of the post-cat oxygen sensor frequently occurs again and again with associated pollutant emissions, in particular CO and HC emissions of the internal combustion engine.</p>
+<p id="p-0021" num="0020">By means of the mass of fuel reduced on a one-time basis, with suitable selection of same a corresponding oxygen excess, relative to the stoichiometric air/fuel ratio, can be produced which then results in a corresponding storage of oxygen in the three-way catalytic converter. There is then provided in the three-way catalytic converter a correspondingly predefinable reserve for absorbing or storing oxygen. This enables corresponding fluctuations of the air/fuel ratio in cylinders to be very well compensated by the three-way catalytic converter and a substantial reduction in pollutant emissions is quickly ensured.</p>
+<p id="p-0022" num="0021">The mass of fuel reduced on a one-time basis is determined as a function of the gradient of the measurement signal of the post-cat oxygen sensor.</p>
+<p id="p-0023" num="0022">Alternatively or in addition, the mass of fuel reduced on a one-time basis can be determined as a function of a maximum value of the measurement signal, while the measurement signal of the post-cat oxygen sensor is characteristic of at least one predefined residual oxygen component.</p>
+<p id="p-0024" num="0023">In an advantageous embodiment of the second aspect of the invention, the mass of fuel reduced on a one-time basis is determined if the measurement signal of the post-cat oxygen sensor exceeds a predefined second threshold value. This is particularly simple.</p>
+<p id="p-0025" num="0024">According to a further advantageous embodiment of this aspect of the invention, the mass of fuel reduced on a one-time basis is predefined such that approximately 50% of the oxygen storable in the three-way catalytic converter is stored after a mass of fuel, less the reduced mass of fuel, has been correspondingly metered-in.</p>
+<p id="p-0026" num="0025">According to another advantageous embodiment of the second aspect of the invention, the estimated value of the current oxygen storage capacity of the three-way catalytic converter is determined.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0027" num="0026">Exemplary embodiments of the invention are explained in greater detail below with reference to the accompanying schematic drawings, in which:</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 1</figref> shows an internal combustion engine with a control device,</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 2</figref> shows a block diagram of the control device,</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 3</figref> shows a flowchart of a first part of a program for controlling an internal combustion engine, and</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. 4</figref> shows a second part of a program for controlling the internal combustion engine.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<p id="p-0032" num="0031">In the figures, constructionally or functionally identical elements are denoted by the same reference numerals throughout.</p>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0033" num="0032">An internal combustion engine (<figref idref="DRAWINGS">FIG. 1</figref>) comprises an intake tract <b>1</b>, an engine block <b>2</b>, a cylinder head <b>3</b> and an exhaust tract <b>4</b>. The intake tract <b>4</b> preferably incorporates a throttle valve <b>6</b>, as well as a plenum <b>7</b> and an intake pipe <b>8</b> which leads to a cylinder Z<b>1</b> via an intake duct in the engine block <b>2</b>. The engine block <b>2</b> additionally comprises a crankshaft <b>10</b> which is coupled to the piston <b>12</b> of the cylinder Z<b>1</b> via a connecting rod <b>11</b>.</p>
+<p id="p-0034" num="0033">The cylinder head <b>3</b> contains a valve train comprising a gas inlet valve <b>14</b>, a gas outlet valve <b>15</b> and valve operating mechanisms <b>16</b>, <b>17</b>. The cylinder head <b>3</b> additionally incorporates an injection valve <b>19</b> and a spark plug <b>20</b>. Alternatively, the injection valve <b>19</b> can also be disposed in the intake pipe <b>8</b>.</p>
+<p id="p-0035" num="0034">The exhaust tract <b>4</b> incorporates a catalytic converter <b>22</b> which is implemented as a three-way catalytic converter.</p>
+<p id="p-0036" num="0035">A control device <b>24</b> is provided to which sensors are assigned which detect different measured variables and determine the measured value of the measured variable in each case. As a function of at least one of the measured variables, the control device <b>24</b> determines manipulated variables which are then converted into one or more actuating signals for controlling the actuators by means of corresponding servo drives.</p>
+<p id="p-0037" num="0036">The sensors are a pedal position transducer <b>25</b> which detects a position of the accelerator pedal <b>26</b>, a mass air flow meter <b>28</b> which detects a mass air flow upstream of the throttle valve <b>6</b>, a temperature sensor <b>32</b> which measures the intake air temperature, a crankshaft angle sensor <b>34</b> which detects a crankshaft angle to which a speed N is assigned, a post-cat oxygen sensor <b>37</b> which is disposed downstream of the three-way catalytic converter <b>22</b> and which detects a residual oxygen component of the exhaust gas downstream of the three-way catalytic converter <b>22</b>. Depending on the residual oxygen content, a measurement signal MS which is preferably a voltage signal is fed out to the control device. There is additionally provided a pre-cat oxygen sensor <b>36</b> whose measurement signal is characteristic of an air/fuel ratio in the cylinder Z<b>1</b>. A subset of the abovementioned sensors can be present or additional sensors can also be present depending on the embodiment of the invention.</p>
+<p id="p-0038" num="0037">The actuators are e.g. the throttle valve <b>6</b>, the gas inlet and gas outlet valves <b>14</b>, <b>15</b>, the injection valve <b>19</b> or the spark plug <b>20</b>.</p>
+<p id="p-0039" num="0038">In addition to the cylinder Z<b>1</b>, other cylinders Z<b>2</b> to Z<b>4</b> are also provided to which corresponding actuators are also then assigned.</p>
+<p id="p-0040" num="0039">A block diagram of the control device <b>24</b>, which may also be termed an apparatus for controlling the internal combustion engine, is shown in <figref idref="DRAWINGS">FIG. 2</figref>. The relevant blocks of the control device <b>24</b> in the context of the invention are illustrated in the block diagram.</p>
+<p id="p-0041" num="0040">A dashed-line block B<b>1</b> corresponds to the internal combustion engine according to <figref idref="DRAWINGS">FIG. 1</figref>. From the measurement signal of the pre-cat oxygen sensor <b>36</b> an actual air/fuel ratio LAM_AV in the cylinder Z<b>1</b>-Z<b>4</b> is obtained and fed to a block B<b>2</b>. The pre-cat oxygen sensor <b>36</b> is preferably implemented as a linear lambda probe but can also be implemented as a simple binary lambda probe whose measurement signal has a lean value if the air-fuel ratio in the cylinder Z<b>1</b>-Z<b>4</b> is greater than a stoichiometric air/fuel ratio and whose measurement signal has a rich value if the air/fuel ratio in the cylinder Z<b>1</b>-Z<b>4</b> is less than the stoichiometric air/fuel ratio. To the block B<b>2</b> there is additionally fed a setpoint air/fuel ratio LAM_SP which is to be set in the cylinder Z<b>1</b>-Z<b>4</b>. The setpoint air/fuel ratio LAM_SP preferably has approximately the value of the stoichiometric air/fuel ratio. However, particularly in the case of a linear lambda probe, it can also be provided with forced excitation and thus vary cyclically about the stoichiometric value.</p>
+<p id="p-0042" num="0041">The difference between the setpoint and actual air/fuel ratio LAM_SP, LAM_AV is fed to a closed-loop controller which is implemented in the block B<b>2</b>. The controller has an integral control parameter and a proportional control parameter and is implemented as a lambda controller known to the average person skilled in the art. The manipulated variable of the controller in the block B<b>2</b> is a lambda control factor LAM_FAC.</p>
+<p id="p-0043" num="0042">In a block B<b>4</b>, a mass of fuel to be metered-in MFF is determined as a function of a load variable, preferably a mass of air MAF in the relevant cylinder Z<b>1</b>-Z<b>4</b> of the internal combustion engine and a speed N of the crankshaft. The mass of air MAF in the relevant cylinder Z<b>1</b>-Z<b>4</b> is preferably determined by means of a physical model as a function of the throttle valve position determined by the throttle valve position sensor <b>30</b>, the speed N and possibly other variables such as the intake pipe pressure or the detected mass air flow upstream of the throttle valve.</p>
+<p id="p-0044" num="0043">Alternatively, however, the load variable can also be another variable such as a torque to be produced by the internal combustion engine which is preferably determined as a function of the accelerator pedal position and possibly other variables.</p>
+<p id="p-0045" num="0044">There is additionally provided a block B<b>8</b> to which the measurement signal MS of the post-cat oxygen sensor <b>37</b> is fed. In the block B<b>8</b> there is determined if necessary, as a function of the measurement signal MS of the post-cat oxygen sensor <b>37</b>, a mass of fuel to be metered-in on a one-time basis MFF_ADD or a mass of fuel reduced on a one-time basis MFF_RED. For this purpose there is executed in the block B<b>8</b> a program which will be explained in greater detail below with reference to <figref idref="DRAWINGS">FIGS. 3 and 4</figref>.</p>
+<p id="p-0046" num="0045">A corrected mass of fuel to be metered-in MFF_COR is determined in a block B<b>5</b> by means of a corrected mass of fuel to be supplied MFF_COR by multiplying the lambda control factor LAM_FAC by the sum of or difference between the mass of fuel to be metered-in and the mass of fuel to be metered-in on a one-time basis or rather the mass of fuel reduced on a one-time basis MFF_RED. Alternatively, in the block B<b>5</b>, the product of the mass of fuel to be metered-in MFF and the lambda control factor LAM_FAC can also be added to the mass of fuel to be metered-in on a one-time basis or rather the mass of fuel reduced on a one-time basis MFF_RED.</p>
+<p id="p-0047" num="0046">In a block B<b>6</b>, depending on the corrected mass of fuel to be metered-in MFF_COR, an actuating signal SG for the injection valve(s) <b>19</b> is generated and the injection valves <b>19</b> are actuated accordingly.</p>
+<p id="p-0048" num="0047">The program executed in the block B<b>8</b> is initiated in a step S<b>1</b>, preferably contemporaneously with startup of the internal combustion engine. In step S<b>1</b>, variables are preferably initialized, such as a counter i or an additional counter j. The counters i, j preferably assume the value 1.</p>
+<p id="p-0049" num="0048">In a step S<b>2</b> it is checked whether the current value of the measurement signal MS is less than a predefined first threshold value THD<b>1</b>. The first threshold value THD<b>1</b> is suitably selected such that it is characteristic of at least one predefined residual oxygen component of the exhaust gas in the region of the post-cat oxygen sensor <b>37</b>. A binary lambda probe whose measurement signal is preferably a voltage signal is preferably used as post-cat oxygen sensor. The first threshold value is then e.g. approximately 550 mV.</p>
+<p id="p-0050" num="0049">If the condition of step S<b>2</b> is fulfilled, the current value of the measurement signal MS of the post-cat oxygen sensor <b>37</b> is temporarily stored at a memory location for the measurement signal MS which is determined by the value of the counter i. Then in a step S<b>4</b> the counter i is incremented, preferably by 1.</p>
+<p id="p-0051" num="0050">In a step S<b>6</b> it is checked whether the counter i has a value greater than a minimum counter value i_min of the counter i. The minimum counter value i_min can be e.g. two. If the condition of step S<b>6</b> is not fulfilled, the program remains in a step S<b>5</b> for a predefined wait time T_W before the condition of step S<b>2</b> is rechecked.</p>
+<p id="p-0052" num="0051">If the condition of step S<b>6</b> is fulfilled, in a step S<b>7</b> a gradient GRAD_MS of the measurement signal MS of the post-cat oxygen sensor <b>37</b> is determined as a function of the temporarily stored values of the measurement signal MS. In this context the gradient GRAD_MS is taken to mean the variation over time, i.e. the time derivative of the measurement signal MS. The gradient GRAD_MS can be determined in different ways, for example the gradient may denote the fall over time of the measurement signal MS immediately after the first threshold value THD<b>1</b> has been undershot and therefore be characteristic of the rate at which the measurement signal MS is decreasing. However, it can also be determined as being characteristic of the rate of increase of the value of the measurement signal up to the first threshold value THD<b>1</b>.</p>
+<p id="p-0053" num="0052">In a following step S<b>8</b> a minimum value MIN_MS of the measurement signal MS of the post-cat oxygen sensor <b>37</b> is determined as a function of the temporarily stored values of the measurement signal MS of the post-cat oxygen sensor <b>37</b>.</p>
+<p id="p-0054" num="0053">Then, in a step S<b>10</b>, an estimated value OSC of the current oxygen storage capacity of the three-way catalytic converter <b>22</b> is determined. Alternatively, the estimated value OSC of the current oxygen storage capacity of the three-way catalytic converter <b>22</b> can also be determined by another program which is executed in the control device <b>24</b>, possibly at other times, and merely read in in step S<b>10</b>. The estimated value OSC of the current oxygen storage capacity of the three-way catalytic converter <b>22</b> is preferably determined by means of a physical model. If necessary forced excitation with an increased amplitude takes place for this purpose, particularly in the case of a linear lambda probe as pre-cat oxygen sensor, in order thus to check and determine the oxygen storage capacity of the three-way catalytic converter <b>22</b>.</p>
+<p id="p-0055" num="0054">In a subsequent step S<b>11</b>, the mass of fuel to be metered-in on a one-time basis MFF_ADD is determined as a function of the gradient GRAD_MS of the measurement signal MS of the post-cat oxygen sensor <b>37</b> and/or the minimum value MIN_MS of the measurement signal MS of the post-cat oxygen sensor <b>37</b> and/or the estimated value OSC of the current oxygen storage capacity of the three-way catalytic converter <b>22</b>. Preferably this takes place optionally by means of one or more engine maps determined in advance by experiments or even simulations.</p>
+<p id="p-0056" num="0055">Preferably the mass of fuel to be additionally metered-in MFF_ADD is thus determined in such a way that, after the metering-in of the mass of fuel to be metered-in on a one-time basis MFF_ADD, the oxygen stored in the three-way catalytic converter <b>22</b> is approximately 50% of the maximum amount of oxygen currently storable in the three-way catalytic converter <b>22</b>. In a particularly simple implementation of the program, the mass of fuel to be metered-in on a one-time basis MFF_ADD can also be permanently predefined.</p>
+<p id="p-0057" num="0056">In a subsequent step S<b>12</b>, the counter i is re-initialized with the value 1 and processing is then continued in step S<b>5</b>.</p>
+<p id="p-0058" num="0057">If the condition of step S<b>2</b> is not fulfilled, i.e. the current value of the measurement signal MS is not less than the first predefined threshold value THD<b>1</b>, the counter i is re-initialized with the value 1 in a step S<b>14</b>.</p>
+<p id="p-0059" num="0058">Following step S<b>14</b>, processing is continued in a step S<b>15</b> in which it is checked whether the current measurement signal MS is greater than a predefined second threshold value THD<b>2</b>. The second threshold value THD<b>2</b> is suitably predefined in such a way that if the measurement signal MS of the post-cat oxygen sensor <b>37</b> exceeds the second threshold value THD<b>2</b>, the measurement signal MS is characteristic of at least one predefined residual fuel component of the exhaust gas downstream of the three-way catalytic converter <b>22</b>.</p>
+<p id="p-0060" num="0059">If the condition of step S<b>15</b> is not fulfilled, the counter j is initialized in a step S<b>22</b>, preferably with one. Processing is then continued in the step S<b>5</b>.</p>
+<p id="p-0061" num="0060">If the condition of step S<b>15</b> is fulfilled, in a step S<b>16</b> the current value of the measurement signal MS of the post-cat oxygen sensor <b>37</b> is temporarily stored in a memory location for the measurement signal MS which is determined by the counter j. In a step S<b>18</b> the counter j is then incremented by the value, preferably by the value 1.</p>
+<p id="p-0062" num="0061">In a step S<b>20</b> it is checked whether the counter j is over a minimum count j_min for the counter j, which is e.g. two. If this is not the case, processing is continued in step S<b>5</b>.</p>
+<p id="p-0063" num="0062">However, if the condition of step S<b>20</b> is fulfilled, in a step S<b>21</b> the gradient GRAD_MS of the measurement signal MS is determined according to step S<b>7</b>. It may be particularly advantageous here to determine the rate of increase of the measurement signal MS after the second threshold value THD<b>2</b> has been exceeded.</p>
+<p id="p-0064" num="0063">Then, in a step S<b>23</b>, the maximum value MAX_MS of the measurement signal MS of the post-cat oxygen sensor <b>37</b> is determined according to the procedure of step S<b>8</b>.</p>
+<p id="p-0065" num="0064">In a step S<b>24</b> an estimated value OSC of the current oxygen storage capacity of the three-way catalytic converter <b>22</b> is then determined according to step S<b>10</b>, after which in a step S<b>26</b> a mass of fuel reduced on a one-time basis MFF_RED is determined as a function of the gradient GRAD_MS of the measurement signal MS of the post-cat oxygen sensor <b>37</b> and/or the maximum value MAX_MS of the measurement signal MS and/or the estimated value OSC of the current oxygen storage capacity of the three-way catalytic converter <b>22</b>. This takes place analogously to step S<b>11</b>, preferably by means of one or more engine maps and preferably in such a way that, through the one-time reduction of the mass of fuel to be metered-in, after the one-time reduction of the mass of fuel to be metered-in has taken place, the three-way catalytic converter contains approximately 50% of the maximum amount of oxygen that can be stored there. Alternatively, in step S<b>26</b>, the mass of fuel reduced on a one-time basis MFF_RED can be permanently predefined.</p>
+<p id="p-0066" num="0065">In a step S<b>27</b> the counter j is re-initialized with the value 1. Processing is then continued in step S<b>5</b>.</p>
+<p id="p-0067" num="0066">The mass of fuel to be metered-in on a one-time basis MFF_ADD can be metered in either during one operating cycle of the relevant cylinder Z<b>1</b>-Z<b>4</b> in addition to the mass of fuel MFF or also distributed over several operating cycles of the cylinder Z<b>1</b>-Z<b>4</b>. Alternatively, moreover, in block B<b>5</b> the mass of fuel to be metered-in MFF can also merely be multiplied by the lambda control factor LAM_FAC and then, if necessary, the mass of fuel to be metered-in on a one-time basis MFF can be added to this product or the mass of fuel to be reduced on a one-time basis MFF_RED can be subtracted. The mass of fuel reduced on a one-time basis MFF_RED can also be set within one operating cycle of the relevant cylinder Z<b>1</b>-Z<b>4</b> or over several operating cycles. In addition, and this also applies to the mass of fuel to be metered-in on a one-time basis MFF_ADD, it can also be metered in or reduced in a distributed manner over a plurality of injection valves assigned to different cylinders Z<b>1</b>-Z<b>4</b>.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A method for controlling an internal combustion engine having an intake tract, an exhaust tract incorporating a three-way catalytic converter, and a cylinder connected to the intake tract via a gas inlet valve and connected to the exhaust tract via a gas outlet valve, an injection valve that meters-in fuel to the cylinder, and a post-cat oxygen sensor disposed in the exhaust tract downstream of the three-way catalytic converter, comprising:
+<claim-text>determining a mass of fuel supplied to the cylinder as a function of a load variable;</claim-text>
+<claim-text>measuring a post-catalytic converter exhaust gas by the post-cat oxygen sensor;</claim-text>
+<claim-text>generating a post-cat oxygen sensor measurement signal;</claim-text>
+<claim-text>comparing the post-cat oxygen sensor measurement signal with a characteristic post-cat oxygen sensor measurement signal representing a predefined residual oxygen component;</claim-text>
+<claim-text>determining if the generated post-cat oxygen sensor measurement signal is representative of the characteristic post-cat oxygen sensor measurement signal based on the comparison;</claim-text>
+<claim-text>if the generated post-cat oxygen sensor measurement signal is determined to be representative of the characteristic post-cat oxygen sensor measurement signal:
+<claim-text>calculating a gradient of the post-cat oxygen sensor measurement signal based on at least two values of the post-cat oxygen sensor measurement signal; and</claim-text>
+<claim-text>determining an individual mass of fuel metered-in to the cylinder as a function of the calculated gradient of the at least two values of the post-cat oxygen sensor measurement signal;</claim-text>
+</claim-text>
+<claim-text>determining a corrected mass of fuel supplied as a function of:
+<claim-text>the mass of fuel supplied, and</claim-text>
+<claim-text>the individual mass of fuel metered-in if the generated post-cat oxygen sensor measurement signal is determined to be representative of the characteristic post-cat oxygen sensor measurement signal: and</claim-text>
+</claim-text>
+<claim-text>generating an actuating signal that controls the injection valve as a function of the corrected mass of fuel supplied.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The method as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the individual mass of fuel metered-in to the cylinder is determined if the post-cat oxygen sensor measurement signal is below a predefined first threshold.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The method as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the individual mass of fuel metered-in to the cylinder is predefined such that approximately 50% of the oxygen storable in the three-way catalytic converter remains on the three-way catalytic converter.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The method as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, the individual mass of fuel metered-in to the cylinder is determined as a function of an estimated value of the current oxygen storage capacity of the three-way catalytic converter.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The method as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, herein the internal combustion engine comprises a plurality of cylinders.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The method as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the corrected mass of fuel supplied is determined as a function of the mass of fuel supplied and the individual mass of fuel metered-in.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. A method for controlling an internal combustion engine having an intake tract, an exhaust tract incorporating a three-way catalytic converter, and at least one cylinder connected to the intake tract via a gas inlet valve and connected to the exhaust tract via a gas outlet valve, an injection valve that meters-in fuel to the relevant cylinder, and a post-cat oxygen sensor disposed in the exhaust tract downstream of the three-way catalytic converter, comprising:
+<claim-text>determining a mass of fuel supplied to the relevant cylinder as a function of a load variable;</claim-text>
+<claim-text>determining if a measurement signal of the post-cat oxygen sensor is characteristic of a post-cat oxygen sensor measurement signal response;</claim-text>
+<claim-text>if the post-cat oxygen sensor measurement signal is determined to be characteristic of a predefined residual fuel component:
+<claim-text>calculating a gradient of the post-cat oxygen sensor measurement signal based on at least two values of the post-cat oxygen sensor measurement signal; and</claim-text>
+<claim-text>determining an individual mass of fuel reduced as a function of the calculated gradient of the at least two values of the post-cat oxygen sensor measurement signal if the post-cat oxygen sensor measurement signal is determined to be characteristic of a predefined residual fuel component;</claim-text>
+</claim-text>
+<claim-text>determining a corrected mass of fuel supplied as a function of the mass of fuel supplied and, if the post-cat oxygen sensor measurement signal is determined to be characteristic of a predefined post-cat oxygen sensor measurement signal response, the individual mass of fuel to be reduced; and</claim-text>
+<claim-text>generating an actuation signal that controls the injection valve as a function of the corrected mass of fuel supplied.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The method as claimed in <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the individual mass of fuel reduced is determined if the post-cat oxygen sensor measurement signal exceeds a predefined second threshold value.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The method as claimed in <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the individual mass of fuel reduced is predefined such that approximately 50% of the oxygen storable in the three-way catalytic converter is stored after the reduced mass of fuel has been metered-in to the cylinder.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The method as claimed in <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the individual mass of fuel reduced is determined as a function of an estimated value of the current oxygen storage capacity of the three-way catalytic converter.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. A system for controlling an internal combustion engine having an intake tract, an exhaust tract incorporating a three-way catalytic converter, and at least one cylinder connected to the intake tract via a gas inlet valve and connected to the exhaust tract via a gas outlet valve, an injection valve that meters-in fuel to an associated cylinder, comprising:
+<claim-text>a post-cat oxygen sensor arranged in the exhaust tract downstream of the three-way catalytic converter that generates a post-cat oxygen sensor signal representative of a residual oxygen component of a post-cat exhaust gas of the engine; and</claim-text>
+<claim-text>a controller that:
+<claim-text>determines a mass of fuel to be supplied to the associated cylinder as a function of a load variable,</claim-text>
+<claim-text>measures a post-catalytic converter exhaust gas by the post-cat oxygen sensor,</claim-text>
+<claim-text>generates a post-cat oxygen sensor measurement signal,</claim-text>
+<claim-text>compares the post-cat oxygen sensor measurement signal with a characteristic post-cat oxygen sensor measurement signal representing a predefined residual oxygen component,</claim-text>
+<claim-text>determines if the generated post-cat oxygen sensor measurement signal is representative of the characteristic post-cat oxygen sensor measurement signal based on the comparison,</claim-text>
+<claim-text>if the generated post-cat oxygen sensor measurement signal is determined to be representative of the characteristic post-cat oxygen sensor measurement signal:
+<claim-text>calculates a gradient of the post-cat oxygen sensor measurement signal based on at least two values of the post-cat oxygen sensor measurement signal; and</claim-text>
+<claim-text>determines an individual mass of fuel metered-in to the cylinder as a function of the calculated gradient of the at least two values of the post-cat oxygen sensor measurement signal,</claim-text>
+</claim-text>
+<claim-text>determines a corrected mass of fuel supplied as a function of:
+<claim-text>the mass of fuel supplied, and</claim-text>
+<claim-text>the individual mass of fuel metered-in if the generated post-cat oxygen sensor measurement signal is determined to be representative of the characteristic post-cat oxygen sensor measurement signal, and</claim-text>
+</claim-text>
+<claim-text>generates an actuating signal that controls the injection valve as a function of the corrected mass of fuel supplied.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The system as claimed in <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the corrected mass of fuel supplied is determined as a function of the mass of fuel supplied and the individual mass of fuel metered-in. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

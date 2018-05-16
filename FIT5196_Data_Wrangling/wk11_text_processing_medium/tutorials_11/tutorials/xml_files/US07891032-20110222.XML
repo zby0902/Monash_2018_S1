@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891032-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891032</doc-number>
+<kind>B1</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12291775</doc-number>
+<date>20081113</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>105</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>47</class>
+<subclass>G</subclass>
+<main-group>9</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>  5490</main-classification>
+<further-classification>  5491</further-classification>
+<further-classification>  5430</further-classification>
+</classification-national>
+<invention-title id="d2e53">Pillow top transformable into garment</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>5515545</doc-number>
+<kind>A</kind>
+<name>Becton</name>
+<date>19960500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2113</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>13</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>  5490-491</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  5652</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  5430</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  5432</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> D6596-599</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> D6601</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>5</number-of-drawing-sheets>
+<number-of-figures>9</number-of-figures>
+</figures>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60996439</doc-number>
+<date>20071119</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Ryan</last-name>
+<first-name>Daria Ann</first-name>
+<address>
+<street>2695 Columbia Trail</street>
+<city>Loveland</city>
+<state>OH</state>
+<postcode>45140</postcode>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Khosla</last-name>
+<first-name>P. Michael</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<examiners>
+<primary-examiner>
+<last-name>Conley</last-name>
+<first-name>Frederick</first-name>
+<department>3673</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A usable stuffable pillow top article formed into shape out of a wearable garment, and transformable back into the wearable garment, is disclosed. The pillow top includes removable joining means. The removable joining means are removed by user when needed, to transform the pillow top back into the wearable garment. The removable joining means define the shape of the pillow top. Optionally, the removable joining means include a removable stitch.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="112.52mm" wi="322.58mm" file="US07891032-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="243.92mm" wi="166.20mm" file="US07891032-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="236.14mm" wi="168.83mm" file="US07891032-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="227.75mm" wi="130.56mm" file="US07891032-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="193.12mm" wi="150.62mm" file="US07891032-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="109.64mm" wi="135.89mm" file="US07891032-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0002" num="0001">The present invention relates to a pillow top transformable into a garment. More particularly, the invention is directed to a pillow top having removable joining means to transform said pillow top into a wearable garment by user. Another aspect of the invention includes a method of transforming a pillow top into a wearable garment using removable joining means to transform said pillow top to wearable garment, such removable joining means including a single-pull removable stitch. Yet another aspect of the invention includes a method of transforming a garment into a pillow top and re-transforming said pillow top back into a wearable garment, using removable joining means, such means including a single-pull removable stitch.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">Wearable garments transformable into other wearable garments or other non-wearable articles, are well known in the art of transformable articles. For example, wearable garments transformable into pillow cases are well known. More specifically, T-shirts transformable to pillow cases are well known.</p>
+<p id="p-0004" num="0003">The inventor of the present invention has discovered that while there are wearable garments that can be transformed into some other garment, whether wearable or non-wearable, such as a T-shirt transformable into a hat, or a T-shirt transformable into a pillow, these garments require the application of additional means by the user, such as the implementation or addition of a stitch, or some other non-removable joining means, in order to convert the garment from one form to another. What has not been known heretofore, is an article such as a pillow top, which is formed into the shape of a pillow by taking a wearable garment and including a removable joining means, and which the pillow top is transformable back into the wearable garment, such as a T-shirt, by removal of said removable joining means. There has consequently been a need in the marketplace of an article such as the pillow top formed by removable joining means, such as a chain stitch, which can be easily converted by the user into a wearable garment such as, but not limited to, a T-shirt, by an easy removal of the removable joining means to convert the pillow top into a wearable T-shirt.</p>
+<p id="p-0005" num="0004">The inventor of the present invention has provided an effective method of transforming a pillow top into a wearable garment by forming the pillow out of a wearable garment and by including removable joining means such as a chain stitch, which can be removed in a single pull to transform the pillow top into a wearable garment, such as a T-shirt.</p>
+<p id="p-0006" num="0005">The inventor of the present invention has also provided a usable, stuffable pillow top formed into shape by removable joining means out of a wearable garment, said removable joining means being removed by user when needed, to transform the pillow top into a wearable garment, such as a T-shirt.</p>
+<heading id="h-0003" level="1">BACKGROUND ART</heading>
+<p id="p-0007" num="0006">U.S. Pat. No. 5,515,545, issued on May 14, 1996 to Becton, discloses a pillow tee-shirt, where in the tee-shirt is transformed into a pillowcase. This invention is different from the pillow top transformable into a garment because it does not encase a pillow that is sewn on all sides to effectively function as a stuffed or stuffable pillow, nor does it transform into a wearable garment; and</p>
+<p id="p-0008" num="0007">U.S. Pat. No. 6,336,226 B1, issued on Jan. 8, 2002 to Garcia, discloses a convertible garment and method for providing pants that may be converted into a satchel, backpack, gun case or pillow. This invention is different from the pillow top transformable into a garment because it does not encase a pillow that is sewn on all sides to effectively function as a stuffed or stuffable pillow, nor does it transform into a wearable garment, nor does it disclose a wearable garment that is transformable into a pillow by removable joining means, and then transformable back into said wearable garment.</p>
+<p id="p-0009" num="0008">U.S. Pat. No. 7,165,271 B2, issued on Jan. 23, 2007 to Elen, discloses a transformable garment that can be folded within itself to transform it into a different shape for use as a pillow. The garment, a jacket, bears an integral back pack which can be used while the garment is being worn and can be transformed into either the pillow shape or into a wearable back pack. This article does not turn into a pillow, nor does it include removable joining means for turning the garment into a pillow, said removable means being removable to transform the pillow into the garment. This invention is different from the pillow top transformable into garment because it does not disclose a method of converting a T-shirt into a usable, stuffable pillow by including removable joining means, which can be easily removed by a single pull of the user's hand to transform back into a wearable T-shirt.</p>
+<heading id="h-0004" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0010" num="0009">The invention meets the needs identified above by providing a usable, stuffable pillow top formed into shape out of a wearable garment, the pillow top being transformable into the wearable garment. In one aspect of the present invention, a usable stuffable pillow top article is formed into shape, out of a wearable garment, and is transformable back into the wearable garment. The pillow top includes removable joining means. The removable joining means are removed by user when needed, to transform the pillow top back into the wearable garment. The removable joining means define the shape of the pillow top. The removable joining means include a starting point and an ending point. The removable joining means further include a continuous extension of the removable joining means between the starting point and the ending point forming the shape of the pillow. The removable joining means further include a gap between the starting point and the ending point to facilitate the garment to be turned inside out to form a pillow cavity. The removable joining means include removable closing means located in the gap to close the pillow cavity. Optionally, the removable joining means include a removable stitch. Preferably, the removable joining means include a chain stitch openable by pulling at ending point of stitch.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENTS</heading>
+<p id="p-0011" num="0010">In the preferred embodiment of the present invention, a usable, stuffable pillow top is formed into shape out of a wearable garment, and the pillow top is transformable into the wearable garment. The pillow top includes removable joining means. The removable joining means are removed by user when needed, to transform the pillow top back into the wearable garment. The removable joining means define the shape of the pillow top. The removable joining means include a starting point and an ending point. The removable joining means further include a continuous extension of the removable joining means between the starting point and the ending point forming the shape of the pillow. The removable joining means further include a gap between the starting point and the ending point to facilitate the garment to be turned inside out to form a pillow cavity. The removable joining means include removable closing means located in the gap to close the pillow cavity.</p>
+<p id="p-0012" num="0011">In the preferred embodiment of the present invention, the removable joining means include a removable stitch.</p>
+<p id="p-0013" num="0012">In the preferred embodiment, the removable stitch has a starting point and an ending point, a continuous extension of the removable joining means between the starting point and the ending point forming the shape of the pillow, a gap between the starting point and the ending point to facilitate said garment to be turned inside out to form a pillow cavity; and removable closing means to close the pillow cavity.</p>
+<p id="p-0014" num="0013">In the preferred mode, a pillow is formed from a T-shirt including an upper body portion, a lower body portion, a middle torso portion, a pair of sleeves extending from the upper body portion, a removable stitch located in the middle torso portion, the removable stitch forming the shape of the pillow between the starting point and the ending point of the removable stitch into a square, circular, rectangular, trapezoidal or any other geometrical shape to form a pillow cavity; and after the garment is turned inside out and the pillow cavity is stuffed with a stuffing, a removable stitch is applied to close the pillow cavity and to form a usable pillow.</p>
+<p id="p-0015" num="0014">In yet another preferred mode, the pillow is transformed back into a T-shirt by removing the stitching located at the bottom of the pillow where the filler and/or pillow form was inserted which closes the pillow cavity, and the stuffing is removed, and the pillow is turned inside out to reveal the shape of the T-shirt, then the removable stitch in the square, circular, rectangular, trapezoidal or any other geometrical shape is removed in a single pull after cutting into the first stitch with a cutting implement to revert the pillow back into the T-shirt which can be worn after turning inside out.</p>
+<heading id="h-0006" level="1">Removable Stitch</heading>
+<p id="p-0016" num="0015">One essential aspect of the invention involves the use of a removable stitch. One embodiment of a removable stitch is a chain stitch. A chain stitch is a sewing technique in which a series of looped stitches form a chain-like pattern. A chain stitch is preferred because of the ease by which it can be unraveled when a user pulls on a specific thread and clips into the first stitch. Other examples of removable stitches are the running stitch, basting stitch, and a blind hem stitch. The running stitch and basting stitch are examples of straight stitches but their ease at removing only comes with a longer stitch length. The blind hem stitch is another removable stitch but it is used to hem pants, skirts, or draperies or any other article that needs a hem. A blind stitch is another embodiment of a removable stitch that can be incorporated into the closing of the cavity. The preferred embodiment is a removable hand stitch.</p>
+<p id="p-0017" num="0016">Optionally, the garment can include a sweatshirt. The pillow top can also include a message, a gift or cash. The shape of the pillow top can be round, square, rectangular or any such desirable geometric shape. This invention can also include a logo on the T-shirt, such as of a university or an association.</p>
+<heading id="h-0007" level="1">A Specific Preferred Embodiment</heading>
+<p id="p-0018" num="0017">In one specific preferred embodiment, a T-shirt bearing the university or sports team logo is turned inside out before the removable stitch is applied in a square shape in the torso portion of the T-shirt, leaving a small gap in the range of 5 to 10 inches, preferably 6 inches, at the bottom of the torso portion of the T-shirt. The T-shirt is turned inside out to form the shape of a pillow, which is stuffed with stuffing or a pillow form. Also added to the inside of the pillow can be a message small gift or cash for a birthday gift or emergency college money. The small gap is then closed with a removable stitch, preferably a hand stitch. The pillow is ready for use. The pillow can be manufactured in this manner and marketed commercially as a transformable pillow that converts into a T-shirt. When the user decides that it is time to convert the pillow into a T-shirt, the removable stitch closing the gap is removed, the stuffing is pulled out of the pillow cavity, the pillow is turned inside out to reveal the removable stitch used to form the shape of the pillow, the removable stitch is pulled out in one yank of the thread after cutting into the first stitch at the end of the removable stitch to result in a wearable T-shirt that can be turned inside out and worn by the user.</p>
+<heading id="h-0008" level="1">DESCRIPTION OF THE DRAWINGS SHOWING THE PREFERRED EMBODIMENT</heading>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 1</figref> is the front of a pull over the head garment such as a T-shirt;</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 2</figref> is the back of a pull over the head garment;</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 3</figref> is the front of a pull over the head garment turned inside out with a removable stitch sewn in the torso portion of the garment in a square pattern to form the shape of a pillow, the removable chain stitch starting with a starting point and ending with an ending point, leaving a gap at the bottom for an opening of a pillow cavity into which stuffing and/or other items can be inserted;</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 4</figref> is the back of a pull over the head garment turned inside out with the removable stitch sewn in the torso portion of the garment in a square pattern to form the shape of a pillow, the removable stitch starting with a starting point and ending with an ending point, leaving a gap at the bottom for an opening of a pillow cavity into which stuffing and/or other items can be inserted;</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 5</figref> is the pull over the head garment with the arms and the bottom of the garment folded in;</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 6</figref> is the pull over the head garment turned right side out;</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 7</figref> is the bottom view of the pull over the head garment wherein the pillow cavity has been stuffed with a pillow filling or a pillow form;</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 8</figref> is the bottom view of the pull over the head garment wherein the gap in the pillow cavity has been closed with a removable stitch;</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 9</figref> is the pillow top transformable into garment by reversing the steps described in <figref idref="DRAWINGS">FIGS. 1-9</figref>.</p>
+<heading id="h-0009" level="1">DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0028" num="0027">Referring to <figref idref="DRAWINGS">FIG. 1</figref>, in the preferred mode, a pillow is formed from a T-shirt including an upper body portion <b>1</b>, a lower body portion <b>3</b>, a middle torso portion <b>2</b>.</p>
+<p id="p-0029" num="0028">Referring to <figref idref="DRAWINGS">FIG. 2</figref>, in the preferred mode, a pillow is formed from a T-shirt including a pair of sleeves <b>4</b> extending from the upper body portion <b>1</b>.</p>
+<p id="p-0030" num="0029">Referring to <figref idref="DRAWINGS">FIG. 3</figref>, in the preferred mode, a pillow is formed from a T-shirt including a removable stitch <b>5</b> located in the middle torso portion <b>3</b>.</p>
+<p id="p-0031" num="0030">Referring to <figref idref="DRAWINGS">FIG. 4</figref>, in the preferred mode, a pillow is formed from a T-shirt including the removable stitch <b>5</b> forming the shape of the pillow between the starting point <b>51</b> and the ending point <b>52</b> of the removable stitch <b>5</b> into a square, circular, rectangular, trapezoidal or any other geometrical shape to form a pillow cavity. A gap <b>53</b> is formed between starting point <b>51</b> and ending point <b>52</b>.</p>
+<p id="p-0032" num="0031">Referring to <figref idref="DRAWINGS">FIG. 5</figref> and <figref idref="DRAWINGS">FIG. 6</figref>, in the preferred mode, a pillow is formed from a T-shirt after the garment is turned inside out to form a pillow shape <b>6</b>.</p>
+<p id="p-0033" num="0032">Referring to <figref idref="DRAWINGS">FIG. 7</figref>, in the preferred mode, a pillow has a pillow cavity <b>8</b>, said pillow cavity is stuffed with a stuffing.</p>
+<p id="p-0034" num="0033">Referring to <figref idref="DRAWINGS">FIG. 8</figref> and <figref idref="DRAWINGS">FIG. 9</figref>, in the preferred mode, a removable stitch <b>9</b> located in gap <b>53</b> is applied to close the pillow cavity and to form a usable pillow <b>10</b>.</p>
+<p id="p-0035" num="0034">Accordingly, having thus described the invention in detail, it will be obvious to those skilled in the art that various changes may be made without departing from the scope of the invention and the invention is not to be considered limited to what is described in the specification.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A usable stuffable pillow top article formed into shape out of a wearable garment, and being transformable back into said wearable garment, comprising:
+<claim-text>removable joining means, said removable joining means being removed by user when needed, to transform said usable stuffable pillow top article back into said wearable garment, said removable joining means defining the shape of said usable stuffable pillow top article, said removable joining means including:
+<claim-text>a starting point and an ending point;</claim-text>
+<claim-text>a continuous extension of said removable joining means between said starting point and said ending point forming the shape of a pillow;</claim-text>
+<claim-text>a gap between said starting point and said ending point to facilitate said garment to be turned inside out to form a pillow cavity; and</claim-text>
+<claim-text>removable closing means located in said gap to close said pillow cavity;</claim-text>
+<claim-text>wherein said pillow is formed from a T-shirt including:</claim-text>
+</claim-text>
+<claim-text>an upper body portion;</claim-text>
+<claim-text>a lower body portion;</claim-text>
+<claim-text>a middle torso portion;</claim-text>
+<claim-text>a pair of sleeves extending from the upper body portion;</claim-text>
+<claim-text>removable joining means located in said middle torso portion, said removable joining means forming the shape of said pillow between said starting point and said ending point to form a pillow cavity; and</claim-text>
+<claim-text>removable closing means between said gap after said garment is turned inside out and stuffed with a stuffing to close said pillow cavity.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The usable stuffable pillow top article according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said removable joining means include a removable stitch.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The usable stuffable pillow top article according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said removable joining means include a removable stitch formed continuously from said starting point to said ending point, said removable stitch being removable by a single pull of a thread of said removable stitch at said ending point.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The usable stuffable pillow top article according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein said removable stitch is a chain stitch.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The usable stuffable pillow top article according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein said removable closing means is a stitch selected from the group consisting of hand stitch, chain stitch, running stitch, basting stitch, and blind hem stitch.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The usable stuffable pillow top article according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said gap is in the range of 4 inches to 10 inches.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. A method of forming a usable stuffable pillow top article formed into shape out of a wearable garment, and being transformable back into said wearable garment, comprising the steps of:
+<claim-text>applying removable joining means to said wearable garment, said removable joining means being removed by user when needed, to transform said usable stuffable pillow top article back into said wearable garment, said removable joining means defining the shape of said usable stuffable pillow top article, said removable joining means including:
+<claim-text>a starting point and an ending point;</claim-text>
+<claim-text>a continuous extension of said removable joining means between said starting point and said ending point forming the shape of a pillow;</claim-text>
+<claim-text>a gap between said starting point and said ending point to facilitate said garment to be turned inside out to form a pillow cavity; and</claim-text>
+<claim-text>removable closing means located in said gap to close said pillow cavity;</claim-text>
+</claim-text>
+<claim-text>turning said garment inside out to form the shape of said pillow;</claim-text>
+<claim-text>stuffing said pillow with a stuffing material in said pillow cavity; and</claim-text>
+<claim-text>applying said closing means to close said pillow cavity.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The method according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein said removable joining means include a removable stitch formed continuously from said starting point to said ending point, said removable stitch being removable by a single pull of a thread of said removable stitch at said ending point.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The method according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, further including the steps of:
+<claim-text>removing said removable closing means;</claim-text>
+<claim-text>removing said stuffing;</claim-text>
+<claim-text>removing said removable joining means;</claim-text>
+<claim-text>turning said garment inside out to transform said usable stuffable pillow top article into said wearable garment.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The method according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein said removable joining means is a removable stitch.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The method according to <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein said removable stitch is a chain stitch.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The method according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein said removable closing means is a stitch selected from the group consisting of hand stitch, chain stitch, running stitch, basting stitch, and blind hem stitch.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The method according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein said gap is in the range of 4 inches to 10 inches. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

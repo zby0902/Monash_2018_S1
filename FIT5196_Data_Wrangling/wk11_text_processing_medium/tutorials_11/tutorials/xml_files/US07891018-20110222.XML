@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891018-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891018</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11209728</doc-number>
+<date>20050824</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>41</class>
+<subclass>D</subclass>
+<main-group>13</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>  2 24</main-classification>
+</classification-national>
+<invention-title id="d2e43">Knee protective device</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>4561124</doc-number>
+<kind>A</kind>
+<name>Thompson</name>
+<date>19851200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>4831666</doc-number>
+<kind>A</kind>
+<name>Denman</name>
+<date>19890500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2 23</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>4920577</doc-number>
+<kind>A</kind>
+<name>Scharf</name>
+<date>19900500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2 24</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>5105473</doc-number>
+<kind>A</kind>
+<name>Valtakari</name>
+<date>19920400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2461</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>5134726</doc-number>
+<kind>A</kind>
+<name>Ross</name>
+<date>19920800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2465</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D338281</doc-number>
+<kind>S</kind>
+<name>Bottorff et al.</name>
+<date>19930800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>5611081</doc-number>
+<kind>A</kind>
+<name>Torres</name>
+<date>19970300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>5729832</doc-number>
+<kind>A</kind>
+<name>Grilliot et al.</name>
+<date>19980300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2 23</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>5845333</doc-number>
+<kind>A</kind>
+<name>Crampton</name>
+<date>19981200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2 24</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>6115838</doc-number>
+<kind>A</kind>
+<name>Scholtis et al.</name>
+<date>20000900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2 46</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>6332224</doc-number>
+<kind>B1</kind>
+<name>Walker et al.</name>
+<date>20011200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>6805957</doc-number>
+<kind>B1</kind>
+<name>Santos et al.</name>
+<date>20041000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>428400</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>7089598</doc-number>
+<kind>B2</kind>
+<name>Sallas et al.</name>
+<date>20060800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2 79</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>3</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>  2 22</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2 23</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2 24</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2455</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2 16</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2 62</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2911</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>128881</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>128882</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>602  5</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>602 16</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>602 20</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>602 23</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>602 26</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>602 62</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>5</number-of-drawing-sheets>
+<number-of-figures>5</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20070044195</doc-number>
+<kind>A1</kind>
+<date>20070301</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Atkinson</last-name>
+<first-name>Tammany</first-name>
+<address>
+<street>1154 Burrowhill Lane</street>
+<city>Mississauga, Ontario</city>
+<postcode>L5H 4M7</postcode>
+<country>CA</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>CA</country>
+</residence>
+</applicant>
+</applicants>
+</parties>
+<examiners>
+<primary-examiner>
+<last-name>Patel</last-name>
+<first-name>Tejash</first-name>
+<department>3765</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A knee protective device for garments comprising of at least one pocket in the vicinity of the knees having an opening for receiving an insert for protecting the wearer's knees.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="215.39mm" wi="207.94mm" file="US07891018-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="234.70mm" wi="209.72mm" file="US07891018-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="215.65mm" wi="193.38mm" file="US07891018-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="209.47mm" wi="194.39mm" file="US07891018-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="202.44mm" wi="196.85mm" file="US07891018-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="149.27mm" wi="132.33mm" file="US07891018-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">FIELD OF INVENTION</heading>
+<p id="p-0002" num="0001">This invention relates generally to knee protectors and particularly relates to knee protective devices that are incorporated into clothing items or garments for infants. This invention further relates to knee protective devices that are incorporated in the vicinity of the knee portion of shorts, pants or socks for protecting knees.</p>
+<heading id="h-0002" level="1">BACKGROUND ART</heading>
+<p id="p-0003" num="0002">Knee protectors or knee protective devices are well known in the prior art and have been utilized in different contexts.</p>
+<p id="p-0004" num="0003">For example, tradesmen such as electricians, floor tilers, construction workers often use knee pads or knee protectors when they are engaged in activities which require kneeling for extended periods of time. Without the knee protection the kneeling can result in much discomfort and even injury.</p>
+<p id="p-0005" num="0004">U.S. Pat. No. 5,611,081 relates to work pants with knee and shin protectors, whereby the protectors are padding which is provided to protect both the knees and the shins of the worker. The protective padding for the knees is received by a pocket in the work pants that is separate from the pocket which receives the shin protective padding.</p>
+<p id="p-0006" num="0005">Another type of knee padding for work pants is shown in U.S. Pat. No. 4,561,124. This knee protector is inserted into a pocket in the legs of work pants and is a V-shaped cross-sectional configuration for improved appearance. The pocket is stitched to the pant leg.</p>
+<p id="p-0007" num="0006">Knee pads or knee protectors are also required for infants to prevent injuries and protect infant's knees when they are crawling. Crawling is known to cause scratches, bruises, chafed knees, and even rug or floor burns on infant's knees. Accordingly, various types of knee pads or protectors have been developed for infants and children over the years. Knee protectors or knee protective devices will protect infant and children's knees from injury from crawling or from falls or slips. It has been recognized that protecting infant's knees while crawling is essential for timely development of normal postural strength in the spine of the infant.</p>
+<p id="p-0008" num="0007">U.S. Pat. No. 6,332,224 relates to a pair of long socks or sock bands which incorporate knee pads into the socks or sock pads to protect an infant's knees when crawling. Another example of an infant knee pad is shown in U.S. Design Pat. No. 338,281.</p>
+<p id="p-0009" num="0008">It is an object of this invention to provide an improved knee protective device.</p>
+<p id="p-0010" num="0009">It is a further object of this invention to provide a garment which incorporates an improved knee protective device for protecting the knees of the wearer.</p>
+<p id="p-0011" num="0010">It is a further object of this invention to provide for a knee protective device which is flexible, durable and compression resistant.</p>
+<heading id="h-0003" level="1">DISCLOSURE OF INVENTION</heading>
+<p id="p-0012" num="0011">It is an aspect of this invention to provide a knee protective device for garments comprising of at least one pocket in the vicinity of the knee portion of the garment, said pocket having an opening for receiving an insert for providing protection to the wearer's knees.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF DRAWINGS</heading>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 1</figref> is a front view of a garment incorporating the knee protective device.</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 2</figref> is a rear view of a garment.</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 3</figref> is a front view of a garment incorporating the knee protective device showing the inner layer revealed.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 4</figref> is another front view of a garment incorporating the knee protective device.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 5</figref> is another front view of a garment having a knee protective device.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">BEST MODE FOR CARRYING OUT THE INVENTION</heading>
+<p id="p-0018" num="0017">In the description that follows, like parts are marked throughout the specification and drawings with the same respective reference numerals. The drawings are not necessarily to scale and in some instance proportions may have been exaggerated in order to more clearly depict certain features of the invention.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 1</figref> is a front view of a garment <b>2</b>, namely pants for infants, incorporating a knee protective device <b>4</b> in the vicinity of the knee region <b>12</b>. Alternatively, the garment <b>2</b> could either be long shorts, a jumper, overalls, long socks, or any other garment which covers the wearer's knees. <figref idref="DRAWINGS">FIG. 2</figref> is a rear view of a garment <b>2</b>.</p>
+<p id="p-0020" num="0019">The knee protective device <b>4</b> as shown in <figref idref="DRAWINGS">FIG. 1</figref> is comprised of at least one pocket or enclosure <b>6</b> which has an opening <b>8</b> in the vicinity of the knee region <b>12</b>. Preferably, the knee protective device <b>4</b> will have two pockets <b>6</b>, one for each knee of the garment <b>2</b>. The pocket <b>6</b> covers the knee region <b>12</b> of the garment <b>2</b>. The pocket <b>6</b> is of a material which may be the same or different than the material of the garment <b>2</b>. The garment comprises of a cloth material generally used, such as for example wool, polyester, or blends commonly used. For aesthetic purposes, the pocket <b>6</b> may also be of a different colour than the garment <b>2</b>.</p>
+<p id="p-0021" num="0020">Preferably, each pocket <b>6</b> is the full width of each respective leg portion <b>10</b> of the garment <b>2</b>. The pocket <b>6</b> is stitched or sewn on to the garment <b>2</b> in the knee region <b>12</b>. The pocket <b>6</b> in one embodiment can consist of an extra piece of fabric <b>9</b> sewn or stitched on front of the pant legs <b>10</b> in the vicinity of the knee area. In other words, the pocket <b>6</b> is fully stitched on all sides except for one side which is the opening <b>8</b>. More particularly, the pocket <b>6</b> consists of a piece of material <b>9</b> stitched at the top <b>11</b>, bottom <b>13</b> and one side <b>15</b> as shown. The edge <b>17</b> is folded over and stitched at <b>19</b><i>a </i>and <b>19</b><i>b </i>to produce a clean opening <b>8</b>. The opening <b>8</b> is preferably on the outermost side <b>14</b> of the garment <b>2</b> which is down the length of the garment <b>2</b>; however alternatively the opening <b>8</b> may be on another side of the pocket <b>6</b> on the top. By having the opening <b>8</b> of the pocket <b>6</b> on the side <b>14</b> and stitched on the top, the stitched top will prevent the insert from being pushed out during crawling since the opening <b>8</b> is on the side <b>14</b>.</p>
+<p id="p-0022" num="0021">The opening <b>8</b> is partially sewn shut in the vicinity of stitches <b>11</b> and <b>13</b>. More specifically the edge <b>17</b> can include stitches <b>21</b> and <b>23</b> at the upper edge <b>25</b> and lower edge <b>27</b> of the edge <b>17</b> so that the sewn edges <b>25</b> and <b>27</b> trap the knee pad <b>16</b> to be described below.</p>
+<p id="p-0023" num="0022">Furthermore, the pocket material <b>9</b> includes pleats or folds <b>29</b><i>a</i>, <b>29</b><i>b</i>, <b>29</b><i>c</i>, <b>29</b><i>d</i>, and <b>31</b><i>a</i>, <b>31</b><i>b</i>, <b>31</b><i>c</i>, <b>31</b><i>d</i>, to provide a pocket <b>6</b> that can be puffed out relative the pant leg so as to accommodate the knee pad <b>16</b>. In other words, the fabric <b>9</b> can be moved away from the front of the pant legs <b>10</b> to produce a bigger cavity to receive the knee pad <b>16</b>.</p>
+<p id="p-0024" num="0023">The opening <b>8</b> receives an insert or knee pad <b>16</b>. The insert <b>16</b> as shown in <figref idref="DRAWINGS">FIG. 3</figref> is preferably comprised of a durable, cushiony, stretchable and compression resistant material which will provide the infant with comfort, support and cushion to protect the knees while crawling. Preferably, the insert <b>16</b> is made of neoprene or material with similar characteristics which provide compression resistance and shock absorption to the wearer while crawling or falling. In one embodiment, the neoprene pad has at least two (2) layers of material, one layer being rubber and the other being of nylon. The neoprene pad may however have one, two or more layers. The insert or knee pad <b>16</b> is generally the same size or slightly smaller than the pocket <b>6</b>. Furthermore, the edge <b>31</b> of the knee pad <b>16</b> adjacent the opening <b>8</b> is larger than the opening <b>8</b> so that the edge <b>31</b> of the knee pad <b>16</b> will be caught, captured or trapped by stitches <b>21</b> and <b>23</b> to secure the knee pad <b>16</b> in place. Also, the knee pad <b>16</b> is flexible and can be collapsed to fit into the opening <b>8</b> of pocket <b>6</b>. Upon release, the knee pad <b>16</b> will assume the volume or cavity of pocket <b>6</b>. The pleats <b>29</b> and <b>31</b> will permit accommodation of the knee pad <b>16</b> in pocket <b>6</b>.</p>
+<p id="p-0025" num="0024">The insert <b>16</b> is inserted into the opening <b>8</b> of the pocket <b>6</b> of each leg portion <b>10</b> of the garment <b>2</b>. The insert <b>16</b> protects the knees of the wearer when crawling due to the characteristics of the material. The insert <b>16</b> is removable, and should be removed prior to washing the garment <b>2</b> so that the insert <b>16</b> can be re-used and lasts a long time for future use.</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 5</figref> shows the pleats <b>29</b><i>a</i>, <b>29</b><i>c</i>, <b>31</b><i>a </i>and <b>31</b><i>c </i>at the top side <b>20</b>, pleats <b>29</b><i>b</i>, <b>29</b><i>d</i>, <b>31</b><i>b </i>and <b>31</b><i>d </i>at the bottom side <b>22</b> of the pocket <b>6</b>. The folds and bottom of the pocket allow for extra material which allows extra room for bending the knees, and making the garment <b>2</b> more comfortable for the wearer.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 2</figref> shows the rear view of the garment <b>2</b>, which can have an elastic waist band <b>40</b>, rear pockets <b>42</b>, logo <b>44</b>. Snaps <b>24</b> can be included for opening the entire side of the leg <b>10</b> for infants in a manner well known to people skilled in the art.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 3</figref> is a front view of a garment incorporating the knee protective device showing the insert <b>16</b> revealed, and soother pocket <b>50</b> and indicia <b>52</b> showing a soother.</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 4</figref> is another front view of a garment incorporating the knee protective device <b>4</b>, where the opening <b>8</b> opens at the side of the legs between the pleats <b>29</b><i>a </i>and <b>29</b><i>b </i>and <b>31</b><i>c </i>and <b>31</b><i>d </i>to allow the knee pad <b>16</b> to slide in.</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 5</figref> is another front view of a garment having a knee protective device.</p>
+<p id="p-0031" num="0030">The snaps <b>24</b> shown in <figref idref="DRAWINGS">FIG. 1</figref> are particularly useful for young children. However, for older toddlers, the snaps may be dispensed with and the legs <b>10</b> stitched.</p>
+<p id="p-0032" num="0031">Moreover, children who are active will tend to wear the knee areas of their garments. Accordingly, the invention described herein reinforces the knee area with the following layers:
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0000">
+    <ul id="ul0002" list-style="none">
+        <li id="ul0002-0001" num="0032">(a) the original pant leg fabric <b>10</b></li>
+        <li id="ul0002-0002" num="0033">(b) neoprene or other material for the knee pad <b>16</b></li>
+        <li id="ul0002-0003" num="0034">(c) pocket material <b>9</b></li>
+        <li id="ul0002-0004" num="0035">to make a longer lasting garment. Also, these layers of material soften the impact of the user's knees against bumps and bruises.</li>
+        <li id="ul0002-0005" num="0036">The invention is particularly useful for young children who crawl on the floor as the opening is disposed on the lateral side of the pocket and the top <b>20</b> of the pocket <b>6</b> retains the pad. However, the invention can be used by adults when kneeling during gardening or other function requiring kneeling.</li>
+    </ul>
+    </li>
+</ul>
+</p>
+<p id="p-0033" num="0037">Various embodiments of this invention have now been described in detail. Since changes in and/or additions to the above-described best mode may be made without departure from the nature, spirit or scope of the invention, the invention is not to be limited to said details.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>I claim:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A garment for an infant comprising: infants pants with:
+<claim-text>two longitudinally extending leg portions,</claim-text>
+<claim-text>a pair of pockets sewn substantially about a knee portion of each one of said leg portions, each one of said pair of pockets having an upper, lower, and two lateral sides and at least one transverse pleat with;</claim-text>
+<claim-text>an opening extending through one of said two lateral sides while the upper, lower and other one of the two lateral sides are stitched; and</claim-text>
+<claim-text>an impact absorbing insert is removeably insertable in each one of said pair of pockets through said opening;</claim-text>
+<claim-text>wherein said at least one transverse pleat provides a substantially expandable cavity in each one of said pair of pockets to accommodate said insert; the opening is smaller than a lateral edge of the impact absorbing insert positioned within the infant pants.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. A garment as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said pocket is disposed about an outside surface of one of said leg portions.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. A garment as claimed in <claim-ref idref="CLM-00002">claim 2</claim-ref> wherein said impact absorbing insert comprises neoprene.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

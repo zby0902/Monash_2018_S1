@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891087-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891087</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12479479</doc-number>
+<date>20090605</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>KR</country>
+<doc-number>10-2008-0065419</doc-number>
+<date>20080707</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>20</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>H</section>
+<class>01</class>
+<subclass>R</subclass>
+<main-group>43</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 29827</main-classification>
+<further-classification> 29 2541</further-classification>
+<further-classification> 29 2542</further-classification>
+<further-classification> 29854</further-classification>
+<further-classification> 29857</further-classification>
+<further-classification> 29884</further-classification>
+</classification-national>
+<invention-title id="d2e71">Method of connecting a bus bar to a capacitor</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>4158745</doc-number>
+<kind>A</kind>
+<name>Keller</name>
+<date>19790600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>174536</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>4616416</doc-number>
+<kind>A</kind>
+<name>Cabaud</name>
+<date>19861000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 29884</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>4935803</doc-number>
+<kind>A</kind>
+<name>Kalfus et al.</name>
+<date>19900600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>257673</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>5867895</doc-number>
+<kind>A</kind>
+<name>Van Beneden et al.</name>
+<date>19990200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 29827</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>6258621</doc-number>
+<kind>B1</kind>
+<name>Ohuchi et al.</name>
+<date>20010700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>438106</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>6270835</doc-number>
+<kind>B1</kind>
+<name>Hunt et al.</name>
+<date>20010800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>427 79</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>6897567</doc-number>
+<kind>B2</kind>
+<name>Horie</name>
+<date>20050500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>257673</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>7675144</doc-number>
+<kind>B2</kind>
+<name>Horie</name>
+<date>20100300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>257673</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>9</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 29 2541</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29 2542</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29827</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29854</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29857</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29884</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>5</number-of-drawing-sheets>
+<number-of-figures>10</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20100000089</doc-number>
+<kind>A1</kind>
+<date>20100107</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Yang</last-name>
+<first-name>Chang Hoon</first-name>
+<address>
+<city>Cheonan</city>
+<country>KR</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>KR</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Park</last-name>
+<first-name>Dae Jin</first-name>
+<address>
+<city>Cheonan</city>
+<country>KR</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>KR</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Jun</last-name>
+<first-name>Yong Won</first-name>
+<address>
+<city>Yesan-Gun</city>
+<country>KR</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>KR</country>
+</residence>
+</applicant>
+<applicant sequence="004" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Park</last-name>
+<first-name>Chang Geun</first-name>
+<address>
+<city>Yesan-Gun</city>
+<country>KR</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>KR</country>
+</residence>
+</applicant>
+<applicant sequence="005" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Kim</last-name>
+<first-name>Yun Rak</first-name>
+<address>
+<city>Seoul</city>
+<country>KR</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>KR</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Schmeiser, Olsen &#x26; Watts, LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Nuintek Co., Ltd.</orgname>
+<role>03</role>
+<address>
+<city>Asan</city>
+<country>KR</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Arbes</last-name>
+<first-name>C. J.</first-name>
+<department>3729</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">Disclosed are a method for connecting a bus bar of a capacitor, improving temperature characteristics and reliability of the capacitor by reducing inductance and impedance such that heat generation is restrained during use of the capacitor, and a product fabricated by the same.</p>
+<p id="p-0002" num="0000">A pair of bus bars are insulatedly connected to sprayed surfaces on both sides of a plurality of capacitor devices, in such a manner that lead frames arranged alternately on a first bus bar are connected in contact with the sprayed surfaces facing in a diagonal direction, of neighboring capacitor devices. Other lead frames arranged alternately on a second bus bar are connected to the sprayed surfaces facing in another diagonal direction across the above diagonal direction in an X-shape. Then, the pair of bus bars are assembled to be insulated from each other and overlapped at one side of the capacitor device.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="100.75mm" wi="290.41mm" file="US07891087-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="230.21mm" wi="153.25mm" file="US07891087-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="209.30mm" wi="135.72mm" file="US07891087-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="231.82mm" wi="138.77mm" file="US07891087-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="224.11mm" wi="184.83mm" file="US07891087-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="250.95mm" wi="146.90mm" file="US07891087-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0001">1. Field of the Invention</p>
+<p id="p-0004" num="0002">The present invention relates to a method for connecting a bus bar of a capacitor, capable of improving temperature characteristics and reliability of the capacitor by reducing inductance when attaching the bus bar on a sprayed surface of a capacitor device, thereby reducing impedance of the capacitor such that heat generation can be restrained during use of the capacitor, and a product fabricated by the same.</p>
+<p id="p-0005" num="0003">2. Description of the Related Art</p>
+<p id="p-0006" num="0004">In general, electric equipment capacitor devices, phase-advanced capacitor devices and electronic equipment capacitor devices are used in a variety of industrial fields.</p>
+<p id="p-0007" num="0005">In the capacitor device, a plastic film such as polyethylene terephthalate resin, polypropylene resin, polyethylene naphthalate resin, polycarbonate resin and the like is used as a dielectric. The capacitor device is fabricated by winding a vapor-deposited metal film on either or both sides of the plastic film, and forming a polar plate (hereinafter, referred to as &#x201c;sprayed surface&#x201d;) on both sides of the wound vapor-deposited film by spraying Zn, Zn alloy, tin, or Zn firstly and tin secondarily. Here, the sprayed surfaces of the capacitor fabricated by the vapor-deposited film do not have discrimination of polarities.</p>
+<p id="p-0008" num="0006">Since the capacitors have different capacitance in accordance with their usages, the capacitors are fabricated to have the predetermined capacitance by increasing and decreasing the number of capacitor devices. When fabricating a large-capacitance capacitor, bus bars are connected to the capacitor devices.</p>
+<p id="p-0009" num="0007">More specifically, in the capacitor comprising a number of the capacitor devices, a pair of bus bars are connected to the sprayed surfaces disposed at both sides of each capacitor device by soldering. In addition, a cable connection terminal is bonded to the bus bar.</p>
+<p id="p-0010" num="0008">As shown in <figref idref="DRAWINGS">FIGS. 1A and 1B</figref>, the capacitors including the pair of bus bars <b>1</b> and <b>2</b> attached thereto are received in an outer case <b>6</b> such as a plastic case or a metal case. Next, the outer case <b>6</b> is charged with an insulating material including epoxy, urethane and the like, and the insulating material is cured in the outer case <b>6</b>. Thus, fabrication of the capacitor is completed. The sprayed surfaces of the capacitor device <b>3</b> may be arranged horizontally or vertically as intended by a manufacturer.</p>
+<p id="p-0011" num="0009">The capacitor device <b>3</b> and the pair of bus bars <b>1</b> and <b>2</b> are fixed to each other by curing of the insulating material. Only the terminals <b>4</b> attached to the bus bars <b>1</b> and <b>2</b> are exposed to the outside of the outer case <b>6</b>, thereby constituting a polar device which is connected with a power cable.</p>
+<p id="p-0012" num="0010">However, when the voltage or current being applied is high, heat generates at the capacitor device <b>3</b>. Such heat deteriorates electric characteristics, lifespan and reliability of the capacitor.</p>
+<p id="p-0013" num="0011">The above problems are caused by inductance generated from various component parts of the capacitor.</p>
+<p id="p-0014" num="0012">The assembling process and structure of a conventional capacitor will now be described.</p>
+<p id="p-0015" num="0013">As shown in <figref idref="DRAWINGS">FIG. 1A</figref>, in the conventional capacitor device <b>3</b>, when the pair of bus bars <b>1</b> and <b>2</b> are attached to the sprayed surfaces <b>5</b> of the capacitor device <b>3</b>, to be insulated from each other, any one of the bus bars <b>1</b> and <b>2</b> is connected to one sprayed surface and the other one is connected to the other sprayed surface, thereby forming a serial connection.</p>
+<p id="p-0016" num="0014">However, although variations in the structure of the serial bus bar were applied as shown in <figref idref="DRAWINGS">FIGS. 1A</figref>, <b>2</b>A and <b>3</b>A, more specifically, by varying thickness and width of the bus bar and the interval between the bus bars, such structural changes did not influence a degree of the impedance. Also, there happened no noticeable change regarding the effect.</p>
+<heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0017" num="0015">Therefore, the present invention has been made in view of the above problems, and it is an object of the present invention to provide a method for connecting a bus bar of a capacitor, capable of improving electric characteristics and reliability of the capacitor by reducing impedance generated from the capacitor, accordingly elongating the lifespan of the capacitor, and a product fabricated by the same.</p>
+<p id="p-0018" num="0016">In accordance with the present invention, the above and other objects can be accomplished by the provision of a method for connecting a bus bar of a capacitor, after fabricating a capacitor device by winding or depositing a vapor-deposited metal film on either or both sides of a plastic film and forming polar plates, that is, sprayed surfaces on both sides of the wound vapor-deposited film by spraying Zn, Zn alloy, tin, or Zn firstly and tin secondarily, and when connecting a pair bus bars to the both sprayed surfaces, the method comprising connecting a plurality of lead frames arranged alternately on a first bus bar of the pair of bus bars, to the sprayed surfaces disposed at opposite sides of neighboring capacitor devices, facing in a diagonal direction; connecting a plurality of lead frames arranged alternately on a second bus bar of the pair of bus bars, to the sprayed surfaces facing in another diagonal direction across the above diagonal direction in an X-shape; and assembling the pair of bus bars to be insulated from each other and overlapped at one side of the capacitor device.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0019" num="0017">The above and other objects, features and other advantages of the present invention will be more clearly understood from the following detailed description taken in conjunction with the accompanying drawings, in which:</p>
+<p id="p-0020" num="0018"><figref idref="DRAWINGS">FIG. 1A</figref> is an exploded perspective view of a bus bar of a capacitor according to a conventional art;</p>
+<p id="p-0021" num="0019"><figref idref="DRAWINGS">FIG. 1B</figref> is a partially-cut perspective view showing main parts of the conventional capacitor adopting the bus bar shown in <figref idref="DRAWINGS">FIG. 1A</figref>;</p>
+<p id="p-0022" num="0020"><figref idref="DRAWINGS">FIG. 2A</figref> is an exploded perspective view of a bus bar of another conventional capacitor;</p>
+<p id="p-0023" num="0021"><figref idref="DRAWINGS">FIG. 2B</figref> is a partially-cut perspective view showing main parts of the conventional capacitor adopting the bus bar shown in <figref idref="DRAWINGS">FIG. 2A</figref>;</p>
+<p id="p-0024" num="0022"><figref idref="DRAWINGS">FIG. 3A</figref> is an exploded perspective view of a bus bar of still another conventional capacitor;</p>
+<p id="p-0025" num="0023"><figref idref="DRAWINGS">FIG. 3B</figref> is a partially-cut perspective view showing main parts of the conventional capacitor adopting the bus bar shown in <figref idref="DRAWINGS">FIG. 3A</figref>;</p>
+<p id="p-0026" num="0024"><figref idref="DRAWINGS">FIG. 4A</figref> are a perspective view and a plan view showing the structure of a bus bar according to an embodiment of the present invention;</p>
+<p id="p-0027" num="0025"><figref idref="DRAWINGS">FIG. 4B</figref> is a partially-cut perspective view showing a state where the bus bar of <figref idref="DRAWINGS">FIG. 4A</figref> is connected to a capacitor device;</p>
+<p id="p-0028" num="0026"><figref idref="DRAWINGS">FIG. 5A</figref> is an exploded perspective view showing an application example of the bus bar according to the embodiment of the present invention; and</p>
+<p id="p-0029" num="0027"><figref idref="DRAWINGS">FIG. 5B</figref> is a partially-cut perspective view showing main parts of a capacitor adopting the bus bar shown in <figref idref="DRAWINGS">FIG. 5A</figref>.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENTS</heading>
+<p id="p-0030" num="0028">Hereinafter, a method for connecting a bus bar of a capacitor and a product fabricated by the same according to an exemplary embodiment of the present invention will be described in detail with reference to <figref idref="DRAWINGS">FIG. 4A</figref> to <figref idref="DRAWINGS">FIG. 5B</figref>.</p>
+<p id="p-0031" num="0029"><figref idref="DRAWINGS">FIG. 4A</figref> are a perspective view and a plan view showing the structure of a bus bar according to an embodiment of the present invention. <figref idref="DRAWINGS">FIG. 4B</figref> is a partially-cut perspective view showing the bus bar of <figref idref="DRAWINGS">FIG. 4A</figref> being connected to a capacitor device.</p>
+<heading id="h-0005" level="1">Exemplary Embodiment</heading>
+<p id="p-0032" num="0030">As shown in <figref idref="DRAWINGS">FIG. 4A</figref>, a reference numeral &#x201c;L<b>1</b>&#x201d; refers to a diagonal line connecting sprayed surfaces <b>5</b><i>a</i><b>1</b> and <b>5</b><i>b</i><b>2</b> disposed at opposite sides each of two neighboring capacitor devices <b>3</b>, and a reference numeral &#x201c;L<b>2</b>&#x201d; refers to a diagonal line connecting other sprayed surfaces <b>5</b><i>b</i><b>1</b> and <b>5</b><i>a</i><b>2</b> of the two capacitor devices <b>3</b>, crossing the diagonal line L<b>1</b> in an X-shape.</p>
+<p id="p-0033" num="0031">Pluralities of lead frames <b>7</b><i>b</i><b>1</b> and <b>7</b><i>b</i><b>2</b> of a first bus bar <b>1</b> are arranged alternately in a direction of the diagonal line L<b>2</b>. Meanwhile, pluralities of lead frames <b>7</b><i>a</i><b>1</b> and <b>7</b><i>a</i><b>2</b> of a second bus bar <b>2</b> are arranged alternately in a direction of the diagonal line L<b>1</b>.</p>
+<p id="p-0034" num="0032">Accordingly, when the lead frames <b>7</b><i>a</i><b>1</b>, <b>7</b><i>a</i><b>2</b>, <b>7</b><i>b</i><b>1</b> and <b>7</b><i>b</i><b>2</b> arranged alternately on the pair of bus bars <b>1</b> and <b>2</b> are attached to the respective sprayed surfaces <b>5</b><i>a</i><b>1</b> and <b>5</b><i>b</i><b>2</b>, and <b>5</b><i>b</i><b>1</b> and <b>5</b><i>a</i><b>2</b> disposed along the respective diagonal lines L<b>1</b> and L<b>2</b>, the pair of bus bars <b>1</b> and <b>2</b> of the plurality of capacitor devices <b>3</b> are connected in parallel.</p>
+<p id="p-0035" num="0033">Here, the number and interval of the lead frames arranged on the bus bars <b>1</b> and <b>2</b> in the directions of the diagonal lines L<b>1</b> and L<b>2</b> may be properly increased and decreased depending on the number and size of the combined capacitor devices <b>3</b>.</p>
+<p id="p-0036" num="0034">According to an application example illustrated in <figref idref="DRAWINGS">FIG. 5A</figref> and <figref idref="DRAWINGS">FIG. 5B</figref>, the lead frames are divided into groups G<b>1</b> and G<b>2</b> and connected to the sprayed surfaces <b>5</b><i>a</i><b>1</b> and <b>5</b><i>b</i><b>2</b>, and <b>5</b><i>b</i><b>1</b> and <b>5</b><i>a</i><b>2</b> of the capacitor devices <b>3</b>, forming a parallel circuit, such that the lead frames <b>7</b><i>a</i><b>1</b> and <b>7</b><i>a</i><b>2</b>, and <b>7</b><i>b</i><b>1</b> and <b>7</b><i>b</i><b>2</b> arranged alternately on the pair of bus bars <b>1</b> and <b>2</b> can be connected to the sprayed surfaces <b>5</b><i>a</i><b>1</b> and <b>5</b><i>b</i><b>2</b>, and <b>5</b><i>b</i><b>1</b> and <b>5</b><i>a</i><b>2</b> along the diagonal directions L<b>1</b> and L<b>2</b> same as above. In this case, intervals are provided among the groups G<b>1</b>, corresponding to width of the capacitor devices <b>3</b> included in a different group, that is, the group G<b>2</b>, and the lead frames included in the group G<b>2</b> of the other bus bar are disposed corresponding to the intervals.</p>
+<p id="p-0037" num="0035">The pair of bus bars <b>1</b> and <b>2</b> are connected to one circumferential side of the capacitor device <b>3</b>, being spaced apart from each other. More particularly, the pair of bus bars <b>1</b> and <b>2</b> are disposed in an overlapping manner and insulated from each other.</p>
+<p id="p-0038" num="0036">The capacitor device attached with the bus bars <b>1</b> and <b>2</b> is mounted in an outer case <b>6</b>. The outer case <b>6</b> is charged with an insulating material. Thus, a capacitor is fabricated.</p>
+<p id="p-0039" num="0037">Hereinafter, the assembling process of the bus bar according to an embodiment of the present invention will be described.</p>
+<p id="p-0040" num="0038">As shown in <figref idref="DRAWINGS">FIG. 4B</figref>, the lead frames of the pair of bus bars <b>1</b> and <b>2</b> are attached to the sprayed surfaces formed on both sides of the capacitor device <b>3</b>, the plurality of capacitor devices <b>3</b> are connected parallel by the pair of bus bars <b>1</b> and <b>2</b>.</p>
+<p id="p-0041" num="0039">In the above-structured bus bars <b>1</b> and <b>2</b> and the capacitor devices <b>3</b>, the first bus bar <b>1</b> and the second bus bar <b>2</b> are insulated from each other by inserting an insulating film between the pair of bus bars <b>1</b> and <b>2</b>, keeping an interval between the bus bars <b>1</b> and <b>2</b>, or mounting an insulating member. Additionally, insulation between neighboring capacitor devices <b>3</b> is also performed by any one method of distancing the capacitor devices <b>3</b>, inserting an insulation film between the capacitor devices <b>3</b>, and mounting an insulating member in the outer case <b>6</b>.</p>
+<p id="p-0042" num="0040">For reference, the direction and number of the terminals <b>4</b> of the lead frames of the respective bus bars <b>1</b> and <b>2</b> can be variously changed according to the manufacturer's intention.</p>
+<p id="p-0043" num="0041">In the embodiment of the present invention, the pair of bus bars <b>1</b> and <b>2</b> can be applied regardless of the thickness thereof. For example, from 0.01 mm to several millimeters of bus bars <b>1</b> and <b>2</b> can be applied. In a case where the capacitor having a 600 &#x3bc;F capacitance is fabricated by using the bus bars of 1 mm thickness and a vapor-deposited polypropylene film, the inductance is measured at the frequency of 800 KHz. The inductance of a conventional capacitor applying the bus bar shown in <figref idref="DRAWINGS">FIG. 1A</figref> as a comparative example 1, another conventional capacitor applying the bus bar shown in <figref idref="DRAWINGS">FIG. 2A</figref> as a comparative example 2, still another conventional capacitor applying the bus bar shown in <figref idref="DRAWINGS">FIG. 3A</figref> as a comparative example 3, and a capacitor applying the bus bar shown in <figref idref="DRAWINGS">FIG. 4A</figref> according to the embodiment of the present invention were measured, and the result was obtained as shown in [Table 1] below.</p>
+<p id="p-0044" num="0042">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="112pt" align="left"/>
+<colspec colname="2" colwidth="35pt" align="center"/>
+<colspec colname="3" colwidth="56pt" align="center"/>
+<thead>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" rowsep="1">TABLE 1</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Inductance</entry>
+<entry>Area of bus</entry>
+</row>
+<row>
+<entry/>
+<entry>Class</entry>
+<entry>(nH)</entry>
+<entry>bar</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="offset" colwidth="14pt" align="left"/>
+<colspec colname="1" colwidth="112pt" align="left"/>
+<colspec colname="2" colwidth="35pt" align="char" char="."/>
+<colspec colname="3" colwidth="56pt" align="char" char="."/>
+<tbody valign="top">
+<row>
+<entry/>
+<entry>Bus bar of embodiment of</entry>
+<entry>6.3</entry>
+<entry>100%</entry>
+</row>
+<row>
+<entry/>
+<entry>invention FIG. 4A</entry>
+</row>
+<row>
+<entry/>
+<entry>Comparative example 1 (bus bar of</entry>
+<entry>19.4</entry>
+<entry>25%</entry>
+</row>
+<row>
+<entry/>
+<entry>FIG. 1A)</entry>
+</row>
+<row>
+<entry/>
+<entry>Comparative example 2 (bus bar of</entry>
+<entry>17.1</entry>
+<entry>50%</entry>
+</row>
+<row>
+<entry/>
+<entry>FIG. 2B)</entry>
+</row>
+<row>
+<entry/>
+<entry>Comparative example 3 (bus bar of</entry>
+<entry>12.2</entry>
+<entry>95%</entry>
+</row>
+<row>
+<entry/>
+<entry>FIG. 3B)</entry>
+</row>
+<row>
+<entry/>
+<entry namest="offset" nameend="3" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0045" num="0043">Referring to [Table 1], according to the method for connecting the capacitor bus bar in accordance with the embodiment of the present invention, the inductance is reduced to 6.3 nH from 19.4 nH of the comparative example 1 according to the conventional art, that is, reduced by 67.3%. In comparison with 17.1 nH of the comparative example 2, the inductance is reduced by 63.1%. Furthermore, in comparison with 12.2 nH of the comparative example 3, the inductance is reduced by 48.3%. Thus, the bus bar connecting method according to the present invention is much more excellent than the conventional ones.</p>
+<p id="p-0046" num="0044">As can be understood from [Equation 1] and [Equation 2] that will be explained hereinafter, as the inductance (nH) is lowered, the impedance is decreased. Accordingly, heat generation of the capacitor can be reduced, thereby achieving the capacitor having an excellent heat resistance.</p>
+<p id="p-0047" num="0045">Meanwhile, the capacitors shown in <figref idref="DRAWINGS">FIGS. 4B and 5B</figref> have an oval sectional shape since being formed in a manner that the capacitor device <b>3</b> winds a film and then compresses the film. However, even when the capacitor device <b>3</b> has a circular sectional shape, the same effect can be obtained.</p>
+<p id="p-0048" num="0046">Moreover, in the above description, insulation between the capacitor device <b>3</b> and the first bus bar <b>1</b> and between the first bus bar <b>1</b> and the second bus bar <b>2</b> is performed by any one selected from inserting an insulating film and distancing the respective members, and insulation between capacitor devices <b>3</b> having different polarities have been explained and illustrated by way of example, those skilled in the art will appreciate that various modifications, additions and substitutions are possible.</p>
+<p id="p-0049" num="0047">In other words, not only may the insulating material be changed but also the insulating material and the distancing method may be combinedly used, for example, by insulating one side by keeping a distance while insulating the other side using the insulating material. Furthermore, the first bus bar <b>1</b> and the second bus bar <b>2</b> may be insulatedly adhered to each other. Therefore, the present invention is not limited to the drawings and the above explanation.</p>
+<p id="p-0050" num="0048">Also, although the capacitor device <b>3</b> comprising only one row has been described herein, the number of rows and layers can be variably modified.</p>
+<p id="p-0051" num="0049">As apparent from the above description, in accordance with a method for connecting a bus bar of a capacitor according to the embodiment of the present invention, when a pair of bus bars are independently connected to sprayed surfaces of both sides of a plurality of the capacitor devices, the pair of bus bars are connected to the capacitor devices in parallel, to be insulated and overlapped with respect to each other at one side of the capacitor device. Accordingly, inductance of the capacitor can be reduced.</p>
+<p id="p-0052" num="0050">Here, the reduction of the inductance can be appreciated from [Equation 1] and [Equation 2] as follows. According to [Equation 1] and [Equation 2], as the inductance is reduced, impedance is accordingly reduced, thereby restraining generation of heat caused by resistance. As a consequence, temperature characteristics of the capacitor can be enhanced, also improving reliability of the capacitor in a high temperature environment.
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?><i>Z=R</i>+(<i>WL&#x2212;</i>1<i>/WC</i>)&#x2003;&#x2003;[Equation 1]<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0053" num="0051">Z [&#x3a9;]: impedance</p>
+<p id="p-0054" num="0052">R[&#x3a9;]: resistance</p>
+<p id="p-0055" num="0053">W: 2&#x3c0;f</p>
+<p id="p-0056" num="0054">L: inductance</p>
+<p id="p-0057" num="0055">C: capacitance of capacitor
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>J=I<sup>2</sup>Rt&#x2003;&#x2003;[Equation 2]<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0058" num="0056">J: Joule's heat</p>
+<p id="p-0059" num="0057">I: current</p>
+<p id="p-0060" num="0058">R: impedance, resistance</p>
+<p id="p-0061" num="0059">Although the preferred embodiments of the present invention have been disclosed for illustrative purposes, those skilled in the art will appreciate that various modifications, additions and substitutions are possible, without departing from the scope and spirit of the invention as disclosed in the accompanying claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A method for connecting a bus bar to a capacitor, the capacitor comprising a plurality of capacitor devices, each of the capacitor devices having been fabricated by winding or depositing a vapor-deposited metal film on either or both sides of a plastic film and forming polar plates, that is, sprayed surfaces on both sides of the wound vapor-deposited film by spraying Zn, Zn alloy, tin, or Zn firstly and tin secondarily, the method comprising:
+<claim-text>connecting a plurality of lead frames arranged alternately on opposing sides of one of the pair of bus bars to the sprayed surfaces disposed at opposite sides of neighboring capacitor devices, the alternating lead frames electrically facing in a direction along a diagonal line;</claim-text>
+<claim-text>connecting a plurality of lead frames arranged alternately on opposing sides of the other one of the bus bars to the sprayed surfaces, the alternating lead frames of the other one of the bus bars electrically facing in another diagonal line crossing the diagonal line; and</claim-text>
+<claim-text>assembling the pair of bus bars to be insulated from each other and overlapped at one side of the capacitor device.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the one of the pair of bus bars and the other one of the pair of bus bars are each electrically coupled to the capacitor in parallel.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. A method for connecting a bus bar to a capacitor, the capacitor comprising a plurality of capacitor devices, each capacitor device having been fabricated by winding or depositing a vapor-deposited metal film on both sides of a plastic film and forming polar plates, the polar plates constituting opposing sprayed surfaces, the method comprising:
+<claim-text>arranging the fabricated capacitor devices in succession;</claim-text>
+<claim-text>electrically connecting a first bus bar of the pair of bus bars to the sprayed surfaces of the capacitor devices, the first bus bar having a first side, a second side opposing the first side, and a plurality of lead frames alternating between the first side and the second side, wherein the alternating lead frames electrically couple to opposing sprayed surfaces of adjacent capacitor devices;</claim-text>
+<claim-text>electrically connecting a second bus bar of the pair of bus bars to the sprayed surfaces of the capacitor devices, the second bus bar having a first side, a second side opposing the first side, and a plurality of lead frames alternating between the first side and the second side, wherein the alternating lead frames electrically couple to opposing sprayed surfaces of adjacent capacitor devices not electrically coupled to the first bus bar, such that the electrical path of the second bus bar diagonally crosses the electrical path of the first bus bar;</claim-text>
+<claim-text>assembling the pair of bus bars to be overlapped at one side of the capacitor.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The method of <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein each of the plurality of lead frames comprises a group of lead frames, each of the groups of lead frames electrically coupling to more than one adjacent capacitor device and the alternating groups of lead frames electrically coupling to opposing adjacent capacitor devices.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The method of <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the winding or depositing a vapor-deposited metal film on both sides of a plastic film further comprises spraying Zn, Zn alloy, tin, or Zn firstly and tin secondarily on both sides of the plastic film.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The method of <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein assembling the pair of bus bars to be overlapped further comprises:
+<claim-text>insulating the first and second bus bars.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The method of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein insulating the first and second bus bars further comprises placing insulation material or sufficient distance between the first bus bar and the plurality capacitor devices and placing insulation material or sufficient distance between the first bus bar and the second bus bar.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The method of <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein arranging the capacitor devices in succession further comprises:
+<claim-text>insulating the adjacent capacitor devices by placing insulation material or sufficient distance between adjacent capacitor devices.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The method of <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the first bus bar and the second bus bar are each electrically coupled to the capacitor in parallel. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891076-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891076</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12404414</doc-number>
+<date>20090316</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>23</class>
+<subclass>B</subclass>
+<main-group>31</main-group>
+<subgroup>40</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 29559</main-classification>
+<further-classification>279  217</further-classification>
+<further-classification>279  222</further-classification>
+<further-classification>269 481</further-classification>
+<further-classification>2425711</further-classification>
+<further-classification>399117</further-classification>
+</classification-national>
+<invention-title id="d2e43">Expandable chuck</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>450323</doc-number>
+<kind>A</kind>
+<name>Tomlinson</name>
+<date>18910400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>1246130</doc-number>
+<kind>A</kind>
+<name>MacReady</name>
+<date>19171100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>1479253</doc-number>
+<kind>A</kind>
+<name>Rivetta</name>
+<date>19240100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>1539972</doc-number>
+<kind>A</kind>
+<name>Todd</name>
+<date>19241000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>1685380</doc-number>
+<kind>A</kind>
+<name>Schultz</name>
+<date>19260900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>2437100</doc-number>
+<kind>A</kind>
+<name>Lambach</name>
+<date>19480300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>2542491</doc-number>
+<kind>A</kind>
+<name>Engel</name>
+<date>19510200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>2801503</doc-number>
+<kind>A</kind>
+<name>Pass</name>
+<date>19570800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>3052494</doc-number>
+<kind>A</kind>
+<name>Williamson</name>
+<date>19620900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>294 93</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>3113744</doc-number>
+<kind>A</kind>
+<name>Nisenson</name>
+<date>19631200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>3134620</doc-number>
+<kind>A</kind>
+<name>Blaisdell</name>
+<date>19640500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>294 88</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>3166335</doc-number>
+<kind>A</kind>
+<name>Mason</name>
+<date>19650100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>2425718</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>3811636</doc-number>
+<kind>A</kind>
+<name>Muchnick</name>
+<date>19740500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>3892437</doc-number>
+<kind>A</kind>
+<name>Makinen</name>
+<date>19750700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>294 981</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>3945486</doc-number>
+<kind>A</kind>
+<name>Cooper</name>
+<date>19760300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>1988037</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>3977687</doc-number>
+<kind>A</kind>
+<name>Manganelli</name>
+<date>19760800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>3980250</doc-number>
+<kind>A</kind>
+<name>Persson</name>
+<date>19760900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>4168073</doc-number>
+<kind>A</kind>
+<name>LaRue</name>
+<date>19790900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>4265990</doc-number>
+<kind>A</kind>
+<name>Stolka</name>
+<date>19810500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>4266990</doc-number>
+<kind>A</kind>
+<name>Momma</name>
+<date>19810500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>4390611</doc-number>
+<kind>A</kind>
+<name>Ishikawa</name>
+<date>19830600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>4465220</doc-number>
+<kind>A</kind>
+<name>Ledlow et al.</name>
+<date>19840800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>228 50</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>4518151</doc-number>
+<kind>A</kind>
+<name>Dill, Jr.</name>
+<date>19850500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>254 93 HP</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>4551404</doc-number>
+<kind>A</kind>
+<name>Hiro</name>
+<date>19851100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>4588667</doc-number>
+<kind>A</kind>
+<name>Jones</name>
+<date>19860500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>4596754</doc-number>
+<kind>A</kind>
+<name>Tsutsui</name>
+<date>19860600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>4678425</doc-number>
+<kind>A</kind>
+<name>Gibbemeyer</name>
+<date>19870700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>425522</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>4770456</doc-number>
+<kind>A</kind>
+<name>Phillips et al.</name>
+<date>19880900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>294 93</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00029">
+<document-id>
+<country>US</country>
+<doc-number>4783108</doc-number>
+<kind>A</kind>
+<name>Fukuyama et al.</name>
+<date>19881100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>294 981</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00030">
+<document-id>
+<country>US</country>
+<doc-number>4797337</doc-number>
+<kind>A</kind>
+<name>Law</name>
+<date>19890100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00031">
+<document-id>
+<country>US</country>
+<doc-number>5100043</doc-number>
+<kind>A</kind>
+<name>Hallenbeck</name>
+<date>19920300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>228 42</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00032">
+<document-id>
+<country>US</country>
+<doc-number>5282888</doc-number>
+<kind>A</kind>
+<name>Fukawa et al.</name>
+<date>19940200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>118500</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00033">
+<document-id>
+<country>US</country>
+<doc-number>5297905</doc-number>
+<kind>A</kind>
+<name>Schmidt</name>
+<date>19940300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00034">
+<document-id>
+<country>US</country>
+<doc-number>5693372</doc-number>
+<kind>A</kind>
+<name>Mistrater</name>
+<date>19971200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00035">
+<document-id>
+<country>US</country>
+<doc-number>5725667</doc-number>
+<kind>A</kind>
+<name>Petropoulos</name>
+<date>19980300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00036">
+<document-id>
+<country>US</country>
+<doc-number>5743538</doc-number>
+<kind>A</kind>
+<name>Schmitt</name>
+<date>19980400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00037">
+<document-id>
+<country>US</country>
+<doc-number>5788774</doc-number>
+<kind>A</kind>
+<name>McCumiskey</name>
+<date>19980800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00038">
+<document-id>
+<country>US</country>
+<doc-number>5829759</doc-number>
+<kind>A</kind>
+<name>Swain</name>
+<date>19981100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00039">
+<document-id>
+<country>US</country>
+<doc-number>5829760</doc-number>
+<kind>A</kind>
+<name>Mistrater</name>
+<date>19981100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00040">
+<document-id>
+<country>US</country>
+<doc-number>5938379</doc-number>
+<kind>A</kind>
+<name>Tseng</name>
+<date>19990800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00041">
+<document-id>
+<country>US</country>
+<doc-number>6193107</doc-number>
+<kind>B1</kind>
+<name>D'Andrade</name>
+<date>20010200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>222 79</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00042">
+<document-id>
+<country>US</country>
+<doc-number>6214419</doc-number>
+<kind>B1</kind>
+<name>Dinh</name>
+<date>20010400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00043">
+<document-id>
+<country>US</country>
+<doc-number>6412766</doc-number>
+<kind>B2</kind>
+<name>Barbieux</name>
+<date>20020700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00044">
+<document-id>
+<country>US</country>
+<doc-number>6852364</doc-number>
+<kind>B2</kind>
+<name>Schmitt</name>
+<date>20050200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00045">
+<document-id>
+<country>US</country>
+<doc-number>7452017</doc-number>
+<kind>B2</kind>
+<name>Maffeis</name>
+<date>20081100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>294 93</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00046">
+<document-id>
+<country>US</country>
+<doc-number>7475927</doc-number>
+<kind>B2</kind>
+<name>Maffeis</name>
+<date>20090100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>294 93</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00047">
+<document-id>
+<country>US</country>
+<doc-number>2006/0235417</doc-number>
+<kind>A1</kind>
+<name>Sala</name>
+<date>20061000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00048">
+<document-id>
+<country>JP</country>
+<doc-number>2001009584</doc-number>
+<date>20010100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00049">
+<document-id>
+<country>JP</country>
+<doc-number>2003200354</doc-number>
+<date>20030700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>16</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>279  201</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>279  205</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>279  21</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>279  217</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>279  221</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>279  222</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>279139</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>242571</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>2425711</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>2425718</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>242572</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>242576</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>269 481</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>294 981</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>399117</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>399159</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29559</main-classification>
+</classification-national>
+<us-classifications-ipcr>B23B 31/40</us-classifications-ipcr>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>2</number-of-drawing-sheets>
+<number-of-figures>5</number-of-figures>
+</figures>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>11155500</doc-number>
+<date>20050620</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>7523946</doc-number>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>12404414</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090174156</doc-number>
+<kind>A1</kind>
+<date>20090709</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Schmitt</last-name>
+<first-name>Peter J.</first-name>
+<address>
+<city>Williamson</city>
+<state>NY</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Pillsbury Winthrop Shaw Pittman LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Xerox Corporation</orgname>
+<role>02</role>
+<address>
+<city>Norwalk</city>
+<state>CT</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Gates</last-name>
+<first-name>Eric A</first-name>
+<department>3726</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The process provides an expandable chuck with a variable diameter bulb having a variable wall thickness, the chuck being operatively designed to stretch the bulb to reduce its diameter for insertion into a photoreceptor pipe and upon relaxation to the compress the bulb so as to increase its diameter. The design provides a universal chuck to reduce the cost of changing to different diameter chucks in accommodating different size photoreceptors during the coating and drying process.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="59.44mm" wi="135.64mm" file="US07891076-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="206.42mm" wi="134.87mm" file="US07891076-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="208.45mm" wi="50.21mm" file="US07891076-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">CROSS REFERENCE TO RELATED APPLICATION</heading>
+<p id="p-0002" num="0001">This application is a continuation of, and claims the benefit of priority to, U.S. patent application Ser. No. 11/155,500, filed Jun. 20, 2005, the entire contents of which is incorporated herein by reference.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND</heading>
+<p id="p-0003" num="0002">All references cited in this specification, and their references, are incorporated by reference herein in their entirety where appropriate for teachings of additional or alternative details, features, and/or technical background.</p>
+<p id="p-0004" num="0003">Disclosed in the embodiments herein is an expandable chuck device for inserting into, holding and sealing a photographic imaging device during dip coating and drying operation.</p>
+<p id="p-0005" num="0004">Electrophotographic imaging members are known. Electrophotographic imaging members include photosensitive members, known as photoreceptors. Photosensitive members commonly utilized in electrophotographic (xerographic) processes may comprise, for example, a flexible belt or a structure such as a rigid drum.</p>
+<p id="p-0006" num="0005">Rigid electrophotographic imaging members, including drums or pipes, may be coated by many different techniques such as spray coating, immersion and dip coating. Dip coating is a coating method typically involving dipping a substrate in a coating solution, such as organic photoconductor coating, and taking up the substrate for the drying step. In dip coating, the coating thickness depends on the concentration of the coating material and the take-up speed (i.e., the speed of the substrate being lifted from the surface of the coating solution). It is known that the coating thickness generally increases with the coating material concentration or viscosity and with the take-up speed.</p>
+<p id="p-0007" num="0006">One method for dip coating electrophotographic cylinders, pipes or drums to form an organic photoconductor layer thereon comprises obtaining a drum having an outer surface to be coated, an inner surface wall defining a void, and an upper opening end and a lower opening end in communication with the void, immersing the drum in a flowing liquid coating material while maintaining the axis of the drum in a vertical orientation, maintaining the outer surface of the drum in a concentric relationship with the vertical interior wall of the cylindrical coating vessel while the drum is immersed in the coating material, the outer surface of the drum being radially spaced from the vertical interior wall of the cylindrical coating vessel, maintaining laminar flow motion of the coating material as it passes between the outer surface of the drum and the vertical interior wall of the vessel, and withdrawing the drum from the coating vessel.</p>
+<p id="p-0008" num="0007">An electrophotographic receptor drum may have the form of a relatively narrow cylinder or pipe. As coating of only the outside of a photoreceptor drum may be desired, in particular to avoid loss of the coating solution, a plug may be affixed at the top end of an electrophotographic drum before the immersion into the coating substance to prevent the coating substance from entering the void due to positive air pressure therein. A chuck member may be relied upon both to seal the top of the photoreceptor drum to prevent fluid from entering the opening in the drum by displacing air in the opening (i.e., the chuck member acting as a plug) and also carry it through this entire operation. The chuck may have a seamless plug shape to prevent the coating solutions from penetrating inside the drum by air leaking along the seam. The chuck device may be configured to have a stem portion anchored in the plug portion. The plug portion is inserted in the open top end of the photoreceptor drum and connected to a carrier assembly for transporting the photoreceptor through the coating and drying operation.</p>
+<p id="p-0009" num="0008">The use of a single rubber bladder for sealing the drum and for moving the drum from one process step to another has worked very well over the years but has the disadvantage of not allowing different diameters of photoreceptors to be coated using a single chuck. In fact, the solid or inflatable chuck system requires a specifically fitted single chuck for each of the different size diameter drums. As a consequence, multiple different diameter photoreceptors cannot be treated and transported through the same installation. As part of the task of coating different diameter photoreceptors, a plant operation may require that the individual chucks must be continually exchanged or &#x201c;changed out&#x201d;, commensurate with the size and number of the different photoreceptor tubes. Chucking devices used in production may use a compressed &#x201c;doughnut&#x201d; to perform these functions. Many new products being scoped for dip coating production have varying diameters (i.e., 24, 40, 60 mm). Of course, if there are, for example, 1200 chucks in each of say two dip coating production lines and three different drum diameters are scoped to be coated, changing over all of these chucks would not be a trivial matter. This complicated aspect of the operation of the coating/drying process can be very time-consuming as well as adding to the cost of such a facility by the requirement of a great number of differently sized chucks. Moreover, the single diameter chucks are expensive and require substantial downtime for change-over.</p>
+<p id="p-0010" num="0009">There is also a labor cost in changing chucks from one diameter to the next. There is also a material loss expected in changing out chucks due to incorrectly installed chucks resulting in the simultaneous loss of several photoreceptor drums and down time required for repair and recovery. When using single diameter chucks, every time a drum photoreceptor of a different diameter is coated, all of the chucks must be changed over to the new size. For example, chucking of a drum photoreceptor for coating involves gripping the pipe with sufficient forces to prevent movement, pull-off or rotation during processing. Chucking must seal the inner wall of the pipe to prevent solution from filling the interior. Chucks must also locate the pipe at a specific point and ensure the pipe is vertically plumb. All of these conditions frequently must be met in environments of solvent laden air, high temperature and humidity, and in a Class 100 clean-room.</p>
+<p id="p-0011" num="0010">A universal coating chuck would require no change-over or downtime. It is therefore one object of the present invention to develop a Universal Coating Chuck which uses a &#x201c;bulb-type&#x201d; gripping member. This bulb is molded in the larger diameter state, such that to reduce the chuck diameter for insertion into the inner diameter of the pipe, it needs to be pulled axially.</p>
+<heading id="h-0003" level="1">REFERENCES</heading>
+<p id="p-0012" num="0011">Reference is made to United States patents which disclose dip-coating a rigid cylindrical assembly with an electrophotographic coating solution.</p>
+<p id="p-0013" num="0012">U.S. Pat. No. 5,788,774 to McCumiskey et al., issued Aug. 4, 1998, discloses a substrate coating assembly employing a plug member for selectively coating a hollow cylindrical substrate wherein the plug member is fabricated from a non-wetting material.</p>
+<p id="p-0014" num="0013">U.S. Pat. No. 5,693,372 to Mistrater et al., issued Dec. 2, 1997, describes a process for dip coating drums comprising providing a drum having an outer surface to be coated, an upper end and a lower end, providing at least one coating vessel having a bottom, an open top and a cylindrically shaped vertical interior wall having a diameter greater than the diameter of the drum, flowing liquid coating material from the bottom of the vessel to the top of the vessel, immersing the drum in the flowing liquid coating material while maintaining the axis of the drum in a vertical orientation, maintaining the outer surface of the drum in a concentric relationship with the vertical interior wall of the cylindrical coating vessel while the drum is immersed in the coating material, the outer surface of the drum being radially spaced from the vertical interior wall of the cylindrical coating vessel, maintaining laminar flow motion of the coating material as it passes between the outer surface of the drum and the vertical interior wall of the vessel, maintaining the radial spacing between the outer surface of the drum and the inner surface of the vessel between about 2 millimeters and about 9 millimeters, and withdrawing the drum from the coating vessel.</p>
+<p id="p-0015" num="0014">U.S. Pat. No. 5,725,667 to Petropoulos et al., issued Mar. 10, 1998, discloses a dip coating apparatus including: (a) a single coating vessel capable of containing a batch of substrates vertically positioned in the vessel, wherein there is absent vessel walls defining a separate compartment for each of the substrates; (b) a coating solution disposed in the vessel, wherein the solution is comprised of materials employed in a photosensitive member and including a solvent that gives off a solvent vapor; and (c) a solvent vapor uniformity control apparatus which minimizes any difference in solvent vapor concentration encountered by the batch of the substrates in the air adjacent the solution surface, thereby improving coating uniformity of the substrates.</p>
+<p id="p-0016" num="0015">U.S. Pat. No. 6,214,419 to Dinh et al., discloses a process for immersion coating of a substrate including positioning a substrate having a top and bottom within a coating vessel having an inner surface to define a space between the inner surface and the substrate, filling at least a portion of the space with a coating mixture; stopping the filling slightly below the top of the substrate, initiating removal of the coating mixture at a gradually increasing rate to a predetermined maximum flow rate in a short predetermined distance, and continuing removal of the coating mixture at substantially the predetermined maximum flow rate to deposit a layer of the coating mixture on the substrate.</p>
+<p id="p-0017" num="0016">U.S. Pat. No. 5,829,759 to Swain et al. issued Nov. 3, 1998 discloses a chuck assembly for engaging the inner surface of a hollow substrate comprising a housing having an open end and defining a passageway in communication with the open end; a partially hollow elastic boot defining an entry hole and an inner surface wherein the boot when stretched decreases in cross-sectional dimension, and wherein the boot engages the housing, whereby the hollow portion of the boot is in communication with the passageway; and a movable, boot stretching member disposed in the passageway and adapted to engage the inner surface of the boot, wherein movement of the member in a direction to stretch the boot decreases the cross-sectional dimension of the boot, thereby permitting insertion of the boot into the substrate, and wherein movement of the member in the opposite direction increases the cross-sectional dimension of the boot, thereby permitting engagement of the boot against the inner surface of the substrate.</p>
+<heading id="h-0004" level="1">SUMMARY</heading>
+<p id="p-0018" num="0017">Aspects of the invention include:</p>
+<p id="p-0019" num="0018">an expandable chuck comprising a housing having a first open end and a second open end, an inside and an outside surface, inside surface, defining a passageway in communication with the first open end and the second open end; a moveable plunger assembly comprising a first portion exterior to the first opening end of the housing having an a terminal end, a second portion extending through the passageway of the housing, and a third portion exterior to the second opening end of the housing and terminating in an expanded end; a stretchable hollow bulb defining a first open end and a second open end, wherein the bulb comprises a wall of varying thickness having an inner surface, defining a cavity, and an outer surface, and wherein the first open end of the bulb is in communication with the second open end of the housing and the second open end of the bulb abuts the expanded end of the plunger; wherein the plunger assembly is operationally configured with respect to the bulb to cause the bulb to expand in diameter for a period of time when the terminal end of the first portion of the plunger is moved in a distal direction to the first open end of the housing, and to decrease in diameter for a period of time when the terminal end of the first portion of the plunger is moved in a proximal direction to the first open end of the housing;</p>
+<p id="p-0020" num="0019">an expandable chuck comprising a plunger assembly having a slidable plunger capable of moving in a first direction and a second direction; an elastomeric bulb having an outer surface and an inner surface defining a wall, the inner surface defining a void, and having a first open end and a second open end in communication with the void; wherein the plunger assembly is operatively configured with respect to the elastomeric bulb to cause the void of the elastomeric bulb to elongate above a directional axis when the slidable plunger is moved in the second direction but diminishes along the same directional axis when the slidable plunger is moved in the first direction; and wherein the elastomeric bulb walls are configured to be thicker at the first open end and the second open end than wall at a midpoint between first and second open end; and</p>
+<p id="p-0021" num="0020">a chuck and photoreceptor drum assembly comprising a drum photoreceptor having an outer surface and an inner surface defining a wall, the inner surface defining a void, and a first open end and a second open end; an elastomeric bulb positioned in the void of photoreceptor, the elastomeric bulb having an outer surface and an inner surface defining a wall, the inner surface defining a void, and having a first open end and a second open end; wherein the elastomeric bulb wall is thicker near the first and second open end of the bulb than at a point between first and second open end; and a plunger assembly attached to the elastomeric bulb capable of altering the shape of the void of the bulb, a portion of the plunger assembly extending from the first or the second open end of the drum photoreceptor.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0022" num="0021">In the detailed description reference is made to the illustrative figures listed below.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 1</figref> illustrates an initial expanded stage cross-sectional length diagram of one embodiment of the universal expandable chuck device;</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 2</figref> illustrates a further expanded stage cross-sectional length diagram of one embodiment of the universal expandable chuck device; where <figref idref="DRAWINGS">FIG. 2A</figref> illustrates a cross-section of <figref idref="DRAWINGS">FIG. 2</figref> along line <b>2</b>A-<b>2</b>A; and <figref idref="DRAWINGS">FIG. 2B</figref> illustrates a cross-section of <figref idref="DRAWINGS">FIG. 2</figref> along line <b>2</b>B-<b>2</b>B; and</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 3</figref> illustrates another, more fully expanded stage cross-sectional length diagram of one embodiment of the universal expandable chuck device.</p>
+<p id="p-0026" num="0025">Other aspects of the present invention will become apparent as the following description proceeds and upon reference to the Figures which represent preferred embodiments.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0027" num="0026">In embodiments there is illustrated a variable wall thickness, variable diameter expandable universal chuck device for holding and sealing, a rigid or flexible substrate having a void of different cross-sectional dimensions, allowing for processing in one operation. The embodiments of such substrate may be variously described in terms of a substantially cylindrical housing such as a pipe, tube or drum. Such a substrate may be understood to include drum-type electrophotographic imaging members. Such chucks may be used for the immersion-coating or dip-coating of drum-type electrophotographic imaging members, and the subsequent transport for drying of the substrate.</p>
+<p id="p-0028" num="0027">In one embodiment, a universal coating chuck having sealing and holding properties comprises a flexible &#x201c;bulb-type&#x201d; gripping member so as to fit a variable diameter number of substrates. A bulb according to the embodiment of this invention is molded in the larger diameter state. The bulb is attached to a plunger assembly operationally configured to reduce the cross-sectional diameter of the bulb enough for fitting slidingly into the inside diameter of a pipe, tube or drum when the plunger of such assembly is pulled axially away from the bulb, but to allow for an increase in the cross-sectional diameter of the bulb when the assembly is pulled toward the bulb.</p>
+<p id="p-0029" num="0028">Attempts to use a bulb molded in a smaller diameter state and compressing it to achieve a larger diameter have resulted in devices wherein the bulb material tends to fold over on itself, rather than to expand. It has also been found that in embodiments wherein bulbs are decreased in inner diameter, when a uniform wall thickness &#x201c;bulb&#x201d; is utilized, the stretching of the elastic material may also be uniform, thereby causing &#x201c;scalloping&#x201d; of the cross-sectional diameter as it is reduced. This may compromise the seating of the bulb, preventing the sealing of the inside diameter of the pipe with the bulb.</p>
+<p id="p-0030" num="0029">A variable wall thickness of bulb modeled using a Finite Element Analysis was found to overcome the problem associated with uniform wall thickness. Thus by selectively changing the wall thickness of the bulb, one can affect the deformity of the bulb in a selective manner to allow for gripping, sealing and locating various inside diameter pipes for processing.</p>
+<p id="p-0031" num="0030">Aspects disclosed herein include a universal coating chuck utilizing a variable wall thickness, variable diameter silicone rubber bulb molded in a large diameter state operatively configured in the chuck with a plunger such that when the plunger is pushed axially, the diameter of the bulb is reduced for insertion into a photoreceptor pipe while when it is pulled axially, the diameter of the bulb increases to allow for contact of the bulb with the drum, tube, etc., into which it is inserted. The bulb may be allowed to be compressed to fit within the pipe and then relaxed within the pipe to effectively grip, seal, and locate the pipe during coating and drying steps. The universal chuck may include a full range of flexibility, for example, without limitation, 24 to 60 mm diameters.</p>
+<p id="p-0032" num="0031">Coating mixtures in dip coating may comprise materials typically used for any layer of a photosensitive member including such layers as a subbing layer, a charge barrier layer, an adhesive layer, a charge transport layer, and a charge generating layer, such materials and amounts thereof being illustrated for instance in U.S. Pat. Nos. 4,265,990, 4,390,611, 4,551,404, 4,588,667, 4,596,754, and 4,797,337.</p>
+<p id="p-0033" num="0032">The desired elasticity of the bulb-like gripping means material may be achieved using a rubber-like compound selected, among others, from silicon rubber and an elastic polymer. For example, an adjustable diameter silicon rubber chuck may be configured to fit all sizes of organic photoconductor that are immersion- or dip-coated in a high-density dip operation. The universal chuck bulb may be molded in a large diameter shape and then stretched to reduce the diameter for insertion into the photoreceptor drum.</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. 1</figref> shows one embodiment of an expandable chuck device <b>10</b> comprised of a hollow housing portion <b>30</b> and a bulb portion <b>20</b>. The housing portion <b>30</b> has an open first end <b>32</b> and a second open end <b>33</b> encasing a passageway <b>35</b> for axially housing a movable stretching device which includes in sequence, an actuator portion <b>25</b>, a shaft portion <b>34</b>, a bulb stretching portion <b>40</b>, and a tip portion <b>15</b>. The bulb <b>20</b> may be engaged at its first open end <b>36</b> to the housing second end <b>33</b> and at its second end <b>37</b> to the tip member <b>15</b> of the bulb-stretching portion <b>40</b>, for example, by threads. The chuck housing <b>30</b> may be in the general configuration of a hollow tube, pipe or other approximately cylindrical configuration having open ends. The contour of the cross-section of the bulb member <b>20</b> is diagrammed in the stretched configuration so as to slidingly fit inside a substrate member, in particular, a photoreceptor drum substrate <b>100</b>. Proximal to the housing second end portion <b>33</b>, an affixed flange or ring washer <b>31</b> may be configured to facilitate a stop for a measured length insertion of the chuck device <b>10</b> into the substrate end (not shown), the inserted chuck device <b>10</b> thus including mainly the bulb portion <b>20</b> inside the substrate. The housing <b>30</b> preferably is an integral piece, especially a single piece. According to one embodiment, the cone-shaped tip portion <b>15</b> may have a smaller cross-sectional dimension than the rest of the substrate whereby the cone shape is intended to facilitate easier insertion of the chuck device into the photoreceptor drum substrate.</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIGS. 2 and 3</figref> disclose different expansion states of an expandable chuck embodiment in <figref idref="DRAWINGS">FIG. 1</figref>. Specifically, <figref idref="DRAWINGS">FIG. 2</figref> is diagramed to show a bulb configuration at partial expansion achieving an intermediate cross-sectional diameter. The embodiment provides an intermediate compression or expansion adjustment of bulb <b>20</b>&#x2032; involving repositioning of the stretching rod <b>34</b> and moving the stretching actuator <b>25</b> away from the bulb end thereby effectively withdrawing the tip portion <b>15</b> from an interior space of a particular sized substrate interior space (not shown) and shortening the length of the bulb (stretching device portion <b>40</b> that is encased within an interior or void <b>45</b> of the bulb <b>20</b>. <figref idref="DRAWINGS">FIG. 3</figref> is a diagram illustrating the bulb member <b>20</b>&#x2033; at its fullest expansion such that the bulb <b>20</b>&#x2033; may tightly grip and hermetically seal the interior space of a relatively large diameter photoreceptor drum substrate <b>100</b>&#x2032;.</p>
+<p id="p-0036" num="0035">The chuck housing <b>30</b> may be fabricated from a material which has one or more of the following properties: high temperature resistance, low mass, minimal heat sinking, rigidity with resilient strength, and durability. Suitable materials to fabricate such a the structure may include, for instance, a plastic like ULTEM&#x2122;; (a polyetherimide resin) and VALOX&#x2122; (a thermoplastic polyester resin), both available from the General Electric Company, or a metal like aluminum, stainless steel, iron, nickel, copper, or bronze. The housing <b>30</b> of the chuck embodiment shown may include a plurality of slots or holes <b>38</b> through the housing and extending to the open first end <b>32</b> of the housing <b>30</b>.</p>
+<p id="p-0037" num="0036">The bulb <b>20</b> is preferably fabricated from a material having one or more of the following properties: high temperature resistance, elasticity, and durability. The bulb material may be any suitable polymeric composition including an elastomer as for example silicone rubber (e.g., silicone rubber compound no. 88201 available from Garlock Division of Coltec Industries), VITON&#x2122;, or the like. The bulb member may be fabricated from an elastic material having the same hardness value throughout the bulb body. In a preferred embodiment, however, the material of the bulb ends at or near the housing attachment areas <b>20</b>&#x2032;<i>a</i>, <b>20</b>&#x2032;<i>c </i>(<b>20</b>&#x2033;<i>a</i>, <b>20</b>&#x2033;<i>c</i>), is progressively thicker than the material of the bulb middle section <b>20</b>&#x2032;<i>b </i>(<b>20</b>&#x2033;<i>b</i>). For instance, this substantial portion of the bulb may have a durometer numerical hardness ranging from about 25 to about 40, or about 35; the end sections of the bulb member may have a durometer hardness ranging from about 45 to about 60, or about 50. The sections having different degrees of hardness may be the same or different material. This dual material thickness and resulting durometer hardness affords retention of the bulb inside the substrate during the chucking operation and minimizes or eliminates the need to use a separate clamp to secure the chuck to the substrate.</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. 2A</figref> illustrates a cross-section of <figref idref="DRAWINGS">FIG. 2</figref> along line <b>2</b>A-<b>2</b>A, detailing an embodiment of the bulb <b>20</b> and the housing <b>30</b> where the engaged surfaces of both the bulb first end <b>36</b> and the housing second end <b>33</b> include threads <b>21</b> to promote retention of the bulb <b>20</b> to the housing <b>30</b> during the chucking operation and to minimize or eliminate the need to use a separate clamp to hold the bulb to the housing. In embodiments of the instant invention, either the outside surface of the end portion <b>33</b> of the housing or the inner surface of the first end section <b>36</b> of the bulb, or both, contain threads <b>21</b>. In embodiments, a metal or hard plastic threaded insert can be molded or positioned into the bulb ends <b>36</b> and <b>37</b>, in which case, the threaded insert is considered herein as a part of the bulb <b>20</b>. Threading increases the amount of the bulb <b>20</b> that contributes to the retention forces by requiring more of the bulb end to stretch radially before the bulb will slip off the housing.</p>
+<p id="p-0039" num="0038">In the process of operation, the bulb-stretching member <b>40</b> (e.g. shown in <figref idref="DRAWINGS">FIG. 1</figref>) in the form of a rod is axially positioned in the passageway <b>35</b> and adapted to engage the inner surface of the distal bulb end or second bulb end <b>37</b> adjacent the tip <b>15</b>, the proximal bulb end or bulb first end <b>36</b> is preferably attached to the second chuck housing end <b>33</b>. The stretching member <b>40</b> is preferably a single integral piece and may be fabricated from wood, plastic or a metal such as stainless steel, aluminum, or iron. In embodiments, the shaft portion <b>34</b> of the stretching member <b>40</b> may be a solid or hollow rod.</p>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIG. 2B</figref> illustrates a cross-section of <figref idref="DRAWINGS">FIG. 2</figref> along line <b>2</b>B-<b>2</b>B, detailing an embodiment of the tip <b>15</b> of the bulb stretching member <b>40</b> engaged to the bulb <b>20</b> by threads <b>22</b>. The tip <b>15</b> may be engaged to the bulb stretching member <b>40</b> by threads <b>23</b>. The advantage of coupling the stretching member <b>40</b> to the bulb <b>20</b> is that one can increase the cross-sectional dimension of the boot by proximal movement of the member actuator <b>25</b> to effect a size that is generally impossible to attain by relying solely on the inherent elastic or restorative properties of the bulb material after stretching, not to mention the concomitant hysteresis effect usually encountered by this deformation. In essence, by coupling the stretching member to the bulb, one can compress or expand the bulb by pulling the stretching member in a proximal position to achieve the desired wider cross-sectional dimension and thus provide more holding or clinging force. To effect efficient coupling of the member to the distal bulb end surface, one may also contemplate employing an adhesive or any other suitable method and device.</p>
+<p id="p-0041" num="0040">Operation of the embodiments depicted in <figref idref="DRAWINGS">FIGS. 1-3</figref> may proceed as follows. The bulb stretching member <b>40</b> moves in the tip <b>15</b> in a forward direction A to push against the second bulb end <b>37</b>, thereby stretching the bulb <b>20</b> into a substrate accommodating configuration, thereby reducing the cross-sectional dimension or radial dimension of the bulb <b>20</b>. The bulb <b>20</b> now having the reduced cross-sectional dimension, is inserted into the substrate <b>100</b>, <b>100</b>&#x2032;. To achieve the desired holding force the bulb stretching member <b>40</b> is moved in the reverse direction B, allowing the bulb <b>20</b> to expand, thereby increasing the cross-sectional diameter of the bulb <b>20</b> to allow engagement with the inner surface of the substrate and lifting of the substrate to provide a positive seating on the chuck housing <b>10</b> due to pressure of the bulb expansion as well as the inherent elastic and frictional properties of the bulb material. After processing of the substrate, the actuator <b>25</b> of the bulb-stretching member <b>40</b> is again moved in the forward direction A thereby lengthening the bulb contour <b>20</b> and shrinking its width diameter. The configuration effects pulling the bulb outside surface away from the inner surface of the substrate and allowing withdrawal of the chuck device <b>10</b> from the substrate.</p>
+<p id="p-0042" num="0041">During engagement of the chuck device <b>10</b> shown in <figref idref="DRAWINGS">FIGS. 1-3</figref> with a different size substrate <b>100</b>, <b>100</b>&#x2032;, it is preferred that a hermetic seal is created by contact of the bulb outer surface material against the substrate inner surface to minimize or prevent fluid migration, especially liquid, into the interior of the substrate.</p>
+<p id="p-0043" num="0042">The chuck device of the present invention may provide several advantages. For example, the expandable bulb chuck may embody low mass and therefore may not cause excessive heat flow from a thin substrate to the chuck assembly when placed in an oven. Also, the cost of the expandable chuck may be low due to the non-precision requirements and the application of molded parts, thereby greatly minimizing the need for machining. The cost savings may be large when hundreds or thousands of the chuck devices are required.</p>
+<p id="p-0044" num="0043">Any suitable rigid or flexible substrate may be held by the substrate holding apparatus of the present invention. The substrate may have a cylindrical cross-sectional shape or a noncylindrical cross-sectional shape such as an oval shape. The substrate may be at least partially hollow, or entirely hollow, with one or both ends being open. In certain embodiments, the substrate is involved in the fabrication of photoreceptors and may be bare or coated with layers such as photosensitive layers typically found in photoreceptors. Due to possible wide range of diameter adjustments afforded by the expandable bulb provision of the embodiments, the processed substrate may have any suitable dimensions.</p>
+<p id="p-0045" num="0044">While the invention has been particularly shown and described with reference to particular embodiments, it will be appreciated that variations of the above-disclosed and other features and functions, or alternatives thereof, may be desirably combined into many other different systems or applications. Various presently unforeseen or unanticipated alternatives, modifications, variations or improvements therein may be subsequently made by those skilled in the art which are also intended to be encompassed by the following claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. An expandable chuck for holding photoreceptor substrates of various inside diameters, comprising:
+<claim-text>(a) a housing having a passageway;</claim-text>
+<claim-text>(b) a plunger configured to slide within the passageway;</claim-text>
+<claim-text>(c) a variable diameter resilient bulb having a substantially smooth and continuous outer surface between a first end and a second end, and configured to expand in diameter in a range from about 24 mm to about 60 mm;</claim-text>
+<claim-text>(d) a stop device extending from an outside surface of the housing, wherein the stop device is configured to abut an outside surface of a substrate to facilitate a stop for a measured length insertion of the bulb into the substrate,</claim-text>
+<claim-text>wherein the plunger is configured to cause the bulb to expand and to engage the interior of the substrate when the plunger is moved in a first direction and to contract and to disengage from the interior of the substrate when the plunger is moved in an second direction, and</claim-text>
+<claim-text>the bulb is configured to expand between a first diameter and a second diameter, each of which is in said range, the first diameter corresponding to an inside diameter of a first photoreceptor substrate and the second diameter corresponding to an inside diameter of a second, larger-diameter photoreceptor substrate, wherein the outer surface of the bulb is configured to form a hermetic seal against an inner surface of each of the first and second photoreceptor substrates to prevent fluid migration into the interior thereof.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The expandable chuck according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the housing is a hollow tube, pipe, or drum.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The expandable chuck according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the housing defines a housing wall and a plurality of holes are provided in the housing wall.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The expandable chuck according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein an end of the housing is threaded to the bulb.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The expandable chuck according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the bulb comprises a wall material with increasing thickness toward the first and second bulb ends.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The expandable chuck according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the plunger comprises a rod.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The expandable chuck according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein an end of the plunger comprises a cone shape tip.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The expandable chuck according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein a midsection of the bulb has a durometer numerical hardness ranging from about 25 to about 40 and one or both ends of the bulb have a durometer hardness ranging from about 45 to about 60.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. An assembly comprising a substrate and an expandable chuck, the assembly comprising:
+<claim-text>the first photoreceptor substrate; and</claim-text>
+<claim-text>the expandable chuck according to <claim-ref idref="CLM-00001">claim 1</claim-ref>.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The assembly according to <claim-ref idref="CLM-00009">claim 9</claim-ref>, further comprising:
+<claim-text>the second photoreceptor substrate.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The expandable chuck according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the bulb comprises a wall defining an interior of the bulb, the wall material having a variable thickness between the first and second bulb ends.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. An assembly comprising:
+<claim-text>a first photoreceptor substrate having an inside diameter of 24, 40 or 60 mm;</claim-text>
+<claim-text>a second photoreceptor substrate having an inside diameter of 24, 40 or 60 mm that is different than the inside diameter of the first photoreceptor substrate; and</claim-text>
+<claim-text>the expandable chuck according to <claim-ref idref="CLM-00001">claim 1</claim-ref>.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. The assembly according to <claim-ref idref="CLM-00012">claim 12</claim-ref>, further comprising:
+<claim-text>a third photoreceptor substrate having an inside diameter of 24, 40 or 60 mm that is different than the inside diameters of the first and second photoreceptor substrates.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. A method for grasping photoreceptor substrates with an expandable chuck comprising:
+<claim-text>inserting the expandable chuck into a first photoreceptor substrate;</claim-text>
+<claim-text>abutting an outside surface of the first photoreceptor substrate using a stop device extending from an outside surface of the expandable chuck;</claim-text>
+<claim-text>expanding a variable diameter resilient bulb of the expandable chuck, the bulb having a substantially smooth and continuous outer surface and configured to expand in diameter in a range from about 24 mm to about 60 mm; and</claim-text>
+<claim-text>forming a hermetic seal against an inner surface of the first photoreceptor substrate to prevent fluid migration into the interior of the first photoreceptor substrate;</claim-text>
+<claim-text>removing the expandable chuck from the first photoreceptor substrate;</claim-text>
+<claim-text>inserting the bulb into the interior of a second photoreceptor substrate having a different inside diameter than that of the first photoreceptor substrate; and</claim-text>
+<claim-text>expanding the bulb to engage an inner surface of the second photoreceptor substrate to form a hermetic seal against the inner surface of the second photoreceptor substrate to prevent fluid migration into the interior of the second substrate,</claim-text>
+<claim-text>wherein the inside diameter of each of the first and the second photoreceptor substrates is in said range.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The method according to <claim-ref idref="CLM-00014">claim 14</claim-ref>, further comprising:
+<claim-text>dipping one of first and second photoreceptor substrates in a coating material.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The method according to <claim-ref idref="CLM-00014">claim 14</claim-ref>, further comprising:
+<claim-text>contracting the bulb to disengage the bulb from the interior of one of first and second first and second photoreceptor substrates; and</claim-text>
+<claim-text>removing the bulb from said one of the photoreceptor substrates. </claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

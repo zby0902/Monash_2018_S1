@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891071-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891071</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12709048</doc-number>
+<date>20100219</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<us-term-of-grant>
+<disclaimer>
+<text>This patent is subject to a terminal disclaimer.</text>
+</disclaimer>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>16</class>
+<subclass>B</subclass>
+<main-group>21</main-group>
+<subgroup>02</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 29453</main-classification>
+<further-classification>403325</further-classification>
+<further-classification>403340</further-classification>
+<further-classification> 24453</further-classification>
+<further-classification> 24458</further-classification>
+<further-classification>600417</further-classification>
+<further-classification>606130</further-classification>
+</classification-national>
+<invention-title id="d2e51">Universal coupler</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>3145441</doc-number>
+<kind>A</kind>
+<name>Strandrud</name>
+<date>19640800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>3466965</doc-number>
+<kind>A</kind>
+<name>McCarthy</name>
+<date>19690900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3747168</doc-number>
+<kind>A</kind>
+<name>Snarskis</name>
+<date>19730700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>3956803</doc-number>
+<kind>A</kind>
+<name>Leitner et al.</name>
+<date>19760500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>4372015</doc-number>
+<kind>A</kind>
+<name>Rhoton</name>
+<date>19830200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>4696611</doc-number>
+<kind>A</kind>
+<name>Guay</name>
+<date>19870900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>4789287</doc-number>
+<kind>A</kind>
+<name>Le</name>
+<date>19881200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>5002547</doc-number>
+<kind>A</kind>
+<name>Poggie et al.</name>
+<date>19910300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>5443471</doc-number>
+<kind>A</kind>
+<name>Swajger</name>
+<date>19950800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>5484446</doc-number>
+<kind>A</kind>
+<name>Burke et al.</name>
+<date>19960100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>5499985</doc-number>
+<kind>A</kind>
+<name>Hein</name>
+<date>19960300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>5741263</doc-number>
+<kind>A</kind>
+<name>Umber</name>
+<date>19980400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>5928241</doc-number>
+<kind>A</kind>
+<name>Menut</name>
+<date>19990700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>5935132</doc-number>
+<kind>A</kind>
+<name>Bettuchi</name>
+<date>19990800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>6267543</doc-number>
+<kind>B1</kind>
+<name>David et al.</name>
+<date>20010700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>6289557</doc-number>
+<kind>B1</kind>
+<name>Manson et al.</name>
+<date>20010900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>6659513</doc-number>
+<kind>B1</kind>
+<name>Ramsauer</name>
+<date>20031200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>6732976</doc-number>
+<kind>B2</kind>
+<name>Hessling et al.</name>
+<date>20040500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>6893184</doc-number>
+<kind>B2</kind>
+<name>Mills et al.</name>
+<date>20050500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>6997658</doc-number>
+<kind>B2</kind>
+<name>Fly</name>
+<date>20060200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>7329066</doc-number>
+<kind>B2</kind>
+<name>Pineiros et al.</name>
+<date>20080200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>7686533</doc-number>
+<kind>B2</kind>
+<name>Collazo</name>
+<date>20100300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>403325</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>2003/0055432</doc-number>
+<kind>A1</kind>
+<name>Steiger</name>
+<date>20030300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>2003/0163134</doc-number>
+<kind>A1</kind>
+<name>Riedel</name>
+<date>20030800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>US</country>
+<doc-number>2003/0205903</doc-number>
+<kind>A1</kind>
+<name>Kelley et al.</name>
+<date>20031100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>US</country>
+<doc-number>2004/0010258</doc-number>
+<kind>A1</kind>
+<name>Carusillo</name>
+<date>20040100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>US</country>
+<doc-number>2006/0179979</doc-number>
+<kind>A1</kind>
+<name>Dees</name>
+<date>20060800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>US</country>
+<doc-number>2008/0147075</doc-number>
+<kind>A1</kind>
+<name>Bonutti</name>
+<date>20080600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>25</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>4033221</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>4033222</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>403322-325</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>403388</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>403240</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>600417</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>606130</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 24453</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 24458</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 29453</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>11</number-of-drawing-sheets>
+<number-of-figures>13</number-of-figures>
+</figures>
+<us-related-documents>
+<division>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>10972223</doc-number>
+<date>20041022</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>7686533</doc-number>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>12709048</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</division>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20100152733</doc-number>
+<kind>A1</kind>
+<date>20100617</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Collazo</last-name>
+<first-name>Carlos E.</first-name>
+<address>
+<city>Old Greenwich</city>
+<state>CT</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Lerner, David, Littenberg, Krumholz &#x26; Mentlik, LLP</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Howmedica Osteonics Corp.</orgname>
+<role>02</role>
+<address>
+<city>Mahwah</city>
+<state>NJ</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Kennedy</last-name>
+<first-name>Joshua T</first-name>
+<department>3679</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A universal coupler for coupling multiple orthopedic instruments is disclosed. The universal coupler includes a body having a boss and an internal bore, a locking shaft having a first portion and a second portion, a trigger including a trigger bore, and a connection portion. The trigger is operable between a first position and a second position, where in the first position the first portion and boss are misaligned and in the second position the first portion and the boss are aligned.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="111.17mm" wi="146.98mm" file="US07891071-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="161.80mm" wi="114.89mm" orientation="landscape" file="US07891071-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="164.68mm" wi="122.94mm" orientation="landscape" file="US07891071-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="199.64mm" wi="128.52mm" orientation="landscape" file="US07891071-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="200.32mm" wi="146.90mm" orientation="landscape" file="US07891071-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="195.07mm" wi="91.86mm" orientation="landscape" file="US07891071-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="144.86mm" wi="116.50mm" orientation="landscape" file="US07891071-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="196.77mm" wi="108.97mm" orientation="landscape" file="US07891071-20110222-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="156.63mm" wi="149.10mm" orientation="landscape" file="US07891071-20110222-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="180.59mm" wi="149.18mm" orientation="landscape" file="US07891071-20110222-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="109.90mm" wi="121.33mm" orientation="landscape" file="US07891071-20110222-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="136.65mm" wi="131.91mm" orientation="landscape" file="US07891071-20110222-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<p id="p-0002" num="0001">This application is a divisional of U.S. application Ser. No. 10/972,223, filed on Oct. 22, 2004, now U.S. Pat. No. 7,686,533, the disclosure of which is incorporated herein by reference.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0003" num="0002">The present invention relates to the assembly or mating of surgical instruments, and more particularly, to a quick connect universal coupler for allowing the temporary coupling of multiple surgical instruments.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0004" num="0003">Many surgical procedures require the use of orthopedic instruments and ancillary instruments, such as resection guides, gauges, tracking devices, and positioning apparatus. Often times, these various instruments are interactive and need to be assembled and disassembled with each other, thereby requiring some sort of assembly during the surgical procedure. For example, total knee arthroplasty instrumentation frequently requires the use of locating styli or navigation trackers to properly align resection guides. These positioning tools must typically be removably attached to their respective resection guides, to allow for both easy insertion and proper use of the resection guides during surgery.</p>
+<p id="p-0005" num="0004">There have been many attempts at designing coupling means to assemble ancillary instruments, such as tibial and femoral styli, to their counterpart instrument (e.g. &#x2014;resection guides) during surgery. These means include threaded designs, ball plunger designs and tongue and groove designs. However, problems exist with each of these designs. Threaded designs take significant time to align, turn, and lock. Additionally, applying adequate locking torque to a relatively small screw head is difficult to do with slippery gloves. Ball plunger designs are not ergonomic to use, as they are generally designed to be activated from the top by compressing a spring loaded release button with the thumb, while holding and stabilizing the instrument with the index and middle fingers. If the ancillary instrument is being attached to an instrument already secured to the bone, operating a ball plunger requires the hand to be forced into a partially supinated position that is not optimum from an ergonomic stand point. Finally, tongue and groove designs are used primarily in tibial cutting guides where a slot used for the saw blade is already present. This design is thus limited to instruments that may not be able to accommodate a slot due to size and/or shape constraints.</p>
+<p id="p-0006" num="0005">For the foregoing reasons, there exists a need for a coupler or connector that is quick and easy to utilize.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0007" num="0006">A first aspect of the present invention is a universal coupler. The universal coupler according to this aspect includes a body including a boss and an internal bore, a locking shaft including a first portion and a second portion, the second portion disposed within the internal bore of the body, a trigger including a trigger bore for receiving the second portion of the locking shaft, and a connection portion connected to the body for facilitating the connection of the universal coupler to an ancillary instrument. The actuation of the trigger from a first position to a second position moves the locking shaft from a first position in which the locking shaft is misaligned from the boss, to a second position in which the locking shaft is aligned with the boss.</p>
+<p id="p-0008" num="0007">Another embodiment of the present invention is another universal coupler. The universal couple according to this embodiment includes a boss including an internal bore, the boss having a first axis and the internal bore having a second axis, the first axis and second axis being parallel and spaced apart a first distance; a locking shaft including a first portion and a second portion, the first portion having a third axis and the second portion having a fourth axis, the third axis and fourth axis being parallel and spaced apart a second distance, the second portion disposed within the internal bore of the boss and the first distance equal to the second distance; and a trigger assembly including a trigger, the trigger having a trigger bore for receiving the second portion of the locking shaft. The trigger is movable between a first position and a second position, the first position causing the boss and the locking shaft to be misaligned and the second position causing the boss and the locking shaft to align.</p>
+<p id="p-0009" num="0008">Yet another embodiment of the present invention is a coupling system for connecting two parts. The system includes a first part having a bore having an end open to an enlarged portion forming a shoulder between the bore end and the enlarged portion, a second part having a cannulated shaft having an outer surface sized to be received within the bore in the first part, the cannulation in the shaft extending along an axis offset from at least a portion of the outer shaft surface; and a locking element rotatably received within the cannulation, the locking element having a first end with an actuator coupled thereto for rotating the locking element within the second part and a second end having a radially extending flange, the flange having portions spaced from the axis of the cannulation a distance such that rotation of the locking element with the actuator moves the flange from a first position wherein the flange extends beyond a portion of the shaft outer surface into engagement with the shoulder of the first part to connect the first and second parts to a second position wherein the flange is aligned within the shaft outer surface to allow insertion or removal of the shaft from the bore in the first part.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0010" num="0009">The present invention will be better understood on reading the following detailed description of non-limiting embodiments thereof, and on examining the accompanying drawings, in which:</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. 1</figref> is a top perspective view of the universal coupler according to an embodiment of the present invention with its trigger in a first position.</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. 2</figref> is a top perspective view of the universal coupler according to <figref idref="DRAWINGS">FIG. 1</figref> with its trigger in a second position.</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 3</figref> is a side view of the universal coupler according to <figref idref="DRAWINGS">FIG. 2</figref> with internal structure being in phantom.</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 4</figref> is a top cross sectional view of section A-A of <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 5</figref> is a side perspective view of the locking shaft according to <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 6</figref> is a top cross sectional view of section B-B of <figref idref="DRAWINGS">FIG. 3</figref>.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 7</figref> is a top view of the universal coupler according to <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIGS. 8</figref><i>a</i>-<b>8</b><i>d </i>depict the universal coupler according to various embodiments of the present invention having different connection portions and connected to different instruments.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 9</figref> is a front cross sectional view of the present invention depicting the connection between the universal coupler of <figref idref="DRAWINGS">FIG. 1</figref> and another instrument.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 10</figref> is a side view of the universal coupler according to another embodiment of the present invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0021" num="0020">In describing the preferred embodiments of the subject matter illustrated and to be described with respect to the drawings, specific terminology will be resorted to for the sake of clarity. However, the invention is not intended to be limited to the specific term and includes all technical equivalence which operates in a similar manner to accomplish a similar purpose.</p>
+<p id="p-0022" num="0021">Referring to the drawings, wherein like reference numerals represent like elements, there is shown in the Figures, in accordance with embodiments of the present invention, a universal coupler designated generally by reference numeral <b>10</b>. In the embodiment shown in the Figures, coupler <b>10</b> is designed to be used in coupling at least two and preferably multiple instruments together in order to perform surgery. For example, as shown in <figref idref="DRAWINGS">FIGS. 8</figref><i>a</i>-<b>8</b><i>d </i>respectively, coupler <b>10</b> may be used in coupling a patella caliper to a single jaw of a patella resection guide, a navigation tracker adapter to a tibial alignment handle, a femoral stylus to an anterior posterior femoral resection guide, and tibial stylus to a tibial resection guide. While certain instruments are specifically shown being coupled by coupler <b>10</b>, it is noted that any combination of instruments may be assembled together. As shown in the Figures, coupler <b>10</b> includes body <b>12</b>, cylindrical boss or shaft <b>14</b>, locking shaft or flange <b>16</b>, trigger or actuator <b>18</b>, and connection portion <b>20</b>.</p>
+<p id="p-0023" num="0022">The preferred body <b>12</b>, as shown in the Figures is substantially rectangular, but may be any shape. Cylindrical boss <b>14</b> is a substantially circular tube extending from body <b>12</b>, and like that of body <b>12</b> may be any shape, the only requirement being that its shape must correspond to a hole which it is inserted into. This will be further discussed below. In the embodiment shown in <figref idref="DRAWINGS">FIGS. 1 and 2</figref>, body <b>12</b> and cylindrical boss <b>14</b> are a single unitary body. However, it is contemplated that other embodiments may include separately constructed pieces that are thereafter mated together by such techniques as welding. As best shown in <figref idref="DRAWINGS">FIG. 1</figref>, body <b>12</b> includes main housing <b>22</b> and recessed portion <b>24</b>. Recessed portion <b>24</b> is adapted to receive trigger or actuator <b>18</b>. This will be discussed further below. Further, body <b>12</b> also includes internal bore <b>26</b> (best shown in <figref idref="DRAWINGS">FIG. 2</figref>) and spring assembly <b>28</b>. In the preferred embodiment, internal bore or cannulation <b>26</b> extends through the entire unitary form created by body <b>12</b> and cylindrical boss <b>14</b>, thus extending through recessed portion <b>24</b>, main housing <b>22</b>, and cylindrical boss <b>14</b>. Internal bore <b>26</b> is eccentrically located to a center axis of cylindrical boss <b>14</b>. As is best shown in <figref idref="DRAWINGS">FIG. 3</figref>, spring assembly <b>28</b> includes spring <b>30</b> and plunger <b>32</b>, both of which are housed within counter bore <b>34</b>. The operation of spring assembly <b>28</b> will be discussed below.</p>
+<p id="p-0024" num="0023">In the preferred embodiment locking shaft <b>16</b> includes a first cylindrical portion <b>36</b> and a second cylindrical portion <b>38</b>. This is best shown in <figref idref="DRAWINGS">FIG. 4</figref>. First and second cylindrical portions <b>36</b> and <b>38</b> are formed integral with one another, however, it is contemplated that they may be formed separately and attached thereafter. First cylindrical portion <b>36</b> is typically the same shape and has substantially the same diameter as cylindrical boss <b>14</b>. Second cylindrical portion <b>38</b> is substantially circular, with a diameter slightly smaller than that of internal bore <b>26</b>. Second cylindrical portion <b>38</b> is arranged eccentric to a center axis of first cylindrical portion <b>36</b>. The distance second cylindrical portion <b>38</b> is offset from the center axis of first cylindrical portion <b>36</b> is substantially equal to the distance which internal bore <b>26</b> is offset from the center axis of cylindrical boss <b>14</b>. Upon assembly of locking shaft <b>16</b> with the remainder of the elements of coupler <b>10</b>, second cylindrical portion <b>38</b> is placed into and through internal bore <b>26</b>. The cooperation between second cylindrical portion <b>38</b> and cylindrical boss <b>14</b> is depicted in the cross sectional view of <figref idref="DRAWINGS">FIG. 5</figref>.</p>
+<p id="p-0025" num="0024">As is best shown in <figref idref="DRAWINGS">FIG. 3</figref>, trigger or actuator <b>18</b> is a substantially U-shaped member designed to fit within recessed portion <b>24</b> of body <b>12</b>. However, it is contemplated that trigger <b>18</b> may be of any shape. Trigger <b>18</b> includes trigger bore <b>40</b>, which is configured and sized to receive the portion of second cylindrical portion <b>38</b> that extends through internal bore <b>26</b>. Essentially, the connection between second cylindrical portion <b>38</b> and trigger bore <b>40</b> fixably mounts body <b>12</b>, boss <b>14</b>, and locking shaft <b>16</b> of coupler <b>10</b> to one another, while also allowing for the rotation of trigger <b>18</b> and second cylindrical portion with respect to body <b>12</b>.</p>
+<p id="p-0026" num="0025">The assembly of locking shaft <b>16</b> and trigger <b>18</b> to body <b>12</b> and boss <b>14</b> should be such that when trigger <b>18</b> is in a first position, locking shaft <b>16</b> is misaligned from boss <b>14</b>. This first position is depicted in <figref idref="DRAWINGS">FIG. 1</figref>. The eccentric arrangement of second cylindrical portion <b>38</b> with respect to first cylindrical portion <b>36</b> allows for the misalignment of locking shaft <b>16</b> and boss <b>14</b>. Essentially, trigger <b>18</b> is placed in its first position and attached to locking shaft <b>16</b> while the locking shaft is rotated with respect to boss <b>14</b>. The aforementioned spring assembly <b>28</b> is designed and positioned to provide a constant force to trigger <b>18</b> and cause the trigger to remain in this first position, absent some sort of counteracting force. Upon application of a counteracting force, trigger <b>18</b> is rotated, along with second cylindrical portion <b>38</b>, into a second position, in which locking shaft <b>16</b> and boss <b>14</b> are aligned. This position is best shown in <figref idref="DRAWINGS">FIG. 2</figref>.</p>
+<p id="p-0027" num="0026">Connection portion <b>20</b> is connected to recessed portion <b>24</b> of body <b>12</b>. As shown in the Figures, connection portion <b>20</b> is formed integral with body <b>12</b>, thus, boss <b>14</b>, main housing <b>22</b>, recessed portion <b>24</b>, and connection portion <b>20</b> make up a single unitary body. However, it is contemplated that each element may be formed separately, and thereafter attached to one another. Connection portion <b>20</b>, as shown in the Figures, is designed and configured to receive and hold a stylus <b>42</b>. In the embodiment shown, connection portion <b>20</b> is substantially rectangular with one rounded side, and includes reception hole <b>44</b>, bore <b>46</b>, and spring loaded ball detent <b>48</b>. Reception hole <b>44</b> is adapted to receive a portion of stylus <b>42</b>, and ball detent <b>48</b> is adapted to apply a force thereto to hold stylus <b>42</b> in place. In other embodiments, connection portion <b>20</b> may include a set screw bore and set screw. In these embodiments, the set screw is adapted, when tightened in the set screw bore, to hold stylus <b>42</b> in place. It is contemplated that various other instruments may be connected to coupler <b>10</b> by connection portion <b>20</b>. It is also contemplated that connection portion <b>20</b> can be various configurations in order to accommodate the attachment of different instruments. For example, <figref idref="DRAWINGS">FIG. 7</figref><i>a</i>-<b>7</b><i>d </i>show different connection portions <b>20</b> for receiving and holding different instruments.</p>
+<p id="p-0028" num="0027">Another aspect of the present invention is a method of coupling an ancillary instrument to an orthopedic instrument. The method according to this aspect of the present invention includes the step of providing a universal coupler as discussed above. It is noted that the coupler can be in accordance with any of the various embodiments disclosed herein, as the particular design may not cause the standard method steps to significantly deviate. For the sake of ease in explaining the method, coupler <b>10</b> will be utilized herein. The method according to this aspect of the present invention also includes the step of providing an instrument having a mating hole sufficient for receiving coupler <b>10</b>, such as resection guide <b>60</b>, as well as an ancillary instrument such as stylus <b>42</b>.</p>
+<p id="p-0029" num="0028">In another step according to the method, stylus <b>42</b> or other ancillary instrument is attached to coupler <b>10</b>. It is contemplated that this step may be performed prior or subsequent to connecting coupler <b>10</b> to an orthopedic instrument. In one preferred embodiment, stylus <b>42</b> is connected to coupler <b>10</b> prior to attachment of coupler <b>10</b> to resection guide <b>60</b>. In order to connect stylus <b>42</b> to coupler <b>10</b>, a portion of the stylus is inserted into reception hole <b>44</b>, where ball detent <b>48</b> is disposed to hold stylus <b>42</b> in place. With stylus <b>42</b> attached to coupler <b>10</b>, trigger <b>18</b> is depressed, thereby aligning locking shaft <b>16</b> with boss <b>14</b> and creating a continuous tubular shaft. This continuous shaft is inserted into a mating hole <b>50</b> of resection guide <b>60</b>, until locking shaft <b>16</b> extends beyond hole <b>50</b>. Thereafter, the continuous force applied to depress trigger <b>18</b> is ceased and spring assembly <b>28</b> causes trigger <b>18</b> to return to its first position. This in turn causes locking shaft or flange <b>16</b> and boss <b>14</b> to become misaligned, and coupler <b>10</b>, along with stylus <b>42</b>, is coupled to resection guide <b>60</b>. In a preferred embodiment, the preferred offset is approximately 0.042 inches, and the rotation necessary to align flange <b>16</b> and boss <b>14</b> is approximately 30 degrees. However, it is contemplated that these dimensions can vary in different embodiments. As shown in <figref idref="DRAWINGS">FIG. 8</figref>, coupler <b>10</b> includes boss <b>14</b> having a diameter D<b>1</b> and a length L<b>1</b>. Mating hole <b>50</b> has a diameter D<b>2</b> and a length L<b>2</b>. It the embodiment shown, D<b>1</b> is slightly less than D<b>2</b> and L<b>1</b> is slightly longer than L<b>2</b>. This allows for the solid and sturdy connection between the coupler and the instrument.</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 9</figref> shows another embodiment of the present invention, universal coupler <b>110</b>. Coupler <b>110</b> is substantially similar to coupler <b>10</b>, except for a different connection portion <b>120</b> and the inclusion of rotation locking element <b>122</b>. Connection portion <b>120</b> is configured to allow for the connection and vertical positioning of ancillary instrument <b>124</b>. Ancillary instrument <b>124</b> is a height or thickness gauge for measuring the thickness of a patella, but may be any other type of instrument. Locking element <b>122</b> is hexagonal extension extending from body <b>112</b> and connected to boss <b>114</b>. Locking element <b>122</b> is designed to fit within a corresponding hexagonal aperture located around a mating hole similar to mating hole <b>50</b> discussed above. Upon insertion of coupler <b>110</b> into the mating hole having a hexagonal aperture, locking element <b>122</b> engages the hexagonal aperture. While the misalignment of locking shaft <b>116</b> and boss <b>114</b> only prevents removal of coupler <b>110</b> from the mating hole, the locking element <b>122</b> and hexagonal aperture relationship also prevent the rotation of coupler <b>110</b>. This is desired in certain situations where both coupling and rotation locking are required. It is contemplated that in other embodiments, locking element <b>122</b> may be any shape suitable for preventing rotation of coupler <b>110</b>. The only requirement being that locking element <b>122</b> be configured to mate with a corresponding mating hole. It is also contemplated that rather than including locking element <b>122</b>, boss <b>114</b> and locking shaft <b>116</b> may be shaped in order to similarly prevent rotation.</p>
+<p id="p-0031" num="0030">Although the invention herein has been described with reference to particular embodiments, it is to be understood that these embodiments are merely illustrative of the principles and applications of the present invention. It is therefore to be understood that numerous modifications may be made to the illustrative embodiments and that other arrangements may be devised without departing from the spirit and scope of the present invention as defined by the appended claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>The invention claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A method of coupling an ancillary instrument to an orthopedic instrument comprising the steps of:
+<claim-text>providing a coupler having a first portion having a first axis, a second portion having a second axis rotatably mounted relative to the first portion, and a trigger fixed to the second portion wherein the trigger is biased to a first position in which the first and second portions are misaligned such that the axes are askew and can be actuated to a second position in which the first and second portions are aligned such that the axes are coaxial;</claim-text>
+<claim-text>coupling the coupler to the ancillary instrument;</claim-text>
+<claim-text>actuating the trigger to the second position;</claim-text>
+<claim-text>inserting at least portions of the first and second portions in an aperture of the orthopedic instrument; and</claim-text>
+<claim-text>releasing the trigger.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the first portion is a body including a boss and an internal bore, and the second portion is a locking shaft disposed with the internal bore.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The method of <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the trigger includes a trigger bore for receiving at least a portion of the locking shaft.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the trigger is biased by a spring.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising the steps of:
+<claim-text>actuating the trigger to the second position and</claim-text>
+<claim-text>removing the at least portion of the first and second portions from the aperture.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the ancillary instrument is a stylus.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the ancillary instrument is a gauge.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the orthopedic instrument is a resection guide.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the actuation step includes moving the trigger in a first direction and the inserting step includes moving the coupler in a second direction, the first and second directions being perpendicular.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the coupling step includes inserting the ancillary instrument in a bore formed in the first portion.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising the step of engaging a locking element of the coupler with a corresponding aperture of the orthopedic instrument.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The method of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the locking element and corresponding aperture are non-circular.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. A method of coupling an ancillary instrument to an orthopedic instrument comprising the steps of:
+<claim-text>providing a coupler having a first portion having a first axis, a second portion having a second axis rotatably mounted relative to the first portion, and a trigger fixed to the second portion wherein the trigger is biased by a spring to a first position in which the first and second portions are misaligned such that the axes are askew and can be actuated to a second position in which the first and second portions are aligned such that the axes are coaxial;</claim-text>
+<claim-text>coupling the coupler to the ancillary instrument;</claim-text>
+<claim-text>actuating the trigger to the second position;</claim-text>
+<claim-text>inserting at least portions of the first and second portions in an aperture of the orthopedic instrument; and</claim-text>
+<claim-text>releasing the trigger,</claim-text>
+<claim-text>wherein the actuation step includes moving the trigger in a first direction and the inserting step includes moving the coupler in a second direction, the first and second directions being perpendicular.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The method of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the first portion is a body including a boss and an internal bore, and the second portion is a locking shaft disposed with the internal bore.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The method of <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein the trigger includes a trigger bore for receiving at least a portion of the locking shaft.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The method of <claim-ref idref="CLM-00013">claim 13</claim-ref>, further comprising the steps of:
+<claim-text>actuating the trigger to the second position and</claim-text>
+<claim-text>removing the at least portion of the first and second portions from the aperture.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. The method of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the ancillary instrument is a stylus.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The method of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the ancillary instrument is a gauge.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The method of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the orthopedic instrument is a resection guide.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The method of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the coupling step includes inserting the ancillary instrument in a bore formed in the first portion.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text>21. The method of <claim-ref idref="CLM-00013">claim 13</claim-ref>, further comprising the step of engaging a locking element of the coupler with a corresponding aperture of the orthopedic instrument.</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text>22. The method of <claim-ref idref="CLM-00021">claim 21</claim-ref>, wherein the locking element and corresponding aperture are non-circular.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text>23. A method of coupling an ancillary instrument to an orthopedic instrument comprising the steps of:
+<claim-text>providing a coupler having a first portion having a first axis, a second portion having a second axis rotatably mounted relative to the first portion, and a trigger fixed to the second portion wherein the trigger is biased to a first position in which the first and second portions are misaligned such that the axes are askew and can be actuated to a second position in which the first and second portions are aligned such that the axes are coaxial;</claim-text>
+<claim-text>coupling the coupler to the ancillary instrument;</claim-text>
+<claim-text>actuating the trigger to the second position;</claim-text>
+<claim-text>inserting at least portions of the first and second portions in an aperture of the orthopedic instrument;</claim-text>
+<claim-text>engaging a locking element of the coupler with a corresponding aperture of the orthopedic instrument; and</claim-text>
+<claim-text>releasing the trigger.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text>24. The method of <claim-ref idref="CLM-00023">claim 23</claim-ref>, wherein the trigger is biased by a spring.</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text>25. The method of <claim-ref idref="CLM-00023">claim 23</claim-ref>, wherein the actuation step includes moving the trigger in a first direction and the inserting step includes moving the coupler in a second direction, the first and second directions being perpendicular. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

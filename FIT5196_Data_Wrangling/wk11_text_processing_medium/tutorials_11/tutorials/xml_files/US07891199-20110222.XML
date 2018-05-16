@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891199-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891199</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11895919</doc-number>
+<date>20070828</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>772</us-term-extension>
+<disclaimer>
+<text>This patent is subject to a terminal disclaimer.</text>
+</disclaimer>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>25</class>
+<subclass>B</subclass>
+<main-group>45</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 62 77</main-classification>
+<further-classification> 62125</further-classification>
+<further-classification> 624573</further-classification>
+</classification-national>
+<invention-title id="d2e55">Cryogenic apparatus for chilling beverages and food products and process of manufacturing the same</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>4735348</doc-number>
+<kind>A</kind>
+<name>Santoiemmo et al.</name>
+<date>19880400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>222399</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>4881666</doc-number>
+<kind>A</kind>
+<name>Tullman et al.</name>
+<date>19891100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>2223865</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>5904267</doc-number>
+<kind>A</kind>
+<name>Thompson</name>
+<date>19990500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>22059216</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>5960998</doc-number>
+<kind>A</kind>
+<name>Brown</name>
+<date>19991000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>222131</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>6216913</doc-number>
+<kind>B1</kind>
+<name>Bilskie et al.</name>
+<date>20010400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>222 67</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>6220311</doc-number>
+<kind>B1</kind>
+<name>Litto</name>
+<date>20010400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>141 67</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>6397624</doc-number>
+<kind>B1</kind>
+<name>Horwell</name>
+<date>20020600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 624578</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>7021559</doc-number>
+<kind>B2</kind>
+<name>Fraser-Easton</name>
+<date>20060400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>239302</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>WO</country>
+<doc-number>WO 96/09506</doc-number>
+<date>19960300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>8</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 62125</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 624573</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 624574</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 624579</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 62268</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 62293</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 62294</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 62389</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification> 62 77</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>220500</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>220665</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>2221466</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>222399</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>426109</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>426524</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>40</number-of-drawing-sheets>
+<number-of-figures>40</number-of-figures>
+</figures>
+<us-related-documents>
+<continuation-in-part>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>11202866</doc-number>
+<date>20050812</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>7260944</doc-number>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>11895919</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation-in-part>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20080053117</doc-number>
+<kind>A1</kind>
+<date>20080306</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Anthony</last-name>
+<first-name>Michael</first-name>
+<address>
+<street>10189 W. Sample Rd.</street>
+<city>Coral Springs</city>
+<state>FL</state>
+<postcode>33065</postcode>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>Bowen, Esq.</last-name>
+<first-name>Mark D.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<orgname>Malin Haley DiMaggio Bowen &#x26; Lhota, P.A.</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<examiners>
+<primary-examiner>
+<last-name>Ali</last-name>
+<first-name>Mohammad M</first-name>
+<department>3784</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">Self-cooling food and beverage containers and processes for manufacturing such containers with cryogenic high-pressure refrigerant cooling apparatus are disclosed. A self-cooling beverage container apparatus containing a beverage or other food product, a method of storing cryogenic gases which then cool said food products, and to methods of assembling and operating the apparatus. A self-cooling beverage container includes a container body having an openable portion, a pressure vessel substantially housed within said container body, the pressure vessel having a first chamber for containing a refrigerant, an actuation valve configurable from a closed configuration wherein the refrigerant is maintained within the pressure vessel to an open configuration wherein said refrigerant is allowed to expand and exit the pressure vessel upon opening of said container whereby refrigerant expansion and flow through said outlet conduit cools the contents of said container.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="164.42mm" wi="133.77mm" file="US07891199-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="206.76mm" wi="173.82mm" orientation="landscape" file="US07891199-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="191.77mm" wi="163.49mm" orientation="landscape" file="US07891199-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="208.36mm" wi="157.56mm" orientation="landscape" file="US07891199-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="196.77mm" wi="161.37mm" orientation="landscape" file="US07891199-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="194.23mm" wi="172.80mm" orientation="landscape" file="US07891199-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="200.83mm" wi="156.46mm" orientation="landscape" file="US07891199-20110222-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="219.79mm" wi="158.50mm" orientation="landscape" file="US07891199-20110222-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="197.36mm" wi="155.87mm" orientation="landscape" file="US07891199-20110222-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="226.65mm" wi="148.93mm" orientation="landscape" file="US07891199-20110222-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="195.07mm" wi="151.72mm" orientation="landscape" file="US07891199-20110222-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="205.74mm" wi="154.77mm" orientation="landscape" file="US07891199-20110222-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="211.33mm" wi="160.02mm" orientation="landscape" file="US07891199-20110222-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="198.29mm" wi="157.82mm" orientation="landscape" file="US07891199-20110222-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="203.28mm" wi="163.49mm" orientation="landscape" file="US07891199-20110222-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="210.48mm" wi="170.35mm" orientation="landscape" file="US07891199-20110222-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="213.36mm" wi="155.45mm" orientation="landscape" file="US07891199-20110222-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="215.31mm" wi="160.10mm" orientation="landscape" file="US07891199-20110222-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00018" num="00018">
+<img id="EMI-D00018" he="212.51mm" wi="158.24mm" orientation="landscape" file="US07891199-20110222-D00018.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00019" num="00019">
+<img id="EMI-D00019" he="209.89mm" wi="157.23mm" orientation="landscape" file="US07891199-20110222-D00019.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00020" num="00020">
+<img id="EMI-D00020" he="197.02mm" wi="148.59mm" orientation="landscape" file="US07891199-20110222-D00020.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00021" num="00021">
+<img id="EMI-D00021" he="189.74mm" wi="171.28mm" orientation="landscape" file="US07891199-20110222-D00021.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00022" num="00022">
+<img id="EMI-D00022" he="223.35mm" wi="182.12mm" orientation="landscape" file="US07891199-20110222-D00022.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00023" num="00023">
+<img id="EMI-D00023" he="180.76mm" wi="173.82mm" orientation="landscape" file="US07891199-20110222-D00023.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00024" num="00024">
+<img id="EMI-D00024" he="246.38mm" wi="156.46mm" orientation="landscape" file="US07891199-20110222-D00024.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00025" num="00025">
+<img id="EMI-D00025" he="191.43mm" wi="168.99mm" orientation="landscape" file="US07891199-20110222-D00025.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00026" num="00026">
+<img id="EMI-D00026" he="179.66mm" wi="159.34mm" orientation="landscape" file="US07891199-20110222-D00026.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00027" num="00027">
+<img id="EMI-D00027" he="206.67mm" wi="170.10mm" orientation="landscape" file="US07891199-20110222-D00027.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00028" num="00028">
+<img id="EMI-D00028" he="216.07mm" wi="158.92mm" orientation="landscape" file="US07891199-20110222-D00028.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00029" num="00029">
+<img id="EMI-D00029" he="212.34mm" wi="168.66mm" orientation="landscape" file="US07891199-20110222-D00029.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00030" num="00030">
+<img id="EMI-D00030" he="191.43mm" wi="159.17mm" orientation="landscape" file="US07891199-20110222-D00030.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00031" num="00031">
+<img id="EMI-D00031" he="142.75mm" wi="117.43mm" orientation="landscape" file="US07891199-20110222-D00031.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00032" num="00032">
+<img id="EMI-D00032" he="142.66mm" wi="120.57mm" orientation="landscape" file="US07891199-20110222-D00032.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00033" num="00033">
+<img id="EMI-D00033" he="144.78mm" wi="95.00mm" orientation="landscape" file="US07891199-20110222-D00033.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00034" num="00034">
+<img id="EMI-D00034" he="158.92mm" wi="116.42mm" orientation="landscape" file="US07891199-20110222-D00034.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00035" num="00035">
+<img id="EMI-D00035" he="149.10mm" wi="99.14mm" orientation="landscape" file="US07891199-20110222-D00035.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00036" num="00036">
+<img id="EMI-D00036" he="171.62mm" wi="140.38mm" orientation="landscape" file="US07891199-20110222-D00036.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00037" num="00037">
+<img id="EMI-D00037" he="155.87mm" wi="117.94mm" orientation="landscape" file="US07891199-20110222-D00037.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00038" num="00038">
+<img id="EMI-D00038" he="131.32mm" wi="102.87mm" orientation="landscape" file="US07891199-20110222-D00038.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00039" num="00039">
+<img id="EMI-D00039" he="168.83mm" wi="102.79mm" orientation="landscape" file="US07891199-20110222-D00039.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00040" num="00040">
+<img id="EMI-D00040" he="129.29mm" wi="103.04mm" orientation="landscape" file="US07891199-20110222-D00040.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">CROSS REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is a continuation-in-part of U.S. patent application Ser. No. 11/202,866, filed on Aug. 12. 2005, now U.S. Pat. No. 7,260,944.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">STATEMENT REGARDING FEDERALLY SPONSORED RESEARCH OR DEVELOPMENT</heading>
+<p id="p-0003" num="0002">N/A</p>
+<heading id="h-0003" level="1">COPYRIGHT NOTICE</heading>
+<p id="p-0004" num="0003">A portion of the disclosure of this patent document contains material that is subject to copyright protection. The copyright owner has no objection to the facsimile reproduction by anyone of the patent document or patent disclosure as it appears in the Patent and Trademark Office patent file or records, but otherwise reserves all copyrights rights whatsoever.</p>
+<heading id="h-0004" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0005" num="0004">1. Field of the Invention</p>
+<p id="p-0006" num="0005">The present novel invention relates generally to the field of food and beverage containers and to processes for manufacturing such containers with cryogenic high pressure refrigerant cooling apparatus. More specifically the present invention relates to a self-cooling beverage container apparatus containing a beverage or other food product, a method of storing cryogenic gases which then cool said food products, and to methods of assembling and operating the apparatus. The terms &#x201c;beverage,&#x201d; &#x201c;food,&#x201d; &#x201c;food products&#x201d; and &#x201c;container contents&#x201d; are considered as equivalent for the purposes of this application and used interchangeably. The term &#x201c;container&#x201d; refers to any storage means for a beverage or food product.</p>
+<p id="p-0007" num="0006">2. Description of the Prior Art</p>
+<p id="p-0008" num="0007">There have previously been invented many self-cooling apparatus for cooling the contents of a beverage or food container. These apparatus sometimes use flexible and deformable receptacles or rigid receptacle walls to store a refrigerant. The present inventor has invented a variety of such devices and methods of manufacturing these containers. These earlier inventions do not satisfy all the needs of the beverage industry and they do not use cryogenic refrigerants. In fact they are so structurally different from the present invention, that one skilled in the art cannot possibly transcend from the prior art to the present invention, without an inventive process. In an effort to seek a cost effective and functioning apparatus to self-cool a beverage container, the present inventor has done a variety of experiments to arrive at the present novel method. The prior art fails to address the real issues of manufacturing and beverage plant operations that are crucial for the success of a self-cooling beverage container program. All prior art designs fail to show how to incorporate high pressure gases and effectively release them without danger. The problem stems from the extreme high pressure of the suitable cryogenic gases such as carbon dioxide or CO<sub>2</sub>. Many trials and designs have been done to obtain the present configuration of the disclosed receptacle of this invention. No prior art teaches how to manufacture a self-cooling beverage plastic bottle as a simple integrated and manufacturable unit that will conform to the standards of the beverage industry.</p>
+<p id="p-0009" num="0008">For example prior art teaches how to make high pressure containers made from steel or small diameter tubing. Since such receptacles are generally made from thick-walled metallic materials for containing high pressure, rapid heat transfer is limited and almost impossible. Even with prior designs of co-seamed internal receptacles such as that described in U.S. Pat. No. 6,065,300 to the present inventor the problem was still not solved. Also, the high speed beverage plants require high speed compatible operations for manufacture of an online self-cooling beverage container. For example, prior art designs do not address easy insertion, self-aligning of the receptacle with the container and so on, particularly when the container is a plastic bottle. Further, most prior art relies on a separate un-integrated manufacturing process for the attachment of the receptacle to the container. The prior art differs from the current disclosed invention in that they all require complicated valving for activation of the cooling process. Most use complicated gaskets and expensive attachment means. The present invention does not require a special valving system. Just a few parts that form the receptacle and the attachment means to the bottle suffice to form a self-acting valve based on the opening of the container for consumption.</p>
+<p id="p-0010" num="0009">This invention is an improvement over prior art and discloses a novel technology for bottles and cans (metal containers) also with the additional aspect of using cryogenic propellant mixtures such as carbon dioxide. The reason for the improvement is that no other technology addresses the high pressure container costs associated with the manufacture of metal containers.</p>
+<heading id="h-0005" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0011" num="0010">The present invention accomplishes the above-stated objectives, as well as others, as may be determined by a fair reading and interpretation of the entire specification. For the preferred of several possible embodiments, the apparatus includes a modified conventional beverage or food container such as a plastic bottle or a metal can for containing a product to be consumed. In the first embodiment, the bottle container is an injection-stretch-blown plastic bottle with a conventional unified bottom wall and a cylindrical side wall terminating in a wide threaded open bottle neck. The bottle is cut into two separate parts that can then be thermally sealed together using the refrigerant canister assembly of the present invention. The bottle is laser or knife cut into a top bottle member and a bottom bottle member. The top bottle member consists of an open threaded neck sealingly and contiguously connected to a top bottle member cylindrical wall terminating on a uniform circular bottle cut edge. The bottle bottom member consists of a bottle base dome and walls that are contiguously connected to a series of base protrusions that form a stand for the bottle. The bottle base dome has a central bottle base dome hole. The base protrusions connect contiguously as a unified wall to a bottle base member cylindrical wall that terminates on a uniform circular bottle cut edge.</p>
+<p id="p-0012" num="0011">A specially designed high pressure refrigerant receptacle assembly comprises of a cylindrical canister member sealing threaded unto a canister cap member. The canister member can be made from a suitable food grade plastic such as glass reinforced polyethylene-teraphthalate (PET) or pure PET. It could also be casted from aluminum of suitable grade. The canister member has contiguously cylindrical wall with a sealed canister base and an open canister threaded neck. The canister member has a through concentric canister central support tube member that fluidly connects the inside of the canister member to the canister top outer surface. The canister central support tube has a closed-off end at the canister open threaded neck end and an open end at the canister base. Further, several thin-walled canister webs connect the canister central support tube member to the inside canister cylindrical wall, so that the canister member is structurally supported against lateral and hoop stresses due to high pressure forces. A small central cylindrical cut on of material is removed from these canister webs to form a rubber sleeve seat for a cylindrical rubber sleeve to seat.</p>
+<p id="p-0013" num="0012">Further, the canister outer wall has canister hoop support bands for supporting hoop stresses. The canister member also has a canister top cylinder that protrudes from its canister top surface. The canister top cylinder is open ended terminating at a canister top cylinder edge. A small refrigerant port passes through the canister base, off-set from the center of the canister member and terminates at either end on a canister outer seal seat and a canister inner seal seat respectively so that there is fluid communication between the inside of the canister member and the outside of the canister member to form a refrigerant port for the receptacle assembly. The canister outer seal seat and the canister inside seal seat are preferably tapered but could be any shape depending on whether a ball valve or a different topology seal is used on either seal.</p>
+<p id="p-0014" num="0013">The canister cap member is essentially a cylindrical unit with an open canister cap threaded-end that sealingly mates to the canister member open threaded neck to form a sealed refrigerant receptacle. The canister cap member has a sealing ring member attached to the main canister cap body by a series of small sealing ring support members. The outer surface of the sealing ring member fits slidingly inside the bottom bottle member inner cylindrical wall surface. A central cylindrical canister cap stud protrudes centrally from the outer surface of the canister cap member. A small canister cap stud hole passes through the canister cap stud to make fluid communication between the inside and the outside of the canister cap member. A central cylindrical canister cap sealing sleeve protrudes centrally inside the canister cap member, so that the canister cap stud hole breaks into it. This canister cap sealing sleeve member fits loosely and concentrically around the open end of the canister central tube member and acts as a refrigerant passage way through the assembled receptacle when needed.</p>
+<p id="p-0015" num="0014">Before the canister member and the canister are sealingly mated, a small inner rubber seal member is inserted to seat on the canister inner seal seat. A cylindrical rubber sleeve is also inserted around the canister cap sealing sleeve. The canister cap member is threaded unto the canister member and the cylindrical rubber sleeve forms a seal between the canister cap sealing sleeve and the canister central support tube. The rubber sleeve seat on the canister webs act as a support seat for the rubber sleeve. Thus, advantageously, the refrigerant passageway formed by the canister central support tube and the canister cap sealing sleeve is not yet in fluid communication with the inside of the canister member. A continuous refrigerant passageway can thus be created right through the assembled receptacle unit by simply puncturing this seal. Advantageously before sealing the canister member and the canister cap member, refrigerant in the form of dry-ice or a liquefied cryogen may then be filled into the canister member before sealing with the canister cap member. This has the advantage of easy charging and handling of the high pressure refrigerant. Alternatively, the unit could be charged with liquefied refrigerant mixtures through the canister cap stud member hole by pumping refrigerant through the rubber sleeve which then acts as a one-way-valve for the refrigerant to enter the receptacle, but not leave the receptacle. Since, the canister central support tube member is closed-off at the enclosed end within the receptacle, no refrigerant will pass through the refrigerant passageway during liquid phase charging. In either case, the inner rubber seal member will seal off the refrigerant port by means of pressure holding it in place against the canister inner seal seat so that no refrigerant can escape from the receptacle assembly.</p>
+<p id="p-0016" num="0015">An actuation cap member is designed to be slidingly placed over the canister top cylinder member to act as part of an actuation valve system for the unit. The actuation cap member is a cup shaped member with an open-ended cylindrical wall contiguously connected to a top wall.</p>
+<p id="p-0017" num="0016">An actuation cap protruding stud member protrudes from the inner bottom surface of the actuation cap member. A protruding actuation pin projects centrally from the actuation stud member to form an actuation pin. The top concentric surface of the actuation cap protruding stud member, acts as an actuation cap seal seat for the outer rubber seal member. Before assembling the actuation cap with the assembled receptacle unit, the outer rubber seal is placed by piercing it through the actuation pin and seating said outer rubber seal on the actuation cap seal seat. In case an o-ring is used, no piercing is needed, since the actuation pin can easily passed over the o-ring hole.</p>
+<p id="p-0018" num="0017">The actuation cap member is slidingly fitted over the canister top cylinder, to form a sealed actuation chamber. At the same time, the actuation pin is also inserted into the refrigerant pin to fit snugly inside it and the outer rubber seal is made to just contact the canister outer seal seat. The outer rubber seal is compressible, but during assembly it is not in a compressed state but just makes contact with the actuation cap seal seat and the canister outer seal seat. The actuation pin just contacts the inner rubber seal.</p>
+<p id="p-0019" num="0018">In the first embodiment for bottles, the receptacle assembly is then inserted into the open bottom bottle member so that the sealing ring member fits slidingly inside the bottom bottle member inner cylindrical wall surface and the canister cap stud projects sealingly through a bottom base dome hole. The sealing ring member top edge should be at least an eighth of an inch or so below the bottle cut edge. Heat is applied to the bottle base outer cylindrical shrink surface just around the region where the sealing ring member is located while the subassembly is spun. The bottle base shrink inner and outer walls shrink rapidly so that the shrink inner surface clamps sealingly unto the seal ring by compression. The bottle cut edge of the bottle base member forms a heat-shrunk bottle base sealing curl around the canister cap sealing ring member. The bottle top member is then placed so that it bottle cut edge lies approximately an eighth of an inch below the canister cap sealing ring member. Heat is applied while the bottle top member heat shrink outer surface, while the bottle subassembly is spun. Since the material the bottle is made from is an injection stretch-blown material, it will tend to shrink when heat is applied to its enlarged expanded blown diameter. The bottle top shrink inner and outer walls shrink rapidly so that the shrink inner surface clamps sealingly unto the seal ring by compression. The bottle top member cylindrical edge then also forms a bottle top sealing curl over the bottom of the canister cap member sealing ring member.</p>
+<p id="p-0020" num="0019">This way, the receptacle assembly is sealing attached to the bottle top member and the bottle bottom member forming a contiguously sealed beverage bottle.</p>
+<p id="p-0021" num="0020">The completed bottle assembly is similar in shape and size to conventional plastic beverage bottles, but with the receptacle assembled within it.</p>
+<p id="p-0022" num="0021">The original bottle is preferably made from a suitable plastic material such as Polyethylene-Teraphthalate, (PET) that can be injection-stretch-blown, so that it is a heat shrinkable material. However, it could also be injection molded and put together using a shrink sleeve band. Thus, the assembly can handle a tremendous amount of pressure stresses.</p>
+<p id="p-0023" num="0022">The high pressure receptacle is designed to store high pressure liquefied cryogenic gases, such as carbon-dioxide, mixtures of aerosol propellants and carbon-dioxide, or a matrix held aerosol propellants with smell ingredients such as a combination of CO<sub>2 </sub>and carbon atoms. The refrigerant used for the cooling process may be designed as a slurry of an activated carbon matrix with CO<sub>2 </sub>gas trapped inside the matrix.</p>
+<p id="p-0024" num="0023">The apparatus further comprises a conventional bottle cap for sealing off the beverage products after being filled.</p>
+<p id="p-0025" num="0024">The bottle assembly is then filled with carbonated product and then the bottle cap fitted to bottle top member open threaded end to seal off the product. The finished apparatus is then stored for later use or sale. During storage, carbonation pressure slowly compresses the actuation cap member because the sealed actuation chamber formed between the actuation cap member and the canister top cylinder is at atmospheric pressure due to the refrigerant passageway through the receptacle and through the canister cap stud hole. As carbonation pressure builds up, the actuation cap member slowly compresses the outer rubber seal forming a hermetic seal with the canister outer seal seat. Since the actuation cap member experiences a lot more force from carbonation pressure due to its larger surface area than the canister inner seal experiences from the refrigerant pressure, it compresses the outer rubber seal and forms a better seal between the outer rubber seal and the canister outer seal seat, so that slight leaks between the canister inner seal seat and the inner rubber seal will progressively make the inner rubber seal lose its effective pressure differential with the atmosphere and then it will fall away from the canister inner seal seat and drop to the bottom of the receptacle assembly by gravity. Since it will be deformed by the original acting pressure force of the refrigerant, it will not readily form a seal within the receptacle if it should again come into contact with the canister inner seal seat.</p>
+<p id="p-0026" num="0025">When a consumer opens the beverage bottle, carbon pressure is released and the actuation cap member loses its holding force against the outer rubber seal. The outer rubber seal is pushed away from the canister outer seal seat and the refrigerant escapes from the receptacle into the actuation chamber. The actuation cap member is pushed upward slightly by pressure and the refrigerant is free to evaporate and remove heat from the beverage by expanding to the atmosphere through the refrigerant passage way at the center of the canister central support tube.</p>
+<p id="p-0027" num="0026">In the case of a metal container, a cylindrical can is provided with a unified bottom dome and a top in the manner of a classic beverage container. A hole is made through the center of the dome to snugly hold the canister cap central stud member. The canister cap domed outer surface is designed to smoothly match the diameter and shape of the dome of the container. A Food and Drug Administration approved glue could be used to bond the receptacle to the container dome, but in general, the snug fitting of the canister cap stud and the container dome hole is enough, since after assembly, pressure from the carbonated product will firmly hold the canister cap domed outer surface to the container dome. After assembly, the container is filled with carbonated beverage and then sealed off with a conventional lid with an opening means.</p>
+<p id="p-0028" num="0027">The finished apparatus is then stored for later use or sale. During storage, carbonation pressure slowly compresses the actuation cap member because the sealed actuation chamber formed between the actuation cap member and the canister top cylinder is at atmospheric pressure due to the refrigerant passageway through the receptacle and through the canister cap stud hole. As carbonation pressure builds up, the actuation cap member slowly compresses the outer rubber seal forming a hermetic seal with the canister outer seal seat. Since the actuation cap member experiences a lot more force from carbonation pressure due to its larger surface area than the canister inner seal experiences from the refrigerant pressure, it compresses the outer rubber seal and forms a better seal between the outer rubber seal and the canister outer seal seat, so that slight leaks between the canister inner seal seat and the inner rubber seal will progressively make the inner rubber seal loose its effective pressure differential with the atmosphere and then it will fall away from the canister inner seal seat and drop to the bottom of the receptacle assembly by gravity. Since it will be deformed by the original acting pressure force of the refrigerant, it will not readily form a seal within the receptacle if it should again come into contact with the canister inner seal seat.</p>
+<p id="p-0029" num="0028">Again, as in the previous embodiment, when a consumer opens the beverage container by using the container opening means, carbon pressure is released from the container and the actuation cap member looses its holding force against the outer rubber seal. The outer rubber seal is pushed away from the canister outer seal seat and the refrigerant escapes from the receptacle into the actuation chamber. The actuation cap member is pushed upward slightly by pressure and the refrigerant is free to evaporate and remove heat from the beverage by expanding to the atmosphere through the refrigerant passage way at the center of the canister central support tube.</p>
+<p id="p-0030" num="0029">A self-cooling container apparatus is further provided for retaining container contents such as food or beverages; and a container contents release mechanism for releasing the container contents from the container and also for effectuating the release of liquefied gas stored in a high pressure receptacle.</p>
+<p id="p-0031" num="0030">It is an objective of this invention to disclose a novel high pressure receptacle for storing cryogenic fluids for use in self-cooling beverage containers.</p>
+<p id="p-0032" num="0031">It is an objective of this disclosure to reveal a novel method of activating a high pressure receptacle using carbonation pressure.</p>
+<p id="p-0033" num="0032">It is a further objective of this disclosure to reveal a method of assembling a high pressure cryogenic receptacle into a plastic beverage bottle with a conventional neck finish and into a metal can with a conventional lid without the need for expensive threaded parts.</p>
+<p id="p-0034" num="0033">It is a further objective of this invention to disclose a novel method of coupling two parts of a plastic bottle to form a contiguous container by means of heat shrinking surfaces said two parts over a sealing ring.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0006" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0035" num="0034">Various other objects, advantages, and features of the invention will become apparent to those skilled in the art from the following discussion taken in conjunction with the following drawings, in which:</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. 1</figref> shows the beverage container assembly according to the preferred embodiment of this invention;</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. 2</figref> shows the beverage container assembly according to the preferred embodiment of this invention with a special time release cap opened;</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. 3</figref> shows the beverage container assembly according to the preferred embodiment of this invention with the bottle separated from the bottle cap, and the time release cap;</p>
+<p id="p-0039" num="0038"><figref idref="DRAWINGS">FIG. 4</figref> shows the high pressure receptacle assembly with the sleeve and high pressure receptacle, held to the grove of the bottle cap by the actuation cap;</p>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIG. 5</figref> shows some details of the canister cap member;</p>
+<p id="p-0041" num="0040"><figref idref="DRAWINGS">FIG. 6</figref> shows the canister of the present invention;</p>
+<p id="p-0042" num="0041"><figref idref="DRAWINGS">FIG. 7</figref> shows details of the canister of the present invention;</p>
+<p id="p-0043" num="0042"><figref idref="DRAWINGS">FIG. 8</figref> shows the canister and the canister cap in an assembly posture;</p>
+<p id="p-0044" num="0043"><figref idref="DRAWINGS">FIG. 9</figref> shows the high pressure receptacle assembly;</p>
+<p id="p-0045" num="0044"><figref idref="DRAWINGS">FIG. 10</figref> shows the actuation cap and the actuator pin;</p>
+<p id="p-0046" num="0045"><figref idref="DRAWINGS">FIG. 11</figref> shows the actuation cap and its external structure;</p>
+<p id="p-0047" num="0046"><figref idref="DRAWINGS">FIG. 12</figref> shows the actuation cap and its internal structure with the canister outer seal being positioned;</p>
+<p id="p-0048" num="0047"><figref idref="DRAWINGS">FIG. 13</figref> shows the actuation cap and the canister outer seal assembled;</p>
+<p id="p-0049" num="0048"><figref idref="DRAWINGS">FIG. 14</figref> shows the actuation cap member being assembled unto the receptacle assembly;</p>
+<p id="p-0050" num="0049"><figref idref="DRAWINGS">FIG. 15</figref> shows the receptacle assembly being attached to the bottle bottom part;</p>
+<p id="p-0051" num="0050"><figref idref="DRAWINGS">FIG. 16</figref> shows the receptacle assembly attached to the bottle bottom part by heat shrinking the bottle surface;</p>
+<p id="p-0052" num="0051"><figref idref="DRAWINGS">FIG. 17</figref> shows the structure of the bottle bottom part and the canister cap member stud protruding through it;</p>
+<p id="p-0053" num="0052"><figref idref="DRAWINGS">FIG. 18</figref> shows the two parts of the bottle being assembled;</p>
+<p id="p-0054" num="0053"><figref idref="DRAWINGS">FIG. 19</figref> shows a completed assembly of the bottle parts and the receptacle within it;</p>
+<p id="p-0055" num="0054"><figref idref="DRAWINGS">FIG. 20</figref> shows the apparatus filled with product and being sealed with a threaded cap member;</p>
+<p id="p-0056" num="0055"><figref idref="DRAWINGS">FIG. 21</figref> shows a cut-away view of the assembly and the beverage pressure forces acting on the canister cap member;</p>
+<p id="p-0057" num="0056"><figref idref="DRAWINGS">FIG. 22</figref> shows the beverage pressure being released by the consumer opening the cap and the refrigerant pressure pushing the actuation cap and an exploded view of the time release bottle cap with the serrated expandable dome and the threaded cap body;</p>
+<p id="p-0058" num="0057"><figref idref="DRAWINGS">FIG. 23</figref> shows beverage bottle apparatus with the refrigerant passing to atmosphere and cooling the beverage;</p>
+<p id="p-0059" num="0058"><figref idref="DRAWINGS">FIG. 24</figref> shows the completed receptacle being assembled into the metal container;</p>
+<p id="p-0060" num="0059"><figref idref="DRAWINGS">FIG. 25</figref> shows a cut-away view of the metal container with the receptacle attached to the base dome and the canister cap stud passing through the can dome hole;</p>
+<p id="p-0061" num="0060"><figref idref="DRAWINGS">FIG. 26</figref> shows a cut away view of the metal can with lid opening means opened for consumption and the receptacle assembly cooling the beverage contents;</p>
+<p id="p-0062" num="0061"><figref idref="DRAWINGS">FIG. 27</figref> shows the bottle top part and the bottle bottom part as injection molded versions, and a heat shrinkable band used to sealingly assemble the two parts together after assembly of the receptacle member;</p>
+<p id="p-0063" num="0062"><figref idref="DRAWINGS">FIG. 28</figref> shows details of the canister valves and their functional aspects;</p>
+<p id="p-0064" num="0063"><figref idref="DRAWINGS">FIG. 29</figref> shows the rubber sleeve valve in a sealed position;</p>
+<p id="p-0065" num="0064"><figref idref="DRAWINGS">FIG. 30</figref> shows the rubber seal valve opened by refrigerant being pumped through it;</p>
+<p id="p-0066" num="0065"><figref idref="DRAWINGS">FIG. 31</figref> is a perspective view of a plastic container adapted with an alternate embodiment cryogenic apparatus in accordance with the present invention;</p>
+<p id="p-0067" num="0066"><figref idref="DRAWINGS">FIG. 32</figref> is a perspective view thereof with a portion of the plastic container cut-away;</p>
+<p id="p-0068" num="0067"><figref idref="DRAWINGS">FIG. 33</figref> is a perspective view of the alternate embodiment cryogenic apparatus;</p>
+<p id="p-0069" num="0068"><figref idref="DRAWINGS">FIG. 34</figref> is perspective view of cartridge for use therewith;</p>
+<p id="p-0070" num="0069"><figref idref="DRAWINGS">FIG. 35</figref> is an exploded perspective view thereof;</p>
+<p id="p-0071" num="0070"><figref idref="DRAWINGS">FIG. 36</figref> is a partial side sectional view thereof;</p>
+<p id="p-0072" num="0071"><figref idref="DRAWINGS">FIG. 37</figref> is a side sectional view thereof;</p>
+<p id="p-0073" num="0072"><figref idref="DRAWINGS">FIG. 38</figref> is a perspective view of a retaining cap for use therewith;</p>
+<p id="p-0074" num="0073"><figref idref="DRAWINGS">FIG. 39</figref> is a perspective sectional view of the cryogenic gas release cap for use therewith; and</p>
+<p id="p-0075" num="0074"><figref idref="DRAWINGS">FIG. 40</figref> is a side view of a gas escape valve for use therewith.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0007" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0076" num="0075">Referring initially to <figref idref="DRAWINGS">FIGS. 1-30</figref>, the preferred of several possible embodiments is disclosed. More particularly, apparatus <b>10</b> is a conventional beverage or food container such as a plastic bottle <b>100</b> or metal container <b>143</b> for containing product <b>141</b> to be consumed. In the first embodiment, the bottle container is an injection-stretch-blown plastic bottle <b>100</b> with a conventional unified bottom dome <b>110</b> and a cylindrical side wall <b>155</b> terminating in an open bottle threaded neck <b>101</b>. The bottle <b>100</b> is cut into two separate parts a bottle top member <b>10</b><i>a </i>and a bottle bottom member <b>10</b><i>b</i>, that can then be thermally sealed together using the refrigerant receptacle assembly <b>60</b> of the present invention. The bottle <b>100</b> is laser or knife cut into a bottle top member <b>10</b><i>a </i>and a bottle bottom member <b>10</b><i>b</i>. Alternately, either part can be injection molded from a suitable plastic material, so long as one of the bottle parts is made from a suitable heat shrinkable material. If the bottle top member <b>10</b><i>a</i>, and the bottle bottom member <b>10</b><i>b </i>are injection molded, then a heat shrink sleeve made from suitable plastic material can be used to fuse the two parts together later.</p>
+<p id="p-0077" num="0076">The bottle top member <b>10</b><i>a </i>consists of an open threaded neck <b>101</b> sealingly and contiguously connected to the cut portion of the bottle cylindrical side wall <b>106</b><i>a </i>which now terminates on a uniform circular bottle cut edge <b>104</b><i>a</i>. The bottle bottom member <b>10</b><i>b </i>consists of a bottle base dome <b>110</b> and bottle side wall <b>106</b><i>b </i>that are contiguously connected to a series of base protrusions <b>107</b> that form a stand for the bottle <b>100</b>. The bottle base dome <b>110</b> has a central bottle base dome hole <b>109</b>. The bottle base protrusions <b>107</b> connect contiguously as a unified wall <b>102</b> to a bottle bottom member cylindrical wall <b>106</b><i>b </i>that terminates on a uniform circular bottle cut edge <b>104</b><i>b. </i></p>
+<p id="p-0078" num="0077">A specially designed high pressure refrigerant receptacle assembly <b>60</b> comprises of a cylindrical canister member <b>40</b> threaded sealingly unto a canister cap member <b>30</b>. The canister member can be made from a suitable food grade plastic such as glass reinforced PET or pure PET. It could also be casted from aluminum of suitable grade. The canister member <b>40</b> has contiguously cylindrical wall <b>121</b> with a sealed canister base <b>124</b> and an open canister threaded neck <b>123</b><i>b</i>. The cylindrical canister member <b>40</b> has a through concentric canister central support tube <b>126</b> that fluidly connects the inside <b>160</b> of the canister member <b>40</b> to the canister top outer surface <b>118</b>. The canister central support tube <b>126</b> has a closed-off end <b>163</b> at the canister open threaded neck <b>123</b><i>b </i>end and an open end <b>158</b> at the canister base <b>124</b><i>b</i>. Further, several thin-walled canister webs <b>125</b> connect the canister central support tube <b>126</b> to the inside canister cylindrical wall <b>154</b>, so that the canister member <b>40</b> is structurally supported against lateral and hoop stresses due to high pressure forces. A small central cylindrical cut <b>160</b> on of material is removed from these canister webs <b>125</b> to form a rubber sleeve seat <b>158</b> for a cylindrical rubber sleeve <b>149</b> to seat.</p>
+<p id="p-0079" num="0078">Further, the canister outer wall <b>121</b> has canister hoop support bands <b>122</b> for supporting hoop stresses. The canister member <b>40</b> also has a canister top cylinder <b>118</b> that protrudes from its canister base <b>124</b>. The canister top cylinder <b>118</b> is open ended terminating at a canister top cylinder edge <b>151</b>. A small refrigerant port <b>119</b> passes through the canister base <b>124</b>, off-set from the center of the canister member <b>40</b> and terminates at either end on a canister outer seal seat <b>153</b> and a canister inner seal seat <b>152</b> respectively so that there is fluid communication between the inside <b>160</b> of the canister member <b>40</b> and the outside of the canister member <b>40</b> to form a refrigerant port <b>119</b> for the receptacle assembly <b>60</b>. The canister outer seal seat <b>153</b> and the canister inner seal seat <b>152</b> are preferably tapered but could be any shape depending on whether a ball valve or a different topology seal is used on either seal.</p>
+<p id="p-0080" num="0079">The canister cap member <b>30</b> is essentially a cylindrical unit with an open canister cap threaded-end <b>123</b><i>a </i>that sealingly mates to the canister member <b>40</b> open threaded neck <b>123</b><i>b </i>to form a sealed refrigerant receptacle assembly <b>60</b>. The canister cap member <b>30</b> has a sealing ring member <b>113</b> attached to the main canister cap body by a series of small sealing ring support members <b>115</b>. The gaps between the sealing ring support members <b>115</b> forms contents passageways <b>114</b> for the beverage or food product <b>141</b>. The outer surface of the sealing ring member <b>113</b> fits slidingly inside the bottom bottle member inner cylindrical wall surface <b>105</b>. A central cylindrical canister cap stud <b>111</b> protrudes centrally from the outer surface <b>137</b> of the canister cap member <b>30</b>. A small canister cap stud hole <b>116</b> passes through the canister cap stud <b>111</b> to make fluid communication between the inside <b>160</b> and the outside of the canister cap member <b>30</b>. A central cylindrical canister cap sealing sleeve <b>150</b> protrudes centrally in the inside <b>160</b> the canister cap member <b>30</b>, so that the canister cap stud hole <b>116</b> breaks into it. The canister cap sealing sleeve <b>150</b> fits loosely and concentrically around the closed-off end <b>163</b> of the canister central tube member <b>126</b> and acts as a refrigerant passage way <b>117</b> through the assembled receptacle assembly <b>60</b> when needed.</p>
+<p id="p-0081" num="0080">Before the canister member <b>40</b> and the canister cap member <b>30</b> are sealingly mated, a small inner rubber seal member <b>149</b> is inserted to seal on the canister inner seal seat <b>152</b>. A cylindrical rubber sleeve <b>149</b> is also inserted around the canister cap sealing sleeve <b>150</b>. The canister cap member is threaded unto the canister member <b>40</b> and the cylindrical rubber sleeve <b>149</b> forms a seal between the canister cap sealing sleeve and the canister central support tube <b>126</b>. The rubber sleeve seat <b>158</b> on the canister webs <b>125</b> act as a support seat for the rubber sleeve <b>149</b>. Thus, advantageously, the refrigerant passageway <b>117</b> formed by the canister central support tube <b>126</b> and the canister cap sealing sleeve <b>150</b> is not yet in fluid communication with the inside <b>160</b> of the canister member <b>40</b>. A continuous refrigerant passageway <b>117</b> can thus be created right through the assembled receptacle <b>60</b> unit by simply puncturing this seal. Advantageously before sealing the canister member <b>40</b> and the canister cap member <b>30</b>, refrigerant R in the form of dry-ice or a liquefied cryogen may then be filled into the canister member <b>40</b> before sealing with the canister cap member <b>30</b>. This has the advantage of easy charging and handling of the high pressure refrigerant. Alternatively, the unit could be charged with liquefied refrigerant mixture R through the canister cap stud member hole <b>116</b> by pumping refrigerant mixture R to pass through the rubber sleeve <b>149</b> which then acts as a one-way-valve for the refrigerant R to enter the receptacle assembly <b>60</b> through refrigerant passageway <b>117</b>, but not exit from the receptacle assembly <b>60</b>. Rubber sleeve <b>149</b> clamps tightly around the canister central support tube <b>126</b> and the canister cap sealing sleeve <b>150</b> so that refrigerant can expand the rubber sleeve <b>149</b> and pass into the receptacle assembly will compresses it and seals it shut again. Since, the canister central support tube <b>126</b> member has a central tube closed-off end <b>163</b> within the receptacle assembly <b>60</b>, no refrigerant will pass through the refrigerant passageway <b>120</b> to the outside of the apparatus or into the actuation chamber <b>142</b> during liquid phase refrigerant R charging. In either case, the canister inner seal <b>161</b> will seal-off the refrigerant port <b>119</b> by means of pressure holding it in place against the canister inner seal seat <b>152</b> so that no refrigerant can escape from the receptacle assembly <b>60</b>.</p>
+<p id="p-0082" num="0081">If the refrigerant is in the form of dry-ice, or cryogenic liquid that can be poured into the canister member <b>40</b> before sealing said canister member with canister cap member <b>30</b>, then the central tube closed-off end <b>163</b> should first be drilled open so that there is fluid communication between the atmosphere and the actuation chamber <b>142</b>. In this case the refrigerant will be trapped inside <b>160</b> of the canister member <b>40</b>, since the rubber sleeve <b>149</b> and the canister inner seal <b>161</b> are in place.</p>
+<p id="p-0083" num="0082">An actuation cap member <b>50</b> is designed to be slidingly placed over the canister top cylinder <b>118</b> to act as part of an actuation valve system for the unit. The actuation cap member <b>50</b> is a cup shaped member with an open-ended cylindrical wall <b>129</b> contiguously connected to a top wall <b>127</b>. Top wall <b>127</b> is reinforced with ribs <b>128</b> to make it flex less under pressure.</p>
+<p id="p-0084" num="0083">An actuation cap protruding stud member <b>133</b> protrudes from the inner bottom surface <b>132</b> of the actuation cap member <b>50</b>. A stepped stud member <b>135</b> acts a s a shaft sealing surface. A protruding actuation pin <b>130</b> projects centrally from the actuation stud member <b>135</b>. The top concentric surface of the actuation cap protruding stud member <b>135</b>, acts as an actuation cap seal seat <b>134</b> for the canister outer seal <b>136</b>. Before assembling the actuation cap member <b>50</b> with receptacle assembly <b>60</b>, the canister outer seal <b>136</b> is placed by piercing it using the actuation pin <b>130</b> and seating said canister outer seal <b>136</b> on the actuation cap seal seat <b>134</b>. In case an o-ring is used, no piercing is needed, since the actuation pin <b>130</b> can easily passed over the o-ring hole. Preferably, canister outer seal <b>136</b> is a rubber ball of small diameter.</p>
+<p id="p-0085" num="0084">The inside surface <b>128</b> of actuation cap member <b>50</b> is slidingly and sealing fitted over the canister top cylinder <b>118</b>, to form a sealed actuation chamber <b>142</b>. At the same time, the actuation pin <b>130</b> is also inserted into the refrigerant port <b>119</b> to fit snugly inside it and the canister outer seal <b>136</b> is made to just contact the canister outer seal seat <b>153</b>. The canister outer seal <b>136</b> is compressible but during assembly it is not in a compressed state but just makes contact with the actuation cap seal seat and the canister outer seal seat <b>153</b>. The actuation pin <b>130</b> just contacts the canister inner seal <b>161</b>.</p>
+<p id="p-0086" num="0085">In the first embodiment for bottles, the receptacle assembly <b>60</b> is inserted into the open bottom bottle member <b>10</b><i>b </i>so that the sealing ring member <b>113</b> fits slidingly inside the bottle bottom member <b>10</b><i>b </i>inner cylindrical wall surface <b>105</b> and the canister cap stud <b>111</b> projects sealingly through a bottom base dome hole. The sealing ring member top edge <b>113</b><i>a </i>should be at least an eighth of an inch or so below the bottle bottom member cut edge <b>104</b><i>b</i>. Heat is applied to the bottle bottom member cylindrical wall <b>106</b><i>b </i>just around the region where the sealing ring member <b>113</b> is located inside the bottle bottom member <b>10</b><i>b </i>while the subassembly <b>70</b> is spun for uniform heat distribution. The bottle bottom member cylindrical wall <b>106</b><i>b </i>shrinks rapidly so that the bottle bottom member <b>10</b><i>b </i>inner cylindrical wall surface <b>105</b> clamps sealingly unto the sealing ring member cylindrical surface <b>113</b><i>c </i>by compression. The bottle cut edge <b>104</b> of the bottle bottom member <b>10</b><i>b </i>forms a heat-shrunk bottle base sealing curl <b>139</b> around the canister cap sealing ring member top edge <b>113</b><i>a</i>. The bottle bottom member cylindrical wall <b>106</b><i>b </i>also form a sealing curl around the sealing ring member bottom edge <b>113</b><i>b</i>. The bottle top member <b>10</b><i>a </i>is then placed so that it slides over the shrunk bottle bottom member cylindrical wall <b>106</b><i>b</i>. The bottle top member cut edge <b>104</b><i>a </i>lies approximately an eighth of an inch below the sealing ring member bottom edge <b>113</b><i>b</i>. Heat is applied to the heat shrinkable region around the area of the sealing ring member <b>113</b> whilst the assembly <b>10</b> is spun. Since the material the bottle is made from is an injection stretch-blown material, it will tend to shrink when heat is applied to its enlarged expanded blown diameter. The bottle top member cylindrical wall <b>106</b><i>a </i>shrink rapidly so that it clamps sealingly unto the combined shrink surfaces of the bottle bottom member <b>10</b><i>b </i>and the sealing ring member <b>113</b>. The bottle top member cut edge <b>104</b><i>a </i>then also forms a bottle top sealing curl <b>140</b> over the bottom sealing ring member bottom edge <b>113</b><i>b </i>of the canister cap member sealing ring member <b>113</b>. This way, the receptacle assembly <b>60</b> is sealing attached to the bottle top member <b>10</b><i>a </i>and the bottle bottom member <b>10</b><i>b </i>forming a contiguously sealed beverage bottle assembly <b>10</b>. The completed bottle assembly <b>10</b> is similar in shape and size to conventional plastic beverage bottles, but with the receptacle assembly <b>60</b> within it.</p>
+<p id="p-0087" num="0086">The original bottle <b>100</b> is preferably injection-stretch-blown material such as from a Polyethylene-Teraphthalate, (PET) so that it is a heat shrinkable material. However, it could also be made from two injection molded parts that are fused together by means of a heat shrink sleeve <b>162</b>. Thus, the assembly <b>10</b> can handle a tremendous amount of carbonation pressure stresses.</p>
+<p id="p-0088" num="0087">The high pressure receptacle <b>60</b> is designed to store high pressure liquefied cryogenic gases, such as carbon-dioxide, mixtures of aerosol propellants and carbon-dioxide, or a matrix held aerosol propellants with smell ingredients such as a combination of CO2 and carbon atoms. The refrigerant R used for the cooling process may be designed as a slurry of an activated carbon matrix with CO<sub>2 </sub>gas trapped inside the matrix.</p>
+<p id="p-0089" num="0088">In the case when both the bottle bottom member <b>10</b><i>b</i>, and the bottle top member <b>10</b><i>a </i>are injection molded from a suitable plastic material, a heat shrink sleeve <b>162</b> can be used to fuse the two bottle parts together as shown in <figref idref="DRAWINGS">FIG. 27</figref>. Also, the canister member <b>40</b> and canister cap member <b>30</b> need not be made with threads. After following the method of assembly for which the canister inner seal <b>161</b> is inserted into the canister inner seal seat <b>152</b>, the canister member <b>40</b> and the canister cap member <b>30</b> can be fused together by means of over-molding or gluing with a chemical bonding agent. One skilled in the art will recognize that there are many ways, shapes and forms to make the bottle parts and the canister parts to achieve the aim of this invention without loss of generality.</p>
+<p id="p-0090" num="0089">The apparatus further comprises a conventional bottle cap <b>80</b> for sealing off the beverage product <b>141</b> after being filled.</p>
+<p id="p-0091" num="0090">The apparatus <b>10</b> is then filled with carbonated product <b>141</b> and then the bottle cap <b>80</b> fitted to bottle top member <b>10</b><i>a </i>open threaded end to seal off the product <b>141</b>. The finished apparatus is then stored for later use or sale. During storage, carbonation pressure slowly compresses the actuation cap member <b>50</b> because the sealed actuation chamber <b>142</b> formed between the actuation cap member <b>50</b> and the canister top cylinder <b>118</b> is at atmospheric pressure due to the refrigerant passageway through the receptacle assembly <b>60</b> and through the canister cap stud <b>111</b> hole. As carbonation pressure builds up, the actuation cap member <b>50</b> slowly compresses the canister outer seal <b>136</b> forming a hermetic seal with the canister outer seal seat <b>153</b>. Since the actuation cap member <b>50</b> experiences more force from carbonation pressure P<sub>bev</sub>, due to its larger surface area than the canister inner seal <b>161</b> experiences from the refrigerant R pressure, it compresses the canister outer seal <b>136</b> and forms a better seal between the canister outer seal <b>136</b> and the canister outer seal seat <b>153</b>, so that slight leaks of refrigerant R between the canister inner seal seat <b>152</b> and the canister inner seal <b>161</b> will progressively make the canister inner seal <b>161</b> loose its effective pressure differential P<sub>A </sub>with the atmosphere and then it will fall away from the canister inner seal seat <b>152</b> and drop to the bottom of the receptacle assembly <b>60</b> by means of gravity. Since the canister inner seal <b>161</b> will be deformed by the original acting pressure force of the refrigerant P<sub>bev</sub>, it will not readily form a seal within the receptacle should it again come into contact with the canister inner seal seat <b>152</b>.</p>
+<p id="p-0092" num="0091">One will find that the only way for refrigerant R to pass from the inside <b>160</b> of the canister <b>40</b> to the atmosphere is through refrigerant port <b>119</b>. This port is blocked off by the canister outer seal <b>136</b> which in turn must be held in place by the pressure force acting on the canister actuation cap member <b>50</b>. In the case when the refrigerant R charge must be done in liquefied form after the apparatus <b>10</b> is fully assembled, one must wait for the complete apparatus <b>10</b> to be assembled so that carbonation pressure within the apparatus <b>10</b> can seal the canister outer seal <b>136</b> against the canister outer seal seat <b>153</b> before charging to prevent refrigerant from flowing through the actuation chamber.</p>
+<p id="p-0093" num="0092">In this case when one must charge after the beverage filling process, (as in the case of high temperature filling), one must first wait for enough carbonation pressure to build up on the inside of the apparatus so that the canister outer seal <b>136</b> seats firmly against the canister outer seal seat <b>153</b> to block off this passageway. Then, one charges refrigerant R through the canister cap stud hole <b>116</b> and after completion of charging, one drills through the closed-off end <b>163</b> of canister central support tube <b>126</b> to create fluid communication between the actuation chamber <b>142</b> and atmosphere.</p>
+<p id="p-0094" num="0093">Advantageously, since for fermentation and bacterial removal, beer, juices and other food products are made at relatively high temperatures compared to chilled carbonated sodas, these high temperatures will be detrimental to a cryogenic liquefied gas. Then, the cryogen is charged through the canister cap stud hole <b>116</b> into the apparatus <b>10</b> after the complete apparatus <b>10</b> has been assembled and filled with beverage contents and has cooled down. This way, the apparatus <b>10</b> and its contents can first cool down to a suitable temperature, so that the cryogenic refrigerant can be easily charged in liquefied form through the canister cap stud-hole <b>116</b>. The carbonation pressure is then in place to keep canister outer seal <b>136</b> in the sealing position.</p>
+<p id="p-0095" num="0094">Thus the apparatus can be used for beers and sodas, and can be charged before or after the beverage filling process. This also gives the advantage of programming the processes of transportation and supply of the apparatus as either a pre-filled cryogenic receptacle, or an empty receptacle. For example some small beverage companies require no part in the charging process of the refrigerant, so that a pre-filled apparatus can be supplied to them for simple beverage filling in a conventional beverage filling plant. Alternatively, the apparatus could be supplied empty to a beer filling plant, so that the beer is first filled and then the refrigerant is charged at a place where the beverages bottles will be sold. For this instance, a savings in transportation could be deemed of essential value if the cryogenic weight is subtracted. Further, the apparatus could be charged only when needed, to prevent long term loss of ingredients.</p>
+<p id="p-0096" num="0095">When a consumer opens the beverage container by using unscrewing the lid member <b>80</b>, carbonation pressure P<sub>bev </sub>is released from the apparatus <b>10</b> to atmospheric pressure P<sub>A </sub>and the actuation cap member <b>50</b> looses its holding force against the canister outer seal <b>136</b>. The canister outer seal <b>136</b> is pushed away from the canister outer seal seat <b>153</b> by the refrigerant R pressure P<sub>ref</sub>, and the refrigerant R escapes from the receptacle assembly <b>60</b> into the actuation chamber <b>142</b>. The actuation cap member <b>50</b> is pushed upward slightly by pressure P<sub>ref </sub>of the refrigerant R gas, and the liquefied refrigerant R stored in the form of a cryogenic fluid in the receptacle assembly <b>60</b> is now free to evaporate and remove heat from the beverage contents <b>141</b> by expanding to the atmosphere through the refrigerant passage way <b>119</b> at the center of the canister central support tube <b>126</b>, and then through the refrigerant port <b>116</b> to the atmosphere.</p>
+<p id="p-0097" num="0096">In the case of a metal container, cylindrical can <b>143</b> is provided with a unified bottom dome <b>145</b> and a top sealing rim <b>146</b> in the manner of a classic beverage container. A hole <b>144</b> is made through the center of the dome <b>145</b> to snugly hold the canister cap central stud member. The canister cap domed outer surface is designed to smoothly match the diameter and shape of the dome of the container. A Food and Drug Administration approved glue could be used to bond the receptacle to the container dome, but in general, the snug fitting of the canister cap stud <b>111</b> and the container dome hole is enough, since after assembly, pressure from the carbonated product <b>141</b> will firmly hold the canister cap domed outer surface to the container dome. After assembling, the container is filled with carbonated beverage and then sealed off with a conventional lid with an opening means.</p>
+<p id="p-0098" num="0097">The finished apparatus is then stored for later use or sale. During storage, carbonation pressure slowly compresses the actuation cap member <b>50</b> because the sealed actuation chamber <b>142</b> formed between the actuation cap member <b>50</b> and the canister top cylinder <b>118</b> is at atmospheric pressure due to the refrigerant passage way <b>120</b> through the receptacle and through the canister cap stud hole <b>116</b>. As carbonation pressure builds up, the actuation cap member <b>50</b> slowly compresses the canister outer seal <b>136</b> forming a hermetic seal with the canister outer seal seat <b>153</b>. Since the actuation cap member <b>50</b> experiences a lot more force from carbonation pressure due to its larger surface area than the canister inner seal <b>161</b> experiences from the refrigerant pressure, it compresses the canister outer seal <b>136</b> and forms a better seal between the canister outer seal seat <b>153</b> so that slight leaks between the canister inner seal seat <b>152</b> and the inner rubber seal will progressively make the inner rubber seal loose its effective pressure differential with the atmosphere and then it will fall away from the canister inner seal seat <b>152</b> and drop to the bottom of the receptacle assembly <b>60</b> by gravity. Since it will be deformed by the original acting pressure force of the refrigerant, it will not readily form a seal within the receptacle if it should again come into contact with the canister inner seal seat <b>152</b>.</p>
+<p id="p-0099" num="0098">Again, as in the previous embodiment, when a consumer opens the beverage container by using the container opening means, carbonation pressure P<sub>bev </sub>is released from the metal container to atmospheric pressure P<sub>A </sub>and the actuation cap member <b>50</b> looses its holding force against the canister outer seal <b>136</b>. The canister outer seal <b>136</b> is pushed away from the canister outer seal seat <b>153</b> by the refrigerant R pressure P<sub>ref </sub>and the refrigerant R escapes from the receptacle assembly <b>60</b> into the actuation chamber <b>142</b>. The actuation cap member <b>50</b> is pushed upward slightly by pressure P<sub>ref </sub>of the refrigerant R gas, and the liquefied stored in the form of a cryogenic refrigerant R in the receptacle assembly <b>60</b> is now free to evaporate and remove heat from the beverage contents <b>141</b> by expanding to the atmosphere through the refrigerant passage way <b>120</b> at the center of the canister central support tube <b>126</b>, and then through the refrigerant port <b>116</b> to the atmosphere.</p>
+<p id="p-0100" num="0099">In the case when the container contents <b>141</b> is not carbonated as in the case of water, a slight charge of nitrogen can be added to maintain a holding pressure P<sub>bev</sub>. Then the same process applies for either metal cans or plastic bottles.</p>
+<p id="p-0101" num="0100">A self-cooling container apparatus is further provided for retaining container contents such as food or beverages; and a container contents release mechanism for releasing the container contents from the container and also for effectuating the release of liquefied gas stored in a high pressure receptacle.</p>
+<heading id="h-0008" level="1">A. Alternate Embodiment</heading>
+<p id="p-0102" num="0101"><figref idref="DRAWINGS">FIGS. 31-40</figref> depict an alternate embodiment of a cryogenic apparatus for chilling food products, such as a beverage contained within a beverage container <b>200</b>. Beverage container <b>200</b> may comprise a conventional beverage or food container such as a plastic bottle or metal container for containing product to be consumed. Beverage container <b>200</b> may be fabricated from any suitable manufacturing process, including those disclosed herein above.</p>
+<p id="p-0103" num="0102">As seen in <figref idref="DRAWINGS">FIGS. 31 and 32</figref>, beverage container <b>200</b> comprises a plastic bottle having a bottom <b>202</b>, and a side wall <b>204</b> terminating in an open top portion <b>206</b> having a an externally threaded neck <b>208</b> for mating engagement with an internally threaded cap <b>210</b>. At least one, and preferably a plurality, of high pressure refrigerant cylinders, referenced as <b>220</b> are inserted through open top portion <b>206</b> and neck <b>208</b> and received within beverage container <b>200</b>. This embodiment will be disclosed as using three such cylinders, however, it is noted that any suitable cylinder number is considered within the scope of the present invention. Each cylinder <b>220</b> is sized for insertion through neck <b>208</b> thereby allowing insertion into a plastic bottle manufactured in accordance with conventional manufacturing techniques. As discussed in more detail below, cylinders <b>220</b> are automatically activated to cause chilling of the food product contained withint container <b>20</b> upon removal of cap <b>210</b> and exposure of the cylinders to atmospheric pressure.</p>
+<p id="p-0104" num="0103">As best seen in <figref idref="DRAWINGS">FIGS. 35</figref>, <b>36</b>, and <b>37</b>, each cylinder <b>220</b> comprises a high pressure refrigerant receptacle assembly including a cylinder body <b>222</b> having an open end <b>224</b> with internal threads <b>226</b>. A refrigerant metering device <b>230</b> having a generally cylindrical lower end <b>232</b> adapted with external threads <b>234</b> is in threaded engagement with the open end <b>224</b> of cylinder body <b>222</b>, and an upper end <b>233</b>. Metering device <b>230</b> may further include an O-ring <b>236</b> received within a peripheral groove <b>238</b> defined on the lower end <b>232</b> of metering device <b>230</b>. Metering device further includes an axial aperture extending completely therertherough, which aperture is defined by an inner wall that converges from the lower end <b>232</b> to the upper end <b>233</b> to define an outlet. Metering device <b>230</b> may further include an elongate capillary tube <b>239</b> received within the axial aperture formed therein.</p>
+<p id="p-0105" num="0104">A cap <b>240</b> is axially received in covering relation with the upper end <b>233</b> of metering device <b>230</b> and functions as an actuation valve as more fully discussed herein. Cap <b>240</b> includes a top end <b>241</b>, and an open bottom end <b>242</b> sized for insertion over the upper end <b>233</b> of metering device <b>230</b> and adapted to be secured relative thereto by press fit, or any other suitable securing means. Cap <b>240</b> further includes a mid-portion defining an accordion-type bellows <b>243</b> to allow for axial expansion of cap <b>240</b>. The top end portion <b>241</b> of cap <b>240</b> includes a first aperture <b>244</b> leading to an inverted V-shaped notch <b>245</b> and a spherical sealing member <b>246</b> sized for removable reception within notch <b>245</b>. V-shaped notch <b>245</b> and sealing member <b>246</b> function as a charging check valve to allow gas under pressure to enter cap <b>240</b> via aperture <b>244</b> while preventing gas therein from escaping when the pressure within the cap exceeds the pressure outside the cap thereby charging the apparatus with a positive pressure (e.g. pressure greater than atmospheric). Cap <b>240</b> further includes a generally cylindrical recess <b>247</b> sized for removably receiving the end of capillary tube <b>239</b>. Finally, cap <b>240</b> includes a radially offset, axially projecting tubular member <b>248</b> defining an axial opening <b>249</b> that places the interior of cap <b>240</b> in fluid communication with the exterior space.</p>
+<p id="p-0106" num="0105">As noted above, a plurality of high pressure refrigerant cylinders <b>220</b> may be inserted into bottle <b>200</b> through neck <b>206</b>. <figref idref="DRAWINGS">FIG. 32</figref> illustrates a configuration wherein three cylinders, referenced as <b>220</b><i>a</i>, <b>220</b><i>b</i>, and <b>220</b><i>c</i>, are disposed within bottle <b>200</b>. A retaining insert <b>250</b> is placed within the neck <b>206</b> of bottle <b>200</b>. As best seen in <figref idref="DRAWINGS">FIG. 38</figref>, retaining insert <b>250</b> comprises a generally hollow, open ended body having a generally cylindrical wall <b>252</b> having a plurality of longitudinally aligned smaller cylindrical wall structures, referenced as <b>254</b>, defined in peripheral proximity to wall <b>252</b>. Cylindrical wall structures <b>254</b> are sized for receiving a projecting tubular end member <b>248</b> projecting from cap <b>240</b> when operatively installed in a bottle <b>200</b> as depicted in <figref idref="DRAWINGS">FIGS. 32 and 33</figref>.</p>
+<p id="p-0107" num="0106">In accordance with this embodiment, cryogenic cylinders <b>220</b> function to chill the beverage (or other food product) within container <b>200</b> as follows. First three cylinders <b>220</b><i>a</i>, <b>220</b><i>b</i>, and <b>220</b><i>c</i>, are charged with refrigerant. As noted above, any suitable cylinder number is considered within the scope of the present invention. In a preferred embodiment, the refrigerant comprises compressed CO<sub>2</sub>. The pressure within each cylinder is referred to as P<sub>ref</sub>. Cylinders <b>220</b> are preferably pre-charged with compressed gas and assembled with metering device <b>230</b> and cap <b>240</b> installed in operative engagement. In that regard, it is noted that cap <b>240</b> is configurable from a first configuration wherein cap <b>240</b> is disposed in a longitudinally compact configuration whereby the projecting end of capillary tube <b>239</b> is sealingly received within cylindrical recess <b>247</b> so as to prevent the compressed gas from prematurely escaping. As should be apparent, cap <b>240</b> is capable of being configured in a longitudinally expanded configuration wherein the end of capillary tube <b>239</b> is uncovered thereby placing the compressed gas contents of cylinder <b>222</b> in fluid communication with the surrounding atmosphere via the interior of cap <b>240</b> and tubular member <b>248</b> via axial opening <b>249</b> as shown in <figref idref="DRAWINGS">FIG. 37</figref>.</p>
+<p id="p-0108" num="0107">Once inserted within bottle <b>200</b>, pre-charged cylinders are secured therein by insertion of retaining insert <b>250</b> within neck <b>206</b> of bottle <b>200</b>. More particularly, axially projecting tubular member <b>248</b> of each cylinder cap <b>240</b> is received within cylindrical wall structures <b>254</b> of retaining insert <b>250</b> such that each cylinder cap <b>240</b> is capable of axial movement from the longitudinally compact configuration shown in <figref idref="DRAWINGS">FIG. 36</figref> to the longitudinally expanded configuration shown in <figref idref="DRAWINGS">FIG. 37</figref>. Cap <b>240</b> is initially maintained in the longitudinally compact configuration by press fit engagement between cap <b>240</b> and metering device <b>230</b> due in part to the relatively small surface area of cap <b>240</b> exposed to P<sub>ref </sub>(pressure of the compressed gas) via capillary tube <b>239</b> received within recess <b>245</b>.</p>
+<p id="p-0109" num="0108">The cryogenic apparatus is then charged to an activatable state when carbonated beverage is placed in bottle <b>200</b> and cap <b>210</b> is affixed thereby placing the contents of the container under a positive pressure (e.g. above atmospheric pressure). More particularly, the positive pressure within the container, referred to herein as P<sub>bev</sub>, dislodges sealing member <b>246</b> to allow gas at P<sub>bev </sub>to enter cap <b>240</b> via aperture <b>244</b> thereby placing the internal volume bounded by cap <b>240</b> to a pressure equal to P<sub>bev </sub>(e.g. above atmospheric) while the cap remains in the longitudinally compact configuration.</p>
+<p id="p-0110" num="0109">Once bottle <b>200</b> is opened by the user pressure is released and the pressure within the bottle drops from Pbev to atmospheric (P<sub>A</sub>). As a result, the elevated P<sub>bev </sub>pressure within cap <b>240</b> forces cap <b>240</b> into the longitudinally expanded configuration shown in <figref idref="DRAWINGS">FIG. 37</figref> thereby allowing compressed gas (or liquid) to expand and escape to the atmosphere from cylinder <b>222</b> via metering device <b>230</b> (and/or capillary tube <b>239</b> if used) and tubular member <b>248</b> via axial opening <b>249</b> as shown in <figref idref="DRAWINGS">FIG. 37</figref>. Meanwhile cap <b>240</b> is retained within bottle <b>200</b> by retaining insert <b>250</b>. The expanding gas results in a temperature drop within cylinder <b>222</b> that allows for heat to be absorbed from the contents of the container thereby chilling the contents.</p>
+<p id="p-0111" num="0110">The instant invention has been shown and described herein in what is considered to be the most practical and preferred embodiment. It is recognized, however, that departures may be made therefrom within the scope of the invention and that obvious modifications will occur to a person skilled in the art.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What I claim is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A self-cooling beverage container comprising:
+<claim-text>a container body having a top and a bottom, a side wall connecting said top and bottom, said top including an openable portion;</claim-text>
+<claim-text>at least one pressure vessel substantially housed within said container body, said pressure vessel containing a refrigerant under pressure;</claim-text>
+<claim-text>means for retaining said pressure vessel within said container body;</claim-text>
+<claim-text>a refrigerant metering device having an inlet in fluid communication with said refrigerant, and an outlet;</claim-text>
+<claim-text>an actuation valve configurable from a closed configuration wherein said metering device outlet is closed, to an open configuration wherein said metering device outlet is open and exposed to the pressure within the container body;</claim-text>
+<claim-text>said actuation valve including means for equalizing pressure within said actuation valve to pressure within said container body;</claim-text>
+<claim-text>said actuation valve maintained in said closed configuration when pressure within said container body is greater than atmospheric pressure; and</claim-text>
+<claim-text>said actuation valve being automatically configured to said open configuration by pressure therein upon opening of said container body open portion and reduction of pressure within said container body to substantially atmospheric pressure;</claim-text>
+<claim-text>whereby said actuation valve open configuration allows for refrigerant expansion and flow through said outlet conduit thereby cooling contents of said container.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. A self-cooling beverage container according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said actuation valve includes a includes a check valve.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. A self-cooling beverage container according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein said check valve comprises an opening in said actuation valve leading to an internal chamber, said chamber including means for allowing expansion thereof when pressure within said internal chamber is greater than external pressure.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. A self-cooling beverage container according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein said refrigerant includes carbon dioxide.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. A self-cooling beverage container comprising:
+<claim-text>a container body having a top and a bottom, a side wall connecting said top and bottom, said top including an openable portion;</claim-text>
+<claim-text>a plurality of pressure vessels substantially housed within said container body, each of said pressure vessels containing a refrigerant under pressure;</claim-text>
+<claim-text>each pressure vessel including a refrigerant metering device having an inlet in fluid communication with refrigerant contained within the pressure vessel, and an outlet;</claim-text>
+<claim-text>each pressure vessel including an actuation valve configurable from a closed configuration wherein flow through said metering device is prevented, to an open configuration wherein flow through said metering device outlet is allowed and refrigerant contained within said pressure vessel is placed in fluid communication with the interior of said container body;</claim-text>
+<claim-text>each of said actuation valves each including means for equalizing pressure within said actuation valve to pressure within said container body;</claim-text>
+<claim-text>each of said actuation valves maintained in said closed configuration when pressure within said container body is greater than atmospheric pressure; and</claim-text>
+<claim-text>each of said actuation valves being automatically configured to said open configuration by pressure therein upon opening of said container body open portion and reduction of pressure within said container body to substantially atmospheric pressure;</claim-text>
+<claim-text>whereby said actuation valve open configuration allows for refrigerant expansion and flow through said outlet conduit thereby cooling contents of said container.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. A self-cooling beverage container according to <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein said actuation valve includes a includes a check valve.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. A self-cooling beverage container according to <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein said check valve comprises an opening in said actuation valve leading to an internal chamber, said chamber including means for allowing expansion thereof when pressure within said internal chamber is greater than external pressure.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. A self-cooling beverage container according to <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein said refrigerant includes carbon dioxide. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

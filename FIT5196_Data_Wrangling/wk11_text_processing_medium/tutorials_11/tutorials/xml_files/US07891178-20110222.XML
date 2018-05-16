@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891178-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891178</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12015935</doc-number>
+<date>20080117</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>480</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>16</class>
+<subclass>D</subclass>
+<main-group>33</main-group>
+<subgroup>08</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification> 60357</main-classification>
+</classification-national>
+<invention-title id="d2e53">Centrifugally balanced fluid reservoir and method of use thereof</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>0575368</doc-number>
+<kind>A</kind>
+<name>Nolen, Jr.</name>
+<date>18970100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>2738048</doc-number>
+<kind>A</kind>
+<name>Douglas</name>
+<date>19560300</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60357</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3320748</doc-number>
+<kind>A</kind>
+<name>Nelden</name>
+<date>19670500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>4062432</doc-number>
+<kind>A</kind>
+<name>Evans</name>
+<date>19771200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>4175647</doc-number>
+<kind>A</kind>
+<name>Hanke</name>
+<date>19791100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification> 60357</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>4312433</doc-number>
+<kind>A</kind>
+<name>Bopp</name>
+<date>19820100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>4405039</doc-number>
+<kind>A</kind>
+<name>Hauser</name>
+<date>19830900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>4488628</doc-number>
+<kind>A</kind>
+<name>Kluna et al.</name>
+<date>19841200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>4544053</doc-number>
+<kind>A</kind>
+<name>Yamaguchi et al.</name>
+<date>19851000</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>4610341</doc-number>
+<kind>A</kind>
+<name>Hauser et al.</name>
+<date>19860900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>4676355</doc-number>
+<kind>A</kind>
+<name>Brunken et al.</name>
+<date>19870600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>4913273</doc-number>
+<kind>A</kind>
+<name>Mader</name>
+<date>19900400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>4938331</doc-number>
+<kind>A</kind>
+<name>Ohmi et al.</name>
+<date>19900700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>5119921</doc-number>
+<kind>A</kind>
+<name>Drennen et al.</name>
+<date>19920600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>5558192</doc-number>
+<kind>A</kind>
+<name>Muhlbach et al.</name>
+<date>19960900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>5722523</doc-number>
+<kind>A</kind>
+<name>Martin</name>
+<date>19980300</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>5775115</doc-number>
+<kind>A</kind>
+<name>Lutz et al.</name>
+<date>19980700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>5803221</doc-number>
+<kind>A</kind>
+<name>Kawada et al.</name>
+<date>19980900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>6176783</doc-number>
+<kind>B1</kind>
+<name>Lindsay et al.</name>
+<date>20010100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>6752251</doc-number>
+<kind>B2</kind>
+<name>May et al.</name>
+<date>20040600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>6935478</doc-number>
+<kind>B2</kind>
+<name>Drager et al.</name>
+<date>20050800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00022">
+<document-id>
+<country>US</country>
+<doc-number>2006/0243553</doc-number>
+<kind>A1</kind>
+<name>Light et al.</name>
+<date>20061100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00023">
+<document-id>
+<country>US</country>
+<doc-number>2006/0243554</doc-number>
+<kind>A1</kind>
+<name>May</name>
+<date>20061100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00024">
+<document-id>
+<country>US</country>
+<doc-number>2006/0243817</doc-number>
+<kind>A1</kind>
+<name>Light et al.</name>
+<date>20061100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00025">
+<document-id>
+<country>DE</country>
+<doc-number>3714086</doc-number>
+<date>19881100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00026">
+<document-id>
+<country>DE</country>
+<doc-number>19548065</doc-number>
+<date>19970600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00027">
+<document-id>
+<country>GB</country>
+<doc-number>601179</doc-number>
+<date>19480400</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00028">
+<document-id>
+<country>GB</country>
+<doc-number>2145198</doc-number>
+<date>19840700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>22</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification> 60357</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>4</number-of-drawing-sheets>
+<number-of-figures>4</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20090183964</doc-number>
+<kind>A1</kind>
+<date>20090723</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Breese</last-name>
+<first-name>Nick Jackson</first-name>
+<address>
+<city>Owasso</city>
+<state>OK</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Breese</last-name>
+<first-name>Charles Franklin</first-name>
+<address>
+<city>Owasso</city>
+<state>OK</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Head, Johnson &#x26; Kachigian, P.C.</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Nikco, LLC</orgname>
+<role>02</role>
+<address>
+<city>Owasso</city>
+<state>OK</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Lopez</last-name>
+<first-name>F. Daniel</first-name>
+<department>3745</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A centrifugally balanced fluid reservoir comprising a fluid reservoir having a channel therein, a flexible barrier dividing the channel of the fluid reservoir into a first compartment and a second compartment, a first aperture in the first compartment allowing transfer of fluid into and out of the first compartment, and a second aperture in the second compartment allowing transfer of fluid into and out of the second compartment. The first aperture may fluidly connect the first compartment to an external pressure source, and the second aperture may fluidly connect the second compartment to a rotating device. The channel of the fluid reservoir may be toroidal and annular. The rotating device and the fluid reservoir may be coaxially and concentrically aligned and may be rotated together such that the amount of fluid in the rotating device is regulated by the balance of centrifugal forces on the fluid in the rotating device countered by the amount of fluid in the second compartment, which is a function of the amount of fluid in the first compartment, which may be regulated by the external pressure source.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="156.89mm" wi="206.42mm" file="US07891178-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="209.72mm" wi="145.29mm" orientation="landscape" file="US07891178-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="207.60mm" wi="156.46mm" orientation="landscape" file="US07891178-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="174.92mm" wi="144.36mm" orientation="landscape" file="US07891178-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="170.18mm" wi="167.64mm" orientation="landscape" file="US07891178-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0002" num="0001">1. Field of the Invention</p>
+<p id="p-0003" num="0002">This invention generally relates to a centrifugally balanced fluid reservoir and method of use thereof, and more particularly to a centrifugally balanced fluid reservoir that is self-contained, capable of rotation and that regulates the amount of fluid in a rotating device, such as a fluid coupling, viscous clutch, fan drive or other rotating device requiring varying amounts of fluid.</p>
+<p id="p-0004" num="0003">2. Description of Related Art</p>
+<p id="p-0005" num="0004">Fluid couplings and/or viscous clutches are commonly used as part of a rotating power transmission device, wherein the rate of rotation of the output shaft of the fluid coupling is dependant on the characteristics of the coupling, the rotational speed and the amount of fluid within the fluid coupling. The amount of fluid in the fluid coupling can be easily changed when the fluid coupling is not in operation, allowing the rate of rotation of the output shaft to be varied; however, known devices and methods varying the amount of fluid in the fluid coupling during operation are complex, expensive and require a significant amount of maintenance.</p>
+<p id="p-0006" num="0005">The function and use of fluid couplings in rotating power transmission is mature, well defined and widely known. Fluid couplings by design slip internally while shearing the fluid they contain between two semi-toroidal vaned halves, which allows the coupling to transmit torque since there is no mechanical connection between the input and output shafts of the coupling. In general, fluid couplings, for a given input rotational speed and torque transmitted, exhibit higher slip as the fluid level is reduced. Shearing the fluid inside the coupling generates heat in the fluid as a result of the work added to it. The fluid coupling is able to reject the heat generated at the design full load operating point by transferring heat from the coupling's body to the ambient air. This heat transfer is often enhanced by the external design of the coupling with some extended heat transfer surface cooled by the air flow over the coupling created by the spinning motion of the coupling during operation. In general, there is a practical limit to the allowable slip in a fluid coupling in a constant torque application due to the heat rejection to the fluid that results. If the slip and resulting fluid shear is too high, the resulting heat generation overheats the fluid in the coupling and the coupling fails. As a result, existing apparatus' for low fluid level/high slip applications of fluid couplings may consist of a mechanism to constantly exchange the fluid in the coupling via some mechanism to extract the fluid in the coupling and replacing it at the same rate with fresh cool fluid to maintain the desired fluid level within the coupling, thus providing a mechanism of carrying off the heat generated by the fluid shear in this high slip scenario. The hot fluid that is removed is typically cooled by some heat exchange mechanism and then returned to the coupling in a closed loop. The existing apparatus' for this scenario are typically large, complex, expensive, cumbersome, maintenance intensive and impractical for many applications.</p>
+<p id="p-0007" num="0006">It is possible to place a fluid coupling between a rotating power source and a other rotating device requiring varying amounts of fluid. In the case of other rotating device requiring varying amounts of fluids, the torque requirement at reduced speeds diminishes as the square of the reduction in speed. Consequently, the horsepower required diminishes as the cube of the reduction in speed. Using this fact, we have proven to our satisfaction that for</p>
+<p id="p-0008" num="0007">It is therefore desirable to provide a centrifugally balanced fluid reservoir being properly sized and applied to a fluid coupling, viscous clutch or fan drive, wherein the heat rejected by a other rotating device requiring varying amounts of fluid to a fluid coupling in a low fluid level/high slip scenario is no more than is rejected in a full speed/full torque application.</p>
+<p id="p-0009" num="0008">It is further desirable to provide a centrifugally balanced fluid reservoir and method of use thereof that does not require an external heat transfer device to cool the fluid in the coupling, wherein the heat rejected to the ambient air is sufficient to maintain a suitable operating temperature for the coupling.</p>
+<p id="p-0010" num="0009">It is yet further desirable to provide a centrifugally balanced fluid reservoir wherein continuous fluid exchange is not required.</p>
+<p id="p-0011" num="0010">It is yet further desirable to provide a centrifugally balanced fluid reservoir that allows the transfer of fluid from the reservoir to the fluid coupling on an as needed basis, thus achieving a variable speed drive for the other rotating device requiring varying amounts of fluid.</p>
+<p id="p-0012" num="0011">It is yet further desirable to provide a centrifugally balanced fluid reservoir that permits removal of fluid from a rotating device by the centrifugal force inherent to a rotating object. The force created by the fluid in the rotating source is a function of the speed of rotation, the level of fluid in the source, and several other physical properties of the fluid itself.</p>
+<p id="p-0013" num="0012">It is yet further desirable to provide a centrifugally balanced fluid reservoir and method of use thereof whereby regulating the flow from the rotating source counteracts the centrifugal force by an opposing force. The fluid level in the rotating source will naturally seek a balance between the centrifugal force and the opposing force. The fluid in the source will flow into or out of the source until a balance of forces is reached, the source is either empty or full such that it can no longer supply or accept any additional fluid, or the reservoir is either empty or full such that it can no longer supply or accept any additional fluid.</p>
+<p id="p-0014" num="0013">It is yet further desirable to provide a centrifugally balanced fluid reservoir having a fluid reservoir with a variable internal pressure and resulting reservoir volume to modulate the level of fluid in the rotating source.</p>
+<p id="p-0015" num="0014">It is yet further desirable to provide a centrifugally balanced fluid reservoir that allows for easy change in the amount of fluid in a rotating device while the rotating device is in operation.</p>
+<p id="p-0016" num="0015">It is yet further desirable to provide a centrifugally balanced fluid reservoir capable of varying the amount of fluid in a rotating device, such as a fluid coupling, and therefore alter the rate of rotation produced by the rotating device, while the rotating device is in operation.</p>
+<p id="p-0017" num="0016">It is yet further desirable to provide a centrifugally balanced fluid reservoir and method of use thereof that is simple, inexpensive and low-maintenance.</p>
+<p id="p-0018" num="0017">It is yet further desirable to provide a centrifugally balanced fluid reservoir capable of regulating fluid transfer in rotating devices, such as fluid couplings, viscous clutches, fan drives and other rotating devices.</p>
+<heading id="h-0002" level="1">BRIEF SUMMARY OF THE INVENTION</heading>
+<p id="p-0019" num="0018">In general, in a first aspect, the present invention relates to a centrifugally balanced fluid reservoir including a fluid reservoir having a channel therein, a flexible barrier dividing the channel of the fluid reservoir into a first compartment and a second compartment, a first aperture in the first compartment allowing transfer of fluid into and out of the first compartment, and a second aperture in the second compartment allowing transfer of fluid into and out of the second compartment. The fluid reservoir may be toroidal and annular. The flexible barrier may be sufficiently flexible to allow a volume of the first compartment and a volume of the second compartment to vary between 0% and 100% of the total volume of the channel of the fluid reservoir. The volume of the first compartment plus the volume of the second compartment can equal 100% of the total volume of the channel of the fluid reservoir.</p>
+<p id="p-0020" num="0019">The fluid reservoir may include a first member having an arcuate channel forming the first compartment releasably secured using a plurality of bolts to a second member having an arcuate channel forming the second compartment. The arcuate channel of the first member and the arcuate channel of the second member may form the channel of the fluid reservoir. The arcuate channel of the first member and the arcuate channel of the second member can be laterally divided by the flexible barrier forming the first compartment and the second compartment. The flexible barrier can be a flexible diaphragm or bladder made of a resilient, non-reactive polymer.</p>
+<p id="p-0021" num="0020">A first tubing may be in fluid communication with the first aperture and a second tubing may be in fluid communication with the second aperture. An external pressure source may be in fluid communication with the first aperture of the first compartment. A rotating device can be in fluid communication with the second aperture of the second compartment. The rotating device and the fluid reservoir may be coaxially and concentrically aligned. The fluid reservoir may be static or rotate. The rotating device may be a fluid coupling, viscous clutch, fan drive or other rotating device requiring varying amounts of fluid.</p>
+<p id="p-0022" num="0021">The rotating device may include an internal chamber with an outside radius and the channel of the fluid reservoir may have an inside radius. The inside radius of the channel of the fluid reservoir may be greater than the outside radius of the internal chamber of the rotating device.</p>
+<p id="p-0023" num="0022">In general, in a second aspect, the present invention relates to a method of regulating fluid transfer by rotating a centrifugally balanced fluid reservoir about an axis; regulating the amount of a first fluid in the first compartment with an external pressure source, wherein the external pressure source is in fluid communication with the first aperture in the first compartment; allowing a second fluid to transfer between the second compartment and a rotating device, wherein the rotating device is in fluid communication with the second aperture in the second compartment; and wherein the amount of the second fluid in the rotating device is dependent on the amount of the second fluid in the second compartment of the fluid reservoir, wherein the amount of the second fluid in the second compartment is dependent on the volume of the second compartment, wherein the volume of the second compartment is dependent on the position of the flexible barrier, wherein the position of the flexible barrier is dependent on the amount of the first fluid in the first compartment of the fluid reservoir, and wherein the amount of the first fluid in the first compartment is regulated by the external pressure source.</p>
+<p id="p-0024" num="0023">The method of regulating fluid transfer may further include rotating the rotating device to produce centrifugal force compelling the second fluid to transfer between the rotating device and the second compartment through the second aperture. The centrifugal force compelling the second fluid to transfer between the second compartment and the rotating device may be balanced by increasing the amount of the first fluid in the first compartment using the external pressure source in fluid communication with the first aperture in the first compartment of the fluid reservoir. The rotating device may be a fluid coupling, viscous clutch, fan drive or other rotating device requiring varying amounts of fluid. The method of regulating fluid transfer may further include the rotating device having an internal chamber with an outside radius, the channel of the fluid reservoir having an inside radius, and wherein the inside radius of the channel of the fluid reservoir is greater than the outside radius of the internal chamber of the rotating device. The channel of the fluid reservoir may be toroidal and annular, while the rotating device and the fluid reservoir may be coaxially and concentrically aligned.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 1</figref> is a perspective view of an example of a centrifugally balanced fluid reservoir in accordance with an illustrative embodiment of the centrifugally balanced fluid reservoir disclosed herein;</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 2</figref> is a schematic side view of an example of a centrifugally balanced fluid reservoir in accordance with the illustrative embodiment of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 3</figref> is an exploded perspective view of an example of a centrifugally balanced fluid reservoir in accordance with the illustrative embodiment of <figref idref="DRAWINGS">FIGS. 1 and 2</figref>; and</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 4</figref> is a schematic side view of another example of a centrifugally balanced fluid reservoir in accordance with an illustrative embodiment of the centrifugally balanced fluid reservoir disclosed herein.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<p id="p-0029" num="0028">Other advantages and features will be apparent from the following description and from the claims.</p>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENTS</heading>
+<p id="p-0030" num="0029">The devices and methods discussed herein are merely illustrative of specific manners in which to make and use the invention and are not to be interpreted as limiting in scope.</p>
+<p id="p-0031" num="0030">While the devices and methods have been described with a certain degree of particularity, it is to be noted that many modifications may be made in the details of the construction and the arrangement of the devices, methods and components without departing from the spirit and scope of this disclosure. It is understood that the devices and methods are not limited to the embodiments set forth herein for purposes of exemplification.</p>
+<p id="p-0032" num="0031">Referring to the figures of the drawings, wherein like numerals of reference designate like elements throughout the several views, and initially to <figref idref="DRAWINGS">FIG. 1</figref>, a centrifugally balanced fluid reservoir <b>10</b> that is pressurized and in fluid communication with a rotating device <b>12</b>. The rotating device <b>12</b> may be a fluid coupling, as shown for purposes of illustration, a viscous clutch, a fan drive, other rotating device requiring varying amounts of fluid or any other rotating device requiring a varying amount of fluid. The rotating device <b>12</b> may be connected to an input shaft <b>14</b> and an output shaft <b>16</b>. The input shaft <b>14</b> may be connected to a power source <b>18</b> that causes the input shaft <b>14</b> to rotate. The output shaft <b>16</b>, as shown in <figref idref="DRAWINGS">FIG. 1</figref>, is connected to a fan <b>20</b>. The input shaft <b>14</b> rotates the rotating device <b>12</b>, which has internal slippage while shearing a contained fluid between semi-toroidal vaned halves, allowing the rotating device <b>12</b> to transmit torque to the output shaft <b>16</b> to turn the fan <b>20</b>. As illustrated in <figref idref="DRAWINGS">FIGS. 1 and 2</figref>, the centrifugally balanced fluid reservoir <b>10</b> may include a first tube <b>22</b> in fluid communication with an external pressure source (not shown), such as instrument air. The centrifugally balanced fluid reservoir may also include a second tube <b>24</b> in fluid communication with the rotating device <b>12</b>, permitting fluid transfer between the rotating device <b>12</b> and the centrifugally balanced fluid reservoir <b>10</b>. By varying the pressure and volume within the centrifugally balanced fluid reservoir <b>10</b> by the external pressure source, the volume of fluid in the centrifugally balanced fluid reservoir <b>10</b> and in the rotating device <b>12</b> is increased or decreased, thus increasing or decreasing the slippage in the rotating device <b>12</b>. This increase or decrease in slippage in the rotating device <b>12</b> alters the torque output to output shaft <b>16</b>. Therefore, the centrifugally balanced fluid reservoir <b>10</b> has a variable internal pressure and resulting reservoir volume to modulate the level of fluid in the rotating source <b>12</b>.</p>
+<p id="p-0033" num="0032">The centrifugally balanced fluid reservoir <b>10</b> includes a fluid reservoir <b>26</b> having a channel <b>28</b> therein. A flexible barrier <b>30</b> divides the channel <b>28</b> of the fluid reservoir <b>26</b> into a first compartment <b>32</b> and a second compartment <b>34</b>. The channel <b>28</b> of the fluid reservoir <b>26</b> may be toroidal and annular, as shown in <figref idref="DRAWINGS">FIG. 3</figref>. The fluid reservoir <b>26</b> may have a volume equal to the greatest volume in a rotating device <b>12</b> minus the least desired volume in the rotating device <b>12</b>. The fluid reservoir <b>26</b> may be attached to the rotating device <b>12</b>, as shown in <figref idref="DRAWINGS">FIG. 2</figref>, or made be integrated therewith, as shown in <figref idref="DRAWINGS">FIG. 4</figref>. The flexible barrier <b>30</b> may be sufficiently flexible to allow the volumes of the first and second compartments <b>32</b> and <b>34</b> of the fluid reservoir <b>12</b> to vary between 0% and 100% of the total fluid reservoir volume. The flexible barrier <b>30</b> may be a flexible diaphragm or bladder and may be made of a resilient, non-reactive polymer material. The relative pressures of the first and second compartments <b>32</b> and <b>34</b> and the resulting flexible barrier <b>30</b> deflection, or, when a diaphragm is used, the position of the diaphragm, determine the first and second compartment <b>32</b> and <b>34</b> volumes, respectively. The level of fluid in the first and second compartments <b>32</b> and <b>34</b> of the fluid reservoir <b>26</b> is modulated by balancing the fluid pressure in the second compartment <b>34</b> created by the centrifugal force of the rotating device <b>12</b> against a counteracting pressure in the first compartment <b>32</b> created by the external pressure source on the opposite side of the flexible barrier <b>30</b>. The fluid reservoir <b>26</b> may be stationary or may rotate. The fluid reservoir <b>26</b> may rotate independently of the rotating device <b>12</b> or may rotate at the same rate of rotation as the rotating device <b>12</b>. The fluid reservoir <b>26</b> and the rotating device <b>12</b> may be coaxially and concentrically aligned.</p>
+<p id="p-0034" num="0033">The first compartment <b>32</b> of the fluid reservoir <b>26</b> of the centrifugally balanced fluid reservoir <b>10</b> has a first aperture <b>36</b> allowing the transfer of fluid into and out of the first compartment <b>32</b>. The first aperture <b>36</b> of the first compartment <b>32</b> may be directly in fluid communication with the external pressure source or may be fluidly connected to the external pressure source via the first tube <b>22</b>. The second compartment <b>34</b> of the fluid reservoir <b>26</b> of the centrifugally balanced fluid reservoir has a second aperture <b>38</b> allowing the transfer of fluid into and out of the second compartment <b>34</b>. The second aperture <b>38</b> of the second compartment may be directly in fluid communication with the rotating device <b>12</b> or may be fluidly connected to the rotating device <b>12</b> via the second tube <b>24</b>. The volume of the first compartment <b>32</b> plus the volume of the second compartment <b>34</b> equals 100% of the total volume of the channel <b>28</b> of the fluid reservoir <b>26</b>.</p>
+<p id="p-0035" num="0034">The rotating device <b>12</b> may include an internal chamber <b>40</b> with an outside radius less than an inside radius of the channel <b>28</b> of the fluid reservoir <b>26</b>.</p>
+<p id="p-0036" num="0035">The centrifugally balanced fluid reservoir <b>10</b> may include a first member <b>42</b> having an arcuate channel <b>44</b>, which forms the first compartment <b>32</b> of the fluid reservoir <b>26</b>. The centrifugally balanced fluid reservoir <b>10</b> may also include a second member <b>46</b> having an arcuate channel <b>48</b>, which forms the second compartment <b>34</b> of the fluid reservoir <b>26</b>. The arcuate channel <b>44</b> of the first member <b>42</b> and the arcuate channel <b>48</b> of the second member <b>46</b> may be laterally divided by the flexible barrier <b>30</b> and may form the channel <b>28</b> of the fluid reservoir <b>26</b>. The first member <b>42</b> may be secured to the second member <b>46</b> may be secured together by a plurality of bolts <b>50</b> or other fastening mechanisms.</p>
+<p id="p-0037" num="0036">The centrigually balanced fluid reservoir <b>10</b> may be separated from the rotating device <b>12</b> as illustrated in <figref idref="DRAWINGS">FIGS. 1 and 2</figref>, or may be integrated into the rotating device <b>12</b>, as illustrated in <figref idref="DRAWINGS">FIG. 4</figref>. In keeping with the spirit and scope of the centrifugally balanced fluid reservoir <b>10</b> disclosed herein, one skilled in the art will appreciate that any configuration of the first and second compartments <b>32</b> and <b>34</b> in the fluid reservoir <b>26</b> is acceptable, so long as the minor diameter of the first and second compartments <b>32</b> and <b>34</b> is greater than the major diameter of the internal chamber <b>40</b> the rotating device <b>12</b>.</p>
+<p id="p-0038" num="0037">As the rotating device <b>12</b> is rotated, fluid in the internal chamber <b>40</b> of the rotating device <b>12</b> is subjected to centrifugal force. Because the inner diameter of the fluid reservoir <b>26</b> of the centrifugally balanced fluid reservoir <b>10</b> is greater than the outer diameter of the internal chamber <b>40</b> of the rotating device <b>12</b>, and if the centrifugal force is greater than the force of the pressure in the second compartment <b>34</b>, the centrifugal force causes the fluid in the internal chamber <b>40</b> of the rotating device <b>12</b> to travel from the rotating device <b>12</b>, through the second aperture <b>38</b> (and possibly through the second tube <b>24</b> depending upon the configuration), and into the second compartment <b>34</b>. This causes the flexible barrier <b>30</b> to deflect, increasing the volume of the second compartment <b>34</b> and decreasing the volume of the first compartment <b>32</b>. The external pressure source may be used to transfer fluid through the first aperture <b>36</b> (and possibly through the first tube <b>22</b> depending upon the configuration) into the first compartment <b>32</b>, thus increasing the pressure and the volume of the first compartment <b>32</b> and decreasing the volume of the second compartment <b>34</b> through the deflection of the flexible barrier <b>30</b>. As the second compartment <b>34</b> can no longer hold as much fluid, fluid travels from the second compartment <b>34</b>, through the second aperture <b>38</b>, and into the rotating device <b>12</b>, counterbalancing the centrifugal force created by rotation of the rotating device <b>12</b>. Thus, altering the pressure exerted by the external pressure source alters the amount of fluid in the internal chamber <b>40</b> of the rotating device <b>12</b>.</p>
+<p id="p-0039" num="0038">The centrifugally balanced fluid reservoir <b>10</b> may be used to vary the fluid level in any rotating device <b>12</b>, such as a fluid coupling, viscous clutch, fan drive or other rotating device requiring varying amounts of fluid. If the level of fluid (typically oil) in the rotating device <b>12</b> is varied, the power transmission characteristics vary accordingly. The final result and desired effect is a variable speed control for the output shaft <b>16</b> of the rotating device. For a constant input rotation speed, a change in the pressure of the flexible barrier <b>30</b> in the channel <b>28</b> of the fluid reservoir <b>26</b> would result in a change in output speed of the rotating device for a given power requirement.</p>
+<p id="p-0040" num="0039">The centrifugally balanced fluid reservoir <b>12</b> allows the output speed to be changed while the rotating device <b>12</b> is operational by changing the amount of fluid in the rotating device <b>12</b>. The centrifugal force inherent in the operation of the rotating device <b>12</b> allows for removal of fluid from the rotating device <b>12</b>, and the pressure exerted by the flexible barrier <b>30</b> on the fluid in the second compartment <b>34</b> due to the amount of fluid in the first compartment <b>32</b>, which is controlled by the external pressure source, allows for the variation of fluid to the rotating device <b>12</b>. In other words, the pressure balance in the centrifugally balanced fluid reservoir <b>10</b> determines the fluid level in the rotating device <b>12</b>. Thus, the amount of fluid in the rotating device <b>12</b> may be regulated by changing the amount of pressure exerted by the external pressure source. Due to the inherent operational characteristics of the rotating device <b>12</b>, this self-contained, pressurized, centrifugally balanced fluid reservoir <b>10</b> is particularly well suited to any rotating device <b>12</b> whose function is enhanced by a variable fluid level. Due to the inherent characteristics of the rotating device <b>12</b>, it is possible to vary the speed of the output shaft <b>16</b> by varying the amount of fluid in the internal chamber <b>40</b> of the rotating device <b>12</b>.</p>
+<p id="p-0041" num="0040">Also contemplated herein is a method of regulating fluid transfer by rotating the centrifugally balanced fluid reservoir <b>10</b> about an axis (fully discussed above), regulating the amount of a first fluid in the first compartment <b>32</b> with the external pressure source and allowing a second fluid to transfer between the second compartment <b>34</b> and the rotating device <b>12</b>. The rotating device <b>12</b> is in fluid communication with the second aperture <b>38</b> in the second compartment <b>34</b>, while the external pressure source is in fluid communication with the first aperture <b>36</b> in the first compartment <b>32</b>. The amount of the second fluid in the rotating device <b>12</b> is dependent on the amount of the second fluid in the second compartment <b>34</b> of the fluid reservoir <b>12</b>. The amount of the second fluid in the second compartment <b>34</b> is dependent on the volume of the second compartment, and the volume of the second compartment <b>34</b> is dependent on the position of the flexible barrier <b>30</b>. The position of the flexible barrier <b>30</b> is dependent on the amount of the first fluid in the first compartment <b>32</b> of said fluid reservoir <b>26</b>. The amount of the first fluid in the first compartment <b>32</b> is regulated by the external pressure source.</p>
+<p id="p-0042" num="0041">The method of regulating fluid transfer may also include rotating the rotating device <b>12</b> to produce centrifugal force compelling the second fluid to transfer between the internal chamber <b>40</b> of the rotating device <b>12</b> and the second compartment <b>34</b> through the second aperture <b>38</b>. The centrifugal force compelling the second fluid to transfer between the second compartment <b>34</b> and the internal chamber <b>40</b> of the rotating device <b>12</b> is balanced by increasing the amount of the first fluid in the first compartment <b>32</b> using the external pressure source, which is in fluid communication with the first aperture <b>36</b> in the first compartment <b>32</b> of said fluid reservoir <b>26</b>.</p>
+<p id="p-0043" num="0042">As described in the foregoing, the rotating device <b>12</b> may be a fluid coupling, viscous clutch, fan drive or other rotating device requiring varying amounts of fluid. The rotating device <b>12</b> may have the internal chamber <b>40</b> with an outside radius, and the channel <b>28</b> of the fluid reservoir <b>26</b> may have an inside radius. The inside radius of the channel <b>28</b> of the fluid reservoir <b>26</b> should be greater than the outside radius of the internal chamber <b>40</b> of the rotating device <b>12</b>. The channel <b>28</b> of the fluid reservoir <b>26</b> of the centrifugally balanced fluid reservoir <b>10</b> may be toroidal and annular, and the rotating device <b>12</b> and the centrifugally balanced fluid reservoir <b>10</b> may be coaxially and concentrically aligned.</p>
+<p id="p-0044" num="0043">Whereas, the devices and methods have been described in relation to the drawings and claims, it should be understood that other and further modifications, apart from those shown or suggested herein, may be made within the spirit and scope of this invention.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A centrifugally balanced fluid reservoir, comprising:
+<claim-text>a fluid reservoir having a toroidal channel therein, said fluid reservoir further comprising a first member having a generally arcuate channel forming a first compartment and a second member having a generally arcuate channel forming a second compartment, wherein said arcuate channel of said first member and said arcuate channel of said second member form said channel of said fluid reservoir;</claim-text>
+<claim-text>a flexible barrier dividing said channel of said fluid reservoir into said first compartment and said second compartment;</claim-text>
+<claim-text>a first aperture in said first compartment allowing transfer of fluid into and out of said first compartment; and</claim-text>
+<claim-text>a second aperture in said second compartment allowing transfer of fluid into and out of said second compartment.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The centrifugally balanced fluid reservoir of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said fluid reservoir further comprises said first member having said generally arcuate channel forming said first compartment releasably secured using a plurality of bolts to said second member having said generally arcuate channel forming said second compartment.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The centrifugally balanced fluid reservoir of <claim-ref idref="CLM-00002">claim 2</claim-ref> wherein said arcuate channel of said first member and said arcuate channel of said second member are laterally divided by said flexible barrier forming said first compartment and said second compartment.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The centrifugally balanced fluid reservoir of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said flexible barrier is sufficiently flexible to allow a volume of said first compartment and a volume of said second compartment to vary between 0% and 100% of the total volume of said channel of said fluid reservoir, and wherein said volume of said first compartment plus said volume of said second compartment equals 100% of the total volume of said channel of said fluid reservoir.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The centrifugally balanced fluid reservoir of <claim-ref idref="CLM-00001">claim 1</claim-ref> further comprising a first tubing in fluid communication with said first aperture and a second tubing in fluid communication with said second aperture.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The centrifugally balanced fluid reservoir of <claim-ref idref="CLM-00001">claim 1</claim-ref> further comprising an external pressure source in fluid communication with said first aperture of said first compartment.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The centrifugally balanced fluid reservoir of <claim-ref idref="CLM-00001">claim 1</claim-ref> further comprising a rotating device in fluid communication with said second aperture of said second compartment.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The centrifugally balanced fluid reservoir of <claim-ref idref="CLM-00007">claim 7</claim-ref> wherein said rotating device and said fluid reservoir are coaxially aligned.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The centrifugally balanced fluid reservoir of <claim-ref idref="CLM-00007">claim 7</claim-ref> wherein said fluid reservoir is static or rotates.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The centrifugally balanced fluid reservoir of <claim-ref idref="CLM-00007">claim 7</claim-ref> further comprising:
+<claim-text>said rotating device having an internal chamber with an outside radius;</claim-text>
+<claim-text>said channel of said fluid reservoir having an inside radius; and</claim-text>
+<claim-text>wherein said inside radius of said channel of said fluid reservoir is greater than said outside radius of said internal chamber of said rotating device.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The centrifugally balanced fluid reservoir of <claim-ref idref="CLM-00007">claim 7</claim-ref> wherein said rotating device is a fluid coupling, viscous clutch, fan drive or other rotating device requiring varying amounts of fluid.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The centrifugally balanced fluid reservoir of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said flexible barrier is a flexible diaphragm or bladder comprised of a resilient, non-reactive polymer.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. A centrifugally balanced fluid reservoir, comprising:
+<claim-text>a fluid reservoir having a toroidal channel therein, said toroidal channel of said fluid reservoir comprising a first generally arcuate channel secured to a second generally arcuate channel;</claim-text>
+<claim-text>a flexible barrier laterally dividing said first generally arcuate channel and said second generally arcuate channel of said toroidal channel of said fluid reservoir into a first compartment and a second compartment;</claim-text>
+<claim-text>a first aperture in said first compartment in fluid communication with an external pressure source;</claim-text>
+<claim-text>a second aperture in said second compartment in fluid communication with a rotating device;</claim-text>
+<claim-text>wherein said rotating device and said fluid reservoir are coaxially aligned;</claim-text>
+<claim-text>wherein said rotating device has an internal chamber with an outside radius, said channel of said fluid reservoir has an inside radius, and wherein said inside radius of said channel of said fluid reservoir is greater than said outside radius of said internal chamber of said rotating device.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The centrifugally balanced fluid reservoir of <claim-ref idref="CLM-00013">claim 13</claim-ref> wherein said flexible barrier is sufficiently flexible to allow a volume of said first compartment and a volume of said second compartment to vary between 0% and 100% of the total volume of said channel of said fluid reservoir, and wherein said volume of said first compartment plus said volume of said second compartment equals 100% of the total volume of said channel of said fluid reservoir.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The centrifugally balanced fluid reservoir of <claim-ref idref="CLM-00013">claim 13</claim-ref> wherein said fluid reservoir is static or rotates.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The centrifugally balanced fluid reservoir of <claim-ref idref="CLM-00013">claim 13</claim-ref> wherein said rotating device is a fluid coupling, viscous clutch, fan drive or other rotating device requiring varying amounts of fluid.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text>17. A method of regulating fluid transfer, comprising the steps of:
+<claim-text>rotating a centrifugally balanced fluid reservoir about an axis, wherein said centrifugally balanced fluid reservoir comprises:
+<claim-text>a fluid reservoir having a toroidal channel therein, wherein said fluid reservoir further comprises a first member having a generally arcuate channel forming a first compartment secured to a second member having a generally arcuate channel forming a second compartment, wherein said generally arcuate channel of said first member and said generally arcuate channel of said second member form said toroidal channel of said fluid reservoir;</claim-text>
+<claim-text>a flexible barrier laterally dividing said toroidal channel of said fluid reservoir into said first compartment and said second compartment;</claim-text>
+<claim-text>a first aperture in said first compartment allowing transfer of a first fluid into and out of said first compartment; and</claim-text>
+<claim-text>a second aperture in said second compartment allowing transfer of a second fluid into and out of said second compartment;</claim-text>
+</claim-text>
+<claim-text>regulating the amount of said first fluid in said first compartment with an external pressure source, wherein said external pressure source is in fluid communication with said first aperture in said first compartment;</claim-text>
+<claim-text>allowing said second fluid to transfer between said second compartment and a rotating device, wherein said rotating device is in fluid communication with said second aperture in said second compartment; and</claim-text>
+<claim-text>wherein the amount of said second fluid in said rotating device is dependent on the amount of said second fluid in said second compartment of said fluid reservoir, wherein the amount of said second fluid in said second compartment is dependent on the volume of said second compartment, wherein said volume of said second compartment is dependent on the position of said flexible barrier, wherein said position of said flexible barrier is dependent on the amount of said first fluid in said first compartment of said fluid reservoir, and wherein said amount of said first fluid in said first compartment is regulated by said external pressure source.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text>18. The method of regulating fluid transfer of <claim-ref idref="CLM-00017">claim 17</claim-ref> further comprising the step of rotating said rotating device to produce centrifugal force compelling said second fluid to transfer between said rotating device and said second compartment through said second aperture.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text>19. The method of regulating fluid transfer of <claim-ref idref="CLM-00018">claim 18</claim-ref> wherein said centrifugal force compelling said second fluid to transfer between said second compartment and said rotating device is balanced by increasing said amount of said first fluid in said first compartment using said external pressure source in fluid communication with said first aperture in said first compartment of said fluid reservoir.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text>20. The method of regulating fluid transfer of <claim-ref idref="CLM-00017">claim 17</claim-ref> where said rotating device is a fluid coupling, viscous clutch, fan drive or other rotating device requiring varying amounts of fluid.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text>21. The method of regulating fluid transfer of <claim-ref idref="CLM-00017">claim 17</claim-ref> further comprising:
+<claim-text>said rotating device having an internal chamber with an outside radius;</claim-text>
+<claim-text>said channel of said fluid reservoir having an inside radius; and</claim-text>
+<claim-text>wherein said inside radius of said channel of said fluid reservoir is greater than said outside radius of said internal chamber of said rotating device.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text>22. The method of regulating fluid transfer of <claim-ref idref="CLM-00017">claim 17</claim-ref> wherein said rotating device and said fluid reservoir are coaxially aligned.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>

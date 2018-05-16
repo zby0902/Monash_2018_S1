@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US07891025-20110222.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110208" date-publ="20110222">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>07891025</doc-number>
+<kind>B2</kind>
+<date>20110222</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>11891115</doc-number>
+<date>20070809</date>
+</document-id>
+</application-reference>
+<us-application-series-code>11</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2006-218852</doc-number>
+<date>20060810</date>
+</priority-claim>
+<priority-claim sequence="02" kind="national">
+<country>JP</country>
+<doc-number>2006-292258</doc-number>
+<date>20061027</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>776</us-term-extension>
+</us-term-of-grant>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>61</class>
+<subclass>F</subclass>
+<main-group>9</main-group>
+<subgroup>02</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110222</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>  2436</main-classification>
+<further-classification>  2440</further-classification>
+</classification-national>
+<invention-title id="d2e90">Protective device for eyes</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>4290673</doc-number>
+<kind>A</kind>
+<name>Yamamoto</name>
+<date>19810900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>351 62</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>5018223</doc-number>
+<kind>A</kind>
+<name>Dawson et al.</name>
+<date>19910500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2436</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>5689834</doc-number>
+<kind>A</kind>
+<name>Wilson</name>
+<date>19971100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2436</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>6009564</doc-number>
+<kind>A</kind>
+<name>Tackles et al.</name>
+<date>20000100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2436</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>6611966</doc-number>
+<kind>B1</kind>
+<name>Yamamoto et al.</name>
+<date>20030900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2436</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>6772448</doc-number>
+<kind>B1</kind>
+<name>Hockaday et al.</name>
+<date>20040800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2435</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00007">
+<document-id>
+<country>CN</country>
+<doc-number>1782784</doc-number>
+<date>20060600</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00008">
+<document-id>
+<country>EP</country>
+<doc-number>1661534</doc-number>
+<date>20060500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00009">
+<document-id>
+<country>JP</country>
+<doc-number>2002-505157</doc-number>
+<date>20020200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00010">
+<document-id>
+<country>WO</country>
+<doc-number>WO 2007/085001</doc-number>
+<date>20070700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>12</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>  2435</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2436</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2440</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2442</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>5</number-of-drawing-sheets>
+<number-of-figures>5</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20080055538</doc-number>
+<kind>A1</kind>
+<date>20080306</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Kobayashi</last-name>
+<first-name>Hirokazu</first-name>
+<address>
+<city>Osaka</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Matsumoto</last-name>
+<first-name>Kimio</first-name>
+<address>
+<city>Osaka</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Oka</last-name>
+<first-name>Koichiro</first-name>
+<address>
+<city>Osaka</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>DLA Piper LLP (US)</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Yamamoto Kogaku Co., Ltd.</orgname>
+<role>03</role>
+<address>
+<city>Osaka</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Moran</last-name>
+<first-name>Katherine</first-name>
+<department>3765</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A protective device for eyes, for example, goggles of a shield, includes a double lens member, a frame member and a face fixation member. The double lens member includes a front lens, a back lens and a gasket. The front lens and the back lens are made of polycarbonate resins, polyurethane resins, polyester resins or polyamide resins. The front lens and the back lens are disposed in parallel with the gasket therebetween in order to form a space surrounded with the front lens, the back lens and the gasket. This device is excellent in the antifogging property in the double lens.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="195.66mm" wi="247.65mm" file="US07891025-20110222-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="155.19mm" wi="139.62mm" orientation="landscape" file="US07891025-20110222-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="134.87mm" wi="129.12mm" orientation="landscape" file="US07891025-20110222-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="203.88mm" wi="90.76mm" file="US07891025-20110222-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="199.98mm" wi="100.25mm" file="US07891025-20110222-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="183.47mm" wi="121.84mm" orientation="landscape" file="US07891025-20110222-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">INCORPORATION BY REFERENCE</heading>
+<p id="p-0002" num="0001">The present invention claims priority under 35 U.S.C. &#xa7;119 to Japanese Patent Application No. 2006-218852 filed on Aug. 10, 2006 and Japanese Patent Application No. 2006-292258 filed on Oct. 27, 2006. The content of the applications is incorporated herein by reference in its entirety.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">1. Field of the Invention</p>
+<p id="p-0004" num="0003">This invention relates to a protective device for eyes, particularly goggles or face shielded helmets for sports to be used in skiing, snowboarding, ice skating, cycling, motocross motorcycling etc. as well as industrial goggles or face shields to be used in a building site, civil engineering work and the like.</p>
+<p id="p-0005" num="0004">Especially, the invention relates to goggles, face shielded helmets and face shields excellent in a function of protecting eyes from impact, rain, snow, dust, or the like and hardly fogged in the double lens even in the case of sweating or ambient temperature fluctuation.</p>
+<p id="p-0006" num="0005">2. Description of the Related Art</p>
+<p id="p-0007" num="0006">In sports accompanied with speeds such as skiing, snowboarding, ice skating, cycling and motocross motorcycling, goggles and face shielded helmets for covering both eyes have been widely used for protecting the wearer's eyes from unexpected accident such as a fall and a crash and also for keeping a clear visibility at the time of raining, snowing, or the like.</p>
+<p id="p-0008" num="0007">Further, goggles and face shields have been widely used for protecting the wearer's eyes in so-called dusty work sites of, for example, demolition of buildings, earth and sand collection and stone crushing, tunneling, mining, cement production, and steelmaking.</p>
+<p id="p-0009" num="0008">These goggles and shields are called as a single lens since they typically have a single lens.</p>
+<p id="p-0010" num="0009">For goggles, face shielded helmets and shields, it is indispensable to have a damage-preventing function for protecting eyes from a fall or a crash and a foreign substances-shutting function for protecting eyes from rain, snow, and dust. However, these goggles and shields have been insufficient in antifogging function for preventing lens from fogging due to sweating or ambient temperature fluctuation in use.</p>
+<p id="p-0011" num="0010">The foreign substances-shutting function depends on the structure itself of covering both eyes, and therefore this function does not depend on the property of a resin to be used for the lens. On the other hand, the damage-preventing function depends on the property of the base material of the lens, such as bending rigidity and impact-resistant strength. Since polycarbonates are recognized as a material having good stiffness, a strong toughness and difficulty of being bent, polycarbonate lenses have been generally used.</p>
+<p id="p-0012" num="0011">With respect to the antifogging function of goggles and shields, a method for forming an antifogging coating on the inside of the lens, that is the side facing to eyes, has been employed. However, any antifogging agent has a limited capacity in absorbing moisture and once a prescribed amount of moisture is absorbed, droplets are likely to be formed on the antifogging coating, resulting in the lens being fogged.</p>
+<p id="p-0013" num="0012">Moreover, since the goggles and shields forms a kind of sealed space between the skin and the lens facing to the eyes, the moisture such as sweat supplied constantly from the skin tends to filled in that space. Therefore, it is inevitable to cause fogging sooner or later while wearing the goggles or shields, and it is thus difficult to give them a semi-permanent antifogging property.</p>
+<p id="p-0014" num="0013">For such a limited antifogging function, a double lens structure in which two lenses arranged approximately in parallel are fixed by gaskets placed on the circumferential part of the lenses, that is called a double lens, has been proposed.</p>
+<p id="p-0015" num="0014">For the lens facing to the outside, that is a front lens out of two lenses composing the double lens, polycarbonate resins have been commonly used as before in order to obtain the damage-preventing function.</p>
+<p id="p-0016" num="0015">On the other hand, for the lens facing to the eyes, that is a back lens, acyl cellulose resins having a moisture absorbing property have been used. Acyl cellulose, especially, propyl cellulose is preferably used.</p>
+<p id="p-0017" num="0016">In the double lens structure, the space formed by the two lenses and the gasket functions as a temperature buffer zone, so that the cooling inside of the goggle can be moderated even if it is exposed to the cold outside air.</p>
+<p id="p-0018" num="0017">Accordingly, the water vapor enclosed in the space between the lens and the skin is less likely to cause a dew condensation on the back lens, and even if a dew condensation is occurred, since they are absorbed in the propyl cellulose, fogging of the lens facing to the eyes of the double lens is less generated as compared with the goggles with the single lens structure.</p>
+<p id="p-0019" num="0018">However, since the acryl cellulose type resins generally have high moisture permeability, the water vapor enclosed in the space between the lens and the skin through a back lens made of propyl cellulose is easily permeated to the inside space surrounded with the front lens, the back lens and the gasket and this causes a problem that the inside of the front lens, that is the back curve side of the front lens, is fogged when a wearer goes outside like an environment at a temperature of about &#x2212;5&#xb0; C. in a skiing area from inside of a warm room.</p>
+<p id="p-0020" num="0019">To deal with this problem, it is proposed to form an antifogging coating on the back curve side of the front lens (Japanese Patent Application National Publication No. 2002-505157)</p>
+<heading id="h-0003" level="1">DISCLOSURE OF THE INVENTION</heading>
+<p id="p-0021" num="0020">However, it is not technically easy in production process to form an antifogging coating only on the back curve side of the front lens of an injection molded polycarbonate resin.</p>
+<p id="p-0022" num="0021">For example, if it is carried out by a simple dipping method, the antifogging coating is formed simultaneously on the front curve side besides the back curve side. In such a case, since the antifogging coating generally has low hardness, if the front lens surface is wiped to remove stains, the antifogging coating is scratched and becomes just like frosted glass to give an inferior visibility.</p>
+<p id="p-0023" num="0022">Further, even if the antifogging coating is formed only on the back curve side of the front lens by employing difficult techniques, since the antifogging coating is generally inferior in the strength and adhesion strength to a substrate, the adhesion and sticking between the coating on the back curve side of the front lens and the gasket is soon broken away and therefore it is difficult to make a double lens having high durability.</p>
+<heading id="h-0004" level="1">BRIEF SUMMARY OF THE INVENTION</heading>
+<p id="p-0024" num="0023">The present invention is made in order to solve the above noted problems.</p>
+<p id="p-0025" num="0024">Thus, a protective device for eyes of the present invention includes a double lens member, a frame member and a face fixation member. The double lens member includes a front lens, a back lens and a gasket and the front lens and the back lens are made of polycarbonate resins, polyurethane resins, polyester resins or polyamide resins. The front lens and the back lens are disposed in parallel with the gasket therebetween in order to form a space surrounded with the front lens, the back lens and the gasket.</p>
+<p id="p-0026" num="0025">The front lens may have an aspheric shape, a spherical shape or a cylindrical shape, and be made thinner from a center toward a lens rim for a refraction collection.</p>
+<p id="p-0027" num="0026">The back lens may be made from a lens sheet or a molded sheet with a thickness of 0.3 to 3 mm, and have an aspheric shape, a spherical shape and a cylindrical shape approximately same as the front lens.</p>
+<p id="p-0028" num="0027">The front lens may also be made from a lens sheet or a molded sheet with a thickness of 0.3 to 3 mm and the double lens member may have a cylindrical shape.</p>
+<p id="p-0029" num="0028">The back curve side of the back lens may be treated with an antifogging agent.</p>
+<p id="p-0030" num="0029">A resin sheet with antifogging properties having an aspheric shape, a spherical shape or a cylindrical shape approximately same as the back lens may be layered on a back curve side of the back lens.</p>
+<p id="p-0031" num="0030">The gasket may be made of a resin with a thickness of about 0.5 to 7 mm and a width of about 2 to 10 mm. The back curve side of the front lens and the front curve side of the back lens may be fixed via the gasket with a binding agent or an adhesive agent.</p>
+<p id="p-0032" num="0031">At least one pressure adjusting hole nay be provided at the back lens for a pressure adjustment of the space surrounded with the front lens, the back lens and the gasket.</p>
+<p id="p-0033" num="0032">The pressure adjusting hole may be provided at the gasket or an air-permeable gasket may used for a pressure adjustment of the space surrounded with the front lens, the back lens and the gasket.</p>
+<p id="p-0034" num="0033">The pressure adjusting hole and the air-permeable gasket may be covered with a breathable member which is permeable to water vapor but impermeable to water.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. 1</figref> is a perspective view of a protective device for eyes (goggles for skiing) of a first embodiment of the present invention;</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. 2</figref> is a top view of the goggles;</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. 3</figref> is a cross-sectional view taken along the line A-A of <figref idref="DRAWINGS">FIG. 2</figref>;</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. 4</figref> is a cross-sectional view of the goggles cut vertically at a part where is pasted; and</p>
+<p id="p-0039" num="0038"><figref idref="DRAWINGS">FIG. 5</figref> is a view of the goggle lens used for the goggles viewed from the inner lens side.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DESCRIPTION OF THE PREFERRED EMBODIMENTS</heading>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIG. 1</figref> is a perspective view of a protective device for eyes (goggles for skiing) of a first embodiment of the present invention: <figref idref="DRAWINGS">FIG. 2</figref> is a top view of the goggles: <figref idref="DRAWINGS">FIG. 3</figref> is a cross-sectional view taken along the line A-A of <figref idref="DRAWINGS">FIG. 2</figref>: <figref idref="DRAWINGS">FIG. 4</figref> is a cross-sectional view of the goggle cut vertically at a part where is pasted: and <figref idref="DRAWINGS">FIG. 5</figref> is a view of the goggle lens used for the goggles viewed from the inner lens side.</p>
+<p id="p-0041" num="0040">As shown in <figref idref="DRAWINGS">FIG. 1</figref> and <figref idref="DRAWINGS">FIG. 2</figref>, the goggles G for skiing includes a frame member <b>1</b>, a belt member <b>2</b> joined to the frame member <b>1</b>, a goggle lens <b>3</b> (a double lens member) attached to the frame member <b>1</b> in a freely detachable manner, a pressure adjusting mechanism <b>4</b> attached to the goggle lens <b>3</b>, and a sheet <b>5</b>.</p>
+<p id="p-0042" num="0041">The double lens member <b>3</b>, as shown in <figref idref="DRAWINGS">FIG. 3</figref>, includes a front lens <b>30</b>, a back lens <b>31</b> and a gasket <b>32</b>. The front lens <b>30</b> and the back lens <b>31</b> made of a polycarbonate resin, a polyurethane resin, a polyester resin, or a polyamide resin are disposed approximately in parallel and fixed each other by a gasket <b>32</b>, thereby making a space <b>6</b> surrounded with the front lens <b>30</b>, the back lens <b>31</b> and the gasket <b>32</b>.</p>
+<p id="p-0043" num="0042">The front lens <b>30</b> of the present invention is preferably made of one of a polycarbonate resin, a polyurethane resin, a polyester resin, and a polyamide resin in terms of the hardness, strength, and strong toughness.</p>
+<p id="p-0044" num="0043">The polycarbonate resin includes aromatic ring-containing aromatic polycarbonate resins having bisphenol A, alicyclic polycarbonate resins, and polymer alloys of polycarbonate resins and polyester resins.</p>
+<p id="p-0045" num="0044">Especially, aromatic ring-containing aromatic polycarbonate resins having bisphenol A and polymer alloys of the polycarbonate resins and polyester resins are preferable in terms of the hardness, strength, and strong toughness.</p>
+<p id="p-0046" num="0045">Among polyurethane resins containing aromatic isocyanates or alicyclic isocyanates as a main component of isocyanate components, the polyurethane resins which is not readily crystallized and has high transparency is preferable.</p>
+<p id="p-0047" num="0046">Among polyester resins containing aromatic dicarboxylic acids such as terephthalic acid as a main component of dicarboxylic acid components, the polyester resins having high transparency are preferable.</p>
+<p id="p-0048" num="0047">Polyamide resins having amorphous property and high transparency and containing alicyclic or aliphatic dicarboxylic acids and alicyclic or aliphatic diamines in molecules are preferable.</p>
+<p id="p-0049" num="0048">Among the above-mentioned polycarbonate resins, polyurethane resins, polyester resins and polyamide resins, polycarbonate resins are preferably used since they are excellent in the hardness of the resins, stiffness, and the strong toughness.</p>
+<p id="p-0050" num="0049">Especially, aromatic ring-containing aromatic polycarbonate resins having bisphenol A or polymer alloys of the polycarbonate resins and polyester resins, which have a viscosity average molecular weight of 15,000 or higher, preferably 18,000 or higher, of the polycarbonate resins are preferably recommended since they are excellent in strength and toughness and have high function of protecting a wearer putting on the protective device for eyes from impacts.</p>
+<p id="p-0051" num="0050">The front lens <b>30</b> is generally produced by an injection molding method, an extrusion molding method, or a method of polymerization between plates.</p>
+<p id="p-0052" num="0051">In the case of a polycarbonate resin, a polyurethane resin, a polyester resin, or a polyamide resin is formed into the front lens <b>30</b> by an injection molding method or a method of polymerization between plates, it is preferable to use a die having a cylindrical shape, an aspheric shape, or a spherical shape along a face of a wearer, so that the front glass <b>30</b> have the cylindrical shape, the aspheric shape or the spherical shape.</p>
+<p id="p-0053" num="0052">Especially, the aspheric shape or the spherical shape is preferable in terms of the stylish design and the readiness of the refractive correction.</p>
+<p id="p-0054" num="0053">Herein, the aspheric shape means a non-spherical shape, varying slightly from a perfectly spherical shape, and the aspheric shape is adopted for attractive appearances, or in order to avoid an optical distortion as much as possible in any part of the lens when the protective device for eyes is put on.</p>
+<p id="p-0055" num="0054">Further, the spherical shape means a perfect spherical shape and therefore a front curve and a back curve form a part of an arc in any transverse cross-sectional view of the lens.</p>
+<p id="p-0056" num="0055">Herein, the front curve means the curve of the lens facing to an object and the back curve means the curve of the lens facing to the eyes.</p>
+<p id="p-0057" num="0056">A lens designed to have an even thickness is called as a plano lens. Especially in the case of a transversely long plano lens just like that of goggles, since the impingent angle is getting to be acute towards the lens rim in the right and left and the path length in the lens becomes longer, the refractive power is generated and the distortions of vision tend to become significant. This is disadvantageous for a wearer of the goggles since the distortions of vision become more significant when he/she sees an object through the right or left end part of the lens.</p>
+<p id="p-0058" num="0057">In the case of an injection molding, the refractive power of the lens having an even thickness can be corrected by making the thickness of the lens thinner towards the lens rim.</p>
+<p id="p-0059" num="0058">That is, an aspheric die designed to make the lens thickness thinner from the center of the lens towards the lens rim on the basis of the optical theory for refraction correction is used to obtain an aspheric shape lens whose visual distortion has been corrected.</p>
+<p id="p-0060" num="0059">Similarly, a die having an adjusted back curve degree in relation to the front curve degree is used to make the thickness of the lens thinner towards the lens rim to obtain a spherical shape lens whose visual distortion has been corrected.</p>
+<p id="p-0061" num="0060">Herein, the curve degree means (1.523-1)/R in the case where the refractive index of the glass is 1.523 and the curvature radius is R (m).</p>
+<p id="p-0062" num="0061">With respect to the front lens <b>30</b> with no correction of the refractive power manufactured by an injection molding method, the lens thickness is in a range from 0.3 to 3 mm and preferably from 0.4 to 2.6 mm.</p>
+<p id="p-0063" num="0062">If the thickness is thinner than 0.3 mm, the physical strength of the lens becomes weak and if it exceeds 3 mm, the refractive power around the lens rim tends to become significant and therefore these are not preferable.</p>
+<p id="p-0064" num="0063">With respect to the front lens <b>30</b> with the corrected refractive power manufactured by an injection molding method, the lens center thickness is in a range from 0.8 to 4 mm and preferably from 1 to 3.6 mm.</p>
+<p id="p-0065" num="0064">If the center thickness is thinner than 0.8 mm, the physical strength in the lens rim tends to become weak and if it exceeds 4 mm, the lens tends to be heavy and therefore these are not preferable.</p>
+<p id="p-0066" num="0065">Further, the front lens <b>30</b> can be formed in a cylindrical shape using a cylindrical die. In the case of a cylindrical lens with no correction of the refractive power, the lens thickness is in a range from 0.3 to 3 mm and preferably 0.4 to 2.6 mm.</p>
+<p id="p-0067" num="0066">If the thickness is thinner than 0.3 mm, the physical strength of the lens becomes weak and if it exceeds 3 mm, the refractive power of the lens rim tends to become significant and therefore these are not preferable.</p>
+<p id="p-0068" num="0067">In the case of a cylindrical lens with a corrected refractive power, the lens center thickness is in a range from 0.8 to 4 mm and preferably 1 to 3.6 mm.</p>
+<p id="p-0069" num="0068">If the center thickness is thinner than 0.8 mm, the physical strength in the lens rim tends to become weak and if it exceeds 4 mm, the lens tends to be heavy and therefore these are not preferable.</p>
+<p id="p-0070" num="0069">Further, a resin sheet manufactured by an extrusion molding method, a method of polymerization between plates or the like can be used for the front lens <b>30</b>. In this case, the above-mentioned polycarbonate resin, polyurethane resin, polyester resin, or polyamide resin may be extruded into a sheet-like shape through a slit or may be subjected to polymerization between plates or press-molded to produce a resin sheet with a thickness of 0.3 to 3 mm, preferably 0.4 to 2.6 mm and further formed into an aspheric, or spherical, or cylindrical shape.</p>
+<p id="p-0071" num="0070">If the sheet thickness is thinner than 0.3 mm, in the case where the sheet is used for goggles or shield lens, it likely to be bent or broken and if it exceeds 3 mm, the refractive power in the lens rim tends to become significant and therefore these are not preferable.</p>
+<p id="p-0072" num="0071">The method for forming into an aspheric, or spherical, or cylindrical shape is not particularly limited, however it is generally a method involving cutting the above-mentioned resin sheet into a proper size, setting the cut resin sheet in a die for forming, and thermally forming the resin sheet into a prescribed shape by hot air or a hot flatiron.</p>
+<p id="p-0073" num="0072">At the time of injection molding of the front lens <b>30</b>, a polarizing plate or a photochromatic resin plate previously formed in the aspheric shape, the spherical shape or the cylindrical shape may be set in a die to carry out insert molding of the polarizing plate or the photochromatic resin plate in the front curve side.</p>
+<p id="p-0074" num="0073">Further, the surface of the front lens <b>30</b> may be hard-coated, subject to an antireflection finish or water repellent finish to give the goggles an extra value.</p>
+<p id="p-0075" num="0074">Further, an extremely thin coating with a metallic or half-mirror-like property or specialized hues can be provided by a vacuum deposition technique or the like.</p>
+<p id="p-0076" num="0075">Further, for coloring, a dye or a pigment may be previously added to a substrate such as a polycarbonate resin, a polyurethane resin, a polyester resin, and a polyamide resin or they may be added after being formed into a lens or a resin sheet.</p>
+<p id="p-0077" num="0076">The same polycarbonate resin, polyurethane resin, polyester resin, or polyamide resin as that of the front lens <b>30</b> may be preferably used for the back lens <b>31</b> of the present invention in terms of the hardness, strength, and strong toughness of the resins.</p>
+<p id="p-0078" num="0077">The polycarbonate resin may include aromatic ring-containing aromatic polycarbonate resins having bisphenol A, alicyclic polycarbonate resins, and polymer alloys of polycarbonate resins and polyester resins.</p>
+<p id="p-0079" num="0078">Especially, aromatic ring-containing aromatic polycarbonate resins having bisphenol A, and polymer alloys of the polycarbonate resins and polyester resins are preferable in terms of the hardness, strength, and the strong toughness of the resins.</p>
+<p id="p-0080" num="0079">Among polyurethane resins containing aromatic isocyanates or alicyclic isocyanates as a main component of isocyanate components, the polyurethane resins which are not readily crystallized and has high transparency are preferably used.</p>
+<p id="p-0081" num="0080">Among polyester resins containing aromatic dicarboxylic acids such as terephthalic acid as a main component of dicarboxylic acid components, the polyester resins with high transparency are preferably used.</p>
+<p id="p-0082" num="0081">The polyamide resins having amorphous property and high transparency containing alicyclic or aliphatic dicarboxylic acids and alicyclic or aliphatic diamines in molecules are preferably used.</p>
+<p id="p-0083" num="0082">Among the above-mentioned polycarbonate resins, polyurethane resins, polyester resins and polyamide resins, polycarbonate resins are preferably used since they are excellent in the hardness of the resins, stiffness, and the strong toughness.</p>
+<p id="p-0084" num="0083">Especially, aromatic ring-containing aromatic polycarbonate resins having bisphenol A or polymer alloys of the polycarbonate resins and polyester resins, which have a viscosity average molecular weight of 15,000 or higher, preferably 18,000 or higher, of the polycarbonate resins are preferably recommended since they are excellent in strength and toughness and have high function of protecting a wearer putting on the protective device for eyes from impacts.</p>
+<p id="p-0085" num="0084">Similarly to the front lens <b>30</b>, the back lens <b>31</b> of the invention can be produced by an injection molding method using a die or a method of polymerization between plates. In this case, not only a lens with an even thickness but also a lens with corrected refractive power can be produced.</p>
+<p id="p-0086" num="0085">Further, the lens with an even thickness can be produced from a resin sheet produced by an extrusion molding method, a method of polymerization between plates, a press molding method and the like.</p>
+<p id="p-0087" num="0086">Especially, in terms of the production easiness and the cost, a back lens produced from a resin sheet produced by an extrusion molding method, a method of polymerization between plates, or a press molding method is recommended.</p>
+<p id="p-0088" num="0087">The back lens <b>31</b> is preferable to have a thickness of 0.3 to 3 mm, preferably 0.4 to 2.6 mm.</p>
+<p id="p-0089" num="0088">If the lens thickness is thinner than 0.3 mm, the water vapor emitted from the skin while wearing the protective device for eyes is likely to permeate through the back lens and be transmitted into the space <b>6</b> formed by the front lens <b>30</b>, the back lens <b>31</b> and the gasket <b>32</b> and due to the transmitted water vapor, the inside of the front lens <b>30</b>, more particularly, the back curve side of the front lens <b>30</b>, is likely to be fogged. This fogging frequently happens especially in cold environments such as skiing areas.</p>
+<p id="p-0090" num="0089">Further, if the lens thickness exceeds 3 mm, similarly to the front lens <b>30</b>, the distortions of vision in the lens rim due to the refractive power tends to be significant.</p>
+<p id="p-0091" num="0090">The back lens <b>31</b> of the present invention is preferable to have an aspheric shape, a spherical shape, or a cylindrical shape almost same to that of the front lens <b>30</b>. Both the front and back lens can be disposed approximately in parallel by making the shape of the back lens <b>31</b> similar to that of the front lens <b>30</b> and thus the double lens can be made to have good appearance.</p>
+<p id="p-0092" num="0091">A method for making the back lens <b>31</b> in order to have almost the same shape as that of the front lens <b>30</b>, that is a method for making the back lens <b>31</b> to have the aspheric shape, the spherical shape or the cylindrical shape, is not particularly limited, however, the method is generally a method of using a die with a similar shape to that of the die for the front lens <b>30</b> or a method involving cutting a resin sheet for a back lens into a proper size, setting the cut resin sheet in a die for forming, and thermally forming the resin sheet into a prescribed shape by hot air, a hot flatiron or the like.</p>
+<p id="p-0093" num="0092">Alternatively, there are also the following methods: a method involving forming a resin sheet for the front lens <b>30</b> and a resin sheet for the back lens <b>31</b> into a double lens member <b>3</b> which the resin sheets have not previously formed into a particular shape and setting the double lens member into a goggle frame <b>1</b> having a lens fitting hole curved in a cylindrical shape while bending the double lens member into the cylindrical shape or a method of bending both lenses into a cylindrical shape when they are bonded with the gasket <b>32</b>.</p>
+<p id="p-0094" num="0093">In the back curve side of the back lens <b>31</b>, since the water vapor emitted from the skin while the protective device for eyes is in use causes a dew condensation, it is desirable to form an antifogging coating (layering a resin sheet <b>11</b> having an antifogging function) in at least the back curve side of the back lens <b>31</b>.</p>
+<p id="p-0095" num="0094">Alternatively, a wearer of the goggles can apply a commercialized antifogging agent to the back curve side of the back lens <b>31</b>.</p>
+<p id="p-0096" num="0095">Further, the back lens <b>31</b> can be provided with a functional film such as a hard coating or an evaporation film similar to that for the front lens <b>30</b>.</p>
+<p id="p-0097" num="0096">The double lens member <b>3</b> of the present invention can be produced by bonding or adhering the front lens <b>30</b> and the back lens <b>31</b> produced in the above-mentioned manner via the gasket in the manner where both lenses are disposed approximately in parallel.</p>
+<p id="p-0098" num="0097">A substrate resin of the gasket <b>32</b> may be preferably polyurethane resins, synthetic rubbers, or elastomers and especially preferably resins or porous resins deformable by being pushed with fingers of a human and having elasticity sufficient to spontaneously restore the former shape and 40% or higher rupture elongation.</p>
+<p id="p-0099" num="0098">Particularly, a porous gasket is recommended because the porous gasket is easy to adjust its elasticity and elongation to proper extents and the porous gasket is lightweight.</p>
+<p id="p-0100" num="0099">When using the porous gasket, it is preferable to use a closed-cell-type porous gasket since in this type, the moisture from the sweat, snow, rain and the like are less likely to permeate into the double lens.</p>
+<p id="p-0101" num="0100">It is desirable that the gasket <b>32</b> is colored by a pigment or dye in terms of the good appearance of goggles, and especially a hue of an achromatic color type such as black and white tends to be preferable.</p>
+<p id="p-0102" num="0101">The gasket <b>32</b> may be a string-like gasket obtained by forming the above-mentioned substrate resin into a string-like shape with an equivalent diameter of 1 to 8 mm and preferably 3 to 6 mm.</p>
+<p id="p-0103" num="0102">If the equivalent diameter of the string-like gasket is shorter than 1 mm, the distance between the front lens <b>30</b> and the back lens <b>31</b> is not enough and thus both lenses are undesirably touched with each other and adhesive power tends to be lowered. If it exceeds 8 mm, it may possibly result in inferior appearance of the goggles.</p>
+<p id="p-0104" num="0103">In the case where the string-like gasket is used, there is a method for producing the double lens member <b>3</b> by putting the string-like gasket coated with a binding or adhesive agent between the peripheral parts of the back curve side of the front lens <b>30</b> and the front curve side of the back lens <b>31</b>; layering and arranging the front lens <b>30</b> and the back lens <b>31</b> approximately in parallel; and if necessary, sticking and fixing both lenses by applying heat or pressure.</p>
+<p id="p-0105" num="0104">Further, as the gasket <b>32</b>, a sheet-like gasket may be used. In this case, it is common to employ a method involving punching or cutting a sheet made of the above-mentioned substrate resin with a thickness of 0.5 to 7 mm, preferably 1 to 5 mm into an adhesive shape with a width of about 2 to 10 mm, preferably about 3 to 8 mm corresponding to the adhesion shape of the double lens <b>3</b> and sticking the front lens <b>30</b> and the back lens <b>31</b> with a binding or adhesive agent.</p>
+<p id="p-0106" num="0105">If the thickness of the gasket <b>32</b> is thinner than 0.5 mm, the distance between the front lens <b>30</b> and the back lens <b>31</b> is insufficient and thus both lenses tend to have contact with each other. If the thickness exceeds 7 mm, the appearance of the goggles tends to become inferior.</p>
+<p id="p-0107" num="0106">If the width of the gasket <b>32</b> is narrower than 2 mm, the adhesive strength of the binding or adhesive agent tends to become insufficient and if it exceeds 10 mm, the appearance of the goggles tends to become inferior.</p>
+<p id="p-0108" num="0107">Additionally, the width of the gasket <b>32</b> does not necessarily have to be always same but may be properly changed in consideration of the design property and the structural requirement. This is why it is said &#x201c;about&#x201d; 2 to 10 mm when describing the width of the gasket <b>32</b>.</p>
+<p id="p-0109" num="0108">The most preferable gasket <b>32</b> of the invention is a sheet-like gasket in terms of easiness for production and workability. A method involving producing a circular or almost circular gasket <b>32</b> by punching or cutting a gasket sheet, which is obtained by applying a binding agent or an adhesive agent to both faces of a sheet and covering the sheet with a paper liner, corresponding to the adhesion shape of the double lens, peeling the paper liner, putting the gasket <b>32</b> in the back curve side of the front lens <b>30</b> or in the front curve side of the back lens <b>31</b>, aligning the front lens <b>30</b> and the back lens <b>31</b> to make both lenses approximately in parallel, and sticking and fixing both lenses by applying heat or pressure, if necessary, to produce the double lens member <b>3</b> is most preferable in terms of the workability and reliability of the adhesion.</p>
+<p id="p-0110" num="0109">As the binding agent for the gasket <b>32</b>, there are acrylic type and synthetic rubber type ones and as the adhesive agent, there are vinyl acetate type, cyanoacrylate type, polyurethane type, and elastomer type ones. In terms of the workability and the reliability of the adhesion, the binding agent is more preferable.</p>
+<p id="p-0111" num="0110">In the above-mentioned manner, one double lens member <b>3</b> including the front lens <b>30</b>, the back lens <b>31</b>, and the gasket <b>32</b> and having a space <b>6</b> surrounded with the front lens <b>30</b>, the back lens <b>31</b>, and the gasket <b>32</b> can be produced.</p>
+<p id="p-0112" num="0111">If rain or sweat penetrates this space <b>6</b> during sports or works, it causes fogging in the inside of the double lens member <b>3</b> and therefore it is preferable to use an unbroken annular gasket as the gasket <b>32</b> so that the space <b>6</b> becomes an air-tightly closed space. An unbroken annular gasket is also preferable in terms of the good appearance of the goggles.</p>
+<p id="p-0113" num="0112">However, in the case of a sport such as skiing and snowboarding which is accompanied with elevation changes many times a day by taking ski lifts or gondola lifts, if the space <b>6</b> is air-tightly closed, the double lens member <b>3</b> becomes expanded or compressed due to the atmospheric pressure fluctuation. As a result, almost all the atmospheric pressure fluctuating load is converged on the adhesion surface of the gasket where the lenses is thick and causing a separation of the gasket from the adhesion surface.</p>
+<p id="p-0114" num="0113">To prevent such disadvantage, the double lens member <b>3</b> of the present invention may be provided with a pressure adjusting mechanism <b>4</b> in the space <b>6</b> surrounded with the front lens <b>30</b>, the back lens <b>31</b> and the gasket <b>32</b>.</p>
+<p id="p-0115" num="0114">The pressure adjusting mechanism <b>4</b> may be provided either in the lenses or in the gasket <b>32</b>.</p>
+<p id="p-0116" num="0115">In the case of being provided in the lenses, pin holes, pores, or slits as the pressure adjusting mechanism <b>4</b> are formed in lenses. Especially, it is recommended to provide them in the back lens <b>31</b> so as to obtain a better appearance in use.</p>
+<p id="p-0117" num="0116">In this case, at least one pressure adjusting hole is formed in the back lens <b>31</b>. Especially, in terms of the good appearance, it is desired to form one pressure adjusting hole.</p>
+<p id="p-0118" num="0117">The shape of the pressure adjusting hole is not particularly limited, however it is preferable to make it circular or elliptical in order to maintain the physical strength of the lenses and also in terms of the good appearance.</p>
+<p id="p-0119" num="0118">Further, the pressure adjusting hole is recommended to have an equivalent diameter of 0.5 to 3 mm, preferably 0.6 to 2.5 mm. If the equivalent diameter is smaller than 0.5 mm, in the case where one pressure adjusting hole is formed, the pressure adjusting function tends to be insufficient and if it exceeds 3 mm, the appearance of goggles tends to become inferior.</p>
+<p id="p-0120" num="0119">It is preferable that the pressure adjusting hole is subjected to any waterproofing treatment. As the waterproofing method, it is recommended to employ a method of sticking a sheet <b>5</b> over the hole, which the sheet <b>5</b> has a water vapor permeability but impermeable to water.</p>
+<p id="p-0121" num="0120">As such the sheet <b>5</b> to be used, there are fluoro type finely porous sheets such as GORETEX (trade mark), polyurethane type sheets, interconnected-cell-type porous sheets with or without being subjected to a water-repelling agent treatment, waterproof fabrics sprayed or coated with a water-repelling agent, and fiber products obtained by weaving or knitting fibers subjected to water-repelling treatment.</p>
+<p id="p-0122" num="0121">These sheet-like materials may be stuck over the pressure adjusting hole of the lens by a biding agent or an adhesive agent.</p>
+<p id="p-0123" num="0122">In the case where the pressure adjusting mechanism <b>4</b> is provided in the gasket <b>32</b>, at least one pressure adjusting hole is formed in the gasket <b>32</b>.</p>
+<p id="p-0124" num="0123">As the pressure adjusting hole, it is recommended to form a small cut in the gasket <b>32</b>. In the case of a porous gasket, an interconnected-cell-type porous gasket may be used.</p>
+<p id="p-0125" num="0124">In the case of forming a small cut in the gasket <b>32</b>, in order to prevent penetration of rain and sweat from the outside, it is preferable to stick the above-mentioned sheet <b>5</b> has a water vapor permeability but impermeable to water, and in the case of using the porous gasket, it is preferable to be sprayed or applied with a water-repelling agent for waterproof.</p>
+<p id="p-0126" num="0125">The frame member <b>1</b>, in the case of goggles, is a resin product including a goggle frame <b>1</b> having holes to fit the double lens <b>3</b> in and ventilation holes to the outside and a face attachment member.</p>
+<p id="p-0127" num="0126">A resin to be used for the goggle frame <b>1</b> is recommended to a resin having proper softness in terms of fitting workability of the double lens member <b>3</b> and face-fitting comfortableness.</p>
+<p id="p-0128" num="0127">The goggle frame <b>1</b> is generally an injection-molded structure body having a proper size for fitting the double lens member (<b>30</b> and <b>31</b>), a fitting rim <b>7</b> of the double lens <b>3</b> having a groove for fixation in the peripheral part, and ventilation holes <b>8</b> to the outside.</p>
+<p id="p-0129" num="0128">The double lens member <b>3</b> is fitted in the fitting rim <b>7</b> of the goggle frame <b>1</b> and fixed in the groove formed in the fitting rim <b>7</b>. In some cases, it is possible to use a binding agent or an adhesive agent.</p>
+<p id="p-0130" num="0129">The ventilation holes <b>8</b> formed in the goggle frame <b>1</b> has a function of ventilating air to the outside for preventing the moisture, which is emitted from the skin, from being blocked inside the goggles in use. That is, the holes have a function of preventing the back curve side of the back lens <b>31</b> from being fogged caused by the moisture permeated into the double lens member <b>3</b> through the back lens <b>31</b>.</p>
+<p id="p-0131" num="0130">The ventilation holes <b>8</b> of the goggle frame <b>1</b> are generally provided in the upper side, lateral side, or lower side of the goggle frame.</p>
+<p id="p-0132" num="0131">The size and the number of the holes are not particularly limited, however to improve the air permeability, it is preferable to be 1 cm<sup>2 </sup>or wider.</p>
+<p id="p-0133" num="0132">Further, if the ventilation hole <b>8</b> is an opened hole, it is highly probable that rain, snow, or sweat enters into through the hole, and therefore, the ventilation hole <b>8</b> is generally preferable to be treated for waterproof. As the waterproofing method, it is recommended to stick a sheet <b>9</b> over the hole, which the sheet <b>9</b> has a water vapor permeability but impermeable to water.</p>
+<p id="p-0134" num="0133">As such a sheet <b>9</b>, there are fluoro type finely porous sheets such as GORETEX (trade mark); polyurethane type sheets; interconnected-cell-type porous sheets, porous materials, or meshes with or without being subjected to a water-repelling agent treatment; waterproof fabrics sprayed or coated with a water-repelling agent; and fiber products obtained by weaving or knitting fibers subjected to water-repelling treatment.</p>
+<p id="p-0135" num="0134">These sheet-like materials, porous materials, or meshes may be stuck over the ventilation hole <b>8</b> of the goggle frame <b>1</b> with a binding agent or an adhesive agent.</p>
+<p id="p-0136" num="0135">Further, to improve the face-fitting property of the goggles, the goggle frame <b>1</b> is generally designed to be approximately cylindrical in accordance with the face structure.</p>
+<p id="p-0137" num="0136">In addition, the goggle frame member is generally provided with a face attachment body <b>10</b> in the portion where the goggle frame <b>1</b> and the face of a wearer are brought into contact with each other to improve the fitting property to the face and give no unpleasant feeling such as the pain or the itch to the face.</p>
+<p id="p-0138" num="0137">The face attachment body <b>10</b> is a kind of cushion materials made of a resin softer than the goggle frame <b>1</b>. Due to the good feeling, porous resins are preferable. Either interconnected-cell-type or closed-cell-type resins may be used, however air-permeable interconnected-cell-type resins are preferable.</p>
+<p id="p-0139" num="0138">The goggle frame <b>1</b> and the face attachment body <b>10</b> are generally made of mutually different resins and both may be stuck to each other with a binding agent or an adhesive agent or fixed with a Velcro fastening.</p>
+<p id="p-0140" num="0139">Further, the frame member <b>1</b> of the invention for a shield, which is a shield frame, is designed that the double lens member <b>3</b> can be fitted or fixed with and the shield frame is usually provided with the face attachment body.</p>
+<p id="p-0141" num="0140">To the frame member <b>1</b> of the present invention, a belt member <b>2</b> for fixing the goggles on the face is attached. The belt member <b>2</b> is generally an elastic belt made of rubber or spandex and the belt member <b>2</b> may be provided with a length adjusting mechanism if necessary.</p>
+<p id="p-0142" num="0141">In the case of the shield frame of the present invention, a belt or an attachment for fixing it on the face or a helmet is provided to the shield frame.</p>
+<p id="p-0143" num="0142">A protective device for eyes such as goggles, face shielded helmets or shields according to the present invention is excellent in a function of protecting eyes from impacts, rain, snow, dust, or the like and excellent in the antifogging property in the double lens even in the case of sweating or ambient temperature fluctuation, as well as with high durability. These goggles, face shielded helmets or shields are preferably usable for sports such as skiing, snowboarding, ice skating, cycling, motocross motorcycling as well as industrial work sites for construction and civil engineering work.</p>
+<heading id="h-0007" level="1">Example 1</heading>
+<heading id="h-0008" level="1">Preparation of Goggle</heading>
+<p id="p-0144" num="0143">(1) Preparation of front lens: A bisphenol A type polycarbonate resin sheet with a viscosity average molecular weight of about 22,000 and thickness of 1 mm was punched into a size of a front lens.</p>
+<p id="p-0145" num="0144">The front curve side of the front lens was mirrored by a vacuum deposition technique.</p>
+<p id="p-0146" num="0145">(2) Preparation of back lens: A bisphenol A type polycarbonate resin sheet with a viscosity average molecular weight of about 22,000 and thickness of 0.8 mm was punched into a size of a back lens.</p>
+<p id="p-0147" num="0146">(3) Preparation of gasket: A closed-cell type porous sheet made of 3 mm-thick chloroprene was coated with a binding agent in both surfaces and covered with further a paper liner and the resulting sheet was punched into the corresponding shape of the double lens so as to be a ring-shaped gasket with width of 5 mm.</p>
+<p id="p-0148" num="0147">(4) Preparation of double lens: The back lens was set in a cylindrical die almost same as the shape of a double lens fitting hole of a goggle frame. The paper liner in one side of the above-mentioned ring-shaped gasket was peeled off and the gasket was stuck to the back lens set in the die. Then, the paper liner in the other side was peeled off and the front lens was put theron facing to the back lens. The resulting unit was pushed to stick both lenses and obtain a double lens member having a cylindrical shape approximately same as the double lens fitting hole of the goggle frame and having an air-tightly closed space.</p>
+<p id="p-0149" num="0148">(5) Preparation of goggle frame: A goggle frame was prepared by injection molding of a polyurethane resin using a die designed in a cylindrical shape, having at least one hole for fitting the double lens member and four air permeation holes each having 1 cm<sup>2 </sup>in size at the upper side of the goggle frame, and formed in accordance with the face structure of a wearer for easy fitness to the face.</p>
+<p id="p-0150" num="0149">(6) Waterproofing of air permeable hole of goggle frame: A 2 mm-thick interconnected-cell-type polyurethane sheet was stuck over the respective air permeation holes with a binding agent for waterproof.</p>
+<p id="p-0151" num="0150">(7) Installation of face attachment member to goggle frame: A 15 mm-thick interconnected-cell-type polyurethane sheet was cut into a shape of the face-contacting part of the goggle frame with 15 mm width to produce a ring-like face attachment member and the cut sheet was stuck to the goggle frame with a binding agent to produce the goggle frame member.</p>
+<p id="p-0152" num="0151">(8) Installation of double lens member to goggle frame member: The double lens member was set in the hole for fitting the double lens member of the goggle frame and fitted in the groove of the circumference of the fitting hole to fix the double lens member.</p>
+<p id="p-0153" num="0152">(9) Preparation of belt member for fixation-on-face: A belt member for fixation-on-face including a belt made of an elastic yarn produced by winding a synthetic fiber around rubber string and a clamp was fixed to the goggle frame member to produce the goggles.</p>
+<p id="h-0009" num="0000">(Antifogging Test)</p>
+<p id="p-0154" num="0153">The back curve side of the back lens of the above-mentioned goggles was coated with a commercialized antifogging solution. After putting on the goggle on the face at room temperature, the wearer moved into an environmental testing room at a temperature of &#x2212;5&#xb0; C. Even after one hour, fog was not generated inside of the double lens member.</p>
+<p id="h-0010" num="0000">(Peeling Strength Test of the Double Lens Member)</p>
+<p id="p-0155" num="0154">The above-mentioned goggles were repeatedly subjected to a depressurization test from 1 atmosphere to 0.95 atmosphere in a temperature of &#x2212;5&#xb0; C. Even after 500 times of repetition, the lenses were never peeled off the gasket.</p>
+<heading id="h-0011" level="1">Example 2</heading>
+<heading id="h-0012" level="1">Preparation of Goggle</heading>
+<p id="p-0156" num="0155">(1) Preparation of front lens: A front lens with a front curve of 6 base lens curve, a back curve of 6.1 base lens curve, and a center thickness of 1.8 mm was produced by injection molding of a bisphenol A type polycarbonate resin sheet with a viscosity average molecular weight of about 22,000.</p>
+<p id="p-0157" num="0156">The front curve side of the front lens was mirrored by a vacuum deposition technique.</p>
+<p id="p-0158" num="0157">(2) Preparation of back lens and pressure adjusting hole: A 0.8 mm-thick resin sheet made of a bisphenol A type polycarbonate resin with a viscosity average molecular weight of about 20,000 was punched into a size approximately close to that of a front lens.</p>
+<p id="p-0159" num="0158">A circular hole with a diameter of 1 mm was punched to make a pressure adjusting hole at the position of the back lens corresponding to the space surrounded with the front lens, a back lens, and a gasket when assembled and as near as possible to the gasket.</p>
+<p id="p-0160" num="0159">Successively, the above-mentioned resin sheet was set in a die and thermally formed into a shape close to the back curve of the front lens to obtain a back lens.</p>
+<p id="p-0161" num="0160">(3) Preparation of gasket: A closed-cell-type sheet made of 3 mm-thick chloroprene coated with a bonding agent in both faces and covered with further paper liners was punched into a shape corresponding to the double lens and thereby producing a ring-like gasket with width of 5 mm.</p>
+<p id="p-0162" num="0161">(4) Preparation of double lens: The above-mentioned ring-like gasket was stuck to the back lens by peeling off the paper liner in one side of the gasket. Then, after peeling off the paper liner in the other side of the gasket, the front lens was set to the gasket so as to be in parallel to the back lens and both lenses were pushed to be stuck each other via the gasket.</p>
+<p id="p-0163" num="0162">(5) Waterproofing of pressure adjusting hole: The pressure adjusting hole with a diameter of 1 mm formed in the back lens was covered by a fluoro type porous film with a 3 mm diameter with a binding agent for waterproof.</p>
+<p id="p-0164" num="0163">(6) Preparation of goggle frame: A goggle frame was prepared by injection molding of a polyurethane resin using a die designed in a cylindrical shape, having at least one hole for fitting the double lens member and four air permeation holes each having 1 cm<sup>2 </sup>in size at the upper side of the goggle frame, and formed in accordance with the face structure of a wearer for easy fitness to the face.</p>
+<p id="p-0165" num="0164">(7) Waterproofing of air permeable hole of goggle frame: A 2 mm-thick interconnected-cell-type polyurethane sheet was stuck over the respective air permeation holes with a binding agent for waterproof.</p>
+<p id="p-0166" num="0165">(8) Installation of face attachment member to goggle frame: A 15 mm-thick interconnected-cell-type polyurethane sheet was cut into a shape of the face-contacting part of the goggle frame with 15 mm width to produce a ring-like face attachment member and the cut sheet was stuck to the goggle frame with a binding agent to produce the goggle frame member.</p>
+<p id="p-0167" num="0166">(9) Installation of double lens member to goggle frame member: The double lens member was set in the hole for fitting the double lens member of the goggle frame and fitted in the groove of the circumference of the fitting hole to fix the double lens member.</p>
+<p id="p-0168" num="0167">(10) Preparation of belt member for fixation-on-face: A belt member for fixation-on-face including a belt made of an elastic yarn produced by winding a synthetic fiber around rubber string and a clamp was fixed to the goggle frame member to produce the goggles.</p>
+<p id="h-0013" num="0000">(Antifogging Test)</p>
+<p id="p-0169" num="0168">The back curve side of the back lens of the above-mentioned goggles was coated with a commercialized antifogging solution. After putting on the goggle on the face at room temperature, the wearer moved into an environmental testing room at a temperature of &#x2212;5&#xb0; C. Even after one hour, fog was not generated inside of the double lens member.</p>
+<p id="h-0014" num="0000">(Peeling Strength Test of the Double Lens Member)</p>
+<p id="p-0170" num="0169">The above-mentioned goggles were repeatedly subjected to a depressurization test from 1 atmosphere to 0.95 atmosphere in a temperature of &#x2212;5&#xb0; C. Even after 500 times of repetition, the lenses were never peeled off the gasket.</p>
+<heading id="h-0015" level="1">Example 3</heading>
+<heading id="h-0016" level="1">Preparation of Goggle</heading>
+<p id="p-0171" num="0170">(1) Preparation of front lens: A front lens with a front curve of 6 base lens curve, a back curve of 6.1 base lens curve, and a center thickness of 1.8 mm was produced by injection molding of a transparent nylon resin (&#x201c;Diamid&#x201d; ZC 7500, manufactured by Daicel-Degussa, Ltd.).</p>
+<p id="p-0172" num="0171">The front curve side of the front lens was mirrored by a vacuum deposition technique.</p>
+<p id="p-0173" num="0172">(2) Preparation of back lens and pressure adjusting hole: A 1 mm-thick resin sheet made of the transparent nylon resin (&#x201c;Diamid&#x201d; ZC 7500, manufactured by Daicel-Degussa, Ltd.) was punched into a size approximately close to that of a back lens.</p>
+<p id="p-0174" num="0173">A circular hole with a diameter of 1 mm was punched to make a pressure adjusting hole at the position of the back lens corresponding to the space surrounded with the front lens, a back lens, and a gasket when assembled and as near as possible to the gasket.</p>
+<p id="p-0175" num="0174">Successively, the above-mentioned resin sheet was set in a die and thermally formed into a shape close to the back curve of the front lens to obtain a back lens.</p>
+<p id="p-0176" num="0175">(3) Preparation of gasket: A closed-cell-type sheet made of 3 mm-thick chloroprene coated with a bonding agent in both faces and covered with further paper liners was punched into a shape corresponding to the double lens and thereby producing a ring-like gasket with width of 5 mm.</p>
+<p id="p-0177" num="0176">(4) Preparation of double lens: The above-mentioned ring-like gasket was stuck to the back lens by peeling off the paper liner in one side of the gasket. Then, after peeling off the paper liner in the other side of the gasket, the front lens was set to the gasket so as to be in parallel to the back lens and both lenses were pushed to be stuck each other via the gasket.</p>
+<p id="p-0178" num="0177">(5) Waterproofing of pressure adjusting hole: The pressure adjusting hole with a diameter of 1 mm formed in the back lens was covered by a fluoro type porous film with a 3 mm diameter with a binding agent for waterproof.</p>
+<p id="p-0179" num="0178">(6) Preparation of goggle frame: A goggle frame was prepared by injection molding of a polyurethane resin using a die designed in a cylindrical shape, having at least one hole for fitting the double lens member, two air permeation holes each having 2 cm<sup>2 </sup>size at the upper side of the goggle frame and two air permeation holes each having 2 cm<sup>2 </sup>size at the lower side of the goggle frame, and formed in accordance with the face structure of a wearer for easy fitness to the face.</p>
+<p id="p-0180" num="0179">(7) Waterproofing of air permeable hole of goggle frame: A 2 mm-thick interconnected-cell-type polyurethane sheet was stuck over the respective air permeation holes with a binding agent for waterproof.</p>
+<p id="p-0181" num="0180">(8) Installation of face attachment member to goggle frame: A 15 mm-thick interconnected-cell-type polyurethane sheet was cut into a shape of the face-contacting part of the goggle frame with 15 mm width to produce a ring-like face attachment member and the cut sheet was stuck to the goggle frame with a binding agent to produce the goggle frame member.</p>
+<p id="p-0182" num="0181">(9) Installation of double lens member to goggle frame member: The double lens member was set in the hole for fitting the double lens member of the goggle frame and fitted in the groove of the circumference of the fitting hole to fix the double lens member.</p>
+<p id="p-0183" num="0182">(10) Preparation of belt member for fixation-on-face: A belt member for fixation-on-face including a belt made of an elastic yarn produced by winding a synthetic fiber around rubber string and a clamp was fixed to the goggle frame member to produce the goggles.</p>
+<p id="h-0017" num="0000">(Antifogging Test)</p>
+<p id="p-0184" num="0183">The back curve side of the back lens of the above-mentioned goggles was coated with a commercialized antifogging solution. After putting on the goggle on the face at room temperature, the wearer moved into an environmental testing room at a temperature of &#x2212;5&#xb0; C. Even after one hour, fog was not generated inside of the double lens member.</p>
+<p id="h-0018" num="0000">(Peeling Strength Test of the Double Lens Member)</p>
+<p id="p-0185" num="0184">The above-mentioned goggles were repeatedly subjected to a depressurization test from 1 atmosphere to 0.95 atmosphere in a temperature of &#x2212;5&#xb0; C. Even after 500 times of repetition, the lenses were never peeled off the gasket.</p>
+<heading id="h-0019" level="1">Comparative Example 1</heading>
+<p id="p-0186" num="0185">Goggles were prepared in the same manner as Example 1, except that a 0.8 mm-thick propyl cellulose sheet was used for the back lens in place of the 0.8 mm-thick polycarbonate resin sheet used in Example 1.</p>
+<p id="p-0187" num="0186">When the antifogging test at a temperature of &#x2212;5&#xb0; C. was carried out in the same manner as that in Example 1, fog was generated inside of the double lens member after 10 minutes.</p>
+<heading id="h-0020" level="1">Comparative Example 2</heading>
+<p id="p-0188" num="0187">Goggles were prepared in the same manner as Example 1, except that a 0.25 mm-thick polycarbonate resin sheet was used for the back lens in place of the 0.8 mm-thick polycarbonate resin sheet used in Example 1.</p>
+<p id="p-0189" num="0188">When the antifogging test at a temperature of &#x2212;5&#xb0; C. was carried out in the same manner as that in Example 1, fog was generated inside of the double lens member after 20 minutes.</p>
+<heading id="h-0021" level="1">Comparative Example 3</heading>
+<p id="p-0190" num="0189">Goggles were prepared in the same manner as Example 2, except that no pressure adjusting hole was formed at the back lens.</p>
+<p id="h-0022" num="0000">(Antifogging Test)</p>
+<p id="p-0191" num="0190">The back curve side of the back lens of the above-mentioned goggles was coated with a commercialized antifogging solution. After putting on the goggle on the face at room temperature, the wearer moved into an environmental testing room at a temperature of &#x2212;5&#xb0; C. Even after one hour, fog was not generated inside of the double lens member.</p>
+<p id="h-0023" num="0000">(Peeling Strength Test of Double Lens Member)</p>
+<p id="p-0192" num="0191">The above-mentioned goggles were repeatedly subjected to a depressurization test from 1 atmosphere to 0.95 atmosphere in a temperature of &#x2212;5&#xb0; C. At the 20 times of repetition, the lenses were peeled off the gasket.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A protective device for eyes comprising a double lens member, a frame member and a face fixation member, wherein
+<claim-text>the double lens member includes a front lens, a back lens and a gasket;</claim-text>
+<claim-text>the front lens and the back lens are made of any one of polycarbonate resins, polyurethane resins, polyester resins, and polyamide resins; and</claim-text>
+<claim-text>the front lens and the back lens are disposed in parallel with the gasket therebetween to form a space surrounded with the front lens, the back lens and the gasket; and wherein</claim-text>
+<claim-text>the gasket is made of a resin with a thickness of about 0.5 to 7 mm and a width of about 2 to 10 mm; and a back curve side of the front lens and a front curve side of the back lens are fixed via the gasket with a binding agent or adhesive agent.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The protective device for eyes according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the front lens has any one of an aspheric shape, a spherical shape and a cylindrical shape, and is made thinner from a center toward a lens rim for a refraction collection.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The protective device for eyes according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the back lens is made from any one of a lens sheet and a molded sheet with a thickness of 0.3 to 3 mm, and has any one of an aspheric shape, a spherical shape and a cylindrical shape approximately same as the front lens.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The protective device for eyes according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein
+<claim-text>the front lens is made from any one of a lens sheet and a molded sheet with a thickness of 0.3 to 3 mm;</claim-text>
+<claim-text>a back lens is made from a lens sheet with a thickness of 0.3 to 3 mm; and</claim-text>
+<claim-text>the double lens member has a cylindrical shape.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The protective device for eyes according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein a back curve side of the back lens is treated with an antifogging agent.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The protective device for eyes according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein a resin sheet with antifogging properties having any one of an aspheric shape, a spherical shape and a cylindrical shape approximately same as the back lens is layered on a back curve side of the back lens.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The protective device for eyes according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein at least one pressure adjusting hole is provided at the back lens for a pressure adjustment of the space surrounded with the front lens, the back lens and the gasket.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The protective device for eyes according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein at least one pressure adjusting hole is provided at the gasket for a pressure adjustment of the space surrounded with the front lens, the back lens and the gasket.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The protective device for eyes according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein an air-permeable gasket is used for a pressure adjustment of the space surrounded with the front lens, the back lens and the gasket.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The protective device for eyes according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the pressure adjusting hole is covered with a breathable member which is permeable to water vapor but impermeable to water.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The protective device for eyes according to <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the pressure adjusting hole is covered with a breathable member which is permeable to water vapor but impermeable to water.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. The protective device for eyes according to <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the air-permeable gasket is covered with a breathable member which is permeable to water vapor but impermeable to water. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>
