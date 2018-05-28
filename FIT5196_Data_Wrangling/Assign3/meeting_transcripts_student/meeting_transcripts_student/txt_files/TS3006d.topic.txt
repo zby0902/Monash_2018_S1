@@ -1,1296 +1,1264 @@
-Okay . Uh first of all I'll start with the costs , because that's going to influence our design . If you Don't know if you al already had a look or not ? 
-. 
-Oh no . 
-Oh , . 
-Did you do your questionnaire already ? 
-No n I I already did it . It's not much . It's just one question . 
-No . 
-Because we have a problem . 
-Uh 
-Oh . 
-If you look closely , you can see . 
-Yeah . 
-It wants 
-Um I already took the liberty to make some suggestions . 
-. 
-. 
-At the moment we have fifteen buttons , one L_C_D_ screen , one advanced chip-on-print . We use a uh sensor , that's for the speech . Uh we use kinetic energy . 
-And we wanted uh the buttons in a special colour . 
-Okay . What's the first thing we should drop ? The special colour of the buttons ? 
-No that's that's for the trendy uh feel and look . So 
-Okay . 
-Yeah but everything is . 
-Uh 
-Should we switch to a hand dynamo ? Uh that's the still the same idea as the kinetic energy because you have to use it and do things . 
-No . 
-Yeah , b but 
-Yeah but young people like that . So just do normal battery . 
-Batteries ? 
-Batteries . 
-I think the battery option . 
-Just a normal battery then , yeah . 
-Yeah . 
-. 
-It has to be twelve and a half . Or not ? 
-Yeah . 
-Oh . 
-Oh my goodness . 
-So 
-You're going to redesign something . Okay , so we're at twenty five . Um 
-Oh no . 
-Uh , yeah . 
-Do we keep the shape doubly curved or g do we go for single curved ? 
-Well I guess i we'll have to go for single curve then . I mean we have to drop on everything . 
-Mm-hmm . Uh 
-But we can keep it single curved with uh top view still curved , but from the side it's it's flat , and the screen screen is just Well you just have to hold it like this then . So 
-Yeah . 
-Yeah . Um Uh another option I saw was to drop the buttons one through nine , so you can't directly access a channel , but instead use only the up and down arrows . That would skip nine buttons and four and a half Euros . 
-How about Sorry . 
-That's what I was thinking . 
-Yeah . 
-Alright . Let's do it then . Yeah . we 
-Yeah ? 
-A a 
-Uh then we have left 
-But we don't have any basic options any more . 
-Uh yeah . We do . 
-And uh 'cause then they don't have to n They don't need special colour as well . 
-F_ eight . 
-They don't need special colours . Fine . That's more like it . You were saying something . 
-Yeah . 
-That was exactly my point . Like let's drop all the buttons , and just make one I mean we're gonna use the L_C_D_ screen anyway . So we'll just have to use it for everything . And then you can make an overview of channels in the screen , and select a channel , click 
-Yeah . 
-Mm-hmm . 
-Yeah . 
-Yeah , some more menu options . Yeah . Okay so maybe we can drop few more buttons . But um Now let's look . 
-Yeah we c could We only need the the the the the menu arrow arrow button uh thing . Everything you can do with with the menu . So With the display . 
-Mm-hmm . 
-Yeah we need one integrated button for everything then . 
-Yeah . 
-The joystick . 
-Uh 
-Yeah . Kind of . I was Because 
-Yeah . 
-Yeah , scroll-wheel , push-button uh 
-Integrated scroll-wheel push-button , yeah . 
-If you if you go to If you go to our uh view , like you if you are in the sound system there , uh and you wanna adjust the treble for instance , this is just uh an example , y y you wanna see a bar on which you can adjust it from zero to ten for example . 
-Yeah . 
-Yeah . 
-Mm-hmm . 
-Mm-hmm . 
-Mm-hmm . 
-But you want a sound preview of how it's gonna sound , right ? So you wanna click on it , activate it , whe and when you move it , hear the difference of the treble coming out or going into the sound . So you'll you'll need a a kind of a joystick uh button . 
-Yeah . 
-Yeah . 
-Yeah or or the integrated scroll-wheel push-button . So that's kind of on your mouse and then you can click it , adjust it , click again and then you're out of it . But you still But you then still need to have 
-Yeah . 
-Exactly . 
-Well you can use the scroll-wheel as well for um maybe for the channels . But you still um 
-Yeah it's r Yeah . 
-You still have to have some some button in the menu to go back . 
-So you do one inte You can do one integrated scroll-wheel push-button . And then just drop all the other buttons . 
-Yeah . 
-Uh yeah . 
-Well not all . Not s not sound I guess . 
-But but th the cost of one integrated button is far more than a few extra push-buttons . 
-No . 
-Yeah . It's uh One integrated button is five times the cost of a normal button . 
-Yeah . So we have to to make it s uh more uh It has to be 
-Mm . 
-So 
-You could also drop j three more of these , without losing much functionality . You just drop the Okay and the Back . 
-Yeah . Wh wh what what what is the what is the uh sample sensor sample speaker ? 
-Oh , that's for the speech . 
-Speech recognition . 
-Yeah . 
-Could drop the speech recognition . 
-Right . 
-S s Drop speech recognition ? 
-No but 
-Yeah that's possible . 
-We we d 
-Yeah it's it's expensive , but uh we never considered the possibilities of uh speech recognition . 'Cause it can take the function of a lot of uh uh buttons . 
-Buttons . That's not very easy to use . 
-Buttons . 
-Yeah . 
-No , it can be disturbed by by noise and 
-No . 
-Yeah but lets just say that the speech recognition works . 
-stuff like that . Let let let me see what's more what's more popular . I guess the the screen was more popular than um than the speech recognition . I have to look on that . Let me see . 
-Yeah . 
-Uh well no I was wrong . There are more people who like speech recognition than an L_C_D_ screen . 
-Yep . 
-Okay . Because if you d lose the L_C_D_ screen , we need a lot of Yeah . We need a lot of extra buttons . 
-But if it 
-But it it it's a it's a both a hypers 
-We lose our whole concept . Uh so No we just We keep the L_C_D_ . 
-No , but Well we Yeah we keep the screen . I mean it's it's about the same . Eight one to ninety one percent , uh sixty six to seventy six . 
-We uh we we haven't really integrated this the speech into the system , so we can might as well s drop that . 
-Okay so we drop the speech . 
-And drop it yeah ? Okay . S Fo Four less Euros . So we still have three and a half Euro to lose . 
-Yeah . Let's drop the speech . 
-Yeah . 
-Sixteen Euros . 
-We need to lose some buttons . 
-But y y 
-Yeah if you lose the the Back , the Okay button Uh v let's say we only have the four arrows , and the Menu button . 
-Yeah . 
-Yeah . And then and then use um 
-Then you're 
-Oh and the power button we have also . 
-The the Okay . And the menu button does also does the okay function then . And then when you in the menu 
-Yeah . 
-So that's one Euro . 
-S so so you activate the menu . 
-If we do uh two integrated scroll-wheel push-buttons , we can drop all the the push-buttons . 
-Yeah . 
-Yeah ? And 
-With with one uh integrated button we can uh do the whole menu thing . With the other , we can do the the channel , the volume , et cetera . 
-Yeah yeah . 
-Yeah . . 
-That would save zero point two Euros compared to No . 
-No it's three Euros . No ? Um 
-Yeah . To This together is more expensive than Oof , it's almost the same as t keeping this . And we can drop these two . 
-No it's it's n Yeah . 
-Yeah yeah yeah . 
-Well okay . For example if you have f f four buttons , channel up and down , uh volume left right Okay , I've I think we have to keep that . And then and the power button . So that's five . 
-It's the 
-Volume . 
-And the power button . 
-That's the basic . 
-That's basic . That that's what you need anyway . And then for the menu , um you can have a button that activates menu . 
-Or d or do we just integrate an an an scroll-wheel with a push-button . And then if the moment you use the scroll-wheel , the the the menu gets activated , and then you can scroll , choose an option , click on it , it goes into an feature . Click on it again , selects features , scroll , adjust it . Click again , it's okay . Then you only need one button to move back . 
-Or or under each option , you set a you set an a screen thing what says back , and you select that one , click again , and you go one step back . And in that menu , scroll , click , one step back . So that then you need five buttons , and one integrated scroll-wheel push-button . 
-Yep . 
-Which That's even 
-But we can't drop three buttons . But I see that's Yeah . So that's not a good idea . 
-Okay th that's Yeah that's one Euro more expensive . 
-That's not an option . 
-Because which buttons do we have now ? Those five which I mentioned , and then menu , and then 
-Menu , power . 
-Yeah . F of the four things ? Yeah , th power . 
-Four arrows ? 
-Power . Uh 
-Which more ? 
-Yeah , if you if you go to eight I don't know how to 
-Yeah . Okay . So four arrows ? Uh power I believe ? Uh 
-Yeah . Power . Th Yeah that's five . 
-We have a Back and a Okay button . 
-Yeah , okay that's seven , and one to activate the menu , yeah . So okay that's eight . Well we can't reduce that . We we keep the display . 
-And the Menu . 
-Oh , well okay . 
-Yeah , and even if we drop three buttons from here , we still have to make some adjustments around here . So 
-Yeah . 
-Yeah , we need the chip for the for the L_C_ display . 
-The L_C_D_ ? Yeah . 
-Let's make the Let's make the case plastic . 
-Yeah well we need the advanced 
-Instead of r 
-Then I rather make it wood . Because then also it's good in the market with the forty five plus uh people . 
-Yeah . 
-Yeah . 
-Yeah but but that's not our market . 
-True . 
-But 
-No that maybe not . But maybe it's better than plastic anyway . 
-Ah no , hard plastic . 
-Oh . 
-Plastic with a with a special colour . A woo wood uh wood uh wood colour . That's an option . 
-Yeah , plastic with special colour . 
-Yeah ? Yeah okay uh 
-No but I I Because we have to use the special colour anyway . You forgot that . So let's go for the plastic . 
-Yeah . 
-Yep . Yeah , yeah . 
-So we do one one s Yeah . 
-Yeah , okay . Plastic . 
-And since it's not kinetic , it doesn't have to flip around that much ? 
-Uh that's easy because plastic is free . 
-Hmm . 
-Hmm . 
-We still have problem of two Euros . 
-Yeah , okay . Uh if we dropped uh 
-No the buttons , those are really needed . 
-Yeah ? 
-Yeah we can't drop them . 
-Yeah th th it's it's uh 
-An advanced chip-on-print . 
-Yeah uh 
-Do we really need that advanced chip for an L_C_D_ display ? 
-You still need that . 
-You uh uh 
-Yeah . So the other option would be to go for the the sample speaker , and Which can use a regular chip , wh which is six Euros in total . That doesn't matter . 
-S 
-Oh . I rather keep I rather keep the display . So the only option is an hand dynamo . 
-No , I keep the re Yeah . Yeah . Because we already designed for it . So 
-Well yeah . 
-Exactly . 
-Oh that 
-Yeah and something else . 
-Yeah but the uh can't we f uh fit all the buttons in an intreg integrated scroll push-button ? 'Cause that will save us one and a half Euro already . 
-Oh no tha Oh that's one Euro , right . 
-And then if w 
-And then integrated s Yeah but that would make it not so easy to use . I mean it's not that important , easy to use , but 
-No y you would rec 
-Then you have 
-Th then we have to scroll through a lot of menus to be able to get where you want , huh ? And uh 
-Then you still need two additional buttons I believe . For the volume . You can use those Yeah . 
-Yeah . 
-Yeah d at l Yeah . At least one for power . 
-But the 
-Oh yeah and power . That's three buttons and this would cost 
-Oh . 
-Yeah it's just as expensive as what we have now . 
-But the integrated uh button ? How many func functions can it uh have ? 
-Yeah . 
-Three . Up , down , Okay . 
-Yeah endlessly . I mean it can be a power button as soon as it powered on . You can go into you in you main menu , you can choose uh flip channel , uh you can choose sound options , any options . 
-Okay . 
-You you press it for like three seconds . 
-Then then then you should do everything in the menu . On the screen . 
-Yeah . 
-Maybe we should . 'Cause we don't have money and w we want the screen . 
-Yeah , okay . It would save enough Yeah you can choose this , drop these , then we have a half Euro left . So we can maybe still use power button . 
-Yeah . 
-Yeah , but we'd Alright . 
-Yeah . 
-I guess we have to . 
-It s it saves us four Euros and it costs us two and a half . 
-So let's see , we we drop the price by one and a half . But we still have thirteen left . 
-We'll we'll be on 
-Yeah . You see ? Oh still Yeah ? Oh then I miscalculated . Oh yeah . 
-Thirteen . So still half . There goes the special co Well That would make it less appealing . So that's no option . 
-Shit . Drop the special colour . 
-Oh no . 
-'Kay . What else ? Uncurved ? 
-No no , it has to be um curved . 
-We sure about the advanced chip we need for the display ? 
-Yeah . 
-Yeah it says right here . 
-They made it very easy for us . 
-Okay . 
-Well yeah . yeah . We made it hard for ourselves with the display , but it's a cool feature . 
-Ah , I don't think I can s uh persuade the management to say , this is better for the market so you sell more than 
-Okay . Wh what we could do is um 
-drop the the special colour , and uh do the special colour for the buttons . 
-Yeah . 
-Buttons . That's Oh yeah since we only have one button . 
-Yeah . 
-Yeah but I mean what is meant by special colour ? 
-I just m I don't I think Uh yeah it's I think it's grey , regular . 
-Just something else than than black or white I think . 
-S yeah . Alright . 
-Grey and rubber . 
-But we definitely want the thing to be a special colour though . Damn . 
-Of plastic . 
-Yeah . 
-Yeah . So I rather have an hand dynamo than than drop the colour . You can still play with it then I guess . I don't know . Yeah , but a hand dynamo costs a lot of energy to keep the screen working . So I guess that isn't an option . 
-Yeah and then 
-Yeah yeah yeah yeah . 
-Yeah . 
-Yeah . 
-The display 
-Well , you only have to power it up when you wanna use it . 
-Yeah . 
-The 
-Yeah . 
-But if you have to power the for ten minutes , then the 
-I don't know . 
-Yeah . 
-No I don't think the current status of uh chips are pretty uh energy conserving , no . 
-. 
-Yeah . 
-Yeah true . Let's let's go for the hand dynamo then . 
-Yeah . 
-Yeah hand dynamo ? Do you want an extra button ? 
-Or or do we Or do we do uncurved and flat ? Instead of 
-No no it has to be curved . Yeah . 
-Yeah it has to be curved and has to have that colour . And a screen . 
-Yeah . 
-Just put a special special colour of the buttons , or something . 
-Yeah . Yeah . That's the most import 
-Yep ? Instead of an additional power button ? 
-Yeah or spe special form ? 
-Yeah . 
-S what what is special f Oh yeah , special form . Maybe that's nicer . 
-Yeah ? It's for scroll 
-Yeah . 
-But we don't have any buttons . So do d Uh make it a special colour then . 
-Without 
-We only have 
-Yeah . But it's it's for the integrated button , I think also . Or 
-Yeah ma make it a special colour then . 
-Yeah but 
-Yeah but it's just a scroll-wheel which you can push down . So 
-Yeah . Okay . Yeah . 
-Okay . Make it a special colour and then it look fancy . So 
-Yeah ? 
-Yep . 
-So Woah we're within budget . It's a miracle . 
-Yeah . Let's let's save it . 
-Oh just oh ma make it two special colours , but we only have one button . Okay . 
-Yeah . 
-Let's do it like this , I mean , because it does not lose our identity of the product as we 
-Yeah ? 
-Okay . Um , well 
-. 'Kay , this was old . 
+ Okay . Uh first of all I'll start with the costs , because that's going to influence our design . If you Don't know if you al already had a look or not ?
+ .
+ Oh no .
+ Oh , .
+ Did you do your questionnaire already ?
+ No n I I already did it . It's not much . It's just one question .
+ No .
+ Because we have a problem .
+ Uh
+ Oh .
+ If you look closely , you can see .
+ Yeah .
+ It wants
+ Um I already took the liberty to make some suggestions .
+ .
+ .
+ At the moment we have fifteen buttons , one L_C_D_ screen , one advanced chip-on-print . We use a uh sensor , that's for the speech . Uh we use kinetic energy .
+ And we wanted uh the buttons in a special colour .
+ Okay . What's the first thing we should drop ? The special colour of the buttons ?
+ No that's that's for the trendy uh feel and look . So
+ Okay .
+ Yeah but everything is .
+ Uh
+ Should we switch to a hand dynamo ? Uh that's the still the same idea as the kinetic energy because you have to use it and do things .
+ No .
+ Yeah , b but
+ Yeah but young people like that . So just do normal battery .
+ Batteries ?
+ Batteries .
+ I think the battery option .
+ Just a normal battery then , yeah .
+ Yeah .
+ .
+ It has to be twelve and a half . Or not ?
+ Yeah .
+ Oh .
+ Oh my goodness .
+ So
+ You're going to redesign something . Okay , so we're at twenty five . Um
+ Oh no .
+ Uh , yeah .
+ Do we keep the shape doubly curved or g do we go for single curved ?
+ Well I guess i we'll have to go for single curve then . I mean we have to drop on everything .
+ Mm-hmm . Uh
+ But we can keep it single curved with uh top view still curved , but from the side it's it's flat , and the screen screen is just Well you just have to hold it like this then . So
+ Yeah .
+ Yeah . Um Uh another option I saw was to drop the buttons one through nine , so you can't directly access a channel , but instead use only the up and down arrows . That would skip nine buttons and four and a half Euros .
+ How about Sorry .
+ That's what I was thinking .
+ Yeah .
+ Alright . Let's do it then . Yeah . we
+ Yeah ?
+ A a
+ Uh then we have left
+ But we don't have any basic options any more .
+ Uh yeah . We do .
+ And uh 'cause then they don't have to n They don't need special colour as well .
+ F_ eight .
+ They don't need special colours . Fine . That's more like it . You were saying something .
+ Yeah .
+ That was exactly my point . Like let's drop all the buttons , and just make one I mean we're gonna use the L_C_D_ screen anyway . So we'll just have to use it for everything . And then you can make an overview of channels in the screen , and select a channel , click
+ Yeah .
+ Mm-hmm .
+ Yeah .
+ Yeah , some more menu options . Yeah . Okay so maybe we can drop few more buttons . But um Now let's look .
+ Yeah we c could We only need the the the the the menu arrow arrow button uh thing . Everything you can do with with the menu . So With the display .
+ Mm-hmm .
+ Yeah we need one integrated button for everything then .
+ Yeah .
+ The joystick .
+ Uh
+ Yeah . Kind of . I was Because
+ Yeah .
+ Yeah , scroll-wheel , push-button uh
+ Integrated scroll-wheel push-button , yeah .
+ If you if you go to If you go to our uh view , like you if you are in the sound system there , uh and you wanna adjust the treble for instance , this is just uh an example , y y you wanna see a bar on which you can adjust it from zero to ten for example .
+ Yeah .
+ Yeah .
+ Mm-hmm .
+ Mm-hmm .
+ Mm-hmm .
+ But you want a sound preview of how it's gonna sound , right ? So you wanna click on it , activate it , whe and when you move it , hear the difference of the treble coming out or going into the sound . So you'll you'll need a a kind of a joystick uh button .
+ Yeah .
+ Yeah .
+ Yeah or or the integrated scroll-wheel push-button . So that's kind of on your mouse and then you can click it , adjust it , click again and then you're out of it . But you still But you then still need to have
+ Yeah .
+ Exactly .
+ Well you can use the scroll-wheel as well for um maybe for the channels . But you still um
+ Yeah it's r Yeah .
+ You still have to have some some button in the menu to go back .
+ So you do one inte You can do one integrated scroll-wheel push-button . And then just drop all the other buttons .
+ Yeah .
+ Uh yeah .
+ Well not all . Not s not sound I guess .
+ But but th the cost of one integrated button is far more than a few extra push-buttons .
+ No .
+ Yeah . It's uh One integrated button is five times the cost of a normal button .
+ Yeah . So we have to to make it s uh more uh It has to be
+ Mm .
+ So
+ You could also drop j three more of these , without losing much functionality . You just drop the Okay and the Back .
+ Yeah . Wh wh what what what is the what is the uh sample sensor sample speaker ?
+ Oh , that's for the speech .
+ Speech recognition .
+ Yeah .
+ Could drop the speech recognition .
+ Right .
+ S s Drop speech recognition ?
+ No but
+ Yeah that's possible .
+ We we d
+ Yeah it's it's expensive , but uh we never considered the possibilities of uh speech recognition . 'Cause it can take the function of a lot of uh uh buttons .
+ Buttons . That's not very easy to use .
+ Buttons .
+ Yeah .
+ I
+ No , it can be disturbed by by noise and
+ No .
+ Yeah but lets just say that the speech recognition works .
+ stuff like that . Let let let me see what's more what's more popular . I guess the the screen was more popular than um than the speech recognition . I have to look on that . Let me see .
+ Yeah .
+ Uh well no I was wrong . There are more people who like speech recognition than an L_C_D_ screen .
+ Yep .
+ Okay . Because if you d lose the L_C_D_ screen , we need a lot of Yeah . We need a lot of extra buttons .
+ But if it
+ But it it it's a it's a both a hypers
+ We lose our whole concept . Uh so No we just We keep the L_C_D_ .
+ No , but Well we Yeah we keep the screen . I mean it's it's about the same . Eight one to ninety one percent , uh sixty six to seventy six .
+ We uh we we haven't really integrated this the speech into the system , so we can might as well s drop that .
+ Okay so we drop the speech .
+ And drop it yeah ? Okay . S Fo Four less Euros . So we still have three and a half Euro to lose .
+ Yeah . Let's drop the speech .
+ Yeah .
+ Sixteen Euros .
+ We need to lose some buttons .
+ But y y
+ Yeah if you lose the the Back , the Okay button Uh v let's say we only have the four arrows , and the Menu button .
+ Yeah .
+ Yeah . And then and then use um
+ Then you're
+ Oh and the power button we have also .
+ The the Okay . And the menu button does also does the okay function then . And then when you in the menu
+ Yeah .
+ So that's one Euro .
+ S so so you activate the menu .
+ If we do uh two integrated scroll-wheel push-buttons , we can drop all the the push-buttons .
+ Yeah .
+ Yeah ? And
+ With with one uh integrated button we can uh do the whole menu thing . With the other , we can do the the channel , the volume , et cetera .
+ Yeah yeah .
+ Yeah . .
+ That would save zero point two Euros compared to No .
+ No it's three Euros . No ? Um
+ Yeah . To This together is more expensive than Oof , it's almost the same as t keeping this . And we can drop these two .
+ No it's it's n Yeah .
+ Yeah yeah yeah .
+ Well okay . For example if you have f f four buttons , channel up and down , uh volume left right Okay , I've I think we have to keep that . And then and the power button . So that's five .
+ It's the
+ Volume .
+ And the power button .
+ That's the basic .
+ That's basic . That that's what you need anyway . And then for the menu , um you can have a button that activates menu .
+ Or d or do we just integrate an an an scroll-wheel with a push-button . And then if the moment you use the scroll-wheel , the the the menu gets activated , and then you can scroll , choose an option , click on it , it goes into an feature . Click on it again , selects features , scroll , adjust it . Click again , it's okay . Then you only need one button to move back .
+ Or or under each option , you set a you set an a screen thing what says back , and you select that one , click again , and you go one step back . And in that menu , scroll , click , one step back . So that then you need five buttons , and one integrated scroll-wheel push-button .
+ Yep .
+ Which That's even
+ But we can't drop three buttons . But I see that's Yeah . So that's not a good idea .
+ Okay th that's Yeah that's one Euro more expensive .
+ That's not an option .
+ Because which buttons do we have now ? Those five which I mentioned , and then menu , and then
+ Menu , power .
+ Yeah . F of the four things ? Yeah , th power .
+ Four arrows ?
+ Power . Uh
+ Which more ?
+ Yeah , if you if you go to eight I don't know how to
+ Yeah . Okay . So four arrows ? Uh power I believe ? Uh
+ Yeah . Power . Th Yeah that's five .
+ We have a Back and a Okay button .
+ Yeah , okay that's seven , and one to activate the menu , yeah . So okay that's eight . Well we can't reduce that . We we keep the display .
+ And the Menu .
+ Oh , well okay .
+ Yeah , and even if we drop three buttons from here , we still have to make some adjustments around here . So
+ Yeah .
+ Yeah , we need the chip for the for the L_C_ display .
+ The L_C_D_ ? Yeah .
+ Let's make the Let's make the case plastic .
+ Yeah well we need the advanced
+ Instead of r
+ Then I rather make it wood . Because then also it's good in the market with the forty five plus uh people .
+ Yeah .
+ Yeah .
+ Yeah but but that's not our market .
+ True .
+ But
+ No that maybe not . But maybe it's better than plastic anyway .
+ Ah no , hard plastic .
+ Oh .
+ Plastic with a with a special colour . A woo wood uh wood uh wood colour . That's an option .
+ Yeah , plastic with special colour .
+ Yeah ? Yeah okay uh
+ No but I I Because we have to use the special colour anyway . You forgot that . So let's go for the plastic .
+ Yeah .
+ Yep . Yeah , yeah .
+ So we do one one s Yeah .
+ Yeah , okay . Plastic .
+ And since it's not kinetic , it doesn't have to flip around that much ?
+ Uh that's easy because plastic is free .
+ Hmm .
+ Hmm .
+ We still have problem of two Euros .
+ Yeah , okay . Uh if we dropped uh
+ No the buttons , those are really needed .
+ Yeah ?
+ Yeah we can't drop them .
+ Yeah th th it's it's uh
+ An advanced chip-on-print .
+ Yeah uh
+ Do we really need that advanced chip for an L_C_D_ display ?
+ You still need that .
+ You uh uh
+ Yeah . So the other option would be to go for the the sample speaker , and Which can use a regular chip , wh which is six Euros in total . That doesn't matter .
+ S
+ Oh . I rather keep I rather keep the display . So the only option is an hand dynamo .
+ No , I keep the re Yeah . Yeah . Because we already designed for it . So
+ Well yeah .
+ Exactly .
+ Oh that
+ Yeah and something else .
+ Yeah but the uh can't we f uh fit all the buttons in an intreg integrated scroll push-button ? 'Cause that will save us one and a half Euro already .
+ Oh no tha Oh that's one Euro , right .
+ And then if w
+ And then integrated s Yeah but that would make it not so easy to use . I mean it's not that important , easy to use , but
+ No y you would rec
+ Then you have
+ Th then we have to scroll through a lot of menus to be able to get where you want , huh ? And uh
+ Then you still need two additional buttons I believe . For the volume . You can use those Yeah .
+ Yeah .
+ Yeah d at l Yeah . At least one for power .
+ But the
+ Oh yeah and power . That's three buttons and this would cost
+ Oh .
+ Yeah it's just as expensive as what we have now .
+ But the integrated uh button ? How many func functions can it uh have ?
+ Yeah .
+ Three . Up , down , Okay .
+ Yeah endlessly . I mean it can be a power button as soon as it powered on . You can go into you in you main menu , you can choose uh flip channel , uh you can choose sound options , any options .
+ Okay .
+ You you press it for like three seconds .
+ Then then then you should do everything in the menu . On the screen .
+ Yeah .
+ Maybe we should . 'Cause we don't have money and w we want the screen .
+ Yeah , okay . It would save enough Yeah you can choose this , drop these , then we have a half Euro left . So we can maybe still use power button .
+ Yeah .
+ Yeah , but we'd Alright .
+ Yeah .
+ I guess we have to .
+ It s it saves us four Euros and it costs us two and a half .
+ So let's see , we we drop the price by one and a half . But we still have thirteen left .
+ We'll we'll be on
+ Yeah . You see ? Oh still Yeah ? Oh then I miscalculated . Oh yeah .
+ Thirteen . So still half . There goes the special co Well That would make it less appealing . So that's no option .
+ Shit . Drop the special colour .
+ Oh no .
+ 'Kay . What else ? Uncurved ?
+ No no , it has to be um curved .
+ We sure about the advanced chip we need for the display ?
+ Yeah .
+ Yeah it says right here .
+ They made it very easy for us .
+ Okay .
+ Well yeah . yeah . We made it hard for ourselves with the display , but it's a cool feature .
+ Ah , I don't think I can s uh persuade the management to say , this is better for the market so you sell more than
+ Okay . Wh what we could do is um
+ drop the the special colour , and uh do the special colour for the buttons .
+ Yeah .
+ Buttons . That's Oh yeah since we only have one button .
+ Yeah .
+ Yeah but I mean what is meant by special colour ?
+ I just m I don't I think Uh yeah it's I think it's grey , regular .
+ Just something else than than black or white I think .
+ S yeah . Alright .
+ Grey and rubber .
+ But we definitely want the thing to be a special colour though . Damn .
+ Of plastic .
+ Yeah .
+ Yeah . So I rather have an hand dynamo than than drop the colour . You can still play with it then I guess . I don't know . Yeah , but a hand dynamo costs a lot of energy to keep the screen working . So I guess that isn't an option .
+ Yeah and then
+ Yeah yeah yeah yeah .
+ Yeah .
+ Yeah .
+ The display
+ Well , you only have to power it up when you wanna use it .
+ Yeah .
+ The
+ Yeah .
+ But if you have to power the for ten minutes , then the
+ I don't know .
+ Yeah .
+ No I don't think the current status of uh chips are pretty uh energy conserving , no .
+ .
+ Yeah .
+ Yeah true . Let's let's go for the hand dynamo then .
+ Yeah .
+ Yeah hand dynamo ? Do you want an extra button ?
+ Or or do we Or do we do uncurved and flat ? Instead of
+ No no it has to be curved . Yeah .
+ Yeah it has to be curved and has to have that colour . And a screen .
+ Yeah .
+ Just put a special special colour of the buttons , or something .
+ Yeah . Yeah . That's the most import
+ Yep ? Instead of an additional power button ?
+ Yeah or spe special form ?
+ Yeah .
+ S what what is special f Oh yeah , special form . Maybe that's nicer .
+ Yeah ? It's for scroll
+ Yeah .
+ But we don't have any buttons . So do d Uh make it a special colour then .
+ Without
+ We only have
+ Yeah . But it's it's for the integrated button , I think also . Or
+ Yeah ma make it a special colour then .
+ Yeah but
+ Yeah but it's just a scroll-wheel which you can push down . So
+ Yeah . Okay . Yeah .
+ Okay . Make it a special colour and then it look fancy . So
+ Yeah ?
+ Yep .
+ So Woah we're within budget . It's a miracle .
+ Yeah . Let's let's save it .
+ Oh just oh ma make it two special colours , but we only have one button . Okay .
+ Yeah .
+ Let's do it like this , I mean , because it does not lose our identity of the product as we
+ Yeah ?
+ Okay . Um , well
+ . 'Kay , this was old .
 **********
-Well we come back to the drawing board then , huh ? 
-Yeah all your designs are uh pretty much 
-Yeah . Okay . 
-Yeah back to work . Uh 
-It's silly 'cause we we should have had this meeting before we start drawing . 
-Did I save it ? 
-Yeah . I I wanted to go , but I wasn't allowed . So 
-Yeah but that but that's the fun part of it . 
-Oh yeah ? 
-okay . 
-Alright . 
-Uh I just forgot to save this . Just a minute . 
-. 
+ Well we come back to the drawing board then , huh ?
+ Yeah all your designs are uh pretty much
+ Yeah . Okay .
+ Yeah back to work . Uh
+ It's silly 'cause we we should have had this meeting before we start drawing .
+ Did I save it ?
+ Yeah . I I wanted to go , but I wasn't allowed . So
+ Yeah but that but that's the fun part of it .
+ Oh yeah ?
+ okay .
+ Alright .
+ Uh I just forgot to save this . Just a minute .
+ .
 **********
-Yeah what's the next uh phase ? 
-Yeah , this the last phase of course , so 
-Uh the agenda . 
-By your humble P_M_ . 
-Hmm . 
-Oh f Frustrated . Alright . 
-Oh . 
-Yeah . 
-Okay . Um 
-Well we first should have had a uh prototype presentation . But well as you saw that hadn't made no sense , because we had to drop it . Uh 
-Drop everything . Yeah . 
-Drop , yeah . 
-We went straight into finance ? 
-Yeah . Yeah it was more important , so I just 
-Yeah . Yeah . 
-For Yeah . 
-pushed up the agenda . Uh , 
-Yeah . 
-evaluation criteria . You have t produced something about that ? 
-Yeah that that's Yeah . I uh I sure did . And it combines with product evaluation . Uh so 
-Uh you put it in the . 
+ Yeah what's the next uh phase ?
+ Yeah , this the last phase of course , so
+ Uh the agenda .
+ By your humble P_M_ .
+ Hmm .
+ Oh f Frustrated . Alright .
+ Oh .
+ Yeah .
+ Okay . Um
+ Well we first should have had a uh prototype presentation . But well as you saw that hadn't made no sense , because we had to drop it . Uh
+ Drop everything . Yeah .
+ Drop , yeah .
+ We went straight into finance ?
+ Yeah . Yeah it was more important , so I just
+ Yeah . Yeah .
+ For Yeah .
+ pushed up the agenda . Uh ,
+ Yeah .
+ evaluation criteria . You have t produced something about that ?
+ Yeah that that's Yeah . I uh I sure did . And it combines with product evaluation . Uh so
+ Uh you put it in the .
 **********
-We all have to keep in mind what has changed now . So what we have left on the Because evaluation is based on the initial uh user requirements . Alright . 
-Yeah . 
-Let's make it big . 
-F_ five . 
-Um 
-Well we evaluate uh the design with a seven point scale , as following . Well the remote controls according criteria blah blah blah . True or false , and then on a scale of seven points , a scale , as we all know it . Um 
-Mm-hmm . 
-Well the criteria are based on the user requirements , uh the trends from the marketing research , and the marketing strategy of the company itself . 
-Um well they are in a Word document , which I will open now . Yeah . I don't know it's open yet . No . 
-Alt up 
-And we all have to uh agree on a certain level . What's this ? 
-Freaky . 
-Oh . I don't know . Um 
-Well the first point is the remote control matches the operating behaviour of the young user . So that means the operating behaviour was using quite a lot of functions . 
-How do you think about that ? 
-I think it does . Because the operating behaviour of the young user was also defined in colour and shape and the use of L_C_D_ , right ? 
-Yeah . Uh , of course we dropped a little bit of those uh 
-Yeah the us u 
-It it it's it's mainly con mainly concentrating on a lot of functions , in this question . So do you think 
-Yeah . 
-Mm-hmm . 
-Well , we have extended menus , on the on the L_C_D_ screen . So 
-Yeah . You can you can ma Yeah , you can make a lot of extended menus . That's true . I mean the the possibilities are almost unlimited , to to build in menus in the screen . 
-Yep . 
-I 
-No . 
-So on a scale from 
-one to seven , what do you think ? 
-Two or three . 
-Huh ? 
-Two or three . 
-Two or three ? Something like that ? Well we have to choose one . So uh what do you say ? I agree on two . 
-Two . 
-Yeah . 
-Uh y we should fill this in now . Yeah okay . Uh 
-Yeah . I uh I say two , personally . But 
-Yeah . 
-Yeah in the new design I s would say it's three . But now , in original design I say two . 
-Yeah alright . 
-Yeah well we have to evaluate I guess what we have now . 
-Okay then I say three . 
-Yeah ? You say three , and you you said al also three ? Three ? Okay well I say still two , but it has to be three then . Yeah I know . So it's made bold . But it's nah , it's not very clear on the sc Maybe other colour , yeah . That's better . 
-Yeah yeah . 
-Yeah . 
-Hey , you're marketing , eh . 
-Hmm . M maybe underline . 
-Or give it a colour . 
-Red . 
-Uh 
-Yeah . Alright . Oh , it doesn't have to be bold anymore . 
-Oh yeah very true . He types everything . 
-Alright . 
-Yeah . Um well the remote control has Wha 
-Yeah true one . 
-Definitely one . It has to be . 
-Yeah . 
-The remote control has irrelevant or less used functions . For example audio settings and screen settings . 
-It hides uh basic functions . 
-Everything . You don't use anything else . 
-Yeah . Well , yeah . So it it's a very true point . I mean it hides all those function . But , I mean uh they're hidden in the screen . If you don't want to use them , you don't s you s just scroll over them . And you place them 
-You're not gonna find them . 
-Yeah . Yeah okay . Yeah . 
-Yeah true . 
-Mm-hmm . 
-F I don't know where . So that's very true , I guess , for our case . 
-Uh the second point . It shows the relevant and most used functions . Power button . 
-Yeah the next Not so much so . 
-Nope . 
-Do we ha still have a power button ? Well yeah the button's integrated , huh ? 
-Uh check with the Excel sheet . 
-Yeah . 
-I think we are 
-Yeah it's uh it's integrated . 
-Yeah we dropped it . You j you just push it in for Yeah just just push it in for th for three seconds or something , and then Yeah . I don't know . Yeah . Um it shows the relevant and most used functions . 
-It's in Oh yeah it was integrateds . Yeah . 
-Yeah integrate it . 
-E exactly just like a m mobile . 
-Yeah . 
-Just go scrolling and it will activate . 
-. 
-Yeah uh on the other uh on one side I would say yes , and the other side I would say no . 
-So it's I don't know . 
-It shows the most used functions and they are relevant , but 
-Can you uh change channels directly with with just one button ? No , you have to scroll through the menu , before 
-Yeah . 
-With the scroll butt Yeah and then say channel . And then 
-Yeah . So it's it's not 
-Well uh we should b build it so that if you don't kind of push into the menu or something , if When it's on , yeah , it's turned on , 
-Hmm ? 
-You say you double click on the 
-It automatically has the the programme and the volume function , but as soon as you click it you go into the menu or some Of you Or you double click it . 
-Yeah . 
-Yeah . 
-But but how do you change from volume to channel ? 
-No because it has four arrows , right ? 
-No , not anymore . Because he's now have a scroll-wheel that you can push in . 
-No . 
-No . 
-Oh yeah . 
-Yeah . 
-Yeah I was thinking still about our uh integrated joystick . 
-Like on the the mouse . 
-No we have n we have no buttons left . So the joystick was not an option . So so you hav So you you have to double-click , I mean , for , I mean , uh volume , and three double click for the menu , or something . Yeah . Yeah . Yeah . Alright . 
-Say . 
-Yeah that is a bummer . 
-Yeah . 
-To get into menu . Yeah . 
-Oh no . 
-Or hold it ten seconds . 
-We'll make it a Morse code . 
-But but ease of use was not very important , may I remind you . So that's Yeah but that that's not a question . Uh the remote control shows the relevant and most used functions . Well I think it's pretty much in the middle . 
-No no no . Uh it should be trendy . 
-Yeah . Four . 
-You have to search for them in in the in the s in the screen , in the menu . So 
-Yeah , im in the menu . 
-Yeah . 
-Seven . 
-So maybe it's more like a f a five . Or 
-Yeah . Five . 
-Yeah I would go for five or six , yeah . 
-Yeah . Five or six ? 
-Five . 
-Okay five . Let's not diss our remote . 
-Five . Yep . 
-Five ? Alright . Yeah . 
-It's the weirdest remote control I've ever seen . So 
-Oh . 
-Yeah . 
-Yep . 
-Just one button . 
-Well it's different . 
-Yeah . Alright . Uh the the remote control makes use of technolog technological innovation like L_C_D_ screen and speech recognition . Well yeah but we dropped the speech recognition . But it has at least one innovation . 
-But Uh yep . 
-Yeah . 
-Yeah , it's still 
-Yeah , I say two . 
-We still have the fruit and vegetable print . 
-I say two then . 
-Yeah . 
-Yeah but that that's not that's not this question . Uh thi uh that's the other question . 
-Oh , that's the next . 
-Fr Oh I mean the Oh never mind . I'm a bit lost . 
-This one . 
-I think a two . No . 
-Two . 
-Two yeah . I think L_C_D_'s more useful than speech What ? Oh not the bold one . 
-. 
-Yep . 
-Yeah definitely . 
-It's way more practical , yeah . 
-Right . Okay , it has a fancy look and feel by using fruit and vegetable prints , primary colours and sponge-like material . It should have been two questions . I realise now , because sponge-like material is dropped . But the look and feel 
-Yeah . 
-You still have rubber d Or no . 
-Yeah . So we still uh we still have the primary colours . But only on the on the outside , not on the button . 
-No you got a plastic . 
-Yeah . 
-Yeah . 
-Yeah . 
-The button has also colour . Yeah . 
-Yeah ? Okay . 
-Yeah . The one button we have . 
-Yeah . The one . 
-Yeah . Yeah still we we dropped also on the the double uh curve . 
-Yeah you could check with the Excel sheet . 
-Mm mm . 
-Yeah . You only have one Yeah . 
-Yeah we have single curve now , and no and no material . So maybe in the middle or something . 
-And and colour . 
-Yeah . S 
-Four . Yeah . 
-Yeah . 
-Yeah . 
-Yeah , I mean it's 
-Yeah or three . 
-Uh 
-worth the Yeah . 
-We have something . 
-Actually we d we didn't do so well on this one . Because it's basically an old one , uh with little curve on the side , and in a different colour . Still , it's still hard . I mean the sponge-like and the three D_ shape , that would give it something young and fresh . 
-Yeah . 
-New . Yeah . 
-Yeah . But then we would have to drop the screen . Oh red . 
-Red . 
-Yeah . 
-You like both . 
-Yeah . I like bold . 
-Uh the remote control displays the corporate logo . 
-Um oh yeah . 
-Mm yeah yeah . 
-Of course . 
-I just couldn't Um , just one minute . 
-Yeah . You just have to draw it . 
-Yeah but it be because uh we couldn't hardly draw on the b s on the lower half of the screen , we could not make it big enough to actually draw in the 
-It's the white part uh 
-. 
-Yeah . We have a we have a 
-Yeah . 
-So I mean I wanted to put digits on the buttons as well . But 
-So 
-But there's uh enough space for the corporate logo . I mean , if there's only one thing . 
-Hell yeah . If we have only one button . 
-Yeah . So I will say that is very true . 
-. 
-Mm-hmm . 
-And even the shape we have now uh simulates kind of an R_ and the reversed R_ , doesn't it ? So 
-Yeah . The remote control is easy to use . Well I would say Skill , uh I would say six , or something . I don't think it's easy to use , or not so . 
-No . 
-The only e the only thing easy about it is that you don't have to move your fingers . 'Cause it has only one button . 
-Ah i 
-Yeah . 
-And that you only have to control one button . 
-Yeah . It it it has a nice screen . But Yeah . 
-Yeah exactly . 
-It gives visual feedback . So 
-Yeah . Well I I would say a five or a six . 
-I would say six . 
-I think a five . Five . 
-What do you say ? Easy to use ? Five or a six ? 
-It's really not easy to use . 'Cause you're putting everything 
-No not anymore . 
-So a six , more . 
-Yeah . 
-Yeah , uh I would go for the six too . So 
-Okay . Yeah . 
-Most votes count . Um 
-Um well , another question , uh the remote control is durable . I don't know if that's the correct word . But uh 
-Yeah that looks uh great . 
-Yeah . Nah 
-Definitely in casing , 'cause we have a hard plastic Yeah . Yeah because the the batteries , those thingies last forever . 
-In use , both battery as casing ? 
-Yeah ? 
-True , true . And the casing is plastic , ? 
-And the the casing , hard plastic also lasts forever . 
-Yep . 
-Yeah . If you don't drop it too much , it's uh should last pretty long . 
-Yeah . 
-So I would go for one . 
-Yeah ? But uh I think rubber compared is better . So I think a two is more appropriate 
-Yeah . S 
-Yep . 
-Okay yeah . 
-than 
-Wow . 
-Yeah . Logo . Okay I will go go for two . 
-Yeah . 
-Uh the last one ? The remote control's a good example for company's motto , we put the fashion in electronics . 
-Oh . 
-No m 
-No we put the electronics into the fashion . 
-Yeah well yeah . 
-I would g I would go for four . 
-uh turn around . Yeah . But um 
-Yeah ? 
-No 
-Because we kind of tried to but we kind of failed with the budget that we have . 
-It's not 
-Yeah , true . 
-Yeah okay . 
-So a four . It's it g it g goes , it's not the best we could do , I guess . But it all has to do with the budget , because it's it's not the bad idea we had , so 
-Yeah . 
-Yeah . Yeah yeah . 
-Yeah , four is okay . 
-Alright , yeah . 
-Right . 
-So 
-So if I understood it right , we have to count these numbers . 
-That's it . 
-Ooh . And Yeah ? What ? 
-Uh 
-Yeah . Mm-hmm . Oh 
-Yeah . 
-Oh Alright . Word document , the Yeah we have to count them . 
-Yeah . That 
-Count them . Add them ? Or 
-Uh 
-Yeah just add them and then uh divide them . Yeah . 
-Could somebody start calculator ? 
-Mm . I all made it po I I all made it I all made it possible uh for a positive questions , so we can count it . I mean if you have reversed question , you have to reverse the scale , uh Yes . 
-Ah we can do the math . Uh 
-Mm-hmm . 
-Yeah , yeah . You have to 'Kay . So four and 
-Yeah . 
-Did you make this questionnaire or what ? 
-Yeah . 
-Thanks . 
-Nice work . 
-Okay . 
-Oh . 
-Three plus ? 
-I wouldn't be able to do it that fast . 
-O one . 
-Plus one . 
-Plus five . 
-Plus five ? 
-Oh Easy . Question number four , yeah ? 
-Bo 
-Uh two . 
-Yeah . 
-Four . 
-Oh . Wait a second . Oh . It's it's gone wrong . 
-How hard is it ? 
-Okay . It's your turn . 
-Yeah just use Oh there tho uh there's no n There's no num pads . 
-Pretty difficult . 
-Start over ? 
-No it's if you press twice on the plus button , then you get s s 
-You can Oh yeah . 
-No . That's why it's uh 
-It's a it's a bit uh 
-Just type in the digits . They're all one digit numbers right ? And then you can count them together . 
-Yeah . I think you can just count them by a Um let's move over . Three , plus one , four . Nine . 
-Just count it to Yeah . 
-Okay . Three , four , nine . 
-Uh 
-Uh , yeah . Are you here ? Eleven . Fifteen . 
-Eleven . Fifteen . 
-Eleven , fifteen . 
-Sixteen . 
-Sixteen . 
-Sixteen , yeah . 
-Seventeen . 
-Seventeen . 
-No sixteen . Uh sixteen plus six . Twenty two . 
-Oh what ? 
-Twenty two . 
-S Uh 
-How hard is this ? Never mind . Twenty four . Twenty eight . 
-Twenty two , yeah ? Tw 
-Twenty four . Twenty six . 
-Oh , sorry . . Oh my . 
-Twenty Twenty eight . 
-That was the last one . That was that . Yeah . So divided by nine . 
-Twenty eight . 
-Okay . Twenty eight . 
-Twen Uh okay . 
-By nine . That's uh three uh Or le less than a three . 
-Hmm . 
-So 
-Yeah the lower the The lower the score the better , right ? 
-Yeah . 
-Yeah . Twenty eight 
-Yeah but 
-Divided by nine . 
-di divided by nine makes three point one one one one one one one . 
-So thr t two . 
-So we're better than average . 
-But 
-Yeah . 
-I Are you sure we this number actually tells us somethings ? I don't think so because some questions are related to positive issues and some to negative . So if you give a true to a positive , it actually means that the low the lower the better . But if you give true to a negative question 
-No . 
-Some questions are Yeah . 
-Yeah , but there are no negative questions I guess . Good example . Durable use . Easy to use . This is good . Fancy look and feel , that's good . Technology innovation was good , because of a marketing uh requirement . Re relevant most used function . And hides these functions . That was also a good thing . 
-No ? 
-Durable , that's good . Easy to use . 
-Yeah . . Also good . 
-Yeah okay . 
-I guess you did do it . 
-Oh yeah . Yeah . 
-Oh yeah yeah . No 
-And then matches the opera of the user was also a good thing . So it were all positive questions , by uh by purpose . So 
-Yeah . 
-Okay . Okay . 
-Yeah true . 
-Yes , so the It tells us something , yes . Becau But the picture would be a lot different if we didn't have to drop those uh those things , I guess . 
-Oh great . 
-Things , yeah . 
-Yeah definitely definitely . Because now it's just an average It's remote . 
-Okay . 
-Yeah . Nah it it's it's better than average , but 
-Yeah okay because of the L_C_D_ screen . But uh it looks and stuff , it still uh it's not , it's not really eye-catching , except for the colour . 
-Yeah . So th 
-It's still yeah . 
-Yeah . 
-Has some shortcomings . 
-No . The colour and the screen . 
-Yeah . 
-Okay so Um this we had , this we had . We have to do a product evaluation . Uh prototype presentation we dropped . So Uh the finance we looked . We have redesigned . Uh not on that , but 
-So you can just make one big L_C_D_ screen . 
-Yeah uh 
-The the button has a special colour , the frame has a special colour . 
-It's plastic . And single curved . 
-Oh and you might want to add a uh infrared LED . 
-Otherwise it uh doesn't function uh so well . 
-Well I have to um um make an uh report of every decision we made so far . And I try to get chip just before uh I uh receive the Excel sheet . So I 
-Yeah I'm I'm somewhere , but maybe you can help me . 
-Uh 
-I was here . So 
-Ah 
-That's enough to get started with , so 
-Uh , I just took one for every step and then a conclusion . 
-Yeah . 
-Well I think I have to make a p an issue called finance . 
-Yeah . 
-Mm-hmm . 
-... . 
-I don't think so , if you see the options . But 
-Yeah . 
-You can't even draw anymore . Even children can draw . 
-Can you just push pen and then keep on 
-Hmm . 
-Yeah . 
-Yeah just on the the m um the L_C_D_ display . 
-This is your Real Remote . 
-Yeah . 
-Yeah . You can just reuse that , because the name is the same . Initials . 
-Mm . 
-Luckily . Yeah , it's uh Yeah . 
-Okay . And copy this . Just a minute . 
-It's 
-It's somewhere 
-I d It isn't inside . Yeah , and don't know how it's or eject it . 
-From up there ? 
-No . 
-Yeah it's somewhere in here . 
-Save copy . 
-Yeah . 
-. 
-Yes . 
-. 
-Well 
-Um now you probably have to recalibrate . Oh , five minutes to the end of the meeting . And the recalibration is done using this icon here . 
-Yeah well I just 
-Okay . You go ahead . 
-Yeah . Yeah . Then I have to uh uh write this , and I don't know if you have to present , because I didn't receive any information about that so far . 
-Maybe we get a a final mail . 
-Yeah . Yeah , I have still ten minutes to finish the report . 
-Yeah . 
-And you can uh just uh relax and uh have cup of coffee or oh no , they don't have beer here so you can't celebrate . You can just if you ma finish my presentation please . 
-Uh over there . 
-The presentation is still open . So if you finish that then you'll see uh 
-Yeah next . 
-Oh yeah , we have to do the project uh evaluation . Just uh do that quickly . Uh 
-Uh well basically what that says , we discuss it and um 
-So how were did the project process uh go ? Did you , were you all pleased with the process as it was ? Or are there uh 
-Yeah the interaction and the steps we followed , and and so forth . 
-Yeah . 
-Mm-hmm . 
-. 
-Mm-hmm . 
-Mm-hmm . 
-Okay and was that due to my leadership ? 
-Yeah ? 
-That okay ? 
-Okay . Um was there uh enough room for creativity ? 
-So and the uh about the board digital pen ? Uh was that helpful or 
-Ooh . 
-Yeah it works . 
-Mm-hmm . 
-Use the pen . 
-Yeah yeah . 
-Blink . Oh . 
-Okay , are are there any new ideas about this ? All I think 
-I didn't really receive , yeah . 
-Uh uh w uh S sorry uh 
-Mm-hmm . 
-Yeah . 
-Oh . Uh we should uh enter our questionnaire . 
-Ah . 
-Woah . 
-Okay . Uh okay . 
-That's the management . 
-Hope so . 
-Um 
+ We all have to keep in mind what has changed now . So what we have left on the Because evaluation is based on the initial uh user requirements . Alright .
+ Yeah .
+ Let's make it big .
+ F_ five .
+ Um
+ Well we evaluate uh the design with a seven point scale , as following . Well the remote controls according criteria blah blah blah . True or false , and then on a scale of seven points , a scale , as we all know it . Um
+ Mm-hmm .
+ Well the criteria are based on the user requirements , uh the trends from the marketing research , and the marketing strategy of the company itself .
+ Um well they are in a Word document , which I will open now . Yeah . I don't know it's open yet . No .
+ Alt up
+ And we all have to uh agree on a certain level . What's this ?
+ Freaky .
+ Oh . I don't know . Um
+ Well the first point is the remote control matches the operating behaviour of the young user . So that means the operating behaviour was using quite a lot of functions .
+ How do you think about that ?
+ I think it does . Because the operating behaviour of the young user was also defined in colour and shape and the use of L_C_D_ , right ?
+ Yeah . Uh , of course we dropped a little bit of those uh
+ Yeah the us u
+ It it it's it's mainly con mainly concentrating on a lot of functions , in this question . So do you think
+ Yeah .
+ Mm-hmm .
+ Well , we have extended menus , on the on the L_C_D_ screen . So
+ Yeah . You can you can ma Yeah , you can make a lot of extended menus . That's true . I mean the the possibilities are almost unlimited , to to build in menus in the screen .
+ Yep .
+ I
+ No .
+ So on a scale from
+ one to seven , what do you think ?
+ Two or three .
+ Huh ?
+ Two or three .
+ Two or three ? Something like that ? Well we have to choose one . So uh what do you say ? I agree on two .
+ Two .
+ Yeah .
+ Uh y we should fill this in now . Yeah okay . Uh
+ Yeah . I uh I say two , personally . But
+ Yeah .
+ Yeah in the new design I s would say it's three . But now , in original design I say two .
+ Yeah alright .
+ Yeah well we have to evaluate I guess what we have now .
+ Okay then I say three .
+ Yeah ? You say three , and you you said al also three ? Three ? Okay well I say still two , but it has to be three then . Yeah I know . So it's made bold . But it's nah , it's not very clear on the sc Maybe other colour , yeah . That's better .
+ Yeah yeah .
+ Yeah .
+ Hey , you're marketing , eh .
+ Hmm . M maybe underline .
+ Or give it a colour .
+ Red .
+ Uh
+ Yeah . Alright . Oh , it doesn't have to be bold anymore .
+ Oh yeah very true . He types everything .
+ Alright .
+ Yeah . Um well the remote control has Wha
+ Yeah true one .
+ Definitely one . It has to be .
+ Yeah .
+ The remote control has irrelevant or less used functions . For example audio settings and screen settings .
+ It hides uh basic functions .
+ Everything . You don't use anything else .
+ Yeah . Well , yeah . So it it's a very true point . I mean it hides all those function . But , I mean uh they're hidden in the screen . If you don't want to use them , you don't s you s just scroll over them . And you place them
+ You're not gonna find them .
+ Yeah . Yeah okay . Yeah .
+ Yeah true .
+ Mm-hmm .
+ F I don't know where . So that's very true , I guess , for our case .
+ Uh the second point . It shows the relevant and most used functions . Power button .
+ Yeah the next Not so much so .
+ Nope .
+ Do we ha still have a power button ? Well yeah the button's integrated , huh ?
+ Uh check with the Excel sheet .
+ Yeah .
+ I think we are
+ Yeah it's uh it's integrated .
+ Yeah we dropped it . You j you just push it in for Yeah just just push it in for th for three seconds or something , and then Yeah . I don't know . Yeah . Um it shows the relevant and most used functions .
+ It's in Oh yeah it was integrateds . Yeah .
+ Yeah integrate it .
+ E exactly just like a m mobile .
+ Yeah .
+ Just go scrolling and it will activate .
+ .
+ Yeah uh on the other uh on one side I would say yes , and the other side I would say no .
+ So it's I don't know .
+ It shows the most used functions and they are relevant , but
+ Can you uh change channels directly with with just one button ? No , you have to scroll through the menu , before
+ Yeah .
+ With the scroll butt Yeah and then say channel . And then
+ Yeah . So it's it's not
+ Well uh we should b build it so that if you don't kind of push into the menu or something , if When it's on , yeah , it's turned on ,
+ Hmm ?
+ You say you double click on the
+ It automatically has the the programme and the volume function , but as soon as you click it you go into the menu or some Of you Or you double click it .
+ Yeah .
+ Yeah .
+ But but how do you change from volume to channel ?
+ No because it has four arrows , right ?
+ No , not anymore . Because he's now have a scroll-wheel that you can push in .
+ No .
+ No .
+ Oh yeah .
+ Yeah .
+ Yeah I was thinking still about our uh integrated joystick .
+ Like on the the mouse .
+ No we have n we have no buttons left . So the joystick was not an option . So so you hav So you you have to double-click , I mean , for , I mean , uh volume , and three double click for the menu , or something . Yeah . Yeah . Yeah . Alright .
+ Say .
+ Yeah that is a bummer .
+ Yeah .
+ To get into menu . Yeah .
+ Oh no .
+ Or hold it ten seconds .
+ We'll make it a Morse code .
+ But but ease of use was not very important , may I remind you . So that's Yeah but that that's not a question . Uh the remote control shows the relevant and most used functions . Well I think it's pretty much in the middle .
+ No no no . Uh it should be trendy .
+ Yeah . Four .
+ You have to search for them in in the in the s in the screen , in the menu . So
+ Yeah , im in the menu .
+ Yeah .
+ Seven .
+ So maybe it's more like a f a five . Or
+ Yeah . Five .
+ Yeah I would go for five or six , yeah .
+ Yeah . Five or six ?
+ Five .
+ Okay five . Let's not diss our remote .
+ Five . Yep .
+ Five ? Alright . Yeah .
+ It's the weirdest remote control I've ever seen . So
+ Oh .
+ Yeah .
+ Yep .
+ Just one button .
+ Well it's different .
+ Yeah . Alright . Uh the the remote control makes use of technolog technological innovation like L_C_D_ screen and speech recognition . Well yeah but we dropped the speech recognition . But it has at least one innovation .
+ But Uh yep .
+ Yeah .
+ Yeah , it's still
+ Yeah , I say two .
+ We still have the fruit and vegetable print .
+ I say two then .
+ Yeah .
+ Yeah but that that's not that's not this question . Uh thi uh that's the other question .
+ Oh , that's the next .
+ Fr Oh I mean the Oh never mind . I'm a bit lost .
+ This one .
+ I think a two . No .
+ Two .
+ Two yeah . I think L_C_D_'s more useful than speech What ? Oh not the bold one .
+ .
+ Yep .
+ Yeah definitely .
+ It's way more practical , yeah .
+ Right . Okay , it has a fancy look and feel by using fruit and vegetable prints , primary colours and sponge-like material . It should have been two questions . I realise now , because sponge-like material is dropped . But the look and feel
+ Yeah .
+ You still have rubber d Or no .
+ Yeah . So we still uh we still have the primary colours . But only on the on the outside , not on the button .
+ No you got a plastic .
+ Yeah .
+ Yeah .
+ Yeah .
+ The button has also colour . Yeah .
+ Yeah ? Okay .
+ Yeah . The one button we have .
+ Yeah . The one .
+ Yeah . Yeah still we we dropped also on the the double uh curve .
+ Yeah you could check with the Excel sheet .
+ Mm mm .
+ Yeah . You only have one Yeah .
+ Yeah we have single curve now , and no and no material . So maybe in the middle or something .
+ And and colour .
+ Yeah . S
+ Four . Yeah .
+ Yeah .
+ Yeah .
+ Yeah , I mean it's
+ Yeah or three .
+ Uh
+ worth the Yeah .
+ We have something .
+ Actually we d we didn't do so well on this one . Because it's basically an old one , uh with little curve on the side , and in a different colour . Still , it's still hard . I mean the sponge-like and the three D_ shape , that would give it something young and fresh .
+ Yeah .
+ New . Yeah .
+ Yeah . But then we would have to drop the screen . Oh red .
+ Red .
+ Yeah .
+ You like both .
+ Yeah . I like bold .
+ Uh the remote control displays the corporate logo .
+ Um oh yeah .
+ Mm yeah yeah .
+ Of course .
+ I just couldn't Um , just one minute .
+ Yeah . You just have to draw it .
+ Yeah but it be because uh we couldn't hardly draw on the b s on the lower half of the screen , we could not make it big enough to actually draw in the
+ It's the white part uh
+ .
+ Yeah . We have a we have a
+ Yeah .
+ So I mean I wanted to put digits on the buttons as well . But
+ So
+ But there's uh enough space for the corporate logo . I mean , if there's only one thing .
+ Hell yeah . If we have only one button .
+ Yeah . So I will say that is very true .
+ .
+ Mm-hmm .
+ And even the shape we have now uh simulates kind of an R_ and the reversed R_ , doesn't it ? So
+ Yeah . The remote control is easy to use . Well I would say Skill , uh I would say six , or something . I don't think it's easy to use , or not so .
+ No .
+ The only e the only thing easy about it is that you don't have to move your fingers . 'Cause it has only one button .
+ Ah i
+ Yeah .
+ And that you only have to control one button .
+ Yeah . It it it has a nice screen . But Yeah .
+ Yeah exactly .
+ It gives visual feedback . So
+ Yeah . Well I I would say a five or a six .
+ I would say six .
+ I think a five . Five .
+ What do you say ? Easy to use ? Five or a six ?
+ It's really not easy to use . 'Cause you're putting everything
+ No not anymore .
+ So a six , more .
+ Yeah .
+ Yeah , uh I would go for the six too . So
+ Okay . Yeah .
+ Most votes count . Um
+ Um well , another question , uh the remote control is durable . I don't know if that's the correct word . But uh
+ Yeah that looks uh great .
+ Yeah . Nah
+ Definitely in casing , 'cause we have a hard plastic Yeah . Yeah because the the batteries , those thingies last forever .
+ In use , both battery as casing ?
+ Yeah ?
+ True , true . And the casing is plastic , ?
+ And the the casing , hard plastic also lasts forever .
+ Yep .
+ Yeah . If you don't drop it too much , it's uh should last pretty long .
+ Yeah .
+ So I would go for one .
+ Yeah ? But uh I think rubber compared is better . So I think a two is more appropriate
+ Yeah . S
+ Yep .
+ Okay yeah .
+ than
+ Wow .
+ Yeah . Logo . Okay I will go go for two .
+ Yeah .
+ Uh the last one ? The remote control's a good example for company's motto , we put the fashion in electronics .
+ Oh .
+ No m
+ No we put the electronics into the fashion .
+ Yeah well yeah .
+ I would g I would go for four .
+ uh turn around . Yeah . But um
+ Yeah ?
+ No
+ Because we kind of tried to but we kind of failed with the budget that we have .
+ It's not
+ Yeah , true .
+ Yeah okay .
+ So a four . It's it g it g goes , it's not the best we could do , I guess . But it all has to do with the budget , because it's it's not the bad idea we had , so
+ Yeah .
+ Yeah . Yeah yeah .
+ Yeah , four is okay .
+ Alright , yeah .
+ Right .
+ So
+ So if I understood it right , we have to count these numbers .
+ That's it .
+ Ooh . And Yeah ? What ?
+ Uh
+ Yeah . Mm-hmm . Oh
+ Yeah .
+ Oh Alright . Word document , the Yeah we have to count them .
+ Yeah . That
+ Count them . Add them ? Or
+ Uh
+ Yeah just add them and then uh divide them . Yeah .
+ Could somebody start calculator ?
+ Mm . I all made it po I I all made it I all made it possible uh for a positive questions , so we can count it . I mean if you have reversed question , you have to reverse the scale , uh Yes .
+ Ah we can do the math . Uh
+ Mm-hmm .
+ Yeah , yeah . You have to 'Kay . So four and
+ Yeah .
+ Did you make this questionnaire or what ?
+ Yeah .
+ Thanks .
+ Nice work .
+ Okay .
+ Oh .
+ Three plus ?
+ I wouldn't be able to do it that fast .
+ O one .
+ Plus one .
+ Plus five .
+ Plus five ?
+ Oh Easy . Question number four , yeah ?
+ Bo
+ Uh two .
+ Yeah .
+ F
+ Four .
+ Oh . Wait a second . Oh . It's it's gone wrong .
+ How hard is it ?
+ Okay . It's your turn .
+ Yeah just use Oh there tho uh there's no n There's no num pads .
+ Pretty difficult .
+ Start over ?
+ No it's if you press twice on the plus button , then you get s s
+ You can Oh yeah .
+ No . That's why it's uh
+ It's a it's a bit uh
+ Just type in the digits . They're all one digit numbers right ? And then you can count them together .
+ Yeah . I think you can just count them by a Um let's move over . Three , plus one , four . Nine .
+ Just count it to Yeah .
+ Okay . Three , four , nine .
+ Uh
+ Uh , yeah . Are you here ? Eleven . Fifteen .
+ Eleven . Fifteen .
+ Eleven , fifteen .
+ Sixteen .
+ Sixteen .
+ Sixteen , yeah .
+ Seventeen .
+ Seventeen .
+ No sixteen . Uh sixteen plus six . Twenty two .
+ Oh what ?
+ Twenty two .
+ S Uh
+ How hard is this ? Never mind . Twenty four . Twenty eight .
+ Twenty two , yeah ? Tw
+ Twenty four . Twenty six .
+ Oh , sorry . . Oh my .
+ Twenty Twenty eight .
+ That was the last one . That was that . Yeah . So divided by nine .
+ Twenty eight .
+ Okay . Twenty eight .
+ Twen Uh okay .
+ By nine . That's uh three uh Or le less than a three .
+ Hmm .
+ So
+ Yeah the lower the The lower the score the better , right ?
+ Yeah .
+ Yeah . Twenty eight
+ Yeah but
+ Divided by nine .
+ di divided by nine makes three point one one one one one one one .
+ So thr t two .
+ So we're better than average .
+ But
+ Yeah .
+ I Are you sure we this number actually tells us somethings ? I don't think so because some questions are related to positive issues and some to negative . So if you give a true to a positive , it actually means that the low the lower the better . But if you give true to a negative question
+ No .
+ Some questions are Yeah .
+ Yeah , but there are no negative questions I guess . Good example . Durable use . Easy to use . This is good . Fancy look and feel , that's good . Technology innovation was good , because of a marketing uh requirement . Re relevant most used function . And hides these functions . That was also a good thing .
+ No ?
+ Durable , that's good . Easy to use .
+ Yeah . . Also good .
+ Yeah okay .
+ I guess you did do it .
+ Oh yeah . Yeah .
+ Oh yeah yeah . No
+ And then matches the opera of the user was also a good thing . So it were all positive questions , by uh by purpose . So
+ Yeah .
+ Okay . Okay .
+ Yeah true .
+ Yes , so the It tells us something , yes . Becau But the picture would be a lot different if we didn't have to drop those uh those things , I guess .
+ Oh great .
+ Things , yeah .
+ Yeah definitely definitely . Because now it's just an average It's remote .
+ Okay .
+ Yeah . Nah it it's it's better than average , but
+ Yeah okay because of the L_C_D_ screen . But uh it looks and stuff , it still uh it's not , it's not really eye-catching , except for the colour .
+ Yeah . So th
+ It's still yeah .
+ Yeah .
+ Has some shortcomings .
+ No . The colour and the screen .
+ Yeah .
 **********
-Okay so Um this we had , this we had . We have to do a product evaluation . Uh prototype presentation we dropped . So Uh the finance we looked . We have redesigned . Uh not on that , but 
-Product evaluation . 
+ Okay so Um this we had , this we had . We have to do a product evaluation . Uh prototype presentation we dropped . So Uh the finance we looked . We have redesigned . Uh not on that , but
+ Product evaluation .
 **********
-Yeah we we have to maybe if we have to redesign it on this 
-Okay it's your turn now . 
-So you can just make one big L_C_D_ screen . 
-Shall we try ? 
-With some casing around it , yeah . 
-Black . 
-Okay uh we're still gonna go for the fancy colours ? But are we gonna stick with the green or are we gonna do blue ? 
-Yeah uh 
-Yeah . 
-Yeah . 
-Yeah we we can just uh use this one . And then uh over-paint it with uh uh the green uh he only needs one button . Yeah . Or we have to delete this one or 
-The the button has a special colour , the frame has a special colour . 
-Yeah . 
-One scroll button and 
-It's plastic . And single curved . 
-Yeah . 
-Oh and you might want to add a uh infrared LED . 
-Oh oh no . 
-Oh yeah . 
-Otherwise it uh doesn't function uh so well . 
-For what ? 
-Okay . 
-Yeah . 
-So that's 
-Do we have to do other things ? 
-Well I have to um um make an uh report of every decision we made so far . And I try to get chip just before uh I uh receive the Excel sheet . So I 
-Or just redesign ? 
-Alright . 
-Yeah . So you made a start , right ? 
-Yeah I'm I'm somewhere , but maybe you can help me . 
-Should give it some time ? 
-Yeah . 
-Yay . 
-Uh 
-Okay , but how do we make the the scroll uh button ? It's just one yeah . 
-I was here . So 
-Have to take this away also . 
-Alright . 
-Ah 
-And this um 
-Uh that's the infrared uh thing . 
-Oh yeah , of course . Um pen yeah ? Format . Current colour red . Oh Yeah we did our special colour for the Line widths , now that's a ten . 
-The the target group has a weak spot for fruit and vegetables , like primary colours , spongy shape . The playfulness , we decided to use kinetic energy as a power sour 
-Yeah . 
-Yeah . 
-Okay . 
-That's conceptual , yes . 
-That's enough to get started with , so 
-Yeah . Um , uh it's just a scroll Yeah , is it's horizontal or vertical ? 
-Mm . 
-It's gonna be one str scroll . 
-How many pages ? 
-Uh , I just took one for every step and then a conclusion . 
-Alright . Y you have you have done the first two . 
-I think 
-Horizontal's easier too , 'cause you can 
-Yeah . 
-Okay , and and the look and feel is 
-Yeah . 
-Is it more natural than this ? 
-Well I think I have to make a p an issue called finance . 
-Yeah , yeah . 
-So let's say Whoops . 'Kay . 
-Yeah . 
-Yes . It doesn't look like uh 
-Basically . 
-The items we had to drop . 
-Yeah . 
-Uh it it's it's not Yeah . 
-It's not very fashionable anymore . But uh it's okay . 
-It's really ugly . 
-Yeah . 
-Where did we start with price ? Twenty six and a half . 
-Maybe m make it bigger ? Or 
-Mm-hmm . 
-Or not ? 
-Or twenty six ? Something like that . 
-Yeah . 
-That looks little bit more uh 
-Maybe that's a s a special colour for it . So we can make it uh special ? 
-Oh 
-This ? 
-What do you mean ? 
-Like a other colour than this one ? 
-Or or speckles in it ? I dunno . Uh 
-Speckles ? 
-Yeah can we do it uh uh can we do a print ? 
-I'm not sure . 
-I think we have to choose , yeah ? 
-... . 
-I don't think so , if you see the options . But 
-Uh 
-Okay special colour . We do have special colour . 
-Does it mean uh that 
-Yeah red is already a special colour , I think . So 
-It's not very special , but uh 
-Yeah . 
-Shall we just give it some dots to make it look pretty ? 
-Yeah . 
-Purdy . 
-Just uh put the purple uh purple on it . That's trendy . 
-Yeah . Some some big dots . 
-Purple ? 
-Yeah . 
-Yeah yeah . 
-Oh no my remote has acne . 
-... . 
-We have the original balance sheet , or Yeah . 
-Yeah . 
-Woah . 
-No . That's why we have that button . 
-Oh yeah . 
-It's so cute . 
-Hmm . 
-Okay , it's not the prettiest , I know . 
-No , it looks 
-It's not so random huh ? 
-Lot of options . 
-It's okay . 
-Specially the the R_ . 
-Yeah , the R_ and another R_ . It's called the Real Remote , right ? 
-Yeah okay . 
-Yeah . 
-Maybe maybe it c it can say that . The Real Remote . 
-Yeah just on the the m um the L_C_D_ display . 
-Yeah . Welcome . 
-We can make a l a logo . 
-This is your Real Remote . 
-Yeah . Yeah . 
-Like uh put it like the shape . 
-Yeah . 
-D designed by Okay . 
-Something like that . I mean it's not too uh 
-That's not their logo , is it ? 
-No . 
-Do they have a lo Oh , the here . This i this is the logo . 
-Yeah . It's a 
-Two R_s and a one 
-Yeah . You can just reuse that , because the name is the same . Initials . 
-. 
-You can copy and paste the picture if you want . 
-How Shall we do the logo in black or not ? 
-Mm . 
-Yeah . 
-Yeah . 
-What is that ? Look more Looks more like a campfire . 
-Are you dissing my drawing ? This one ? 
-Yeah . 
-It looks like a ribbon . 
-Yeah . 
-Okay . 
-So who wants to draw ? This is actually quite fun . Do we need to do anything ? 
-I hear you people are typing . 
-Are we uh ready ? Uh Or 
-Type in your report . 
-Oh , okay . 
-I don't see any new messages . So 
-Luckily . Yeah , it's uh Yeah . 
-Hmm ? Luckily , yeah . 
-Is this uh the last assignment ? Or 
-Final 
-It's almost four . 
-What time do we have to deliver the report ? Four o'clock or 
-At four , yeah , ? 
-Or before that ? 
-Okay . And copy this . Just a minute . 
-Just compare uh 
-. 
-So are we gonna change anything to this ? I mean is it gonna 
-It is 
-Well it's it's single single curved . 
-Well 
-It's now single curved . So 
-Th this is flat . Yeah . 
-This is gonna be flat . Yeah exactly . 
-It's flat . Oh no . 
-Okay . It doesn't matter . It's it's 
-But it's it's better to have in the front , this kind of shape , because it looks nice . 
-I mean you see more of this than of that . 
-Yeah . 
-Yeah , more like that . 
-Yeah . 
-And this is also gonna be 
-Yeah . 
-Okay . You go ahead . 
-It's better than before . 
-Yeah . 
-Yeah . 
-We're improving uh Yeah . 
-Yeah that's improved uh pretty much . 
-Yeah . 
-Yeah it's only a bit like to that side , but that is that one by the way . 'Cause this one makes the angle either like this . So i if I change this , it will go there , if I change that , will go there . 
-Yeah . 
-Yeah but it's better , it's better 
-No it 
-Mm . 
-No . It's better than it was I guess . 
-Mm-hmm . I will take this away 'cause it looks messy . 
-Silly . 
-Yeah . Works pretty well . Five minutes before the meeting's over . And then ? We have to present 
-Alright . 
-So it after the after after these five minutes , you have to 
-Alright . After after that five minutes , you have ten minutes to finish it , or Alright . And we uh 
-Right . Chill . 
-Huh . 
-Uh Yeah ? 
-Next slide . 
-Yeah ? How do you do it ? 
-Alright . 
-Yeah . 
-Yeah . 
-And we move more to to working together as team , because at first you you make your individual contribution , and then come here , and you have no idea what the others have to make . And then finally you have some idea , okay this is gonna w this is what we gonna make together and okay I will arrange this and you will arrange that , and you have a k a kind of idea what you can expect on the next half hour when you have to work on your own . So 
-The process , I mean , the interaction between us became better and better I guess . 
-Yeah , especially if f f if you see uh you se you saw the largest difference from the first to the second meeting I guess . 
-Yeah . 
-Yeah . 
-Li Limiteded afterwards , but 
-If if you don't take that into account , there's plenty of room for creativ creativity . Also not only the drawing and the the making of the thing itself , but also in explaining it to the other people , by means of uh 
-the the board and uh PowerPoint and Word and stuff like that . 
-Mm uh I think in in essence 
-the digital pen is better than the SMARTboard . Because it it it just works better . I mean uh uh I've made yeah , uh I've made several notes just to test it , and and just put the pen in into it , and then it came onto my screen and it looked perfectly . So it it's better a better device than uh 
-than the screen . But the screen is useful , in essence , but it doesn't work that well . 
-Yeah . 
-Yep . 
-Warning . Finish meeting now . 
-Well , it It's use especially useful , I guess , to to evaluate designs and graph graphical stuff . 
-And and 
-the screen and stuff like that . 
-Yeah . 
-Yeah . 
-Yeah . But it it's useful to to show something to to an a small audience , and then to 
-Yeah . These these kind of screens this size are useful to discuss things . So 
-Yes . Check your email . 
-You also . 
-Right . 
-Yes boss . 
-Well see you soon . Yeah . 
+ Yeah we we have to maybe if we have to redesign it on this
+ Okay it's your turn now .
+ So you can just make one big L_C_D_ screen .
+ Shall we try ?
+ With some casing around it , yeah .
+ Black .
+ Okay uh we're still gonna go for the fancy colours ? But are we gonna stick with the green or are we gonna do blue ?
+ Yeah uh
+ Yeah .
+ Yeah .
+ Yeah we we can just uh use this one . And then uh over-paint it with uh uh the green uh he only needs one button . Yeah . Or we have to delete this one or
+ The the button has a special colour , the frame has a special colour .
+ Yeah .
+ One scroll button and
+ It's plastic . And single curved .
+ Yeah .
+ Oh and you might want to add a uh infrared LED .
+ Oh oh no .
+ Oh yeah .
+ Otherwise it uh doesn't function uh so well .
+ For what ?
+ Okay .
+ Yeah .
+ So that's
+ Do we have to do other things ?
+ Well I have to um um make an uh report of every decision we made so far . And I try to get chip just before uh I uh receive the Excel sheet . So I
+ Or just redesign ?
+ Alright .
+ Yeah . So you made a start , right ?
+ Yeah I'm I'm somewhere , but maybe you can help me .
+ Should give it some time ?
+ Yeah .
+ Yay .
+ Uh
+ Okay , but how do we make the the scroll uh button ? It's just one yeah .
+ I was here . So
+ Have to take this away also .
+ Alright .
+ Ah
+ And this um
+ Uh that's the infrared uh thing .
+ Oh yeah , of course . Um pen yeah ? Format . Current colour red . Oh Yeah we did our special colour for the Line widths , now that's a ten .
+ The the target group has a weak spot for fruit and vegetables , like primary colours , spongy shape . The playfulness , we decided to use kinetic energy as a power sour
+ Yeah .
+ Yeah .
+ Okay .
+ That's conceptual , yes .
+ That's enough to get started with , so
+ Yeah . Um , uh it's just a scroll Yeah , is it's horizontal or vertical ?
+ Mm .
+ It's gonna be one str scroll .
+ How many pages ?
+ Uh , I just took one for every step and then a conclusion .
+ Alright . Y you have you have done the first two .
+ I think
+ Horizontal's easier too , 'cause you can
+ Yeah .
+ Okay , and and the look and feel is
+ Yeah .
+ Is it more natural than this ?
+ Well I think I have to make a p an issue called finance .
+ Yeah , yeah .
+ So let's say Whoops . 'Kay .
+ Yeah .
+ Yes . It doesn't look like uh
+ Basically .
+ The items we had to drop .
+ Yeah .
+ Uh it it's it's not Yeah .
+ It's not very fashionable anymore . But uh it's okay .
+ It's really ugly .
+ Yeah .
+ Where did we start with price ? Twenty six and a half .
+ Maybe m make it bigger ? Or
+ Mm-hmm .
+ Or not ?
+ Or twenty six ? Something like that .
+ Yeah .
+ That looks little bit more uh
+ Maybe that's a s a special colour for it . So we can make it uh special ?
+ Oh
+ This ?
+ What do you mean ?
+ Like a other colour than this one ?
+ Or or speckles in it ? I dunno . Uh
+ Speckles ?
+ Yeah can we do it uh uh can we do a print ?
+ I'm not sure .
+ I think we have to choose , yeah ?
+ ... .
+ I don't think so , if you see the options . But
+ Uh
+ Okay special colour . We do have special colour .
+ Does it mean uh that
+ Yeah red is already a special colour , I think . So
+ It's not very special , but uh
+ Yeah .
+ Shall we just give it some dots to make it look pretty ?
+ Yeah .
+ Purdy .
+ Just uh put the purple uh purple on it . That's trendy .
+ Yeah . Some some big dots .
+ Purple ?
+ Yeah .
+ Yeah yeah .
+ Oh no my remote has acne .
+ ... .
+ We have the original balance sheet , or Yeah .
+ Yeah .
+ Woah .
+ No . That's why we have that button .
+ Oh yeah .
+ It's so cute .
+ Hmm .
+ Oh what ?
+ Doh .
+ Woah . Just cut .
+ ?
+ Control Z_ .
+ Oh no .
+ Is that that ?
+ Yeah . Yeah .
+ No no . Yeah .
+ How the We did we do that ?
+ Oh it's it's just one computer ? Or
+ Just dual screen .
+ No .
+ But can we delete it , just with delete ? Or
+ We can try .
+ That doesn't respond also to the undo . It looks like it's
+ Crashed . Oh , no .
+ No ,
+ Very nice .
+ Okay .
+ Where do you want some more dots ?
+ Yeah , over here . Hmm ?
+ You can't even draw anymore . Even children can draw .
+ Yeah . Y y you you you push the button or something . Or
+ What's this ?
+ Can you just push pen and then keep on
+ Oh yeah .
+ Oh that's the select button . It's uh
+ Hmm .
+ Okay , it's not the prettiest , I know .
+ No , it looks
+ It's not so random huh ?
+ Lot of options .
+ It's okay .
+ Specially the the R_ .
+ Yeah , the R_ and another R_ . It's called the Real Remote , right ?
+ Yeah okay .
+ Yeah .
+ Maybe maybe it c it can say that . The Real Remote .
+ Yeah just on the the m um the L_C_D_ display .
+ Yeah . Welcome .
+ We can make a l a logo .
+ This is your Real Remote .
+ Yeah . Yeah .
+ Like uh put it like the shape .
+ Yeah .
+ D designed by Okay .
+ Something like that . I mean it's not too uh
+ That's not their logo , is it ?
+ No .
+ Do they have a lo Oh , the here . This i this is the logo .
+ Yeah . It's a
+ Two R_s and a one
+ Yeah . You can just reuse that , because the name is the same . Initials .
+ .
+ You can copy and paste the picture if you want .
+ How Shall we do the logo in black or not ?
+ Mm .
+ Yeah .
+ Yeah .
+ What is that ? Look more Looks more like a campfire .
+ Are you dissing my drawing ? This one ?
+ Yeah .
+ It looks like a ribbon .
+ Yeah .
+ Okay .
+ So who wants to draw ? This is actually quite fun . Do we need to do anything ?
+ I hear you people are typing .
+ Are we uh ready ? Uh Or
+ Type in your report .
+ Oh , okay .
+ I don't see any new messages . So
+ Luckily . Yeah , it's uh Yeah .
+ Hmm ? Luckily , yeah .
+ Is this uh the last assignment ? Or
+ Final
+ It's almost four .
+ What time do we have to deliver the report ? Four o'clock or
+ At four , yeah , ?
+ Or before that ?
+ Okay . And copy this . Just a minute .
+ Just compare uh
+ This is really bizarre .
+ It's
+ It looks like there's a It looks like a butterfly .
+ Um bug . Bug .
+ It's somewhere
+ I d It isn't inside . Yeah , and don't know how it's or eject it .
+ No it's in inside the
+ No it's on the on the beamer I guess .
+ No it Oh .
+ No , but it i It's not a bu a beamer . B It's a normal T_V_ screen , kind of thing .
+ From up there ?
+ No .
+ Hey , you've got it uh read only . So you have to uh
+ Yeah it's somewhere in here .
+ Save copy .
+ Yeah . Strange .
+ This something what's projection from behind , I guess .
+ Yeah .
+ .
+ .
+ It's too uh
+ Oh .
+ Yeah there is some kind of projection I think .
+ Yes .
+ Yeah it it's a beamer , but then with a within a mirror , yeah . So it looks like a big screen , but in fact it isn't .
+ With a with a mirror , huh ? Or something . Yeah .
+ .
+ So are we gonna change anything to this ? I mean is it gonna
+ It is
+ Well it's it's single single curved .
+ Well
+ It's now single curved . So
+ Th this is flat . Yeah .
+ This is gonna be flat . Yeah exactly .
+ It's flat . Oh no .
+ Okay . It doesn't matter . It's it's
+ But it's it's better to have in the front , this kind of shape , because it looks nice .
+ I mean you see more of this than of that .
+ Yeah .
+ Yeah , more like that .
+ Yeah .
+ And this is also gonna be
+ It's not very uh ideal .
+ Nope .
+ Do like this .
+ But sometimes then uh all of a sudden it does work .
+ Yeah .
+ What's this ?
+ That's the detector uh for the
+ Ooh .
+ Okay .
+ Maybe
+ But I don't see a detector over there .
+ Yeah . I don't know .
+ No it's I think you only need two points . Or not .
+ No , you sh
+ I thought it was a kind of thing to put it on , and then draw right lines or something .
+ Maybe that's why it's it's not working , because it's more
+ Slanted yeah . Yeah .
+ Yeah .
+ Yeah . Or just messed it up .
+ Well maybe .
+ Oh . Oh yeah .
+ Yeah .
+ Yeah it it matters for the aim of this thing .
+ Yeah .
+ Yeah but it wasn't good .
+ You've to make it s uh
+ ninety degrees .
+ Yeah it it has to touch the corners , I guess . But th this one wasn't good , because if I was drawing here , I drew a line and then it came over here .
+ Um now you probably have to recalibrate . Oh , five minutes to the end of the meeting . And the recalibration is done using this icon here .
+ You have
+ Oh .
+ Oh we're always long .
+ Yeah , can we t can we get to that i
+ Ooh .
+ Oh it's not working anymore .
+ Yeah yeah , it's it's okay . It's working again .
+ Yeah well I just
+ Oh yeah yeah yeah yeah , it's it's working , it's working .
+ Yeah .
+ Okay . You go ahead .
+ It's better than before .
+ Yeah .
+ Yeah .
+ We're improving uh Yeah .
+ Yeah that's improved uh pretty much .
+ Yeah .
+ Yeah it's only a bit like to that side , but that is that one by the way . 'Cause this one makes the angle either like this . So i if I change this , it will go there , if I change that , will go there .
+ Yeah .
+ Yeah but it's better , it's better
+ No it
+ Mm .
+ No . It's better than it was I guess .
+ Mm-hmm . I will take this away 'cause it looks messy .
+ Silly .
+ Yeah . Works pretty well .
 **********
-Oh what ? 
-Doh . 
-Woah . Just cut . 
-? 
-Control Z_ . 
-Oh no . 
-Is that that ? 
-Yeah . Yeah . 
-No no . Yeah . 
-How the We did we do that ? 
-Oh it's it's just one computer ? Or 
-Just dual screen . 
-No . 
-But can we delete it , just with delete ? Or 
-We can try . 
-That doesn't respond also to the undo . It looks like it's 
-Crashed . Oh , no . 
-No , 
-Very nice . 
-Okay . 
-Where do you want some more dots ? 
-Yeah , over here . Hmm ? 
-You can't even draw anymore . Even children can draw . 
-Yeah . Y y you you you push the button or something . Or 
-What's this ? 
-Can you just push pen and then keep on 
-Oh yeah . 
-Oh that's the select button . It's uh 
-Hmm . 
-This is really bizarre . 
-It's 
-It looks like there's a It looks like a butterfly . 
-Um bug . Bug . 
-It's somewhere 
-I d It isn't inside . Yeah , and don't know how it's or eject it . 
-No it's in inside the 
-No it's on the on the beamer I guess . 
-No it Oh . 
-No , but it i It's not a bu a beamer . B It's a normal T_V_ screen , kind of thing . 
-From up there ? 
-No . 
-Hey , you've got it uh read only . So you have to uh 
-Yeah it's somewhere in here . 
-Save copy . 
-Yeah . Strange . 
-This something what's projection from behind , I guess . 
-Yeah . 
-. 
-. 
-It's too uh 
-Oh . 
-Yeah there is some kind of projection I think . 
-Yes . 
-Yeah it it's a beamer , but then with a within a mirror , yeah . So it looks like a big screen , but in fact it isn't . 
-With a with a mirror , huh ? Or something . Yeah . 
-It's not very uh ideal . 
-Nope . 
-Do like this . 
-But sometimes then uh all of a sudden it does work . 
-Yeah . 
-What's this ? 
-That's the detector uh for the 
-Ooh . 
-Okay . 
-Maybe 
-But I don't see a detector over there . 
-Yeah . I don't know . 
-No it's I think you only need two points . Or not . 
-No , you sh 
-I thought it was a kind of thing to put it on , and then draw right lines or something . 
-Maybe that's why it's it's not working , because it's more 
-Slanted yeah . Yeah . 
-Yeah . 
-Yeah . Or just messed it up . 
-Well maybe . 
-Oh . Oh yeah . 
-Yeah . 
-Yeah it it matters for the aim of this thing . 
-Yeah . 
-Yeah but it wasn't good . 
-You've to make it s uh 
-ninety degrees . 
-Yeah it it has to touch the corners , I guess . But th this one wasn't good , because if I was drawing here , I drew a line and then it came over here . 
-Um now you probably have to recalibrate . Oh , five minutes to the end of the meeting . And the recalibration is done using this icon here . 
-You have 
-Oh . 
-Oh we're always long . 
-Yeah , can we t can we get to that i 
-Ooh . 
-Oh it's not working anymore . 
-Yeah yeah , it's it's okay . It's working again . 
-Yeah well I just 
-Oh yeah yeah yeah yeah , it's it's working , it's working . 
-Five minutes before the meeting's over . And then ? We have to present 
-Yeah . Yeah . Then I have to uh uh write this , and I don't know if you have to present , because I didn't receive any information about that so far . 
-Alright . 
-Maybe we will . 
-Maybe we get a a final mail . 
-So it after the after after these five minutes , you have to 
-Yeah . Yeah , I have still ten minutes to finish the report . 
-What's this anyway ? 
-So cake . 
-Alright . After after that five minutes , you have ten minutes to finish it , or Alright . And we uh 
-It looks like candle wax . 
-Yeah . 
-And you can uh just uh relax and uh have cup of coffee or oh no , they don't have beer here so you can't celebrate . You can just if you ma finish my presentation please . 
-Right . Chill . 
-Huh . 
-Uh over there . 
-Uh Yeah ? 
-The presentation is still open . So if you finish that then you'll see uh 
-Yeah next . 
-Next slide . 
+ Oh what ?
+ Doh .
+ Woah . Just cut .
+ ?
+ Control Z_ .
+ Oh no .
+ Is that that ?
+ Yeah . Yeah .
+ No no . Yeah .
+ How the We did we do that ?
+ Oh it's it's just one computer ? Or
+ Just dual screen .
+ No .
+ But can we delete it , just with delete ? Or
+ We can try .
+ That doesn't respond also to the undo . It looks like it's
+ Crashed . Oh , no .
+ No ,
+ Very nice .
+ Okay .
+ Where do you want some more dots ?
+ Yeah , over here . Hmm ?
+ You can't even draw anymore . Even children can draw .
+ Yeah . Y y you you you push the button or something . Or
+ What's this ?
+ Can you just push pen and then keep on
+ Oh yeah .
+ Oh that's the select button . It's uh
+ Hmm .
+ This is really bizarre .
+ It's
+ It looks like there's a It looks like a butterfly .
+ Um bug . Bug .
+ It's somewhere
+ I d It isn't inside . Yeah , and don't know how it's or eject it .
+ No it's in inside the
+ No it's on the on the beamer I guess .
+ No it Oh .
+ No , but it i It's not a bu a beamer . B It's a normal T_V_ screen , kind of thing .
+ From up there ?
+ No .
+ Hey , you've got it uh read only . So you have to uh
+ Yeah it's somewhere in here .
+ Save copy .
+ Yeah . Strange .
+ This something what's projection from behind , I guess .
+ Yeah .
+ .
+ .
+ It's too uh
+ Oh .
+ Yeah there is some kind of projection I think .
+ Yes .
+ Yeah it it's a beamer , but then with a within a mirror , yeah . So it looks like a big screen , but in fact it isn't .
+ With a with a mirror , huh ? Or something . Yeah .
+ It's not very uh ideal .
+ Nope .
+ Do like this .
+ But sometimes then uh all of a sudden it does work .
+ Yeah .
+ What's this ?
+ That's the detector uh for the
+ Ooh .
+ Okay .
+ Maybe
+ But I don't see a detector over there .
+ Yeah . I don't know .
+ No it's I think you only need two points . Or not .
+ No , you sh
+ I thought it was a kind of thing to put it on , and then draw right lines or something .
+ Maybe that's why it's it's not working , because it's more
+ Slanted yeah . Yeah .
+ Yeah .
+ Yeah . Or just messed it up .
+ Well maybe .
+ Oh . Oh yeah .
+ Yeah .
+ Yeah it it matters for the aim of this thing .
+ Yeah .
+ Yeah but it wasn't good .
+ You've to make it s uh
+ ninety degrees .
+ Yeah it it has to touch the corners , I guess . But th this one wasn't good , because if I was drawing here , I drew a line and then it came over here .
+ Um now you probably have to recalibrate . Oh , five minutes to the end of the meeting . And the recalibration is done using this icon here .
+ You have
+ Oh .
+ Oh we're always long .
+ Yeah , can we t can we get to that i
+ Ooh .
+ Oh it's not working anymore .
+ Yeah yeah , it's it's okay . It's working again .
+ Yeah well I just
+ Oh yeah yeah yeah yeah , it's it's working , it's working .
+ Five minutes before the meeting's over . And then ? We have to present
+ Yeah . Yeah . Then I have to uh uh write this , and I don't know if you have to present , because I didn't receive any information about that so far .
+ Alright .
+ Maybe we will .
+ Maybe we get a a final mail .
+ So it after the after after these five minutes , you have to
+ Yeah . Yeah , I have still ten minutes to finish the report .
+ What's this anyway ?
+ So cake .
+ Alright . After after that five minutes , you have ten minutes to finish it , or Alright . And we uh
+ It looks like candle wax .
+ Yeah .
+ And you can uh just uh relax and uh have cup of coffee or oh no , they don't have beer here so you can't celebrate . You can just if you ma finish my presentation please .
+ Right . Chill .
+ Huh .
+ Uh over there .
+ Uh Yeah ?
+ The presentation is still open . So if you finish that then you'll see uh
+ Yeah next .
+ Next slide .
 **********
-Oh yeah , we have to do the project uh evaluation . Just uh do that quickly . Uh 
-Yeah ? How do you do it ? 
-Uh well basically what that says , we discuss it and um 
-Alright . 
-So how were did the project process uh go ? Did you , were you all pleased with the process as it was ? Or are there uh 
-Uh th uh do you mean the the interaction between us ? Or 
-Yeah the interaction and the steps we followed , and and so forth . 
-Yeah well at first I was really stressed . Because it went a bit fast . But then as I knew the tempo that I had to be on , the second time I think I did a bit better . And the third time yeah , I mean 
-Yeah . 
-Yeah . 
-Yeah . 
-And we move more to to working together as team , because at first you you make your individual contribution , and then come here , and you have no idea what the others have to make . And then finally you have some idea , okay this is gonna w this is what we gonna make together and okay I will arrange this and you will arrange that , and you have a k a kind of idea what you can expect on the next half hour when you have to work on your own . So 
-No . 
-Mm-hmm . 
-. 
-No . 
-Yeah , yeah yeah yeah . 
-Mm-hmm . 
-The process , I mean , the interaction between us became better and better I guess . 
-Yeah we 
-Yeah . 
-Yeah . Especially after the first meeting . 
-Mm-hmm . 
-Mm-hmm . 
-Yeah , especially if f f if you see uh you se you saw the largest difference from the first to the second meeting I guess . 
-And 
-Yeah . 
-Yeah . Definitely . 
-Okay and was that due to my leadership ? 
-Yeah yeah yeah . 
-Well you did become more assertive the the second time round , so that Yeah . You were more in charge kind of thing . 
-Yeah ? 
-Yeah . 
-Yeah . 
-That okay ? 
-Okay . Um was there uh enough room for creativity ? 
-I guess so . 
-Yeah . 
-Yeah but only the the financial parts uh Yeah . 
-I mean 
-Li Limiteded afterwards , but 
-If if you don't take that into account , there's plenty of room for creativ creativity . Also not only the drawing and the the making of the thing itself , but also in explaining it to the other people , by means of uh 
-We were pretty democratic . 
-the the board and uh PowerPoint and Word and stuff like that . 
-So and the uh about the board digital pen ? Uh was that helpful or 
-Yeah . 
-Mm uh I think in in essence 
-Ooh . 
-the digital pen is better than the SMARTboard . Because it it it just works better . I mean uh uh I've made yeah , uh I've made several notes just to test it , and and just put the pen in into it , and then it came onto my screen and it looked perfectly . So it it's better a better device than uh 
-Yeah it works . 
-Yeah . 
-Mm-hmm . 
-Maybe Yeah . 
-than the screen . But the screen is useful , in essence , but it doesn't work that well . 
-It's uh it's The the pen is more intuitive , 'cause we're all used to writing with pen . And uh as I said , uh I uh have no idea how PowerPoint works , so will take me half a day to be able to make a normal PowerPoint presentation . But once I get to know the program probably , I mean , it looks better , you know . Or uh something like that . You can 
-Use the pen . 
-Yeah . 
-give it a kind of a home style , like we have i 
-the the logo and everything . And I don't know . 
-Yeah yeah . 
-Yep . 
-Blink . Oh . 
-Warning . Finish meeting now . 
-Finish meeting . 
-Okay , are are there any new ideas about this ? All I think 
-Well , it It's use especially useful , I guess , to to evaluate designs and graph graphical stuff . 
-I didn't really receive , yeah . 
-Uh uh w uh S sorry uh 
-And and 
-the screen and stuff like that . 
-Mm-hmm . 
-I think the PowerPoint is is too limited . You can't uh draw easy in in PowerPoint . It has to be uh yeah . The drawing board has to be integrated into PowerPoint , so that you can just easily 
-Yeah . 
-Yeah the the the problem with PowerPoint for me is that you have to i put in the pre-made chunks c as well . You know , you can draw something on the sketch-board and then take it there , or whatever . 
-Yeah . 
-Yeah . 
-Yeah . 
-Yeah . But it it's useful to to show something to to an a small audience , and then to 
-Yeah just for text , for text it's uh it's okay . But 
-Yeah . These these kind of screens this size are useful to discuss things . So 
-'Kay . 
-Okay . 
-Oh . 
-Okay . 
+ Oh yeah , we have to do the project uh evaluation . Just uh do that quickly . Uh
+ Yeah ? How do you do it ?
+ Uh well basically what that says , we discuss it and um
+ Alright .
+ So how were did the project process uh go ? Did you , were you all pleased with the process as it was ? Or are there uh
+ Uh th uh do you mean the the interaction between us ? Or
+ Yeah the interaction and the steps we followed , and and so forth .
+ Yeah well at first I was really stressed . Because it went a bit fast . But then as I knew the tempo that I had to be on , the second time I think I did a bit better . And the third time yeah , I mean
+ Yeah .
+ Yeah .
+ Yeah .
+ And we move more to to working together as team , because at first you you make your individual contribution , and then come here , and you have no idea what the others have to make . And then finally you have some idea , okay this is gonna w this is what we gonna make together and okay I will arrange this and you will arrange that , and you have a k a kind of idea what you can expect on the next half hour when you have to work on your own . So
+ No .
+ Mm-hmm .
+ .
+ No .
+ Yeah , yeah yeah yeah .
+ Mm-hmm .
+ The process , I mean , the interaction between us became better and better I guess .
+ Yeah we
+ Yeah .
+ Yeah . Especially after the first meeting .
+ Mm-hmm .
+ Mm-hmm .
+ Yeah , especially if f f if you see uh you se you saw the largest difference from the first to the second meeting I guess .
+ And
+ Yeah .
+ Yeah . Definitely .
+ Okay and was that due to my leadership ?
+ Yeah yeah yeah .
+ Well you did become more assertive the the second time round , so that Yeah . You were more in charge kind of thing .
+ Yeah ?
+ Yeah .
+ Yeah .
+ That okay ?
+ Okay . Um was there uh enough room for creativity ?
+ I guess so .
+ Yeah .
+ Yeah but only the the financial parts uh Yeah .
+ I mean
+ Li Limiteded afterwards , but
+ If if you don't take that into account , there's plenty of room for creativ creativity . Also not only the drawing and the the making of the thing itself , but also in explaining it to the other people , by means of uh
+ I
+ We were pretty democratic .
+ the the board and uh PowerPoint and Word and stuff like that .
+ So and the uh about the board digital pen ? Uh was that helpful or
+ Yeah .
+ Mm uh I think in in essence
+ Ooh .
+ the digital pen is better than the SMARTboard . Because it it it just works better . I mean uh uh I've made yeah , uh I've made several notes just to test it , and and just put the pen in into it , and then it came onto my screen and it looked perfectly . So it it's better a better device than uh
+ Yeah it works .
+ Yeah .
+ Mm-hmm .
+ Maybe Yeah .
+ than the screen . But the screen is useful , in essence , but it doesn't work that well .
+ It's uh it's The the pen is more intuitive , 'cause we're all used to writing with pen . And uh as I said , uh I uh have no idea how PowerPoint works , so will take me half a day to be able to make a normal PowerPoint presentation . But once I get to know the program probably , I mean , it looks better , you know . Or uh something like that . You can
+ Use the pen .
+ Yeah .
+ give it a kind of a home style , like we have i
+ the the logo and everything . And I don't know .
+ Yeah yeah .
+ Yep .
+ Blink . Oh .
+ Warning . Finish meeting now .
+ Finish meeting .
+ Okay , are are there any new ideas about this ? All I think
+ Well , it It's use especially useful , I guess , to to evaluate designs and graph graphical stuff .
+ I didn't really receive , yeah .
+ Uh uh w uh S sorry uh
+ And and
+ the screen and stuff like that .
+ Mm-hmm .
+ I think the PowerPoint is is too limited . You can't uh draw easy in in PowerPoint . It has to be uh yeah . The drawing board has to be integrated into PowerPoint , so that you can just easily
+ Yeah .
+ Yeah the the the problem with PowerPoint for me is that you have to i put in the pre-made chunks c as well . You know , you can draw something on the sketch-board and then take it there , or whatever .
+ Yeah .
+ Yeah .
+ Yeah .
+ Yeah . But it it's useful to to show something to to an a small audience , and then to
+ Yeah just for text , for text it's uh it's okay . But
+ Yeah . These these kind of screens this size are useful to discuss things . So
 **********
-Oh . Uh we should uh enter our questionnaire . 
-Yes . Check your email . 
-You also . 
-'Kay . 
-Ah . 
-Woah . 
-Alright . 
-Right . 
-Okay . Uh okay . 
-Okay . 
-Alright . 
-Yes boss . 
-Well , s see you in a second huh ? . 
-That's the management . 
-Well see you soon . Yeah . 
-Oh . 
-Okay . 
-Hope so . 
-Um 
-Yeah we have to pull it this way , huh ? Wait . 
+ Oh . Uh we should uh enter our questionnaire .
+ Yes . Check your email .
+ You also .
+ 'Kay .
+ Ah .
+ Woah .
+ Alright .
+ Right .
+ Okay . Uh okay .
+ Okay .
+ Alright .
+ Yes boss .
+ Well , s see you in a second huh ? .
+ That's the management .
+ Well see you soon . Yeah .
+ Oh .
+ Okay .
+ Hope so .
+ Um
+ Yeah we have to pull it this way , huh ? Wait .
 **********
