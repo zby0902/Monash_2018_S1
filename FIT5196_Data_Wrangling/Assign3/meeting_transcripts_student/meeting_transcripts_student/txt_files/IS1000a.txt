@@ -1,0 +1,627 @@
+ Okay .
+ Or you get it . Okay .
+ No I don't think so it has to be like that yeah and you have to adjust the length .
+ Okay , and then .
+ So we uh we will wait for Anna , a few minutes .
+ Yeah , s yeah , um .
+ Mm . Yours is well
+ I think you can put anywhere you want , actually .
+ Yeah but the the mic should not
+ I thin
+ It's not a directional mic , anyway .
+ I think it should work like this . So I will try to get my presentation running .
+ Uh .
+ Yeah .
+ Yeah .
+ Mm .
+ Mm . Can't help you with that .
+ Last .
+ It's no matter .
+ Okay , it's y yeah .
+ No problem .
+ Ah yes .
+ Right .
+ Okay .
+ Then press uh al
+ Okay .
+ This . You know ?
+ I don't know . Just try .
+ 'Kay .
+ On this normal
+ Oh oh .
+ Alt F_ five .
+ Good . Doesn't appear on the screen here .
+ Right well
+ Oh .
+ Wow . Amazing . It's working .
+ Okay . Thank you . Uh .
+ Hold that .
+ Yes and you can put can clip it uh on your
+ Okay .
+ Somewhere .
+ Okay . Mm .
+ So , good morning , everyone .
+ Um
+ Welcome at uh at the kick off meeting of our uh latest project . I hope you all have been uh updated about it .
+ Yeah .
+ Good .
+ So . Yes .
+**********
+ So w we will try to structure this uh meeting with an a with an agenda uh as presented here . Um after the opening we will tr get acquainted to each other . See what our roles are in this project .
+ So , um
+ We have been provided with uh some uh w technical tools to uh
+ to communicate and to well , learn from each other's plans uh as I can say um so w
+ we will also try to uh
+ to get acquainted to this tools so they are also new to me I don't know whether you worked with them before . Um then we will come to the uh to the to the actual project plan . You all know I hope how it's about uh the uh new r remote control we are going going to design .
+ Mm-hmm .
+ Total .
+ Uh then we will uh discuss uh , well , how it should be and uh
+ wh what uh what our new product should look lite like . And uh well then uh after some twenty five minutes I hope uh we can end this meeting .
+**********
+ So . Um basically this is about a uh a new c remote control . Um
+ We When you design a new product you of uh you of course want it to be original . Be uh we want to be distinguished , mm ? People uh want to uh when they look at the shelf want to think , well that's the product I I need . So it needs to be trendy . I mean trendy is what people want , so then I w they will buy our product .
+ But then , uh , it also should work uh user friendly and uh otherwise people uh uh well it will not be uh
+ be rated very well in consumer uh articles and like that .
+ So , the general outline of uh new project will be we first uh go through a functional design phase . Um
+ You all get uh um certain task uh in this uh in this phase and uh
+ then we will meet again and uh discuss this functional design . And the same holds for the uh
+ ph two phases uh after this , the conceptual design
+ and after that a a more detailed design in which the the final project should get its definite shape .
+**********
+ Alright , but first we will do some uh tool training .
+ In all in front of you uh you see uh the uh
+ notebooks and w uh n note blocks and we have here a
+ a a a white-board .
+ Whitebo
+ Mm-hmm .
+ And um well it should work uh I've read it from my uh from some colleague that it should work with some kind of toolbar . I didn't find out yet how it work , but maybe one of you did , so
+ Um
+ Under documents in the shared folder . Okay .
+ Yes . Do Do we have to say something about that ? I I I'm not fully updated about this shared folder uh .
+ Yeah , I guess we'll have a shared folder uh with documents that we can share . And uh , yeah .
+ Yes well we will then find out ho how it works .
+ Yes .
+ Um .
+ Well , this seems to me , yes , some computer program but I didn't find it yet .
+ So , we'll come to that later .
+ So , uh now we will try out the white-board we have here .
+ So ,
+ I would suggest uh
+ Each of us is going .
+ Well , yes , um we uh we should try to t to draw on it and then well it should be smart some way . I I'm not really sure how this works , but
+ Okay , shall I start ?
+ Mm . Yeah .
+ Yeah , you can start it you know .
+ Yes , a good idea Mael .
+ I think for us it's just like a normal whiteboard , but they'll be recording what we write down .
+ So , i
+ No they will record through that . There's a sensor over there which is going to record the strokes that you make .
+ Mm . Mm .
+ But for us it's just like a normal whiteboard .
+ Okay .
+ Yeah .
+ 'Kay .
+ But it's
+ Actually , I think I cannot go with uh
+ You you
+ D doesn't it work ?
+ Maybe someo Maybe maybe Anna , maybe you can start . Then he can maybe find out to get his cord right .
+ Mm-hmm .
+ Yeah .
+ I have to draw .
+ So um
+ L Why don't you draw uh your favourite animal on on th on the white-board .
+ M my my favourite animal . Sorry this is all tangled up here .
+ Oh , I see uh
+ That's better .
+ Yeah .
+ Yeah .
+ Yes . Mm .
+ So draw it . We will try to guess what it is .
+ Mm-hmm . I'm a very bad drawer .
+ Weird .
+ Um . You're not gonna be able to guess from my drawing . I'm a bad drawer . Okay .
+ Mm .
+ They're ears , by the way . No . Um close though .
+ 's a cat .
+ Okay so like a pet animal .
+ Okay .
+ Like a cat .
+ Yeah .
+ It's like a cat , so I guess it's a cat .
+ No , not a cat though .
+ What is this now ?
+ Ah you forget about it .
+ You're on the knife .
+ Yeah , uh I think it's fine . I just don't want to carry it off .
+ Man , this wires , eh ? We need a wireless microphone .
+ You know ? Pro specially we should next project we should take l like that .
+ So , that's the cat . Oh .
+ Okay . So . It's not a cat , it's a dog . Yes .
+ So .
+ Mael .
+ It's a dog .
+ So but that's also kind of cat , isn't it ?
+ Oh the dog doesn't have a tail ?
+ It's got a tail then .
+ B bo both predators .
+ Yeah , sure , yeah . I thought so . The dogs have a tail .
+ Yeah yeah .
+ So , thank you . Uh d did you uh work out cord ?
+ So do cats . And you guessed cats without a tail .
+ Yeah .
+ Yeah , I think I will go without without it , right ?
+ Okay .
+ Okay .
+ It'll still not extend , right ? It's not up to that .
+ Okay , there you go . So what favourite characteristics . Uh . Dogs are always friendly and loyal and fun .
+ A horse ?
+ It's a horse .
+ This is why you're the designer . And I'm marketing .
+ Yes . Yes , yes this is Yes definitely a horse . Yes . Oh very good . So
+ Ah
+ I suppose it
+ Ah I think you can put that .
+ Mm-hmm . That's it .
+ A blue and black zebra .
+ Yes .
+ Can you can meet them in Africa , I think . Yes . Very good . So
+ The very rare blue zebras . Yes .
+ I'll tell to get it off my
+ Ma Matthew ?
+ Uh ?
+ Mm-hmm .
+ So
+ You got a lot of room here . You can probably reach .
+ Maybe
+ Oh y it's not for that .
+ No ?
+ No .
+ I hope you have some space in your uh the horse of uh Mael .
+ Okay . Yeah .
+ So what should I draw ? Mm .
+ He has already to do cat .
+ I took a dog .
+ Um .
+ A mouse ?
+ This looks likes a cat who has been driven over .
+ Okay .
+ Yeah . And we should sum up its favourite charas characteristics , right ?
+ Mm-hmm .
+ Yes , the moustache .
+ So
+ That's that's definitely a cat .
+ Mm-hmm .
+ Uh yeah . And i Th They like to sleep , that's why you said you they are like this .
+ It's quite , you know relaxed situation . Yes .
+ Yeah .
+ Mm-hmm .
+ Yes , okay .
+ She has the small legs .
+ Th thank you , Matthew .
+ Yeah .
+ Thank you , Matthew . Perfect .
+ It's a very big rat . Or a very small cat .
+ Oh a rat , okay .
+ Yes , this is certain uh
+ some contribution to our project . So . Let's see . Which animal has not been drawn yet .
+ And you ,
+ Mm 'kay .
+ Your turn .
+ So you've all drawn land animals , so why not draw an animal from the water .
+ A bird . Okay , in the water .
+ Ah I don't know what that is . It's a bit
+ Mm .
+ Mm .
+ It's a bit hard to guess .
+ Yeah . Put it colours . Maybe it would help us .
+ So
+ Yeah .
+ Yes .
+ The cat is going to eat the fish or the rat ?
+ With different pen widths .
+ Mm-hmm
+ So
+ Oh , it's a shark now .
+ Ah it's a shark , yeah .
+ Oh , yes , why not ? Good idea .
+ Ah it's a baby shark , it looks to me , you know it's going to eat the cat rather than the cat eating the fish , no ?
+ Mm .
+ Oh .
+ Now it's a swordfish .
+ Why not . A swordfish .
+ You have some in in Australia , right ? Yeah . I dunno .
+ Swordfish . Um , maybe .
+ I've never seen one , no .
+ Oh well .
+ Yeah .
+ I hope it still works . So
+ Perfect . So I dunno if we need to spend time on that , actually But uh
+ You should go for the next one it seems to me .
+ W Well , this uh this tool seemed to work . Let's continue to uh to the real stuff .
+**********
+ L Why don't you draw uh your favourite animal on on th on the white-board .
+ M my my favourite animal . Sorry this is all tangled up here .
+ Oh , I see uh
+ That's better .
+ Yeah .
+ Yeah .
+ Yes . Mm .
+ So draw it . We will try to guess what it is .
+ Mm-hmm . I'm a very bad drawer .
+ Weird .
+ Um . You're not gonna be able to guess from my drawing . I'm a bad drawer . Okay .
+ Mm .
+ They're ears , by the way . No . Um close though .
+ 's a cat .
+ Okay so like a pet animal .
+ Okay .
+ Like a cat .
+ Yeah .
+ It's like a cat , so I guess it's a cat .
+ No , not a cat though .
+ What is this now ?
+ Ah you forget about it .
+ You're on the knife .
+ Yeah , uh I think it's fine . I just don't want to carry it off .
+ Man , this wires , eh ? We need a wireless microphone .
+ You know ? Pro specially we should next project we should take l like that .
+ So , that's the cat . Oh .
+ Okay . So . It's not a cat , it's a dog . Yes .
+ So .
+ Mael .
+ It's a dog .
+ So but that's also kind of cat , isn't it ?
+ Oh the dog doesn't have a tail ?
+ It's got a tail then .
+ B bo both predators .
+ Yeah , sure , yeah . I thought so . The dogs have a tail .
+ Yeah yeah .
+ So , thank you . Uh d did you uh work out cord ?
+ So do cats . And you guessed cats without a tail .
+ Yeah .
+ Yeah , I think I will go without without it , right ?
+ Okay .
+ Okay .
+ It'll still not extend , right ? It's not up to that .
+ Okay , there you go . So what favourite characteristics . Uh . Dogs are always friendly and loyal and fun .
+ A horse ?
+ It's a horse .
+ This is why you're the designer . And I'm marketing .
+ Yes . Yes , yes this is Yes definitely a horse . Yes . Oh very good . So
+ Ah
+ I suppose it
+ Ah I think you can put that .
+ Mm-hmm . That's it .
+ A blue and black zebra .
+ Yes .
+ Can you can meet them in Africa , I think . Yes . Very good . So
+ The very rare blue zebras . Yes .
+ I'll tell to get it off my
+ Ma Matthew ?
+ Uh ?
+ Mm-hmm .
+ So
+ You got a lot of room here . You can probably reach .
+ Maybe
+ Oh y it's not for that .
+ No ?
+ No .
+ I hope you have some space in your uh the horse of uh Mael .
+ Okay . Yeah .
+ So what should I draw ? Mm .
+ He has already to do cat .
+ I took a dog .
+ Um .
+ A mouse ?
+ This looks likes a cat who has been driven over .
+ Okay .
+ Yeah . And we should sum up its favourite charas characteristics , right ?
+ Mm-hmm .
+ Yes , the moustache .
+ So
+ That's that's definitely a cat .
+ Mm-hmm .
+ Uh yeah . And i Th They like to sleep , that's why you said you they are like this .
+ It's quite , you know relaxed situation . Yes .
+ Yeah .
+ Mm-hmm .
+ Yes , okay .
+ She has the small legs .
+ Th thank you , Matthew .
+ Yeah .
+ Thank you , Matthew . Perfect .
+ It's a very big rat . Or a very small cat .
+ Oh a rat , okay .
+ Yes , this is certain uh
+ some contribution to our project . So . Let's see . Which animal has not been drawn yet .
+ And you ,
+ Mm 'kay .
+ Your turn .
+ So you've all drawn land animals , so why not draw an animal from the water .
+ A bird . Okay , in the water .
+ Ah I don't know what that is . It's a bit
+ Mm .
+ Mm .
+ It's a bit hard to guess .
+ Yeah . Put it colours . Maybe it would help us .
+ So
+ Yeah .
+ Yes .
+ The cat is going to eat the fish or the rat ?
+ With different pen widths .
+ Mm-hmm
+ So
+ Oh , it's a shark now .
+ Ah it's a shark , yeah .
+ Oh , yes , why not ? Good idea .
+ Ah it's a baby shark , it looks to me , you know it's going to eat the cat rather than the cat eating the fish , no ?
+ Mm .
+ Oh .
+ Now it's a swordfish .
+ Why not . A swordfish .
+ You have some in in Australia , right ? Yeah . I dunno .
+ Swordfish . Um , maybe .
+ I've never seen one , no .
+ Oh well .
+ Yeah .
+ I hope it still works . So
+ Perfect . So I dunno if we need to spend time on that , actually But uh
+ You should go for the next one it seems to me .
+ W Well , this uh this tool seemed to work . Let's continue to uh to the real stuff .
+**********
+ Yeah , exactly , yeah .
+ Mm-hmm .
+ Wow .
+ Um our project uh finance uh
+ thing . Uh when we are and when w you are uh going to design w uh we must keep in mind that the selling price of the product uh will be about twenty five Euros , so when
+ designing a project uh I also look at you uh Mael , keep in mind uh uh uh People uh
+ Twenty four .
+ Yeah .
+ want to get the feeling this is a twenty five Euro project uh pr um
+ Per remote control , yeah ? Per project .
+ product .
+ Mm .
+ Yes . Okay . Um more interesting for our company of course , p uh profit aim , about fifty million Euro . So we have to sell uh quite a lot of this uh um things . Uh we will try to uh
+ to get at a international market uh so um it will be I think mainly Europe and uh Northern America ,
+ Ah yeah , the sale man , four million .
+ maybe some uh Asian countries .
+ Um also important for you all is um the the product uh production cost must be maximal uh twelve uh twelve Euro and fifty cents .
+ So it's half of the selling price , if I am good in mathematics .
+ Yes , of course . Uh um I mean we still have to uh to make a profit , huh ?
+ Of course .
+ They have to sell at least four million to make a profit
+ Mm .
+ You all have to be paid .
+ Mm .
+ Ah we have to make we have to sell at least four million to make our own profit . Fifty mill
+ Excuse me ?
+ Oh you're g very good in mathematics . Four million .
+ Yes .
+ Yes , indeed .
+ So uh well I think w when we are working on the international market , uh in principle it has enough customers uh so when we have a good product we uh we could uh meet this this aim , I think .
+ Yeah .
+ So , that about finance .
+**********
+ And uh now just let have some discussion about what is a good remote control and uh well keep in mind this this first point , it has to be original , it has to be trendy , it has to be user friendly .
+ Um , maybe someone can mention some additional uh prerequisites for a good remote control .
+ Mm-hmm .
+ Of course it should have a on off button .
+ Mm-hmm .
+ Yes , well i it should have the the the the expected functionality uh of a remote control .
+ Mm .
+ Yeah .
+ Yeah , s and it depends what application you are using it for . You might need uh
+ Mm .
+ We wer we were thinking television . Uh .
+ Mm .
+ We are targ targeting the television set . So , you need to record the channels . You need to browse the browse the channels in upward downward way ,
+ Mm .
+ Yeah .
+ Mm-hmm .
+ Yes , yes . Th th that's very handy I I always miss it and on some remote controls that you can go channel up or down ins instead of retyping the number , especially when you have a lot of channels .
+ Mm .
+ Uh
+ And
+ Mm .
+ Mm .
+ Uh , and
+ And uh just before starting the detailed discussion , maybe we You are the marketing guy ? Or th So you are the marketing . And you are in the u use user interface uh design . So just yeah I wanted to to be sure . And I I'm the the industrial designer okay . Because I I don't know you very well , actually , but yeah . Okay . Mael . Happy to meet you . Okay . It's very uh
+ I'm marketing .
+ Marketing .
+ Yep .
+ Yeah .
+ Yes .
+ Yeah .
+ Sure .
+ Mm-hmm .
+ Yes .
+ Oh .
+ I'm Matthew . You know . Matth s uh Anna . And um uh Matthew , yeah . I thi think you know me , yeah ? right yeah .
+ Anna .
+ A and I'm Nanne .
+ So
+ Uh so yeah uh Just uh on your web page but uh yeah not uh not face to face .
+ Yes .
+ So . Um
+ S
+ So mm
+ So .
+ S s
+ Mm .
+ So I
+ Are there some other very important things to to do well ,
+ So
+ to specify in this first phase of of the project . So the browse function , as you m mentioned .
+ Mm . Yeah . Oth yeah .
+ And uh ,
+ you'd need the usual ones , like the changing the volume , changing the the channel and then you uh Today we have uh um teletext and all those things . Tomorrow you might have a some more functions which might come through that , so
+ Yes . Yeah .
+ Yes .
+ Mm .
+ Like what ? Like internet on the on T_V_ ?
+ Yeah I_P_O_ or . Now we are looking for
+ Mm .
+ television things or I_P_ . For example personal video recorder and all those stuffs are coming up .
+ Yeah .
+ Mm .
+ But we can't really design for something that hasn't been invented yet .
+ Yeah .
+ Ah it's it's it's it's coming up , actually . The personal video recorder and all those things it is coming up .
+ Mm , well uh I I think
+ Actually , yeah w
+ Uh w y you two should should , I think , think this over uh w espec what , what functionality .
+ Let's Let's take
+ Of course , and first before um designing the func well thinking about the functionalities , we need to know what are the user requirements . Um then if they need internet , then we would be able to to p to propose something with uh uh T_V_ over I_P_ . But before
+ Mm . Yeah .
+ Mm-hmm .
+ Yeah .
+ Mm .
+ Yeah .
+ But
+ Ninety percent of the time , ninety nine percent of the time , people will be using the main functions , the volume , the different channels , so we can have all the fancy things as well but the main controls need to be very obvious and very easy to use .
+ Mm mm mm . Keep k keep in mind i it's a it's a twenty five Euro unit , so uh uh the the very fancy stuff uh
+ w we can leave that out , I think . So twenty five Euro you expect a quite , well normal but good functioning user friendly remote control .
+ Mm .
+ Mm .
+ Oh in that case you can you always hook up with uh someone who is providing that and you know , you you sell their product as well as your product with them , you know .
+ Mm .
+ Yeah , but w w we want to design a new one . Mm .
+ So try and get T_V_ manufacturers to
+ Yeah . No , it's okay , yeah I understand . So we need some numbering buttons , some teletext things and then um
+ Yeah .
+ The Yeah , the main is browsing . Yeah .
+ Yes , but but but ab about the spec the buttons , the buttons uh that will be on it . I I think we can discuss that in the in the next meeting .
+ Yeah .
+ Yeah .
+ Uh I would like to get this wrapped up and go to an end of this meeting .
+ Okay .
+ So
+ Okay , we are alread mm . Mm .
+ Okay .
+ So you know now the basic the basic things . And
+ Yeah .
+ Mm-hmm .
+ L
+**********
+ And uh now just let have some discussion about what is a good remote control and uh well keep in mind this this first point , it has to be original , it has to be trendy , it has to be user friendly .
+ Um , maybe someone can mention some additional uh prerequisites for a good remote control .
+ Mm-hmm .
+ Of course it should have a on off button .
+ Mm-hmm .
+ Yes , well i it should have the the the the expected functionality uh of a remote control .
+ Mm .
+ Yeah .
+ Yeah , s and it depends what application you are using it for . You might need uh
+ Mm .
+ We wer we were thinking television . Uh .
+ Mm .
+ We are targ targeting the television set . So , you need to record the channels . You need to browse the browse the channels in upward downward way ,
+ Mm .
+ Yeah .
+ Mm-hmm .
+ Yes , yes . Th th that's very handy I I always miss it and on some remote controls that you can go channel up or down ins instead of retyping the number , especially when you have a lot of channels .
+ Mm .
+ Uh
+ And
+ Mm .
+ Mm .
+ Uh , and
+ And uh just before starting the detailed discussion , maybe we You are the marketing guy ? Or th So you are the marketing . And you are in the u use user interface uh design . So just yeah I wanted to to be sure . And I I'm the the industrial designer okay . Because I I don't know you very well , actually , but yeah . Okay . Mael . Happy to meet you . Okay . It's very uh
+ I'm marketing .
+ Marketing .
+ Yep .
+ Yeah .
+ Yes .
+ Yeah .
+ Sure .
+ Mm-hmm .
+ Yes .
+ Oh .
+ I'm Matthew . You know . Matth s uh Anna . And um uh Matthew , yeah . I thi think you know me , yeah ? right yeah .
+ Anna .
+ A and I'm Nanne .
+ So
+ Uh so yeah uh Just uh on your web page but uh yeah not uh not face to face .
+ Yes .
+ So . Um
+ S
+ So mm
+ So .
+ S s
+ Mm .
+ So I
+ Are there some other very important things to to do well ,
+ So
+ to specify in this first phase of of the project . So the browse function , as you m mentioned .
+ Mm . Yeah . Oth yeah .
+ And uh ,
+ you'd need the usual ones , like the changing the volume , changing the the channel and then you uh Today we have uh um teletext and all those things . Tomorrow you might have a some more functions which might come through that , so
+ Yes . Yeah .
+ Yes .
+ Mm .
+ Like what ? Like internet on the on T_V_ ?
+ Yeah I_P_O_ or . Now we are looking for
+ Mm .
+ television things or I_P_ . For example personal video recorder and all those stuffs are coming up .
+ Yeah .
+ Mm .
+ But we can't really design for something that hasn't been invented yet .
+ Yeah .
+ Ah it's it's it's it's coming up , actually . The personal video recorder and all those things it is coming up .
+ Mm , well uh I I think
+ Actually , yeah w
+ Uh w y you two should should , I think , think this over uh w espec what , what functionality .
+ Let's Let's take
+ Of course , and first before um designing the func well thinking about the functionalities , we need to know what are the user requirements . Um then if they need internet , then we would be able to to p to propose something with uh uh T_V_ over I_P_ . But before
+ Mm . Yeah .
+ Mm-hmm .
+ Yeah .
+ Mm .
+ Yeah .
+ But
+ Ninety percent of the time , ninety nine percent of the time , people will be using the main functions , the volume , the different channels , so we can have all the fancy things as well but the main controls need to be very obvious and very easy to use .
+ Mm mm mm . Keep k keep in mind i it's a it's a twenty five Euro unit , so uh uh the the very fancy stuff uh
+ w we can leave that out , I think . So twenty five Euro you expect a quite , well normal but good functioning user friendly remote control .
+ Mm .
+ Mm .
+ Oh in that case you can you always hook up with uh someone who is providing that and you know , you you sell their product as well as your product with them , you know .
+ Mm .
+ Yeah , but w w we want to design a new one . Mm .
+ So try and get T_V_ manufacturers to
+ Yeah . No , it's okay , yeah I understand . So we need some numbering buttons , some teletext things and then um
+ Yeah .
+ The Yeah , the main is browsing . Yeah .
+ Yes , but but but ab about the spec the buttons , the buttons uh that will be on it . I I think we can discuss that in the in the next meeting .
+ Yeah .
+ Yeah .
+ Uh I would like to get this wrapped up and go to an end of this meeting .
+ Okay .
+ So
+ Okay , we are alread mm . Mm .
+ Okay .
+ So you know now the basic the basic things . And
+ Yeah .
+ Mm-hmm .
+ L
+**********
+ well just just for the next meeting , um
+ well , uh , you wor yes , work on a design , keep it general , I mean so w we will be still fle flexible with maybe adding some functions . So
+ Mm-hmm .
+ Um
+ you will be working on on
+ technical function design , so
+ Yeah , sure .
+ And uh you and you and uh uh uh well , think about requirements , eh ? Does it need internet , or or do do we stay at
+ Mm-hmm .
+ Stam .
+ basic basic television uh interface .
+ Yeah .
+ So , uh
+ I think we should now all go work uh uh at this and uh you will be informed via email and other kind of communication .
+ Mm-hmm .
+ Yeah .
+ Okay .
+ So next meeting will be in uh in thirty minutes uh . K keep it in mind .
+ Perfect .
+**********

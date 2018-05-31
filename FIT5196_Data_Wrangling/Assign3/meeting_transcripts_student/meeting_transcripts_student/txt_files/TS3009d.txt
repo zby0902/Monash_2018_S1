@@ -1,0 +1,975 @@
+ Uh fourth meeting .
+ We have to do what ?
+ W what ? Alri alright . We'll see .
+ Some extra deciding .
+ Well
+ Oh .
+ I'll show you the notes again . Very interesting . Well you'll you two will uh present us your prototype .
+ Yeah .
+ Then um I guess that's your bit ? I I didn't s see anything about it , so I already uh thought you uh you were to do that . So the you're uh . I'll show you how we're going to do with financing this uh design .
+ Yeah .
+ Mm .
+ Yeah , that's important too . Yeah .
+ Bit late .
+ And then we'll evaluate , after after we have redesigned it . Because uh well we'll see about the costs . Um we'll uh evaluate our p our uh production
+ and then uh we can close .
+ Alright .
+ Well the finance uh we'll do later , so um firstly uh I'll show you the notes . I don't think it's very interesting .
+ I think it is .
+ Oh nei . Uh no .
+ Alright .
+ This is copy paste . So
+ From me of course , yeah . Well from us all , yeah , from all of us . Yeah . It's a nice chorus , yeah .
+ Of course . You had some very strange layout . Well um
+ We ge we went through the agenda , and well we had some uh some presentations from you three . And uh I summarised what you said to us . So uh I don't think it's very interesting and go through it again . So uh
+ Repeat it yeah . Alright .
+ This is what we decided . It's also copy paste from what we made together . So we still know that . And then uh we can we can uh use the time better .
+ Okay .
+ Well uh next you two will uh present uh the pot prototype for us .
+ Alright , we both uh will ? Or one of us will ? Uh
+ Yeah .
+**********
+ Alright .
+ No you go and I'll uh
+ Alright . If I make mistakes uh you'll uh
+ supplement you .
+ Yeah .
+ Correct .
+ Right . Uh well this is our design . Uh it's pretty uh much uh like uh Mike draw uh drew uh the in the during the last meeting . With uh the different uh perspectives of it . Uh we'll begin uh with the front .
+ We have of course uh the the round shape uh the round uh basic shape . Um with uh the upper part being the front . Th So there's this part um which is made of hard plastic , the front .
+ And uh we're we're using different colours . Of course for the launch we use the basic ugly colours , and later we'll put out uh more interesting covers with different patterns and pictures and everything . But basically , different colours , bright colours not black , too dark . Fancy colours . Um then we have uh the lower part
+ Yeah .
+ Mm-hmm .
+ of the of the device . Uh which is of course um part of the back actually , because it's also titanium .
+ You can see it also on the on the on the side view , that only this part is the front , and the rest of it , the under uh the under side uh of it , yeah , the back side and the lower part of the front is of course titanium made of titanium , and has the titanium colour of course , the look .
+ Um then we have uh on back on the front uh the logo in the upper corner , uh which is uh made uh which is also part of the back , part of the titanium uh titanium part . Yeah ?
+ Mm .
+ Yeah , it's a double R_ , but
+ It's a double R_ .
+ It's a double R_ . Yeah the logo Uh uh it's difficult to draw so small , but it's our double R_ uh logo is in there . Um so that's the logo in the upper lef uh right corner .
+ But it's very difficult to to draw that in Yeah .
+ Yeah , alright .
+ Okay .
+ Yeah .
+ Then we have the buttons . Uh it's difficult to draw again the little oval or round I think oval will be better for the for the d for the different uh channel buttons .
+ Oval yeah .
+ Alright .
+ So uh oval , n those are here . And then we have the m
+ The m
+ Channel up and volume ?
+ Yeah the the con the the the , yeah , the t volume and the channel controls uh in the middle here . Um um with kind of arrow shapes , which makes it also a bit more exciting than basic round or um uh
+ uh square buttons . And also here are the two uh buttons we agreed on . We have the Okay button . Oh nei we uh the Okay button's here in the middle of the of the operators , of the channel and uh volume um changers . And then we've here the Menu button and the
+ Yeah .
+ Mm-hmm .
+ Alright .
+ Menu for the L_C_D_ screen .
+ And the video button . The Yeah . And of course this low part , this is the L_C_D_ screen .
+ Mm right .
+ So
+ 'Kay .
+ Uh this is what we made of it . You can make uh suggestions uh if you want .
+ Well if I look at it , the side the side view
+ Well , at the back
+ Maybe we maybe we should finish first uh our talk and then you can add suggestions . Maybe I I don't want to I don't want to suppress you but n I'll uh finish this uh quick . Um okay I've had everything I guess on the front ? Yeah the back . Yeah .
+ Yeah .
+ Oh yeah alright . Yeah .
+ No the back . With the logo and our uh l uh
+ We thought about Yeah , uh the back is of course totally titanium . And we thought about the logo big in the middle . Just so again the double R_ . We have then the logo on front and on the back . Maybe that's too much but you have to say uh say that if you think that way .
+ Mm-hmm .
+ Mm-hmm .
+ Okay .
+ No I don't think
+ And the company slogan , we thought in a kind of arc shape uh above the logo . That's basically what we were thinking about , and
+ And the
+ Yeah .
+ Yeah .
+ Okay .
+ And about the side view um
+ W
+ This the front won't be as thick , but again th the the drawing technique makes it very difficult to to really uh
+ Well I see , but
+ Oh and uh before I forget . Yeah the the voice , of course , the voice recorder is uh at the bottom . And you can record it uh using , yeah , the the the back of the f w device .
+ Well . Yeah I see it .
+ Yes .
+**********
+ When I look at uh when I look at this side view , I think w when I have that in my hand , it's terrible . If if you look if if this this is thick , and this is thin , th th then it that it lies over your hands . But
+ Well , it won't be visible .
+ Mm ?
+ Why ?
+ Well it fits uh it it it it fits the hand , mean uh the the the the
+ Yeah .
+ Yeah , I agree .
+ Well what what what I what I agree is that when uh when um you have such of uh an arc in the middle , so that the the a the ends and the
+ fronts is a bit thicker , so th then it falls over your hands .
+ If y
+ If you handle a remote , you you usually don't have your hand straight like this . You you have it a bit uh Yeah .
+ In the middle in the
+ It depends on the size . If it's kinda small , this is is great . But if it's it's larger , then you want to grab it .
+ And how large is it ?
+ Yeah .
+ Yeah , that's the question .
+ That's the question . Uh well Yeah . H What do you suggest I mean we do ? This was Mike's prototype , and y you seemed to agreed on it . But now you have a totally different .
+ Well uh
+ Well the sides I haven't seen yet , uh ?
+ Well , they lay there all the time .
+ The size ? Yeah well the size doesn't really matter w I mean Side ? Uh oh the side ? W we we he drew the s the side , but you d you weren't paying attention as usual . Well any case , we'll discuss it now . Uh I think uh this is a pretty good uh good idea .
+ They the the the the the side view , we didn't uh
+ Yeah yeah .
+ Yeah , I agree with the L_C_D_ screen . You have it in your palm like this , and you can watch uh watch the screen . And if you have it li in the middle , your hand might be over it .
+ Yeah .
+ But you you hold it like this . You're not holding it like this or something .
+ Yeah you you don't you don't grab it , you you
+ You , yeah , y How do you call it ? Yeah . Well y y y you don't have it like this . You have it more like this . You you you're using buttons this way , or if you're right-handed , this way .
+ No no no .
+ Like you're holding your telephone .
+ Yep .
+ Yeah .
+ So you Yeah . So
+ Because if you have a screen on it , you wanna look at your screen .
+ Hmm .
+ Yeah well
+ That way , it it falls into your hand . I think .
+ Okay .
+ Yeah , I agree on this .
+ And maybe you can you can grab it a bit higher , so Well
+ No , I don't think so . That's not uh the point
+ No but but
+ Well the the Well that's a reason to to to put the L_C_D_ screen uh of course on the upper side , but
+ Well f for as far as I can see , three of us agree and only Nils
+ Yeah well uh I think uh if you t if you three uh agree then then that's it .
+ But you're the Project Manager , you can make the hard decisions .
+ Yes . So uh I c I c Well , we'll we we'll do it like this . Alright , if you think that that's the way it should
+ If necessary . But uh are d Can you live with it ? Uh
+ Yeah ?
+ Y Yeah , y y y y you said it was totally uh unusable . But do you
+ No No , when I I my personal taste is that I want it to fall over my hands with a thick But
+ But d you don't think this is completely unusable I guess . I think .
+ In the market uh
+ No not totally . For me , I I wouldn't buy it . Let's say it like that .
+ Not totally , well
+ Yeah but of course y you are also human . We have to take uh every everyone into account . So
+ No
+ And you might be uh You might be target customer .
+ Yeah . Well uh who who else thinks like you ? We don't know . Maybe a thousand people , or a million people .
+ Yes but
+ Mm .
+ Yeah , we don't know , but that's uh that's that's that's more market research . So let it be like this at uh at this moment . Okay ?
+ Let it be . Alright . So that's that . Uh any other suggestions ?
+ No , I think it's great .
+ Yeah .
+ But what about the redesigning ?
+ Okay
+ Comes to that later .
+**********
+ Um you . Uh c You can uh Walter . You can do the evaluation uh criteria on this ?
+ .
+ You're very personal again .
+ Alright . Great .
+ That's more useful
+ than just speaking .
+ Well , this is just a short intro . I'm going to do uh the ev evaluation . That's gonna be done at the end of seven point skill criteria . So I made a I made a few questions on the hand of uh uh the impor most important requirements and trends .
+ Yes .
+ Mm-hmm .
+ And we have to look if our uh if our device uh is working correctly . Well , I put some questions in a Word file . See if I can find them .
+ Uh uh uh uh mm .
+ 'Kay .
+ Well
+ Hmm .
+ I uh think you have all seen uh this kind of evaluation , so uh I don't have to explain it . Uh the first question is , uh is the device good-looking ? Because normal p uh most people thought that um earlier devices were ugly ugly . Seventy five percent of them . So what do we think ?
+ Well d we designed it , so of course we are very
+ Mm .
+ Yeah , we're we're not quite uh objective about this .
+ Yeah
+ Yeah .
+ No , I know , but I have to uh evaluate it . So I have to take this questionnaire .
+ Well we designed it to be good-looking .
+ So and we ha we have answer now ? Yeah .
+ To the customers ? To potential customers who have to take this questionnaire ?
+ Yeah
+ Yeah , but I can't can s
+ Nei . Oh no . I know , I know , I know . But um Well we can go , uh because of the time , uh pretty quick through this . Uh do we find it good-looking ? Well we think so . Uh
+ Hmm .
+ I Yeah , I think it
+ Yeah . We designed it to be good-looking , so
+ Yeah , but uh , you know
+ Yeah .
+ We dis we di we designed it to be perfect . So But we have to be critic critical about it . And I have to uh take all these points and get a average at the end . So we we know where we stand . 'Cause th there are some things we might have uh bi might have forgotten .
+ Well , one .
+ Well so it's point four .
+ Right , so
+ Easy to find t
+ Well l well let's start with the beginning , just one by one .
+ Right . Uh is it good-looking ?
+ Well , I guess uh I think uh it's uh it's it's um pointed towards the youth of course , uh if you look at the design and and the colours and everything . That was our target audience of course . But it's also not completely um
+ Two .
+ uh u unacceptable for older people I guess . Uh it's it's not f a device that
+ The titanium might be uh f
+ Yeah , that's that's uh for older people , it's it's more that classical look . So
+ for older people .
+ It you put uh put a black front on it or something .
+ Hmm .
+ Uh no . I think Yeah they like black of course , but I think they'll uh they they think uh the the titanium look of it is also Uh I think it's also good for them , so I think we both uh have uh consider considered uh the youth and also a bit older people . So I think it's very good-looking and not only for youth uh young people .
+ Right .
+ I think we shouldn't discuss any points points that long , because I don't know how how many points there are but uh Yeah .
+ Right .
+ No . I totally agree . We we have to get get on , go through this .
+ Yeah , the fourteen yeah .
+ Right , a number please .
+ Yeah .
+ Is it easy to t change channels ? Yeah well I think so .
+ So the last one is seven . Easy to change channels ?
+ Um , no it's uh
+ No , not false .
+ It's one .
+ Oh , sorry . Yeah , right .
+ Well uh two ? Y Well we have to go through it .
+ Change channels ?
+ I think it's uh as easy as uh can be made . Uh
+ Right .
+ So I Yeah . You How can you make it any easier ?
+ The power , channel and volume buttons are easy accessible ?
+ With two huge buttons .
+ Yeah , huge is a Yeah .
+ Yep .
+ Two .
+ Two ?
+ Alright . The uh device is easy to find if you lose it ?
+ Well , no . We didn't implement anything about that .
+ D we d we don't we don't have uh that s
+ Well it's easier to find than a a normal black one or something , because of the colour . But
+ Well six then .
+ Yeah . Six ? Right .
+ Yeah .
+ Well we don't have the device that beeps uh when you lost it or so , but um um
+ Are the functions easy to learn ? Well w I we do want we have a l f f less of an
+ We have so few functions , so Yeah .
+ Yeah , I agree .
+ And the device R_S_I_ sensitive ?
+ Well , I should I think two , because the voice recorder is n not self learning .
+ Yeah .
+ Ah .
+ Yeah .
+ Yeah . Yeah .
+ Alright . Two ?
+ Mm ?
+ Yeah , but just do some We we
+ Yeah Yeah , I agree . No . Yeah .
+ I th I th I think this is too time consuming . Uh not not towards you , but towards this all . Th this is
+ Are we take too much time ?
+ Right , R_ R_S_I_ sensitive ?
+ We you have to put it to the customers .
+ R_S_I_ sensitive ?
+ Uh well well a bit , so four .
+ Four . Um
+ Yes .
+ Yeah , very much . One .
+ One . And features included also one .
+ And One . Uh those uh nine uh is the fancy-looking . Uh we still think so .
+ Yeah .
+ Yeah .
+ Device fancy feeling . Yeah , cool man .
+ And I think fancy-feeling too , because of the titanium back . Yeah .
+ Yeah .
+ Right .
+ Are there enough technology ? Yeah well also we have two .
+ Yeah .
+ Yeah , that's great .
+ Is the device easy to use ? Yes we have not many buttons .
+ The
+ So well maybe two because of the voice recorder .
+ Well , with the uh Three .
+ Two two .
+ Two , three .
+ T
+ Are the trends about fruit and vegetables implemented ? Well in our covers , in our fronts . So yes , one . Is the material attractive ?
+ F
+ Yeah .
+ Yeah . One or two . Yeah .
+ One or two , another two .
+ Nah f four I think . If you look at this
+ Four ?
+ Well , it doesn't really resemble any fruit , uh that's true . But but we have the the the the the sparkly fruity colours of course . And you can also have front with uh with fruit on it .
+ No .
+ Oh okay . Okay .
+ Well three .
+ Three , alright .
+ Yeah , that's true . But
+ Is the material attractive ? Well the titanium is strong , and uh the rest f uh the buttons feel soft . So I would say at least two .
+ Mm . Yeah .
+ Right .
+ Okay .
+**********
+ Well Yeah .
+ This is the last meeting ? Yeah .
+ Yes , but we we have to design much more , because there was some irritating account manager coming to me .
+ The average will uh come later .
+ Um
+ I knew things uh were going uh too smoothly .
+ Oh .
+ There had to be some kind of trouble along the way .
+ Uh
+ Yeah .
+ Yes . Well , look at the costs at this point .
+ My god .
+ I had to fit it in .
+ It has to go to twelve , right ? Twelve and a half .
+ I twelve and a half .
+ So
+ Well what costs a lot ? The sample spea costs four .
+ The what ? The
+ The sample speaker , the s sensor .
+ Out . That's easy . Kick it out . Yeah .
+ Kick it out . We have to go to twelve and a half . The speaker costs far , by far the most .
+ The what ?
+ The speaker .
+ Oh .
+ Yeah w tha that's uh that's a bit an optional option .
+ That's some wrong info , man .
+ It it isn't worth it .
+ No . No , d th No .
+ No .
+ We could make two different versions , one with and one without . But for this
+ It's uh
+ It's just extra . Kick it out .
+ So , zero .
+ Yeah .
+ Then we go to fourteen point six .
+ What more ?
+ Well the titanium I don't want to lose actually .
+ Batteries are uh quite
+ No .
+ L_C_ three ? Yeah hand dynamo ? Y t come on , w a remote control has a battery .
+ Uh no , no no no .
+ Um
+ N
+ Uh well we have a bit of a problem I think . Because uh
+ Well well why why why should we use a advanced chip ?
+ Well be for the L_C_D_ uh you had said .
+ the L_C_D_ screen . Yeah .
+ Yeah ? Can't we do that with a regular chip ?
+ Hmm .
+ No .
+ Why not ?
+ Because uh that uh y because my information says it .
+ Well what what's the difference between simple and regular ?
+ Huh ?
+ What's the difference between a simple and a regular chip ?
+ Yeah . Regular is normal .
+ Yeah .
+ And simple ?
+ Uh well yeah I I read something about it , but
+ Simple .
+ Nothing .
+ Elementary .
+ Yeah , I I read something about it , but it wasn't very clear . I d I didn't in include it in my report .
+ Well ?
+ Your part .
+ What happens if we do
+ Single
+ Well you have to use
+ a chip . So
+ Well you have to use the advanced chip , if you have the L_C_D_ screen .
+ How much do we win ? One .
+ We we we Why ? We have very little options furthermore , for the
+ But if you have a regular chip , you can't have the L_C_D_ screen .
+ Yeah .
+ Uh well we have to put that in .
+ Yeah , we need to have the the L_C_D_ screen .
+ That that's a fact . Uh
+ Well , we could say , well this special colour , that isn't that that isn't there , because the the fronts they will buy it . The special colour .
+ No
+ Yeah , but No , that's n It's not relevant .
+ Yeah , but it's only one half . Uh it d it doesn't
+ Nah .
+ Yeah , then you s then you only have one half left .
+ Yeah , you must change the chip uh back .
+ You must change the chip back , Nils .
+ Yeah .
+ Uh yeah .
+ But we d Then we have to lose the L_C_D_ screen .
+ No , Then the whole concept is uh
+ Yeah , I know but that's what my information says . I di I didn't uh put uh the advanced chip in there for fun . You have to use it .
+ Hmm . No we oh
+ You
+ You can make you can make it cheaper . But if you don't sell
+ You you we have an advanced chip-on-print , and we have an L_C_ display . I think that's a bit double . Y we don't need both .
+ Yeah .
+ Yeah ?
+ No , the advanced chip is needed to have an L_C_D_ display .
+ For the L_C_D_ screen . Yeah . Yeah .
+ Says .
+ Says , his Uh that was in the second meeting , I think .
+ Well uh and what do they mean with curves uh again ? Because we you have uncurved
+ Well I I did single curve to Well you said s double curved , uh he , because uh I thought it's a b a bit cheaper already . We can also make it flat .
+ I ? ?
+ Yeah .
+ No no no no .
+ Well
+ But what what did what do n Sorry , but What do they mean with the curves ? Is th Is this a curve ? One curve ? Yeah , this is actually two curves , yeah . It's how you It's how you look at it .
+ But
+ Curved ? Yes , that's curved .
+ Yes .
+ No , it's one curve .
+ One curve .
+ One curve , simple .
+ Well then we have a huge problem I think . W t we can never get uh below the twelve and a half .
+ We have a big financial problem .
+ Well we make it more expensive to buy .
+ Well , then we have two dollars less profit . Come on , if we if we if we make this fifty million , they won't hesitate to uh congratulate us , so uh
+ If if you make people brand-aware , they are willing to pay more . But
+ But uh I
+ Because we we use a brand at the front and uh I dun at the back . If you have uh lots of uh marketing
+ people might buy .
+ Yeah or we could replace it
+ If you if you make it cool to have
+ By the way , we also have this one .
+ Oh , that's just great .
+ Oh , costs nothing . That's nice . Plastic is
+ Oh , alright .
+ Hey but uh I think you'll agree that uh that we that now we have this uh screen , it's it's very uh not practical to ha to consider this after we have designed the entire thing .
+ Yes , but I just got it .
+ Well that's pretty uh l
+ Why why don't we replace the titanium with uh
+ That is pretty stupid .
+ N not very practical . Well
+ plastic coloured titanium , uh titanium-coloured plastic ?
+ Who ?
+ You want to dump the titanium ?
+ Yeah well if we uh we we have to get cheaper .
+ And make all plastic , then we ha then we're there .
+ But I'm n I don't agree . I think
+ But then we we've got to uh run through the eval evaluation process again .
+ Th then you have a ugly , stupid , l ugly looking , dumb remote that that no-one would buy .
+ Ah no no .
+ It's not ugly looking . The looks remain the same .
+ No , I don't think so .
+ Y
+ Well , I do think so .
+ I think the titanium just uh provided the the tough look and the and the
+ Yes . And the feel , and th that it is strong , and
+ feel .
+ And also the the older people will like it because of that . And because i Alright it's not our target audience , but it's it's useful if it's uh important for old people . Yeah .
+ Yeah , I agree .
+ We still we had to focus to get more people from the younger group , but not lose the one
+ I think the titanium is very important .
+ Yeah alright but then we we won't get there .
+ Yeah we have a problem , yeah . W But you can better , yeah , dump the L_C_D_ screen then .
+ We can dump the special colour . We l we use plastic . And plastic is already in colour I think .
+ I don't think you should dump the L_C_D_ screen .
+ Well what else ? W I mean uh
+ No , nothing .
+ Or you shou It's Or change the titanium or dump the L_C_D_ screen . But I think you could better change uh titanium to hard a hard kind of plastic looking like titanium than lose the L_C_D_ screen . Because you have lots of functions in it too .
+ Amen .
+ Yeah .
+ Yeah .
+ Yeah , well yeah . Alright . I agree with that . So we u we use uh
+ Yeah .
+ Why can't I
+ But
+ Unfortunately . Um .
+ I'll put in the report we that we think that fourteen point one is the l m lowest price you can make a remote for that's trendy d these days .
+ Titanium-coloured plastic .
+ Yeah , I agree .
+ So titanium-coloured plastic for the back .
+ I I'll talk to the managers .
+ No no no no . W Titanium stays there .
+ Titanium , I thi I think this this is this is e really good re remote . But
+ Yeah this is good , but it it's not good enough .
+ Osl
+ So we have to use the ditch the titanium , I'm afraid .
+ Ah those those account managers , what do th d what do they know ? Come on . Riot .
+ Well
+ What do we Well what do we know ? All we want is a is a fancy design but we don't really consider the costs . So
+ Yes , yes .
+ No because we did not know anything about it .
+ If you don't have the money , you can't make it . So s If you don't have the money , you can't make it . So this is too expensive .
+ Yeah al alright , yeah . But we have to deal with it now . So
+ One and a half Euros . Hmm ?
+ So ?
+ So
+ So we have to make it cheaper .
+ Titanium gone and add plastic .
+ Right .
+ Yeah , but then we've got money left .
+ And on plastic times two and then we uh are there ?
+ Well , no it's just uh all plastic . Well alright . Huh .
+ No
+ No yeah well Oh six . A lot of plastic , yeah . No two for the to make it clear .
+ It's just free , man .
+ Four . So
+ But then we can add the special colour ?
+ Yeah .
+ As we have money over uh left .
+ Yeah . W
+ And we still have money left . What do we want , guys ?
+ I want gold plating . No no um
+ Yeah right . I want chrome .
+ Well I think uh the case is double curved then .
+ Yes .
+ We have we have to uh fill
+ Because you y have that curve and you have that curve .
+ Well , th that that is the problem .
+ Y Oh no . Alright .
+ W we ha No no no , but th that's not f um
+ Yeah well uh
+ Safe .
+ Well y we have curves in all directions .
+ Well you can you can double curve , if you don't have titanium . And that we dropped , so it it can be done . But it's pretty funny . We we do want to reach
+ So alright .
+ twelve point five . But it isn't bad to to to stay at eleven .
+ Finance ?
+ I mean , this this ain't titanium , but it looks like it .
+ We get more salary , if we make if cheaper than twelve uh twelve and a half .
+**********
+ Well well why why why should we use a advanced chip ?
+ Well be for the L_C_D_ uh you had said .
+ the L_C_D_ screen . Yeah .
+ Yeah ? Can't we do that with a regular chip ?
+ Hmm .
+ No .
+ Why not ?
+ Because uh that uh y because my information says it .
+ Well what what's the difference between simple and regular ?
+ Huh ?
+ What's the difference between a simple and a regular chip ?
+ Yeah . Regular is normal .
+ Yeah .
+ And simple ?
+ Uh well yeah I I read something about it , but
+ Simple .
+ Nothing .
+ Elementary .
+ Yeah , I I read something about it , but it wasn't very clear . I d I didn't in include it in my report .
+ Well ?
+ Your part .
+ What happens if we do
+ Single
+ Well you have to use
+ a chip . So
+ Well you have to use the advanced chip , if you have the L_C_D_ screen .
+ How much do we win ? One .
+ We we we Why ? We have very little options furthermore , for the
+ But if you have a regular chip , you can't have the L_C_D_ screen .
+ Yeah .
+ Uh well we have to put that in .
+ Yeah , we need to have the the L_C_D_ screen .
+ That that's a fact . Uh
+ Well , we could say , well this special colour , that isn't that that isn't there , because the the fronts they will buy it . The special colour .
+ No
+ Yeah , but No , that's n It's not relevant .
+ Yeah , but it's only one half . Uh it d it doesn't
+ Nah .
+ Yeah , then you s then you only have one half left .
+ Yeah , you must change the chip uh back .
+ You must change the chip back , Nils .
+ Yeah .
+ Uh yeah .
+ But we d Then we have to lose the L_C_D_ screen .
+ No , Then the whole concept is uh
+ Yeah , I know but that's what my information says . I di I didn't uh put uh the advanced chip in there for fun . You have to use it .
+ Hmm . No we oh
+ You
+ You can make you can make it cheaper . But if you don't sell
+ You you we have an advanced chip-on-print , and we have an L_C_ display . I think that's a bit double . Y we don't need both .
+ Yeah .
+ Yeah ?
+ No , the advanced chip is needed to have an L_C_D_ display .
+ For the L_C_D_ screen . Yeah . Yeah .
+ Says .
+ Says , his Uh that was in the second meeting , I think .
+ Well uh and what do they mean with curves uh again ? Because we you have uncurved
+ Well I I did single curve to Well you said s double curved , uh he , because uh I thought it's a b a bit cheaper already . We can also make it flat .
+ I ? ?
+ Yeah .
+ No no no no .
+ Well
+ But what what did what do n Sorry , but What do they mean with the curves ? Is th Is this a curve ? One curve ? Yeah , this is actually two curves , yeah . It's how you It's how you look at it .
+ But
+ Curved ? Yes , that's curved .
+ Yes .
+ No , it's one curve .
+ One curve .
+ One curve , simple .
+ Well then we have a huge problem I think . W t we can never get uh below the twelve and a half .
+ We have a big financial problem .
+ Well we make it more expensive to buy .
+ Well , then we have two dollars less profit . Come on , if we if we if we make this fifty million , they won't hesitate to uh congratulate us , so uh
+ If if you make people brand-aware , they are willing to pay more . But
+ But uh I
+ Because we we use a brand at the front and uh I dun at the back . If you have uh lots of uh marketing
+ people might buy .
+ Yeah or we could replace it
+ If you if you make it cool to have
+ By the way , we also have this one .
+ Oh , that's just great .
+ Oh , costs nothing . That's nice . Plastic is
+ Oh , alright .
+ Hey but uh I think you'll agree that uh that we that now we have this uh screen , it's it's very uh not practical to ha to consider this after we have designed the entire thing .
+ Yes , but I just got it .
+ Well that's pretty uh l
+ Why why don't we replace the titanium with uh
+ That is pretty stupid .
+ N not very practical . Well
+ plastic coloured titanium , uh titanium-coloured plastic ?
+ Who ?
+ You want to dump the titanium ?
+ Yeah well if we uh we we have to get cheaper .
+ And make all plastic , then we ha then we're there .
+ But I'm n I don't agree . I think
+ But then we we've got to uh run through the eval evaluation process again .
+ Th then you have a ugly , stupid , l ugly looking , dumb remote that that no-one would buy .
+ Ah no no .
+ It's not ugly looking . The looks remain the same .
+ No , I don't think so .
+ Y
+ Well , I do think so .
+ I think the titanium just uh provided the the tough look and the and the
+ Yes . And the feel , and th that it is strong , and
+ feel .
+ And also the the older people will like it because of that . And because i Alright it's not our target audience , but it's it's useful if it's uh important for old people . Yeah .
+ Yeah , I agree .
+ We still we had to focus to get more people from the younger group , but not lose the one
+ I think the titanium is very important .
+ Yeah alright but then we we won't get there .
+ Yeah we have a problem , yeah . W But you can better , yeah , dump the L_C_D_ screen then .
+ We can dump the special colour . We l we use plastic . And plastic is already in colour I think .
+ I don't think you should dump the L_C_D_ screen .
+ Well what else ? W I mean uh
+ No , nothing .
+ Or you shou It's Or change the titanium or dump the L_C_D_ screen . But I think you could better change uh titanium to hard a hard kind of plastic looking like titanium than lose the L_C_D_ screen . Because you have lots of functions in it too .
+ Amen .
+ Yeah .
+ Yeah .
+ Yeah , well yeah . Alright . I agree with that . So we u we use uh
+ Yeah .
+ Why can't I
+ But
+ Unfortunately . Um .
+ I'll put in the report we that we think that fourteen point one is the l m lowest price you can make a remote for that's trendy d these days .
+ Titanium-coloured plastic .
+ Yeah , I agree .
+ So titanium-coloured plastic for the back .
+ I I'll talk to the managers .
+ No no no no . W Titanium stays there .
+ Titanium , I thi I think this this is this is e really good re remote . But
+ Yeah this is good , but it it's not good enough .
+ Osl
+ So we have to use the ditch the titanium , I'm afraid .
+ Ah those those account managers , what do th d what do they know ? Come on . Riot .
+ Well
+ What do we Well what do we know ? All we want is a is a fancy design but we don't really consider the costs . So
+ Yes , yes .
+ No because we did not know anything about it .
+ If you don't have the money , you can't make it . So s If you don't have the money , you can't make it . So this is too expensive .
+ Yeah al alright , yeah . But we have to deal with it now . So
+ One and a half Euros . Hmm ?
+ So ?
+ So
+ So we have to make it cheaper .
+ Titanium gone and add plastic .
+ Right .
+ Yeah , but then we've got money left .
+ And on plastic times two and then we uh are there ?
+ Well , no it's just uh all plastic . Well alright . Huh .
+ No
+ No yeah well Oh six . A lot of plastic , yeah . No two for the to make it clear .
+ It's just free , man .
+ Four . So
+ Well , guys ? Guys ? We have to dump our titanium , and we'll hate the managers for that , but now we're going to evaluate our project , of uh project , project . Well , satisfaction on for example , are we satisfactory about our creativity ?
+ Yeah . Shoot .
+ Objection .
+ Pro project .
+ Well I can't get no satisfaction , but uh I think it's uh Well in in if we consider the costs then this is the best , yeah .
+ Yeah .
+ I think it's terrible that we got uh those costs at the last moment . That's really bad . But that that that's that , yeah that's a reason , but also for our creativity . We had um nice design , and then you get the cost , and you had to dump all your creativity .
+ Yeah .
+ Yeah .
+ Yeah , me too .
+ Its it's uh ridiculous actually , but
+ And uh unrealistic .
+ Well we we we used our creativity , but we just had to adapt it to the costs .
+ Right .
+ Which isn't very practical , but that's the way . Uh-huh .
+ Nei . Uh no .
+ Yeah .
+ Well , alright .
+ Uh leadership next . Uh teamwork ?
+ Terrible .
+ Leadership .
+ Leadership ? Well
+ Well it's It was very democratic .
+ Uh yeah well I think so also . I al I I've uh filled that in in a the questionnaires uh each time , so Well the managers were terrible .
+ Yeah . Yeah .
+ Yeah yeah .
+ So , with their all their
+ useless requirements . But o alright , the teamwork ?
+ Well uh they they didn't think of the requirements . It's the requirements of the user , uh I guess .
+ No they said , oh we won't d uh we won't uh use teletext , uh we won't use the D_V_D_ .
+ Yeah .
+ Yeah but they base that on on the user specifications .
+ Alright , teamwork ? Well great I think .
+ Well
+ Right yeah .
+ Yeah , think so too .
+ Uh well what do you , what did you think about the SMARTboard ?
+ It was a complete disaster . No Uh it it it uh it is uh
+ Yeah , I don't like it . Yeah ?
+ Well
+ No , that's a SMARTboard , and that's a digital pen . Or not ?
+ It's also a It's both the SMARTboards .
+ No it's other way around . That's the SMARTboard . That's the digital panel .
+ I liked this SMARTboard , but I hated that one . Well it's both a SMARTboard .
+ This this this isn't a SMARTboard , right ?
+ That's that's the smart
+ Yeah right . B but you This is just a large t large television . You u you use the
+ Oh they're both SMARTboards .
+ No .
+ A televi Yeah .
+ It's both a SMARTboard , but this one is used for a desktop , and that one is used to to draw .
+ Yeah , but you ca This is just a beamer function . And here , on this one , you can uh draw the pictures and things like that . But
+ Well , wi w which one did you like ?
+ Yeah . Left or right ?
+ That one .
+ That one .
+ That one isn't accurate . It just doesn't work . You can
+ Yeah .
+ Yeah .
+ But I I think this is meant by the digital pen .
+ Yes . Th that is so .
+ Yeah , but I think there's a big distinction between the these th I don't need a SMARTboard .
+ Well I didn't use uh
+ Yeah .
+ We're now talking about the SMARTboards .
+ Nei It it's much m
+ Well we we used that one , and we needed it . I think .
+ Yeah , but give me a beamer . That's uh that's much uh much cheaper .
+ Yeah alright , but
+ Or install a laptop to a beamer , or have this one standing here in an I I like it .
+ Right .
+ Yeah I like that one , but that one is terrible .
+ Okay , alright .
+ But uh you can uh I I sent it about three times now . Uh a green uh board with uh chalk is much more useful than that thing .
+ Yeah . Yeah , it is .
+ Yeah .
+ The simple uh sch school board .
+ So
+ I agree .
+ And uh the digi the digital pen ? Did uh did you like that one ?
+ No .
+ I I didn't use it . I wrote things down but I didn't import it into my laptop .
+ I used it uh just to check it out , but uh
+ Yeah .
+ That's the
+ You you can't send that to anyone , because you you've scrabbled something on a page for yourself , and then you're going to send it , yeah . Well , no .
+ Yeah . It isn't practical . Right .
+ W But also y you write things down . And i you can also bring your your your note block . So what's the what's the th what's the point of importing it into
+ Your notepad . Yeah .
+ It's , no , it it's useless .
+ Well I I drew this . Mm . And I made a mistake . But it it would have been uh useful , if I I could show this on the screen .
+ Yes .
+ Yeah alright . For drawings , but not for personal notes . I think that's not very
+ For drawings , yes .
+ Yeah for drawings .
+ N notes mm .
+ Uh I mean you can bring your paperwork along and p Well of course if you have a lot of paper If you've If you've
+ But
+ Yeah , it might be useful for drawings . I I agree on that .
+ Mm .
+ But for notes , it i you you have to put that in a strict Uh you have to put a name , standard date , and all those things . And notes uh for a meeting are very strict . So if you uh were to write them down for yourself , and then put that in your computer , you still have to type it over to Word . So it doesn't d doesn't have any
+ Yeah , right .
+ That Stefan use .
+ Yeah I understand . But I think uh d this option is only useful if you've got a lot of paperwork . You can't It's not very uh ni Yeah well a lot of documents are Yeah .
+ No , I don't think so . It's it's only useful if you have to draw something .
+ Yeah .
+ But then uh it's really useful , I think .
+ Yeah .
+ Yep . Alright . Um etcetera ? Well uh the laptops ?
+ Mu Yeah right .
+ Yeah , great . Yeah .
+ Of course great .
+ Yeah . Hmm .
+ Can we keep them ? Uh .
+ Yeah . You can . B by my
+ Wireless uh wireless things .
+ Thanks Project Manager .
+ Yeah . Other uh things we used here ? I hated the cameras , I hated the microphones . But No
+ Well these chairs , man . Really great .
+ Well did you really uh
+ Did you really take uh take those in account ? I half of time I didn't notice they were there . So
+ No . No . I haven't looked w one time directly at the camera . I don't care about it .
+ But we shouldn't talk about that . Because this is a realistic environment .
+ Well I did .
+ Well w why not ? Uh etcetera We N new ideas found ? What kind of ideas for n a future schedule What ? For future um meetings you have got ?
+ Right . Okay .
+ Well I missed uh the option to uh
+ Communicate in between . Yeah , right . Yeah .
+ to email , yeah . Email or chat or something .
+ But yeah . W well th that's just the the environment they set us up f with . So
+ Chatting and emailing .
+ Yeah alright , but that's one n new idea .
+ Yeah , I agree .
+ Well , new ideas found by this .
+ Not . Nothing . We don't want this . We hate this .
+ Well , more more information in the beginning .
+ Yeah .
+ That's
+ Digital pen is useless . So Yeah , for drawings .
+ No it isn't .
+ Well , for drawing for drawings . Yeah .
+ Yeah .
+ So it isn't useless .
+ But uh two t But uh th then you have to have a lot of drawings , because if I had a company and I'm going to uh buy those expensive huge expensive uh things , I and I have to w
+ Well
+ pay those uh papers uh that are expensive , I'm not going to uh
+ For people who uh sketch th the whole day , I can imagine that it's useful .
+ No
+ Yeah .
+ Well th then still they they they should have a a nice graphics programme on the laptop . Because this is huge uh this v very very uh expensive paper .
+ But it's still an expensive uh expensive
+ Well
+ Well you you can't you can't draw on a laptop like you like you paint of or draw with your hand .
+ Yeah , I agree .
+ With the mouse it is No .
+ But if w Yeah .
+ Yeah .
+ Well and if
+ Mouse is ju just isn't working if you're sketching .
+ Uh indeed .
+ And but what if uh maybe this this board uh SMARTboard is malfunctioning or someone . But suppose it was working correctly , what uh would it be useful then , if it wasn't off all the time ? A
+ Well no . I hated to draw like that . You you can't draw anything uh neat .
+ Really ?
+ Yeah , but he's saying if it is correct , and you can draw very , yeah , very precise
+ Anything you want . Any b b Yeah . L li li
+ I if it if it would be perfect following .
+ Yeah .
+ Well th th then still it's it's it's very expensive uh towards a a just a green uh school board .
+ Well it isn't , but maybe that thing is uh is
+ Yeah , mu
+ Yeah , board , a school board , yeah .
+ Yeah , but but then you can uh save it in instantly , and and and re-use it , and uh
+ Yeah . I it has It is useful . Yeah .
+ Yep .
+ It saves time .
+ Yeah yeah .
+ This uh if it works correct , maybe this thing this thing is just malfunctioning . So uh if we get in uh if we get another one and you make sure it does work , I think then it's pretty useful .
+ Yep .
+ Yeah .
+ Because uh yeah you can draw t things quickly and uh clearly for anyone uh in the discussion room . And then you can save it immediately .
+ Well , they are now .
+**********
+ Hmm .
+ Celebration .
+ It is . So , congratulations crew . Se
+ Did you type that ?
+ Hmm .
+ Celebration .
+ Well
+ Yeah , we can go to the bar and uh with our newly earned money .
+ Yeah .
+ Finally my beer . Well , that's it I think . Um I don't know how long we still have .
+ I think you have we have to make clear to her that we are ready .
+ I dunno how long uh we had for this last meeting . But uh
+ Maybe till four o'clock or something ? Well dunno . Yeah .
+ Well yeah , it is a bit uh Well we still have to make the end report and uh all those things . I have to do that .
+ Yeah . You better get started .
+ I Di did you um save this one in the folder ? Can you do that ?
+ Oh .
+ No . No no no no .
+ No we must save this thing , yeah . In the shared map map .
+ But Nils you've got some work left .
+ I don't know what you have to do .
+ Map , is it a good word ? The folder , yeah .
+ Huh .
+ I have to go to a physiotherapy .
+ Yeah .
+ Oh it worked . Two times quick . Cool .
+ Wow .
+ Oh , alright .
+ So it is useful , yeah . No but uh
+ Yeah . It is handy .
+ Oh great , man .
+ This is nice .
+ I'm gonna buy one buy one for my bedroom .
+ Radical . Yeah .
+ Uh
+ D design .
+ Do you believe it yourself ?
+ S Oh . He saved them all ten . Well alright . Um
+ Well they they wanted everything we produced , so
+ They also want to see my cat and his rabbit , and uh
+ Yeah .
+ My big bird .
+ Well
+ Your big beautiful bird .
+ Where is this ?
+ Maybe the pen is just uh uh broken and the board isn't . Of or the other way around uh
+ Maybe you are broken .
+ Yeah I think so too .
+ You know .
+ I think she's listening .
+ I also think so . She already knows . She ? Big brother .
+ Who is she you're talking about ? Oh you mean our uh coach , our f personal coach .
+ Our manager .
+ Is she also our accountant ?
+ Yeah . I don't think so .
+ Is she responsible for sending that information so late ? Oh .
+ Close your laptop .
+ Because then we have to confront her with our
+ So she can see we're ready .
+ I feel watched .
+ Alright .
+ Yeah . Let's take this remote into uh production .
+ We put the fashion in electronics , but we couldn't because of the costs . That that's the title of our uh end document . We couldn't put the fashion into the electronics . Yeah , that's a nice title .
+ Yeah . That that's our new slogan . Yeah , I like that .
+ Yeah .
+ Blame our accountants .
+ Do that .
+ Yeah .
+ But we couldn't , yeah .
+ Very catching .
+ Oh .
+ Well I th Yeah .
+ I'm sure management would like that .
+ Well
+ She's on the move .
+ I'm going to resign after this project anyway , so
+ Oh , that's just great .
+**********
+ I dunno how long uh we had for this last meeting . But uh
+ Maybe till four o'clock or something ? Well dunno . Yeah .
+ Well yeah , it is a bit uh Well we still have to make the end report and uh all those things . I have to do that .
+ Yeah . You better get started .
+ I Di did you um save this one in the folder ? Can you do that ?
+ Oh .
+ No . No no no no .
+ No we must save this thing , yeah . In the shared map map .
+ But Nils you've got some work left .
+ I don't know what you have to do .
+ Map , is it a good word ? The folder , yeah .
+ Huh .
+ I have to go to a physiotherapy .
+ Yeah .
+ Oh it worked . Two times quick . Cool .
+ Wow .
+ Oh , alright .
+ So it is useful , yeah . No but uh
+ Yeah . It is handy .
+ Oh great , man .
+ This is nice .
+ I'm gonna buy one buy one for my bedroom .
+ Radical . Yeah .
+ Uh
+ D design .
+ Do you believe it yourself ?
+ S Oh . He saved them all ten . Well alright . Um
+ Well they they wanted everything we produced , so
+ They also want to see my cat and his rabbit , and uh
+ Yeah .
+ My big bird .
+ Well
+ Your big beautiful bird .
+ Where is this ?
+ Maybe the pen is just uh uh broken and the board isn't . Of or the other way around uh
+ Maybe you are broken .
+ Yeah I think so too .
+ You know .

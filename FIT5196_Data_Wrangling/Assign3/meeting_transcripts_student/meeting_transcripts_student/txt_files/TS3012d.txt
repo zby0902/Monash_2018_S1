@@ -1,0 +1,736 @@
+ Can I close this ?
+ Uh we don't have any changes , do we ? So no .
+ Oh , okay .
+ There we go .
+ Okay , here we are again . Detailed design oh , come on .
+ Well Ah s Forgot to insert the minutes , but it's about the same thing we discussed before . Uh
+ Could open that anyway , think .
+ Other design anyway , we took as we took w we took rubber as as the material last time . We also that you're just busy with it . Took the advanced chip to t uh implement the advanced features . Well , we discussed the design , no sharp corners , we rounded it off , like you see on the other screen , which is fine . Um we agreed that the colour should be b uh yellow and black . Yellow in the back because it's m trendy , more trendy than black anyway . So then we ca yeah . We agreed that we would implement both the L_C_D_ and speech recognition , but I'll get to that in a moment . 'Cause some changes in the finances have
+ left us implications anyway . So so , like I said , we had no insight in finances , no prices , but we have 'em now ,
+ Hmm .
+ and it's bad . Anyway .
+ We are
+**********
+ Oh . Prototype presentation , well first you guys built the prototype . So you could could present that . But um let's see what be handy to do .
+ Nee no , you just go ahead and present the w we'll scrap it later because
+ I think it's more or less the same as we had .
+ What ?
+ It's basically what we agreed upon , but just a little bit more specified .
+ Hmm ?
+ Oh that's
+ No much s
+ hasn't changed that much , huh ? I didn't expect anyway . You just coloured it .
+ No no no , not at all .
+ Uh s
+ Final design .
+ Basically in what we discussed , cover and buttons will be made of rubber , yellow colour , black components , as you can see right over here . We chose a different type of colour for the menu . A bit darker yellow so that it com really shows in this keypad . If you put them all black , it's not really that good a contrast . So
+ Mm-hmm . I like the menu .
+ Mm-hmm .
+ And I suppose the the the yellow is not printed on the on the rubber . It's it's part of the rubber , I suppose . I think that's more I think that's more durable anyway than printed on to
+ Probab Yeah . That's the be
+ Hmm .
+ And it I guess it's more easier to just paint it on the rubber than to uh
+ Yeah , of course .
+ Mm yeah .
+ That's uh the integration story again .
+ Okay .
+ So we have it's a bit round shaped , that's what we had uh
+ Oh yeah .
+ We chose the buttons to be uh teletext , okay button , favourite channel and the mute . So that's basically what we chose there . If you have anything to add , please interrupt me .
+ Mm-hmm .
+ Okay .
+ No , uh this is just a description of what we see there . So
+ Yeah .
+ Oh .
+ Yeah .
+ Speaks for itself .
+ That's pretty much it .
+**********
+ Okay . Now it's my time to ruin everything . Well , not ruin everything , but no , nah . Finances , that's what we have here , what you drew . We have battery power , we have advanced chips and the sam the sensor . The sample sensor and uh for speak recognition anyway . So which you see the which is de o one of the most expensive parts . So well , we have sin one curve , a design . Rubber design . And we had a special colour . Suppose yellow is a special colour . So just half a Euro for You have pushbuttons and an L_C_D_ display . You have the total of seventeen Euros in production cost , which is higher than the twelve and a half that we are permitted to use . So , easy . What do we scrap . Well think I had the best solution that I came up with is just to s take out the speech recognition .
+ Oh sorry .
+ Hmm .
+ Hmm .
+ I d
+ Yeah .
+ I'd say that too .
+ Because the L_C_D_ has more support on customer side . There are ninety one percent of uh the people , or something like that . But ninety percent who favour an L_C_D_ display , and only sixty percent that favour speech recognition . I think it's also harder to
+ Hmm .
+ Uh we don't really have a extra function with the speech sample , which you can't do with a normal remote control , which people already do . So
+ Yeah .
+ Hmm .
+ . So I ju I took that out . So and so it's still stuck with thirteen , so I had to take out the special colour I suppose . And , yeah , I didn't see anything else I could take out .
+ Yeah , I could take out the push-buttons , but we need those . So , generally what I came up with , in order to be cou to to have production cost of twelve and a half Euros , spe scrap speech recognition and the separate covers can account for the if people want it , we'll just then we'll do it in black . We'll just deliver it in black , have the it has all the function that it's supposed to have , and if you want it if you want the custom design , then you can buy the separate covers . You make it d orange or whatever you want .
+ Pushbut
+ Huh .
+ Special colour , yeah .
+ Well , I'd I tend to disagree with you on that , because the trend issue was a big issue when we started designing this . So can't we just basically extend it to thirteen ?
+ It was a big issue , but
+ I'll just go back . Uh let's just let's see what okay , let's just see what we no , we we have to be under twelve and a half . It it's not uh the project is a no-go if we go over twelve and a half , so .
+ Yeah , it
+ The p
+ Okay , but there's another problem .
+ And the p
+ Okay .
+ But there's another problem . If we take another cover , for instance black , then we also need another button frame , 'cause black and black doesn't work obviously .
+ What
+ I think you that's what you were ass assigned to do really , to to see how b th both those work together . So I think yeah , it's I think it's y one of the it's a good way to um
+ Huh .
+ Huh . Yeah .
+ to help people uh to make to keep the product trendy too . Just keep you just make new covers for the for it , like we agreed before . And everything that's left is is the basic function that uh that we want our product to have . Because the expensive parts are in either the advanced chip . But we need that for the L_C_D_ display . Then again , we have the L_C_D_ display , which is also expensive . B yeah , but those go together . And yeah , we could take out the curve .
+ Hmm .
+ Hmm .
+ Right .
+ I agree .
+ Yeah . We do .
+ Mm-hmm .
+ Or say let's lose rubber , take plastic .
+ We could take out a curve indeed .
+ Could we could take out the curve . Is that an option ?
+ .
+ Yes .
+ For you ?
+ Although we are demolishing a little bit the style . But
+ But uh the and
+ I think the colour is more important than the really the curve , because if you just end up with an entirely black remote control
+ Yeah .
+ Yeah . The people
+ I think it's it it does ruin it , but the fact that I t took that decision or t
+ Yeah .
+ Took this example actually , not really decision , but the example is because we do offer the um the possibility of adding your own custom covers . So you can change any colour you want . So it's just you deliver a basic remote control with a possibility to change you into whatever you want .
+ Can we then not also uh change the material ? We take plastic for the basic cover and
+ You can take plastic , but I d it's something that's stuck into my mind is that something that really came forward from the marketing research is that people like the the the the squishy feeling of the spongy feeling of the and it really makes it also makes it different from the existing remote controls , because they're all plastic . So which in in turn Rubber would increase durability because it doesn't break .
+ Spongy , yeah .
+ We can put those to the to the other covers .
+ Yeah .
+ And
+ That's true .
+ But okay .
+ But what do you then suggest we'd lose ? Because we have to lose two things and I guess .
+ I al like I said , I lost the speech recognition and I lost the special colour , which would make this black a black and grey . Yeah , that's that that that's enough , because
+ But
+ Yes .
+ Okay , and that's enough ?
+ So black and grey is okay .
+ I guess those are the basic colours . So Oh .
+ But
+ Hmm .
+ Which we can fabricate , okay .
+ The people want to pay for for it , so why why uh do we have to keep us uh uh um on the twelve and a half ?
+ I think those are basic col
+ They want to
+ To ensure the profit . That that's th that's the order . We're just uh we're the project team and we got our our orders from the pro from the boss of our company which say we don't wanna spend more than twelve fifty for this . But that's not for our that's not our decision to take . We have a budget of twelve fifty per product . So
+ Yeah .
+ But we can take a risk .
+ No , we basically
+ Okay , yeah .
+ Hmm .
+ We need to stick to that .
+ Stick that . I don't think it's really bad either . I mean if we we have the the backup of or the backup design thing
+ I hope the people will like it , but
+ to have I think they would do . Th I think they do like because yo we you we agree upon that the that the the the cover thing was a nice idea , because p you could have all sort of designs while at the same time just manufacturing one product , one basic product which you could turn into any any taste you want . So I think it's the best solution to make those cu custom covers for the design aspect and keep the functionality between of within the th the boundaries of the your f uh your budget . So
+ Yeah .
+ Perhaps we should make m
+ Yeah .
+ Huh .
+ The first sheet .
+ Perhaps we should make clear to our customer that we had to do this to stay under the cost . And that's uh they know that this is an option and that we had to drop the option to stay under the cost , that they know that .
+ Well I don't think Yeah . Is it worth is it is it does it mean anything to the customer ? Like , it like , we don't care we don't care that you had to
+ Perhaps they decide tha
+ But they don't
+ Of course . Perhaps they uh no , but perhaps they think uh okay , the cover is such a nice idea , uh let's that that then they uh that allow us to make some more costs .
+ We ca we uh we can at least tell them that
+ True , but we did we didn't get that . So I think it's it should either be a pack , maybe we sh that should be sold in in the s in stores with with a standard cover or something . But
+ You don't know that .
+ Well
+ Huh .
+ No , I'm not uh talking about that cost but the one that g has given us the order to design this . We could at least m uh make it like this , like you said , and then tell them okay , we had to drop this and that , just that you know . It is an still an option , but not for this price .
+ They could , but uh
+ It's an option , but yeah , it's true . So actually uh it's not that much of an increase , but yeah . We cannot contact them . It's just the order that we got . So that's what we gotta go with . So it's either one fi just just to get it f just to get it through final , it's either turned into plastic , drop the squishy feel , make it make it more breakable , um or turn it yellow . So
+ And if we
+ Exactly , but
+ Yeah .
+ Yeah .
+ Hmm .
+ It's uh something we have to decide on .
+ I'd say lose the curve and the colour and
+ I say lose the curve . Oh that's true , we could lose the c yeah , I forgot that , sorry . Uh the curve . So That's just this one just d this is the banana curve .
+ So which curve is that ba that's basically that curve .
+ Hmm .
+ Yeah , that's better .
+ So this would this would be straight .
+ So we could u still have the comfort .
+ No , uh no , that would be a curve inside the thing , I guess . No , would ju then it would just be a straight remote . Just like like that .
+ Hmm .
+ Which would , yeah , turn it into something far more ordinary . we could make it yellow then , but
+ I second that .
+ You second that , you second that we lose the curve .
+ No , that it would turn out to be a pretty straight-forward remote control . So that's not really that
+ Okay , yeah .
+ Yeah . Yeah .
+ So I think it would be a good idea to keep the curve to separate it from the rest of the remote control world , so to speak . So we keep the curve .
+ Hmm .
+ So the only only solution is either to use the l y lose the yellow or lose the rubber . And I'm in favour of keeping the rubber , because it has more more advantages than the colour yellow has .
+ I would
+ Oh .
+ I agree .
+ Yeah . I would say I would agree with you on the colour , because that's an extra option , an extra service we can deliver for a little bit of more money . So we can always do that .
+ No .
+ Yep .
+ Mm-hmm .
+ Yeah .
+ Hmm ?
+ Yes .
+ Yeah , um I guess people are willing to pay for that . So I think we can take that option and just with uh with the idea in the back of our head that you can customise your remote control . So I think that would still make it a nice product . Okay , we're final on that . So it's too bad we can't make the whole super thing .
+**********
+ But anyways we're here . Um yeah .
+ Which is basically what we discussed .
+ This we discussed just now .
+ That's just now just we could just discuss how the project went . I mean , was kind of
+ And I want to do that .
+ I sort of expected that everything would turn out this way , but because you yeah , everything cannot be for free . We didn't I think it was too bad we didn't have the financial info the last time . Because that was I th it was really essential really to ma because we spent uh uh entire stage designing a product of which we had no idea what it would cost . So we just put something I think it's really nor not in stroke with reality actually . So
+ Yes , we could have
+ Huh .
+ Hmm .
+ Yeah .
+ Me too , I felt a bit blind throughout the project , because in the beginning I had no list of available materials , and then I d had not list of available c finances . So
+ Yeah .
+ Yeah , I think would have been . Materials would be ok at least the last meeting I would have expected had to have that . So I suppose
+ Yeah .
+ But
+ Let's um see um
+ Yeah , let's see if it sells . I mean I suppose this sells , because it's very very extended . But
+ Um
+ Well I hope it sells .
+ Let's
+ Uh
+ Hmm .
+ I suppose it sells , because it's good . I mean it's got everything for the for the reasonable price , because we didn't know what it's gonna cost anyway .
+ Oh .
+ Hmm .
+ Hmm .
+**********
+ Okay , let's eval evaluate uh the product of us , our design . Um I have some uh a method , a requirements and scale of . I uh will pre present uh some statements and we will decided together wha what if it's true or false and uh then we see uh if the requirements of the user are fulfilled or not .
+ Okay .
+ Have been met , okay .
+ And I will
+ uh make a new blank sheet .
+ Yeah .
+ So so the buttons , the look and feel . I thought it was okay , but the advanced uh settings , um screen , audio and channel
+ Which are basically accessible through the menu button .
+ They're stuck under menu .
+ We are not
+ For the menu . I think those are totally met , because we we really took them for the they have the feel they want , they have the simplicity they want . I think it's very uh very well met . Either two or one maybe .
+ Hmm .
+ Oh the menu button is it .
+ Yeah .
+ Hi Oh , okay .
+ Then it's all uh
+ S it's true .
+ One .
+ I think we took that everything they wanted into consideration . So it could either be a two or a one .
+ Yeah .
+ So d
+ Oh wait . Uh pen . The p
+ One and a half .
+ Which is not an option .
+ Oh yeah , it's red , okay , but
+ Just create our own option .
+ Look and feel is everybo it's true .
+ Yeah .
+ So
+ Anyone ? And the next one uh yeah , when it's lost uh you can find it . It's
+ It's perfect . Even for deaf people , yeah . It's I don't think it's perfect , but we did everything possible to to get it back . Because if it's stuck in you couch , you can see the light . Maybe you can hear it . But I mean we tried , so I think it that's that deserves a one .
+ Hmm .
+ To make it that way , yeah .
+ Yeah . And it's
+ and it's yeah .
+ Definitely .
+ To . That's okay then . And the next one .
+ How is that ? Uh w we had we don't have an uh
+ Manual .
+ manual , yeah .
+ But I think that's a part of it . But
+ I think the L_C_D_ display could be a little bit more difficult then a normal remote control , but then again , it's for young people . So
+ I'd use an remote control .
+ Mm yeah .
+ Yeah , an L_C_D_ , it tells a lot about uh
+ Yeah , I th
+ And it's pretty straight-forward , you have a navigation no keys to navigate through the L_C_D_ menus . So
+ Exactly .
+ It's pretty straight-forward , uh-huh .
+ No , that's true .
+ I think it won't be a big problem .
+ Yeah .
+ So it's a one or a I don't know .
+ One I d no , actu
+ I think but we didn't even there was no issue on making a manual actually . We didn't really discuss it , but
+ For the advanced uh settings .
+ No okay , that uh that's true .
+ I don't think it takes no , it really does doesn't take time to learn , I think . We took it s it's so easy , we have so little button , everything speaks for itself really . So I think that's yeah , we didn't it's either two or one , I guess . Maybe it's a two , because d uh the L_C_D_ is a little is a little new and there is there are some option hidden under the menu button . So I might make this a two instead of a one , I guess .
+ No , it it is pretty straight-forward .
+ Oh , so it
+ Ah . Um
+ Takes no ti
+ With the more important functions on .
+ Yeah .
+ Yeah .
+ Yeah .
+ And the L_C_D_ , you have to see it .
+ So just make that a two .
+ Um mm
+ Oh , it's a little bit
+ learning .
+ Okay . Uh yeah it's uh a little bit same . But it tells you or not ?
+ Mm-hmm .
+ You can use the L_C_D_ in a good way . I think so . I think it's perfect , the w where it is , what it can do , if it useful . I think so .
+ But wha w oh , yeah . What are we uh
+ Mm-hmm .
+ displaying on the L_C_D_ screen ? Just uh only the channels and or
+ the menus uh
+ What uh ?
+ Things like brightness and uh those kind of things we've put in the menu , because we have no buttons for those .
+ Well , basically the menu options indeed . But
+ Oh , in the L_C_D_ screen .
+ No , y I mean in the L_C_D_ screen , the small screen . What does it display ?
+ Yes .
+ And for a channel selection , uh or that's not
+ Well I thought it was I thought it was I thought that people wanted previews on their I'm not sure if that even possible , but 'cause it's this requires a quite quite a bit of band-width . I don't think it's possible really . But
+ Yeah , I thought I thought too but yeah .
+ the they didn't really define in what should be used for .
+ But
+ Maybe a T_V_ guide or something in your L_C_D_ uh
+ No .
+ But I think in for example like T_V_ guides , I think that's that th that you can transmit through it and everything . Just for extra information on your programmes .
+ Mm .
+ Yeah .
+ Yeah , it must be clear then what what what for we use it .
+ But also things like like like menus or p how about preferences of your uh with configuring your remote control for favourite your favourite channel for example , how do you configure that . So that could be done by L_C_D_ display . I think it's good . No , maybe it's not a one because it's we're not using it perfectly . We didn't give it I don't thing over-discussing . Now we gave it enough thought though . I think we d should just lower this . Maybe maybe it's a three though . We could've used it more effectively probably .
+ Yeah .
+ Yeah .
+ Yeah .
+ Yeah , indeed .
+ So everybody's agree with an uh three on it , it's
+ Yes .
+ Yeah . Two or three . So
+ Yeah , we are using it , but it's not it's not poorly used , but it's not efficiently used , I think . We could have ev even lost the selection button and uh done everything via L_C_D_ selection . It's now it's just extra to illustrate im uh extra features , but okay .
+ W
+ Yeah .
+ Yeah .
+ Yeah , I
+ A three .
+ Nah , it's not really only an extra . No menus . Think about
+ You can seven .
+ Ah , nothing , that's
+ A seven . Uh that's uh
+ Can you talk to remote control ? Well , it can't talk anymore . So we scrap that .
+ Or we could say it
+ Yeah .
+ Or we could say neutral , we 'cause we scratched the
+ Oh yeah Just to be a prick , but of course you can talk to your remote control , it doesn't do anything . But you c you can talk to it .
+ C
+ Yeah yeah yeah yeah .
+ Not with the speech recognition . Uh yeah , all the trends and no colours uh anymore . So
+ Well , we did take everything into consideration of course . Uh the shape i shape is i
+ Yeah , uh um only in the curves .
+ I think we yeah , I think that's okay .
+ But the colours , we don't have special colours on it .
+ No , we don't have the colour . So I
+ Yeah , special co but we took into consideration the fact that it's customisable to the fashi
+ Yeah , but we yeah , we don't have it , so d
+ Yes , but the end product So
+ Hmm .
+ We don't have it we do have it , it's just sold as a package . It does it's not part of the basic product .
+ In the end product .
+ But
+ M
+ Changing covers is also trend that we followed .
+ It that that's what I call trendy . I mean the shape is trendy . The the sh the the functions are trendy . It's just the colours that are not supporting the basic model . Because you ha it's just not affordable at the moment .
+ Now
+ But it's not a one .
+ Maybe we should go with a two then , because it's not perfect , because we can't do it initially , but we
+ Yeah .
+ Oh .
+ Mm-hmm .
+ It's possible , but you have to pay extra for the for the possibility of having it in a f a different colour .
+ Oh well
+ Oops .
+ Oh it's a two , right ?
+ Yeah .
+ Mm-hmm .
+ On the last one . Uh that n that's all .
+ Overall score .
+ Overall score .
+ Overall . It's um
+ One two three . sixteen .
+ ten , sixteen
+ three uh two two point seven or something like that .
+ Two two point some two point something .
+ Hmm .
+ I don't know why .
+ Ten , sixteen ,
+ .
+ divided by
+ Six .
+ Six .
+ Is two two third .
+ Two and two thirds .
+ Um
+ So we can say it's it's the product is it's okay .
+ It's okay , but that's yo m mostly it's it's influenced by the fact that we didn't have enough resources to implement speech recognition . 'Cause yeah , that gives you a seven , which ruins your your average .
+ Y not
+ Mm-hmm .
+ There's
+ Mm-hmm .
+ Yeah .
+ Without that it would be like under it wouldn't yeah , it would be under two . So I think we have even with this it's reasonable .
+ Woah .
+ Yeah , if we make it into a four , as in neutral , because we didn't implement it , so we can't say that we that it's really not well implemented . We come out on a average of two one eighth .
+ Yeah .
+ Well I think it's two is okay .
+ So which is pretty w good . It's at least on the positive side . So We could definitely have done better if we've had more resources , but
+ Mm-hmm .
+ Yeah , two is pretty good .
+ Hmm , of course .
+ Definitely .
+ Yeah .
+ Yeah , I think it's probably I I do admit that we d did miss a little or didn't sp didn't talk talk enough about the possibility of the L_C_D_ display . We could have used it more efficiently , we just didn't think of it that way .
+ Mm-hmm .
+ Yeah .
+ Yeah .
+ Yeah . True .
+ Yeah , with .
+ So like I said , changing channels , everything hidden in your L_C_D_ display , so you just need the navigation buttons to do everything .
+ The scale .
+ But I think for this price , this is it's really a reasonable product . It's a good product .
+ I think we div I think we did very well , uh ev even if you look at this score , we did quite well . It just looking for improvements what what you could have improved . So .
+ Yeah .
+ With an L_C_D_ screen .
+ Oh .
+ Oh . Yeah . But if pep people really want speech recognition , then they must be prepared to pu to pay more , because it's cannot be done for this .
+ They sh they should get kids , and just stick 'em in T_V_ and say change the channel .
+ Yeah , you can make 'em another one .
+ Hmm yeah .
+ Ah but for this price uh you cannot ask that . You cannot th think of that
+ I don' think so . Uh it's just not it it's not affordable . Or your sh you should lose the L_C_D_ screen probably , but I think that's I think the L_C_D_ screen is more worth than speech recognition .
+ No , it's not .
+ Mm-hmm .
+ Oh It's also more attractive .
+ Definitely . Okay , that was that .
+ Yeah .
+ Yeah .
+ So that's the final product without the speakers , I guess . Let's see , what was left in the the Another one .
+ So did you
+ Hmm . Yeah , we evaluate the product .
+**********
+ General project , what's i in For example , I thou I thought we were pretty creative in what we created . We took the whole new approach of making exchangeable cover for example , which I thought was pretty creative , because it was never never ever listed somewhere .
+ Hmm .
+ Favourite channel .
+ Well
+ Anyways . Yeah , leadership is up to you . I mean perhaps I screwed up because I d put a put a speech recognition into it . But that's not for me to decide . I think we did pretty well as team-work though . Because , yeah was very hard to work with one another if you cannot communicate in the meantime , because when I got the when I got the input for the financial results , initially of course I wanted to contact you . Say , look , this is you're doing the wrong thing , you're s you're wasting your time now , because we're implementing stuff that we cannot afford . So it would be better if y if there was more communication between uh because that's that's what would w you what you would normally do , either call or email someone . So that was too bad con was impossible here anyways . .
+ Yeah , I know . Yeah .
+ Yes .
+ Hmm .
+ Hmm .
+ Yeah , you're working separate .
+ Yeah .
+ Yeah .
+ Huh .
+ Yeah .
+ Yeah , yeah yeah .
+ Hmm .
+ Hmm .
+ Yeah yeah yeah . Direct uh communication with yeah .
+ And we could share information which we received .
+ Hmm .
+ That's the same thing that I had in the beginning . Everybody was using materials that s I didn't have . So
+ It didn't have or didn't knew what they costs or whatever . There was just too little information about what things actually cost and if you could use them . So that was a little unclear I suppose . I think a SMARTboard SMARTboard is pretty cool . I think uh s especially for design issues , it's very easy just to give your give your thoughts a little it's easier to share them .
+ Yeah .
+ Oh .
+ Yeah .
+ Hmm .
+ My handwriting is little bit yeah .
+ Yeah .
+ Hmm .
+ Although for actual design I'd say the response time should be a little bit higher , because
+ It's a little less it the response time is le it's very bad . It's good to visualise everything , but I think the response time should could be a lot better .
+ Hmm .
+ The digital pen was definitely better to draw my ideas and to
+ But th that's
+ Definitely .
+ Mm-hmm .
+ Yeah , it's true .
+ Yeah , okay .
+ further elaborate on that . So
+ But there's uh also one problem with this I noticed . Uh you have to finish a page before going to a n
+ No , you don't have to . No , you don't . I jin I didn't check the finish button . I just you just ditch it and you can copy it or whatever . Uh only if you uh check the notes or press done . Then it um then you can then it exports to Word automatically . But it's not necessary to check either one of those two . You can just preview your p you can just preview your page in the in the programme .
+ No . You can
+ Oh .
+ Done and then it's okay .
+ Okay , I saw that uh
+ Hmm .
+ Yeah , but I made
+ Oh , okay .
+ Okay , but I made three pages and they were not finished . And when the third one was finished , I wanted to download it and then it was not possible anymore , because you have to close all the pinnits uh the pages before going further .
+ Okay , yeah .
+ Okay , before starting a ne a new page . Okay , that could be b .
+ Okay .
+ Exactly . So we cannot work on more than one page at same time . That's not possible . You have to finish it completely , then download it , it's then start a new one . That's not very uh handy , but if you know that , then it's not a problem .
+ Oh .
+ Hmm .
+ Okay .
+ Oh can you ? Okay .
+ Yeah , okay .
+ That's
+ Yeah , it's understandable , okay . Any new ideas ? Yeah , more communication between between uh that's the thing I noticed , that communication is very um very important , because if you get new information , it's essential f for the other team-mates to know that as soon as possible , because you would avoid making doing extra work , because you were doing extra work now uh m working on the on the speech recognition , you have limitation both on the technical on the d on the design side . So I think that could have been better . But that's I think it's more of a a setting here that you cannot communicate than uh than somewhere else . So
+ Important to mm
+ Yeah .
+ Hmm .
+ Yeah , well it could also possibly be well , is it a more real-time information base , so we can all see which information is available to one another .
+ Yeah , I think so . And l less p less spam probably . I'm not sure i I'm not sure you got spammed as well , but I get spammed like every t every two minutes there was a there was another email about master classes or something . So which were totally useless actually . I thought I should probably look into them , but they were all useless . So I just
+ Mm-hmm .
+ Ah .
+ Well
+ Hmm .
+ Well , I personally did not have that , but
+ Mm
+ Oh okay .
+ That's probably your l description . But I also didn't not really . But still , you had that as well . Is that we finished up the design and then we checked the website , and then there was just extra information .
+ Huh .
+ Yeah .
+ Yeah , after
+ .
+ After five minutes , uh
+ Yeah ,
+ There was a little delay in the bit of a c
+ Yeah .
+ I didn't have any uh more information , it's just always the same here . So that's that's kind of a
+ crucial delay .
+ Mm .
+ Email uh
+ It would change , but not for me . So I'd I had no extra information to go on that one than what you give me actually . I couldn't do any research myself or I see , that's yeah , w I could have done a little extra work probably , then
+ Hmm .
+ Hmm .
+ Hmm .
+ it's
+ But I was busy enough anyway . So
+ Hmm .
+ Yeah .
+ Any new ideas found ? Or is that a 'cause uh yeah , it's well , probably is .
+ No .
+**********
+ How much time do we have for this anyway ?
+ I have no clue . That's like oh,but it
+ .
+ Should i if the project is evaluated and it was it was in b within budget , we should celebrate . So
+ Okay , bring out the beer .
+ Yeah . Champagne .
+ Uh okay , think that's about it . Uh
+ I want one for my own .
+ I'm not sure what we should still do though uh t let's see what all your tasks were finished , right ? What you ha from your assistant . So let's
+ Yeah .
+ I have no more email . My coach is uh being very silent now .
+ Yeah , my personal coach i
+ Okay , I should I think I sh I still have the the total report to finish up . I think we took very little time now , because
+ Yeah , we're in agreement , everything the design is okay .
+**********
+ The one thing we missed though ,
+ we don't have a product name .
+ What
+ No , we haven't think above about that . Huh . It's better than thi I think than a serial number . Sony uh T_R_ something uh f means nothing to me . Uh
+ How about you cook a how about you cook up a product name ?
+ Product name .
+ Yeah , name .
+ Or fruit name .
+ Just oh , think of a catchy name . I'll be working on this until the beep until it beeps . So
+ Like fruit names .
+ Fruit name or something like that . The banana remote or something . I don't know . Yeah , it's the form of it .
+ What ? Fruit ?
+ You don't want it to resemble a banana . It's not yellow anyway . It's not yellow anymore . It is curved , but
+ The bana 'cause it's not yellow anymore .
+ Yeah oh , yeah .
+ Uh yeah .
+ Well , uh I was going for the R_C_ deluxe , but it's not really a catchy name or anything , it's more
+ Uh
+ No , it's
+ Uh at least it's not something with numbers . Numbers are so meaningless to the people . I mean
+ Hmm .
+ Yeah .
+ Something with our company name , can we do anything with that ?
+ That's true .
+ .
+ Reaction , Real Reaction .
+ Maybe there's something on the website which will help us out .
+ Real Reaction .
+ The reaction deluxe .
+ Real Reaction future R_C_ .
+ Step into the future of of remote controlling your T_V_ .
+ Is that a name or a c campaign ? Yeah .
+ No that's a that's a catchy slogan .
+ Or the
+ Control your remote control .
+ The real reactor .
+ Real react .
+ I go for future R_C_ probably .
+ Something like
+ It's short f
+ The Real Reactor , I don't find that uh that bad at all .
+ .
+ Real reactor ?
+ Yeah . Because our name is Real Reaction .
+ You should write it down as a an option .
+ Uh that that's
+ .
+ That makes me think of different products than a remote control really .
+ I'm not sure . Real reaction in a real
+ Zapping .
+ The
+ So that's one option .
+ Real reactor .
+ Didn't notice .
+ I'm looking for things in the name . So that the first three letters are s the same . R_E_A_ R_E_A_ .
+ Mm .
+ Should I write the banana down or
+ Yeah , sure .
+ I take f yeah , take a banana .
+ Sure ?
+ The banana .
+ Hmm .
+ Remote .
+ Banana recei R_C_ .
+ The triple R_ . Real Reaction remotes control . Triple R_ .
+ Remote .
+ Well I
+ R_ three C_ .
+ Uh do you mean it like
+ ?
+ R_ three C_ .
+ yeah .
+ You mean it like this ?
+ Yeah , that
+ Real Reaction Remote Control . R_ three C_ . Oh yeah .
+ .
+ .
+ No , not like that . It should be it should be longer , because it's not a product name that you f print on a box .
+ I think
+ triple R_ . Doesn't sound ?
+ Just write out triple , like a word triple R_C_ , triple stripe Oh . Triple dash R_ dash s s C_ .
+ Yeah , triple R_ .
+ Yeah .
+ Triple R_C_ .
+ Ah .
+ The triple R_C_ , yeah .
+ Yeah .
+ R_ s R_ three C_ .
+ .
+ R_ dash C_ .
+ Dash C_ ?
+ I think I like it like this more .
+ Dash . Triple R_ or triple R_C_ ?
+ Like a C_ right now or a dash in a C_ ?
+ Triple R_ dash .
+ How about do both ?
+ Sure if it looks stupid .
+ Uh I think that the the R_C_ together takes away the the the image of it's a triple
+ Hmm .
+ Uh the first the first one looks like it's a triple remote control , but it's only a single remote control . And it's especially on the triple R_ that's important . The Real Reaction Remote .
+ Mm .
+ That
+ Yeah , this yeah .
+ I would huh . I would lose the C_ and just name it triple R_ .
+ Is it triple R_C_s ? No .
+ It sounds like uh thinking about two different things and combining it . I would just say triple R_s triple R_
+ Triple remote .
+ Yeah .
+ Yeah , triple R_ yeah , you can
+ Well , that's another option .
+ That's also short , catchy .
+ It's okay .
+ Yeah , triple R_ .
+ Okay , so which ones are we going to scratch
+ The banana . Banana .
+ definitely ?
+ Banana .
+ Banana remote .
+ I say this one as well .
+ Yeah , the deluxe .
+ .
+ I think we're all in agreement about the triple R_ . I think triple R_ is cool .
+ Yes .
+ The r triple R_ .
+ Triple R_ ?
+ Triple R_ it is .
+ And it looks cool when you print it in font , looks pretty cool .
+ Yeah .
+ did you do now ?
+ Just like this just and you just print triple R_ , it looks doesn't look bad , it's short , it's okay . So have to write my report now , I guess . Um
+ Yeah .
+ Yeah .
+**********
+ Um
+ Yeah , so we have everything . We have the product , we have the costs , we have the possibility of everything . Okay . I think it's adjourned . Retire to my lair and finish the report .
+ Yep .
+ It can't work . That will not
+ That was a short meeting .
+ Mm-hmm .
+ But efficient though .
+ The boss is always the last one to go home . So
+ Probably . See . Okay , goodbye .
+ Okay .
+ See you in a minute .
+**********
+ Damn .
+ I will write that one
+ in a Word uh document .
+ Okay .
+ Could you guys draw me a picture of the final design to put on the cover of the report ?
+ Yeah , sure .
+ Can't we take this one ?
+ Oh sh
+ Otherwise we have to do it all over again .
+ Um
+ I don't really know whether we can save it as a picture or no .
+ Is it okay if I try ? Is that okay with you ?
+ Sure .
+ Yeah , okay , I will ask you when uh I need the information . So it's oh .
+ I'll put it back in a minute .
+ Okay , it has been saving something , but where to I don't know .
+ Uh
+ Oh .
+ Merge .
+ Oh , can I say exp yes , I can . Export as J_ PEG .
+ Sucks .
+ .
+ Okay , can I not put this
+ wherever I wants .
+ My document is the wrong one , huh .
+ Yeah , but
+ I cannot
+ Network places .
+ I don't know . Smart no .
+ .
+ Ma it's maybe it's not on the network of uh the rest . That one is . .
+ I don't think so .
+ Document and settings .
+ I wouldn't pick that one , no .
+ That's a pity . That means that we have to gonna draw it again .
+ Are you gonna do that ? Okay .
+ Sure . Oh .
+ That
+ Yes .
+ Okay .
+ Okay .
+ Okay .
+ Yes , that's correct .
+ Yeah .
+ Okay .
+ Okay .
+ No . Oh , it's export .
+ Oh yeah , .
+ Okay .
+ Can I see scores ? Uh , one one , two threes , two
+ Oh , of course . Sorry .
+ Okay , then we'll overall , two points . Yes .
+ I see you later .
+ Yeah .
+ Mm .
+**********
