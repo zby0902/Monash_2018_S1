@@ -86,17 +86,6 @@
  Okay .
  Well , we'll see . We'll see later on .
 **********
- Um , the method of the remote control is uh electrical energy , it activates a chip uh in the remote . It's an electrical circuit
- which compose uh messages in the form of uh uh infrared signals to control the television .
- Mm , it's a nowadays very uh known , a known uh uh technology .
- Um , the known technology can make a cost very low . Uh , it's a wild uh a wide sale uh of uh remote controls in the world . And and the components are very uh very cheap . Um ,
- Uh , diodes , uh bat batteries and uh uh LED lights , they're needed and they're uh everywhere available . Uh , again , it's a fair price . It's a common uh technology uh , like I told um Uh , the circuit board , it's the most um important uh
- um part of the remote control . Uh , we can use for that uh fibreglass with copper wires , it's it is uh
- can be made as fast as printing paper . It's uh it's all very uh
- Okay .
- Yeah , they're making it uh all the time . Uh ,
- Okay .
- and it's not uh very specialised uh technology .
  Well , the technical functions . Um , well I don't know if you got the same uh pictures as I got , but uh I got these two , and I think they're we have to focus uh on uh the uh one hand the expert view or the novice user .
  No .
  No .
@@ -132,16 +121,6 @@
  Yeah , that was it .
  Alright .
 **********
- Uh well , there are l at least uh basic functions , uh like just th the channels uh one till nine , uh on and off switch , which must be clear with a red button or something like that . Um , most standard uh have volume , of course , and a mute function , and , of course , the next and previous channel . I think that's just basic what we need . And from that on we can user requirements what we need more .
- Mm-hmm .
- Uh
- Yeah , I just um um I thought Joost was looking at the trendy the trends in the markets , and I don't know if there uh are any um uh if you put more functions , more buttons , maybe it's com becoming less trendy or something like that .
- Yes .
- I haven't really found a conclusion like that .
- M you can just you can k you can keep it in mind that . I don't know . Uh , I th I thought the the with less buttons you can make a more trendier uh yeah , more trendier design , I think . I think .
- Yeah .
- Design .
- Sounds interesting .
  Well , then the Marketing expert can uh tell us something about the current market .
  Yes .
  .
@@ -164,13 +143,6 @@
  Yes , won't be very present , thank you . And a trendy look , well uh , although seventy percent of the market is uh consists of elderly people uh who don't really care for trendy looks or whatever , I guess it can do no harm to make it trendy for the other thirty percent .
  That was kind of what I found .
 **********
- Alright , I've done some research for functional requirements . Um yes .
- The working method um there were hundred uh uh w h one hundred people , uh
- how do you say uh , f watched using remote controls in the usability lab and they also uh filled out a questionnaire uh with a few questions . Uh , I've lined them up here . Uh , ask whether um common remote control looks good or not , about willingness to spend money on remote control , about zapping behaviour , and uh and stuff like that . I uh have found some interesting things . We do we do got a market . Um , three out of four people claim m uh to find remote controls ugly . So if we make a trendy design , we sure have seventy fi seventy five percent of the market , which you can reach .
- Um , three out of four users uh zaps a lot , as I uh quoted here from the uh results . Zap buttons are used one hundred and sixty eight times per hour . That's quite a lot . Um ,
- relevant options are , of course , power buttons . Although , only used once per hour . Uh , channel selection , volume and buttons for text , and the more um , yeah , other functions , like audio settings , video settings , sound settings are not said to be very important and uh very much used . Furthermore , fifty percent says
- uh they only use ten percent of the buttons on a remote control . That doesn't say we got we can leave ninety percent off . But
- it sure um says we shouldn't make it too uh complicated . Fifty percent also claims uh to have lost a remote control very often in the room . And um an important thing here , the most important customers uh , which is over seventy percent of our market , is in the age range of thirty six to sixty five years old . And uh elderly people , our market , are less interested in uh nice features , but more willingly to spend more money on remote controls .
  Okay . Well , then we I'm gonna show you some of the new project requirements and then we gonna discuss on uh what features we find important . Uh , well some of the uh new requirements make some of your findings quite uh irrelevant , I think .
  Okay .
  Okay .

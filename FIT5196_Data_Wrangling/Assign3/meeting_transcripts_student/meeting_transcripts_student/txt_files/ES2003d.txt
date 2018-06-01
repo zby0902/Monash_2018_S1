@@ -93,42 +93,6 @@
  That's this bit right here . And uh this bit is this one easy to use for visitors or for anybody ? I guess it's just the same as saying easy to use interface , so it's kinda condensed into one . And we can come back to it , you said . So .
  Okay . No and which we will do very very shortly .
 **********
- So um how well would you say the prototype is uh how well have we realised the dream of being able to stop remotes from from being lost , or to be able to find them once they are lost . I mean , uh is the homing thing still the locator , is that still
- Yeah , that's still part of the design .
- Sure . And Adam , we can keep that in ?
- Yeah , I believe so . So I mean I don't think anybody could actually stop a remote being lost , 'cause that would mean doing something about the human element , but I'd like to think that we've done something about finding the damn thing once we have .
- Okay .
- Sure .
- T
- Mm .
- Sure .
- Mm . And making it a bright colour helps with the personally I would have gone for purple .
- Mm . Bright colour . So we still have that noise thing , yeah ? Os on a scale of one to seven , how would you guys rate it for finding finding it once it's lost ?
- Mm-hmm .
- I'd say number one .
- Number one ? Okay . Number number one for the first criteria .
- One . Yeah .
- I think w if it was just the sounder then th I mean something I've found with uh w w with say tr trying to find uh a cordless phone or a m mobile , you can hear it , but you can't quite pin it dow pin down where it is .
- Yeah you can tell what room the mobile is
- What about what if the the volume on the T_V_'s turned up massively and uh you just wanna turn down the volume can't find remote .
- Bu
- Suppose you have to go to the T_V_ and do it manually . Mm .
- Yeah .
- Yeah .
- Mm . Um
- Yeah .
- Like y you wouldn't hear the speaker .
- Mm-hmm .
- just before we go through all of the steps here , um well what we'll do is
- You wanna say something ?
- um if we can look at the criteria you're gonna evaluate , and then we'll come back to the product evaluation if that's alright . Yeah , is that
- That's fine .
- Oh that's that's fine .
- Um so is there anything here that you
- that you wanted to cover as in the criteria that you've covered ? And then we'll come back pretty much promptly to this .
- What do you mean cr is there anything I wanna
- I is there any of these criteria that need any explaining ? Or is there anything that yous thought tha really would stand out compared to the others ?
- Um , a few .
  Um .
  Okay .
  Slight problem we had was that we have an amazing four Euros over budget for what we were hoping to do . Um most of it stems from the use of the L_C_D_ which I think in the end accounted for about half of our expenditure because of course we required a chip as well . Um the only way to get this down was either to ditch the a L_C_D_ , at which point we've removed a large part of how we were gonna interface , require more buttons , etcetera .
@@ -277,63 +241,6 @@
  Yeah .
  It's not and we can see we'll come back to uh your evaluation which you're probably now going to pan us but there we go .
 **********
- Slight problem we had was that we have an amazing four Euros over budget for what we were hoping to do . Um most of it stems from the use of the L_C_D_ which I think in the end accounted for about half of our expenditure because of course we required a chip as well . Um the only way to get this down was either to ditch the a L_C_D_ , at which point we've removed a large part of how we were gonna interface , require more buttons , etcetera .
- Or what we did was that we um we as in I as I was quickly going over it was altering the actual structure . Um changing it to plastic and a solid unit with a single curve design would allow us to come back into the um proposed costs and we're just scraping it in , we've got point two of a Euro left over there . So we're just managing it really . Even then as well , um there was no criteria technically defined for a joystick so I've used what I think's appropriate . With any luck that won't mean that we've incurred more cost than we can actually afford to .
- It blows a lot of our really good ideas kind of slightly to one side , for example the possibility of having a U_S_B_ connection is definitely not viable now . Um .
- Different languages ?
- That should still be viable . We've got an advanced chip , we've got the use of the L_C_D_ . So being able to communicate in multiple languages is still very much a possibility . Um but what's something we need to decide on is how we're gonna go from here . We do need to try and come up with an idea which could be continued with other people if need be . Um .
- Yeah .
- We don't even have uh speakers here . The like uh we uh what about speakers and transmitters and stuff like that ? Have we factored that in ?
- Mm .
- Uh no , we haven't , not
- Transmitter , receiver , speakers . Plus the extra device itself that's gonna be on a T_V_ . Is that gonna be a button , or
- That'll it literally would just be a button . We might have to
- Yeah .
- That's too expensive isn't it ?
- It looks like almost nothing
- Mm . Oh good call , I missed that .
- I I mean it's not on here , but um .
- that's a very valid point .
- Did they s do we have to use an advanced chip for the L_C_D_ ? Okay . Well that's yeah .
- Yeah .
- So if we're gonna go with the L_C_ display , then that's
- What's a hand dyna dynamo ? You have to wind it up ?
- I believe so , yeah .
- That would probably not be in keeping with the um the fashion statement and such , yeah .
- Technology . Yeah .
- Fashion .
- Okay .
- So basically the only new thing is the L_C_D_ on the remote now .
- Being manipulated by the joystick , yeah .
- Oh , and joystick , yeah .
- Which I'm defining as scroll wheel . Um .
- And we couldn't replace the joystick , right ? Because we would need four extra buttons to replace it , up down left and right , and that would be more expensive than a but is a scroll wheel not just back and forward ?
- Mm .
- Yeah it's just because there was no actual definition for what a joystick might be , that
- that's what I've labelled it for the purposes of this evaluation .
- So
- The L_C_D_ basically is the big selling point of
- If we remove the L_C_ display , we could save ourselves
- the remote .
- a fair amount .
- Which you could
- But that's what makes it uh original though , isn't it ?
- Mm . I think if we remove the the L_C_ display then there was absolutely no point to any of these meetings and we just we could just put our branding on any other remote control .
- Yeah .
- Yeah . Yeah . Um . Uh k
- Mm-hmm .
- Okay , well l let's say that and then we can have our special coloured case and then we at least have make it a little harder to lose . Because most m most remotes are a fairly dingy colour that gets camouflaged under any pile of crap in a living room .
- So
- There we go .
- W what's the default colour ? White or black ?
- Black's probably the normal colour you'd say , yeah . I quite like that colour that you're fetching there , it's uh definitely for make it glow in the dark even better . So
- Or grey .
- Right .
- Yellow .
- Yeah .
- will we go with that then ?
- Okay .
- Yeah .
  Sure .
  Okay . Okay . So uh
  Just to give you an idea , um you want to go maybe a bit quickly as well , I'm not sure how much time . We've not hit the five minute mark warning yet , but .
@@ -458,81 +365,6 @@
  Mm .
  Even if we were to increase this entire thing by by seven , we were to go down a grade to to four , we would have to do I mean we didn't we weren't that kinda optimistic too optim overly optimistic . You know like we didn't we didn't add we didn't subtract a whole seven points from these things , so I think we're definitely on the good bit . Even if we gave this one seven and this one seven , that's still only three extra points over seven . You know , it's yeah , we did it w it was okay . It was good .
  Mm .
- Personally ,
- I think given that
- the product um
- only replaces a single remote control that you've already got ,
- are people really gonna shell out twenty five Euros for something that's only marginally good ?
- Well , it depends who your who's what the target people are , like you'd say
- maybe the fashion conscious
- Maybe it's been targeted
- women would be going , oh look at that , 's cool , it looks like a it's
- Mm-hmm .
- yellow , looks like a banana , it's cool it's gotta look good in the sitting room .
- Hide it in the fruit basket .
- Rather than the L_C_D_ whereas uh more technical like like more uh people in with the latest technology it's good , it's got an L_C_D_ screen 's only got two buttons and a joystick .
- So ,
- which which kind of people would be more
- likely to buy it ?
- Probably the people technologically . They're usually the ones that buy pointless stuff .
- I think so . I mean my mum still has not learnt how to use text messaging on her phone , and she's had it for a long time , you know . She uses it to make phone calls and that's it .
- .
- Yeah . So I think if sh if my mum saw a remote control like this with only two buttons and a joystick , I mean that'll probably be the first one she decides not to buy , you know . She'd be like is this a remote control , I don't how do you use it , and stuff like that . So even if it is really user friendly to us , but we're used to using menus all the time .
- Mm-hmm .
- Mm-hmm . I s I suppose one thing is that b because it's technically innovative ,
- um for someone who's sort of technophobic , the fact that it simply looks unfamiliar would be daunting .
- Yeah .
- Yeah . I think it's totally uh radical to have a remote control with no no numbered buttons , yeah .
- Um .
- Yeah .
- Yeah .
- But like radical good , maybe .
-**********
- Inspired by the latest interior and clothing fashion . W we could . What colour were we gonna make it ?
- Put a leopard print on it .
- Well I I I would sa I would say give a s give a selection of colours . Um we went with yellow we went with yellow for the prototype 'cause we had yellow . If I were buying one , I'd go for purple . Leopard print would be cool .
- I know , but
- But um by this I think it's more a case of fruit and veg ,
- Yeah we gotta . I'd say the colour of the border there world you'd find that , that's that'd stand out .
- Yeah .
- Like yellow , yeah . It would also help keep the the product placement s yeah . Is it inspired by clothing fashion ?
- Logo , brand .
- Mm .
- Mm 'kay .
- But
- Th th they're referring to the fruit and veg thing .
- Is this like a banana type colour ? Could we stretch no still , it's not shaped like a banana is
- Yes .
- It's kind o it probably
- That's kinda
- i it won't be when it's been
- Oh is that 'cause it's flat ? What is what fruit or veg is flat ?
- budgeted .
- I I think s I I think this isn't not particularly fruit and veggie . Um .
- Yeah . Or we might have to suffer badly for this one as well .
- Yellow courgette .
- Well I mean it's probably more fruit and veg than most other things out there bar fruit and veg , so , what , four ?
- Four ? Oh that's it's very ambitious , yeah , um .
- Is that being too generous ?
- Mm . I'd I'd I don't think fruit and veg is the sole criterion . Is the sole criterion for being um fashion fashionable or inspired by current fashions . Um I'd g I'd rate I'd rate this fairly highly from that point of view actually .
- Oh dear , .
- Sure .
- Inspired by .
- Well this this what we're gonna t this is their motto , like . And we're we're not doing well on it .
- Yeah .
- This is their strategy .
- I m imagine we actually had some money invested in this and the amount that we invest is gonna be proportional to the marks . Might we might wanna be a bit more skepible sceptical about
- this one .
- What would you think yourself ?
- I would say I mean it's it's not at all , right ? In any way or shape or form . We didn't m
- Well , it's kind of curved and we can make it yellow , and that's pretty much banana like .
- Okay , the the yellow banana like thing is I think is okay .
- Si it's got a curve to it .
- Right five . Is that sound reasonable ?
- Am I do you think I'm stretching the uh the use of the banana ?
- Yeah , I'll go with five .
- Five .
- Yeah .
  Personally ,
  I think given that
  the product um

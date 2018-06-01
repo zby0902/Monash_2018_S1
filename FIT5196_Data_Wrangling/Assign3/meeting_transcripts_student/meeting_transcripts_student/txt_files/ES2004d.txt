@@ -95,50 +95,6 @@
  Well done .
  Wrapping it all up , okay .
 **********
- And we'll first look at the exterior of what we've uh come up with over there . Um
- 'Kay .
- It's gonna have a a plastic body um with a sort of standard colour , either we're thinking some something fairly neutral like a a white or a light blue or something . This is underneath the rubberised the rubberised uh outer casing um which there'd be sort of a wide choice they would be attached , but we can we can come up with that . Um the um wide choice of colours and sort of patterns , so you've got you've got a lot of customisation with it . Um it's obviously an a sort of clam-shell design and uh the um the top L_C_D_ screen that you can see that would b would be sort of um
- You able to look ?
- Yep .
- Mm-hmm .
- Okay .
- .
- The black and white touch screen wherein people can
- Mm . So it's flush .
- Right .
- Oh right , okay , yeah .
- how do you say , it's yeah yeah , it would be sort of inset into the into the top and the buttons at the bottom would d so so it'll fully close flat . Yeah , yeah .
- And working on the inside we've um already said d decided on the kinetic batteries , which actually , thinking about it now , could y could also probably attach to the flipping open and shut as well , so that you could probably get a bit of
- So put it in the top section rather than the bottom sections , 'cause it's the top part that's okay .
- Yeah . Yeah . Um we decided that um the voice recognition system , it did actually say on the email that they were sort of coming in and they were fairly easy to get a-hold of , so we presumed that they'd also be quite cheap . So you'd have something like where you'd shout out , where where is the remote and
- Mm-hmm .
- it'll shout back , I'm here , or something .
- Or something .
- And then yeah . It wo it won't shout out I'm here or something . It'll just shout out I'm here , or something to similar effect . Uh yeah , if it was going like I d well tha that could be something for next time , maybe . You can have a remote that tells you exactly where it is . Um the standard , there's be a standard transmission with the T_V_ using using all the standard chips that we've talked about . Um it would it would have obviously 'cause it's split over two two different layers , it would need two separate P_C_B_s , so it would be joined at the hinge through some sort of cabling . And uh because , obviously , all T_V_s use this , the same infrared medium , we'd just be using using the same thing to transmit the data . And the infrared
- Okay . I'm under the sofa .
- 'Kay .
- Ah oka
- Or , that would be too complicated .
- Infrared .
- um sender would be on the on one of the bot the bottom layer , just at the front of the we haven't I don't think we actually put it on .
- Like here .
- Yeah , yeah , something like that .
- Okay . Actually , no , it would be it would have to be on the on the front . Oh right , yeah , okay , yeah , I've got you .
- Infrared could be here also . Yeah , here .
- Yeah , on the front on the front side of that , yeah .
- . So when it's even if it's open here , the signals would go . Yeah .
- It's still pointing , yes .
- Yeah , that would make sense .
- So when you've actually got it open , it would be facing the T_V_ .
- And then finally um on to the interface . The top screen , as we said , is would be an inset um black and white L_C_D_ s touch screen which yeah would
- This one right here .
- uh have all of all of the the available functions for for the remote on it , uh whereas the bot the bottom screen would just contain the standard buttons , like the vo volume up and down , channel up and down , power on and off , and uh things to that effect . And now we've we also decided on the inside , we could possibly either have um some some kind of sort of bezzled
- .
- Okay .
- uh logo on it , or something inset , or maybe an engraving of the logo on the top .
- Which is
- But not interfering with the outside kind of look of the product once it's
- No d not not actually . No , not uh interfering with l the whole look of the the product when it's uh on the thing .
  Um I've now got evaluation criteria .
  Certainly .
  So this is the one . Sorry .
@@ -511,53 +467,6 @@
  Except voice recognition , everything is
  Right , so we've done that .
 **********
- If we tr um .
- If we moved away from our much loved idea of a kinetic battery and just went with the standard batteries , would that make a huge difference ?
- And going to a regular bat
- Yeah , the standard , it um it would make one difference . The biggest one would be taking away if you took away
- Yeah .
- What I feel is , customers never said anything about the battery . It's internal , nobody looks into the battery . But shape and colours , that's something we shouldn't comprimi
- If you to
- Yeah .
- And people are used to buying batteries , they're not gonna say I'm not getting this , 'cause I've got to buy a battery for a remote control .
- If if you take away the voice , I I do I don't like to say it , but if you take away the voice recognition , then you've got it .
- Where's that special form ?
- Mm mm mm .
- Should we see what difference it makes ?
- Where's the
- Yeah i yeah . No 'cause it's samples sens sample speaker . If you took away that , that'll make it twelve point three five .
- where's the voice recognition ?
- Um
- Right , okay .
- Well the kinetic is three . If we change it to the battery it's that's minus three .
- They n n yeah , but you p minus three plus two .
- Oh , right . I keep seeing zero .
- Um
- We can do it some other way , we can do it doesn't have to be voice recognition . We could do the voice recognition for , you know , business class or something , you know , like an upgraded version . You could choose to have that or not .
- Yeah .
- Yeah . But they but I mean in I don't see why we have to sell it for twenty five Euros now , because they w they were saying they were quite willing to pay more for better product .
- Sure .
- Mm-hmm .
- But we're still working to um head o
- So should we just change the design specification then ?
- Make it costly .
- We can put in our recommendations . If we if we're working to head office specifications as this is what this project team's working for , we can put in our recommendations for what we've we've found and what we the consensus that we've come to as a result of the meetings . But we need to work to that specification to start with . And I think the voice recognition sounds wonderful , but our object is so distinctive that that in itself is gonna make it easier to locate as a f you know in a first instance . Um as you say , we can offer the voice recognition initially to business class customers and so
- Yes .
- Yeah .
- Mm-hmm .
- We c we could s
- Yeah , we could say
- Mm-hmm .
- Okay , we can
- Yeah , I s
- make the price fit , and then say if we'd had our budget , we would've had this , because it also sets it apart from the crowd . They like their gadgets , they like something that's completely different . It's s something completely different associated with your company . Right , okay , so
- And then say we recommend
- Mm .
- Yeah .
- Yeah .
- 'Cause we've done all the background work to go for that if they want it .
- Yeah .
- Yeah .
  Okay . Product evaluation .
  We've done room for creativity , haven't we ? Because we've got decisions that we would have made that we weren't didn't feel able to make . Um
  Yeah .

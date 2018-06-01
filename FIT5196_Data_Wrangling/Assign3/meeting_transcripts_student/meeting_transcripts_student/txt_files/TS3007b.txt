@@ -78,61 +78,6 @@
  'Kay , that's it .
  Thank you , Tim .
 **********
- 'Kay , welcome . I have some uh new findings on uh Marketing Expert level ,
- Mm-hmm .
- which I will show you .
- The method I used was um giving orders to our usability lab uh to do a questionnaire . Um one hundred respondents were involved
- and my marketing uh department generated a report with a lot of results .
- Um ,
- these were a couple of findings , first page of three . Um ,
- we have three audiences of two audiences , I'm sorry . Uh the first one , this scale , from sixteen to forty five age . Uh the second one is from sixty four uh forty six to sixty five . Um , as you can see here , the market share for the first audience is about sixty percent um sixty five . Uh second audience audience is uh thirty five percent .
- Mm and some interests from the from the age groups , uh it seems like the young users of remote controls really like the fancy uh new technology stuff , like uh an L_C_D_ screen on the remote control , um
- speech recognition .
- I don't think that's uh really appropriate . Um , and when you see uh the audience ,
- the age is going up uh
- Yeah , they don't really want it anymore , at least the new technologies .
- Second findings out of the questionnaire um are the opinion
- the opinions uh of the audience about current remote controls . First point is , seventy five percent of the users find the most repo remote controls very ugly , uh and eighty percent of the users would spend more money when a remote control would look fancy .
- So that's maybe something for the User Interface uh Designer .
- Okay , third findings . According to the frequency of use versus importance investigation , um following buttons are most important . Um , I will tell something about the way this uh this test was , yeah , done . Um , persons were asked
- uh what the buttons were uh they use most , how much an hour , and uh in the second table the importance of those buttons . Um , when you multiply them , you get the these three points . Switching channels , um yeah ,
- Mm-hmm .
- that's pretty uh
- pretty normal , that's what you do with a remote control . Um the second , teletext , uh and the third , uh volume controls . Um , I think it's good uh that we know what the user want wants , uh at least the these three points have to be uh very clear .
- But it's strange that the the manage board the management board said that the teletext will be uh outdated by the internet .
- Yeah , okay .
- So that that's strange .
- Yeah , okay , but uh at the moment uh teletext is
- Yeah , th the best thing you can get uh on T_V_ , like getting information . So uh , when you ask people , what do they use ,
- Yeah , okay .
- Yeah .
- they use teletext and not the internet on a remote control . That's ridiculous .
- Okay .
- Yeah , okay .
- Yeah .
- That's a ne i it It's a new technology , but it's not incorporated right now .
- Yeah .
- Okay , my personal preferences . Um ,
- I think we should aim at the uh audience from sixteen to forty five .
- Mm , first of all um it's the biggest share , the biggest audience , sixty five percent . Uh second , I think you will get the most revenue from i from it . Um ,
- yeah , people from sixteen to forty five watch a lot of T_V_ , more than uh people who are el uh elder . Um second point , we have to impro improve the most used functions , as I said here , switching channels , teletext and volume controls .
- Third point um that came out of the uh of the questionnaire , uh people used to uh
- get lost off the remote controller , so maybe it's an idea for us uh to design ex kind of placeholder uh on side of the , yeah , of the T_V_ where you can put the the remote control in .
- Yeah , that's a cool idea .
- Um ,
- that's about it , I think . Yeah .
- When you mentioned uh improving functions , what uh what do you mean by that what what are you think about ?
- Uh not not the r not the functions , but uh it came out that a lot of buttons weren't even used uh on a remote control . So you can have a remote control full of buttons , a hundreds hundreds of buttons , but if you don't use them , yeah it's
- Uh , the funtionability .
- Yeah .
- Ah okay , so focusing more on the used buttons .
- Yeah , they have to be on it j just to t to get it done if necessary , but um the most used buttons uh have to be bigger or
- Yeah .
- Could you use perhaps uh one button for multiple functions , like example pressing it in longer makes it switch to an different function for example .
- Yeah , perhaps . Just for the minor functions perhaps .
- Thank you .
- Yeah , ma perhaps , just just an idea .
- Just to get less buttons on the remote control , to make it easier and quicker to learn .
  Janus , can you uh
  Uh yeah yeah , I'll go , sure .
  Right uh , I'll be uh explaining a bit about uh working design about uh the project . Well uh what I did was I dissected uh uh current remote controls and um I viewed how how they w looked , how they worked , uh what kind of components are involved , and how they are connected together . And uh after that I put up a scheme about how uh these things are organised and I'll show it to you in in a in a few seconds . And I'll explain a bit about uh how it works and how we could uh build one and why I think several possibilities uh that we discussed in the earlier meeting falls off .
@@ -161,78 +106,11 @@
  Okay .
  Okay , thank you Janus .
 **********
- Um right . Uh well what I did was uh I I checked uh remote controls and the uh remote controls of today are all infrared , not like all probably know . And the thing about that is um the remote controls uh have to act as a T_V_ or uh a stereo or something , and those uh have a transmitter that's also focused on infrared , so if we want to uh build uh mm a remote control uh with Bluetooth for instance then uh the T_V_ should have Bluetooth too in order to communicate , so that would mean extra cost for the user and thus uh that's that wouldn't mean a a cheap uh remote control for us .
- So that's probably why most controls are still infrared . Furthermore they all have uh a a very simple structure , so that would probably uh mean lower costs and uh i that could mean for us a good thing uh 'cause uh well we we should be able to build a relatively cheap uh a cheap uh remote . Well uh as I mentioned ready , we have some Bluetooth Well it may be possible , but uh I figured it wouldn't be possible in within our budget , but that's not for me to decide , but that's maybe something for marketing to look into . F because uh well my personal opinion is uh is not to do uh Bluetooth or or radio waves , although
- What do you think about uh incorporating Bluetooth or a radio uh receiver uh in the place-holder next to the T_V_ , connected to the T_V_ ?
- Yeah , actually I have t
- So it's in the wrong product .
- Yeah . Yeah , I actually I figured that would be that would be rather nice , but then you'd still have the uh the infrared function . So in in theory you'd actually just move the problem , but uh what I did uh think about was when you mentioned about the uh the cup-holder , is why not uh introduce a speech function like where is the remote . If somebody says , where is the remote , then it goes uh beep uh beep beep beep or something , I dunno , maybe uh maybe something to look into , I dunno uh what the cost that something like that would be . But it may be uh may be something to explore . Uh I'll I'll just explain a bit of the components . Uh first you have the energy source . The energy source would be a battery , simple uh battery uh that you can find anywhere . I figured that would be best , 'cause when the battery uh stops functioning uh we could just uh use you could just go out and buy a new one .
- Yeah .
- Yeah .
- Yeah .
- So we didn't and we don't have to do all uh to be too complicated about that . Uh the energy source is connected to the infrared button , but uh the infrared button uh works only via the chip and the subcomponent to uh the switch there is a switch uh between these . When the switch is pressed in a w on this this case it switches a button , when a button is prush pushed in , uh a electric current goes through here , and in uh immediately , a l a bulb lights up uh displaying to the user that something has happened . That's uh that's so the h user won't be um thinking , well uh did the button be pressed , w what happened uh . Or I press button but nothing's happening on the T_V_ , so is is something wrong or something .
- So that's just to uh to to explain the of to to uh make it clearer to the user . Uh w well the signal goes via chip that's translated into uh electric sig uh electronic signals and then it's processed and then it's sent to the infrared bulb where it will be uh uh received on the receiving end . And those uh interpreted by the device , well in this case the television . Uh well my personal preferences here , well we have to keep it simple . Not too many uh gadgets and functions , just like you said uh well the most users n uh you have a lot of buttons and you u u use you don't use them , so why why should we invent uh w spend more time on those .
- Uh I I think we should stick by with infrared transmitting and uh no receiving . So uh no input from the television . So I think we shouldn't be uh spending time on um teletext and st things like that , because when you uh want teletext on uh infrared you'd have to build in a receiver too , and so in order to receive the signals from uh what's on T_V_ and such . So I figure that would be uh spending too much money and time and
- Um ,
- yeah , maybe another problem uh ,
- I think current T_V_s can even send infrared .
- Yes , but what should we uh s I I I f I agree with you , but should we spend money or and time on building a receiver into the uh remote control ? 'Cause that would be I mean extra components , extra designs , um larger g uh remote control . These all uh all stuff that we have to take in account . So I I my personal opinion is no no no receiver at all . Um , well we should uh look into the design and the functionability . Like I said , uh use one button for instance for m multiple functions , or well uh just hide the few buttons o of switching it open or something , the usual uh stuff . And uh don't overbuild , we shouldn't make a big uh remote control for simple functions , but we we should stick to the basics .
  Yes , I can go ahead . Last presentation . Okay .
  You do ? The last presentation . You have plenty of time , Tim and uh Janus don't uh talk to ten minutes , so uh take your time .
  If you take your time too long I will uh eventually uh
  warn you .
  Well , I'm going to give a presentation abut some of the technical functions of these design and uh usability functions .
- Um what's my opinion about what's most important to combine the design , technical possibilities and the user friendliness in one , so if you um going to design a remote that looks good , that shouldn't weigh over the uh if it's possible to make , of course , but also the user friendliness , so tha that's that's some of the main points . And another one is um the use um of many functions will will make it more difficult , so use as as little functions as possible or at least don't display them all at once on the same remote . If you have fifty functions you don't want fifty buttons uh t uh to be shown at the same time , 'cause when you visit an internet uh site you don't want fifty links uh to see , but maybe use a hierarch hierarchy uh structure .
- Hmm .
- And uh well one of the ideas was maybe uh use touch screen , but s I don't know in how far that is possible , since we are sticking to uh um infrared and and the remote cannot receive anything , but uh we might uh consider that . Um well , of course I I hope this is all clear to you . If you you can use remote like this with all the functions ,
- Hmm .
- many functions , but Well , your thumb is a little bigger than th it than this . You have to be very careful what you push , and um if you're looking for teletext you'll be uh searching for half an hour from uh um yeah well , where is it ? Where the hell he here I guess and , yeah , when you have to uh use something else . So just keep it simple , make clear buttons , easy to use . For example if you want to use a play and back and stop ,
- that's very important .
- Um well this was because of our last discussion , if multiple machines are used , create easy switch between the machines , but um it's no longer uh applying .
- Well yeah , I prefer to use it only for T_V_
- and um
- n uh not to give too many options and and if possible , uh the buttons should give a dr direct action , not first select
- Uh you you just said um uh you wanted to to combine more functions in one , so uh you you want to keep it simple , but I think that if you want to do that , then you can't escape the the fact that there will be buttons uh which give s uh more options than one .
- Yeah , and so that's where the difficulties lie .
- Yeah , but
- Yeah , this so that's the thing you have to weigh against each other . Do we want to use a few options and might not be so or original , or uh multi-purpose as we thought , or do we want to use um many buttons . So um weighing those factors .
- Yeah . Yeah , but
- Mm-hmm .
- Okay .
- Yeah .
- Hmm it's maybe an option uh if you use an L_C_D_ or a touch screen um ,
- that in the middle are the the main keys , like displayed on the
- Uh yeah .
- The doesn't .
- .
- Yeah , this ? No ? Yeah . Something like that . Okay , just uh in the middle the general functions , like play , uh
- channel switching , and then uh at the top or at the bottom , some menus like uh settings or that you can drop down .
- Yeah .
- Yeah , but when all the questions I had Do we want to use uh a menu display on the T_V_ ? Or um does have to f everything uh be in remotes ? 'Cause if you use a memory display on the T_V_ , you can simply push uh a more menu and then select the options you want to have and press okay . Uh so that's my recommendation , if you use many options in one buttle button , um display the menu on the T_V_ and don't um use combination of t of two buttons at the same time or pressing buttons three times for five seconds , is too complicated for most users .
- Mm .
- Nah .
- Mm-hmm .
- Yeah .
- Yeah .
- I think so too , but and that's partly because um uh a lot of T_V_s have different menus , and when you have a particular menu uh at your device , uh it could be that don't correspond to the menu what's actually on T_V_ .
- Yeah , but
- Yeah , that will be a problem .
- Yeah .
- Well you d you have to keep in mind that uh several T_V_s uh don't even have a menu structure , or they have a very simple menu structure , so you have to keep in mind that not all uh d not our remote won't be able to work on all televisions . And that would be uh a considerable problem .
- Yes .
- So if we have to stick with current technologies and uh
- um
- well yeah , the restrictions of what's uh is on the market today , um you should keep it s at this . Use big clear buttons . Not too many .
- Yeah .
- So maybe we'll loose a few option uh options , but I think i this is more important . Um
- especially the important buttons , um if you want to switch channel , change your volume , uh use teletext , it uh it has to work at once and more advanced options may be put it s somewhere away on the remote , behind uh a little uh little thing or a touch screen .
- Not embed
- Yeah , but then with something like a touch screen could could make more menu up pop up or something .
- And yeah , if you want to uh uh s put on stand-by or change the channel , that should always be possible to do . Not first change menu options or switch something . Um , well yeah , as you already told , give some feedback . If the user is pushing a button he should know if the television or n at least remote is reacting and not just that the batteries may be low .
- Yeah .
- Yeah .
- And um , well , my conclusion is uh is uh less is more , keep it simple . So uh maybe we should just ease down on the functionality to uh to keep it accessible on t because you all know , if there are a lot of function on the the television , some you you'll never know uh and never use , and therefore it's uh important if you want to change the volume or channel that is always accessible and easy and other functions um that are not so important um well you we should consider just not using them or at least putting them somewhere on the remote where they're not in the way for the for the most important functions .
-**********
  Um what's my opinion about what's most important to combine the design , technical possibilities and the user friendliness in one , so if you um going to design a remote that looks good , that shouldn't weigh over the uh if it's possible to make , of course , but also the user friendliness , so tha that's that's some of the main points . And another one is um the use um of many functions will will make it more difficult , so use as as little functions as possible or at least don't display them all at once on the same remote . If you have fifty functions you don't want fifty buttons uh t uh to be shown at the same time , 'cause when you visit an internet uh site you don't want fifty links uh to see , but maybe use a hierarch hierarchy uh structure .
  Hmm .
  And uh well one of the ideas was maybe uh use touch screen , but s I don't know in how far that is possible , since we are sticking to uh um infrared and and the remote cannot receive anything , but uh we might uh consider that . Um well , of course I I hope this is all clear to you . If you you can use remote like this with all the functions ,

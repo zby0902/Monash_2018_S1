@@ -101,71 +101,6 @@
  Mm-hmm .
  So this is our proposed model .
 **********
- Uh so this is our what uh we have made . This is a model of the remote control which we are going to build . Uh this is us in a snail shape so uh it it is attractive um and it's it's blue in colour uh bright and uh it has yellow buttons and all the different colour buttons so it is a uh uh a looks-wise it is beautiful . Uh and also compact in shape . Uh um and also i it it will be easily fit into into the hands and you can access all the buttons easily .
- Mm-hmm .
- Mm-hmm .
- Mm-hmm .
- Mm-hmm .
- Mm-hmm .
- Mm-hmm .
- Mm-hmm .
- Mm-hmm . Good .
- Yeah , oops , sorry .
- You used to have all the buttons
- Um yeah and um uh the material which we are going to use for the case is uh plastic and uh w which which is s strong um uh and also uh for the
- Um the material is plastic and uh for the buttons it is uh s soft rubber um and als yeah . Yeah because uh uh you'll be touching the buttons more so it is soft when you touch it .
- Oh that's good , no , that's nice and friendly .
- Mm-hmm . Mm .
- Mm-hmm , mm-hmm .
- Mm-hmm .
- And then um uh for the for the led , for the light emitting diode it is a fluorescent green and it's a a it is a bulb like an ordinary infrared .
- Mm-hmm .
- Mm-hmm .
- And and the button button's part uh will be explained by F Francina .
- Okay . Now the um we decided upon including certain features on our remote . Now these features includes the s um signal emitting uh signal it's the led or L_E_D_ the infrared . Now uh we have included the switch on and off button .
- Okay .
- Yeah , okay , mm-hmm .
- Mm-hmm , mm-hmm .
- Mm-hmm .
- Now we have included another feature that is the mute button
- Mm-hmm .
- on the side of the model . Then we have included one to nine buttons
- Mm-hmm .
- for controlling the programmes the different channels .
- Mm-hmm .
- We have also included two buttons for increasing or decreasing the volume .
- Mm-hmm .
- And we have also included two buttons for scrolling up and scrolling down the programme channels .
- Mm .
- Now our our model also contains a button which is called as the menu button .
- What kind of button ?
- Menu button .
- Menu ? Uh menu th menu , uh one one .
- Yes , menu
- Menu button .
- At the centre
- Mm-hmm .
- we have included a button which is fluorescent green colour and this is the menu button which will control the colour , sharpness , brightness
- Mm-hmm . Of the screen . Mm , mm-hmm .
- of this uh picture .
- We have also included a button which is called as the swapping button .
- Now this is uh a special , special feature which we have included . Now this button
- is an elongated shaped button and this is slightly flexible so if it is turned towards the right it will take to the previous channel , if it is turned towards the right it will take to the next channel .
- It will take the user to the previous and the next channel so this is a
- swapping button .
- The next channel in the numeric pattern , or
- No , swapping is if if example you're you're watching the second channel and then you go to the tenth channel and if you want to go back to the second channel you can swap , this button . Yes .
- Yeah , mm-hmm .
- Mm .
- Okay , okay .
- And at the end , it this remote has inbuilt voice recogniser which c which will recognise the user's voice and then it'll act accordingly .
- Okay .
- Mm-hmm .
- Mm-hmm .
- Okay .
- Mm-hmm .
- So this is our proposed model .
-**********
  Now the marketing expert has to
  Tell , yeah .
  give her suggestion whether it'll be sellable or it'll be cost effective .
@@ -555,44 +490,6 @@
  Yeah .
  Are the costs within budget ? Yes , yes . Uh is the project evaluated ? Yes .
 **********
- Uh .
- Here is what we looking at uh satisfaction on for example room for creativity .
- Um .
- Is there more room for creativity or are we absolutely happy ?
- Maybe we can
- We can always improve , yes .
- yeah , include some more buttons and uh um yeah features . We can make the buttons few buttons smaller . Uh I think they are quite big , so I think I I mean we can just have small buttons and more buttons in that case . If we want to have more features than that .
- Yes , features .
- Mm-hmm .
- Well then again if we're gonna um do the speech recognition thing we're gon there gonna be some buttons that are gonna have to be added for that for the recording of the the speech . So that that's where we're gonna have to do maybe we can eliminate one of the mute buttons , instead of having two mute buttons . And um then maybe we can do something with the um
- Yeah .
- Yeah , definitely .
- Yes .
- Voices .
- Mm-hmm .
- Yeah , definitely , yeah , two mu mute buttons .
- Yes .
- Yes .
- the volume control . Maybe we can put that all on one button .
- Hmm .
- Um and a couple of other th maybe comp uh consolidate some of the usage an and see what we can do with that .
- Mm-hmm .
- Y um al always bearing in mind that right now we are of course well within the budget and that we still you know we probably can't , with this particular item , we probably can't just uh add a whole lot of more things . Uh um we need uh you know we need to leave space money-wise for the voice recogniser .
- And maybe
- Mm-hmm .
- No .
- Yeah .
- Mm-hmm .
- Mm-hmm .
- Yes .
- Um .
- Mm-hmm .
- So th the question really is how do we feel with the project process ? Uh , um are we happy with the creativity that has passed here or we're not happy with the new product we created or that was created ?
- Uh I think personally I think uh I'm pretty happy .
- I'm pretty happy with it too , yeah um , it's something I think I can market . Yeah .
- Even I'm happy .
- Um an
- Yeah .
  Um then celebration .
  Celebration . Today we have apple juice and after we sell m million of 'em we have champagne .
  Cel celebration yes , yes .

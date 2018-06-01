@@ -35,7 +35,6 @@
  Okay .
  No problem .
 **********
- Um we're here to develop uh a new product . Um I'm sure you've had a mail from our account manager about it . Um and um this is the first meeting to to generate some uh uh some ideas about it . Um you are here in a specific role . Uh Ruud is here as the Marketing Expert , Roo is here as the User Interface Designer and Sebastian is here uh in the role of Industrial Designer . Is that correct ? Okay .
  Um okay , this new product we are are g are going to develop , um
  it's a remote control , a television remote control . Um and first of all it should be original , it should be trendy and user-friendly . Those are kind of easy um uh uh goals , um and I'm sure we can find more goals for the for the product we are going to develop . Um we will discuss uh later on more ideas about uh how the remote should look and how it sh it should function and all those kind of things . The market , we should have a look at the market . Um we are going to use a a pred a project method uh during uh this development , um which consists of three different design stages .
  Okay .
@@ -243,28 +242,6 @@
  But you can't you can't use Bluetooth all the time , twenty four hours a day . Does it
  No , you cannot .
 **********
- Well , I I've seen these remote controls with uh this little stick uh which you can move forward , sidewords . You know these things . And um it's very easy for a user to to switch w yes , to to switch b uh between uh channels or uh change uh between tracks on a on a C_D_ , on on a chapters , you know , on a D_V_D_ player . So maybe that's an idea , I don't know .
- But
- Yeah .
- Uh-huh .
- They're very vu vulnerable .
- Yeah .
- Yeah . And for other user interface I had um , well , it's more industrial thing . Uh point at a T_V_ , I think it's it's quite disturbing when you always have to point directly to the T_V_ , so you must point everywhere , so maybe infrared is
- Mm-hmm .
- Okay .
- Maybe not even pointed . Yeah .
- Yeah , just don't even point it , so in that case infrared should uh maybe uh be restriction to that .
- Mm-hmm . Uh is that uh are there restriction for the range , the operating range too ? So when you're not able to point at the device um the range is very limited .
- Okay Uh
- Yeah , if you g if you go to radio or or yeah . For T_V_ , you're always in in the neighbourhood of a T_V_ , so I don't think think
- the range should be a problem to that , but if you want to uh get it working with a radio , and you're in outside your garden with just one uh speaker , then maybe the range should be uh
- You should able to feel the buttons without uh it mis um you have to know what you do without looking at the buttons , so it should be as user interface um for feeling should be uh good to understand . You must feel the buttons for volume or whatever , I think . And of course you don't always know where all buttons are , so it should be visible al um in dark too . So when it's dark
- Okay , s yeah .
- Yeah .
- Okay .
- Those are two really uh user interface
- Uh I'll write down glow in the dark .
- Okay , um I ha I have one point f um which which comes in mind now . Um uh d I think the device should either be rechargeable very easily um or it should not consume too much um power . Because it's very annoying if you need to change the batteries every s uh uh every other week .
  Okay . Gentlemen , I'm afraid we do not have any more time . Um
  It's over ?
  Okay .

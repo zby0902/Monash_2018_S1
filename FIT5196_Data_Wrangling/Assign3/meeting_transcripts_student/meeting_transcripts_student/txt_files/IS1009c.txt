@@ -119,55 +119,6 @@
  Mm right .
  Mm-hmm .
 **********
- Okay . Now the function of a remote is to send messages to the television . This messages could be uh switch on-off message or switch to next channel message or swapping the channels or switching onto a particular channel , like you can have the numbers one , two , three , four , up to nine .
- Nine what ? Nine channel uh switches ?
- Pardon me ?
- Nine channel switches ? Is Yeah . Mm-hmm . Mm-hmm .
- Yes , nine numbers .
- And then you have swapping of uh button by which using which you can swap the channels if you don't want to see the third channel you can swap it to the fourth channel or vice versa .
- Mm-hmm .
- Then it should have a next button , and next button channel by which you can keep on uh v uh mm eh scrolling the channels one by one . Next slide , please .
- Going to the nex next .
- Mm-hmm .
- Mm-hmm .
- Mm-hmm .
- Then you should have a button which should which ca which can be used for increasing or decreasing the volume .
- Mm-hmm .
- Then , there should be a button which can give subtitles for a particular program which is going on a television . For example , if you are watching a French program and you would like to have a subtitles in English , then there should be a channel which can trigger this mechanism in the television so that the user can see uh the the subtitles on the screen .
- Mm-hmm .
- Then there should d uh there should be some buttons which can control features like the colour , colour of the picture , the contrast , sharpness , brightness of the picture .
- Now there should be a memory switch .
- There should be a mute button . Suddenly if if if uh uh viewer he gets a telephone call , and if he want he doesn't want to switch off the uh T_V_ , but he he can reduce the sound , he can bring the volume down and he can watch he can uh while talking he can watch the T_V_ .
- Now the most important feature I would like to have in my remote would be the speech recognition feature .
- It's an integrated progra programmable sample sensor speaker unit .
- So a remote can be th can be uh designed which can have the voice recognisers , you can record your own voice
- Mm-hmm .
- which can be recognised by as voice recogniser in the television , for example , if you want to see we if you want to see the ninth channel if you say just say ninth channel , uh th now the the uh yeah , the remote will automatically it will switch to the ninth channel . So the T_V_ will have some recogniser which will recognise the user's voice and accordingly it will change its functionalities . So this is one of the very important feature a remote control can have .
- Mm-hmm .
- Mm-hmm .
- Mm-hmm . Mm-hmm .
- So this is one one of the interface which can be created .
- Mm-hmm .
- A very simple interface which has all the t uh uh important features .
- Then , please , next slide .
- Mm-hmm . Mm-hmm .
- Then , these are some of the remotes which are different in shape and colour , but they have many buttons . So uh sometimes the user finds it very difficult to recognise which button is for what function and all that . So you can you can design an interface which is very simple , and which is user-friendly . Even a kid can use that . So can you go on t t uh to the next slide .
- Mm-hmm .
- Mm-hmm .
- Yeah , so this is one of the interface or one of the remote which has this vi voice recogniser . And this has multi-purpose use , it can be used for T_V_ , it can be used for cable-satellite , it can be used for V_C_R_ , D_V_D_s and audio .
- Mm-hmm .
- And this has in-built voice recogniser .
- Can you go on to the next slide ? Yeah , now this is an interface for a chil uh for a remote uh uh which a child can use . Uh this is user-friendly , it's very attractive and uh children can use it as well as they can play with it . And this comes with different colours , different shapes .
- Mm-hmm .
- Mm .
- Mm-hmm .
- And this this uh child uh interface has minimum buttons and all the important uh buttons are there in this small , compact ,
- attractive child interface .
- Next slide , please . Now this is a big over-sized remote which cannot be misplaced or it's impossible to misplace . this .
- You don't know me . I could lose that in a minute .
- So this is No this is a very big , you cannot misplace it anywhere . So this is a jumbo universal remote control and it's impossible to im misplace or lose .
- Mm-hmm .
- This i this is one such interface which can be created .
  Ho who wants to go next um ?
  Yeah , maybe .
  Mm-hmm . Okay , and you
@@ -245,65 +196,6 @@
  We'll just go for push buttons for in the interest of cost . Okay .
  Push-buttons .
 **********
- Um this time I'm I'm going to um concentrate more on the components and the technical side of the remote controller design . Uh , can you go on to the next slide , please .
- Mm-hmm .
- Mm-hmm .
- I have just brief uh down few uh components which we require for the remote control uh construction . Uh the first one is case to keep all the components like integrated circuit , battery , etcetera , etcetera , it's like
- Uh it can be a plastic one , hard plastic , so that it can be strong , even if you just uh uh , you know , if you if it falls down , then it doesn't break . So it should be strong . And uh uh there are no harmful materials used in that . And it should be recyclable .
- Mm-hmm .
- Mm-hmm .
- Uh and uh , yeah , and also uh using of colouring compon components like uh if we want to have different colours , blue , red , green , so uh uh we have to use uh some colouring compone compone components .
- Mm-hmm . Good point .
- And uh the second important thing is uh uh uh integrated circuit . Uh which uh we can use a highly sophisticated one because it's like the it's like the heart of the remote controller . If it is not efficient then everything wi is going to be uh like um the lef ess less efficient so it you should we should have a highly sophisticated one . And it should be resistant to high as well as uh low temperatures . Suppose if it is thirty-eight degrees outside forty degrees outside , it should it should uh be able to re uh resist the uh temperature uh uh highs and uh high temperatures and low temperatures . And uh it should be with uh um equipped with timer and alarm facility .
- And the uh other component we should uh we have in the remote controller is a resistor uh which is like uh uh i it is very very much important for the electricity uh flow through through through the uh remote controller and uh also a capacitor which is a b which is a m I think it's it's like a battery , capacitor . Can you go on to the next slide , please ?
- Mm-hmm .
- Mm-hmm .
- Uh a diode , a transistor , a resonator , these are all this uh technical uh electri electronic compons uh components which are which we have to use in a remote controller . A battery uh , I would like to suggest one thing uh if we
- uh if we will be able to make a res rechargeable battery then we sh we need not go for a high performance battery , even if it is a low performance battery it ca it can't l it can't charge much . It it it's not a high voltage battery . Then also we can If it is a rechargeable one , then uh people can use it for a long time , so in that way we can cut cut the cost , but w uh uh that we have to make the battery as rechargeable one .
- Mm-hmm .
- And we we have a circuit board uh in a remote controller .
- Can you go to the next slide , please . And how it works , how the remote controller works . When you press a button
- Go away .
- Thank you . Uh when you press a button , when you do that , you complete a specific connection that means when you when you press a button there will be a s a small circuit underneath the button , and it will send some signals through the wires , and then uh the chip will send start connection and knows that which button is pressed . Suppose you have pressed channel one button , number one you have pressed , then the uh chip will know that the number one button was pressed . It pros produces a mors morse code line signal specific to that button .
- Every button , every individual button , has its own morse code . Suppose uh the uh user has pressed butto button one , then it will have a spe the circuit will generate a specific morse code to b that that button , and the transistor will amplify the signal and send then to the L_E_D_ which translates the signal into infrared light . Like you have got a signal by pressing a button . That's a d a morse code has been generated by the integrated circuit .
- Now , that signal , that morse code , has to be amplified by the transistor . That is the use of transist transistor we which we use in the remote controller . It will amplify the signal and it will send it to the L_E_D_ and which translates the signal into an infra infrared bits . The sensor on the T_V_ can see the infrared light , and seeing the signal seeing the signal re it reacts appropriately , that when it sees the amplified mo morse code signal , then it will uh it will uh know which uh what what action it has to uh do . Then it will do the appropriate action . So uh this is how the remote controller works .
- It works .
- Can you go to the next slide , please .
- Yeah , I have few pictures . When you look at the uh um remote controller uh it's it's it this is a normal remote controller . And to the next slide , please .
- Mm-hmm .
- And where we had a a few buttons and all . And uh if you open the remote controller you have this circui circuit board and few electronic components , like you can see a chip there which is having eighteen pins , and also a capac uh a capacitor , three resistors and also a resonator uh um mm yeah , and di and a diode transistor .
- Mm-hmm .
- Mm-hmm .
- Mm-hmm .
- Mm-hmm .
- The electronic components uh all of the electronic components have all those uh things like a chip and d diode transistors an
- Yeah , di um can y uh you can see the T_A_ double one eight three five labelled uh chip um .
- Mm-hmm . Mm-hmm .
- Mm yes .
- Yes .
- Uh you can also see the uh uh the green two green things are uh these are they are they are resistors , and uh just beside that you can see a transistor , and a uh uh cylinder shape , uh that one is a capacitor . Uh and also there are uh um resistors uh sorry , ther there is a diode . Can you go go on to the next slide .
- Mm-hmm .
- Mm-hmm . Mm-hmm .
- So uh this is the circuit board . The green one is a circuit board . Actually , uh building a circuit bo board is pretty pretty uh easy and also it's a it's a l l inexpensive . Uh it's it costs less than what you print on a paper , because uh uh when you when you are building uh some circuits some um uh circuits and also wires , it's it's better to go for printing , because uh you can build these kind of k circuit boards on a on a bulk and it's just printing , nothing like uh , you know , you don't need to use wires and all . It's not exactly wires we are using . It's just printing something on a board . Tha tho those prints will acti act as wires and ci uh circuits .
- Mm-hmm .
- So th that green uh thing is a circuit board , and also you can see uh there are b s like uh um access for buttons , like when you press a button , the circuit under the button will be activated uh th it will it will he get some signals from it and it will uh it will ch its ch se send a signal signals to the , yeah , um integrated circuit . Can you go to the next slide , please .
- Transmit .
- Uh so this is these are the circuits un underneath the buttons . Uh can you see the black uh , round marks ? They they are the circuits .
- Mm-hmm .
- Yes .
- Next , please . And um like uh we have uh designed uh before we have seen some uh few things like instead off buttons we have some scrolls . Uh b but a b a push-button requires a simple chip underneath it , but whereas a scroll wheel requires normally a regular chip which is a higher price range . Like for s scrolls we have to go for a sophisticated and and k uh uh uh full a complete chip . Uh and a as energy source we offer a basic battery , a more ingenious uh hard dynamo , um a kinetic provision of energy , more than what is that you shake casually to provide energy . So that also we can have in a battery , uh or we can use solar sells . Uh .
- Okay .
- Okay .
- Hmm , that's interesting .
- Yeah .
- Uh yeah uh the product can be de delivered into different cases . Uh usually , the cases and card flat that w we see usually uh d uh a normal remote controller . Um .
- Okay .
- Okay . And you have more pictures . Uh we have five minutes to the end of the meeting .
- Yeah .
- Yeah , maybe d uh I have just one more slide , I think . Um .
- Like we can have a ma material such as plastic , rubber , wood , titanium , but titanium we can't use . Um and also for electronics we can use a simple and regular um re or an advanced chip on the print , um also infra it includes the infrared se sender . Um yeah the uh for the movie just to j develop uh samples and so spe sample speaker .
- An Yeah , that's it .
- It's all for me now , thank you .
  We don't have a lot of time left and we will still have to make a decision , and the marketing expert has to present her her thing .
  Okay . Go right to my first my next slide .
  Uh okay .

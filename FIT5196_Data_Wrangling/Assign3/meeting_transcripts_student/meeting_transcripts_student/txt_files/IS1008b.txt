@@ -134,79 +134,6 @@
  Uh from her side , I don't think uh there's too many more questions . If you can come to the
  Okay . Thank you Christine for uh time being ,
 **********
- So , uh
- I in addition to uh looking at the um uh the functional requir so all these devices are examples of where uh mm they represent examples that are available today
- which I think the one in the middle
- is r um really uh something to keep in mind . It'd be easy to find .
- Fantastic .
- And um it would uh y you'd you could throw it at things if if the T_V_ didn't turn on and off , you could use it for something else .
- Yeah , let me uh interrupt you uh
- if you can add other facility , other feature , like uh unbreakable .
- Yes .
- Okay , because uh especially today , you know , you have the family and the kids , okay , and the kids throw it and they they play with their remotes and .
- Run over it with a car .
- Yes .
- Okay , so if you can add the feature , okay , for your uh fabric whatever in your outline design
- okay , with unbreakable , okay , I think that will give a lot of advantage for our product ,
- Good idea . Good idea , I'll I'll uh um
- if I'm not wrong .
- Maybe you can uh add it in that .
- Yes , very good .
- Okay , uh thank you Christine , and uh uh any questions or uh clarifications , or any discussion on the functional design ?
- Do you have any preconceived ideas in terms of materials ?
- 'Cause , for example , in the unbreakable thing , doing something plastic would be harder , whereas having something like , I dunno , steel or titanium isn't really economically viable .
- Hmm .
- Titanium . Titanium would be be heavy , too , wouldn't it ?
- Titanium .
- Yeah .
- No , I haven't really um I wanted feedback , I think we need to rate rank these , but we'll see what your uh personal preferences are and your thoughts .
- Yeah .
- Sure , yeah . No , I just wondering whether that you had any sort of
- I like titanium . It's light .
- Yeah .
- Expensive .
- Uh yeah but uh who who said who said we were , you know , nobody told me how mu what our financial objective is , so um
- The marketing comes out .
- Yes .
- Yeah so
- It'd be hard to inflate something ou made out of titanium though .
- Yeah the the I'm sorry because uh the last meeting we supposed to discuss about the financial thing .
- Uh let me go quickly , maybe if I can go back .
- I know the project plan and the budget .
- So I can close this , not sure .
- Was in uh
- S
- This .
- So let me see where is this file .
- That's Christine's .
- This is Christine .
- And that's mine , I think .
- That's yours , okay .
- Saving .
- In modified .
- I don't know , I think verbally we can we can pretty much sell .
- Okay , uh I will I will send you a mail , okay ? The project may be the the project aim , okay .
- At the end of the day , the company uh wants to make at least uh the fifty million Euro .
- Okay , and uh of course the price will be very reasonable on the the sales side .
- Okay , that maybe Eddie will talk to you about uh how much uh the price and uh what's uh how much its cost for the manufacturing and how much it's going to be we sell in the market .
- Okay .
- Then uh you can come back with your feedback .
- And I I have one maybe the suggestion or opinion . This remote control , okay , it can be for like universal , to use for any T_V_ .
- Okay , and it will be slim , okay , and uh
- Not fat ?
- Not fat .
- Not fat , huh .
- Okay .
- Might be hard to find , though .
- Yep .
- Hmm .
- But let's try it , okay , with the different uh the designs , okay , the functional designs .
- Oh , okay .
- Okay ?
- So any other questions ?
- Uh from her side , I don't think uh there's too many more questions . If you can come to the
- Okay . Thank you Christine for uh time being ,
-**********
  so then uh
  Ed , so can you tell about
  Okay , from the marketing yeah , from the marketing side , just to to give an idea what the management is looking for , I was looking for a a remote control to have a s
@@ -238,57 +165,6 @@
  So we're gonna have to look at it in a in this global idea , with the ideas of the industrial uh design .
  But , price obviously we have to talk about .
  Yep .
- So what do you think about uh the design ? Do you think you can make it or uh
- D uh I'm sorry ?
- What do you think about uh the design , uh what he was talking about of the speech recognition ?
- Speech recognition .
- Well , uh training is always an issue with uh commands .
- Mm-hmm .
- So um might uh we can perhaps um do it if the user is willing to spend some time in the training process , uh it could reduce th th uh the overall um cost .
- Not sure how .
- But um anyway , um I I think also that uh this might impact the battery life .
- And um so , maybe what we'll have to do is um add something where you can um recharge it wirelessly
- so that uh y you know sen send power to it .
- So uh or maybe uh set it out in the sun and it uh , you know , gets uh , from the light , um a a solar cell inside there so that uh you have enough uh juice to do all these fancy things .
- Hmm .
- It seems also like with the speech recognition , yeah , it's a great feature , but if you're watching T_V_ , there's a lot of ambient sound , and it's words . It's not just , you know , noises like something hitting .
- It's actual speech , so then you have to make sure that the speech recognizer is good enough to filter out the T_V_ speech , and the the user's speech . Otherwise , you can say remote . But if someone on the screen is saying the same thing , all of a sudden , you have someone in a movie saying off and your screen dies ,
- Off .
- because they've triggered the remote control and it's turned off your T_V_ .
- So , I think if we can find a speech recognizer that can handle those types of problems , then yeah , it'd be a really good marketing gimmick . But , I think we seriously need to consider how that would impact
- Mm .
- the situation .
- Very good point .
- Because tha w with speech recognition uh th I'm not that good at that idea but th
- Mm-hmm .
- if it's a one-word recognition , 'cause I know with telephones and cars and things I've seen in the States , a friend of mine says call Mom , and it calls up Mom .
- Yeah .
- Yeah .
- 'Kay the radio can be on and everything .
- Yep .
- Because I think s with speech recognition , if uh the the remote or like the telephone it has a exact word that it has to hear .
- Mm-hmm .
- I don't think it would come through a sentence in a television .
- If somebody's speaking on the se the television , they're not gonna stop and say remote , okay .
- Mm-hmm .
- So I think that uh something could be designed to recognise single word
- Oh yeah . Yeah .
- Like the t like the telephone .
- No , I think it's a great idea if we can design it to to suit those requirements .
- No because I this is this is years ago in the United States where we're driving down and he said call home , and the telephone called immediately so well , that's kinda cute .
- Yeah .
- Well , what I can uh suggest to you , Christine , okay , uh if you need some uh the technical feedback , or some training , okay , about uh this facility , especially for the speech recognition ,
- I can recommend you some companies like uh Intel or I_B_M_ , okay , because they're already in this uh speech recognition part , okay .
- And uh you can maybe have some uh technical backup from them , some kind of a technical tie-up .
- Okay , and uh if you want , I can coordinate , okay , to get some information , okay , and uh you can uh let me know , okay , so what kind of uh the details you require
- okay , to add this feature
- in this project .
- I don't think it's uh the difficult .
- And uh we need to know how much is the timeframe you need to develop ,
- apart from uh what today .
- Okay , we'll find that out .
- Yep .
-**********
  So what do you think about uh the design ? Do you think you can make it or uh
  D uh I'm sorry ?
  What do you think about uh the design , uh what he was talking about of the speech recognition ?
@@ -396,26 +272,6 @@
  Which , I think ties into what Christine and Ed have both said fairly reasonably .
  Um so , that's pretty much it , an
  I don't know if you guys have any questions or
- Oh , it's um , seems very understandable . Clearly your research and uh and ours uh heading in the same direction , and um uh
- Yep .
- the only thing that I saw missing from uh your your research that we found was this uh ability to find the doggone thing when you need it .
- Yes , that's true . Yeah .
- So uh , you know , but that's okay . That's why we're all here at the table , so that if we think of it and our research indicates certain things and um w we it's complementary .
- Yeah .
- I also think that um uh th f the the feel of it is uh , when you hold it , is something that um uh was expressed more in in in in my uh design
- Mm-hmm . Yeah .
- and that's logical and normal 'cause those are the parameters that an Industrial Designer's more thinking about , th th the look and the feel , and uh , you're
- Yeah .
- Oh , that's definitely a very important factor , especially to users who are gonna be buying the thing and then using it almost on an daily basis in a lot of cases , I think .
- First . Yep .
- Mm-hmm .
- Okay , so I don't have any questions .
- Sounds good .
-**********
- So , here we've got two examples where here on the left-hand side , you can see a remote control that has lots and lots of buttons . The buttons , in a lot of cases , are tiny .
- Um they're hard to see , and okay , they're labelled , but the labels don't necessarily tell you too much .
- Whereas , on the other side , you have a much simpler remote control that I think basically has the minimum functionalities that are needed . And it sort of looks simpler and just less imposing when you first look at it . So , I would be inclined to go sort of towards this , in terms of design , rather than this .
- And if there's specific functionalities that require more buttons , then we can figure out how to do it with existing um buttons .
  Oh , it's um , seems very understandable . Clearly your research and uh and ours uh heading in the same direction , and um uh
  Yep .
  the only thing that I saw missing from uh your your research that we found was this uh ability to find the doggone thing when you need it .

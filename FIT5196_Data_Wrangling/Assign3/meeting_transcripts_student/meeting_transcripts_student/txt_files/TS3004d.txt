@@ -40,17 +40,6 @@
  So I already calculated that and it's still in the budget . So it's okay .
  Good .
 **********
- Yeah , and Or are we making a slide open , like underneath ? Or fold open ? I don't know .
- Slide open is uh quite usable for remote controls .
- It's probably better .
- Yeah , s Like underneath uh you can slide it open and you other functions .
- It's may maybe uh a bit stronger as well .
- Maybe that's better .
- Yeah .
- Yeah , that's that's a very good point .
- Okay , so when you have a lot of room inside . So you can make it very easy to use . 'Cause you can write a lot of comments besides it .
- Think that's better .
- Yeah .
  So you can show your prototype if you want to .
  Yeah .
  Together ?
@@ -284,46 +273,6 @@
  Okay . Fine .
  Yeah ? Okay , cool .
 **********
- Uh the look-and-feel model . Uh well the form , the case um as drawn there . Simply a square with uh round corners . So that's basically it . Uh the material should be hard plastic .
- Mm-hmm .
- Uh colour changeable , and also transparent . And colour and transparent , or just transparent , I don't know . Um then the elements .
- Uh we have
- The functions are just basic . Like uh I've pointed them here . Mute function , on-off function , text functions . This uh switch channel . And this is the
- Okay , cool .
- the num-pad . And the logo is over here , and the mic .
- Okay .
- And the scrollwheel , no ? You operate that with your pointing finger . So you hold it like this in your right hand and
- Uh well Well the main , the main zap buttons are most central .
- That was the the most important thing . So uh the best place , the best reach place Um on-off buttons , text buttons , mute buttons are together and at a place they easily are , easy to find .
- Um the on-off button is a bit bigger , uh so it stands out . That way you don't have to make it red , 'cause it's
- will uh will show up .
- Uh scrollwheel is on the left side . It's basically the be standard place for scrollwheel , as far as I know .
- Yeah . But it's not uh impossible to use it , if you're left handed . So y Because you can use your thumb then .
- Yeah .
- Just just one thing now . Um y you need to have more uh one two th You've got one two three four five six seven eight nine . But you missed the no uh the zero and uh the two stripes .
- Okay yeah , they
- Mm yeah .
- Yeah okay . That's that's below that then . It's uh twelve buttons .
- Yeah , okay .
- just so you get that .
- Okay , but
- It's rather important .
- Yeah .
- Yeah okay , just we just missed that . But um I'll just uh
- I'll get back to later . F the form well , we've taken that from the iPod , other popular technical device . So um should be popular .
- Um
- The f uh the buttons creating ? Uh if you
- That or all round shapes , not uh rounded corners .
- Okay .
- So that , you know , you get a bit round feeling .
- Um we'll use hard plastic . Since that allows us to use uh two D_ buttons , uh non-rubber buttons .
- Colour changeable . Well and um the backlight thing , the thing that lights up . We have decided uh in the the channel buttons , there's a little uh colour around it .
- Okay .
- And also in the num-pads , there's also colour light behind it .
- And do you still can , do you still can choose what colour , kind of colour you want ? How do you want to implement that ? Just on the Maybe on the second level as well ?
- So when you pre
- Yeah .
- We're going to implement . Yeah . Mm just a little
  Mm mm mm mm mm .
  Yeah , I don't know what this means . But I think we just evela evaluated this one .
  Yeah , I made some criteria uh , so we can uh ev evaluate our model . I d d d I don't think if it's right . That shall show it .
@@ -562,128 +511,6 @@
  A perfect score . No , I don't know .
  We're not too hard on ourselves .
 **********
- Uh I think uh if you have a kind of iPod idea . It quite beautiful . It's
- Yes . Yeah , the the the difference be between uh beautiful and fancy uh look-and-feel is uh the the the outside uh beautiful uh like the iPod or something . And fancy's more like the mm uh f the flashing lights and the colours and and that kind of stuff . The LEDs .
- Mm .
- We are actu We are the
- Flashy .
- Okay . Well I think we do If it's really uh , if you can if you can get the iPod look , then it's beautiful , I think .
- Yes . And and what ki what kind of what kind of basic colours uh were you thought uh of ? The basic colours are black or green or yellow ? Or you haven't thought about
- But uh
- Yeah beautiful's is also a matter of taste .
- Hmm ?
- Um basic colours , um yeah . Well you didn't say . Maybe um company colours ?
- Ho how do we make uh
- It's black .
- Black and yellow . Can
- Black .
- Yeah , yellow light . Do we have yellow light ? No , not really , but it's possible . It's
- A bit a bit of yellow .
- Not not not yellow , but just a bit of light yellow .
- Black white , maybe ?
- Like white , also ni or uh always nice .
- And what colours should the buttons be ?
- Uh
- Because um
- Yeah , different colours . This is
- Just um
- Oh , the same as th th the cover . But also th the light behind it .
- But can you change those too , with uh the switch ?
- Yes .
- No , no . Make them No , just make them black or grey or something .
- Yeah , grey . Just dark grey I think .
- Okay .
- Yeah .
- Okay , so what uh number do we give uh a beautiful ? Beautiful is uh really subjective , uh because it has to do lots with the colours .
- Well we have changeable fronts , so
- Changeable fronts , so ev for everyone for everyone it's something beautiful .
- So
- Yeah , just give it a one . It's okay . It's perfect . I think it's just what you want . Or not ?
- Yeah .
- It's hard to decide for us , but yeah .
- Yeah . It's ju so subjective .
- It it's At least it's a lot better than uh current remote controls .
- Yeah .
- Okay , just give it a two .
- A two . Okay .
- The fancy look-and-feel . That's about our uh flashing lights and the background uh lights uh from from from the buttons . Okay . And we can change the colours , so that's uh really fancy I think . So
- Yeah .
- Yeah .
- One more thing . Are w are we changing uh Or are they there uh backlights on the slide panel too ? Or n no back light ? Yeah ?
- Slide panel ?
- Mm . Not needed .
- No . No , it's only on the number , behind the numbers and uh
- Yeah , not needed I think .
- And and the switch channel is uh There is a back light too ?
- Oh , you mean th this here ?
- That as well , yeah .
- Yeah .
- Yeah .
- Yeah , but that's unnecessary .
- What do I think is necessary necessary item ?
- It's pretty cool . If you slide it open , it lights up . That's that's really fancy , but I don't know if it's reachable .
- Yeah .
- Of course it's reachable .
- It doesn't make
- Then we do it .
- Hmm .
- Okay , maybe just some light uh to to light it all up . So you can see what's really there . Not just not re on the buttons or something . Just a green light or some blue light .
- No . Yeah .
- To light it all up .
- Yeah , but
- But Yeah . Mayb Okay .
- Yeah , just backlight . Not not the buttons . And th and the the normal backlights also not the buttons , but behind the buttons . So the buttons are just grey .
- Yeah .
- Okay .
- Well yeah . Uh semi-transparent .
- Yeah , just only Yeah , that's right .
- Okay .
- Okay , fine . So I I think it's very fancy . So I'll give it a
- So
- Yeah , that's how I think .
- Yeah , w we've done a a lot of detail in light , so
- Yeah , and you can uh also choose your light , so
- Ye
- Yeah , this It is a one . It's okay . It's cool .
- Yeah .
- I think it's one .
- Okay , next . Learnable ? Easy to use ?
- This is a difficult one , because we we don't Yeah , we don't know it about the
- Yeah , we shall test it But uh
- Uh it's it's very easy to use , but uh the second layer is not easy to use . It's That's
- Yeah .
- No , but you don't have to use that . And you on don't have to pay attention to that second layer . That's th that's the main thing that's so good about it .
- Yeah .
- No .
- So I think it's easy to use , but And learnable is a bit
- Learnable ? It's not not as fast as a usual uh uh remote control . Because because I think I think the scroll wheel , uh it's very handy , but the first time you get this thing in your hands , it's not to use the scroll wheel . I think uh you must uh seek for it , and up or down or Uh then the re
- Well , I think it is .
- Well y just uh f
- But the rest of it is very easy , because there are so so n
- Yeah , I think it's very clear what it all does .
- So so few information that you can easily decide what buttons w for what function .
- Yes .
- Yeah .
- Okay .
- But the second parts , uh like speech , etcetera , that will be harder to learn .
- So it is learnable um f i i In the first place it's very easy to use . And I think its scrollwheel is u easy to use as well , if you have ever used uh a different kind of uh of uh device .
- Okay .
- But
- It's Yeah it's
- Yeah . But we we've got the two so two uh two or three uh new things , huh ? And maybe we uh maybe learnable is in uh compare of old fashion uh remote controls . So we h we have speech , uh the scroll wheel , and um the the the slide . You must slide it .
- Device .
- And that's not normal at the uh normal remote controls . 'Cause I think learnable is a l a less than um easy to use . Because easy to use comes after learnable . I I think it a three or something .
- But yeah .
- Okay .
- Okay , just Easy to use is very cool , so just give it a two .
- Maybe three then . Learnable's
- No , but definitely better , much better than uh than uh than avera average , yeah .
- Mm uh .
- The normal . And the one you showed is just all buttons and you don't know
- Yeah okay . Yeah .
- Yep , true .
- Then a two .
- Oh . Okay .
  This is a a power indicator . So you can see how far it's charged up .
  Okay .
  And and you need n uh a button to call it , to let it beep .

@@ -47,11 +47,6 @@
  'Kay .
  Okay thank you very much .
 **********
- Uh so the general findings from that was uh in the market trends the most important aspect for remote controls were people want a fancy look and feel , rather than the the current functional look and feel of remote controls . They also also want a remote control to be technologically innovative ,
- and of course , as we predicted , that it should be easy to use . Now I should point out that the first of those findings , fancy look and feel , is the most important , is twice as important as the second , technologically innovative , which is in turn twice as important as being easy to use .
- So possibly that the feature that we put first is actually third is still important , but it's third in order of preference for the the subject group we looked at . Okay , um , now the fashion update which relates to very personal preferences among our subject group , um we found from our um consultants in Paris and Milan who des attended all the design and fashion fairs there , that fruit and vegetables are going to be the theme for clothes , shoes and furniture . So should we be thinking of using something like that in our remote control design too ?
- Yeah .
- There also seems to be um a trend towards a spongy feel to materials , uh again in contrast to last year .
  Um
  Yep .
  let's start from the inside and work our way out .
@@ -303,27 +298,6 @@
  Oh I think forget about the mirror that was just a very quick passing thought yeah .
  Okay , okay .
 **********
- I'll just raise another point while it occurs to me , it kind of applies to both our designers here , so I'm not sure how it would fit in . If we flip open , now you know how you've got some mirrors in nightclubs that are mirrors when you turn to them and you turn away and it gives like an advertising display , you seen those ?
- Mm .
- No .
- And they kind of respond to the turn of your body . Is it possible that when we open our flip-top shell it's a little compact mirror and when you press a button it then goes onto the phone display th uh the remote control display thing .
- We're marketing to guys as much as we are to women .
- Um .
- They don't look at themselves ?
- Just a thought .
- Well it's a remote control , you were sitting watching T_V_ are you gonna want to sort of open it and say oh shit I should go and have a shower and do my hair before I put the T_
- Yeah .
- I know what you mean , it's with us using the ideas for a mobile ph it's with us using the ideas for mobile phones I kinda got sidetracked onto that I think , okay . trying to think of other features we can build in that wouldn't cost too much but maybe we'll leave that one on the side .
- Yeah , no , no .
- Mm .
- Yeah .
- 'Kay .
- Okay .
- I mean you can you could do it , you could have a 'cause if you if you just put the full charge through an L_C_D_ display it'll completely blank it out , but I don't know if you could get any mirror effect on it , I'm not sure about
- Mm .
- Oh I think forget about the mirror that was just a very quick passing thought yeah .
- Okay , okay .
-**********
  Okay , uh
  would like to share something which I did here . First thing is uh basically on design we just took the input from the previous meeting , especially from the marketing and industrial design , to check on the customer needs and feasibility . Second is we checked into competitors , the picture here shows one of the standard models offered by competitors here . So y you generally see there's not much of variety and like marketing team said uh , people need trendy , they are bored of black and white . So you generally see rectangular shape , very monotonous kind of designs here .
  Mm .
@@ -391,101 +365,6 @@
  Right . Okay . Um
  I'm not sure how long we've got left , but we need to make a decision about um
  the things we've discussed .
- So , we agree on
- Do we agree on the battery ?
- Kinetic ?
- The kinetic .
- Yeah . Um , that means that there's no function for li the port , you know that it sits in , then pressing the button then having so we could incorporate voice recognition for the finding it . It's a bi i it's like a g it's a gadget , it's a
- Yeah .
- Mm .
- Yeah I think I mean if
- Yeah it is it is qui it's quite a cool feature to have and also if they've got it if they've got these parts already in stock , then it won't be cheap to re-manufacture them , uh or it will be cheap sorry to re-manufacture them . So do you reckon that's a good idea that , where's the remote , I'm here thing ? I think that would be quite fun .
- selling point .
- Mm-hmm .
- Mm .
- I think the only
- I think the only pitfall that we would have would be how much it's going to cost if that means we have to cut down somewhere else , but I think pretty much we've used cheap relatively cheap and simple things . The L_C_D_'s not cheap .
- Yeah .
- Yeah .
- Mm .
- Yeah to s th well it's it's not as expensive as it would be if it was full colour 'cause if we've just got a black and white one , I mean they use them in calculators so .
- Hmm .
- Yeah , okay .
- Maybe we could start with the black and white .
- Yeah .
- That that way we could upgrade later .
- And you could yeah .
- Yeah , we talked about kinetic charging , we've deci seem to have decided on that , did we decide on double A_ or triple A_ batteries ?
- Okay .
- Mm .
- Mm .
- Well you cou um .
- Do you want like a back-up ?
- No , one of the decisions we had to make was whether we had double A_ or triple A_ batteries 'cause they've still got to be charged this way haven't they ? I oh I see .
- K no the kinetic ones come come with um a sort of w watch a battery that goes in a watch .
- Right , okay , got you .
- So it's a lot smaller , so it would
- Got you on that okay , didn't realise .
- Um , okay so we've got battery . The inside components is pretty standardised across the board isn't it ?
- Yeah .
- Yeah .
- So there's not a really a decision to be made there , um .
- The buttons what did you give us as our
- The bare-board L_C_D_ or
- Yeah the well I think were we're going for the L_C_D_ on that one , on the buttons , on the on the on on the top one we're gonna yeah .
- On the top one okay you've got the touch okay and then
- On the bottom we were gonna have the rubber , the rubber ones , the anti-R_S_I_ ones .
- Okay , okay .
- Sorry could you repeat that last part ?
- Um , okay on we've got the flip the flip-screen , the top one is gonna be the L_C_D_ and the bottom one is gonna be the rubberised buttons .
- L_C_D_ screen .
- Mm-hmm .
- Okay .
- And for the sorry .
- No , it's fine .
- For the body design I think plastic , uh w yeah we could use the body , for the inside and uh rubber as a padding or for the grip , something like to add to the design .
- Plastic , okay .
- For the inside .
- Yeah .
- Mm-hmm .
- Mm-hmm , so we decided on a rubber casing for the plastic shell , a variety of designs , okay .
- Plast right .
- Oh I think so , I think so .
- and it is just uh although it's rubberised and spongy , apart from that we're just going to go for sort of vegetable and fruit colours , we're not gonna try and make it actually a vegetable or fruit design or anything else , like a shell that we discussed , just go for the colours .
- Mm no .
- No I think I we don't wanna be tacky if we've got a kind of different shape anyway um the fact the m the material that we would be using would be cheap , so we could make it red , we could make it um psychedelic , you know , we could make it black and white zebra stripes , but that's not really what we're focusing on , what we're focusing on is the m you know yes . So we could just pick anything .
- It's
- Okay .
- Mm-hmm .
- The feel .
- 'Kay .
- Mm-hmm . Is that going to be this image I've got in my head of something kind of shaped like that , maybe about that size , made of plastic , fits into the palm of the hand , rubberised cover that's spongy . Is that really going to fit fancy look and feel which was the major thing that people wanted , market research , is that fancy ?
- It's just different it's just different from everything else and I mean , I'm trying to imagine um clean looking houses , sort of beige and black um so you either want something that goes with that , which is what's on the market anyway , or you want something that contrasts as you know like you get clocks now that are more of a talking point than an actual clock because they're so interesting and
- Uh I it's different .
- Mm .
- Mm-hmm .
- Mm-hmm . Mm-hmm .
- Mm .
- Mm-hmm .
- Yeah .
- I'm just kind of pushing at that to see if you came out with anything else , but I mean I totally agree . We looked at those remotes , I mean they are kind of anonymous , very similar looking things . This would definitely be different enough , I just wondered if anybody could come up with something even more
- Mm .
- And you would just have an across the b you would have so many different options that you could do , you could have um a plain black one , you could have sparkly pink glittery ones for your little
- Well the thing is the rubberised covers are going to be s relatively cheap to produce , that if in a year's time we we get feedback from the design fairs that show something else is coming I mean it's so easy for us to just produce that and it can be slipped on , which is another beauty of it .
- Mm .
- And ones tha ones that have rubbery spikes y you know , you could just go so far with it , like a puffer fish , you could just , you could take it wherever , so I think that's quite a flexible thing .
- Right .
- You can you can just
- Acupressure , you could talk of acupressures .
- Yeah .
- Yeah .
- And finally the body should be retouchable , may maybe ch you can change the body or the case casing the case outside , it should be moulded it with the design in such a way you can change it every time .
- Yes .
- Yeah , yeah j with these rubber these rubberised ca not the actual uh plastic outside case , just the rubber thing that goes round the outside .
- Mm .
- Okay . The rubber .
- Yeah .
-**********
  So , we agree on
  Do we agree on the battery ?
  Kinetic ?

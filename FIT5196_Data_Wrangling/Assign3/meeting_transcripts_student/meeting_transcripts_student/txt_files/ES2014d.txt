@@ -166,43 +166,6 @@
  But I do think uh the v uh voice recognition thing would be more impressive than the fact that it's got no battery .
  Okay , but remember the main the only reason we were planning on having the voice recognition was so that they could find the remote if it got lost .
 **********
- At the moment we've just got the simple chip , which costs one . Um , I guess the sample sens sample speaker would be the voice recognition thing , which puts up to four ? We should be slightly over our budget but if we gather something else down to slightly lower standard , and maybe go with the one the special form buttons , then we could have the speech
- Uh-huh .
- Yeah .
- Yeah .
- Well , hold on . Um , if we
- Okay , that gives us twelve point seven
- So uh maybe if we got rid of like the maybe one of the special colours , kept them all the same colour , then we could have the voice recognition without
- But remember that the idea was to keep it the colour of the Oh , I see , so just take out the special colour for the apple and
- Yeah , yeah . Um
- Um , . D wouldn't you have to keep the simple chip there as well ? You know how you turn that one to a zero , wouldn't the chip and the sample speaker be separate things , so you need both of them ?
- Yeah , we have to have it
- Oh possibly , yeah , yeah maybe . Maybe um we'd be giving up on the kinetic .
- Yeah .
- Um
- And go for battery instead . That would give you one less .
- Yeah .
- We should Yeah , that would save us one , though we'd still be slightly ov
- But you reckon that i I mean the thing is that you wanted to a appeal to people and not have to replace batteries .
- Yeah , yeah . Well , since it's the through the whole technology type thing , um , you were saying in the market research that people like kind of interesting gadgets in them . Um , whether they would figure the the s uh sample senor and the sample speaker , voice recognition be sort of a worthwhile thing to have . And then still have the batteries , or whatever they would prefer not uh You know what I mean ? The the problem was the battery's running out and losing the um losing the remote . So you gotta decide which of those is more important to them .
- Mm-hmm .
- Mm-hmm .
- Mm-hmm .
- Yeah .
- But which do you think or which do we think is the more important of the options ? In a sense , at the moment , we've got a total which we need to reduce down by one point two . At least . Remember that was a minimum requirement . The other option if we're planning on just going for something cheap and cheerful , would be to um make it originally , we're gonna make it a simple product .
- I think the voice recognition .
- Shall we shall we evaluate the prototype as we've got it now first , and then sort of make decisions about what needs to be changed after ? Okay . Right um , I have a little thing . So , we've all got a note of it's thirteen point seven , isn't it , with everything we want on .
- Yeah .
- Mm-hmm . Makes sense .
- Okay .
- .
- Sorry , do you want that back up ?
- Yeah , I just had a presentation to
- Right .
- do .
- But I do think uh the v uh voice recognition thing would be more impressive than the fact that it's got no battery .
- Okay , but remember the main the only reason we were planning on having the voice recognition was so that they could find the remote if it got lost .
-**********
  Mm-hmm . Mm . Right okay um ,
  This is about the evaluation criteria that we use for the the prototype we've got here . And so the method is that the design team makes a prototype , and we evaluate the prototype against some criteria that we've formulated . And those ones are gonna be in response to sort of market research , and also finance , I guess .
  And do that on a scale from say true being one and false being seven , so if it's neither true nor false , then that's four .
@@ -448,19 +411,6 @@
  within budget on that . Um
  Yep , that makes sense .
 **********
- Do you wanna plug it into yours so we can get up the
- Okay , well I put it back on .
- the finances
- So I guess this Is this the last stage once we sort out the finances part of it ?
- I'm not sure .
- we'll probably have to re-rate it .
- Yes , I would've thought so .
- Yeah , yeah we'll make the adjustments and then see how are rates are going .
- Yeah .
- Okay , so what was it , control uh F_ eight , wasn't it ?
- Ah it's on .
- it's come on already .
- Oh . Oh . How kind .
  So decide we've lost a little bit on the fashion and lost a bit on the fancy kinda side of it , but generally speaking , we've kept the other attributes to the
  Yep .
  I woulda said so . Yeah . So you'd maybe put fash fan uh fashion at three rather than two .
@@ -618,99 +568,6 @@
  everything .
  Yep .
 **********
- So it's w if we've if we've put in for another special form on a button , then maybe they could be a different shape . Like we got a cherry one . Maybe other ones could be something else shaped . I don't know . That would be poss seeing as seeing as it's cheaper to make them a different
- Um
- You mean of
- seeing as we've got , you know , we've made it a a special form , so And that would sort of maybe keep us close on the sort of the fashion type one . And it would sort of , you know , keep it quite fancy as well , I don't know .
- Mm-hmm .
- Well you could argue you might do it once a year , you would change , because at the moment you're making a red apple . So next year you could make next year's model the same , but have it as a a yeah whate whatever , a lemon . Yeah , l a lemon lemon or something . And that
- Yeah so it's a
- Well you could
- Yeah .
- Whatever fruit was in fashion next year .
- Yeah , I mean the volume buttons could be lemons or something , maybe .
- amount
- And then , the corporate identity .
- I think we've cut just about the same . We've maybe lost
- Hasn't it It's hard to tell how the rubber the rubber casing would really affect
- How it would play out , yeah . Oh .
- Yeah . Whether whether that's considered to be sort of
- part of the corporate identity , I don't know .
- I mean , it's maybe not . I mean
- Um
- But I think more the the features of the actual control will be more important than maybe than the the actual aesthetics , but
- Yeah .
- Yeah .
- But either way , I think we've made it fairly close to what
- Yeah . Okay , well I mean
- Yeah , I don't see how we could make it any more .
- Um , apart from maybe
- We cou
- doing the whole thing in the kinda light shade of blue , like the casing .
- Mm-hmm .
- But then what colour would you make the R_s ?
- just the the company logo . So maybe there's like a set design which we get printed off .
- Yeah .
- Well , but you've got the company logo on there , which would effectively be a stick-on badge . So you're in a sense , you're comparing the product without the company logo . And then y but you've got the space for it to stick it on .
- Okay .
- Yeah .
- Yeah , yeah .
- Hey , what what what's the company colour ? Did you get told what the company colour is or
- I'm still not quite sure we've established that .
- No , I just We got the logo off the web browser .
- Don't think so . But but i but in the sense that , as you saw with um the Windows logo badge , it doesn't really matter . There's virtually n The way that you frame , you know , the Windows badge on there , it really doesn't matter what colour it is , so long as our company's logo is framed w in the same way as that with a like a black outline . Fact , they've got black and white or black and silver . So basically , even if you had a silver the same colour of silver on your display , because you've got effectively a double edging on the uh on the logo , it means that it splits off what your logo is from the from the product . And that's actually quite a sneaky way of doing it .
- Oh right .
- Hmm .
- Mm-hmm .
- Mm .
- Okay .
- Uh-huh . 'Cause you've got sort of we've got point two to play with if you really wanted to .
- You could put in another Well , in this one , you've actually got three colours of buttons . Well , we decided that the blue ones were the um the standard colour . So you were talking about uh um We're assuming that all the buttons on the second panel , the hidden away panel , would all be standard .
- Another colour . Or would that be t
- Yeah .
- Okay .
- Yeah .
- Yeah .
- Mm-hmm .
- Which
- m may or may not be the case .
- Yeah . Shall we save the point two for profitability then ?
- Um
- Well , yeah . Bu but but uh was the was there not a button that you were thinking of on the um on the other opt you know , on the second page , as it were , that uh you were thinking of maybe having as a different colour ?
- Um , I don't think they would really need to be . I think if they were just all small round blue buttons , it'd be fine . Needs to be an enter button , but could just be the same as well .
- Yeah , maybe we've m
- Maybe for the the one they're gonna see all the time , we make it look good , and um , fit the kind of idea of what they want . And then for the more functional buttons , we don't worry too much about that and just have that as like a plus it's hidden away anyway , you're not gonna see it at the start .
- Hmm .
- Yeah . I mean it's the sort of thing that , I mean , you wanna pick up the controller and just hit a button quickly to change the channel or volume . So , if it's dead obvious , then that's fine . But if you're opening the panel and you're looking and you're tuning , then you're paying a bit more attention . So it may be sort of different colour buttons isn't so important .
- Yeah , well
- Alright . Okay .
- 'Cause you Yeah .
- Yeah .
- So
- So we just add that to profitability in effect .
- Yeah , I mean so we've dropped the cost , but
- 'Cause it doesn't seem right that it just hasn't changed at all .
- Well , but I think we said that w
- Because you got rid of the rubber , we put an extra an extra sort of fruit um shape on one of the buttons . le lemon sh
- Alright . Did we decide what that was , which button it was ? On the volume ones ?
- I think well , we could have lemon shaped ones with the volume ones or something . Or something like that . Yeah .
- Right .
- Uh , . That's good .
- Definitely lemon shaped .
- Did did you have to have a rubber case , though , for rubber buttons ? Or was it the other way around ?
- You had to have rubber buttons if you had the rubber case . So I think we can we're okay .
- Right , okay .
- Mm-hmm . So we're okay this way around .
- Yeah .
- So that so we've saved
- Until the design team comes in and says , get off . But you are the design team .
- Then we say it's fine , so it's all good .
- Saved two Euros on that .
- So what bit are we on to ?
- Um , can I just check if that's a cherry or an apple ? Did we decide against the apple because of Apple Mac ? And did we make it a cherry officially ? Right .
- Yeah . I th I th Oh . Right , okay .
- Mm-hmm .
- Just in case we need that point two for lawsuits and such like .
  So do we have anything else to discuss ?
  I don't know . What's on the agenda ?
  Right , okay um
@@ -847,11 +704,6 @@
  Oh no .
  Right , so , uh are the costs within budget , yes . Is the project evaluated , yes .
 **********
- I don't know how it works but I guess that something got sent out and have like a brief to kind of
- But the other thing is that uh they're I'm guessing that they're trying to use this um software to to demonstrate how you could uh do a project . I mean , m my wife at the moment , for instance , is uh acting as a computer um for um you normally , you got a problem , so you go to your tutor and find out information to see how to get it fixed . So what she's doing is she's having to spend a day at the computer terminal at one end so that any student that comes along can uh ask whatever question . And then you or the idea is that the whichever uh person's at the other end can point them in the right direction , show them where to either give them directly give them help , or secondly , point them in the right direction , either at the library , or uh or or come back , or go and see Joe Bloggs , or whatever .
- Yeah .
- Mm-hmm .
- So uh , and that was a project I suspect similar to this , because they they were actually trying to debug the uh computer software to enable um to enable it to work . And of course , you had the machine crashing and various things going wrong . So
  Uh , don't forget to complete final questionnaire and meeting summary . Then celebration .
  . Is that everything ?
  Hmm ? I think that we've got two questionnaires and a report on the last meeting .

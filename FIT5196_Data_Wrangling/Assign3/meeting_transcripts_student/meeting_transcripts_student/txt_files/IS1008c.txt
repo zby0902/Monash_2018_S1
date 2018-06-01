@@ -83,57 +83,6 @@
  Yeah , they do it with other materials as well , yeah .
  And chew 'em up .
 **********
- Yes , uh question , uh , what's mean exactly , advanced chip on print ? What's the meaning of that ?
- I think it's um um a multiple uh chip design um and it's uh maybe printed on to the circuit board .
- Mm-hmm .
- Uh I could find out more about that uh before the next fi next meeting .
- Yeah , is it means it's on the yeah is it on a micro-proc micro-processor based or uh
- I don't know , but I'll find out more at our next meeting .
- Okay , tha that would be great , so if you find out from the technology background , okay , so that would be good .
- Sounds good .
- Why was the plastic eliminated as a possible material ?
- Because um it gets brittle ,
- cracks
- Mm-hmm .
- Um
- We want we expect these um uh these remote controls to be around for several hundred years .
- So . Good ex Good expression .
- Whic
- Wow , good expression . Well after us .
- Which
- I don't know , speak for yourself , I'm planning to be around for a while .
- Although I think
- I think with wood though you'd run into the same types of problems , wouldn't you , I mean it chips , it if you drop it , uh it's I'm not su
- So so you're not convinced about the the wood , yes .
- Actually , I'm ready to sell it . I'm ready to sell it .
- you're what ?
- I think if you re if you use really good quality wood , then it might work , but you can't just use
- You think ?
- And you could you could sell oils with it , to take care of it .
- No y no no no , the o the only w the only wood you can use are the ones that are hard , extremely hard wood , but there are some very pretty woods out there .
- Yeah , exactly , yeah .
- Well I'm glad you
- That's actually very innovative idea .
- Okay , good . Sorr having a hard time keeping wi control over my face .
- Well , it's actually a very innovative n different idea that uh you know you can choose your colour of wood , your type of wood .
- Mm-hmm .
- The stain .
- I mean it's each person is gonna have their own personalised , individualised speech recognition remote control in wood , that's not on the market .
- Mm .
- Yeah , so it it's looks good the the design the functional design uh , what about yo you ?
- Um , in terms of comments on this or in terms of my own
- Yes , in t yes , in term in terms of comments first
- In turns of wow .
- She works in the cubicle next to me so she's uh she was already a little bit prepared for this . Luckily Ed was not .
- Y yeah .
- Wood ?
- I think we can get the quality materials then it shouldn't influence the design principles too much , which you'll see with my presentation . One thing we'd have to check though is what the users whether how quickly the novelty wears off of having uh Yeah , for example . So , have to see how kid-friendly it is and and all that , but
- Mm-hmm . Yeah , you wouldn't wanna have to have splinters in your hand while you're using your
- It's really good if your dog gets ahold of it , they can use it for teething .
- They do that anyway with the rubber and plastic , so , and chew 'em up .
- Yeah , they do it with other materials as well , yeah .
- And chew 'em up .
-**********
  Okay then , uh , let's move to Agnes .
  Sure .
  Oh , I'm sorry .
@@ -234,47 +183,6 @@
  And that took off , yeah , yeah .
  So . So say with the f with the findings , with the research , easy to use something totally new . We have to come up with something totally new that is not on the market .
  Mm-hmm .
- We'd also have to wor um consider that uh who we were gonna get to make these custom cases in terms of manufacturing processes , we might wanna um learn about um labour laws .
- You know in different countries and stuff wher so we can do it cheap , but you don't wanna exploit uh labour in um third world countries . So actually you could turn it y turn around and say that you're uh par the reason the cost is high for the device is because um you're paying a a working wage to the person who made the device .
- Yeah .
- Mm-hmm .
- Yeah , but we can get a production in , uh , countries like , uh , India yes , yes , countries like India or China or Malaysia , so you can go a better features and better price and you can sell more .
- Cost of living is low .
- So
- Good , well th that'd be something that manufacturing would have to um explore more and to where Mm-hmm .
- Yeah , yeah , so
- Mm yeah .
- Where w Where it would be manufactured is is
- Yes .
- So
- another step . We're here to design ,
- Yeah , so
- Yeah .
- Yes uh , but uh that that we can that we can talk about the production later , okay , depends on the the quantity , okay . So we don't need to have our own uh fabric factory or something , so we can have a tie-up with who the do the fabric , okay , for the different uh electronics items , then we can have a business tie-up and to get to cut the cost , okay , to sell more .
- come up with a nice product .
- Mm-hmm .
- Mm-hmm .
- So , but uh le let's decide first about the components concept and uh interface concept , okay , if is acceptable for both of you , what uh Ed was talking .
- And your design whether you want with the display or without display or just a simple , so
- Mm-hmm .
- I think it depends , I mean I think it's a good idea , but we need to really think about how useful it's gonna be because theoretically with the T_V_ you already have a big display right in front of you .
- Yeah .
- Hmm .
- So , if we're trying to keep costs down , then maybe sacrificing the display
- Hmm .
- is a way to go . I mean it depends on how much putting a display costs and what it would be used for very specifically what it would be used for , 'cause if it's only used for one little thing , then putting in a big display case or a big display that's
- Hmm .
- Mm-hmm .
- probably expensive just to do the training on the chip for the speech recognition or whatever , may not be the most cost-efficient way to go , but
- that's just sort of speculation , I mean .
- What do you think Ed ? Do you he liked the display in one of the concepts that you showed , um , do you know how much it costs , um , to to add a little display like this uh ?
- No . No no p spec It's 'cause we have to find out cost on it .
- Do you wanna take an action item to go find out ?
- Okay .
- Sorry about that .
- Um , no that's no problem . I'm here for the pushing it after it's made . I will market it . Once we get a price on it then we can market it .
- Yes .
-**********
  We'd also have to wor um consider that uh who we were gonna get to make these custom cases in terms of manufacturing processes , we might wanna um learn about um labour laws .
  You know in different countries and stuff wher so we can do it cheap , but you don't wanna exploit uh labour in um third world countries . So actually you could turn it y turn around and say that you're uh par the reason the cost is high for the device is because um you're paying a a working wage to the person who made the device .
  Yeah .

@@ -127,49 +127,6 @@
  We can see at a later stage , maybe , I don't
  'S just an idea .
 **********
- I've oh no , you can't see a thing . Oh well , I'm gonna draw it on the board then . It's in blue uh , and I couldn't change it . We it's fine on my screen , but never mind . So um the idea is that we've got the
- Oh .
- Ah .
- Is a battery like
- the only way of
- Well , it's just , you don't want it plugged in really , s
- Yeah , alternate energy source , like win wind power or
- Yeah , you blow on it and i
- No , no
- In indoors .
- No I meant like
- Bicycle power .
- No 'cause like cha 'cause always changing um um batteries can get like annoying . The battery's down and maybe , I dunno , solar charged ?
- I dunno , swi I th I th I think changing your batteries once every six months is not really a pain , but
- Yeah , it's worked for the last fifty years you know .
- Mm . Yeah .
- One question I have , and I don't know how much control we have over this is um , as far as the infra-red signal , do we have control over , you know , how far away you can be from the receiving unit , the the T_V_ , and still have it be operational ? I mean , maybe we want one with a strong signal stream .
- How far away is your television ?
- Yeah .
- It's never gonna be more than it's never gonna be , you kno unless you've got a T_V_ the size of a football pitch , it's not doesn't have to go that far , does it ? Doesn't have to go through a wall , because you're not gonna be looking through a wall .
- Uh
- Well , the thing is uh you you don't
- Yeah , but if like you're on the phone in the other room and you need turn television off or something and you don't really want to go into the put the telephone down , and go into the other room .
- That's true .
- Well , we can make the the signal strong enough to go through walls if if you fancy it .
- I didn't think about that
- How about Bluetooth ?
- but
- Instead of using infra-red ,
- use Bluetooth .
- Why not ?
- Isn't that a better signal ?
- I just think that it's it's gonna cost more and I'm I'm not sure it's you're gonna use it .
- Yeah , yeah I d it sounds like you you w don't wanna overcomplicate things . You know we don't need it .
- Mm .
- It's a fancy idea uh it's quite nice , but then I don't th I dunno , either you if you wanna watch the telly you're in the room , you are gonna
- Yeah , exactly . Basically , we're we're desi we're designing and marketing a television remote control unit . We're not w w w w designing something that you can plug in a headset to and and you know connect to your laptop computer and stuff . It's uh
- But
- Mm .
- Oh , we can we can keep the idea if you i
- We can see at a later stage , maybe , I don't
- 'S just an idea .
-**********
  Okay .
  Right , well done , Catherine . Um Gab Gabriel let's uh let's hear from you on on on such things .
  Okay .
@@ -239,48 +196,6 @@
  Okay .
  Okay , fantastic . Right , well done , Gabriel .
 **********
- Um so things that seem like absolute must-haves uh would be a volume control ,
- um so up-down keys for that , uh channel keys up-down , but then also a numerical key pad so that they can just key directly to the channel that they want , rather than doing up-down , and uh a mute button . Uh one thing that I didn't include here , that I forgot that we talked about last time , was doing um some sort of lock uh function . Uh , I don't I dunno , uh that's one possibility .
- Okay .
- And so in the research that I was doing
- there's basically two types of remotes , ones that are engineering centred and ones that are more user centred , which I don't know if I can access the web page from here , but I can show you uh .
- Yeah . So this is a engineer centred one , so you see it's rather busy , but it also lets you play your movie , stop your movie , fast-forward , all this , um freeze frame . Uh and this is a user centred one . Uh it's it's easier to g just glance at this and see what's possible to do , you're not gonna be staring at it for five minutes . And I judging from what what we all talked about during our last meeting I kind of gathered that that's what we were going after , uh or the direction we were going in at least . Um .
- Mm-hmm .
- Yeah .
- Great .
- So , the engineering centred ones uh provide a lot of functionality , but it can be a little bit overwhelming , so the user centred ones just focus on ease of use . Uh and this sort of overlaps with what the marketing person uh , Reissa , because uh we we need to find out what what people want before we make firm decisions on this .
- Now that's I just have a q a q question for you . This w um research that you've been doing looki looking at other , you know , existing units stuff . Um have you found that anyone else has do has looked into the locking function or
- No that that that seemed like a novel idea as f as far as I know . I mean obviously another exists like you like you said in in mobile phones . That was sort of the inspiration for it . Um I've never seen that with in in all my years in in the remote business .
- Yeah .
- Yeah .
- I've , haven't I've never seen a locking functionality .
- I dunno , what uh do you guys have a a yea or nay on that a feeling about whether that's really necessary ?
- Um
- I would say
- it's
- If it's simple to do ,
- Yeah .
- Mm-hmm .
- 'Kay .
- Right .
- which I think it probably should be , even if it's a physical , you know , a f a like a f a physical switch or a physical cover for the remote , even something like that , um then yes , it's like , you know , like s you said earlier on ab ab ab a flip thing , something like that , but you know being physical . Look into .
- Um I've had word down from head office that something that we should be centred well , something we should take into account is um we've gotta keep the corporate image within this remote control unit . It's gotta d look like it's in the R_ and R_ .
- Mm .
- You know , the the company it's it's , from what I can see from our other products , are yellow with blue writing on them . Um .
- Mm .
- Right .
- And our motto is is we put the fashion in electronics .
- We put the fashion in electronics . There you go .
- Mm .
- I think I think we have to carry that mental .
- So it's kinda gotta look it's gotta look new and s you know something fashionable . If if remote control well , if telephones can be fashionable , then maybe remote control units can be .
- Mm .
- Mm .
- Well yeah these , I think , we can so we talked about the layout in my presentation and what I didn't mention yet really is is the sort of like the ergonomic design . I t I think we can make big improvements over these two that you see here , I mean .
- Yeah . Because we need
- Yeah . Great .
- Uh , everything is going t ergonomic , you know , there's you know mice for your computers that are very ergonomic and keyboards and that could be one of our niches p sort of uh uh in the market , I guess . Um .
- Okay .
  Um Reissa . Let's plug you in , baby .
  .
  Where does it go into ?
@@ -351,22 +266,6 @@
  So that is me .
  Okay . That's great , thank you very much for that , Reissa .
 **********
- So voice activation . So and this was what we came up with . Then if you look fifteen to twenty five this is age , sorry , age groups . So fifteen to twenty five said like ninety two ninety one per cent of them said yes . Um so basically the majority except for the forty five to fifty five year olds for some reason didn't want a voice activated one . And neither did the older generation , but the younger generation who we are catering for , like who have most of the money nowadays , do want a voice act speech recognition in a remote .
- So there you go , yeah .
- Uh but do the younger generation have the money ? They they don't . It's older generation , they're the ones that have gone out and
- No I would I would say the older the older people , yeah .
- Well the twenty five to thirty five year old , and thirty five , and the thirty five to forty five , forty five point seven per cent say no , so
- People people from the age of thirty f there's a big drop off there . For people up to the age of thirty five , you're kinda saying , yeah , they want it .
- Um but no they're not sort of most people that have the money are people from the age of thirty five to fifty five , uh 'cause they're the ones that have been working for twenty years . Um d and tha and that's a that's quite a minority there , so yeah , it's not even like fifty fifty that's th thirty five per cent .
- Yeah , that would be my guess as well .
- So they don't
- Well
- These guys are growing up .
- What about just from the the prospective of our manufacturing cost ? I mean if if it's twelve fifty per unit . I mean , okay , there's
- Yeah .
- Voice activation might not be the best .
- I would say scra I'd say scrap that straight off .
- Uh .
  Um okay , so we've basically
  we've decide we've d
  we've decided that it's gonna be , you know uh , we're going for a basic television remote . It's gotta be safe to use , it's gotta look cool . It's gotta be cheap . S um .
@@ -401,39 +300,6 @@
  You have them i you have them , but we'll send you an e-mail . You want to have friends , don't you ?
  .
  Send me , yeah yeah , okay .
- So are we headed towards like a b a big yellow and black remote as far as maybe that's our next meeting that we discuss that .
- Is it yellow and black or is it yellow and blue ? I I kind of thought it was blue writing on a yellow background , but I might be just going a bit
- Well , it's like white on i white and blue on a black background with white with yellow borders . Maybe that's like getting ahead of ourselves .
- Okay . Well ,
- It wouldn't be
- maybe you can come up with a few with a couple of different ideas ?
- Mm .
- Can't we have different colours in the remotes , so somebody can choose different col like does it have to be of a certain ?
- Well , see the thing is is we've gotta keep the company image . It's gotta say people have gotta look at this remote control and instantly recognise that it's a Real Reaction i product .
- Mm .
- But if it's a R_R_ , it would be Real Reaction , like if it had a symbol on it .
- Mm .
- There's loads of companies that called R_R_ .
- Mm .
- Whoa .
- This is slog but this is the slogan , this is the the the the type .
- And this is something that came on down from from the higher ups , so , I mean , we are sort of beholden to them .
- Yeah .
- So we have to have it one colour .
- Well , not necessarily . But we have to incorporate it .
- Not one colour , but the pattern needs to be recognisable .
- Mm .
- Not necessarily even if i it just has to ye but you have to look at the product and instantly know that it's one of our products as opposed to a Sony product or a , you know , a Panasonic product . It's got to so maybe , so you can have a look at our our other products and see if they all follow a s similar vein , perhaps .
- Well you could
- Mm .
- It could come
- But it could come in different colours and have the R_R_ colours just somewhere like just around the lock button could be the R_R_ logo or colours and
- Yeah .
- Yeah .
- Mm .
- If .
- Quite poss yeah . Well this is all your department .
-**********
  So are we headed towards like a b a big yellow and black remote as far as maybe that's our next meeting that we discuss that .
  Is it yellow and black or is it yellow and blue ? I I kind of thought it was blue writing on a yellow background , but I might be just going a bit
  Well , it's like white on i white and blue on a black background with white with yellow borders . Maybe that's like getting ahead of ourselves .

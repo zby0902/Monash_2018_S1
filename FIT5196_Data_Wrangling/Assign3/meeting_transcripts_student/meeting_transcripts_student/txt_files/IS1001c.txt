@@ -159,33 +159,6 @@
  designer of user interface ? or we can move to the next part , maybe , and discuss afterwards ?
  Okay .
 **********
- So I just look at some current designs uh on the web , of usually more complicated remote controls . And let's look at two of them because uh th even though they have many buttons they look quite simple . And in our case we just uh reject the buttons what we don't need and it become even simpler .
- Yeah .
- Um . So .
- And also does it uh fit well in hand ? Because it was uh th your wrist problem with the usage .
- Yeah . Well this these uh these remotes are quite big , so go to the next page , so .
- We have all these buttons as you can see , but most of them , we just need the ones in the middle .
- Yeah .
- Yeah .
- Yeah .
- So , from the bottom or whatever is there , uh the uh the numbers and then the top , uh until the ten also , this middle part , and on the left one is exactly the same . So it's basically more or less how we would like it , with a big volume control , big channel control , and mute and power , yeah ? These are the basic thing .
- Yeah .
- Yeah .
- Yeah . So it's only the central part .
- So basically , w software we will build will look more or less the same as these two .
- Yeah . With a maybe a more ergonomic design on on the bottom part .
- Yeah , if you have , for example I think that the volume and the buttons that are there on the top are not very easy to reach with your thumb . It could be on the right side , for example . Yeah . Because we don't have these input buttons and this other stuff that they have .
- Yeah .
- Okay .
- And I think that the plastic cover is not very good uh idea because
- Okay .
- you open it , it can break , you ca you can do various things . Uh you just need to put the channel numbers somewhere a bit out of the way .
- Okay . S
- Okay . Will be down or Okay .
- So that they're separate a bit , yeah . Uh and it's easy to press the other the big buttons , but uh , it's not that difficult to press the the channel buttons either .
- Mm . Yeah , I think that if you put the cover it will be even more difficult for the user .
- Okay .
- Alright , you won't yeah .
  Okay , I can go ?
  Can I ?
  Yeah .
@@ -226,86 +199,6 @@
  Before ?
  Yeah .
  Yeah .
- Yeah .
- I think it's innovative to use the mm the wheel because I think no one else has . Has it ?
- Yeah .
- Yeah that's why Yeah that's why I think we have to keep that if it's possible .
- Yeah . I think it's it makes it both easy and both innos innovative . So I think it's a good aspect and it should be kept .
- Mm-hmm .
- Innovative . Mm .
- How do we make it look cool is the question .
- Cool , fancy ?
- Yeah .
- We have to make it l look like a fruit or vegetable .
- Yeah . Mm .
- Maybe uh um a colour that remember some fruit uh , things like that .
- What about um
- Oh , colour , yeah .
- Well the obvious thing is a banana , I guess .
- Oh i i
- Maybe yeah .
- I thought about a a pear , for example . You know the pear , is like that and it's it's easy to to have in in hand and uh
- Yeah , and it's ergonomic as well .
- Yeah .
- A pear .
- The banana is also ergonomic .
- Yeah . Maybe pear yeah or something like that .
- Or a fruit like that . I dunno .
- Yeah . We can discuss that uh . D D Is is there anything you want to add ?
- Is there any fruit that is spongy ?
- I don't think so . I think we we can have like yeah a pear is good , fit well , or banana as you told .
- Yeah .
- And for maybe look and feel , what about a a piece of ice ,
- Something like that .
- with blue L_E_D_ inside ?
- But that's not in the trend . . The trend is spongy , and vegetable fruits .
- You can make it um
- Yeah .
- Yeah .
- It's not hard , the metal .
- Yeah .
- I think p spongy is good because it it will be robust as well .
- Plastic .
- Yep .
- So , I think we can keep the wheel
- because it's uh easy , it's innovative , even if the cost is a bit higher , and we also have to find a , so , a fruit like pear or banana wit uh any others idea you have .
- Yeah .
- What kind of fr fruit would you like to to control your T_V_ with ?
- Mm .
- Odi
- Banana I think , it's a nice idea .
- Banana is also yellow so you you can't lost your remote control then .
- Because
- But
- Yeah .
- Yeah .
- You y you don't use the banana when the banana is curving like that , but when the banana is curving like that , with the wheel on the top and to control , and here you have a a push button to
- Two of the button , yeah .
- Yeah .
- Yeah .
- But you don't have
- I think it's a good idea , yeah .
- Yeah so you can just have uh just have this curve , yeah , and you move uh your hand here to press the buttons and then you move uh on the other side . So you can have it on on two sides and it'll be cool , no ?
- Yeah .
- Yeah .
- Yeah . I think it's a good design and it's innovative as well then . Maybe we can keep the banana . And it will be very easy to find .
- You can put also vibrator inside .
- And everybody knows what is a banana . Basically . If you if you start with uh fancy fruits and fra s and tha
- Yeah .
- Ah-ha . You can also take into account the fact that the banana fits with the colour scheme of our company . Yeah .
- Oh , yeah
- Yeah .
- Yeah it's really uh really a good point .
- I hope the students of management die , but anyway .
- Now who are recording this meeting ?
- I think it
-**********
- And there is a fashion watchers in Paris and Milan that have detected the following trends , uh fruits and vegetables will be the most important theme for clothes , shoes , and furnitures .
- So , maybe if our remote control have to be a fruit form or vegetable form something like that , or
- Okay .
- I support an apple .
- And the mm the material is expected to be spongy .
- Uh I don't know which material can be spongy , and if you
  Yeah .
  I think it's innovative to use the mm the wheel because I think no one else has . Has it ?
  Yeah .

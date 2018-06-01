@@ -111,65 +111,6 @@
  Okay .
  Now now .
 **********
- we implemented the basic functions , which is just T_V_ functions plus the locator , which was one of the marketing things , cradle , scroll wheel for uh the the channels , and uh we implemented the f the the way of putting the new and revolutionary zapping , your favourite channels functionality , in the scroll .
- Zapping your favourite channels , eh ?
- Yeah .
- Scrolling through your favourites list .
- Oh okay okay .
- Zapping you know zapping .
- Ah 'kay okay , that's favourites .
- Maybe it's just a Portuguese thing . And um yeah that was the result .
- Ah 'kay . I like the the the the logo on there as well .
- It's very prominent .
- It is very prominent . So this is the
- So here I'll give you the so this is the cradle unit , and this is the actual remote itself . Um so the scroll bar is or the scroll wheel is this this green little scrolly guy here , um and then the volume controls are here and here . Uh you've got the keypad which is the numbers uh f from zero to nine and then ten . This is the power button . Uh we have our um we have the enter button and uh what was the other button here ?
- Okay .
- This is the teletext .
- Start s the the start uh to to to programme yeah .
- The programme button , yeah the programme button . So this bl this button will be used both for the favourites and for programming your uh the um the type of television you wanna use . So um the plastic is the white area of this of the model here , and the red area is like a rubber covering . So you can see that when it lays like this or like this and the buttons are all gonna be rubber , so it's pretty hard to actually damage it um
- Ah , okay I see .
- It's pretty cool .
- Is that could that be easy to for the scroll wheel to be rotated if it lands on it ?
- Yeah that might be a possible
- a mi uh possible problem , but if you drop it yeah .
- Not helping .
- Oh well I guess it depends on the stiffness a little of it .
- Yeah and it depends on if it's sliding , but I think it's pretty ergonomic . You can feel it .
- Mm . Feels good . I take it that this is gonna be slightly lighter in the final design as well .
- Yeah of course . Well this is clay .
- Yeah it's kinda cool . You have to reach a little bit don't you .
- Yeah the the power button is a bit of a reach , but I think we might scale down the final model a bit . These this is a bit larger than it would be , but
- Ah yeah that wouldn't make sense .
- It's cool . I'm impressed .
- Don't have no one to handle that .
- Mm that's oh that's oh I like it . I mean you guys gave me more than I was asking for , so I'm happy because we've got some really marketable features in this .
- And hold it so wh what's the marketing perspective ?
- Yeah I think it's good . Good good good job .
- Mm Pedro can demonstrate the the paging ability .
- Yeah .
- So you ha you have like the the base station with um the little button for the where's my remote .
- Beep beep beep .
- Uh pla
- The locator function .
- I'm ha
- Okay .
- It's great . That's great . It's a great feature .
- Um beep beep beep so beep beep beep beep beep beep be shut up . Beep beep beep okay . Um no no no tha that's alri
- Mm it's impressing . So let me get it , if I press this button
- Wicked isn't it ?
- I see . That's pretty cool . Hang on .
- So you can take this ho take this home with you tonight and you can push that and he'll be across town
- I plan to do that as well . So the the two blue are are those for the the it to charge off of in ?
- Ah okay okay .
- Exactly that's exactly what those are for .
- And um there's one other feature that we were debating , but we decided to go against it , is um you could beep beep beep we were thinking that it might be interesting to have a trigger button here because you have this finger it it's it kinda feels like there should be something there , but we couldn't figure out what button is important enough to put there . And we we don't wanna accidentally be hitting the power button like that so
- Yeah it's the right shape isn't it ?
- But maybe if you had a trigger plus the scroll then that would get past the the problem of it landing and scrolling , 'cause then it would need to be hit on both sides .
- Mm .
- Right .
- So maybe in a final design phase we might tweak that a little bit , but
- Okay .
- Uh , I can see that .
  So you're not gonna find my uh my folder up there I gotta do mine up at the board .
  Have you ? Okay .
  Yeah yeah .
